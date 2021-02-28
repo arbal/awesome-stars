@@ -125,6 +125,10 @@
 
 ## C 
 
+- [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+- [sickill/stderred](https://github.com/sickill/stderred) - stderr in red
+- [nfultz/hilite](https://github.com/nfultz/hilite) - mirror from sourceforge
+- [justanhduc/task-spooler](https://github.com/justanhduc/task-spooler) - A SLURM alternative/job scheduler for a single simulation machine
 - [Celtoys/Remotery](https://github.com/Celtoys/Remotery) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [getdnsapi/getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
@@ -1691,6 +1695,7 @@
 
 ## Groovy 
 
+- [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [brendonanderson/wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [8x8Cloud/swagger2raml](https://github.com/8x8Cloud/swagger2raml) - A utility to generate RAML documentation from Swagger JSON
@@ -1949,6 +1954,7 @@
 
 ## JavaScript 
 
+- [edf-hpc/slurm-web](https://github.com/edf-hpc/slurm-web) - Slurm HPC workload manager web JS dashboard and JSON REST API
 - [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -2874,6 +2880,7 @@
 
 ## OCaml 
 
+- [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A tool for structural code search and replace that supports ~every language.
 - [issuu/sure-deploy](https://github.com/issuu/sure-deploy) - What `docker stack deploy` should actually have been
 - [facebookarchive/pfff](https://github.com/facebookarchive/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
@@ -3451,7 +3458,7 @@
 - [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
 - [librenms/librenms-agent](https://github.com/librenms/librenms-agent) - LibreNMS Agent & Scripts
 - [mpdroog/github_mirror_gitea](https://github.com/mpdroog/github_mirror_gitea) - Sync GitHub to Gitea
-- [respawner/looking-glass](https://github.com/respawner/looking-glass) - Easy to deploy Looking Glass
+- [gmazoyer/looking-glass](https://github.com/gmazoyer/looking-glass) - Easy to deploy Looking Glass
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [E96/swagger2slate](https://github.com/E96/swagger2slate) - Convert swagger api documentation (http://swagger.io) to slate static html page (https://github.com/tripit/slate)
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
@@ -3590,6 +3597,10 @@
 
 ## Python 
 
+- [intrackeable/Deep-Inside](https://github.com/intrackeable/Deep-Inside) - Command line tool that allows you to explore IoT devices by using Shodan search engine.
+- [elasticluster/elasticluster](https://github.com/elasticluster/elasticluster) - Create clusters of VMs on the cloud and configure them with Ansible.
+- [facebookincubator/submitit](https://github.com/facebookincubator/submitit) - Python 3.6+ toolbox for submitting jobs to Slurm
+- [DataBiosphere/toil](https://github.com/DataBiosphere/toil) - A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.
 - [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [ivanvza/arpy](https://github.com/ivanvza/arpy) - Mac OSX ARP spoof (MiTM) tool that can also plug into Gource
 - [madereddy/noisy](https://github.com/madereddy/noisy) - Simple random DNS, HTTP/S internet traffic noise generator in a Docker container
