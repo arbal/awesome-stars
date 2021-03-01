@@ -824,6 +824,8 @@
 
 ## Go 
 
+- [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
+- [shadowscatcher/shodan](https://github.com/shadowscatcher/shodan) - yet another Shodan.io client
 - [malfunkt/arpfox](https://github.com/malfunkt/arpfox) - An arpspoof alternative (written in Go) that injects spoofed ARP packets into a LAN.
 - [malfunkt/hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS MITM proxy and recorder.
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
@@ -1954,6 +1956,11 @@
 
 ## JavaScript 
 
+- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+- [e2e-boilerplate/playwright-es-modules-babel-jest-expect](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect) - Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Expect.
+- [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
+- [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
+- [homebridge-plugins/homebridge-roomba2](https://github.com/homebridge-plugins/homebridge-roomba2) - Homebridge plugin to connect iRobot Roomba devices with Homebridge/HomeKit.
 - [edf-hpc/slurm-web](https://github.com/edf-hpc/slurm-web) - Slurm HPC workload manager web JS dashboard and JSON REST API
 - [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
@@ -2938,6 +2945,7 @@
 
 ## Others 
 
+- [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
 - [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 - [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
@@ -3597,6 +3605,9 @@
 
 ## Python 
 
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis.
+- [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
+- [PyDann/TinyBridge](https://github.com/PyDann/TinyBridge) - Homebridge CLI Manager
 - [intrackeable/Deep-Inside](https://github.com/intrackeable/Deep-Inside) - Command line tool that allows you to explore IoT devices by using Shodan search engine.
 - [elasticluster/elasticluster](https://github.com/elasticluster/elasticluster) - Create clusters of VMs on the cloud and configure them with Ansible.
 - [facebookincubator/submitit](https://github.com/facebookincubator/submitit) - Python 3.6+ toolbox for submitting jobs to Slurm
@@ -4512,7 +4523,7 @@
 - [adl1995/trip-planner](https://github.com/adl1995/trip-planner) - A CLI tool for planning trip itinerary.
 - [philshem/gmaps_popular_times_scraper](https://github.com/philshem/gmaps_popular_times_scraper) - Scraper for Google Maps "Popular Times" for place entries
 - [xyou365/AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [rsnodgrass/hass-sensorpush](https://github.com/rsnodgrass/hass-sensorpush) - SensorPush integration for Home Assistant
 - [ziotom78/plot_joblog](https://github.com/ziotom78/plot_joblog) - Command-line utility to display the execution time of jobs run by GNU parallel
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
@@ -4909,6 +4920,7 @@
 
 ## Rust 
 
+- [femiagbabiaka/shodan-rust](https://github.com/femiagbabiaka/shodan-rust) - rusty shodan
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [aahancoc/tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
@@ -5773,6 +5785,10 @@
 
 ## TypeScript 
 
+- [testimio/root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
+- [itavero/homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
+- [Brandawg93/homebridge-nest-cam](https://github.com/Brandawg93/homebridge-nest-cam) - View your Nest cams in HomeKit using Homebridge.
+- [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :rocket: GitHub action for deploying a project to GitHub pages.
 - [teambit/bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
