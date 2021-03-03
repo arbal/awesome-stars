@@ -324,7 +324,6 @@
 - [ChrisJohnsen/tmux-MacOSX-pasteboard](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [trailofbits/osquery-extensions](https://github.com/trailofbits/osquery-extensions) - osquery extensions by Trail of Bits
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [six-ddc/hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [catalinii/minisatip](https://github.com/catalinii/minisatip) - minisatip is an SATIP server for linux using local DVB-S2, DVB-C, DVB-T or ATSC cards
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -694,6 +693,7 @@
 
 ## Dockerfile 
 
+- [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [andyshinn/docker-dnsmasq](https://github.com/andyshinn/docker-dnsmasq) - My dnsmasq brings all the boys to the yard, and they're like, it's smaller than yours!
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker(🤏 10MB) image as 🧅 Tor SOCKS5 proxy 🛡
 - [sqawasmi/trafficserver-docker](https://github.com/sqawasmi/trafficserver-docker) - Docker build for Apache TrafficServer
@@ -825,6 +825,9 @@
 
 ## Go 
 
+- [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
+- [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [mdbraber/acmeproxy](https://github.com/mdbraber/acmeproxy) - Proxy server for ACME DNS challenges written in Go
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
 - [shadowscatcher/shodan](https://github.com/shadowscatcher/shodan) - yet another Shodan.io client
@@ -1177,7 +1180,7 @@
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [suyashkumar/getbin](https://github.com/suyashkumar/getbin) - 💻 Easily fetch latest GitHub release binaries (for your OS/arch) using just wget or curl
-- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - Production grade, end-to-end vision AI platform with fully integrated modules for model building, automated labeling, data processing, model training and hyperparameter tuning.
+- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open and extensible integrated development environment (IDE) for computer vision with fully integrated modules for model building, automated labeling, data processing, model training, hyperparameter tuning and workflow orchestration.
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [mhristof/paste](https://github.com/mhristof/paste) - An alfred workflow to transform your clipboard
@@ -1718,6 +1721,7 @@
 
 ## HTML 
 
+- [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Automatically generate Google Cloud Platform support for OSS IaaC Projects
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
@@ -1751,7 +1755,6 @@
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
-- [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [papanito/ansible-role-cloudflared](https://github.com/papanito/ansible-role-cloudflared) - This ansible role does download and install cloudflared on the host and optionally installs the argo-tunnel as a service.
 - [fitbeard/awx-ha-cluster](https://github.com/fitbeard/awx-ha-cluster) - AWX clustering on Docker standalone installation
 - [prometheus/demo-site](https://github.com/prometheus/demo-site) - Demo site auto-deployed with Ansible and Travis CI.
@@ -1958,6 +1961,7 @@
 
 ## JavaScript 
 
+- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [e2e-boilerplate/playwright-es-modules-babel-jest-expect](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect) - Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Expect.
 - [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
@@ -2052,7 +2056,7 @@
 - [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
 - [fwextensions/QuicKey](https://github.com/fwextensions/QuicKey) - Jump between recent tabs in Chrome via keyboard shortcuts or a most recently used (MRU) menu.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
 - [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.
 - [arbal/brave-control](https://github.com/arbal/brave-control) - Control Brave Browser from the command line. List, close, deduplicate and bring focus to open tabs. Also includes Alfred workflow integration.
 - [veniversum/git-visualizer](https://github.com/veniversum/git-visualizer) - 👁‍🗨:octocat:Visualizes directory structure of GitHub repos
@@ -2524,6 +2528,7 @@
 - [bikenik/alfred-youtube-bookmarks](https://github.com/bikenik/alfred-youtube-bookmarks) - quick search youtube playlist, creating video-bookmarks with tags
 - [fallroot/copy-url-for-alfred](https://github.com/fallroot/copy-url-for-alfred) - You can copy browser's URL and title with various formats like markdown, anchor tag and your own.
 - [amondnet/now-deployment](https://github.com/amondnet/now-deployment) - This action make a deployment with github actions instead of ZEIT Now builder.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
 - [dylanlrrb/Please-Contain-Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - A Docker tutorial written for people who don't actually know Docker already.
@@ -2873,6 +2878,7 @@
 
 ## Mustache 
 
+- [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [inlets/inlets-pro](https://github.com/inlets/inlets-pro) - Secure TCP and HTTP tunnels that work anywhere
 - [influxdata/helm-charts](https://github.com/influxdata/helm-charts) - Official Helm Chart Repository for InfluxData Applications
 - [bitnami/charts](https://github.com/bitnami/charts) - Helm Charts
@@ -2936,6 +2942,7 @@
 
 ## Objective-C++ 
 
+- [kmgrant/macterm](https://github.com/kmgrant/macterm) - Terminal emulator for macOS with 24-bit color, bitmap and vector graphics.
 - [mapbox/mapbox-gl-native-ios](https://github.com/mapbox/mapbox-gl-native-ios) - Interactive, thoroughly customizable maps for iOS powered by vector tiles and OpenGL
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 
@@ -2947,6 +2954,9 @@
 
 ## Others 
 
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
+- [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
@@ -3078,7 +3088,7 @@
 - [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
 - [peterlamar/networking-examples](https://github.com/peterlamar/networking-examples) - Collection of networking tool examples for ordinary developers
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
-- [N-l1/lovelace-soft-ui](https://github.com/N-l1/lovelace-soft-ui) - 💫 Simple and clean Lovelace configuration
+- [ilzq/lovelace-soft-ui](https://github.com/ilzq/lovelace-soft-ui) - 💫 Simple and clean Lovelace configuration
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [jitsi/jitsi-meet-release-notes](https://github.com/jitsi/jitsi-meet-release-notes) - Release notes for Jitsi Meet: the web frontend, mobile apps and mobile SDKs
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
@@ -3544,6 +3554,7 @@
 
 ## Perl 
 
+- [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [DrLex0/FFCP-GCodeSnippets](https://github.com/DrLex0/FFCP-GCodeSnippets) - G-Code and scripts for using the FlashForge Creator Pro with PrusaSlicer (Slic3r)
 - [leto/wack](https://github.com/leto/wack) - ack for wallet.dat's
 - [waldner/croncal](https://github.com/waldner/croncal) - Utility to convert a crontab file to a list of actual events within a date range.
@@ -3608,6 +3619,10 @@
 
 ## Python 
 
+- [rand-net/khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
+- [nateGeorge/slurm_gpu_ubuntu](https://github.com/nateGeorge/slurm_gpu_ubuntu) - Instructions for setting up a SLURM cluster using Ubuntu 18.04.3 with GPUs.
 - [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis.
 - [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 - [PyDann/TinyBridge](https://github.com/PyDann/TinyBridge) - Homebridge CLI Manager
@@ -3641,7 +3656,7 @@
 - [jay0lee/GAM](https://github.com/jay0lee/GAM) - command line management for Google Workspace
 - [acetheultimate/linkedin-Scrapper](https://github.com/acetheultimate/linkedin-Scrapper) - To get the data out of linkedin contacts and save it in a more comfortable and offline way. (Excel or TXT)
 - [Mrnt/OctoPrint-FlashForge](https://github.com/Mrnt/OctoPrint-FlashForge) - OctoPrint plugin to support closed source printers from FlashForge, PowerSpec, Dremel
-- [sangonzal/repository-traffic-action](https://github.com/sangonzal/repository-traffic-action) - GitHub action to save insights past the default 2 week period
+- [sangonzal/repository-traffic-action](https://github.com/sangonzal/repository-traffic-action) - GitHub action to save GitHub repository insights past the default 2 week period
 - [IBM-Cloud/github-traffic-stats](https://github.com/IBM-Cloud/github-traffic-stats) - Manage and automatically collect Github traffic statistics for repositories
 - [nchah/github-traffic-stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
 - [wisepythagoras/website-fingerprinting](https://github.com/wisepythagoras/website-fingerprinting) - Deanonymizing Tor or VPN users with website fingerprinting and machine learning.
@@ -5073,6 +5088,9 @@
 
 ## Shell 
 
+- [toniblyx/prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf and more than 100 additional checks that help on GDPR, HIPAA and other security requirements.
+- [Whonix/Whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP. https://www.whonix.org
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [zaherg/letsencrypt-for-local-development](https://github.com/zaherg/letsencrypt-for-local-development) - Docker Compose + Traefik TLS Proxy + Let's encrypt Wildcard Cert
 - [europa502/shARP](https://github.com/europa502/shARP) - An anti-ARP-spoofing application software that use active and passive scanning methods to detect and remove any ARP-spoofer from the network.
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
@@ -5790,6 +5808,7 @@
 
 ## TypeScript 
 
+- [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [testimio/root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
 - [itavero/homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
 - [Brandawg93/homebridge-nest-cam](https://github.com/Brandawg93/homebridge-nest-cam) - View your Nest cams in HomeKit using Homebridge.
