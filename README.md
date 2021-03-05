@@ -273,7 +273,7 @@
 - [ndenev/mpssh](https://github.com/ndenev/mpssh) - Mass Parallel SSH
 - [OpenPrinting/cups-filters](https://github.com/OpenPrinting/cups-filters) - filters, backends, cups-browsed, ... - Everything which CUPS needs to be used on non-Mac systems
 - [michaelrsweet/pappl](https://github.com/michaelrsweet/pappl) - PAPPL - Printer Application Framework
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [NLnetLabs/nsd](https://github.com/NLnetLabs/nsd) - The NLnet Labs Name Server Daemon (NSD) is an authoritative, RFC compliant DNS nameserver.
 - [filebench/filebench](https://github.com/filebench/filebench) - File system and storage benchmark that uses a custom language to generate a large variety of workloads.
 - [NVIDIA/nvidia-persistenced](https://github.com/NVIDIA/nvidia-persistenced) - NVIDIA driver persistence daemon
@@ -473,6 +473,7 @@
 
 ## C++ 
 
+- [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files on macOS Catalina and Big Sur.
 - [cnr-isti-vclab/PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
@@ -629,6 +630,7 @@
 
 ## CSS 
 
+- [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [deajan/traceroute_history](https://github.com/deajan/traceroute_history) - Keep traceroute histroy, make diffs. Use as standalone / smokeping companion
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [sudo-bmitch/presentations](https://github.com/sudo-bmitch/presentations) - Presentations from Brandon Mitchell
@@ -825,6 +827,7 @@
 
 ## Go 
 
+- [adityaxdiwakar/macro-ctl](https://github.com/adityaxdiwakar/macro-ctl) - macro-ctl is a control center system to allow for interaction between a client computer and a Google Home
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
@@ -998,7 +1001,7 @@
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [mehrdadrad/tcpprobe](https://github.com/mehrdadrad/tcpprobe) - Modern TCP tool and service for network performance observability.
 - [projectdiscovery/dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
-- [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
+- [linx-server/linx-server](https://github.com/linx-server/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
 - [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -1100,7 +1103,7 @@
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative streaming ETL for mundane tasks, written in Go
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and ETL, written in Go
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [heistp/irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
@@ -1967,6 +1970,10 @@
 
 ## JavaScript 
 
+- [mafintosh/multicast-dns](https://github.com/mafintosh/multicast-dns) - Low level multicast-dns implementation in pure javascript
+- [kmyk/google-home-say](https://github.com/kmyk/google-home-say) - Get Google Home to say something
+- [kubowania/Google-Home-Chatbot](https://github.com/kubowania/Google-Home-Chatbot) - Voice and Chatbot for Google Home
+- [noelportugal/google-home-notifier](https://github.com/noelportugal/google-home-notifier) - Send notifications to Google Home
 - [xxczaki/speedo-cli](https://github.com/xxczaki/speedo-cli) - ⌚️ Internet speed report in your terminal!
 - [branchard/fast-speedtest-api](https://github.com/branchard/fast-speedtest-api) - fast.com API / CLI tool
 - [roest01/docker-speedtest-analyser](https://github.com/roest01/docker-speedtest-analyser) - Automated docker speedtest analyser tool with included web interface to monitor your internet speed connection over time. Setup at home on your NAS (Synology, QNAP tested) and the container runs hourly speedtests. The speedtest results are displayed in an webinterface as line graph(s) over the day.
@@ -2170,7 +2177,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - Signal Protocol library for JavaScript
@@ -3631,6 +3638,8 @@
 
 ## Python 
 
+- [harperreed/google-home-notifier-python](https://github.com/harperreed/google-home-notifier-python) - A google home notification webservice
+- [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [POSTECH-CVLab/PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
@@ -4358,7 +4367,7 @@
 - [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
 - [asmirnou/watsor](https://github.com/asmirnou/watsor) - Object detection for video surveillance
 - [google-coral/examples-camera](https://github.com/google-coral/examples-camera) - Small code snippets that show how to stream camera images to a Coral device.
-- [balena-io-examples/coral-streaming-object-detector](https://github.com/balena-io-examples/coral-streaming-object-detector) - 
+- [balena-io-examples/coral-streaming-object-detector](https://github.com/balena-io-examples/coral-streaming-object-detector) - This example will help you deploy a streaming camera feed with realtime people detection using the Coral Edge TPU for on-device ML inferencing.
 - [leigh-johnson/rpi-deep-pantilt](https://github.com/leigh-johnson/rpi-deep-pantilt) - Object tracking tutorial using TensorFlow / TensorFlow Lite, Raspberry Pi, Pi Camera, and a Pimoroni Pan-Tilt Hat.
 - [NobuoTsukamoto/edge_tpu](https://github.com/NobuoTsukamoto/edge_tpu) - TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).
 - [goruck/radar-ml](https://github.com/goruck/radar-ml) - Detect (classify and localize) people, pets and objects using millimeter-wave radar.
@@ -5105,6 +5114,8 @@
 
 ## Shell 
 
+- [syscl/Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX) - Enable HiDPI on OS X
+- [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [aristocratos/spdtest.sh](https://github.com/aristocratos/spdtest.sh) - Internet speed reability tester
 - [rsvp/speedtest-linux](https://github.com/rsvp/speedtest-linux) - Get download/upload speeds via speedtest.net or fast.com from command line using Bash script -- suitable for logs. POSIX OSX Linux
 - [n-st/nench](https://github.com/n-st/nench) - VPS benchmark script — based on the popular bench.sh, plus CPU and ioping tests, and dual-stack IPv4 and v6 speedtests by default
