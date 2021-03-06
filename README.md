@@ -19,6 +19,7 @@
   - [Clojure](#clojure)
   - [CodeQL](#codeql)
   - [CoffeeScript](#coffeescript)
+  - [Common Lisp](#common-lisp)
   - [Crystal](#crystal)
   - [D](#d)
   - [Dart](#dart)
@@ -125,6 +126,7 @@
 
 ## C 
 
+- [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [facebookarchive/flashcache](https://github.com/facebookarchive/flashcache) - A general purpose, write-back block cache for Linux.
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [sickill/stderred](https://github.com/sickill/stderred) - stderr in red
@@ -473,6 +475,10 @@
 
 ## C++ 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [xmrig/xmrig-cuda](https://github.com/xmrig/xmrig-cuda) - NVIDIA CUDA plugin for XMRig miner
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
+- [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files on macOS Catalina and Big Sur.
@@ -650,6 +656,7 @@
 
 ## Clojure 
 
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
@@ -676,6 +683,10 @@
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
 - [home-assistant/hubot-home-assistant](https://github.com/home-assistant/hubot-home-assistant) - :speech_balloon: Hubot module for interacting with Home Assistant via chat
 - [cybertk/abao](https://github.com/cybertk/abao) - REST API automated testing tool based on RAML
+
+## Common Lisp 
+
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
 
 ## Crystal 
 
@@ -788,6 +799,7 @@
 
 ## Elixir 
 
+- [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [kevinastone/requestbox](https://github.com/kevinastone/requestbox) - HTTP Request Logger Similar to RequestBin written in Elixir+Phoenix
 - [fredwu/crawler](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
@@ -827,6 +839,14 @@
 
 ## Go 
 
+- [raphaelreyna/oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
+- [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+- [schweikert/fping-exporter](https://github.com/schweikert/fping-exporter) - prometheus exporter to measure network latency
+- [moov-io/ach](https://github.com/moov-io/ach) - ACH implements a reader, writer, and validator for Automated Clearing House (ACH) files. The HTTP server is available in a Docker image and the Go package is available.
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
+- [distribyted/distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
+- [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
+- [eschizoid/flixctl](https://github.com/eschizoid/flixctl) - A toolkit for controlling the infrastructure necessary for a true MaSaS (Movies and Shows as a Service) architecture.
 - [adityaxdiwakar/macro-ctl](https://github.com/adityaxdiwakar/macro-ctl) - macro-ctl is a control center system to allow for interaction between a client computer and a Google Home
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
@@ -1663,7 +1683,7 @@
 - [davidnewhall/motifini](https://github.com/davidnewhall/motifini) - Events-driven, notification subscription system, with SecuritySpy and iMessage integration.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [schollz/find3-cli-scanner](https://github.com/schollz/find3-cli-scanner) - The command-line scanner that supports Bluetooth and WiFi
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -1970,6 +1990,14 @@
 
 ## JavaScript 
 
+- [coreybutler/fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
+- [cloudkj/scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
+- [codeskyblue/gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue
+- [anseki/readline-sync](https://github.com/anseki/readline-sync) - Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
+- [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - An immutable JavaScript library to create, calculate and format money.
+- [asapach/peerflix-server](https://github.com/asapach/peerflix-server) - Streaming torrent client for Node.js with web ui.
 - [mafintosh/multicast-dns](https://github.com/mafintosh/multicast-dns) - Low level multicast-dns implementation in pure javascript
 - [kmyk/google-home-say](https://github.com/kmyk/google-home-say) - Get Google Home to say something
 - [kubowania/Google-Home-Chatbot](https://github.com/kubowania/Google-Home-Chatbot) - Voice and Chatbot for Google Home
@@ -2764,6 +2792,7 @@
 
 ## Jupyter Notebook 
 
+- [datadesk/cpi](https://github.com/datadesk/cpi) - Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [KuntalP/10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
@@ -2972,6 +3001,10 @@
 
 ## Others 
 
+- [m4ll0k/Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
+- [imbaniac/awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥
+- [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
+- [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
@@ -3465,6 +3498,7 @@
 
 ## PHP 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [doctrine/event-manager](https://github.com/doctrine/event-manager) - The Doctrine Event Manager is a library that provides a simple event system.
@@ -3568,11 +3602,13 @@
 
 ## Pascal 
 
+- [rejetto/hfs2](https://github.com/rejetto/hfs2) - web based file server
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
 - [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 
 ## Perl 
 
+- [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [DrLex0/FFCP-GCodeSnippets](https://github.com/DrLex0/FFCP-GCodeSnippets) - G-Code and scripts for using the FlashForge Creator Pro with PrusaSlicer (Slic3r)
 - [leto/wack](https://github.com/leto/wack) - ack for wallet.dat's
@@ -3638,6 +3674,10 @@
 
 ## Python 
 
+- [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [goberoi/faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
+- [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
+- [nzblnk/nzb-monkey](https://github.com/nzblnk/nzb-monkey) - Reference implementation of how to handle a NZBLNK-URI.
 - [harperreed/google-home-notifier-python](https://github.com/harperreed/google-home-notifier-python) - A google home notification webservice
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
@@ -4848,6 +4888,8 @@
 
 ## Ruby 
 
+- [phildini/stayinghomeclub](https://github.com/phildini/stayinghomeclub) - A list of all the companies WFH or events changed because of covid-19
+- [piotrmurach/tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [librespeed/homebrew-tap](https://github.com/librespeed/homebrew-tap) - Homebrew Tap for LibreSpeed
 - [unrelentingtech/freshcerts](https://github.com/unrelentingtech/freshcerts) - ACME certificate protocol (Let's Encrypt) proxy client with a dashboard and monitoring
 - [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers) - Keep your Selenium WebDrivers updated automatically
@@ -4965,6 +5007,7 @@
 
 ## Rust 
 
+- [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [femiagbabiaka/shodan-rust](https://github.com/femiagbabiaka/shodan-rust) - rusty shodan
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [aahancoc/tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
@@ -5114,6 +5157,14 @@
 
 ## Shell 
 
+- [nagadit/DeepFaceLab_Linux](https://github.com/nagadit/DeepFaceLab_Linux) - DeepFaceLab is the leading software for creating deepfakes.
+- [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
+- [honzahommer/prips.sh](https://github.com/honzahommer/prips.sh) - Print the IP addresses in a given range
+- [woniuzfb/cloudflare-fping](https://github.com/woniuzfb/cloudflare-fping) - ping all cloudflare ips to find the best ip. 一键自选 cloudflare 最优 IP 并测速
+- [carlospolop/bashReconScan](https://github.com/carlospolop/bashReconScan) - Bash Recon Scan - Recon and Scan a network using Bash
+- [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
+- [Edu4rdSHL/tor-router](https://github.com/Edu4rdSHL/tor-router) - A tool that allow you to make TOR your default gateway and send all internet connections under TOR (as transparent proxy) for increase privacy/anonymity without extra unnecessary code.
+- [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
 - [syscl/Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX) - Enable HiDPI on OS X
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [aristocratos/spdtest.sh](https://github.com/aristocratos/spdtest.sh) - Internet speed reability tester
@@ -5217,7 +5268,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [issho-ni/concourse-buildkit](https://github.com/issho-ni/concourse-buildkit) - Use BuildKit to build OCI-compliant tarballs in Concourse
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
-- [morgant/tools-osx](https://github.com/morgant/tools-osx) - A small collection of command line tools for Mac OS X, incl.: clipcat, dict, eject, ql, swuser, trash & with.
+- [morgant/tools-osx](https://github.com/morgant/tools-osx) - A small collection of command line tools for Mac OS X, incl.: clipcat, dict, eject, launch, ql, swuser, trash & with.
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
 - [Spearfoot/scripts-for-using-rsync](https://github.com/Spearfoot/scripts-for-using-rsync) - Shell scripts for using rsync
@@ -5748,6 +5799,7 @@
 
 ## Swift 
 
+- [PopcornTimeTV/PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV) - Popcorn Time for Apple TV 4, iPhone and iPad
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [alexisakers/uti](https://github.com/alexisakers/uti) - CLI Tool for Interacting with File Type Identifiers on Mac
 - [ZekeSnider/Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
@@ -5840,6 +5892,7 @@
 
 ## TypeScript 
 
+- [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [testimio/root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
 - [itavero/homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
