@@ -337,7 +337,6 @@
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 - [audiohacked/OpenCorsairLink](https://github.com/audiohacked/OpenCorsairLink) - Linux and Mac OS support for the CorsairLink Devices
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [troglobit/sun](https://github.com/troglobit/sun) - Simple library and application that shows sunset and sunrise based on your latitude,longitude
 - [mywave82/lspci-ng](https://github.com/mywave82/lspci-ng) - lspci wrapper that also combines information about PCI port names nvidia-smi information, etc.
 - [NetworkManager/NetworkManager](https://github.com/NetworkManager/NetworkManager) - Read-only Mirror of the freedesktop.org repository. Please make pull requests against freedesktop.org.
@@ -840,6 +839,8 @@
 
 ## Go 
 
+- [heroku/urinception](https://github.com/heroku/urinception) - Data URIs over HTTP
+- [vincent-petithory/dataurl](https://github.com/vincent-petithory/dataurl) - Data URL Schemes in Golang
 - [raphaelreyna/oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [schweikert/fping-exporter](https://github.com/schweikert/fping-exporter) - prometheus exporter to measure network latency
@@ -1184,7 +1185,7 @@
 - [SCHKN/systemd-monitoring](https://github.com/SCHKN/systemd-monitoring) - a simple way to monitor systemd services using go, influxdb and chronograf
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed blob store and file system to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data warehouse, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [shuza/mqtt-cli](https://github.com/shuza/mqtt-cli) - A cli application written in Go to provide terminal interaction with EMQ
 - [golift/securityspy](https://github.com/golift/securityspy) - Full Featured Go Library for SecuritySpy
@@ -1888,6 +1889,7 @@
 
 ## Java 
 
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [bonigarcia/webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automated driver management for Selenium WebDriver
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -1991,6 +1993,7 @@
 
 ## JavaScript 
 
+- [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [coreybutler/fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
 - [cloudkj/scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 - [codeskyblue/gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue
@@ -2389,7 +2392,7 @@
 - [RoiArthurB/Side-Auto_Sci-Hub](https://github.com/RoiArthurB/Side-Auto_Sci-Hub) - Cross-Browser Plugin to open Sci-Hub 🗝 page with the article from your current tab
 - [gismo141/homebridge-server](https://github.com/gismo141/homebridge-server) - Server plugin for homebridge
 - [ebaauw/homebridge-ws](https://github.com/ebaauw/homebridge-ws) - Homebridege plugin for virtual weather station
-- [MiguelRipoll23/homebridge-securitysystem](https://github.com/MiguelRipoll23/homebridge-securitysystem) - Homebridge plugin that creates a security system accessory that can be triggered by HomeKit accessories.
+- [MiguelRipoll23/homebridge-securitysystem](https://github.com/MiguelRipoll23/homebridge-securitysystem) - Homebridge plugin that creates a security system accessory that can be triggered by HomeKit sensors.
 - [umesan/homebridge-roomba](https://github.com/umesan/homebridge-roomba) - Homebridge Plugin for Roomba980
 - [pponce/homebridge-script2](https://github.com/pponce/homebridge-script2) - Execute custom scripts via HomeKit apps
 - [sahilchaddha/homebridge-http-is-it-down](https://github.com/sahilchaddha/homebridge-http-is-it-down) - Homebridge Plugin to alert occupancy whenever Target goes down/up
@@ -2445,7 +2448,7 @@
 - [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [kutsan/reopen-cli](https://github.com/kutsan/reopen-cli) - Improvement over `open` utility for macOS and Chrome; open URLs in the browser but instead of creating new tabs every time, use existing ones by mutating them.
 - [transitive-bullshit/puppeteer-github-cli](https://github.com/transitive-bullshit/puppeteer-github-cli) - CLI for GitHub automation driven by headless chrome.
-- [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions for chromium based browsers.
+- [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [erkstruwe/chromecast-cli](https://github.com/erkstruwe/chromecast-cli) - Command line interface for Google Chromecast
 - [CondeNast/perf-timeline-cli](https://github.com/CondeNast/perf-timeline-cli) - Generate Chrome Performance Timelines via a command line interface
@@ -3001,6 +3004,8 @@
 
 ## Others 
 
+- [reiver/blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
+- [alphaSeclab/sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
 - [m4ll0k/Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
 - [imbaniac/awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
@@ -3608,6 +3613,7 @@
 
 ## Perl 
 
+- [sveinbjornt/DataURLToolkit](https://github.com/sveinbjornt/DataURLToolkit) - Various tools for working with Data URLs, incl. web application (http://dataurl.net), Mac OS X GUI app, command line tool, Perl modules and Apache module.
 - [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [DrLex0/FFCP-GCodeSnippets](https://github.com/DrLex0/FFCP-GCodeSnippets) - G-Code and scripts for using the FlashForge Creator Pro with PrusaSlicer (Slic3r)
@@ -3674,6 +3680,10 @@
 
 ## Python 
 
+- [facebookexperimental/doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
+- [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [SamOh/notes_export_tool](https://github.com/SamOh/notes_export_tool) - Tool to export apple notes
 - [hardillb/nginx-proxy-avahi-helper](https://github.com/hardillb/nginx-proxy-avahi-helper) - A container to generate matching mDNS CNAMEs for the virtual hosts used by jwilder/nginx-proxy
 - [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [goberoi/faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
@@ -4889,6 +4899,8 @@
 
 ## Ruby 
 
+- [plamoni/SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
+- [KrauseFx/notes-exporter](https://github.com/KrauseFx/notes-exporter) - Because GPDR exists for a reason, oh hi Apple
 - [phildini/stayinghomeclub](https://github.com/phildini/stayinghomeclub) - A list of all the companies WFH or events changed because of covid-19
 - [piotrmurach/tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [librespeed/homebrew-tap](https://github.com/librespeed/homebrew-tap) - Homebrew Tap for LibreSpeed
@@ -5407,7 +5419,7 @@
 - [corneliusweig/kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [ruslan-gennadievich/proxmox_forward_port](https://github.com/ruslan-gennadievich/proxmox_forward_port) - Bash script to auto port forward when create new CT in Proxmox
-- [osmanbedrettin/add-ranchernodes-on-proxmox](https://github.com/osmanbedrettin/add-ranchernodes-on-proxmox) - Simple Web UI to add Rancher nodes.
+- [ciddikedi/add-ranchernodes-on-proxmox](https://github.com/ciddikedi/add-ranchernodes-on-proxmox) - Simple Web UI to add Rancher nodes.
 - [in-famous-raccoon/proxmox-snmp](https://github.com/in-famous-raccoon/proxmox-snmp) - SNMP Scripts for Proxmox
 - [slitsevych/bash-misc](https://github.com/slitsevych/bash-misc) - Collection of bash scripts for different purposes
 - [TheRealAlexV/proxmox-vzbackup-rclone](https://github.com/TheRealAlexV/proxmox-vzbackup-rclone) - This is a vzbackup hook script that backups up your proxmox vm's, container's and pve config's to remote storage using proxmox's native vzbackup tool and rclone.
@@ -5693,6 +5705,7 @@
 - [naueramant/Audiblex](https://github.com/naueramant/Audiblex) - Audible audio book converter which actually works!
 - [ix-plugin-hub/iocage-plugin-index](https://github.com/ix-plugin-hub/iocage-plugin-index) - Community created JSON files for plugins.
 - [ouspg/cloudfuzzer](https://github.com/ouspg/cloudfuzzer) - 
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
 - [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [bashup/gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs
@@ -5894,6 +5907,7 @@
 
 ## TypeScript 
 
+- [influxdata/vsflux](https://github.com/influxdata/vsflux) - Flux language extension for VSCode
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [testimio/root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
