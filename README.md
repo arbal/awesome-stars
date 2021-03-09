@@ -7,7 +7,6 @@
 
   - [AppleScript](#applescript)
   - [Arduino](#arduino)
-  - [AutoHotkey](#autohotkey)
   - [AutoIt](#autoit)
   - [Awk](#awk)
   - [BitBake](#bitbake)
@@ -107,10 +106,6 @@
 ## Arduino 
 
 - [sirleech/Webduino](https://github.com/sirleech/Webduino) - Arduino WebServer library
-
-## AutoHotkey 
-
-- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 
 ## AutoIt 
 
@@ -662,7 +657,7 @@
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [metasoarous/oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [yetibot/yetibot](https://github.com/yetibot/yetibot) - 🤖 Extreme chatops bot for Slack and IRC 🔧 New contributors welcome 🏗
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -1121,7 +1116,7 @@
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [inlets/inletsctl](https://github.com/inlets/inletsctl) - The fastest way to create self-hosted exit-servers
-- [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
+- [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
@@ -1236,6 +1231,7 @@
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster) - Pinset orchestration for IPFS
+- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [mosuka/blast](https://github.com/mosuka/blast) - Blast is a full text search and indexing server, written in Go, built on top of Bleve.
 - [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
@@ -1817,6 +1813,7 @@
 - [iancleary/ansible-role-zsh_antibody](https://github.com/iancleary/ansible-role-zsh_antibody) - Ansible role to install ZSH, with the antibody plugin manager
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
+- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [guppy0130/ansible](https://github.com/guppy0130/ansible) - Speedy config time
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
@@ -2968,7 +2965,6 @@
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) - Add new abilities to the macOS keep-awake utility, Amphetamine.
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
-- [matryer/bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [trufae/Therm](https://github.com/trufae/Therm) - Therm is an iTerm2 fork that aims to have good defaults and minimum features
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
@@ -5443,7 +5439,7 @@
 - [samrocketman/docker-compose-ha-consul-vault-ui](https://github.com/samrocketman/docker-compose-ha-consul-vault-ui) - A docker-compose example of HA Consul + Vault + Vault UI
 - [testdrivenio/vault-consul-swarm](https://github.com/testdrivenio/vault-consul-swarm) - 
 - [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja
-- [matryer/bitbar-plugins](https://github.com/matryer/bitbar-plugins) - Plugin repository for BitBar
+- [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for BitBar
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [mivok/slack_status_updater](https://github.com/mivok/slack_status_updater) - A simple shell script to update your status in slack from the command line
 - [mikelxc/sidecar-alfredworkflow](https://github.com/mikelxc/sidecar-alfredworkflow) - An Alfred Workflow that toggles sidecar function
