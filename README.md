@@ -724,7 +724,6 @@
 - [QuantumObject/docker-xowa](https://github.com/QuantumObject/docker-xowa) - docker container for xowa (offline wikipedia)
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) - 
-- [Thom-x/docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of Fr24feed, FlightAware and Dump1090-fa.
 - [compujuckel/adsb-docker](https://github.com/compujuckel/adsb-docker) - dump1090-fa, piaware and fr24feed together with docker-compose
 - [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
 - [f4exb/sdrangel-docker](https://github.com/f4exb/sdrangel-docker) - Running SDRangel in a Docker container
@@ -834,6 +833,11 @@
 
 ## Go 
 
+- [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
+- [UKHomeOffice/repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [mastercactapus/caddy2-proxyprotocol](https://github.com/mastercactapus/caddy2-proxyprotocol) - 
+- [chukmunnlee/caddy-openapi](https://github.com/chukmunnlee/caddy-openapi) - A Caddy module to validate HTTP request and response against a OpenAPI spec (V3) file
+- [abiosoft/caddy-exec](https://github.com/abiosoft/caddy-exec) - Caddy v2 module for running one-off commands
 - [heroku/urinception](https://github.com/heroku/urinception) - Data URIs over HTTP
 - [vincent-petithory/dataurl](https://github.com/vincent-petithory/dataurl) - Data URL Schemes in Golang
 - [raphaelreyna/oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
@@ -2318,6 +2322,7 @@
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [watson/airplanejs](https://github.com/watson/airplanejs) - 📡 ✈️ App that picks up ADS-B radio signals from airplanes and plots them in real time on a map in your browser
+- [Thom-x/docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of Fr24feed, FlightAware and Dump1090-fa.
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
 - [Steve-xmh/scratch-script](https://github.com/Steve-xmh/scratch-script) - A toolchain to make scratch project using a special coding language without drag any thing.
@@ -2781,6 +2786,7 @@
 
 ## Jsonnet 
 
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
@@ -2924,6 +2930,7 @@
 
 ## Mustache 
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [inlets/inlets-pro](https://github.com/inlets/inlets-pro) - Secure TCP and HTTP tunnels that work anywhere
 - [influxdata/helm-charts](https://github.com/influxdata/helm-charts) - Official Helm Chart Repository for InfluxData Applications
@@ -3000,6 +3007,8 @@
 
 ## Others 
 
+- [lensapp/lens-extensions](https://github.com/lensapp/lens-extensions) - List of Lens Extensions
+- [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - A curated list of my GitHub stars!
 - [reiver/blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
 - [alphaSeclab/sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
 - [m4ll0k/Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
@@ -3676,6 +3685,9 @@
 
 ## Python 
 
+- [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+- [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
+- [thomas-krenn/TKperf](https://github.com/thomas-krenn/TKperf) - Performance test tool for SSDs, HDDs and RAID devices
 - [facebookexperimental/doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -3689,7 +3701,7 @@
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [POSTECH-CVLab/PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
-- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
+- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [DocSystem/tccutil](https://github.com/DocSystem/tccutil) - A macOS Permissions manager
 - [rand-net/khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -5166,6 +5178,7 @@
 
 ## Shell 
 
+- [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [chootka/subnodes](https://github.com/chootka/subnodes) - Subnodes is an open source project that configures your Raspberry Pi as a wireless AP, Node.js server, and BATMAN ADV mesh point.
 - [nagadit/DeepFaceLab_Linux](https://github.com/nagadit/DeepFaceLab_Linux) - DeepFaceLab is the leading software for creating deepfakes.
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
@@ -5903,6 +5916,7 @@
 
 ## TypeScript 
 
+- [nevalla/lens-resource-map-extension](https://github.com/nevalla/lens-resource-map-extension) - Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.
 - [influxdata/vsflux](https://github.com/influxdata/vsflux) - Flux language extension for VSCode
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
