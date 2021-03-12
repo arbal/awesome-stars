@@ -121,6 +121,8 @@
 
 ## C 
 
+- [olivierlevon/Bonjour](https://github.com/olivierlevon/Bonjour) - Yet another unofficial mDNSResponder mirror http://developer.apple.com/bonjour
+- [mjansson/mdns](https://github.com/mjansson/mdns) - Public domain mDNS/DNS-SD library in C
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - fast portable static native textmode containers
 - [DPDK/dpdk](https://github.com/DPDK/dpdk) - Data Plane Development Kit
 - [scaleway/natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
@@ -398,6 +400,7 @@
 
 ## C# # 
 
+- [richardschneider/net-mdns](https://github.com/richardschneider/net-mdns) - Simple multicast DNS
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [prometheus-net/tzsp_packetstream_exporter](https://github.com/prometheus-net/tzsp_packetstream_exporter) - Analyze a real-time IPv4 packet stream and export metrics about the data flows
@@ -474,7 +477,7 @@
 
 ## C++ 
 
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -664,7 +667,7 @@
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [metasoarous/oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-m1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Desktop app links: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
 - [yetibot/yetibot](https://github.com/yetibot/yetibot) - 🤖 Extreme chatops bot for Slack and IRC 🔧 New contributors welcome 🏗
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -840,6 +843,8 @@
 
 ## Go 
 
+- [brutella/dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go.
+- [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [RichardKnop/go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - A standalone, specification-compliant,  OAuth2 server written in Golang.
@@ -1063,7 +1068,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [rivo/tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
-- [heedy/heedy](https://github.com/heedy/heedy) - An Open-Source Platform for Quantified Self & IoT
+- [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
 - [AsynkronIT/protoactor-go](https://github.com/AsynkronIT/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [terorie/netdata-influx](https://github.com/terorie/netdata-influx) - Netdata to Influx exporter + Grafana dashboard template
@@ -4928,6 +4933,7 @@
 
 ## R 
 
+- [jeroen/askpass](https://github.com/jeroen/askpass) - Safe Password Entry for R, Git, and SSH
 - [ropensci/rorcid](https://github.com/ropensci/rorcid) - A programmatic interface the Orcid.org API
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
@@ -4980,6 +4986,7 @@
 
 ## Ruby 
 
+- [nextdns/homebrew-tap](https://github.com/nextdns/homebrew-tap) - 
 - [iridakos/duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
 - [plamoni/SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
 - [KrauseFx/notes-exporter](https://github.com/KrauseFx/notes-exporter) - Because GPDR exists for a reason, oh hi Apple
@@ -5102,6 +5109,7 @@
 
 ## Rust 
 
+- [AstroHQ/astro-dnssd](https://github.com/AstroHQ/astro-dnssd) - Simple Rust wrapper around DNS-SD
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -5166,7 +5174,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [Eonm/refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [timberio/vector](https://github.com/timberio/vector) - Ultra performant, highly reliable observability data pipeline.
+- [timberio/vector](https://github.com/timberio/vector) - High-performance, high-reliability observability data pipeline.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -5545,7 +5553,7 @@
 - [samrocketman/docker-compose-ha-consul-vault-ui](https://github.com/samrocketman/docker-compose-ha-consul-vault-ui) - A docker-compose example of HA Consul + Vault + Vault UI
 - [testdrivenio/vault-consul-swarm](https://github.com/testdrivenio/vault-consul-swarm) - 
 - [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja
-- [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for BitBar
+- [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [mivok/slack_status_updater](https://github.com/mivok/slack_status_updater) - A simple shell script to update your status in slack from the command line
 - [mikelxc/sidecar-alfredworkflow](https://github.com/mikelxc/sidecar-alfredworkflow) - An Alfred Workflow that toggles sidecar function
@@ -5736,7 +5744,7 @@
 - [adampie/pi-gen](https://github.com/adampie/pi-gen) - Automating the generation of Raspbian images for the Raspberry Pi using Ansible
 - [home-assistant/pi-gen](https://github.com/home-assistant/pi-gen) - Tool used to create the Hassbian images
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
-- [luigifcruz/pisdr-image](https://github.com/luigifcruz/pisdr-image) - 🥧 The SDR Linux Distro for the Raspberry Pi. Compatible out of the box with multiple SDR.
+- [luigifcruz/pisdr-image](https://github.com/luigifcruz/pisdr-image) - 🥧 The SDR Linux Distro for the Raspberry Pi and other SBC. Compatible out of the box with multiple SDR.
 - [stevejenkins/unifi-linux-utils](https://github.com/stevejenkins/unifi-linux-utils) - Helpful Linux / Unix scripts for admins of Ubiquiti (UBNT) UniFi wireless products
 - [sakaki-/gentoo-on-rpi-64bit](https://github.com/sakaki-/gentoo-on-rpi-64bit) - Bootable 64-bit Gentoo image for the Raspberry Pi4B,  3B & 3B+, with Linux 5.4, OpenRC, Xfce4, VC4/V3D, camera and h/w codec support, weekly-autobuild binhost
 - [piffall/PXESetupWizard](https://github.com/piffall/PXESetupWizard) - PXE Setup Wizard. Netboot Debian, Ubuntu, System Rescue CD, FreeDOS and more.
@@ -5916,6 +5924,7 @@
 
 ## Swift 
 
+- [lukas-zronek/ssh-askpass-mac](https://github.com/lukas-zronek/ssh-askpass-mac) - A macOS front-end of ssh-askpass with keychain support
 - [PopcornTimeTV/PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV) - Popcorn Time for Apple TV 4, iPhone and iPad
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [alexisakers/uti](https://github.com/alexisakers/uti) - CLI Tool for Interacting with File Type Identifiers on Mac
@@ -6009,6 +6018,7 @@
 
 ## TypeScript 
 
+- [toxuin/mdns-tunneller](https://github.com/toxuin/mdns-tunneller) - Tunnels two (or more) mDNS domains together
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
@@ -6046,7 +6056,7 @@
 - [geo6/mapper](https://github.com/geo6/mapper) - Display (and query) geographical data (WMS, WMTS, GeoJSON, KML, GPX, CSV).
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [UnchartedBull/OctoDash](https://github.com/UnchartedBull/OctoDash) - OctoDash is a simple, but beautiful dashboard for OctoPrint.
-- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app
+- [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
