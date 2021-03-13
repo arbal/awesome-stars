@@ -121,6 +121,8 @@
 
 ## C 
 
+- [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
+- [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner
 - [olivierlevon/Bonjour](https://github.com/olivierlevon/Bonjour) - Yet another unofficial mDNSResponder mirror http://developer.apple.com/bonjour
 - [mjansson/mdns](https://github.com/mjansson/mdns) - Public domain mDNS/DNS-SD library in C
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - fast portable static native textmode containers
@@ -667,7 +669,7 @@
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [metasoarous/oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Desktop app links: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
 - [yetibot/yetibot](https://github.com/yetibot/yetibot) - 🤖 Extreme chatops bot for Slack and IRC 🔧 New contributors welcome 🏗
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -843,6 +845,10 @@
 
 ## Go 
 
+- [ory/keto](https://github.com/ory/keto) - Global and consistent permission and authorization server with an easy and granular permission language and sub 10-millisecond latency. Based on Google Zanzibar. Ships gRPC and REST APIs. Written in Go.
+- [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+- [volatiletech/authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
+- [inexio/thola](https://github.com/inexio/thola) - Tool for monitoring and provisioning network devices (mainly using SNMP) - monitoring check plugin
 - [brutella/dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go.
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
@@ -1066,7 +1072,7 @@
 - [roylee0704/gron](https://github.com/roylee0704/gron) - gron, Cron Jobs in Go.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queue in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [rivo/tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
@@ -2025,6 +2031,7 @@
 
 ## JavaScript 
 
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months  🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
@@ -3570,6 +3577,7 @@
 
 ## PHP 
 
+- [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
@@ -3681,6 +3689,7 @@
 
 ## Perl 
 
+- [fink/fink](https://github.com/fink/fink) - The fink package manager
 - [sveinbjornt/DataURLToolkit](https://github.com/sveinbjornt/DataURLToolkit) - Various tools for working with Data URLs, incl. web application (http://dataurl.net), Mac OS X GUI app, command line tool, Perl modules and Apache module.
 - [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
@@ -3748,6 +3757,10 @@
 
 ## Python 
 
+- [louwrentius/storagefancontrol](https://github.com/louwrentius/storagefancontrol) - Sets chassis fan speed based on highest disk temperature
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
+- [dropbox/trapperkeeper](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps.
+- [SabyasachiRana/WebMap](https://github.com/SabyasachiRana/WebMap) - WebMap-Nmap Web Dashboard and Reporting
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Gerapy/Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 - [jina-ai/jina](https://github.com/jina-ai/jina) - An easier way to build neural search on the cloud
@@ -5266,6 +5279,8 @@
 
 ## Shell 
 
+- [kernelkaribou/synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
+- [Muvon/yoda](https://github.com/Muvon/yoda) - Simple tool to dockerize and manage deployment of your project
 - [PrivPlugMatt/traefik-private-plugins](https://github.com/PrivPlugMatt/traefik-private-plugins) - Automatic patch for Traefik supporting private plugins
 - [LolHens/docker-swarm-keepalived](https://github.com/LolHens/docker-swarm-keepalived) - Operator for keepalived on docker swarm
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
@@ -5971,7 +5986,7 @@
 - [rwbutler/Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 - [keith/contacts-cli](https://github.com/keith/contacts-cli) - Query macOS contacts from the command line
 - [briangonzalez/alfred-messages](https://github.com/briangonzalez/alfred-messages) - Message your Apple Contacts via Alfred using Messages
-- [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant Companion for iOS
+- [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [lapfelix/BluetoothConnector](https://github.com/lapfelix/BluetoothConnector) - Simple macOS CLI to connect/disconnect a Bluetooth device. Useful for AirPods or other Bluetooth headphones.
 - [mandrigin/AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows) - An application for using in Alfred workflow to enumerate and switch between windows on OSX.
