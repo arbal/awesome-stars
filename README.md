@@ -479,6 +479,7 @@
 
 ## C++ 
 
+- [facebook/bistro](https://github.com/facebook/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
 - [Kurento/kurento-media-server](https://github.com/Kurento/kurento-media-server) - Media Server responsible for media transmission, processing, loading and recording
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
@@ -714,6 +715,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) - 
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [andyshinn/docker-dnsmasq](https://github.com/andyshinn/docker-dnsmasq) - My dnsmasq brings all the boys to the yard, and they're like, it's smaller than yours!
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker(🤏 10MB) image as 🧅 Tor SOCKS5 proxy 🛡
@@ -846,6 +848,7 @@
 
 ## Go 
 
+- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler
 - [ory/keto](https://github.com/ory/keto) - Global and consistent permission and authorization server with an easy and granular permission language and sub 10-millisecond latency. Based on Google Zanzibar. Ships gRPC and REST APIs. Written in Go.
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [volatiletech/authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
@@ -3016,6 +3019,7 @@
 
 ## OCaml 
 
+- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A tool for structural code search and replace that supports ~every language.
 - [issuu/sure-deploy](https://github.com/issuu/sure-deploy) - What `docker stack deploy` should actually have been
@@ -3023,6 +3027,7 @@
 
 ## Objective-C 
 
+- [specialunderwear/Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [paradiseduo/tcping](https://github.com/paradiseduo/tcping) - tcping command, written with Objective-C, on macOS,tcping for mac,ping over a tcp connection
 - [anthonygelibert/QLColorCode](https://github.com/anthonygelibert/QLColorCode) - QuickLook plugin for source code with syntax highlighting.
@@ -3076,6 +3081,7 @@
 
 ## Others 
 
+- [dharmeshkakadia/awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) - Everything about Apache Mesos
 - [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 - [bluszcz/awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.
 - [lensapp/lens-extensions](https://github.com/lensapp/lens-extensions) - List of Lens Extensions
@@ -3580,6 +3586,7 @@
 
 ## PHP 
 
+- [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -3756,10 +3763,13 @@
 
 ## PureBasic 
 
-- [neuralet/neuralet-models](https://github.com/neuralet/neuralet-models) - Neuralet edge deep learning models library. Neuralet is an open-source platform for edge deep learning models on GPU, TPU, and more.
+- [neuralet/models](https://github.com/neuralet/models) - Neuralet edge deep learning models library. Neuralet is an open-source platform for edge deep learning models on GPU, TPU, and more.
 
 ## Python 
 
+- [farthinder/Proxmox-Encrypted-Remote-Backup](https://github.com/farthinder/Proxmox-Encrypted-Remote-Backup) - Encrypt and upload Proxmox VM backups to rclone remotes
+- [cyberjunky/home-assistant-arpscan_tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) - This component tracks devices using the arp-scan liinux command, it's very fast, and reasonably accurate.
+- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [louwrentius/storagefancontrol](https://github.com/louwrentius/storagefancontrol) - Sets chassis fan speed based on highest disk temperature
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [dropbox/trapperkeeper](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps.
@@ -3822,7 +3832,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 A complete framework for Web-UI testing. 💠 Fast, easy, and reliable. (Python/pytest/Selenium)
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 A complete framework for fast, easy, & reliable web testing. (Python/pytest/Selenium) 🚀
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -5003,6 +5013,8 @@
 
 ## Ruby 
 
+- [ninoseki/securitytrails](https://github.com/ninoseki/securitytrails) - SecurityTrails API wrapper for Ruby
+- [ondrejbartas/sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) - Scheduler / Cron for Sidekiq jobs
 - [nextdns/homebrew-tap](https://github.com/nextdns/homebrew-tap) - 
 - [iridakos/duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
 - [plamoni/SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
@@ -5283,6 +5295,7 @@
 
 ## Shell 
 
+- [doob187/traefikv2apps](https://github.com/doob187/traefikv2apps) - TreafikV2 Apps with Authelia over Cloudflare
 - [kernelkaribou/synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
 - [Muvon/yoda](https://github.com/Muvon/yoda) - Simple tool to dockerize and manage deployment of your project
 - [PrivPlugMatt/traefik-private-plugins](https://github.com/PrivPlugMatt/traefik-private-plugins) - Automatic patch for Traefik supporting private plugins
@@ -5661,7 +5674,7 @@
 - [julianxhokaxhiu/vps-powered-by-docker](https://github.com/julianxhokaxhiu/vps-powered-by-docker) - Arch Linux setup script to obtain a full VPS with Automatic Reverse Proxy (and more) without pain
 - [julianxhokaxhiu/docker-powerdns](https://github.com/julianxhokaxhiu/docker-powerdns) - PowerDNS + Recursor + Admin GUI + Adblock in one single Docker
 - [pschiffe/docker-pdns](https://github.com/pschiffe/docker-pdns) - Docker images for PowerDNS
-- [JOduMonT/DEB](https://github.com/JOduMonT/DEB) - Notes & Bots for Debian, Ubuntu and their derivatives.
+- [JOduMonT/oldDEB](https://github.com/JOduMonT/oldDEB) - WARNING OLD Notes & Bots repo the NEW one is --&gt; https://github.com/JOduMonT/DEB
 - [docker-how-to/docker-swarm-configure-keepalived](https://github.com/docker-how-to/docker-swarm-configure-keepalived) - Configure keepalived floating ip for docker swarm
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [CollaboraOnline/Docker-CODE](https://github.com/CollaboraOnline/Docker-CODE) - Dockerfile and scripts to generate CODE Docker image
@@ -5942,6 +5955,7 @@
 
 ## Swift 
 
+- [rsyncOSX/rcloneosx](https://github.com/rsyncOSX/rcloneosx) - A macOS GUI for rclone
 - [JackSteele/VFHost](https://github.com/JackSteele/VFHost) - GUI for Virtualization.framework, including installer for Ubuntu 20.04 on Apple Silicon and Intel Macs.
 - [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
 - [lukas-zronek/ssh-askpass-mac](https://github.com/lukas-zronek/ssh-askpass-mac) - A macOS front-end of ssh-askpass with keychain support
@@ -6290,7 +6304,7 @@
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 - [sphqxe/NATS-WebUI](https://github.com/sphqxe/NATS-WebUI) - A WebUI for NATS Server
 - [keitetran/BroadlinkIRTools](https://github.com/keitetran/BroadlinkIRTools) - Broadlink learn command helper.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
 - [bsa-git/feathers-plus-admin](https://github.com/bsa-git/feathers-plus-admin) - Project feathers-plus-admin
 
 ## XSLT 
