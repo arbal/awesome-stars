@@ -406,6 +406,7 @@
 
 ## C# # 
 
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [richardschneider/net-mdns](https://github.com/richardschneider/net-mdns) - Simple multicast DNS
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
@@ -464,6 +465,7 @@
 - [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 - [nlkl/Optional](https://github.com/nlkl/Optional) - A robust option type for C#
 - [zzzprojects/GraphDiff](https://github.com/zzzprojects/GraphDiff) - Entity Framework graph merge extension method
+- [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [jbakic/Shielded](https://github.com/jbakic/Shielded) - A strict and mostly lock-free Software Transactional Memory (STM) for .NET
 - [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
 - [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
@@ -857,6 +859,8 @@
 
 ## Go 
 
+- [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
+- [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [hishamkaram/geoserver](https://github.com/hishamkaram/geoserver) - geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API.
@@ -1076,7 +1080,7 @@
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [mehrdadrad/tcpprobe](https://github.com/mehrdadrad/tcpprobe) - Modern TCP tool and service for network performance observability.
 - [projectdiscovery/dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
-- [linx-server/linx-server](https://github.com/linx-server/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
+- [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
 - [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -1178,7 +1182,7 @@
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and ETL, written in Go
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and data engineering
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [heistp/irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
@@ -1329,7 +1333,7 @@
 - [newreleasesio/cli-go](https://github.com/newreleasesio/cli-go) - NewReleases CLI
 - [ricoberger/dash](https://github.com/ricoberger/dash) - dash is a terminal dashboard solution inspired by Grafana, to visualize and explore your data.
 - [digitalocean/ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
-- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sonarr, Radarr and/or Lidarr(TBD)
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sonarr, Radarr or Lidarr
 - [hatamiarash7/Mikrotik-Exporter](https://github.com/hatamiarash7/Mikrotik-Exporter) - Prometheus exporter for Mikrotik devices
 - [cafebazaar/keepalived-exporter](https://github.com/cafebazaar/keepalived-exporter) - Prometheus Keepalived exporter
 - [systemli/prometheus-jitsi-meet-exporter](https://github.com/systemli/prometheus-jitsi-meet-exporter) - Prometheus Exporter for Jitsi Meet
@@ -2058,6 +2062,7 @@
 
 ## JavaScript 
 
+- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
 - [IonicaBizau/image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) - :floppy_disk: A Node.js module that converts images to ASCII art.
 - [Yord/pxi](https://github.com/Yord/pxi) - 🧚 pxi (pixie) is a small, fast, and magical command-line data processor similar to jq, mlr, and awk.
 - [kaktus40/Cesium-GeoserverTerrainProvider](https://github.com/kaktus40/Cesium-GeoserverTerrainProvider) - plug in to use geoserver as terrain provider
@@ -2745,7 +2750,6 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [sodiumjoe/lobar](https://github.com/sodiumjoe/lobar) - A thin shell wrapper for lodash.chain().
 - [andrepolischuk/keep](https://github.com/andrepolischuk/keep) - Desktop app for Google Keep packaged with Electron
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [Richie765/mdns-listener](https://github.com/Richie765/mdns-listener) - Simple mDNS Listener to add .local hostnames to your machine
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
@@ -2851,7 +2855,6 @@
 - [vincentlaucsb/US-Map](https://github.com/vincentlaucsb/US-Map) - A visualization of commute times around the US
 - [anryko/grafana-influx-dashboard](https://github.com/anryko/grafana-influx-dashboard) - Grafana InfluxDB scripted dashboard
 - [GoshPosh/grafana-meta-queries](https://github.com/GoshPosh/grafana-meta-queries) - Grafana plugin for calculating time period metrics like week over week, month over month and year over year etc.
-- [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
 - [sibartlett/homebridge-wink3](https://github.com/sibartlett/homebridge-wink3) - Homebridge plugin for wink.com
 - [brockallen/IdentityServerAndApi](https://github.com/brockallen/IdentityServerAndApi) - 
@@ -3061,6 +3064,7 @@
 
 ## Objective-C 
 
+- [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [RogueAmoeba/Soundflower-Original](https://github.com/RogueAmoeba/Soundflower-Original) - MacOS system extension that allows applications to pass audio to other applications.
 - [specialunderwear/Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
@@ -3116,6 +3120,8 @@
 
 ## Others 
 
+- [uclaconditional/video-and-image-cli](https://github.com/uclaconditional/video-and-image-cli) - Video and Image Manipulation on the Command Line
+- [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
 - [dharmeshkakadia/awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) - Everything about Apache Mesos
 - [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 - [bluszcz/awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.
@@ -3129,7 +3135,6 @@
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
@@ -3803,6 +3808,12 @@
 
 ## Python 
 
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+- [simonw/csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database
+- [simonw/datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs) - Datasette plugin for uploading CSV files and converting them to database tables
+- [drkane/datasette-reconcile](https://github.com/drkane/datasette-reconcile) - Adds a reconciliation API endpoint to Datasette, based on the Reconciliation Service API specification.
+- [drkane/python-reconcile-csv](https://github.com/drkane/python-reconcile-csv) - Provides a reconciliation service based on a CSV
+- [gitonthescene/csv-reconcile](https://github.com/gitonthescene/csv-reconcile) - A reconciliation service for OpenRefine serving data from a given CSV file.
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player on a lot of devices.
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
@@ -3859,6 +3870,7 @@
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [DocSystem/tccutil](https://github.com/DocSystem/tccutil) - A macOS Permissions manager
 - [rand-net/khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [nateGeorge/slurm_gpu_ubuntu](https://github.com/nateGeorge/slurm_gpu_ubuntu) - Instructions for setting up a SLURM cluster using Ubuntu 18.04.3 with GPUs.
@@ -5350,6 +5362,7 @@
 
 ## Shell 
 
+- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.13 container for the iCloud Photos Downloader command line utility
 - [xxh/xxh-plugin-zsh-ohmyzsh](https://github.com/xxh/xxh-plugin-zsh-ohmyzsh) - Oh my zsh plugin for xxh zsh
 - [kernelkaribou/synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
 - [Muvon/yoda](https://github.com/Muvon/yoda) - Simple tool to dockerize and manage deployment of your project
@@ -6010,6 +6023,10 @@
 
 ## Swift 
 
+- [mxcl/Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
+- [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize UserDefaults over iCloud.
+- [gyf304/vmcli](https://github.com/gyf304/vmcli) - A set of utilities (vmcli + vmctl) for macOS Virtualization.framework
+- [kendfinger/virtual](https://github.com/kendfinger/virtual) - Linux Virtual Machines on macOS
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [rsyncOSX/rcloneosx](https://github.com/rsyncOSX/rcloneosx) - A macOS GUI for rclone
 - [JackSteele/VFHost](https://github.com/JackSteele/VFHost) - GUI for Virtualization.framework, including installer for Ubuntu 20.04 on Apple Silicon and Intel Macs.
@@ -6299,6 +6316,7 @@
 - [kban-dev/kban](https://github.com/kban-dev/kban) - KBAN: Knowledge Base Archive Network https://kban.org/
 - [snow-tree/camera-probe](https://github.com/snow-tree/camera-probe) - A realtime camera network device discovery tool.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [ardean/spread-the-word](https://github.com/ardean/spread-the-word) - :loudspeaker: A Bonjour / Zeroconf implementation in TypeScript
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
