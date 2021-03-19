@@ -82,6 +82,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
+  - [VBA](#vba)
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [Visual Basic](#visual-basic)
@@ -122,6 +123,9 @@
 
 ## C 
 
+- [ulfalizer/readline-and-ncurses](https://github.com/ulfalizer/readline-and-ncurses) - Example demonstrating combining of readline and ncurses
+- [troglobit/editline](https://github.com/troglobit/editline) - A small replacement for GNU readline() for UNIX
+- [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [GenericMappingTools/gmt](https://github.com/GenericMappingTools/gmt) - The Generic Mapping Tools
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
@@ -859,6 +863,8 @@
 
 ## Go 
 
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
+- [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
@@ -1948,6 +1954,8 @@
 
 ## Java 
 
+- [Teradata/kylo](https://github.com/Teradata/kylo) - Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is licensed under Apache 2.0. Contributed by Teradata Inc.
+- [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
 - [datacleaner/DataCleaner](https://github.com/datacleaner/DataCleaner) - The premier open source Data Quality solution
 - [privacyidea/keycloak-provider](https://github.com/privacyidea/keycloak-provider) - :lock: OTP Two Factor Authentication Provider for Keycloak to run with privacyIDEA
 - [georchestra/georchestra](https://github.com/georchestra/georchestra) - This is the main geOrchestra Spatial Data Infrastructure repository, which hosts the source code.
@@ -2900,6 +2908,8 @@
 
 ## Jupyter Notebook 
 
+- [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
+- [quantopian/alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
@@ -3064,6 +3074,7 @@
 
 ## Objective-C 
 
+- [hschmidt/EnvPane](https://github.com/hschmidt/EnvPane) - EnvPane - An OS X preference pane for environment variables
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [RogueAmoeba/Soundflower-Original](https://github.com/RogueAmoeba/Soundflower-Original) - MacOS system extension that allows applications to pass audio to other applications.
 - [specialunderwear/Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts
@@ -3120,6 +3131,7 @@
 
 ## Others 
 
+- [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [uclaconditional/video-and-image-cli](https://github.com/uclaconditional/video-and-image-cli) - Video and Image Manipulation on the Command Line
 - [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
 - [dharmeshkakadia/awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) - Everything about Apache Mesos
@@ -3599,6 +3611,7 @@
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [adde88/openwrt-useful-tools](https://github.com/adde88/openwrt-useful-tools) - A repo containing different tools compiled specifically for the Hak5 WiFi Pineapple MK6 and MK7.
 - [zbeekman/launchctl-tasks](https://github.com/zbeekman/launchctl-tasks) - A set of short & sweet `launchctl` plists for automating boring tasks on macOS 🤖🍏
+- [danb35/freenas-iocage-nextcloud](https://github.com/danb35/freenas-iocage-nextcloud) - Script to create an iocage jail on FreeNAS for the latest Nextcloud 20 release, including Caddy, MariaDB or PostgreSQL, and Let's Encrypt
 - [herrjemand/awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) - A curated list of awesome WebAuthn/FIDO2 resources
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [Brunty/awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
@@ -3808,6 +3821,11 @@
 
 ## Python 
 
+- [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
+- [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
+- [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [simonw/csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database
 - [simonw/datasette-upload-csvs](https://github.com/simonw/datasette-upload-csvs) - Datasette plugin for uploading CSV files and converting them to database tables
@@ -5362,6 +5380,8 @@
 
 ## Shell 
 
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
+- [drduh/Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.13 container for the iCloud Photos Downloader command line utility
 - [xxh/xxh-plugin-zsh-ohmyzsh](https://github.com/xxh/xxh-plugin-zsh-ohmyzsh) - Oh my zsh plugin for xxh zsh
 - [kernelkaribou/synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
@@ -5992,7 +6012,6 @@
 - [freenas/iocage-ix-plugins](https://github.com/freenas/iocage-ix-plugins) - Official iXSystems iocage plugins for FreeNAS and TrueOS
 - [warrentc3/postprocessing](https://github.com/warrentc3/postprocessing) - Automatic commercial removal and mp4 encoding on FreeNAS 11
 - [tprelog/iocage-homeassistant](https://github.com/tprelog/iocage-homeassistant) - Home Assistant Core - TrueNAS CORE Community Plugin
-- [danb35/freenas-iocage-nextcloud](https://github.com/danb35/freenas-iocage-nextcloud) - Script to create an iocage jail on FreeNAS for the latest Nextcloud 20 release, including Caddy, MariaDB or PostgreSQL, and Let's Encrypt
 - [b-rad-NDi/Ubuntu-media-tree-kernel-builder](https://github.com/b-rad-NDi/Ubuntu-media-tree-kernel-builder) - Slip stream the latest LinuxTV.org media drivers into an installable Ubuntu kernel package
 - [brock/node-reinstall](https://github.com/brock/node-reinstall) - Complete Node Reinstall for OSX and Linux
 - [Geczy/galeforce](https://github.com/Geczy/galeforce) - GaleForce is a project to customise the Google Wifi router
@@ -6125,6 +6144,8 @@
 
 ## TypeScript 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
+- [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
 - [goparrot/geocoder](https://github.com/goparrot/geocoder) - Geocoder is a Typescript library which helps you build geo-aware applications by providing a powerful abstraction layer for geocoding manipulations
 - [toxuin/mdns-tunneller](https://github.com/toxuin/mdns-tunneller) - Tunnels two (or more) mDNS domains together
@@ -6349,6 +6370,10 @@
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
+## VBA 
+
+- [fabiogjardim/bigdata_docker](https://github.com/fabiogjardim/bigdata_docker) - Big Data Ecosystem Docker
+
 ## Vala 
 
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
@@ -6384,7 +6409,7 @@
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 - [sphqxe/NATS-WebUI](https://github.com/sphqxe/NATS-WebUI) - A WebUI for NATS Server
 - [keitetran/BroadlinkIRTools](https://github.com/keitetran/BroadlinkIRTools) - Broadlink learn command helper.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
 - [bsa-git/feathers-plus-admin](https://github.com/bsa-git/feathers-plus-admin) - Project feathers-plus-admin
 
 ## XSLT 
