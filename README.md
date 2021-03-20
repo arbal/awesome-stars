@@ -490,6 +490,7 @@
 
 ## C++ 
 
+- [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [naturalatlas/node-gdal](https://github.com/naturalatlas/node-gdal) - Node.js bindings for GDAL (Geospatial Data Abstraction Library)
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -636,7 +637,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-- [astrolabshub/libseek-thermal](https://github.com/astrolabshub/libseek-thermal) - SEEK thermal compact camera driver supporting the thermal compact and thermal compact pro
+- [astrolabsgit/libseek-thermal](https://github.com/astrolabsgit/libseek-thermal) - SEEK thermal compact camera driver supporting the thermal compact and thermal compact pro
 - [gioblu/PJON](https://github.com/gioblu/PJON) - With PJON you build networks of devices for free with no need of a cloud service or a centralized platform you don’t fully control.
 - [OpenThermal/libseek-thermal](https://github.com/OpenThermal/libseek-thermal) - SEEK thermal compact camera driver supporting the thermal Compact, thermal CompactXR and and thermal CompactPRO
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -2070,6 +2071,7 @@
 
 ## JavaScript 
 
+- [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
 - [IonicaBizau/image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) - :floppy_disk: A Node.js module that converts images to ASCII art.
 - [Yord/pxi](https://github.com/Yord/pxi) - 🧚 pxi (pixie) is a small, fast, and magical command-line data processor similar to jq, mlr, and awk.
@@ -2908,6 +2910,11 @@
 
 ## Jupyter Notebook 
 
+- [ihomelab/dnn4nilm_overview](https://github.com/ihomelab/dnn4nilm_overview) - Overview of NILM works employing Deep Neural Networks on low frequency data
+- [kbodurri/NILM](https://github.com/kbodurri/NILM) - Code for our MPS 2019 paper entitled "A Machine Learning Approach for NILM based on Odd Harmonic Current Vectors"
+- [muleina/COMMIT-NILM](https://github.com/muleina/COMMIT-NILM) - COMMIT-NILM: COMputational MonItoring Tool for NILM Algorithms
+- [AbhiAnanD100/Electrical-Devices-Identification-Model](https://github.com/AbhiAnanD100/Electrical-Devices-Identification-Model) - Electrical Devices Identification Model (EDIM) for the identification of electrical devices by analyzing their energy consumption profiles.
+- [MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
 - [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
 - [quantopian/alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
@@ -3131,6 +3138,10 @@
 
 ## Others 
 
+- [klemenjak/SynD](https://github.com/klemenjak/SynD) - A Synthetic Energy Consumption Dataset for Non-Intrusive Load Monitoring
+- [ch-shin/awesome-nilm](https://github.com/ch-shin/awesome-nilm) - A curated resources of awesome NILM resources
+- [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (50+ datasets).
+- [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [uclaconditional/video-and-image-cli](https://github.com/uclaconditional/video-and-image-cli) - Video and Image Manipulation on the Command Line
 - [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
@@ -3198,6 +3209,7 @@
 - [rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
+- [photossync/PhotosSync](https://github.com/photossync/PhotosSync) - Export and synchronization tool for the macOS Photos app
 - [nanopool/nanominer](https://github.com/nanopool/nanominer) - Nanominer is a versatile tool for mining cryptocurrencies on GPUs and CPUs.
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
@@ -3821,6 +3833,20 @@
 
 ## Python 
 
+- [jonathanrjpereira/Smart-Energy-Monitor](https://github.com/jonathanrjpereira/Smart-Energy-Monitor) - 🔌 Load Monitoring and Energy Disaggregation on a RasPi
+- [smakonin/RAEdataset](https://github.com/smakonin/RAEdataset) - Scripts of the the Rainforest Automation Energy Dataset (RAE dataset)
+- [SrdjanLL/SensibleNILM](https://github.com/SrdjanLL/SensibleNILM) - Energy disaggregation - Deep learning approach.
+- [UCA-Datalab/better_nilm](https://github.com/UCA-Datalab/better_nilm) - Non-Intrusive Load Monitoring (NILM) aims to predict the status or consumption of domestic appliances in a household only by knowing the aggregated power load. NILM can be formulated as regression problem or most often as a classification problem. Most datasets gathered by smart meters allow to define naturally a regression problem, but the corresponding classification problem is a derived one, since it requires a conversion from the power signal to the status of each device by a thresholding method. We treat three different thresholding methods to perform this task, discussing their differences on various devices from the UK-DALE dataset. We analyze the performance of deep learning state-of-the-art architectures on both the regression and classification problems, introducing criteria to select the most convenient thresholding method.
+- [ChristoferNal/multi-nilm](https://github.com/ChristoferNal/multi-nilm) - Multi-NILM: Multi Label Non Intrusive Load Monitoring
+- [nilmtk/nilmtk](https://github.com/nilmtk/nilmtk) - Non-Intrusive Load Monitoring Toolkit (nilmtk)
+- [sambaiga/AWRGNILM](https://github.com/sambaiga/AWRGNILM) - Adaptive Recurrence Graph for Appliance classification in NILM.
+- [voelkerb/Appliance_Classification_Features](https://github.com/voelkerb/Appliance_Classification_Features) - A set of features dedicated for the task of appliance classification
+- [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
+- [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+- [israelg99/deepvoice](https://github.com/israelg99/deepvoice) - Deep Voice: Real-time Neural Text-to-Speech
+- [rcbyron/hey-athena-client](https://github.com/rcbyron/hey-athena-client) - Your personal voice assistant
+- [ericzhang-cn/kindle-open-books](https://github.com/ericzhang-cn/kindle-open-books) - This project is created to convert open source materials to kindle supported format
+- [joukos/PaperTTY](https://github.com/joukos/PaperTTY) - PaperTTY - Python module to render a TTY or VNC on e-ink
 - [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
 - [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 - [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
@@ -5094,6 +5120,7 @@
 
 ## Ruby 
 
+- [alan-ai/alan-sdk-flutter](https://github.com/alan-ai/alan-sdk-flutter) - Alan AI Flutter SDK adds a voice assistant or chatbot to your app.
 - [omniauth/omniauth](https://github.com/omniauth/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware.
 - [worlddb/world.db](https://github.com/worlddb/world.db) - world.db - open world database (world.db) command line tool and libraries
 - [ninoseki/securitytrails](https://github.com/ninoseki/securitytrails) - SecurityTrails API wrapper for Ruby
@@ -5342,6 +5369,7 @@
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [dbohdan/jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -5380,6 +5408,7 @@
 
 ## Shell 
 
+- [MonsterMuffin/rclone-gmedia](https://github.com/MonsterMuffin/rclone-gmedia) - Configuration files for
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
 - [drduh/Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.13 container for the iCloud Photos Downloader command line utility
@@ -6074,7 +6103,6 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader) - CLI for downloading iCloud file
-- [photossync/PhotosSync](https://github.com/photossync/PhotosSync) - Export and synchronization tool for the macOS Photos app
 - [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
 - [planecore/MuseBar](https://github.com/planecore/MuseBar) - An open-source Spotify/Apple Music/Vox TouchBar controller
 - [T-Pham/CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) - 💰 Cryptocurrency prices on MacBook Touch Bar
@@ -6144,6 +6172,7 @@
 
 ## TypeScript 
 
+- [cybershard/auproximity](https://github.com/cybershard/auproximity) - AUProximity is an open source proximity voice chat platform, primarily aimed at Among Us.
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
@@ -6337,7 +6366,6 @@
 - [kban-dev/kban](https://github.com/kban-dev/kban) - KBAN: Knowledge Base Archive Network https://kban.org/
 - [snow-tree/camera-probe](https://github.com/snow-tree/camera-probe) - A realtime camera network device discovery tool.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [ardean/spread-the-word](https://github.com/ardean/spread-the-word) - :loudspeaker: A Bonjour / Zeroconf implementation in TypeScript
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
