@@ -45,6 +45,7 @@
   - [Less](#less)
   - [Lua](#lua)
   - [M4](#m4)
+  - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Mustache](#mustache)
   - [Nim](#nim)
@@ -123,6 +124,7 @@
 
 ## C 
 
+- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [ulfalizer/readline-and-ncurses](https://github.com/ulfalizer/readline-and-ncurses) - Example demonstrating combining of readline and ncurses
 - [troglobit/editline](https://github.com/troglobit/editline) - A small replacement for GNU readline() for UNIX
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -864,6 +866,9 @@
 
 ## Go 
 
+- [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [chzyer/readline](https://github.com/chzyer/readline) - Readline is a pure go(golang) implementation for GNU-Readline kind library
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
@@ -2071,6 +2076,9 @@
 
 ## JavaScript 
 
+- [terafin/mqtt-rainforest-bridge](https://github.com/terafin/mqtt-rainforest-bridge) - Simple docker container that locally polls the rainforest energy bridge, and sends the results to an MQTT broker
+- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - •:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)
+- [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
 - [IonicaBizau/image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) - :floppy_disk: A Node.js module that converts images to ASCII art.
@@ -2694,7 +2702,6 @@
 - [fallroot/copy-url-for-alfred](https://github.com/fallroot/copy-url-for-alfred) - You can copy browser's URL and title with various formats like markdown, anchor tag and your own.
 - [amondnet/now-deployment](https://github.com/amondnet/now-deployment) - This action make a deployment with github actions instead of ZEIT Now builder.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
-- [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
 - [dylanlrrb/Please-Contain-Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - A Docker tutorial written for people who don't actually know Docker already.
 - [NorthernMan54/node-red-contrib-homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Homebridge and Node-RED Integration
@@ -2910,6 +2917,8 @@
 
 ## Jupyter Notebook 
 
+- [pipette/Electricity-load-disaggregation](https://github.com/pipette/Electricity-load-disaggregation) - Smart meter load disaggregation with Hidden Markov Models
+- [louisyuzhe/MachineLearning_NILM](https://github.com/louisyuzhe/MachineLearning_NILM) - Undergraduate research by Yuzhe Lim in Spring 2019. Field of research: Deep Neural Networks application on NILM (Nonintrusive load monitoring) for Energy Disaggregation
 - [ihomelab/dnn4nilm_overview](https://github.com/ihomelab/dnn4nilm_overview) - Overview of NILM works employing Deep Neural Networks on low frequency data
 - [kbodurri/NILM](https://github.com/kbodurri/NILM) - Code for our MPS 2019 paper entitled "A Machine Learning Approach for NILM based on Odd Harmonic Current Vectors"
 - [muleina/COMMIT-NILM](https://github.com/muleina/COMMIT-NILM) - COMMIT-NILM: COMputational MonItoring Tool for NILM Algorithms
@@ -3024,6 +3033,10 @@
 - [Telmate/terraform-ubuntu-proxmox-iso](https://github.com/Telmate/terraform-ubuntu-proxmox-iso) - ISO builder for ubuntu running on proxmox to be provisioned by terraform
 - [1ccs-todd/freenas-media-setup](https://github.com/1ccs-todd/freenas-media-setup) - Customizable install script for FreeNAS media jails
 
+## MATLAB 
+
+- [aicip/GCNMF-s2k](https://github.com/aicip/GCNMF-s2k) - Load disaggregation using group constrained non-negative matrix factorization with sum-to-k constraint (GCNMF-s2k)
+
 ## Makefile 
 
 - [georchestra/docker](https://github.com/georchestra/docker) - Quick start geOrchestra with docker
@@ -3081,6 +3094,7 @@
 
 ## Objective-C 
 
+- [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all relationships and is able to edit the data and generate Objective-C code for the data model.
 - [hschmidt/EnvPane](https://github.com/hschmidt/EnvPane) - EnvPane - An OS X preference pane for environment variables
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
 - [RogueAmoeba/Soundflower-Original](https://github.com/RogueAmoeba/Soundflower-Original) - MacOS system extension that allows applications to pass audio to other applications.
@@ -3833,6 +3847,13 @@
 
 ## Python 
 
+- [MingjunZhong/NeuralNetNilm](https://github.com/MingjunZhong/NeuralNetNilm) - Sequence-to-point learning for non-intrusive load monitoring (energy disaggregation)
+- [ZhangRaymond/Neural-NILM](https://github.com/ZhangRaymond/Neural-NILM) - An Non-Intrusive Load Disaggregation method based on Neural Network. A sequence-to-sequence model and a sequence-to-point model are proposed.
+- [MingjunZhong/LatentBayesianMelding](https://github.com/MingjunZhong/LatentBayesianMelding) - Latent Bayesian melding for non-intrusive load monitoring (energy disaggregation)
+- [yanglyuxun/NILM-py](https://github.com/yanglyuxun/NILM-py) - Nonintrusive (Appliance) Load Monitoring (NILM or NIALM), sometimes called load disaggregation
+- [amzkit/load-disaggregation](https://github.com/amzkit/load-disaggregation) - Load Disaggregation Python Library
+- [DataPrajna/deep-nilmtk](https://github.com/DataPrajna/deep-nilmtk) - a deep learning base load disaggregation
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [jonathanrjpereira/Smart-Energy-Monitor](https://github.com/jonathanrjpereira/Smart-Energy-Monitor) - 🔌 Load Monitoring and Energy Disaggregation on a RasPi
 - [smakonin/RAEdataset](https://github.com/smakonin/RAEdataset) - Scripts of the the Rainforest Automation Energy Dataset (RAE dataset)
 - [SrdjanLL/SensibleNILM](https://github.com/SrdjanLL/SensibleNILM) - Energy disaggregation - Deep learning approach.
@@ -3957,7 +3978,7 @@
 - [wisepythagoras/website-fingerprinting](https://github.com/wisepythagoras/website-fingerprinting) - Deanonymizing Tor or VPN users with website fingerprinting and machine learning.
 - [LeonLok/Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) - Multi-camera live traffic and object counting with YOLO v4, Deep SORT, and Flask.
 - [pageauc/speed-camera](https://github.com/pageauc/speed-camera) - A Unix, Windows, Raspberry Pi Object Speed Camera using python, opencv, video streaming, motion tracking.  Includes a Standalone Web Server Interface, Image Search using opencv template match and a whiptail Admin Menu Interface  Includes picam and webcam Plugins for motion track security camera configuration including rclone sync script.  watch-app allows remotely controller camera configuration from a remote storage service name. Uses sqlite3 and gnuplot for reporting. Recently added openalpr license plate reader support.
-- [meliot/shcheck](https://github.com/meliot/shcheck) - Just a basic tool to check security headers
+- [santoru/shcheck](https://github.com/santoru/shcheck) - A basic tool to check security headers of a website
 - [cisagov/pshtt](https://github.com/cisagov/pshtt) - Scan domains and return data based on HTTPS best practices
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
 - [krsmanovic/mikrotik-distributed-ssh](https://github.com/krsmanovic/mikrotik-distributed-ssh) - Python script that connects to MikroTik routers via ssh and executes list of commands. Both inventory and command lists are loaded from external files. Create separate log entries for successful connections and errors.
@@ -4935,7 +4956,7 @@
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [scivision/piradar](https://github.com/scivision/piradar) - Radar using Red Pitaya for RF: using Raspberry Pi 3 for quad-core radar signal processing
 - [not-kennethreitz/osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
-- [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more
+- [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, DPN, CSPNet, and more
 - [goruck/smart-zoneminder](https://github.com/goruck/smart-zoneminder) - Fast object detection, face recognition and S3 upload of ZoneMinder alarms.
 - [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi) - A tutorial showing how to train, convert, and run TensorFlow Lite object detection models on Android devices, the Raspberry Pi, and more!
 - [LionSec/katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
@@ -5403,11 +5424,13 @@
 - [filodb/FiloDB](https://github.com/filodb/FiloDB) - Distributed Prometheus time series database
 - [reibitto/command-center](https://github.com/reibitto/command-center) - A CLI-based launcher and general productivity tool.
 - [michalrus/agh-google-scholar-trends](https://github.com/michalrus/agh-google-scholar-trends) - Given a Google Scholar query, draws a chart with article and citation numbers accumulated in time
+- [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [Netflix/atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 
 ## Shell 
 
+- [lobaro/restic-backup-docker](https://github.com/lobaro/restic-backup-docker) - A docker container to automate backups with restic
 - [MonsterMuffin/rclone-gmedia](https://github.com/MonsterMuffin/rclone-gmedia) - Configuration files for
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
 - [drduh/Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
@@ -5884,7 +5907,7 @@
 - [morph027/pve-iso-2-pxe](https://github.com/morph027/pve-iso-2-pxe) - Create PXE bootable Proxmox installation
 - [turnkeylinux-apps/lxc](https://github.com/turnkeylinux-apps/lxc) - LXC - Linux Containers
 - [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
-- [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox post installation scripts
+- [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
 - [RPi-Distro/raspberrypi-sys-mods](https://github.com/RPi-Distro/raspberrypi-sys-mods) - A collection of Raspberry Pi-sourced system configuration files and associated scripts
 - [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, UPnP and Spotify Connect
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
@@ -6417,6 +6440,7 @@
 
 ## Vue 
 
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Zibbp/Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
 - [RasaHQ/rasa-voice-interface](https://github.com/RasaHQ/rasa-voice-interface) - :microphone: A simple web interface for building voice assistants with Rasa
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
