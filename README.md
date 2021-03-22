@@ -42,11 +42,13 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [LLVM](#llvm)
   - [Less](#less)
   - [Lua](#lua)
   - [M4](#m4)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
+  - [Matlab](#matlab)
   - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -124,6 +126,8 @@
 
 ## C 
 
+- [jakogut/tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [ulfalizer/readline-and-ncurses](https://github.com/ulfalizer/readline-and-ncurses) - Example demonstrating combining of readline and ncurses
 - [troglobit/editline](https://github.com/troglobit/editline) - A small replacement for GNU readline() for UNIX
@@ -267,7 +271,7 @@
 - [cminyard/gensio](https://github.com/cminyard/gensio) - A library to abstract stream I/O like serial port, TCP, telnet, UDP, SSL, IPMI SOL, etc.
 - [cminyard/ser2net](https://github.com/cminyard/ser2net) - Serial to network interface, allows TCP/UCP to serial port connections
 - [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
-- [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - 
+- [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://git.osmocom.org/rtl-sdr/
 - [ThomasHabets/arping](https://github.com/ThomasHabets/arping) - ARP Ping
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
@@ -492,6 +496,7 @@
 
 ## C++ 
 
+- [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [naturalatlas/node-gdal](https://github.com/naturalatlas/node-gdal) - Node.js bindings for GDAL (Geospatial Data Abstraction Library)
@@ -866,6 +871,13 @@
 
 ## Go 
 
+- [bradfitz/embiggen-disk](https://github.com/bradfitz/embiggen-disk) - embiggden-disk live-resizes a filesystem after first live-resizing any necessary layers below it: an optional LVM LV and PV, and an MBR or GPT partition table
+- [Trendyol/gaos](https://github.com/Trendyol/gaos) - HTTP mocking to test API services for chaos scenarios
+- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
+- [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
+- [alash3al/wsify](https://github.com/alash3al/wsify) - Just a tiny, simple and real-time self-hosted pub/sub messaging service
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -1013,7 +1025,7 @@
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
 - [retroplasma/flyover-reverse-engineering](https://github.com/retroplasma/flyover-reverse-engineering) - Reversing Apple's 3D satellite mode
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
-- [ossrs/go-oryx](https://github.com/ossrs/go-oryx) - The go-oryx is SRS++, focus on real-time live streaming load-balancer.
+- [ossrs/go-oryx](https://github.com/ossrs/go-oryx) - The go-oryx is a toolkit for SRS.
 - [JoshuaMart/HIBP_PasswordList_Slimmer](https://github.com/JoshuaMart/HIBP_PasswordList_Slimmer) - Converted the text list to binary to save space
 - [sfproductlabs/roo](https://github.com/sfproductlabs/roo) - Setup and run your own clusters on your own infrastructure in minutes (Eg. ECS or EKS). Roo is a zero config distributed ingress, edge-router & reverse-proxy (supporting multiple letsencrypt/https hosts) using Docker Swarm. No dependencies.
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) - High-Performance MQTT Server
@@ -1509,7 +1521,7 @@
 - [rexray/rexray](https://github.com/rexray/rexray) - REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [rancher/convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
-- [flavioaiello/swarm-router](https://github.com/flavioaiello/swarm-router) - A «zero config» fully stateless and scalable service name router for docker swarm mode with a fresh more secure approach
+- [flavioaiello/swarm-router](https://github.com/flavioaiello/swarm-router) - Scalable stateless «zero config» service-name ingress for docker swarm mode with a fresh more secure approach
 - [sgreben/tj](https://github.com/sgreben/tj) - stdin line timestamps. single binary, no dependencies. osx & linux & windows. plays well with jq.
 - [google/namebench](https://github.com/google/namebench) - namebench
 - [wernerfred/docker-dyndns](https://github.com/wernerfred/docker-dyndns) - Host your own dyndns server with docker!
@@ -1960,6 +1972,10 @@
 
 ## Java 
 
+- [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
+- [eclipse/openj9](https://github.com/eclipse/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
+- [bouncestorage/chaos-http-proxy](https://github.com/bouncestorage/chaos-http-proxy) - Introduce failures into HTTP requests via a proxy server
+- [jenkinsci/generic-webhook-trigger-plugin](https://github.com/jenkinsci/generic-webhook-trigger-plugin) - Can receive any HTTP request, extract any values from JSON or XML and trigger a job with those values available as variables. Works with GitHub, GitLab, Bitbucket, Jira and many more.
 - [Teradata/kylo](https://github.com/Teradata/kylo) - Kylo is a data lake management software platform and framework for enabling scalable enterprise-class data lakes on big data technologies such as Teradata, Apache Spark and/or  Hadoop. Kylo is licensed under Apache 2.0. Contributed by Teradata Inc.
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
 - [datacleaner/DataCleaner](https://github.com/datacleaner/DataCleaner) - The premier open source Data Quality solution
@@ -2076,6 +2092,15 @@
 
 ## JavaScript 
 
+- [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue and/or deCONZ
+- [itsmepetrov/homebridge-zigbee](https://github.com/itsmepetrov/homebridge-zigbee) - ZigBee Platform plugin for HomeBridge
+- [mpbzh/homebridge-plex](https://github.com/mpbzh/homebridge-plex) - Plex plugin for homebridge: https://github.com/nfarina/homebridge
+- [SeydX/homebridge-bravia-tv](https://github.com/SeydX/homebridge-bravia-tv) - Homebridge dynamic platform plugin for Sony Bravia Android TVs
+- [Djelibeybi/homebridge-button-platform](https://github.com/Djelibeybi/homebridge-button-platform) - A Homebridge platform plugin to create virtual buttons that respond to HTTP requests from things like Flic buttons or an Elgato Stream Deck.
+- [ztalbot2000/homebridge-cmd4](https://github.com/ztalbot2000/homebridge-cmd4) - CMD4 Plugin for Homebridge - Supports ~All Accessory Types & now all Characteristics too
+- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [taeukme/google-home-push](https://github.com/taeukme/google-home-push) - Send Push Notifications to your Google Home device
+- [danistefanovic/hooka](https://github.com/danistefanovic/hooka) - 😎 A webhook server with zero coding
 - [terafin/mqtt-rainforest-bridge](https://github.com/terafin/mqtt-rainforest-bridge) - Simple docker container that locally polls the rainforest energy bridge, and sends the results to an MQTT broker
 - [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - •:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
@@ -2917,6 +2942,11 @@
 
 ## Jupyter Notebook 
 
+- [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
+- [evrythng/appliance-classification-ml](https://github.com/evrythng/appliance-classification-ml) - Machine Learning Code
+- [nipunbatra/Gemello](https://github.com/nipunbatra/Gemello) - 
+- [JackKelly/neuralnilm_prototype](https://github.com/JackKelly/neuralnilm_prototype) - 
+- [nilmtk/nilmtk-contrib](https://github.com/nilmtk/nilmtk-contrib) - 
 - [pipette/Electricity-load-disaggregation](https://github.com/pipette/Electricity-load-disaggregation) - Smart meter load disaggregation with Hidden Markov Models
 - [louisyuzhe/MachineLearning_NILM](https://github.com/louisyuzhe/MachineLearning_NILM) - Undergraduate research by Yuzhe Lim in Spring 2019. Field of research: Deep Neural Networks application on NILM (Nonintrusive load monitoring) for Energy Disaggregation
 - [ihomelab/dnn4nilm_overview](https://github.com/ihomelab/dnn4nilm_overview) - Overview of NILM works employing Deep Neural Networks on low frequency data
@@ -3002,6 +3032,10 @@
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [afollestad/nock-nock](https://github.com/afollestad/nock-nock) - 🚪 Monitor and validate your websites to maintain maximum uptime.
 
+## LLVM 
+
+- [llvm-mirror/llvm](https://github.com/llvm-mirror/llvm) - Project moved to: https://github.com/llvm/llvm-project
+
 ## Less 
 
 - [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
@@ -3064,6 +3098,10 @@
 - [ccrisan/motioneyeos](https://github.com/ccrisan/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [CyanogenMod/android_build](https://github.com/CyanogenMod/android_build) - Android Build System (cyanogenmod)
 - [CyanogenMod/android_device_samsung_maguro](https://github.com/CyanogenMod/android_device_samsung_maguro) - 
+
+## Matlab 
+
+- [beckel/nilm-eval](https://github.com/beckel/nilm-eval) - NILM-EVAL: An evaluation framework for non-intrusive load monitoring algorithms
 
 ## Mustache 
 
@@ -3152,6 +3190,14 @@
 
 ## Others 
 
+- [EricAndrechek/homebridge-display](https://github.com/EricAndrechek/homebridge-display) - Homebridge-Display, a Homebridge plugin that allows you to control and view Spotify, see the weather forecast and current conditions, see news articles, control some Homebridge devices, and much, much more!
+- [mukkla/LowFreq_DNN-NILM](https://github.com/mukkla/LowFreq_DNN-NILM) - Overview of research papers with focus on low frequency NILM employing DNNs
+- [markdtw/awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) - A curated list of awesome architecture search resources
+- [dragen1860/awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) - A curated list of Meta-Learning resources/papers.
+- [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
+- [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
+- [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+- [openmessaging/specification](https://github.com/openmessaging/specification) - OpenMessaging Specification
 - [klemenjak/SynD](https://github.com/klemenjak/SynD) - A Synthetic Energy Consumption Dataset for Non-Intrusive Load Monitoring
 - [ch-shin/awesome-nilm](https://github.com/ch-shin/awesome-nilm) - A curated resources of awesome NILM resources
 - [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (50+ datasets).
@@ -3779,6 +3825,7 @@
 
 ## Perl 
 
+- [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
 - [fink/fink](https://github.com/fink/fink) - The fink package manager
 - [sveinbjornt/DataURLToolkit](https://github.com/sveinbjornt/DataURLToolkit) - Various tools for working with Data URLs, incl. web application (http://dataurl.net), Mac OS X GUI app, command line tool, Perl modules and Apache module.
 - [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
@@ -3847,6 +3894,16 @@
 
 ## Python 
 
+- [ParadoxAlarmInterface/pai](https://github.com/ParadoxAlarmInterface/pai) - Paradox Magellan, Spectra and EVO, with MQTT, Signal, Pushbullet, Pushover and others
+- [mravanelli/pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) - pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
+- [maechler/nnilm](https://github.com/maechler/nnilm) - A reimplementation of Jack Kelly's rectangles neural network architecture based on Keras and the NILMToolkit.
+- [smakonin/SparseNILM](https://github.com/smakonin/SparseNILM) - The super-state hidden Markov model disaggregator that uses a sparse Viterbi algorithm for decoding. This project contains the source code that was use for my IEEE Transactions on Smart Grid journal paper.
+- [JackKelly/neuralnilm](https://github.com/JackKelly/neuralnilm) - Deep Neural Networks Applied to Energy Disaggregation
+- [nongiach/arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
+- [fretboardfreak/kitty-theme-changer](https://github.com/fretboardfreak/kitty-theme-changer) - A helper script to change Kitty Terminal Emulator themes on the fly.
+- [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
+- [GilGalaad/duplicity-rclone](https://github.com/GilGalaad/duplicity-rclone) - Duplicity backend using rclone
+- [worstcase/blockade](https://github.com/worstcase/blockade) - Docker-based utility for testing network failures and partitions in distributed applications
 - [MingjunZhong/NeuralNetNilm](https://github.com/MingjunZhong/NeuralNetNilm) - Sequence-to-point learning for non-intrusive load monitoring (energy disaggregation)
 - [ZhangRaymond/Neural-NILM](https://github.com/ZhangRaymond/Neural-NILM) - An Non-Intrusive Load Disaggregation method based on Neural Network. A sequence-to-sequence model and a sequence-to-point model are proposed.
 - [MingjunZhong/LatentBayesianMelding](https://github.com/MingjunZhong/LatentBayesianMelding) - Latent Bayesian melding for non-intrusive load monitoring (energy disaggregation)
@@ -5141,6 +5198,7 @@
 
 ## Ruby 
 
+- [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk) - AdoptOpenJDK HomeBrew Tap
 - [alan-ai/alan-sdk-flutter](https://github.com/alan-ai/alan-sdk-flutter) - Alan AI Flutter SDK adds a voice assistant or chatbot to your app.
 - [omniauth/omniauth](https://github.com/omniauth/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware.
 - [worlddb/world.db](https://github.com/worlddb/world.db) - world.db - open world database (world.db) command line tool and libraries
@@ -5269,6 +5327,7 @@
 
 ## Rust 
 
+- [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
 - [AstroHQ/astro-dnssd](https://github.com/AstroHQ/astro-dnssd) - Simple Rust wrapper around DNS-SD
@@ -5430,6 +5489,7 @@
 
 ## Shell 
 
+- [padelt/vzdump-plugin-b2](https://github.com/padelt/vzdump-plugin-b2) - Encrypted off-site backup of Proxmox VE vzdump images for $5/month/TB
 - [lobaro/restic-backup-docker](https://github.com/lobaro/restic-backup-docker) - A docker container to automate backups with restic
 - [MonsterMuffin/rclone-gmedia](https://github.com/MonsterMuffin/rclone-gmedia) - Configuration files for
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
@@ -6195,6 +6255,16 @@
 
 ## TypeScript 
 
+- [beele/homebridge-unifi-protect-camera-motion](https://github.com/beele/homebridge-unifi-protect-camera-motion) - Camera & Motion sensor support for Unifi Protect cameras in Homekit via Homebridge
+- [hjdhjd/homebridge-blinds-cmd](https://github.com/hjdhjd/homebridge-blinds-cmd) - :sunrise: Homebridge plugin to enable window blinds to be controlled by executing a command line.
+- [milo526/homebridge-tuya-web](https://github.com/milo526/homebridge-tuya-web) - Hoobs and Homebridge plugin for Tuya devices using Home Assistant Tuya Web Api
+- [kbrashears5/homebridge-schedule](https://github.com/kbrashears5/homebridge-schedule) - Scheduled, repeatable triggers for Homebridge automation with HomeKit
+- [JosephDuffy/homebridge-pc-volume](https://github.com/JosephDuffy/homebridge-pc-volume) - Homebridge plugin to control your computer's volume using HomeKit and Siri
+- [homebridge/plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
+- [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io
+- [madchicken/homebridge-zigbee-nt](https://github.com/madchicken/homebridge-zigbee-nt) - A standalone ZigBee plugin that works with CC2531 USB dongle or Deconz
+- [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Monorepo for the Ethereum VM TypeScript Implementation
+- [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML
 - [cybershard/auproximity](https://github.com/cybershard/auproximity) - AUProximity is an open source proximity voice chat platform, primarily aimed at Among Us.
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
