@@ -126,8 +126,10 @@
 
 ## C 
 
+- [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
+- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [jakogut/tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
-- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [ulfalizer/readline-and-ncurses](https://github.com/ulfalizer/readline-and-ncurses) - Example demonstrating combining of readline and ncurses
 - [troglobit/editline](https://github.com/troglobit/editline) - A small replacement for GNU readline() for UNIX
@@ -668,6 +670,7 @@
 ## CSS 
 
 - [datameet/maps](https://github.com/datameet/maps) - Repository for all spatial data.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [deajan/traceroute_history](https://github.com/deajan/traceroute_history) - Keep traceroute histroy, make diffs. Use as standalone / smokeping companion
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -738,6 +741,7 @@
 
 ## Dockerfile 
 
+- [Apipa169/Assistant-Relay-for-Hassio](https://github.com/Apipa169/Assistant-Relay-for-Hassio) - Send commands (including broadcasts) to the Google Assistant via Home Assistant
 - [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) - 
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [andyshinn/docker-dnsmasq](https://github.com/andyshinn/docker-dnsmasq) - My dnsmasq brings all the boys to the yard, and they're like, it's smaller than yours!
@@ -908,7 +912,6 @@
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or themeing headaches.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -2357,7 +2360,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - Signal Protocol library for JavaScript
@@ -2546,7 +2549,7 @@
 - [pponce/homebridge-script2](https://github.com/pponce/homebridge-script2) - Execute custom scripts via HomeKit apps
 - [sahilchaddha/homebridge-http-is-it-down](https://github.com/sahilchaddha/homebridge-http-is-it-down) - Homebridge Plugin to alert occupancy whenever Target goes down/up
 - [peh/node-i2cssh](https://github.com/peh/node-i2cssh) - i2cssh with the support of osascript and node
-- [SeydX/homebridge-camera-ui](https://github.com/SeydX/homebridge-camera-ui) - Homebridge plugin for RTSP Cameras with motion detection support, Web UI to manage/watch streams and web application support
+- [SeydX/homebridge-camera-ui](https://github.com/SeydX/homebridge-camera-ui) - Homebridge plugin for RTSP Cameras with motion detection support, Image Rekognition, Web UI to manage/watch streams and WebApp support
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
@@ -6154,6 +6157,7 @@
 
 ## Swift 
 
+- [vldmrkl/airdrop-cli](https://github.com/vldmrkl/airdrop-cli) - a macOS CLI for AirDrop written in Swift
 - [mxcl/Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [ArtSabintsev/Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize UserDefaults over iCloud.
 - [gyf304/vmcli](https://github.com/gyf304/vmcli) - A set of utilities (vmcli + vmctl) for macOS Virtualization.framework
