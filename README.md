@@ -26,6 +26,7 @@
   - [Eagle](#eagle)
   - [Elixir](#elixir)
   - [Elm](#elm)
+  - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [G-code](#g-code)
   - [Go](#go)
@@ -420,6 +421,7 @@
 
 ## C# # 
 
+- [Sicos1977/ChromeHtmlToPdf](https://github.com/Sicos1977/ChromeHtmlToPdf) - Convert HTML to PDF with Chrome
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
@@ -501,6 +503,7 @@
 
 ## C++ 
 
+- [srsLTE/srsLTE](https://github.com/srsLTE/srsLTE) - Open source SDR LTE software suite from Software Radio Systems (SRS)
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -716,6 +719,7 @@
 - [andreyvit/json-diff](https://github.com/andreyvit/json-diff) - Structural diff for JSON files
 - [AngryLoki/wikidata-graph-builder](https://github.com/AngryLoki/wikidata-graph-builder) - Visualize Wikidata items using d3.js
 - [github/hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
+- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
 - [ExpediaInceCommercePlatform/cyclotron](https://github.com/ExpediaInceCommercePlatform/cyclotron) - A web platform for constructing dashboards.
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
@@ -771,6 +775,7 @@
 - [LiveHelperChat/intent-deeppavlov](https://github.com/LiveHelperChat/intent-deeppavlov) - Simple intent recognition using DeepPavlov.ai
 - [QuantumObject/docker-xowa](https://github.com/QuantumObject/docker-xowa) - docker container for xowa (offline wikipedia)
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
+- [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
 - [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) - 
 - [compujuckel/adsb-docker](https://github.com/compujuckel/adsb-docker) - dump1090-fa, piaware and fr24feed together with docker-compose
 - [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
@@ -863,6 +868,10 @@
 
 - [charypar/swarm-dashboard](https://github.com/charypar/swarm-dashboard) - A simple monitoring dashboard for Docker in Swarm Mode.
 
+## Emacs Lisp 
+
+- [tmalsburg/helm-bibtex](https://github.com/tmalsburg/helm-bibtex) - Search and manage bibliographies in Emacs
+
 ## Erlang 
 
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
@@ -883,6 +892,7 @@
 
 ## Go 
 
+- [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [sapcc/ntp_exporter](https://github.com/sapcc/ntp_exporter) - Prometheus exporter for NTP offset/stratum of a client
 - [timescale/timescaledb-tune](https://github.com/timescale/timescaledb-tune) - A tool for tuning TimescaleDB for better performance by adjusting settings to match your system's CPU and memory resources.
 - [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
@@ -1990,6 +2000,7 @@
 
 ## Java 
 
+- [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [zhuyuqing/bestconf](https://github.com/zhuyuqing/bestconf) - A tool automatically improving the performance of large-scale systems by finding better configuration settings
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
@@ -2112,6 +2123,7 @@
 
 ## JavaScript 
 
+- [roblabs/apple-maps-web-snapshot-cli](https://github.com/roblabs/apple-maps-web-snapshot-cli) - Create static maps 🗺 for Apple Maps using the Maps Web Snapshots announced at WWDC 2019.
 - [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue and/or deCONZ
 - [itsmepetrov/homebridge-zigbee](https://github.com/itsmepetrov/homebridge-zigbee) - ZigBee Platform plugin for HomeBridge
 - [mpbzh/homebridge-plex](https://github.com/mpbzh/homebridge-plex) - Plex plugin for homebridge: https://github.com/nfarina/homebridge
@@ -2638,7 +2650,6 @@
 - [SamVerschueren/alfred-updater](https://github.com/SamVerschueren/alfred-updater) - Alfred workflow updater
 - [tabwrangler/tabwrangler](https://github.com/tabwrangler/tabwrangler) - A browser extension that automatically closes your unused tabs so you can focus on the tabs that matter
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
-- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [ericflo/servertail](https://github.com/ericflo/servertail) - Our team's djangodash project
 - [node-ci/nci-ansible-ui](https://github.com/node-ci/nci-ansible-ui) - Simple web interface for running Ansible playbooks
 - [swarm-pack/repository](https://github.com/swarm-pack/repository) - A repo for common, reusable, public swarm-packs
@@ -2962,6 +2973,7 @@
 
 ## Jupyter Notebook 
 
+- [greenelab/crossref](https://github.com/greenelab/crossref) - Download metadata for all DOIs using the Crossref API
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
 - [evrythng/appliance-classification-ml](https://github.com/evrythng/appliance-classification-ml) - Machine Learning Code
 - [nipunbatra/Gemello](https://github.com/nipunbatra/Gemello) - 
@@ -3210,6 +3222,10 @@
 
 ## Others 
 
+- [abhineet123/Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) - Collection of papers, datasets, code and other resources for object tracking and detection using deep learning
+- [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Speech synthesis, voice conversion, self-supervised learning, music generation,Automatic Speech Recognition, Speaker Verification, Speech Synthesis, Language Modeling
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
+- [CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc) - Documentation for Crossref's REST API. Issues moved to https://gitlab.com/crossref/issues
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 - [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 - [Releem/awesome-mysql-performance](https://github.com/Releem/awesome-mysql-performance) - 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning
@@ -3734,6 +3750,7 @@
 
 ## PHP 
 
+- [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
@@ -3919,6 +3936,12 @@
 
 ## Python 
 
+- [sackh/maps-cli](https://github.com/sackh/maps-cli) - A CLI for maps services from various providers.
+- [lqhl/wait-for-it](https://github.com/lqhl/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
+- [Tishacy/SciDownl](https://github.com/Tishacy/SciDownl) - Download pdfs from Scihub via DOI. Easy to use. Easy to deal with captcha. Easy to update Scihub newest domains.
+- [perrette/papers](https://github.com/perrette/papers) - Command-line tool to manage bibliography (pdfs + bibtex)
+- [sckott/habanero](https://github.com/sckott/habanero) - client for Crossref search API
+- [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [pawlaczyk/sarenka](https://github.com/pawlaczyk/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
 - [ipburger/speedtest.mini.php](https://github.com/ipburger/speedtest.mini.php) - Speedtest.net mini/legacy-http light server. Works with speedtest cli
 - [ChrisRegado/streamdeck-googlemeet](https://github.com/ChrisRegado/streamdeck-googlemeet) - A Stream Deck plugin to manage your Google Meet microphone and camera.
@@ -4422,7 +4445,6 @@
 - [hpfeeds/hpfeeds](https://github.com/hpfeeds/hpfeeds) - Honeynet Project generic authenticated datafeed protocol
 - [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker) - Monitor Docker containers from Home Assistant
 - [wociscz/lxd-telegraf-stats](https://github.com/wociscz/lxd-telegraf-stats) - LXD containers metrics
-- [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
 - [rugantio/fbcrawl](https://github.com/rugantio/fbcrawl) - A Facebook crawler
 - [frankiexyz/ping-exporter](https://github.com/frankiexyz/ping-exporter) - Prometheus Ping exporter
 - [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
@@ -5174,6 +5196,7 @@
 
 ## R 
 
+- [ropensci/rcrossref](https://github.com/ropensci/rcrossref) - R client for various CrossRef APIs
 - [jeroen/askpass](https://github.com/jeroen/askpass) - Safe Password Entry for R, Git, and SSH
 - [ropensci/rorcid](https://github.com/ropensci/rorcid) - A programmatic interface the Orcid.org API
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
@@ -5519,6 +5542,9 @@
 
 ## Shell 
 
+- [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
+- [cec/wait-for-endpoint](https://github.com/cec/wait-for-endpoint) - bash script waiting until a given endpoint returns 200 or until timeout threshold is reached
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [HenrikBengtsson/speedtest-cli-extras](https://github.com/HenrikBengtsson/speedtest-cli-extras) - :signal_strength: Tools to enhance the speedtest-cli network tools
 - [emqx/emqx-rel](https://github.com/emqx/emqx-rel) - The Release Project for EMQ X Broker
 - [padelt/vzdump-plugin-b2](https://github.com/padelt/vzdump-plugin-b2) - Encrypted off-site backup of Proxmox VE vzdump images for $5/month/TB
@@ -6283,11 +6309,14 @@
 
 ## TeX 
 
+- [GerHobbelt/qiqqa-open-source](https://github.com/GerHobbelt/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows (a bleeding edge dev fork) ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・    ☞☞☞ File any issues you find in the main repo issue tracker at https://github.com/jimmejardine/qiqqa-open-source/issues
+- [jimmejardine/qiqqa-open-source](https://github.com/jimmejardine/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [rstudio/cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 
 ## TypeScript 
 
+- [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [beele/homebridge-unifi-protect-camera-motion](https://github.com/beele/homebridge-unifi-protect-camera-motion) - Camera & Motion sensor support for Unifi Protect cameras in Homekit via Homebridge
