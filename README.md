@@ -1933,7 +1933,7 @@
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [FrancesCoronel/automator-workflows](https://github.com/FrancesCoronel/automator-workflows) - Workflows I've created for the Automator app on macOS 👾
 - [zimmertr/Bootstrap-Kubernetes-with-QEMU](https://github.com/zimmertr/Bootstrap-Kubernetes-with-QEMU) - Bootstrap Kubernetes on Proxmox using QEMU, Ansible, and Debian
-- [iancleary/ansible-role-zsh_antibody](https://github.com/iancleary/ansible-role-zsh_antibody) - Ansible role to install ZSH, with the antibody plugin manager
+- [iancleary/ansible-role-zsh](https://github.com/iancleary/ansible-role-zsh) - Ansible role to install ZSH, with the ohmyzshplugin manager
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
@@ -1971,7 +1971,7 @@
 - [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) - Fluxion is a remake of linset by vk496 with enhanced functionality.
 - [autarchprinceps/MultiCastor](https://github.com/autarchprinceps/MultiCastor) - The World's Most Comprehensive Multicast Testtool
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [dmuensterman/keepaSDK](https://github.com/dmuensterman/keepaSDK) - Various SDK's for Keepa.com API
+- [magicCashew/keepaSDK](https://github.com/magicCashew/keepaSDK) - Various SDK's for Keepa.com API
 - [trishmapow/rf-jam-replay](https://github.com/trishmapow/rf-jam-replay) - Jam and replay attack on vehicle keyless entry systems.
 - [futurice/chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [EliotAndres/kaggle-past-solutions](https://github.com/EliotAndres/kaggle-past-solutions) - A searchable compilation of Kaggle past solutions
@@ -2091,7 +2091,6 @@
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [lamarios/Homedash2](https://github.com/lamarios/Homedash2) - Dashboard for servers
-- [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box
 - [dernasherbrezon/rtlSpectrum](https://github.com/dernasherbrezon/rtlSpectrum) - Analyze spectrograms created by rtl_power
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [codeforkjeff/conciliator](https://github.com/codeforkjeff/conciliator) - OpenRefine reconciliation services for VIAF, ORCID, and Open Library + framework for creating more.
@@ -2547,6 +2546,7 @@
 - [thezeroqueue/zeroqueue](https://github.com/thezeroqueue/zeroqueue) - ⏰ A low-code queue management system ⏰
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
+- [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [vervallsweg/cast-web-api](https://github.com/vervallsweg/cast-web-api) - Quick and dirty web API for Google Cast enabled devices.
 - [hobbyquaker/influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - Insert incoming MQTT values into InfluxDB. Follows mqtt-smarthome architecture.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -2714,6 +2714,7 @@
 - [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [GoogleTrends/data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [monitoringartist/dockbix-xxl](https://github.com/monitoringartist/dockbix-xxl) - :whale: Dockerized Zabbix - server, web, proxy, java gateway, snmpd with additional extensions
+- [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box
 - [cermak-petr/actor-zillow-api-scraper](https://github.com/cermak-petr/actor-zillow-api-scraper) - Apify actor for extracting data about homes from Zillow.com using it's internal API.
 - [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) - Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
 - [apify/actor-scraper](https://github.com/apify/actor-scraper) - House of Apify Scrapers. Generic scraping actors with a simple UI to handle complex web crawling and scraping use cases.
@@ -3638,7 +3639,7 @@
 - [f0cal/google-coral](https://github.com/f0cal/google-coral) - Community gathering point for Google Coral dev board and dongle knowledge.
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [xdspacelab/openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
-- [dmuensterman/keepaOpenAPI](https://github.com/dmuensterman/keepaOpenAPI) - An OpenAPI 3.0 specification for the Keepa API.
+- [magicCashew/keepaOpenAPI](https://github.com/magicCashew/keepaOpenAPI) - An OpenAPI 3.0 specification for the Keepa API.
 - [jovotech/awesome-voice-apps](https://github.com/jovotech/awesome-voice-apps) - 🕶 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter
 - [woj-ciech/kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
@@ -4611,6 +4612,7 @@
 - [idealo/image-quality-assessment](https://github.com/idealo/image-quality-assessment) - Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
 - [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) - DeepMind's Tacotron-2 Tensorflow implementation
+- [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) - DeepMind's Tacotron-2 Tensorflow implementation
 - [Conchylicultor/DeepQA](https://github.com/Conchylicultor/DeepQA) - My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot
 - [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
@@ -5207,6 +5209,7 @@
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [anirudhjoshi/lastpass2keepass](https://github.com/anirudhjoshi/lastpass2keepass) - Allows you to convert the LastPass export to a KeePass XML import.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [ALPHAvibe/PyValidator](https://github.com/ALPHAvibe/PyValidator) - Python 3.x fluent validation
 - [exherb/homebrew-cask-replace](https://github.com/exherb/homebrew-cask-replace) - use homebrew cask to replace installed apps
 - [ALPHAvibe/PyMapper](https://github.com/ALPHAvibe/PyMapper) - Python 3.x property mapper
@@ -5478,7 +5481,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [Eonm/refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [timberio/vector](https://github.com/timberio/vector) - High-performance, high-reliability observability data pipeline.
+- [timberio/vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
