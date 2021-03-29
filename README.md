@@ -611,6 +611,7 @@
 - [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement.
 - [Namburger/edgetpu-detection-camera](https://github.com/Namburger/edgetpu-detection-camera) - Detection Camera with EdgeTpu
+- [NobuoTsukamoto/edge_tpu](https://github.com/NobuoTsukamoto/edge_tpu) - TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [google-coral/edgetpu](https://github.com/google-coral/edgetpu) - Coral issue tracker (and legacy Edge TPU API source)
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
@@ -801,7 +802,6 @@
 - [mories76/ha-addon-frigate](https://github.com/mories76/ha-addon-frigate) - 
 - [mediadepot/docker-netdata-cuda](https://github.com/mediadepot/docker-netdata-cuda) - 
 - [trydirect/mautic](https://github.com/trydirect/mautic) - Deploy Mautic with docker-compose.yml
-- [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja
 - [monitoringartist/grafana-xxl](https://github.com/monitoringartist/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
 - [stefanprodan/dockerd-exporter](https://github.com/stefanprodan/dockerd-exporter) - Prometheus Docker daemon metrics exporter
 - [portainer/templates](https://github.com/portainer/templates) - App Templates used by Portainer
@@ -2136,6 +2136,7 @@
 
 ## JavaScript 
 
+- [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [bettercap/caplets](https://github.com/bettercap/caplets) - bettercap scripts (caplets) and proxy modules.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [zhang-hz/zotero-autofetch](https://github.com/zhang-hz/zotero-autofetch) - Zotero plugin for automatic download of PDFs from Scihub and Google Scholar
@@ -3139,7 +3140,6 @@
 - [tomkins/cloud-init-vagrant](https://github.com/tomkins/cloud-init-vagrant) - Testing cloud-init with Vagrant
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [Jack12816/docker-mdns](https://github.com/Jack12816/docker-mdns) - Simple mDNS/ZeroConf demonstration of a nginx container, acessible at http://nginx.local
-- [Grokzen/docker-redis-cluster](https://github.com/Grokzen/docker-redis-cluster) - Dockerfile for Redis Cluster (redis 3.0+)
 - [hectorm/docker-caddy2](https://github.com/hectorm/docker-caddy2) - A Docker image for Caddy 2.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
@@ -3199,7 +3199,7 @@
 - [google/santa](https://github.com/google/santa) - A binary authorization system for macOS
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
-- [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps
+- [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [BlueM/cliclick](https://github.com/BlueM/cliclick) - macOS CLI tool for emulating mouse and keyboard events
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command line scripts.
 - [whomwah/qlstephen](https://github.com/whomwah/qlstephen) - A QuickLook plugin that lets you view plain text files without a file extension
@@ -4798,7 +4798,6 @@
 - [google-coral/examples-camera](https://github.com/google-coral/examples-camera) - Small code snippets that show how to stream camera images to a Coral device.
 - [balena-io-examples/coral-streaming-object-detector](https://github.com/balena-io-examples/coral-streaming-object-detector) - This example will help you deploy a streaming camera feed with realtime people detection using the Coral Edge TPU for on-device ML inferencing.
 - [leigh-johnson/rpi-deep-pantilt](https://github.com/leigh-johnson/rpi-deep-pantilt) - Object tracking tutorial using TensorFlow / TensorFlow Lite, Raspberry Pi, Pi Camera, and a Pimoroni Pan-Tilt Hat.
-- [NobuoTsukamoto/edge_tpu](https://github.com/NobuoTsukamoto/edge_tpu) - TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).
 - [goruck/radar-ml](https://github.com/goruck/radar-ml) - Detect (classify and localize) people, pets and objects using millimeter-wave radar.
 - [neuralet/smart-social-distancing](https://github.com/neuralet/smart-social-distancing) - Social Distancing Detector using deep learning and capable to run on edge AI devices such as NVIDIA Jetson, Google Coral, and more.
 - [pliablepixels/mlapi](https://github.com/pliablepixels/mlapi) - An easy to use/extend object recognition API you can locally install. Python+Flask. Also works with ZMES!
@@ -5876,6 +5875,7 @@
 - [actions-hub/gcloud](https://github.com/actions-hub/gcloud) - GitHub Action for interacting with Google Cloud Platform (GCP)
 - [samrocketman/docker-compose-ha-consul-vault-ui](https://github.com/samrocketman/docker-compose-ha-consul-vault-ui) - A docker-compose example of HA Consul + Vault + Vault UI
 - [testdrivenio/vault-consul-swarm](https://github.com/testdrivenio/vault-consul-swarm) - 
+- [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [mivok/slack_status_updater](https://github.com/mivok/slack_status_updater) - A simple shell script to update your status in slack from the command line
@@ -6041,6 +6041,7 @@
 - [silveiralexf/monitoring-stack](https://github.com/silveiralexf/monitoring-stack) - Monitoring stack containing ELK + Grafana + Prometheus (with multiple exporters) and authentication through a reverse proxy (Caddy) -- still in progress
 - [mrworf/pi-gen](https://github.com/mrworf/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices
+- [Grokzen/docker-redis-cluster](https://github.com/Grokzen/docker-redis-cluster) - Dockerfile for Redis Cluster (redis 3.0+)
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [jonashackt/gitlab-ci-stack](https://github.com/jonashackt/gitlab-ci-stack) - Full CI pipeline project based on Gitlab & Gitlab CI running Docker, completely automated setup by Vagrant & Ansible, providing Let´s Encrypt certificates for private Servers, multiple Gitlab-Runners and the Gitlab Container Registry, incl. GitLab Pages
 - [ethibox/stacks](https://github.com/ethibox/stacks) - Launch your open-source web apps with one docker command
