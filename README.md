@@ -221,7 +221,7 @@
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 - [antirez/hping](https://github.com/antirez/hping) - hping network tool
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
-- [ejurgensen/forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+- [owntone/forked-daapd](https://github.com/owntone/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [mysql/mysql-proxy](https://github.com/mysql/mysql-proxy) - MySQL Proxy is a simple program that sits between your client and MySQL server(s) and that can monitor, analyze or transform their communication. Its flexibility allows for a wide variety of uses, including load balancing, failover, query analysis, query filtering and modification, and many more.
 - [waywardgeek/infnoise](https://github.com/waywardgeek/infnoise) - The world's easiest TRNG to get right
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
@@ -1729,7 +1729,7 @@
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [yittg/ving](https://github.com/yittg/ving) - 🐸 A ping utility with nice output, with powerful traceroute and port probe.
 - [edgard/iperf3_exporter](https://github.com/edgard/iperf3_exporter) - Simple server that probes iPerf3 endpoints and exports results via HTTP for Prometheus consumption
-- [sundowndev/PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Advanced information gathering & OSINT framework for phone numbers
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, vSphere, MetalStack, and Kubevirt with minimal TCO.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
@@ -2514,6 +2514,7 @@
 - [custom-cards/upcoming-media-card](https://github.com/custom-cards/upcoming-media-card) - 📺 A card to display upcoming episodes and movies from services like: Plex, Kodi, Radarr, Sonarr, and Trakt.
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [danielfm/prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
+- [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
@@ -2557,7 +2558,6 @@
 - [tegon/traktflix](https://github.com/tegon/traktflix) - Trakt.tv + Netflix = :heart:
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
-- [advaithm/cloudflare-DDNS](https://github.com/advaithm/cloudflare-DDNS) - python CLI program to automatically update cloud-flare dns records for dynamic ips
 - [KNawm/speed-cloudflare-cli](https://github.com/KNawm/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [drazisil/cloudflare-ddns-cli](https://github.com/drazisil/cloudflare-ddns-cli) - A CLI wrapper around cloudflare-ddns-sync for updating to IP on CloudFlare
 - [danielpigott/cloudflare-cli](https://github.com/danielpigott/cloudflare-cli) - CLI for interacting with Cloudflare
@@ -4478,7 +4478,6 @@
 - [wociscz/lxd-telegraf-stats](https://github.com/wociscz/lxd-telegraf-stats) - LXD containers metrics
 - [rugantio/fbcrawl](https://github.com/rugantio/fbcrawl) - A Facebook crawler
 - [frankiexyz/ping-exporter](https://github.com/frankiexyz/ping-exporter) - Prometheus Ping exporter
-- [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [jupyterhub/dockerspawner](https://github.com/jupyterhub/dockerspawner) - Spawns JupyterHub single user servers in Docker containers
 - [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
@@ -4568,6 +4567,7 @@
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 - [briis/securityspy](https://github.com/briis/securityspy) - SecuritySpy Integration for Home Assistant with Camera Streams and Motion Detection
 - [opencultureconsulting/openrefine-client](https://github.com/opencultureconsulting/openrefine-client) - The OpenRefine Python Client from Paul Makepeace provides a library for communicating with an OpenRefine server. This fork extends the command line interface (CLI) and is distributed as a convenient one-file-executable (Windows, Linux, Mac). It is also available via Docker Hub, PyPI and Binder.
+- [advaithm/cloudflare-DDNS](https://github.com/advaithm/cloudflare-DDNS) - python CLI program to automatically update cloud-flare dns records for dynamic ips
 - [LINKIWI/cloudflare-ddns-client](https://github.com/LINKIWI/cloudflare-ddns-client) - Linux client for automatic dynamic DNS updates on CloudFlare-managed domains
 - [thesanjeetc/SiriControl-System](https://github.com/thesanjeetc/SiriControl-System) - Control anything with Siri voice commands.
 - [emoji-gen/web-slack-proxy-obsolete](https://github.com/emoji-gen/web-slack-proxy-obsolete) - ARCHIVED: :squirrel: Ultimate Slack Incoming Webhooks proxy
@@ -6633,7 +6633,7 @@
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 - [sphqxe/NATS-WebUI](https://github.com/sphqxe/NATS-WebUI) - A WebUI for NATS Server
 - [keitetran/BroadlinkIRTools](https://github.com/keitetran/BroadlinkIRTools) - Broadlink learn command helper.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
 - [bsa-git/feathers-plus-admin](https://github.com/bsa-git/feathers-plus-admin) - Project feathers-plus-admin
 
 ## XSLT 
