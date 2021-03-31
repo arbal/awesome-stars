@@ -1109,7 +1109,7 @@
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
-- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
 - [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [mdouchement/standardfile](https://github.com/mdouchement/standardfile) - Yet Another Standardfile (standardnotes server) Implementation written in Golang
@@ -2271,7 +2271,7 @@
 - [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [lucasbento/reminders-cli](https://github.com/lucasbento/reminders-cli) - Command-line interface to interact with the Reminders.app
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
-- [ipfs-shipyard/ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
+- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -2488,7 +2488,6 @@
 - [socketio/engine.io](https://github.com/socketio/engine.io) - 
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- [nervetattoo/simple-thermostat](https://github.com/nervetattoo/simple-thermostat) - A different take on the thermostat card for Home Assistant ♨️
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
@@ -5092,7 +5091,7 @@
 - [bablokb/pi-btnap](https://github.com/bablokb/pi-btnap) - Bluetooth Network Access Point
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
-- [scivision/piradar](https://github.com/scivision/piradar) - Radar using Red Pitaya for RF: using Raspberry Pi 3 for quad-core radar signal processing
+- [space-physics/piradar](https://github.com/space-physics/piradar) - Radar using Red Pitaya for RF: using Raspberry Pi 3 for quad-core radar signal processing
 - [not-kennethreitz/osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
 - [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, DPN, CSPNet, and more
 - [goruck/smart-zoneminder](https://github.com/goruck/smart-zoneminder) - Fast object detection, face recognition and S3 upload of ZoneMinder alarms.
@@ -5118,7 +5117,7 @@
 - [mirumee/saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [shashanoid/Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
@@ -6461,6 +6460,7 @@
 - [TimoSta/sprite](https://github.com/TimoSta/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
+- [nervetattoo/simple-thermostat](https://github.com/nervetattoo/simple-thermostat) - A different take on the thermostat card for Home Assistant ♨️
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [nielsfaber/scheduler-card](https://github.com/nielsfaber/scheduler-card) - HA Lovelace card for control of scheduler entities
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
@@ -6500,7 +6500,7 @@
 - [Thiht/smocker](https://github.com/Thiht/smocker) - Smocker is a simple and efficient HTTP mock server and proxy.
 - [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - 📊 📊 📊 Monitors the health and web traffic of servers, microservices, and containers with real-time data monitoring and receive automated notifications over Slack or email.
 - [nomic-io/lotion](https://github.com/nomic-io/lotion) - ✨ Smooth, easy blockchain apps ✨
-- [balena-io/balena-supervisor](https://github.com/balena-io/balena-supervisor) - Balena Supervisor: balena's agent on devices.
+- [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor) - Balena Supervisor: balena's agent on devices.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [marian42/partdesigner](https://github.com/marian42/partdesigner) - Create custom LEGO® Technic compatible construction parts for 3D printing
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
