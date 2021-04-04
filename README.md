@@ -896,6 +896,7 @@
 
 ## Go 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [pniedzwiedzinski/photoprism-cli](https://github.com/pniedzwiedzinski/photoprism-cli) - WIP CLI for interacting with photoprism server
 - [ciehanski/libgen-cli](https://github.com/ciehanski/libgen-cli) - A CLI tool to access the Library Genesis dataset; written in Go.
@@ -2138,6 +2139,8 @@
 
 ## JavaScript 
 
+- [carefulcomputer/myturn-covid-vaccine](https://github.com/carefulcomputer/myturn-covid-vaccine) - Puppeteer script to find available slots for covid-19 vaccine at myturn.ca.gov
+- [devin2712/myturn-monitor](https://github.com/devin2712/myturn-monitor) - CA MyTurn Vaccine Appointment Monitor
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [bettercap/caplets](https://github.com/bettercap/caplets) - bettercap scripts (caplets) and proxy modules.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
