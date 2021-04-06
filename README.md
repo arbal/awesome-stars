@@ -2139,6 +2139,8 @@
 
 ## JavaScript 
 
+- [DurgNomis-drol/google_home_timers_card](https://github.com/DurgNomis-drol/google_home_timers_card) - Card for Home Assistant Google Home integration.
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [Akryum/vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Integrate Google Maps in your Vue application
 - [carefulcomputer/myturn-covid-vaccine](https://github.com/carefulcomputer/myturn-covid-vaccine) - Puppeteer script to find available slots for covid-19 vaccine at myturn.ca.gov
 - [devin2712/myturn-monitor](https://github.com/devin2712/myturn-monitor) - CA MyTurn Vaccine Appointment Monitor
@@ -2753,6 +2755,7 @@
 - [ouspg/urlhandlers](https://github.com/ouspg/urlhandlers) - Discover and Hack URL handlers
 - [kbshl/alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
 - [auth0/repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [Thomas101/wmail](https://github.com/Thomas101/wmail) - The missing desktop client for Gmail & Google Inbox
@@ -3859,7 +3862,6 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [phpipam/phpipam-agent](https://github.com/phpipam/phpipam-agent) - phpipam scan agent
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools.
-- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [zqzten/alfred-web-search-suggest](https://github.com/zqzten/alfred-web-search-suggest) - Alfred search suggest workflow for various popular websites.
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 3/4
 - [Cacti/cacti](https://github.com/Cacti/cacti) - Cacti ™
@@ -3968,6 +3970,8 @@
 
 ## Python 
 
+- [jnimmo/hass-dmx](https://github.com/jnimmo/hass-dmx) - Home Assistant DMX over IP Integration
+- [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
 - [datagod/gpsprobe](https://github.com/datagod/gpsprobe) - GPSProbe allows you to record GPS, MAC address, signal strength etc. of wifi enabled devices nearby.
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [danielo515/photoprism_face_recognition](https://github.com/danielo515/photoprism_face_recognition) - 
