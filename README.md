@@ -207,6 +207,7 @@
 - [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
+- [kermitt2/pdfalto](https://github.com/kermitt2/pdfalto) - PDF to XML ALTO file converter
 - [kermitt2/pdf2xml](https://github.com/kermitt2/pdf2xml) - pdf2xml convertor based on Xpdf library - modified version
 - [DNS-OARC/dnsjit](https://github.com/DNS-OARC/dnsjit) - Engine for capturing, parsing and replaying DNS
 - [DNS-OARC/dsc](https://github.com/DNS-OARC/dsc) - DNS Statistics Collector
@@ -422,6 +423,7 @@
 
 ## C# # 
 
+- [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
 - [Sicos1977/ChromeHtmlToPdf](https://github.com/Sicos1977/ChromeHtmlToPdf) - Convert HTML to PDF with Chrome
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
@@ -482,7 +484,7 @@
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - The ultimate dirty YouTube library
 - [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 - [nlkl/Optional](https://github.com/nlkl/Optional) - A robust option type for C#
-- [zzzprojects/GraphDiff](https://github.com/zzzprojects/GraphDiff) - Entity Framework graph merge extension method
+- [zzzprojects/GraphDiff](https://github.com/zzzprojects/GraphDiff) - GraphDiff is a library that allows the automatic update of a detached graph using Entity Framework code first.
 - [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [jbakic/Shielded](https://github.com/jbakic/Shielded) - A strict and mostly lock-free Software Transactional Memory (STM) for .NET
 - [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
@@ -556,7 +558,6 @@
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [apache/trafficserver](https://github.com/apache/trafficserver) - Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
-- [kermitt2/pdfalto](https://github.com/kermitt2/pdfalto) - PDF to XML ALTO file converter
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
 - [rigtorp/udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
@@ -947,7 +948,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -3970,6 +3971,7 @@
 
 ## Python 
 
+- [markwal/OctoPrint-GPX](https://github.com/markwal/OctoPrint-GPX) - An OctoPrint plug-in to use GPX as the protocol layer underneath rather than replacing g-code to talk to s3g/x3g machines, for example, a FlashForge.
 - [jnimmo/hass-dmx](https://github.com/jnimmo/hass-dmx) - Home Assistant DMX over IP Integration
 - [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
 - [datagod/gpsprobe](https://github.com/datagod/gpsprobe) - GPSProbe allows you to record GPS, MAC address, signal strength etc. of wifi enabled devices nearby.
@@ -4833,7 +4835,7 @@
 - [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
 - [thtrieu/darkflow](https://github.com/thtrieu/darkflow) - Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
 - [Kao1126/EdgeTPU-FaceNet](https://github.com/Kao1126/EdgeTPU-FaceNet) - Implement SSD and FaceNet on Edge TPU Accelerator
-- [huseinzol05/Gather-Deployment](https://github.com/huseinzol05/Gather-Deployment) - Gathers scalable tensorflow and infrastructure deployment
+- [huseinzol05/Gather-Deployment](https://github.com/huseinzol05/Gather-Deployment) - Gathers scalable tensorflow and Python infrastructure deployment, Husein Go-To for development, 100% Docker.
 - [larsbijl/trending_archive](https://github.com/larsbijl/trending_archive) - a Archive of the github daily trending information
 - [morpheus65535/oscarr](https://github.com/morpheus65535/oscarr) - Oscarr is a dashboard application for users of Plex, Emby, Sonarr, Radarr and Bazarr. It gives you and overview of your media management software.
 - [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox) - Ansible role to provision containers in Proxmox VE virtualization
@@ -6407,7 +6409,7 @@
 - [Brandawg93/homebridge-nest-cam](https://github.com/Brandawg93/homebridge-nest-cam) - View your Nest cams in HomeKit using Homebridge.
 - [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :rocket: GitHub action for deploying a project to GitHub pages.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like. It also includes support for GitHub Enterprise.
 - [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [AntlerVC/firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
