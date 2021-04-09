@@ -1255,7 +1255,6 @@
 - [williamchanrico/planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server dependencies along with required bandwidth
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang live stream lib/client/server. support RTMP/RTSP/HLS/HTTP[S]-FLV/HTTP-TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify, GOP cache.
 - [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -2527,6 +2526,7 @@
 - [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex
 - [d3/d3-queue](https://github.com/d3/d3-queue) - Evaluate asynchronous tasks with configurable concurrency.
@@ -2887,7 +2887,6 @@
 - [elavoie/webrtc-connection-testing](https://github.com/elavoie/webrtc-connection-testing) - Server application to test the direct connectivity between WebRTC participants.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [janoside/btc-rpc-explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core.
-- [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) - Visualize your Google Location History using an interactive heatmap
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -3997,6 +3996,7 @@
 
 ## Python 
 
+- [teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) - A series of DAGs/Workflows to help maintain the operation of Airflow
 - [bonovoxly/coinmarketcap-exporter](https://github.com/bonovoxly/coinmarketcap-exporter) - coinmarketcap.com Prometheus Exporter
 - [fishtown-analytics/dbt](https://github.com/fishtown-analytics/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -5151,6 +5151,7 @@
 - [leswright1977/RPi4-Google-Coral](https://github.com/leswright1977/RPi4-Google-Coral) - Google Coral on the Raspberry Pi 4
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
+- [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
 - [danielperna84/hass-configurator](https://github.com/danielperna84/hass-configurator) - Configuration UI for Home Assistant
 - [bibcure/scihub2pdf](https://github.com/bibcure/scihub2pdf) - Downloads pdfs via a DOI number, article title or a bibtex file, using the database of libgen(sci-hub) , arxiv
 - [adolfosilva/libgen.py](https://github.com/adolfosilva/libgen.py) - Download books from gen.lib.rus.ec, libgen.io, libgen.pw, b-ok.org and bookfi.net
@@ -5617,6 +5618,8 @@
 
 ## Shell 
 
+- [TwilightCoders/iocage-plugin-fail2ban](https://github.com/TwilightCoders/iocage-plugin-fail2ban) - Fail2Ban iocage plugin
+- [pavolelsig/IOMMU-viewer](https://github.com/pavolelsig/IOMMU-viewer) - 
 - [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - Docker image for Keycloak project
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
