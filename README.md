@@ -1898,7 +1898,7 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [GoogleCloudPlatform/cloud-ops-sandbox](https://github.com/GoogleCloudPlatform/cloud-ops-sandbox) - Cloud Operations Sandbox is an open source tool that helps practitioners to learn Service Reliability Engineering practices from Google and apply them on their cloud services using Cloud Operations suite of tools.
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Automatically generate Google Cloud Platform support for OSS IaaC Projects
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Generate Google Cloud Platform support for Terraform, Ansible, InSpec
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
@@ -2453,7 +2453,7 @@
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [pnxtech/hydra](https://github.com/pnxtech/hydra) - A light-weight library for building distributed applications such as microservices
 - [seccubus/seccubus](https://github.com/seccubus/seccubus) - Easy automated vulnerability scanning, reporting and analysis
-- [drudru/ansi_up](https://github.com/drudru/ansi_up) - A javascript library that converts text with ANSI terminal codes into colorful HTML
+- [drudru/ansi_up](https://github.com/drudru/ansi_up) - A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
 - [wickedest/Mergely](https://github.com/wickedest/Mergely) - Merge and diff documents online
 - [satcom886/NetBoard](https://github.com/satcom886/NetBoard) - A multi-server dashboard for Netdata
 - [apiaryio/curl-trace-parser](https://github.com/apiaryio/curl-trace-parser) - Parser for output from Curl --trace option
@@ -2661,7 +2661,7 @@
 - [SamVerschueren/alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) - Alfred 3 workflow to fabulously search and kill processes
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
-- [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - The missing link between spreadsheets and data visualization
+- [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [jwerle/rtmp-swarm](https://github.com/jwerle/rtmp-swarm) - Publish, consume, and discover RTMP streams in a network swarm
 - [inlet/alfred-workflow-gmail-filters](https://github.com/inlet/alfred-workflow-gmail-filters) - Manage Gmail Filters via Alfred
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
@@ -5454,6 +5454,7 @@
 
 ## Rust 
 
+- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
@@ -6696,7 +6697,7 @@
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 - [sphqxe/NATS-WebUI](https://github.com/sphqxe/NATS-WebUI) - A WebUI for NATS Server
 - [keitetran/BroadlinkIRTools](https://github.com/keitetran/BroadlinkIRTools) - Broadlink learn command helper.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [bsa-git/feathers-plus-admin](https://github.com/bsa-git/feathers-plus-admin) - Project feathers-plus-admin
 
 ## XSLT 
