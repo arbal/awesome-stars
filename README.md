@@ -128,6 +128,9 @@
 
 ## C 
 
+- [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
+- [sipwise/rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
+- [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [deepwn/deepMiner](https://github.com/deepwn/deepMiner) - deepMiner webminer proxy (update for cryptoNight R)
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
@@ -769,6 +772,7 @@
 
 ## Dockerfile 
 
+- [giovtorres/slurm-docker-cluster](https://github.com/giovtorres/slurm-docker-cluster) - A Slurm cluster using docker-compose
 - [dorjik/docker-xmrig](https://github.com/dorjik/docker-xmrig) - 
 - [magicdude4eva/docker-smokeping](https://github.com/magicdude4eva/docker-smokeping) - Smokeping Docker with latest version of Smokeping, speedtest-cli and PhantomJS
 - [pbkhrv/rtl_433-hass-addons](https://github.com/pbkhrv/rtl_433-hass-addons) - Collection of Home Assistant add-ons that use rtl_433
@@ -914,6 +918,16 @@
 
 ## Go 
 
+- [honeytrap/honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework.
+- [banzaicloud/spot-price-exporter](https://github.com/banzaicloud/spot-price-exporter) - Prometheus exporter to track spot price history
+- [banzaicloud/cloudinfo](https://github.com/banzaicloud/cloudinfo) - Cloud instance type and price information as a service
+- [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
+- [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
+- [piquette/finance-go](https://github.com/piquette/finance-go) - :bar_chart: Financial markets data library implemented in go.
+- [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
+- [ohsu-comp-bio/funnel](https://github.com/ohsu-comp-bio/funnel) - Funnel is a toolkit for distributed task execution via a simple, standard API.
+- [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure storage for personal records built to comply with GDPR
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -1904,6 +1918,7 @@
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [nabla-c0d3/trust_stores_observatory](https://github.com/nabla-c0d3/trust_stores_observatory) - Continuously monitor and record the content of the major platforms' root certificate stores.
 - [ookangzheng/blahdns](https://github.com/ookangzheng/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
+- [ninoseki/mihari](https://github.com/ninoseki/mihari) - A framework for continuous OSINT based threat hunting
 - [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API)
 - [blakadder/zigbee](https://github.com/blakadder/zigbee) - Database of Zigbee devices compatible with third party gateways: ZHA, deCONZ, Zigbee2MQTT, Tasmota, ZiGate, ioBroker,
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
@@ -2161,6 +2176,20 @@
 
 ## JavaScript 
 
+- [watson/ipp-printer](https://github.com/watson/ipp-printer) - An IPP printer written in Node.js
+- [mafintosh/dns-discovery](https://github.com/mafintosh/dns-discovery) - Discovery peers in a distributed system using regular dns and multicast dns.
+- [mafintosh/airswarm](https://github.com/mafintosh/airswarm) - Network swarm that automagically discovers other peers on the network using multicast dns
+- [mafintosh/hash-to-port](https://github.com/mafintosh/hash-to-port) - Hash a value to a valid port
+- [watson/geocode-wifi](https://github.com/watson/geocode-wifi) - Returns a latitude and a longitude given an array of wifi access points
+- [mafintosh/discovery-swarm](https://github.com/mafintosh/discovery-swarm) - A network swarm that uses discovery-channel to find peers
+- [watson/wifi-triangulate](https://github.com/watson/wifi-triangulate) - Finds your current position on planet earth using the wifi access points in your vicinity
+- [mafintosh/peerwiki](https://github.com/mafintosh/peerwiki) - all of wikipedia on bittorrent
+- [meetDeveloper/googleDictionaryAPI](https://github.com/meetDeveloper/googleDictionaryAPI) - Google does not provide Google Dictionary API so I created one.
+- [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper) - Download website to local directory (including all css, images, js, etc.)
+- [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
+- [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [gorhill/httpswitchboard](https://github.com/gorhill/httpswitchboard) - Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -2476,7 +2505,7 @@
 - [bichenkk/coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -3279,6 +3308,9 @@
 
 ## Others 
 
+- [dariubs/awesome-proxy](https://github.com/dariubs/awesome-proxy) - A collaborative list of awesome proxy servers and resources. Feel free to contribute!
+- [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) - A :tophat: list of network layer resources written pure JS.
+- [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [evilsocket/bettercap](https://github.com/evilsocket/bettercap) - DEPRECATED, bettercap developement moved here: https://github.com/bettercap/bettercap
 - [oziee/photoprism-places](https://github.com/oziee/photoprism-places) - Reverse Geocoding API
 - [abhineet123/Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) - Collection of papers, datasets, code and other resources for object tracking and detection using deep learning
@@ -3808,6 +3840,7 @@
 
 ## PHP 
 
+- [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Please be aware that the Issue tracker on Github is a Bug Tracker, not a Support Forum!
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
@@ -3996,6 +4029,12 @@
 
 ## Python 
 
+- [keikoproj/minion-manager](https://github.com/keikoproj/minion-manager) - Intelligent use of Spot Instances in Kubernetes
+- [mariostoev/finviz](https://github.com/mariostoev/finviz) - Unofficial API for finviz.com
+- [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
+- [scrapinghub/scrapyrt](https://github.com/scrapinghub/scrapyrt) - HTTP API for Scrapy spiders
+- [alberanid/imdbpy](https://github.com/alberanid/imdbpy) - IMDbPY is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) - A series of DAGs/Workflows to help maintain the operation of Airflow
 - [bonovoxly/coinmarketcap-exporter](https://github.com/bonovoxly/coinmarketcap-exporter) - coinmarketcap.com Prometheus Exporter
 - [fishtown-analytics/dbt](https://github.com/fishtown-analytics/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
@@ -4358,7 +4397,7 @@
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - Parallel Scripting Library
-- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -5270,7 +5309,7 @@
 - [yufree/scifetch](https://github.com/yufree/scifetch) - webpage crawling tools for pubmed, google scholar and rss
 - [daattali/addinslist](https://github.com/daattali/addinslist) - 📜 Discover and install useful RStudio addins
 - [ropensci/rcrossref](https://github.com/ropensci/rcrossref) - R client for various CrossRef APIs
-- [jeroen/askpass](https://github.com/jeroen/askpass) - Safe Password Entry for R, Git, and SSH
+- [r-lib/askpass](https://github.com/r-lib/askpass) - Password Entry for R, Git, and SSH
 - [ropensci/rorcid](https://github.com/ropensci/rorcid) - A programmatic interface the Orcid.org API
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
@@ -5324,6 +5363,8 @@
 
 ## Ruby 
 
+- [hendotcat/ppl](https://github.com/hendotcat/ppl) - The command line address book
+- [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk) - AdoptOpenJDK HomeBrew Tap
 - [alan-ai/alan-sdk-flutter](https://github.com/alan-ai/alan-sdk-flutter) - Alan AI Flutter SDK adds a voice assistant or chatbot to your app.
@@ -5341,7 +5382,6 @@
 - [unrelentingtech/freshcerts](https://github.com/unrelentingtech/freshcerts) - ACME certificate protocol (Let's Encrypt) proxy client with a dashboard and monitoring
 - [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers) - Keep your Selenium WebDrivers updated automatically
 - [chaps-io/gush](https://github.com/chaps-io/gush) - Fast and distributed workflow runner using ActiveJob and Redis
-- [ninoseki/mihari](https://github.com/ninoseki/mihari) - A framework for continuous OSINT based threat hunting
 - [textmate/rmate](https://github.com/textmate/rmate) - Edit files from an ssh session in TextMate
 - [cvincent/umessage](https://github.com/cvincent/umessage) - A web-based bridge for iMessage
 - [AndBobsYourUncle/hassio-addons](https://github.com/AndBobsYourUncle/hassio-addons) - 
@@ -5504,7 +5544,7 @@
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [ogham/dog](https://github.com/ogham/dog) - Command-line DNS client
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
@@ -5605,6 +5645,7 @@
 
 ## Scala 
 
+- [zaratsian/network_topology_analysis](https://github.com/zaratsian/network_topology_analysis) - Code to collect and analyze traceroute data within a network topology
 - [mesos/chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [lightbend/cloudflow](https://github.com/lightbend/cloudflow) - Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.
@@ -5619,6 +5660,7 @@
 
 ## Shell 
 
+- [lucasroges/slurm-swarm-cluster](https://github.com/lucasroges/slurm-swarm-cluster) - 
 - [TwilightCoders/iocage-plugin-fail2ban](https://github.com/TwilightCoders/iocage-plugin-fail2ban) - Fail2Ban iocage plugin
 - [pavolelsig/IOMMU-viewer](https://github.com/pavolelsig/IOMMU-viewer) - 
 - [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - Docker image for Keycloak project
@@ -6545,7 +6587,7 @@
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
-- [DimensionDev/Maskbook](https://github.com/DimensionDev/Maskbook) - The portal to the new, open internet. ([I:b])
+- [DimensionDev/Maskbook](https://github.com/DimensionDev/Maskbook) - The portal to the new, open Internet. ([I:b])
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Puppeteer Pool, run a cluster of instances in parallel
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
