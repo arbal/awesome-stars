@@ -518,6 +518,7 @@
 
 ## C++ 
 
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
 - [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -918,6 +919,7 @@
 
 ## Go 
 
+- [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [honeytrap/honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework.
 - [banzaicloud/spot-price-exporter](https://github.com/banzaicloud/spot-price-exporter) - Prometheus exporter to track spot price history
 - [banzaicloud/cloudinfo](https://github.com/banzaicloud/cloudinfo) - Cloud instance type and price information as a service
@@ -2051,6 +2053,7 @@
 
 ## Java 
 
+- [GoogleCloudPlatform/DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
 - [kaklakariada/portmapper](https://github.com/kaklakariada/portmapper) - A tool for managing port forwardings via UPnP
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
@@ -2176,6 +2179,7 @@
 
 ## JavaScript 
 
+- [mikesteele/dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Disney+
 - [watson/ipp-printer](https://github.com/watson/ipp-printer) - An IPP printer written in Node.js
 - [mafintosh/dns-discovery](https://github.com/mafintosh/dns-discovery) - Discovery peers in a distributed system using regular dns and multicast dns.
 - [mafintosh/airswarm](https://github.com/mafintosh/airswarm) - Network swarm that automagically discovers other peers on the network using multicast dns
@@ -2724,7 +2728,7 @@
 - [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
 - [GoogleChromeLabs/lighthouse-keeper](https://github.com/GoogleChromeLabs/lighthouse-keeper) - Collects and displays Lighthouse data over time
 - [Verivox/lighthouse-monitor](https://github.com/Verivox/lighthouse-monitor) - Investigate performance over your whole company with lighthouse
-- [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦Generate badges (shields.io) based on Lighthouse performance.
+- [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦 Generate badges (shields.io) based on Lighthouse performance.
 - [voorhoede/lighthouse-security](https://github.com/voorhoede/lighthouse-security) - Runs the default Google Lighthouse tests with additional security tests
 - [treosh/exthouse](https://github.com/treosh/exthouse) - Analyze the impact of a browser extension on web performance.
 - [lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
@@ -3308,6 +3312,7 @@
 
 ## Others 
 
+- [Timtech4u/awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
 - [dariubs/awesome-proxy](https://github.com/dariubs/awesome-proxy) - A collaborative list of awesome proxy servers and resources. Feel free to contribute!
 - [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) - A :tophat: list of network layer resources written pure JS.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
@@ -4029,6 +4034,9 @@
 
 ## Python 
 
+- [mrooney/mintapi](https://github.com/mrooney/mintapi) - a screen-scraping API for Mint.com
+- [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites
+- [huntrar/scrape](https://github.com/huntrar/scrape) - a command-line web scraping tool
 - [keikoproj/minion-manager](https://github.com/keikoproj/minion-manager) - Intelligent use of Spot Instances in Kubernetes
 - [mariostoev/finviz](https://github.com/mariostoev/finviz) - Unofficial API for finviz.com
 - [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
@@ -5363,6 +5371,7 @@
 
 ## Ruby 
 
+- [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ Open-Source Management Platform
 - [hendotcat/ppl](https://github.com/hendotcat/ppl) - The command line address book
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
