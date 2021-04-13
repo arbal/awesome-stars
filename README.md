@@ -39,6 +39,7 @@
   - [JSON](#json)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jsonnet](#jsonnet)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -542,6 +543,7 @@
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files on macOS Catalina and Big Sur.
 - [cnr-isti-vclab/PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
@@ -768,7 +770,7 @@
 
 - [photoprism/photoprism-mobile](https://github.com/photoprism/photoprism-mobile) - PhotoPrism Mobile App
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
-- [CometTools/LunaSea](https://github.com/CometTools/LunaSea) - A self-hosted controller for mobile built using the Flutter framework.
+- [CometTools/LunaSea](https://github.com/CometTools/LunaSea) - A self-hosted controller for mobile and macOS built using the Flutter framework.
 - [jogboms/flutter_offline](https://github.com/jogboms/flutter_offline) - ✈️ A tidy utility to handle offline/online connectivity like a Boss
 
 ## Dockerfile 
@@ -850,7 +852,6 @@
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [gramaziokohler/ros_docker](https://github.com/gramaziokohler/ros_docker) - Docker images for ROS master, bridge and nodes
-- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
 - [MojaX2/docker-ros-noetic](https://github.com/MojaX2/docker-ros-noetic) - 
 - [mglukhovsky/caddy2](https://github.com/mglukhovsky/caddy2) - Caddy 2 with Cloudflare modules
@@ -1010,7 +1011,6 @@
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [mdbraber/acmeproxy](https://github.com/mdbraber/acmeproxy) - Proxy server for ACME DNS challenges written in Go
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
@@ -1905,6 +1905,7 @@
 
 ## HTML 
 
+- [datadesk/california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas) - Simple maps of California's 58 counties
 - [mtlynch/tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [FlyOrBoom/mercator](https://github.com/FlyOrBoom/mercator) - Scripts that alters the camera feed for Google Meet.
 - [datar/low-latency-system](https://github.com/datar/low-latency-system) - Everything about low latency system.
@@ -1924,7 +1925,6 @@
 - [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API)
 - [blakadder/zigbee](https://github.com/blakadder/zigbee) - Database of Zigbee devices compatible with third party gateways: ZHA, deCONZ, Zigbee2MQTT, Tasmota, ZiGate, ioBroker,
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [e2guardian/e2guardian](https://github.com/e2guardian/e2guardian) - E2guardian is a web content filter that  can work in proxy, transparent or icap server modes
 - [dvdvdmt/popup-tab-switcher](https://github.com/dvdvdmt/popup-tab-switcher) - A browser extension that makes switching between tabs more convenient
@@ -1976,7 +1976,6 @@
 - [FrancesCoronel/automator-workflows](https://github.com/FrancesCoronel/automator-workflows) - Workflows I've created for the Automator app on macOS 👾
 - [zimmertr/Bootstrap-Kubernetes-with-QEMU](https://github.com/zimmertr/Bootstrap-Kubernetes-with-QEMU) - Bootstrap Kubernetes on Proxmox using QEMU, Ansible, and Debian
 - [iancleary/ansible-role-zsh](https://github.com/iancleary/ansible-role-zsh) - Ansible role to install ZSH, with the ohmyzshplugin manager
-- [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -1987,7 +1986,6 @@
 - [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [darrow/balena-piaware](https://github.com/darrow/balena-piaware) - 
-- [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [hassio-addons/addon-zwave2mqtt](https://github.com/hassio-addons/addon-zwave2mqtt) - Z-Wave to MQTT - Home Assistant Community Add-ons
 - [Oefenweb/ansible-locales](https://github.com/Oefenweb/ansible-locales) - Ansible role to set up locales in Debian-like systems
@@ -2179,6 +2177,10 @@
 
 ## JavaScript 
 
+- [BinaryMuse/planetary.js](https://github.com/BinaryMuse/planetary.js) - :earth_americas: Awesome interactive globes for the web
+- [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
+- [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
+- [mostfamiliar/elevation-cli](https://github.com/mostfamiliar/elevation-cli) - Mapbox elevation query CLI
 - [mikesteele/dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Disney+
 - [watson/ipp-printer](https://github.com/watson/ipp-printer) - An IPP printer written in Node.js
 - [mafintosh/dns-discovery](https://github.com/mafintosh/dns-discovery) - Discovery peers in a distributed system using regular dns and multicast dns.
@@ -2204,7 +2206,7 @@
 - [carefulcomputer/myturn-covid-vaccine](https://github.com/carefulcomputer/myturn-covid-vaccine) - Puppeteer script to find available slots for covid-19 vaccine at myturn.ca.gov
 - [devin2712/myturn-monitor](https://github.com/devin2712/myturn-monitor) - CA MyTurn Vaccine Appointment Monitor
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
-- [bettercap/caplets](https://github.com/bettercap/caplets) - bettercap scripts (caplets) and proxy modules.
+- [bettercap/caplets](https://github.com/bettercap/caplets) - caplets and proxy modules.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [zhang-hz/zotero-autofetch](https://github.com/zhang-hz/zotero-autofetch) - Zotero plugin for automatic download of PDFs from Scihub and Google Scholar
 - [lintool/scholar-scraper](https://github.com/lintool/scholar-scraper) - Scrapes citation statistics from Google Scholar
@@ -2384,7 +2386,7 @@
 - [greghesp/assistant-relay](https://github.com/greghesp/assistant-relay) - A Node.js server that allows for sending commands to Google Home/Assistant from endpoints
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [zwave-js/zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt) - Zwave to Mqtt gateway and Control Panel Web UI. Powered by Nodejs, ZwaveJs and Vue/Vuetify
+- [zwave-js/zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt) - Zwave to Mqtt gateway and Control Panel Web UI. Built using Nodejs, and Vue/Vuetify
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [sindresorhus/slugify-cli](https://github.com/sindresorhus/slugify-cli) - Slugify a string
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
@@ -3044,6 +3046,12 @@
 - [jquery/jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [guardianproject/cryptocat](https://github.com/guardianproject/cryptocat) - Web chat client with client-side cryptography.
+
+## Jinja 
+
+- [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
+- [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
+- [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
 
 ## Jsonnet 
 
@@ -3845,6 +3853,7 @@
 
 ## PHP 
 
+- [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Please be aware that the Issue tracker on Github is a Bug Tracker, not a Support Forum!
@@ -5314,6 +5323,7 @@
 
 ## R 
 
+- [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
 - [yufree/scifetch](https://github.com/yufree/scifetch) - webpage crawling tools for pubmed, google scholar and rss
 - [daattali/addinslist](https://github.com/daattali/addinslist) - 📜 Discover and install useful RStudio addins
 - [ropensci/rcrossref](https://github.com/ropensci/rcrossref) - R client for various CrossRef APIs
@@ -6129,6 +6139,7 @@
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [hoobs-org/HOOBS](https://github.com/hoobs-org/HOOBS) - Build your Smart Home with HOOBS. Connect over 2,000 Accessories to your favorite Ecosystem.
 - [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
+- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [le0me55i/zsh-systemd](https://github.com/le0me55i/zsh-systemd) - forked from https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/systemd
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -6748,7 +6759,7 @@
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 - [sphqxe/NATS-WebUI](https://github.com/sphqxe/NATS-WebUI) - A WebUI for NATS Server
 - [keitetran/BroadlinkIRTools](https://github.com/keitetran/BroadlinkIRTools) - Broadlink learn command helper.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers https://hoppscotch.io
 - [bsa-git/feathers-plus-admin](https://github.com/bsa-git/feathers-plus-admin) - Project feathers-plus-admin
 
 ## XSLT 
