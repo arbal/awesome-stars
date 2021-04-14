@@ -1275,6 +1275,7 @@
 - [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [inlets/inletsctl](https://github.com/inlets/inletsctl) - The fastest way to create self-hosted exit-servers
 - [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
@@ -1906,7 +1907,6 @@
 ## HTML 
 
 - [datadesk/california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas) - Simple maps of California's 58 counties
-- [mtlynch/tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [FlyOrBoom/mercator](https://github.com/FlyOrBoom/mercator) - Scripts that alters the camera feed for Google Meet.
 - [datar/low-latency-system](https://github.com/datar/low-latency-system) - Everything about low latency system.
 - [maxvoltar/photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
@@ -1964,7 +1964,6 @@
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Facebook, Amazon, Apple, Netflix and Google (FAANG) Job preparation.
 - [homelabos/homelabos](https://github.com/homelabos/homelabos) - Unofficial GitHub mirror of HomelabOS (Don't issue PRs to this repo).
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
-- [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden RS - Home Assistant Community Add-ons
 - [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
 - [truenas/documentation](https://github.com/truenas/documentation) - TrueNAS Documentation Hub
 - [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
@@ -1983,7 +1982,6 @@
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
 - [Akipe/ansible_system_recipes](https://github.com/Akipe/ansible_system_recipes) - Personal Ansible recipes for manage my computers & servers.
-- [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [darrow/balena-piaware](https://github.com/darrow/balena-piaware) - 
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
@@ -2051,6 +2049,7 @@
 
 ## Java 
 
+- [johannesschaefer/webnettools](https://github.com/johannesschaefer/webnettools) - Web Net Tools is a web frontend for some useful command line tooling. It provides especially an web frontend for tools like testssl.sh and nmap.
 - [GoogleCloudPlatform/DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
 - [kaklakariada/portmapper](https://github.com/kaklakariada/portmapper) - A tool for managing port forwardings via UPnP
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
@@ -2177,6 +2176,7 @@
 
 ## JavaScript 
 
+- [mapbox/geobuf](https://github.com/mapbox/geobuf) - A compact binary encoding for geographic data.
 - [BinaryMuse/planetary.js](https://github.com/BinaryMuse/planetary.js) - :earth_americas: Awesome interactive globes for the web
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
@@ -2562,7 +2562,6 @@
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex
 - [d3/d3-queue](https://github.com/d3/d3-queue) - Evaluate asynchronous tasks with configurable concurrency.
 - [beatfreaker/is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not
@@ -3050,7 +3049,9 @@
 ## Jinja 
 
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
+- [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden RS - Home Assistant Community Add-ons
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
+- [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
 
 ## Jsonnet 
@@ -3108,7 +3109,7 @@
 - [jgoerner/data-science-stack-cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter) - 🐳📊🤓Cookiecutter template to launch an awesome dockerized Data Science toolstack (incl. Jupyster, Superset, Postgres, Minio, AirFlow & API Star)
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [danecollins/fitbit](https://github.com/danecollins/fitbit) - Tools to analyze your fitbit data
-- [ironmussa/Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
+- [ironmussa/Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with pandas, dask, cudf, dask_cudf and pyspark
 - [tmthydvnprt/pfcompute](https://github.com/tmthydvnprt/pfcompute) - Personal Finance library for the Computationally Curious.
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
 - [H21lab/Anomaly-Detection](https://github.com/H21lab/Anomaly-Detection) - Scripts to help to detect anomalies in pcap file. Anomaly Detection using tensorflow and tshark.
@@ -3320,6 +3321,7 @@
 
 ## Others 
 
+- [gl-inet/ble2mqtt](https://github.com/gl-inet/ble2mqtt) - BLE 2 MQTT bridge on GL.iNet IoT gateway
 - [Timtech4u/awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
 - [dariubs/awesome-proxy](https://github.com/dariubs/awesome-proxy) - A collaborative list of awesome proxy servers and resources. Feel free to contribute!
 - [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) - A :tophat: list of network layer resources written pure JS.
@@ -4063,9 +4065,10 @@
 - [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
 - [datagod/gpsprobe](https://github.com/datagod/gpsprobe) - GPSProbe allows you to record GPS, MAC address, signal strength etc. of wifi enabled devices nearby.
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
+- [mtlynch/tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [danielo515/photoprism_face_recognition](https://github.com/danielo515/photoprism_face_recognition) - 
 - [zhulik/hass-photoprism](https://github.com/zhulik/hass-photoprism) - Home assistant integration for photoprism
-- [vignif/crawler-google-scholar](https://github.com/vignif/crawler-google-scholar) - Download automatically statistics and pictures from google scholar's researchers.
+- [vignif/crawler-google-scholar](https://github.com/vignif/crawler-google-scholar) - This bot crawls and downloads statistics and pictures from google scholar's researchers.
 - [facebookresearch/end-to-end-negotiator](https://github.com/facebookresearch/end-to-end-negotiator) - Deal or No Deal? End-to-End Learning for Negotiation Dialogues
 - [sackh/maps-cli](https://github.com/sackh/maps-cli) - A CLI for maps services from various providers.
 - [lqhl/wait-for-it](https://github.com/lqhl/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
@@ -4098,7 +4101,7 @@
 - [jonathanrjpereira/Smart-Energy-Monitor](https://github.com/jonathanrjpereira/Smart-Energy-Monitor) - 🔌 Load Monitoring and Energy Disaggregation on a RasPi
 - [smakonin/RAEdataset](https://github.com/smakonin/RAEdataset) - Scripts of the the Rainforest Automation Energy Dataset (RAE dataset)
 - [SrdjanLL/SensibleNILM](https://github.com/SrdjanLL/SensibleNILM) - Energy disaggregation - Deep learning approach.
-- [UCA-Datalab/better_nilm](https://github.com/UCA-Datalab/better_nilm) - Non-Intrusive Load Monitoring (NILM) aims to predict the status or consumption of domestic appliances in a household only by knowing the aggregated power load. NILM can be formulated as regression problem or most often as a classification problem. Most datasets gathered by smart meters allow to define naturally a regression problem, but the corresponding classification problem is a derived one, since it requires a conversion from the power signal to the status of each device by a thresholding method. We treat three different thresholding methods to perform this task, discussing their differences on various devices from the UK-DALE dataset. We analyze the performance of deep learning state-of-the-art architectures on both the regression and classification problems, introducing criteria to select the most convenient thresholding method.
+- [UCA-Datalab/nilm-thresholding](https://github.com/UCA-Datalab/nilm-thresholding) - Non-Intrusive Load Monitoring (NILM) aims to predict the status or consumption of domestic appliances in a household only by knowing the aggregated power load. NILM can be formulated as regression problem or most often as a classification problem. Most datasets gathered by smart meters allow to define naturally a regression problem, but the corresponding classification problem is a derived one, since it requires a conversion from the power signal to the status of each device by a thresholding method. We treat three different thresholding methods to perform this task, discussing their differences on various devices from the UK-DALE dataset. We analyze the performance of deep learning state-of-the-art architectures on both the regression and classification problems, introducing criteria to select the most convenient thresholding method.
 - [ChristoferNal/multi-nilm](https://github.com/ChristoferNal/multi-nilm) - Multi-NILM: Multi Label Non Intrusive Load Monitoring
 - [nilmtk/nilmtk](https://github.com/nilmtk/nilmtk) - Non-Intrusive Load Monitoring Toolkit (nilmtk)
 - [sambaiga/AWRGNILM](https://github.com/sambaiga/AWRGNILM) - Adaptive Recurrence Graph for Appliance classification in NILM.
@@ -4649,7 +4652,6 @@
 - [graphite-project/carbon](https://github.com/graphite-project/carbon) - Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.
 - [ContextLab/hypertools](https://github.com/ContextLab/hypertools) - A Python toolbox for gaining geometric insights into high-dimensional data
 - [microsoft/forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
-- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [evanrich/py-eagle-mqtt](https://github.com/evanrich/py-eagle-mqtt) - Python based Docker for Eagle to MQTT reader
 - [google-coral/pycoral](https://github.com/google-coral/pycoral) - Python API for ML inferencing and transfer-learning on Coral devices
@@ -5484,7 +5486,7 @@
 - [puppetlabs/razor-server](https://github.com/puppetlabs/razor-server) - Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning
 - [chrishunt/github-auth](https://github.com/chrishunt/github-auth) - SSH key management for GitHub users
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
-- [DomT4/homebrew-autoupdate](https://github.com/DomT4/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
+- [Homebrew/homebrew-autoupdate](https://github.com/Homebrew/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
 - [Gueils/whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
 - [SUSE/Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2)
 - [arineng/nicinfo](https://github.com/arineng/nicinfo) - NicInfo is a smart, command-line RDAP client
@@ -6471,6 +6473,7 @@
 
 ## TypeScript 
 
+- [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
@@ -6604,6 +6607,7 @@
 - [milewski/cross-port-killer](https://github.com/milewski/cross-port-killer) - Kill the process running on a given TCP port on Windows, Linux and Mac.
 - [ritz078/moose](https://github.com/ritz078/moose) - 🦌  An application to stream, cast and download torrents.
 - [DataBiosphere/job-manager](https://github.com/DataBiosphere/job-manager) - Job Manager API and UI for interacting with asynchronous batch jobs and workflows.
+- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
@@ -6759,7 +6763,7 @@
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 - [sphqxe/NATS-WebUI](https://github.com/sphqxe/NATS-WebUI) - A WebUI for NATS Server
 - [keitetran/BroadlinkIRTools](https://github.com/keitetran/BroadlinkIRTools) - Broadlink learn command helper.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [bsa-git/feathers-plus-admin](https://github.com/bsa-git/feathers-plus-admin) - Project feathers-plus-admin
 
 ## XSLT 
