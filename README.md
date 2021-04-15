@@ -129,6 +129,8 @@
 
 ## C 
 
+- [cbassa/sattools](https://github.com/cbassa/sattools) - Satellite Tracking Toolkit
+- [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 - [sipwise/rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
@@ -435,6 +437,7 @@
 
 ## C# # 
 
+- [nullpainter/sanchez](https://github.com/nullpainter/sanchez) - False-colour geostationary satellite image compositor
 - [MultiPoolMiner/MultiPoolMiner](https://github.com/MultiPoolMiner/MultiPoolMiner) - Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line.
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
 - [Sicos1977/ChromeHtmlToPdf](https://github.com/Sicos1977/ChromeHtmlToPdf) - Convert HTML to PDF with Chrome
@@ -519,6 +522,7 @@
 
 ## C++ 
 
+- [opensatelliteproject/xritdemod](https://github.com/opensatelliteproject/xritdemod) - xRIT Demodulator for GOES
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
 - [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
@@ -775,6 +779,7 @@
 
 ## Dockerfile 
 
+- [ChiefGokhlayeh/rtl-sdr-pr](https://github.com/ChiefGokhlayeh/rtl-sdr-pr) - Turning cheap RTL-SDR receivers into passive radar sensors
 - [giovtorres/slurm-docker-cluster](https://github.com/giovtorres/slurm-docker-cluster) - A Slurm cluster using docker-compose
 - [dorjik/docker-xmrig](https://github.com/dorjik/docker-xmrig) - 
 - [magicdude4eva/docker-smokeping](https://github.com/magicdude4eva/docker-smokeping) - Smokeping Docker with latest version of Smokeping, speedtest-cli and PhantomJS
@@ -1022,7 +1027,7 @@
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [uber/aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - cloudquery transforms your cloud infrastructure into SQL or Graph database for easy monitoring, governance and security.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - cloudquery transforms your cloud infrastructure into SQL database for easy monitoring, governance and security.
 - [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - Like gcping.com but a command line tool
@@ -1368,6 +1373,7 @@
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [mhristof/paste](https://github.com/mhristof/paste) - An alfred workflow to transform your clipboard
+- [mhristof/cookiecutter-alfred-go](https://github.com/mhristof/cookiecutter-alfred-go) - Cookiecutter template for an alfred-golang workflow
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
@@ -1770,7 +1776,7 @@
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [yittg/ving](https://github.com/yittg/ving) - 🐸 A ping utility with nice output, with powerful traceroute and port probe.
 - [edgard/iperf3_exporter](https://github.com/edgard/iperf3_exporter) - Simple server that probes iPerf3 endpoints and exports results via HTTP for Prometheus consumption
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Advanced information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, vSphere, MetalStack, and Kubevirt with minimal TCO.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
@@ -1833,7 +1839,6 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [snail007/goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 - [localyyz/go-shopify](https://github.com/localyyz/go-shopify) - Go library for accessing the Shopify REST API - (GoDocs coming soon)
-- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [Yawning/obfs4](https://github.com/Yawning/obfs4) - The obfourscator (Courtesy mirror)
 - [yinqiwen/gsnova](https://github.com/yinqiwen/gsnova) - Private proxy solution & network troubleshooting tool.
@@ -1996,7 +2001,6 @@
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [viasite-ansible/ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
 - [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata) - An Ansible role to install/configure Netdata
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 - [ImJasonH/gcping](https://github.com/ImJasonH/gcping) - Measure your latency to GCP regions
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -2049,6 +2053,7 @@
 
 ## Java 
 
+- [Unidata/awips2-goesr](https://github.com/Unidata/awips2-goesr) - AWIPS GOES-R Plugins
 - [johannesschaefer/webnettools](https://github.com/johannesschaefer/webnettools) - Web Net Tools is a web frontend for some useful command line tooling. It provides especially an web frontend for tools like testssl.sh and nmap.
 - [GoogleCloudPlatform/DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
 - [kaklakariada/portmapper](https://github.com/kaklakariada/portmapper) - A tool for managing port forwardings via UPnP
@@ -2929,6 +2934,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [moeiscool/Shinobi](https://github.com/moeiscool/Shinobi) - :peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer
+- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [thevoltagesource/eagle-mqtt-bridge](https://github.com/thevoltagesource/eagle-mqtt-bridge) - Rainforest Eagle to MQTT Bridge
 - [antonmedv/eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
@@ -3053,6 +3059,7 @@
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 
 ## Jsonnet 
 
@@ -3062,12 +3069,14 @@
 
 ## Julia 
 
+- [JuliaSpace/SatelliteToolbox.jl](https://github.com/JuliaSpace/SatelliteToolbox.jl) - A toolbox for satellite analysis written in julia language.
 - [JunoLab/Weave.jl](https://github.com/JunoLab/Weave.jl) - Scientific reports/literate programming for Julia
 - [svaksha/Julia.jl](https://github.com/svaksha/Julia.jl) - Curated decibans of Julia programming language.
 - [adambom/dictionary](https://github.com/adambom/dictionary) - A JSON representation of Webster's Unabridged Dictionary
 
 ## Jupyter Notebook 
 
+- [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and read files from the NOAA GOES archive on AWS. https://registry.opendata.aws/noaa-goes/
 - [jonghajang/google_scholar_crawling](https://github.com/jonghajang/google_scholar_crawling) - 
 - [greenelab/crossref](https://github.com/greenelab/crossref) - Download metadata for all DOIs using the Crossref API
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
@@ -3157,6 +3166,7 @@
 
 ## Kotlin 
 
+- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android inspired by Gpredict
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [afollestad/nock-nock](https://github.com/afollestad/nock-nock) - 🚪 Monitor and validate your websites to maintain maximum uptime.
 
@@ -3197,6 +3207,7 @@
 
 ## MATLAB 
 
+- [jmfriedt/passive_radar](https://github.com/jmfriedt/passive_radar) - Passive radar measurements using synchronized RTL-SDR DVB-T receivers
 - [aicip/GCNMF-s2k](https://github.com/aicip/GCNMF-s2k) - Load disaggregation using group constrained non-negative matrix factorization with sum-to-k constraint (GCNMF-s2k)
 
 ## Makefile 
@@ -3207,7 +3218,6 @@
 - [deepsweet/chromium-headless-remote](https://github.com/deepsweet/chromium-headless-remote) - 🐳 Dockerized Chromium in headless remote debugging mode
 - [docker-science/cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [turnkeylinux-apps/core](https://github.com/turnkeylinux-apps/core) - TurnKey Core - Common Base for All Appliances
-- [mhristof/cookiecutter-alfred-go](https://github.com/mhristof/cookiecutter-alfred-go) - Cookiecutter template for an alfred-golang workflow
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [fboaventura/dckr-mrtg](https://github.com/fboaventura/dckr-mrtg) - :whale: Docker MRTG Instance
 - [manala/ansible-role-cloud_init](https://github.com/manala/ansible-role-cloud_init) - [READ-ONLY] Ansible role dealing with the setup of Cloud-init
@@ -3263,6 +3273,7 @@
 
 ## Objective-C 
 
+- [tomtaylor/satellite-eyes](https://github.com/tomtaylor/satellite-eyes) - Mac OS X app to automatically set your desktop wallpaper to the satellite view overhead.
 - [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all relationships and is able to edit the data and generate Objective-C code for the data model.
 - [hschmidt/EnvPane](https://github.com/hschmidt/EnvPane) - EnvPane - An OS X preference pane for environment variables
 - [josh-/CloudyTabs](https://github.com/josh-/CloudyTabs) - CloudyTabs is a simple menu bar application that lists your iCloud Tabs.
@@ -3321,6 +3332,7 @@
 
 ## Others 
 
+- [barbeau/awesome-gnss](https://github.com/barbeau/awesome-gnss) - Community list of open-source GNSS software and resources :satellite:
 - [gl-inet/ble2mqtt](https://github.com/gl-inet/ble2mqtt) - BLE 2 MQTT bridge on GL.iNet IoT gateway
 - [Timtech4u/awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
 - [dariubs/awesome-proxy](https://github.com/dariubs/awesome-proxy) - A collaborative list of awesome proxy servers and resources. Feel free to contribute!
@@ -4045,6 +4057,10 @@
 
 ## Python 
 
+- [mapbox/mapbox-cli-py](https://github.com/mapbox/mapbox-cli-py) - Command line interface to Mapbox Web Services
+- [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
+- [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
+- [HumphreysCarter/GLM-Lightning-Monitor](https://github.com/HumphreysCarter/GLM-Lightning-Monitor) - Generates a webpage for monitoring local lightning strikes using data from the GOES Lightning Mapper (GLM)
 - [mrooney/mintapi](https://github.com/mrooney/mintapi) - a screen-scraping API for Mint.com
 - [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites
 - [huntrar/scrape](https://github.com/huntrar/scrape) - a command-line web scraping tool
@@ -4652,6 +4668,7 @@
 - [graphite-project/carbon](https://github.com/graphite-project/carbon) - Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.
 - [ContextLab/hypertools](https://github.com/ContextLab/hypertools) - A Python toolbox for gaining geometric insights into high-dimensional data
 - [microsoft/forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
+- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [evanrich/py-eagle-mqtt](https://github.com/evanrich/py-eagle-mqtt) - Python based Docker for Eagle to MQTT reader
 - [google-coral/pycoral](https://github.com/google-coral/pycoral) - Python API for ML inferencing and transfer-learning on Coral devices
@@ -5563,7 +5580,7 @@
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -6607,7 +6624,6 @@
 - [milewski/cross-port-killer](https://github.com/milewski/cross-port-killer) - Kill the process running on a given TCP port on Windows, Linux and Mac.
 - [ritz078/moose](https://github.com/ritz078/moose) - 🦌  An application to stream, cast and download torrents.
 - [DataBiosphere/job-manager](https://github.com/DataBiosphere/job-manager) - Job Manager API and UI for interacting with asynchronous batch jobs and workflows.
-- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
