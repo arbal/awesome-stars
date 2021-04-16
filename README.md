@@ -522,6 +522,8 @@
 
 ## C++ 
 
+- [Cloud-RF/Signal-Server](https://github.com/Cloud-RF/Signal-Server) - Multi-threaded RF coverage calculator
+- [N9OZB/Signal-Server](https://github.com/N9OZB/Signal-Server) - Multi-threaded RF coverage calculator
 - [opensatelliteproject/xritdemod](https://github.com/opensatelliteproject/xritdemod) - xRIT Demodulator for GOES
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
@@ -653,6 +655,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [dreibh/hipercontracer](https://github.com/dreibh/hipercontracer) - High-Performance Connectivity Tracer (HiPerConTracer)
+- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 - [andreymal/live555ProxyServerEx](https://github.com/andreymal/live555ProxyServerEx) - Improved version of the "LIVE555 Proxy Server"
@@ -1649,7 +1652,6 @@
 - [Roverr/rtsp-stream](https://github.com/Roverr/rtsp-stream) - Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.
 - [minishift/minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
-- [davidnewhall/secspy](https://github.com/davidnewhall/secspy) - SecuritySpy Command Line Interface
 - [docker-flow/docker-flow-proxy](https://github.com/docker-flow/docker-flow-proxy) - Docker Flow Proxy
 - [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [rancher/k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
@@ -1949,7 +1951,6 @@
 - [Netflix/ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [geerlingguy/ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
-- [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
 - [fitbeard/awx-ha-cluster](https://github.com/fitbeard/awx-ha-cluster) - AWX clustering on Docker standalone installation
@@ -1965,11 +1966,9 @@
 - [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp) - Ansible Role - NTP
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
-- [hassio-addons/repository-beta](https://github.com/hassio-addons/repository-beta) - BETA - Home Assistant Community Add-ons
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Facebook, Amazon, Apple, Netflix and Google (FAANG) Job preparation.
 - [homelabos/homelabos](https://github.com/homelabos/homelabos) - Unofficial GitHub mirror of HomelabOS (Don't issue PRs to this repo).
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
-- [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
 - [truenas/documentation](https://github.com/truenas/documentation) - TrueNAS Documentation Hub
 - [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -2023,7 +2022,6 @@
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
-- [hassio-addons/repository](https://github.com/hassio-addons/repository) - Home Assistant Community Add-ons
 - [ghorsey/OpenGraph-Net](https://github.com/ghorsey/OpenGraph-Net) - .Net Open Graph Parser written in C#
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
@@ -2053,6 +2051,7 @@
 
 ## Java 
 
+- [videgro/Ships](https://github.com/videgro/Ships) - VIDEGROs Ships is an Android application which allows you to receive AIS information directly from ships in your neighbourhood using a cheap DVB-T-DAB-FM / RTL-SDR receiver.
 - [Unidata/awips2-goesr](https://github.com/Unidata/awips2-goesr) - AWIPS GOES-R Plugins
 - [johannesschaefer/webnettools](https://github.com/johannesschaefer/webnettools) - Web Net Tools is a web frontend for some useful command line tooling. It provides especially an web frontend for tools like testssl.sh and nmap.
 - [GoogleCloudPlatform/DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
@@ -2143,7 +2142,6 @@
 - [jitsi/jigasi](https://github.com/jitsi/jigasi) - Jigasi: a server-side application acting as a gateway to Jitsi Meet conferences. Currently allows regular SIP clients to join meetings and provides transcription capabilities.
 - [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [OpenIdentityPlatform/OpenDJ](https://github.com/OpenIdentityPlatform/OpenDJ) - OpenDJ is an LDAPv3 compliant directory service, which has been developed for the Java platform, providing a high performance, highly available, and secure store for the identities managed by your organization. Its easy installation process, combined with the power of the Java platform makes OpenDJ the simplest, fastest directory to deploy and manage.
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
 - [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 - [blynkkk/blynk-server](https://github.com/blynkkk/blynk-server) - Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes
@@ -2181,6 +2179,7 @@
 
 ## JavaScript 
 
+- [ianrenton/umid1090](https://github.com/ianrenton/umid1090) - An Unnecessary Military Interface for Dump1090
 - [mapbox/geobuf](https://github.com/mapbox/geobuf) - A compact binary encoding for geographic data.
 - [BinaryMuse/planetary.js](https://github.com/BinaryMuse/planetary.js) - :earth_americas: Awesome interactive globes for the web
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
@@ -3055,11 +3054,15 @@
 ## Jinja 
 
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
+- [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
+- [hassio-addons/repository-beta](https://github.com/hassio-addons/repository-beta) - BETA - Home Assistant Community Add-ons
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden RS - Home Assistant Community Add-ons
+- [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [hassio-addons/repository](https://github.com/hassio-addons/repository) - Home Assistant Community Add-ons
 
 ## Jsonnet 
 
@@ -3223,6 +3226,7 @@
 - [manala/ansible-role-cloud_init](https://github.com/manala/ansible-role-cloud_init) - [READ-ONLY] Ansible role dealing with the setup of Cloud-init
 - [tomkins/cloud-init-vagrant](https://github.com/tomkins/cloud-init-vagrant) - Testing cloud-init with Vagrant
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
+- [davidnewhall/secspy](https://github.com/davidnewhall/secspy) - SecuritySpy Command Line Interface
 - [Jack12816/docker-mdns](https://github.com/Jack12816/docker-mdns) - Simple mDNS/ZeroConf demonstration of a nginx container, acessible at http://nginx.local
 - [hectorm/docker-caddy2](https://github.com/hectorm/docker-caddy2) - A Docker image for Caddy 2.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
@@ -4057,6 +4061,8 @@
 
 ## Python 
 
+- [itemir/rpi_boat_utils](https://github.com/itemir/rpi_boat_utils) - Utilities for Raspberry Pi, mostly for usage on a boat. Includes UART control scripts, traffic measurement tools for Mikrotik (RouterOS) and OpenWrt, AIS wireless daemon, AIS decoder and an extensible boat & IoT sensor daemon for Signal K.
+- [moof-moof/pup-ais](https://github.com/moof-moof/pup-ais) - Simple AIS monitor and plotter.
 - [mapbox/mapbox-cli-py](https://github.com/mapbox/mapbox-cli-py) - Command line interface to Mapbox Web Services
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
@@ -4278,7 +4284,7 @@
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [GrocerCheck/LivePopularTimes](https://github.com/GrocerCheck/LivePopularTimes) - a python module for scraping live location busyness
 - [brandonscript/fylm](https://github.com/brandonscript/fylm) - A wonderful automated command line app for organizing your film media. Built for Plex and SABnzbd.
-- [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
+- [abhi1thakur/colabcode](https://github.com/abhi1thakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
 - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - [emkookmer/system_sensors](https://github.com/emkookmer/system_sensors) - Logging of system sensor specific for the RPI and sending them to a MQTT broker
@@ -4310,7 +4316,7 @@
 - [zha-ng/zha-map](https://github.com/zha-ng/zha-map) - Build ZHA network topology map.
 - [deanishe/alfred-fuzzy](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper for Alfred 3+ workflows
 - [andrewning/alfred-workflows-scientific](https://github.com/andrewning/alfred-workflows-scientific) - A collection of Alfred workflows targeting scientific applications
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, HuggingFace’s Modelhub, and much more!
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, Hugging Face’s Hub, and much more!
 - [dmachard/dnstap-receiver](https://github.com/dmachard/dnstap-receiver) - Dnstap streams receiver in Python
 - [pudo/opensanctions](https://github.com/pudo/opensanctions) - An open database of international sanctions data, persons of interest and politically exposed persons
 - [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
@@ -4727,7 +4733,7 @@
 - [mit-acl/cadrl_ros](https://github.com/mit-acl/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 - [lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection) - Object detection project for real-time (webcam) and offline (video processing) application.
 - [damianmoore/photonix](https://github.com/damianmoore/photonix) - This is a new web-based photo management application. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, location awareness, color analysis and other ML algorithms.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open source face recognition on Raspberry Pi. SharpAI is open source stack for machine learning engineering with private deployment and AutoML for edge computing.  DeepCamera is application of SharpAI designed for connecting computer vision model to surveillance camera. Developers can run same code on Raspberry Pi/Android/PC/AWS to boost your AI production development.
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open Source Object Detection/Face Recognition on AIoT devices.
 - [BMW-InnovationLab/BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
 - [idealo/image-quality-assessment](https://github.com/idealo/image-quality-assessment) - Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
@@ -5657,7 +5663,7 @@
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your cloudflare workers
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [dbohdan/jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [vishaltelangre/ff](https://github.com/vishaltelangre/ff) - Find files (ff) by name, fast!
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -6490,6 +6496,7 @@
 
 ## TypeScript 
 
+- [nrwl/nx](https://github.com/nrwl/nx) - Powerful, Extensible Dev Tools
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
