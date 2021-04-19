@@ -2186,6 +2186,7 @@
 
 ## JavaScript 
 
+- [mikeskaug/TerrainShade](https://github.com/mikeskaug/TerrainShade) - visualize areas of sun/shade over terrain
 - [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea) - Mirror your github repositories to your gitea server
 - [aloysius-pgast/crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - Your gateway to the world of crypto !
 - [rvelhote/dnspropagation](https://github.com/rvelhote/dnspropagation) - Check the DNS records for a domain and check worldwide propagation of changes that you made.
@@ -3737,7 +3738,6 @@
 - [Fernerkundung/awesome-sentinel](https://github.com/Fernerkundung/awesome-sentinel) - curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data
 - [robmarkcole/satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
-- [AKSHAYUBHAT/DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics) - A distributed visual search and visual data analytics platform.
 - [aspiers/lnav-formats](https://github.com/aspiers/lnav-formats) - Extra log file format descriptions for the lnav log file reader
 - [damiankloip/lnav-php](https://github.com/damiankloip/lnav-php) - LNAV PHP
 - [javierhz/lnav-logcat-Android](https://github.com/javierhz/lnav-logcat-Android) - logcat file description for lnav
@@ -4072,6 +4072,7 @@
 
 ## Python 
 
+- [perliedman/shadow-mapper](https://github.com/perliedman/shadow-mapper) - Generate maps of sun and shade from OpenStreetMap data
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) - Simple Python Script To Mirror Repository From Github To Gitea
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
 - [thomasloven/hass-browser_mod](https://github.com/thomasloven/hass-browser_mod) - 🔹 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player
@@ -5788,7 +5789,7 @@
 - [mendhak/docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [lstellway/self-signed-ssl](https://github.com/lstellway/self-signed-ssl) - Generate self-signed TLS certificate using OpenSSL
-- [Volkov-R-Net/Mikrotik-backups](https://github.com/Volkov-R-Net/Mikrotik-backups) - Mikrotik centralized backup script
+- [Volkov-R-Net/mikrotik-backups](https://github.com/Volkov-R-Net/mikrotik-backups) - Mikrotik centralized backup script
 - [luckman212/bw-cache-update](https://github.com/luckman212/bw-cache-update) - Script to resync Bitwarden secrets in the background on a schedule. Meant to be used with https://github.com/blacs30/bitwarden-alfred-workflow
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [kaergel/docker-vdirsyncer](https://github.com/kaergel/docker-vdirsyncer) - A docker container which syncs your CalDAV/CardDAV calendars/addressbooks periodically
@@ -6431,7 +6432,7 @@
 - [Obbut/iCloud-Control](https://github.com/Obbut/iCloud-Control) - User-controlled selective sync for iCloud Drive
 - [jdxcode/latlon](https://github.com/jdxcode/latlon) - CLI to get current latitude and longitude on macOS
 - [Mortennn/FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
-- [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app in minutes
+- [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [vanshg/MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
