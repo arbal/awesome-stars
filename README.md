@@ -79,6 +79,7 @@
   - [SCSS](#scss)
   - [Sass](#sass)
   - [Scala](#scala)
+  - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [SourcePawn](#sourcepawn)
@@ -129,6 +130,7 @@
 
 ## C 
 
+- [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [aristanetworks/bst](https://github.com/aristanetworks/bst) - A one-stop shop for process isolation
 - [rootless-containers/subuidless](https://github.com/rootless-containers/subuidless) - Rootless Containers without `/etc/subuid` and `/etc/subgid`
 - [cbassa/sattools](https://github.com/cbassa/sattools) - Satellite Tracking Toolkit
@@ -274,12 +276,12 @@
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [Excello-cz/netdata-plugins](https://github.com/Excello-cz/netdata-plugins) - NetData Plugins
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-- [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 - [todbot/blink1-tool](https://github.com/todbot/blink1-tool) - Command-line tools and C library for blink(1) USB RGB LED
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [shuveb/psi-by-example](https://github.com/shuveb/psi-by-example) - Linux Pressure Stall Information by Example
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [shysaur/QLWindowsApps](https://github.com/shysaur/QLWindowsApps) - QuickLook & Spotlight plugins for Windows DLLs and EXEs
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [kilobyte/termrec](https://github.com/kilobyte/termrec) - tty recorder/player
@@ -524,6 +526,8 @@
 
 ## C++ 
 
+- [wdas/brdf](https://github.com/wdas/brdf) - BRDF Explorer
+- [ethz-asl/seekthermal_ros](https://github.com/ethz-asl/seekthermal_ros) - ROS node for Seek thermal imaging devices
 - [hayguen/extio_rtl_tcp](https://github.com/hayguen/extio_rtl_tcp) - ExtIO plugin for Winrad/HDSDR connecting to librtlsdr's rtl_tcp
 - [Cloud-RF/Signal-Server](https://github.com/Cloud-RF/Signal-Server) - Multi-threaded RF coverage calculator
 - [N9OZB/Signal-Server](https://github.com/N9OZB/Signal-Server) - Multi-threaded RF coverage calculator
@@ -930,6 +934,9 @@
 
 ## Go 
 
+- [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
+- [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥  Debug performance issues down to a single line of code
+- [anacrolix/dms](https://github.com/anacrolix/dms) - A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.
 - [git-cloner/gitcache](https://github.com/git-cloner/gitcache) - When clone from github.com, build mirror cache to improve clone speed
 - [andreaskoch/allmark](https://github.com/andreaskoch/allmark) - A cross-platform markdown web server
 - [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
@@ -1286,7 +1293,7 @@
 - [williamchanrico/planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server dependencies along with required bandwidth
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang live stream lib/client/server. support RTMP/RTSP(RTP/RTCP)/HLS/HTTP[S]-FLV/HTTP-TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify.
+- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP/RTSP(RTP/RTCP)/HLS/HTTP[S]-FLV/HTTP-TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify.
 - [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
@@ -1971,7 +1978,6 @@
 - [authentic-theme/authentic-theme](https://github.com/authentic-theme/authentic-theme) - Official theme for the best server management panel of the 21st Century
 - [enys/traefik_prometheus_dashboard](https://github.com/enys/traefik_prometheus_dashboard) - Graphana dashboard for prometheus metrics from Traefik v2
 - [leggett/simplify](https://github.com/leggett/simplify) - Browser extension to simplify Gmail's interface
-- [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp) - Ansible Role - NTP
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Facebook, Amazon, Apple, Netflix and Google (FAANG) Job preparation.
@@ -2058,6 +2064,7 @@
 
 ## Java 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [videgro/Ships](https://github.com/videgro/Ships) - VIDEGROs Ships is an Android application which allows you to receive AIS information directly from ships in your neighbourhood using a cheap DVB-T-DAB-FM / RTL-SDR receiver.
 - [Unidata/awips2-goesr](https://github.com/Unidata/awips2-goesr) - AWIPS GOES-R Plugins
 - [johannesschaefer/webnettools](https://github.com/johannesschaefer/webnettools) - Web Net Tools is a web frontend for some useful command line tooling. It provides especially an web frontend for tools like testssl.sh and nmap.
@@ -2186,6 +2193,8 @@
 
 ## JavaScript 
 
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
+- [boombatower/chromecast-dashboard](https://github.com/boombatower/chromecast-dashboard) - A simple dashboard application for Chromecast.
 - [mikeskaug/TerrainShade](https://github.com/mikeskaug/TerrainShade) - visualize areas of sun/shade over terrain
 - [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea) - Mirror your github repositories to your gitea server
 - [aloysius-pgast/crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - Your gateway to the world of crypto !
@@ -3064,6 +3073,7 @@
 
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
+- [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp) - Ansible Role - NTP
 - [hassio-addons/repository-beta](https://github.com/hassio-addons/repository-beta) - BETA - Home Assistant Community Add-ons
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden RS - Home Assistant Community Add-ons
 - [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
@@ -3175,7 +3185,7 @@
 - [anilsathyan7/Portrait-Segmentation](https://github.com/anilsathyan7/Portrait-Segmentation) - Real-time portrait segmentation for mobile devices
 - [kvos/CoastSat](https://github.com/kvos/CoastSat) - Global shoreline mapping tool from satellite imagery
 - [robmarkcole/coral-pi-rest-server](https://github.com/robmarkcole/coral-pi-rest-server) - Instead use
-- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
+- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [microsoft/tensorwatch](https://github.com/microsoft/tensorwatch) - Debugging, monitoring and visualization for Python Machine Learning and Data Science
 
 ## Kotlin 
@@ -3861,7 +3871,6 @@
 - [feathersjs/awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) - A list of awesome things related to FeathersJS
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [arbal/kumbaya-terminator](https://github.com/arbal/kumbaya-terminator) - 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
@@ -4072,6 +4081,9 @@
 
 ## Python 
 
+- [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
+- [gregoryduckworth/GoogleGeocode-HASS](https://github.com/gregoryduckworth/GoogleGeocode-HASS) - Google Location for HASS using the Google Geocode API
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection.
 - [perliedman/shadow-mapper](https://github.com/perliedman/shadow-mapper) - Generate maps of sun and shade from OpenStreetMap data
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) - Simple Python Script To Mirror Repository From Github To Gitea
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
@@ -4727,7 +4739,6 @@
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
 - [eslam3kl/crtfinder](https://github.com/eslam3kl/crtfinder) - Fast tool to extract all subdomains from crt.sh website. Output will be up to sub.sub.sub.subdomain.com with standard and advanced search techniques
 - [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
-- [synesthesiam/opentts](https://github.com/synesthesiam/opentts) - Open Text to Speech Server
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [bslatkin/dpxdt](https://github.com/bslatkin/dpxdt) - Make continuous deployment safe by comparing before and after webpage screenshots for each release. Depicted shows when any visual, perceptual differences are found. This is the ultimate, automated end-to-end test.
 - [ClusterLabs/crmsh](https://github.com/ClusterLabs/crmsh) - Command-line interface for High-Availability cluster management on GNU/Linux systems.
@@ -4783,7 +4794,7 @@
 - [megadose/phoneinfoga-maltego](https://github.com/megadose/phoneinfoga-maltego) - Phoneinfoga Maltego Transform
 - [censys/censys-maltego](https://github.com/censys/censys-maltego) - Censys Maltego transforms! Take advantage of Censys transforms for Maltego to back your investigations with the most trusted Internet data available.
 - [oberstet/scratchbox](https://github.com/oberstet/scratchbox) - Random stuff. Unpolished. Tests. Whatever.
-- [kiwix/kiwix-hotspot](https://github.com/kiwix/kiwix-hotspot) - Kiwix Hotspot Image Creator (Desktop) for Windows/MacOS/Linux
+- [kiwix/kiwix-hotspot](https://github.com/kiwix/kiwix-hotspot) - Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [targendaz2/Mac-Set-Default-Apps](https://github.com/targendaz2/Mac-Set-Default-Apps) - A utility to change default applications in macOS
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
@@ -5279,7 +5290,7 @@
 - [sarah314/SpyPi](https://github.com/sarah314/SpyPi) - An (un-)ethical hacking-station based on Raspberry Pi and Python
 - [SvenVD/rpisurv](https://github.com/SvenVD/rpisurv) - Raspberry Pi surveillance
 - [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection and segmentation.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
 - [thomasloven/hass-lovelace_gen](https://github.com/thomasloven/hass-lovelace_gen) - 🔹 Improve the lovelace yaml parser for Home Assistant
 - [custom-components/sensor.personalcapital](https://github.com/custom-components/sensor.personalcapital) - 💵 Personal Capital Integration for Bank Account Monitoring
 - [checkymander/iMessagesBackdoor](https://github.com/checkymander/iMessagesBackdoor) - A script to help set up an event handler in order to install a persistent backdoor that can be activated by sending a message.
@@ -5555,6 +5566,7 @@
 
 ## Rust 
 
+- [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
@@ -5720,8 +5732,17 @@
 - [Netflix/atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 
+## Scheme 
+
+- [synesthesiam/opentts](https://github.com/synesthesiam/opentts) - Open Text to Speech Server
+
 ## Shell 
 
+- [cardi/qemu-windows-10](https://github.com/cardi/qemu-windows-10) - running a windows 10 guest on a linux host with pci passthrough
+- [abcdabcd987/lxc-gpu](https://github.com/abcdabcd987/lxc-gpu) - Enjoy computation resources sharing at your laboratory with lxc-gpu!
+- [hughobrien/zfs-remote-mirror](https://github.com/hughobrien/zfs-remote-mirror) - A detailed tutorial on setting up a remote ZFS mirror for home use.
+- [paolobasso99/docker-compose-files](https://github.com/paolobasso99/docker-compose-files) - A collection of docker-compose files that I use to self host awesome services
+- [chuhlomin/alfred-workflow-cast](https://github.com/chuhlomin/alfred-workflow-cast) - Alfred Workflow that helps to prepare your environment for screen share (disable notifications, hide Desktop icons, hide Dock, ...)
 - [bitnami/bitnami-docker-ejbca](https://github.com/bitnami/bitnami-docker-ejbca) - Bitnami Docker Image for EJBCA
 - [lucasroges/slurm-swarm-cluster](https://github.com/lucasroges/slurm-swarm-cluster) - 
 - [TwilightCoders/iocage-plugin-fail2ban](https://github.com/TwilightCoders/iocage-plugin-fail2ban) - Fail2Ban iocage plugin
@@ -5989,7 +6010,6 @@
 - [eprev/locationchanger](https://github.com/eprev/locationchanger) - Change OS X’s network location based on the name of Wi-Fi network
 - [vernemq/docker-vernemq](https://github.com/vernemq/docker-vernemq) - VerneMQ Docker image - Starts the VerneMQ MQTT broker and listens on 1883 and 8080 (for websockets).
 - [kiwix/borg-backup](https://github.com/kiwix/borg-backup) - Backup easily your system with Bitwarden, BorgBase and Docker
-- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [envwarden/envwarden](https://github.com/envwarden/envwarden) - Manage your server secrets with Bitwarden
 - [MichaelAquilina/zsh-auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - ⏰ ZSH plugin that automatically sends out a notification when a long running task has completed.
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Central plugin repository for asdf
@@ -6385,6 +6405,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [gretzky/n.zsh](https://github.com/gretzky/n.zsh) - zsh plugin for switching node versions automatically with n
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
