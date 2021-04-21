@@ -7,6 +7,7 @@
 
   - [AppleScript](#applescript)
   - [Arduino](#arduino)
+  - [Assembly](#assembly)
   - [AutoIt](#autoit)
   - [Awk](#awk)
   - [BitBake](#bitbake)
@@ -115,6 +116,10 @@
 ## Arduino 
 
 - [sirleech/Webduino](https://github.com/sirleech/Webduino) - Arduino WebServer library
+
+## Assembly 
+
+- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 
 ## AutoIt 
 
@@ -293,7 +298,7 @@
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
 - [cminyard/gensio](https://github.com/cminyard/gensio) - A library to abstract stream I/O like serial port, TCP, telnet, UDP, SSL, IPMI SOL, etc.
-- [cminyard/ser2net](https://github.com/cminyard/ser2net) - Serial to network interface, allows TCP/UCP to serial port connections
+- [cminyard/ser2net](https://github.com/cminyard/ser2net) - Serial to network interface, allows TCP/UDP to serial port connections
 - [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://git.osmocom.org/rtl-sdr/
 - [ThomasHabets/arping](https://github.com/ThomasHabets/arping) - ARP Ping
@@ -587,7 +592,6 @@
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [Ronan0912/ros_opentld](https://github.com/Ronan0912/ros_opentld) - 
 - [google/earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -1269,7 +1273,7 @@
 - [moul/ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
 - [fagongzi/manba](https://github.com/fagongzi/manba) - HTTP API Gateway
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [txn2/txeh](https://github.com/txn2/txeh) - Go library and CLI utilty for /etc/hosts management.
+- [txn2/txeh](https://github.com/txn2/txeh) - Go library and CLI utility for /etc/hosts management.
 - [R4yGM/netscanner](https://github.com/R4yGM/netscanner) - netscanner - TCP/UDP scanner to find open or closed ports
 - [cloverstd/tcping](https://github.com/cloverstd/tcping) - ping over a tcp connection
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
@@ -1320,7 +1324,7 @@
 - [po3rin/dockerdot](https://github.com/po3rin/dockerdot) - :whale: dockerdot shows dockerfile dependenciy graph. This is useful to understand how build dockerfile. This uses Go WebAssembly + BuildKit package.
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers
 - [buildkite/terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
-- [rancher/harvester](https://github.com/rancher/harvester) - Open source hyperconverged infrastructure (HCI) software
+- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [nats-io/nats-surveyor](https://github.com/nats-io/nats-surveyor) - NATS Monitoring, Simplified.
@@ -1843,7 +1847,7 @@
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-- [gogo/protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
+- [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -2064,6 +2068,7 @@
 
 ## Java 
 
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [videgro/Ships](https://github.com/videgro/Ships) - VIDEGROs Ships is an Android application which allows you to receive AIS information directly from ships in your neighbourhood using a cheap DVB-T-DAB-FM / RTL-SDR receiver.
 - [Unidata/awips2-goesr](https://github.com/Unidata/awips2-goesr) - AWIPS GOES-R Plugins
@@ -4081,6 +4086,11 @@
 
 ## Python 
 
+- [systemd-commander/systemd-commander](https://github.com/systemd-commander/systemd-commander) - Terminal-based systemd UI
+- [liamsgotgenes/systemd-service-panel](https://github.com/liamsgotgenes/systemd-service-panel) - TUI to manage systemd services
+- [ratibor78/srvstatus](https://github.com/ratibor78/srvstatus) - SystemD service status
+- [buanzo/more-systemctl-status](https://github.com/buanzo/more-systemctl-status) - Simple python3 scripts that merges systemctl status and pstree status providing full child process output for systemctl status.
+- [hpe-storage/truenas-csp](https://github.com/hpe-storage/truenas-csp) - TrueNAS CORE Container Storage Provider for HPE CSI Driver for Kubernetes
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [gregoryduckworth/GoogleGeocode-HASS](https://github.com/gregoryduckworth/GoogleGeocode-HASS) - Google Location for HASS using the Google Geocode API
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection.
@@ -5738,6 +5748,8 @@
 
 ## Shell 
 
+- [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
+- [joehillen/sysz](https://github.com/joehillen/sysz) - An interactive fuzzy matching TUI for systemctl using fzf written entirely in Bash
 - [cardi/qemu-windows-10](https://github.com/cardi/qemu-windows-10) - running a windows 10 guest on a linux host with pci passthrough
 - [abcdabcd987/lxc-gpu](https://github.com/abcdabcd987/lxc-gpu) - Enjoy computation resources sharing at your laboratory with lxc-gpu!
 - [hughobrien/zfs-remote-mirror](https://github.com/hughobrien/zfs-remote-mirror) - A detailed tutorial on setting up a remote ZFS mirror for home use.
