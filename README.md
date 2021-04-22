@@ -135,6 +135,10 @@
 
 ## C 
 
+- [csete/rtlizer](https://github.com/csete/rtlizer) - Simple spectrum analyzer
+- [keenerd/rtl-sdr-misc](https://github.com/keenerd/rtl-sdr-misc) - A bucket of various work-in-progress rtl-sdr ideas.
+- [NVIDIA/gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) - Tools for monitoring NVIDIA GPUs on Linux
+- [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [aristanetworks/bst](https://github.com/aristanetworks/bst) - A one-stop shop for process isolation
 - [rootless-containers/subuidless](https://github.com/rootless-containers/subuidless) - Rootless Containers without `/etc/subuid` and `/etc/subgid`
@@ -561,7 +565,6 @@
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files on macOS Catalina and Big Sur.
 - [cnr-isti-vclab/PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
@@ -938,6 +941,12 @@
 
 ## Go 
 
+- [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
+- [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
+- [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
+- [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
+- [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥  Debug performance issues down to a single line of code
 - [anacrolix/dms](https://github.com/anacrolix/dms) - A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.
@@ -1037,6 +1046,7 @@
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [mdbraber/acmeproxy](https://github.com/mdbraber/acmeproxy) - Proxy server for ACME DNS challenges written in Go
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
@@ -1842,7 +1852,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [inkel/slacker](https://github.com/inkel/slacker) - Slack CLI to update status and presence
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Enterprise-grade container platform tailored for multicloud and multi-cluster management
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Kubernetes container platform tailored for multi-cloud and multi-cluster management
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -1921,7 +1931,7 @@
 
 - [NickMRamirez/Proxy-Benchmarks](https://github.com/NickMRamirez/Proxy-Benchmarks) - Benchmarks for several proxies
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
-- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock automates deployment of secure ad-blocking for all of your devices - even when mobile. Step-by-step text and video guides included! Compatible clouds include AWS, Azure, Google Cloud, and Oracle Cloud. Cloudblock deploys Wireguard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
+- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock automates deployment of secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
 - [pawalt/proxmox-k3s](https://github.com/pawalt/proxmox-k3s) - Zero-touch k3s deployment on Proxmox
 - [blz-ea/iac](https://github.com/blz-ea/iac) - Infrastructure as Code Starter Kit based on Terraform, Ansible, and Packer
 - [dsyorkd/HomeSwarmContainers](https://github.com/dsyorkd/HomeSwarmContainers) - My home swarm for fun stuff
@@ -3104,6 +3114,7 @@
 
 ## Jupyter Notebook 
 
+- [88lex/safire](https://github.com/88lex/safire) - 
 - [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and read files from the NOAA GOES archive on AWS. https://registry.opendata.aws/noaa-goes/
 - [jonghajang/google_scholar_crawling](https://github.com/jonghajang/google_scholar_crawling) - 
 - [greenelab/crossref](https://github.com/greenelab/crossref) - Download metadata for all DOIs using the Crossref API
@@ -3240,6 +3251,7 @@
 
 ## Makefile 
 
+- [KROSF/cloud](https://github.com/KROSF/cloud) - Self Hosted :cloud:
 - [georchestra/docker](https://github.com/georchestra/docker) - Quick start geOrchestra with docker
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [kangaechu/aws-vault-alfred-workflow](https://github.com/kangaechu/aws-vault-alfred-workflow) - Alfred workflow to Open AWS in your browser via aws-vault
@@ -3362,6 +3374,8 @@
 
 ## Others 
 
+- [88lex/sa-guide](https://github.com/88lex/sa-guide) - Guide to creating multiple service accounts and using them with rclone sync or copy
+- [Arrin-KN1E/Gpredict-TRSP-Update](https://github.com/Arrin-KN1E/Gpredict-TRSP-Update) - Basic updates to the Gpredict .trsp files, which store satellite transponder data.
 - [barbeau/awesome-gnss](https://github.com/barbeau/awesome-gnss) - Community list of open-source GNSS software and resources :satellite:
 - [gl-inet/ble2mqtt](https://github.com/gl-inet/ble2mqtt) - BLE 2 MQTT bridge on GL.iNet IoT gateway
 - [Timtech4u/awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
@@ -4086,6 +4100,10 @@
 
 ## Python 
 
+- [rtulke/rpen](https://github.com/rtulke/rpen) - rpen is a color highlighter based on egrep
+- [keenerd/rtlsdr-waterfall](https://github.com/keenerd/rtlsdr-waterfall) - A scrolling spectrum plot for RTLSDR.
+- [CGrassin/rtl_power_scripts](https://github.com/CGrassin/rtl_power_scripts) - Python scripts to use and visualize the output of rtl_power.
+- [evanmayer/effex](https://github.com/evanmayer/effex) - Software-defined radio complex correlator. FX architecture: Polyphase filterbank Fourier transform spectrometer and cross-correlation, powered by GPU-accelerated, concurrent processing.
 - [systemd-commander/systemd-commander](https://github.com/systemd-commander/systemd-commander) - Terminal-based systemd UI
 - [liamsgotgenes/systemd-service-panel](https://github.com/liamsgotgenes/systemd-service-panel) - TUI to manage systemd services
 - [ratibor78/srvstatus](https://github.com/ratibor78/srvstatus) - SystemD service status
@@ -5576,6 +5594,8 @@
 
 ## Rust 
 
+- [WireGuard/wireguard-rs](https://github.com/WireGuard/wireguard-rs) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-rs
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
@@ -5748,6 +5768,17 @@
 
 ## Shell 
 
+- [MHA-Team/PTS-Team](https://github.com/MHA-Team/PTS-Team) - This fork serves as the basis for the continuation of the PTS project in a new form.
+- [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
+- [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
+- [88lex/sasync](https://github.com/88lex/sasync) - 
+- [xd003/easyclone](https://github.com/xd003/easyclone) - 
+- [antonjan/Raspberry_Telemetry](https://github.com/antonjan/Raspberry_Telemetry) - This project will have the files for a Cube Sat Telemetry system Using Raspberry Pi Transmitter Board
+- [nan0s7/nfancurve](https://github.com/nan0s7/nfancurve) - A small and lightweight POSIX script for using a custom fan curve in Linux for those with an Nvidia GPU.
+- [edgarsuit/FreeNAS-Report](https://github.com/edgarsuit/FreeNAS-Report) - SMART & ZPool Status Report for FreeNAS
+- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+- [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An interactive fuzzy matching TUI for systemctl using fzf written entirely in Bash
 - [cardi/qemu-windows-10](https://github.com/cardi/qemu-windows-10) - running a windows 10 guest on a linux host with pci passthrough
@@ -6549,6 +6580,7 @@
 
 ## TypeScript 
 
+- [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
 - [nrwl/nx](https://github.com/nrwl/nx) - Powerful, Extensible Dev Tools
