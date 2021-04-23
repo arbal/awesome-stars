@@ -303,7 +303,7 @@
 - [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
 - [cminyard/gensio](https://github.com/cminyard/gensio) - A library to abstract stream I/O like serial port, TCP, telnet, UDP, SSL, IPMI SOL, etc.
 - [cminyard/ser2net](https://github.com/cminyard/ser2net) - Serial to network interface, allows TCP/UDP to serial port connections
-- [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
+- [kai-kj/TerminalMediaViewer](https://github.com/kai-kj/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://git.osmocom.org/rtl-sdr/
 - [ThomasHabets/arping](https://github.com/ThomasHabets/arping) - ARP Ping
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
@@ -722,7 +722,6 @@
 ## CSS 
 
 - [datameet/maps](https://github.com/datameet/maps) - Repository for all spatial data.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [deajan/traceroute_history](https://github.com/deajan/traceroute_history) - Keep traceroute histroy, make diffs. Use as standalone / smokeping companion
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -1021,6 +1020,7 @@
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -1307,6 +1307,7 @@
 - [williamchanrico/planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server dependencies along with required bandwidth
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP/RTSP(RTP/RTCP)/HLS/HTTP[S]-FLV/HTTP-TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify.
 - [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -2078,6 +2079,7 @@
 
 ## Java 
 
+- [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [videgro/Ships](https://github.com/videgro/Ships) - VIDEGROs Ships is an Android application which allows you to receive AIS information directly from ships in your neighbourhood using a cheap DVB-T-DAB-FM / RTL-SDR receiver.
@@ -2176,7 +2178,7 @@
 - [blynkkk/blynk-server](https://github.com/blynkkk/blynk-server) - Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes
 - [jprante/elasticsearch-plugin-bundle](https://github.com/jprante/elasticsearch-plugin-bundle) - A bundle of useful Elasticsearch plugins
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
-- [graknlabs/grakn](https://github.com/graknlabs/grakn) - Grakn Core: The Knowledge Graph
+- [vaticle/typedb](https://github.com/vaticle/typedb) - Grakn Core: The Knowledge Graph
 - [theopolisme/react-native-stripe-terminal](https://github.com/theopolisme/react-native-stripe-terminal) - React Native bindings for the Stripe Terminal SDK. (Unofficial)
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides a commandline and dbus interface for signalapp/libsignal-service-java
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
@@ -2208,6 +2210,10 @@
 
 ## JavaScript 
 
+- [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
+- [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
+- [patagonaa/prometheus-mikrotik-swos-exporter](https://github.com/patagonaa/prometheus-mikrotik-swos-exporter) - Mikrotik SwOS exporter for Prometheus (non-SNMP-data only)
+- [naseemkullah/gcp-accountant](https://github.com/naseemkullah/gcp-accountant) - A tool to identify high cost resources in GCP at a granular level
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [boombatower/chromecast-dashboard](https://github.com/boombatower/chromecast-dashboard) - A simple dashboard application for Chromecast.
 - [mikeskaug/TerrainShade](https://github.com/mikeskaug/TerrainShade) - visualize areas of sun/shade over terrain
@@ -2598,7 +2604,6 @@
 - [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex
 - [d3/d3-queue](https://github.com/d3/d3-queue) - Evaluate asynchronous tasks with configurable concurrency.
 - [beatfreaker/is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not
@@ -3667,7 +3672,6 @@
 - [eon01/PainlessDocker](https://github.com/eon01/PainlessDocker) - Painless Docker book git repository.
 - [Berndinox/compose-v3-collection](https://github.com/Berndinox/compose-v3-collection) - Real World Swarm-Mode docker-compose V3 examples (docker stack deploy)
 - [faritvidal/Config-Traefik-2.2.X](https://github.com/faritvidal/Config-Traefik-2.2.X) - This is a repository that you create in order to have some scenarios in which you can use Traefik efficiently, it has a link to the official sites of each of the mentioned software.
-- [openschemas/dockerfiles](https://github.com/openschemas/dockerfiles) - More scaled example of using schema.org to generate metadata for Dockerfiles (container recipes)
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
@@ -3910,12 +3914,13 @@
 
 ## PHP 
 
+- [stdevPavelmc/FAASGS](https://github.com/stdevPavelmc/FAASGS) - Fully Automatic Amateur Satellite Ground Station
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Please be aware that the Issue tracker on Github is a Bug Tracker, not a Support Forum!
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Open Source image hosting software.
+- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Sharing powered by Chevereto.
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -4100,6 +4105,12 @@
 
 ## Python 
 
+- [Mz49/folderclone](https://github.com/Mz49/folderclone) - A project that allows you copy large folders to Shared Drives.
+- [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
+- [peci1/mikrotik_swos_tools](https://github.com/peci1/mikrotik_swos_tools) - 
+- [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
+- [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
+- [project-koku/koku](https://github.com/project-koku/koku) - An open source solution for cost management of cloud and hybrid cloud environments.
 - [rtulke/rpen](https://github.com/rtulke/rpen) - rpen is a color highlighter based on egrep
 - [keenerd/rtlsdr-waterfall](https://github.com/keenerd/rtlsdr-waterfall) - A scrolling spectrum plot for RTLSDR.
 - [CGrassin/rtl_power_scripts](https://github.com/CGrassin/rtl_power_scripts) - Python scripts to use and visualize the output of rtl_power.
@@ -5594,6 +5605,8 @@
 
 ## Rust 
 
+- [Arnavion/hwtop](https://github.com/Arnavion/hwtop) - TUI monitor for CPU usage, thermal and fan sensors, and network usage
+- [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
 - [WireGuard/wireguard-rs](https://github.com/WireGuard/wireguard-rs) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-rs
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
@@ -5768,6 +5781,13 @@
 
 ## Shell 
 
+- [tslenter/RSX-RSC](https://github.com/tslenter/RSX-RSC) - Remote Syslog Core / X / C
+- [DazzyWalkman/oplxc4pve](https://github.com/DazzyWalkman/oplxc4pve) - Wrapper Scripts for OpenWRT CTs on Proxmox VE
+- [openbridge/ob_bulkstash](https://github.com/openbridge/ob_bulkstash) - Bulk Stash is a docker rclone service to sync, or copy, files between different storage services. For example, you can copy files either to or from a remote storage services like Amazon S3 to Google Cloud Storage, or locally from your laptop to a remote storage.
+- [bardisty/ytdlrc](https://github.com/bardisty/ytdlrc) - :cloud: Downloads videos and metadata with youtube-dl and moves each file on completion to an rclone remote
+- [ipaqmaster/vfio](https://github.com/ipaqmaster/vfio) - A script I've made to make passing PCI devices to a VM less of a chore. I use it for single-gpu VM gaming and other PCI/LiveCD/PXE/VM/RawImage testing given the script's accessibility.
+- [tanle2694/ssh_colab](https://github.com/tanle2694/ssh_colab) - 
+- [mknoxnv/ubuntu-slurm](https://github.com/mknoxnv/ubuntu-slurm) - Steps to create a small slurm cluster with GPU enabled nodes
 - [MHA-Team/PTS-Team](https://github.com/MHA-Team/PTS-Team) - This fork serves as the basis for the continuation of the PTS project in a new form.
 - [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
@@ -6188,7 +6208,7 @@
 - [julianxhokaxhiu/vps-powered-by-docker](https://github.com/julianxhokaxhiu/vps-powered-by-docker) - Arch Linux setup script to obtain a full VPS with Automatic Reverse Proxy (and more) without pain
 - [julianxhokaxhiu/docker-powerdns](https://github.com/julianxhokaxhiu/docker-powerdns) - PowerDNS + Recursor + Admin GUI + Adblock in one single Docker
 - [pschiffe/docker-pdns](https://github.com/pschiffe/docker-pdns) - Docker images for PowerDNS
-- [JOduMonT/oldDEB](https://github.com/JOduMonT/oldDEB) - WARNING OLD Notes & Bots repo the NEW one is --&gt; https://github.com/JOduMonT/DEB
+- [JOduMonT/DEB](https://github.com/JOduMonT/DEB) - WARNING OLD Notes & Bots repo the NEW one is --&gt; https://github.com/JOduMonT/DEB
 - [docker-how-to/docker-swarm-configure-keepalived](https://github.com/docker-how-to/docker-swarm-configure-keepalived) - Configure keepalived floating ip for docker swarm
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [CollaboraOnline/Docker-CODE](https://github.com/CollaboraOnline/Docker-CODE) - Dockerfile and scripts to generate CODE Docker image
@@ -6580,6 +6600,7 @@
 
 ## TypeScript 
 
+- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing, includes AWS, GCP (and soon others)
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
@@ -6840,6 +6861,7 @@
 
 ## Vala 
 
+- [bcedu/VGrive](https://github.com/bcedu/VGrive) - Google Drive client  for linux
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim script 
