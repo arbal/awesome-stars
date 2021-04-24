@@ -535,6 +535,7 @@
 
 ## C++ 
 
+- [litecoin-project/litecoin](https://github.com/litecoin-project/litecoin) - Litecoin source tree
 - [wdas/brdf](https://github.com/wdas/brdf) - BRDF Explorer
 - [ethz-asl/seekthermal_ros](https://github.com/ethz-asl/seekthermal_ros) - ROS node for Seek thermal imaging devices
 - [hayguen/extio_rtl_tcp](https://github.com/hayguen/extio_rtl_tcp) - ExtIO plugin for Winrad/HDSDR connecting to librtlsdr's rtl_tcp
@@ -794,6 +795,8 @@
 
 ## Dockerfile 
 
+- [bademux/rtl_433toMQTT](https://github.com/bademux/rtl_433toMQTT) - rtl_433 to MQTT docker
+- [roflmao/rtl2mqtt](https://github.com/roflmao/rtl2mqtt) - 
 - [ChiefGokhlayeh/rtl-sdr-pr](https://github.com/ChiefGokhlayeh/rtl-sdr-pr) - Turning cheap RTL-SDR receivers into passive radar sensors
 - [giovtorres/slurm-docker-cluster](https://github.com/giovtorres/slurm-docker-cluster) - A Slurm cluster using docker-compose
 - [dorjik/docker-xmrig](https://github.com/dorjik/docker-xmrig) - 
@@ -940,6 +943,10 @@
 
 ## Go 
 
+- [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
+- [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone) - CSI driver for rclone
+- [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
+- [alpacahq/marketstore](https://github.com/alpacahq/marketstore) - DataFrame Server for Financial Timeseries Data
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
@@ -1308,7 +1315,7 @@
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP/RTSP(RTP/RTCP)/HLS/HTTP[S]-FLV/HTTP-TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify.
+- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]-FLV/HTTP-TS, WebSocket-FLV/TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify.
 - [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
@@ -2028,7 +2035,6 @@
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [viasite-ansible/ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
-- [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata) - An Ansible role to install/configure Netdata
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 - [ImJasonH/gcping](https://github.com/ImJasonH/gcping) - Measure your latency to GCP regions
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -2058,6 +2064,7 @@
 
 ## Haskell 
 
+- [input-output-hk/cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
 - [input-output-hk/cardano-node](https://github.com/input-output-hk/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
 - [jonschoning/espial](https://github.com/jonschoning/espial) - Espial is an open-source, web-based bookmarking server.
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
@@ -2210,6 +2217,12 @@
 
 ## JavaScript 
 
+- [adonisjs/drive](https://github.com/adonisjs/drive) - Filesystem provider built on top of node-flydrive
+- [project-rainstorm/rainstorm](https://github.com/project-rainstorm/rainstorm) - The easiest way to own your cloud. Your data. Your cloud. Rainstorm.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [elC0mpa/Crypto-Info-CLI](https://github.com/elC0mpa/Crypto-Info-CLI) - CLI tool to gather important information about some crypto currencies
+- [smoove/cli-crypto-charts](https://github.com/smoove/cli-crypto-charts) - View cryptocurrency charts in your terminal
+- [christ0ph3r/cryptocurrency-cli](https://github.com/christ0ph3r/cryptocurrency-cli) - :moneybag: Cryptocurrency Portfolio On The Command Line :moneybag:
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
 - [patagonaa/prometheus-mikrotik-swos-exporter](https://github.com/patagonaa/prometheus-mikrotik-swos-exporter) - Mikrotik SwOS exporter for Prometheus (non-SNMP-data only)
@@ -3093,6 +3106,7 @@
 
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
+- [papanito/ansible-role-cloudflared](https://github.com/papanito/ansible-role-cloudflared) - This ansible role does download and install cloudflared on the host and optionally installs the argo-tunnel as a service.
 - [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp) - Ansible Role - NTP
 - [hassio-addons/repository-beta](https://github.com/hassio-addons/repository-beta) - BETA - Home Assistant Community Add-ons
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden RS - Home Assistant Community Add-ons
@@ -3100,6 +3114,7 @@
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
+- [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata) - An Ansible role to install/configure Netdata
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [nodiscc/xsrv](https://github.com/nodiscc/xsrv) - [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
 - [hassio-addons/repository](https://github.com/hassio-addons/repository) - Home Assistant Community Add-ons
@@ -3379,6 +3394,7 @@
 
 ## Others 
 
+- [dillionverma/crypto-cli](https://github.com/dillionverma/crypto-cli) - The best cryptocurrency price CLI written in one line :moneybag:
 - [88lex/sa-guide](https://github.com/88lex/sa-guide) - Guide to creating multiple service accounts and using them with rclone sync or copy
 - [Arrin-KN1E/Gpredict-TRSP-Update](https://github.com/Arrin-KN1E/Gpredict-TRSP-Update) - Basic updates to the Gpredict .trsp files, which store satellite transponder data.
 - [barbeau/awesome-gnss](https://github.com/barbeau/awesome-gnss) - Community list of open-source GNSS software and resources :satellite:
@@ -3992,7 +4008,7 @@
 - [spatie/ssl-certificate-chain-resolver](https://github.com/spatie/ssl-certificate-chain-resolver) - SSL certificate chain resolver
 - [pmsipilot/docker-compose-viz](https://github.com/pmsipilot/docker-compose-viz) - Docker compose graph visualization
 - [shawnrice/packal-updater](https://github.com/shawnrice/packal-updater) - Draft Code for the Alfred package manager
-- [Zotero-Prime/zotero-prime](https://github.com/Zotero-Prime/zotero-prime) - Full packaged on-premise Zotero platform
+- [ZotPrime/zotprime](https://github.com/ZotPrime/zotprime) - Full packaged on-premise Zotero platform
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [Tuhinshubhra/RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK) - All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -4105,6 +4121,11 @@
 
 ## Python 
 
+- [elemental-lf/benji](https://github.com/elemental-lf/benji) - Benji Backup: A  block based deduplicating backup software for Ceph RBD images, iSCSI targets, image files and block devices
+- [ivopetiz/crypto-exchange-cli](https://github.com/ivopetiz/crypto-exchange-cli) - CLI for Crypto Exchanges.
+- [thejeffreystone/hassio_addons](https://github.com/thejeffreystone/hassio_addons) - 
+- [kisestu/Search4](https://github.com/kisestu/Search4) - Search people on the Internet.
+- [donbowman/OpenCorsairLink-Netdata](https://github.com/donbowman/OpenCorsairLink-Netdata) - OpenCorsairLink integration to Netdata
 - [Mz49/folderclone](https://github.com/Mz49/folderclone) - A project that allows you copy large folders to Shared Drives.
 - [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
 - [peci1/mikrotik_swos_tools](https://github.com/peci1/mikrotik_swos_tools) - 
@@ -4798,7 +4819,7 @@
 - [mit-acl/cadrl_ros](https://github.com/mit-acl/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 - [lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection) - Object detection project for real-time (webcam) and offline (video processing) application.
 - [damianmoore/photonix](https://github.com/damianmoore/photonix) - This is a new web-based photo management application. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, location awareness, color analysis and other ML algorithms.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open Source Object Detection/Face Recognition on AIoT devices.
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Privacy is the most important issue for the AI face recognition camera. Open source and BYOD is the only way to solve privacy issue. SharpAI DeepCamera provides private deployment architecture to save all your information on your own devices.
 - [BMW-InnovationLab/BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
 - [idealo/image-quality-assessment](https://github.com/idealo/image-quality-assessment) - Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
@@ -5471,6 +5492,7 @@
 
 ## Ruby 
 
+- [fastlane-community/security](https://github.com/fastlane-community/security) - A Ruby library for interacting with the macOS Keychain
 - [gousiosg/github-mirror](https://github.com/gousiosg/github-mirror) - Scripts to mirror Github in a cloudy fashion
 - [alouche/dns-check](https://github.com/alouche/dns-check) - CLI based tool for global dns [propagation] check
 - [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ Open-Source Management Platform
@@ -5682,7 +5704,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [Eonm/refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [timberio/vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
+- [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -5781,6 +5803,10 @@
 
 ## Shell 
 
+- [syreal17/backup-strategy-scripts](https://github.com/syreal17/backup-strategy-scripts) - Set of scripts to expedite creating reliable back ups for a system based on restic and rclone.
+- [88lex/diffmove](https://github.com/88lex/diffmove) - 
+- [88lex/mountsize](https://github.com/88lex/mountsize) - 
+- [negati-ve/docker-rclone-google-drive-cron-backup](https://github.com/negati-ve/docker-rclone-google-drive-cron-backup) - Rclone based solution to backup mysql database and minio storage to google drive for free every 30 mins.
 - [tslenter/RSX-RSC](https://github.com/tslenter/RSX-RSC) - Remote Syslog Core / X / C
 - [DazzyWalkman/oplxc4pve](https://github.com/DazzyWalkman/oplxc4pve) - Wrapper Scripts for OpenWRT CTs on Proxmox VE
 - [openbridge/ob_bulkstash](https://github.com/openbridge/ob_bulkstash) - Bulk Stash is a docker rclone service to sync, or copy, files between different storage services. For example, you can copy files either to or from a remote storage services like Amazon S3 to Google Cloud Storage, or locally from your laptop to a remote storage.
@@ -5986,7 +6012,6 @@
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server
 - [dcmartin/hassio-addons](https://github.com/dcmartin/hassio-addons) - Home-Assistant add-ons
 - [danielewood/plexargod](https://github.com/danielewood/plexargod) - Plex Argo Daemon - A systemd script to update the Plex API to use the current cloudflared tunnel address for remote access
-- [papanito/ansible-role-cloudflared](https://github.com/papanito/ansible-role-cloudflared) - This ansible role does download and install cloudflared on the host and optionally installs the argo-tunnel as a service.
 - [importpw/path](https://github.com/importpw/path) - Path string manipulation functions for shell scripts
 - [progrhyme/sh-pathctl](https://github.com/progrhyme/sh-pathctl) - Shell utility for PATH management
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
@@ -6600,6 +6625,8 @@
 
 ## TypeScript 
 
+- [Slynova-Org/flydrive](https://github.com/Slynova-Org/flydrive) - ☁️ Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js
+- [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing, includes AWS, GCP (and soon others)
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
