@@ -722,6 +722,7 @@
 
 ## CSS 
 
+- [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 - [datameet/maps](https://github.com/datameet/maps) - Repository for all spatial data.
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [deajan/traceroute_history](https://github.com/deajan/traceroute_history) - Keep traceroute histroy, make diffs. Use as standalone / smokeping companion
@@ -795,6 +796,7 @@
 
 ## Dockerfile 
 
+- [ianwalter/puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
 - [bademux/rtl_433toMQTT](https://github.com/bademux/rtl_433toMQTT) - rtl_433 to MQTT docker
 - [roflmao/rtl2mqtt](https://github.com/roflmao/rtl2mqtt) - 
 - [ChiefGokhlayeh/rtl-sdr-pr](https://github.com/ChiefGokhlayeh/rtl-sdr-pr) - Turning cheap RTL-SDR receivers into passive radar sensors
@@ -943,6 +945,9 @@
 
 ## Go 
 
+- [davidsbond/homelab](https://github.com/davidsbond/homelab) - Monorepo for my personal homelab
+- [andreaskoch/dcsg](https://github.com/andreaskoch/dcsg) - dcsg is a command-line utility for Linux that generates systemd services for Docker Compose projects
+- [cheggaaa/pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone) - CSI driver for rclone
 - [upspin/upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
@@ -1939,7 +1944,7 @@
 
 - [NickMRamirez/Proxy-Benchmarks](https://github.com/NickMRamirez/Proxy-Benchmarks) - Benchmarks for several proxies
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
-- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock automates deployment of secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
+- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
 - [pawalt/proxmox-k3s](https://github.com/pawalt/proxmox-k3s) - Zero-touch k3s deployment on Proxmox
 - [blz-ea/iac](https://github.com/blz-ea/iac) - Infrastructure as Code Starter Kit based on Terraform, Ansible, and Packer
 - [dsyorkd/HomeSwarmContainers](https://github.com/dsyorkd/HomeSwarmContainers) - My home swarm for fun stuff
@@ -1949,6 +1954,8 @@
 
 ## HTML 
 
+- [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
+- [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
 - [datadesk/california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas) - Simple maps of California's 58 counties
 - [FlyOrBoom/mercator](https://github.com/FlyOrBoom/mercator) - Scripts that alters the camera feed for Google Meet.
 - [datar/low-latency-system](https://github.com/datar/low-latency-system) - Everything about low latency system.
@@ -2097,6 +2104,7 @@
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [zhuyuqing/bestconf](https://github.com/zhuyuqing/bestconf) - A tool automatically improving the performance of large-scale systems by finding better configuration settings
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [eclipse/openj9](https://github.com/eclipse/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
@@ -2217,6 +2225,8 @@
 
 ## JavaScript 
 
+- [IBM/node-red-tensorflowjs](https://github.com/IBM/node-red-tensorflowjs) - Node-RED node with a TensorFlow.js Object Detection model
+- [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
 - [adonisjs/drive](https://github.com/adonisjs/drive) - Filesystem provider built on top of node-flydrive
 - [project-rainstorm/rainstorm](https://github.com/project-rainstorm/rainstorm) - The easiest way to own your cloud. Your data. Your cloud. Rainstorm.
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
@@ -2944,7 +2954,7 @@
 - [fredsted/webhook.site](https://github.com/fredsted/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sindresorhus/is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (March 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (May 2021)
 - [sindresorhus/uti-cli](https://github.com/sindresorhus/uti-cli) - Get the UTI (Uniform Type Identifier) of a file on macOS
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [samber/grafana-flamegraph-panel](https://github.com/samber/grafana-flamegraph-panel) - 📊 Flame graph panels for Grafana
@@ -3226,6 +3236,7 @@
 
 ## Kotlin 
 
+- [serebit/wraith-master](https://github.com/serebit/wraith-master) - A native Linux RGB control application for the AMD Wraith Prism (GitLab Mirror)
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android inspired by Gpredict
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [afollestad/nock-nock](https://github.com/afollestad/nock-nock) - 🚪 Monitor and validate your websites to maintain maximum uptime.
@@ -3394,6 +3405,10 @@
 
 ## Others 
 
+- [benortiz/awesome-weewx](https://github.com/benortiz/awesome-weewx) - Awesome software for your awesome weewx
+- [zachary/awesome-ecommerce](https://github.com/zachary/awesome-ecommerce) - Collect and develop Open Source or Free Projects for building ecommerce platform easy and fast and free
+- [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
+- [minio/awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
 - [dillionverma/crypto-cli](https://github.com/dillionverma/crypto-cli) - The best cryptocurrency price CLI written in one line :moneybag:
 - [88lex/sa-guide](https://github.com/88lex/sa-guide) - Guide to creating multiple service accounts and using them with rclone sync or copy
 - [Arrin-KN1E/Gpredict-TRSP-Update](https://github.com/Arrin-KN1E/Gpredict-TRSP-Update) - Basic updates to the Gpredict .trsp files, which store satellite transponder data.
@@ -4050,6 +4065,7 @@
 
 ## Perl 
 
+- [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [mad-ady/smokeping-speedtest](https://github.com/mad-ady/smokeping-speedtest) - Smokeping::probes::speedtest
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
@@ -4121,6 +4137,16 @@
 
 ## Python 
 
+- [bellrichm/WeeWX-MQTTSubscribe](https://github.com/bellrichm/WeeWX-MQTTSubscribe) - A WeeWX service and driver that receives data from MQTT.
+- [poblabs/weewx-belchertown](https://github.com/poblabs/weewx-belchertown) - A clean and modern weewx skin with real time streaming updates, forecast data and interactive charts. View it in action at BelchertownWeather.com
+- [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
+- [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
+- [SensorsIot/IOTstack](https://github.com/SensorsIot/IOTstack) - Docker stack for getting started on IOT on the Raspberry PI
+- [r0075h3ll/Oralyzer](https://github.com/r0075h3ll/Oralyzer) - Open Redirection Analyzer
+- [libots/ha-pve](https://github.com/libots/ha-pve) - ProxmoxVE custom component (adds storage sensors)
+- [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+- [sunpy/sunpy](https://github.com/sunpy/sunpy) - SunPy - Python for Solar Physics
 - [elemental-lf/benji](https://github.com/elemental-lf/benji) - Benji Backup: A  block based deduplicating backup software for Ceph RBD images, iSCSI targets, image files and block devices
 - [ivopetiz/crypto-exchange-cli](https://github.com/ivopetiz/crypto-exchange-cli) - CLI for Crypto Exchanges.
 - [thejeffreystone/hassio_addons](https://github.com/thejeffreystone/hassio_addons) - 
@@ -4737,7 +4763,6 @@
 - [intel/fiovisualizer](https://github.com/intel/fiovisualizer) - 
 - [distributed-system-analysis/pbench](https://github.com/distributed-system-analysis/pbench) - A benchmarking and performance analysis framework
 - [pcuzner/fio-tools](https://github.com/pcuzner/fio-tools) - project containing some tools to make performance reporting with fio a little easier
-- [LanLi2017/OpenRefineClientPy3](https://github.com/LanLi2017/OpenRefineClientPy3) - Revise the OpenRefine client library with python3 version
 - [turnkeylinux/confconsole](https://github.com/turnkeylinux/confconsole) - TurnKey Linux Configuration Console
 - [turnkeylinux/tracker](https://github.com/turnkeylinux/tracker) - TurnKey Linux Tracker
 - [Hellowlol/bw_plex](https://github.com/Hellowlol/bw_plex) - binge watching for plex
@@ -5492,6 +5517,7 @@
 
 ## Ruby 
 
+- [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Turn complex requirements to workflows without leaving the comfort of your technology stack.
 - [fastlane-community/security](https://github.com/fastlane-community/security) - A Ruby library for interacting with the macOS Keychain
 - [gousiosg/github-mirror](https://github.com/gousiosg/github-mirror) - Scripts to mirror Github in a cloudy fashion
 - [alouche/dns-check](https://github.com/alouche/dns-check) - CLI based tool for global dns [propagation] check
@@ -5627,6 +5653,10 @@
 
 ## Rust 
 
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [mfreeborn/heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
+- [shenek/wait-for-them](https://github.com/shenek/wait-for-them) - Wait until TCP services are running.
+- [mitsuhiko/indicatif](https://github.com/mitsuhiko/indicatif) - A command line progress reporting library for Rust
 - [Arnavion/hwtop](https://github.com/Arnavion/hwtop) - TUI monitor for CPU usage, thermal and fan sensors, and network usage
 - [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
 - [WireGuard/wireguard-rs](https://github.com/WireGuard/wireguard-rs) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-rs
@@ -5784,6 +5814,7 @@
 
 ## Scala 
 
+- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [zaratsian/network_topology_analysis](https://github.com/zaratsian/network_topology_analysis) - Code to collect and analyze traceroute data within a network topology
 - [mesos/chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
@@ -5803,10 +5834,14 @@
 
 ## Shell 
 
+- [felddy/weewx-docker](https://github.com/felddy/weewx-docker) - Docker container for WeeWx weather station server
+- [holgerimbery/feeder-stack](https://github.com/holgerimbery/feeder-stack) - feeder gui - graphical management for a docker swarm on feeder-cluster
+- [negati-ve/docker-rclone-google-drive-cron-backup](https://github.com/negati-ve/docker-rclone-google-drive-cron-backup) - Rclone based solution to backup mysql database and minio storage to google drive for free every 30 mins.
+- [bestlibre/hassio-addons](https://github.com/bestlibre/hassio-addons) - 
+- [ahuacate/pve-host-setup](https://github.com/ahuacate/pve-host-setup) - My Proxmox server node build
 - [syreal17/backup-strategy-scripts](https://github.com/syreal17/backup-strategy-scripts) - Set of scripts to expedite creating reliable back ups for a system based on restic and rclone.
 - [88lex/diffmove](https://github.com/88lex/diffmove) - 
 - [88lex/mountsize](https://github.com/88lex/mountsize) - 
-- [negati-ve/docker-rclone-google-drive-cron-backup](https://github.com/negati-ve/docker-rclone-google-drive-cron-backup) - Rclone based solution to backup mysql database and minio storage to google drive for free every 30 mins.
 - [tslenter/RSX-RSC](https://github.com/tslenter/RSX-RSC) - Remote Syslog Core / X / C
 - [DazzyWalkman/oplxc4pve](https://github.com/DazzyWalkman/oplxc4pve) - Wrapper Scripts for OpenWRT CTs on Proxmox VE
 - [openbridge/ob_bulkstash](https://github.com/openbridge/ob_bulkstash) - Bulk Stash is a docker rclone service to sync, or copy, files between different storage services. For example, you can copy files either to or from a remote storage services like Amazon S3 to Google Cloud Storage, or locally from your laptop to a remote storage.
@@ -6625,6 +6660,12 @@
 
 ## TypeScript 
 
+- [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/Vue2/Vue3
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
+- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
+- [haythem/public-ip](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address
 - [Slynova-Org/flydrive](https://github.com/Slynova-Org/flydrive) - ☁️ Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing, includes AWS, GCP (and soon others)
