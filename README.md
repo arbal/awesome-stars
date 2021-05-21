@@ -143,6 +143,8 @@
 
 ## C 
 
+- [rofl0r/MacGeiger](https://github.com/rofl0r/MacGeiger) - MacGeiger - a tool to track down the location of WIFI APs with sound (Geigercounter-like)
+- [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [rt-net/RaspberryPiMouse](https://github.com/rt-net/RaspberryPiMouse) - Raspberry Pi Mouse Device Driver
 - [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [lparam/xSocks](https://github.com/lparam/xSocks) - A secure and fast proxy for protect your network traffic
@@ -2363,6 +2365,7 @@
 
 ## JavaScript 
 
+- [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [42BV/yml-sorter](https://github.com/42BV/yml-sorter) - Sorts yml files alphabetically
 - [custom-cards/entity-attributes-card](https://github.com/custom-cards/entity-attributes-card) - Entity Attributes
@@ -2389,7 +2392,7 @@
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
@@ -2735,7 +2738,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - Signal Protocol library for JavaScript
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -3548,6 +3551,7 @@
 
 ## Objective-C 
 
+- [unixpickle/JamWiFi](https://github.com/unixpickle/JamWiFi) - A GUI, easy to use WiFi network jammer for Mac OS X
 - [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape) - Cursor Manager for OSX
 - [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS) - Objective C wrapper for the open source OCR Engine Tesseract (macOS)
 - [arsenetar/dupeguru-cocoa](https://github.com/arsenetar/dupeguru-cocoa) - 
@@ -3970,7 +3974,7 @@
 - [ader1990/cloudbase-init-test-resources](https://github.com/ader1990/cloudbase-init-test-resources) - Cloudbase-Init example configurations and config-drives used for functional tests
 - [tlkh/hyperconverged-private-cloud-guide](https://github.com/tlkh/hyperconverged-private-cloud-guide) - A guide to building a hyper-converged private cloud on commodity hardware
 - [stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) - Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
-- [bubelov/traefik-letsencrypt-compose](https://github.com/bubelov/traefik-letsencrypt-compose) - Basic Traefik 2 configuration with automatic Let’s Encrypt certificate management and password protected dashboard
+- [bubelov/traefik-letsencrypt-compose](https://github.com/bubelov/traefik-letsencrypt-compose) - Basic Traefik configuration which includes automatic Let’s Encrypt certificate management and password protected dashboard
 - [sniperkit/snk.dev-assistant](https://github.com/sniperkit/snk.dev-assistant) - Assistant for code development with advanced machine learning features
 - [heliomass/iOSShortcuts](https://github.com/heliomass/iOSShortcuts) - A collection of shortcuts for the Shortcuts app.
 - [tomByrer/awesome-cloudflare-workers](https://github.com/tomByrer/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
@@ -4311,6 +4315,8 @@
 
 ## Perl 
 
+- [marchyman/GeoTag](https://github.com/marchyman/GeoTag) - Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==&gt;
+- [stuartcryan/advanced-google-maps-alfred-workflow](https://github.com/stuartcryan/advanced-google-maps-alfred-workflow) - Advanced Google Maps and Apple Maps Workflow for Alfred
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [mad-ady/smokeping-speedtest](https://github.com/mad-ady/smokeping-speedtest) - Smokeping::probes::speedtest
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
@@ -4381,6 +4387,8 @@
 
 ## Python 
 
+- [pimms/ggl](https://github.com/pimms/ggl) - Google Custom Search for the command line
+- [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
 - [rchac/LibreQoS](https://github.com/rchac/LibreQoS) - LibreQoS is an application that makes it possible to apply fq_codel AQM and rate limits to hundreds of clients. This can help control bufferbloat on small ISP networks.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [hofstadter-io/self-driving-desktop](https://github.com/hofstadter-io/self-driving-desktop) - Desktop Automation Framework. Drive your mouse and keyboard with an easy to use language.
@@ -4619,7 +4627,6 @@
 - [facebookexperimental/doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [SamOh/notes_export_tool](https://github.com/SamOh/notes_export_tool) - Tool to export apple notes
 - [hardillb/nginx-proxy-avahi-helper](https://github.com/hardillb/nginx-proxy-avahi-helper) - A container to generate matching mDNS CNAMEs for the virtual hosts used by jwilder/nginx-proxy
 - [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [goberoi/faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
@@ -5920,7 +5927,7 @@
 - [Bhanditz/putsreq](https://github.com/Bhanditz/putsreq) - PutsReq lets you record HTTP requests and fake responses like no other tool available
 - [kirillshevch/slack_hook](https://github.com/kirillshevch/slack_hook) - A Simple Interface to Slack Incoming Webhooks Integrations
 - [ceph/ceph-cookbook](https://github.com/ceph/ceph-cookbook) - Chef cookbooks for Ceph
-- [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - The Standard Notes syncing server
+- [standardnotes/syncing-server](https://github.com/standardnotes/syncing-server) - [Deprecated: Use our new Node server: https://github.com/standardnotes/syncing-server-js]
 - [standardnotes/filesafe-relay](https://github.com/standardnotes/filesafe-relay) - Relay server used to communicate between FileSafe client extension and server destination (Dropbox, Google Drive, WebDAV)
 - [chef/ohai](https://github.com/chef/ohai) - Ohai profiles your system and emits JSON
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
@@ -6068,7 +6075,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [Eonm/refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [timberio/vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
+- [timberio/vector](https://github.com/timberio/vector) - High-performance observability data pipelines.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -6168,6 +6175,7 @@
 
 ## Shell 
 
+- [chmouel/batzconverter](https://github.com/chmouel/batzconverter) - If batman needed a tz converter to show times between different timezones that would be it 🦇
 - [jpfluger/examples](https://github.com/jpfluger/examples) - Production examples.
 - [rdwinter2/dev](https://github.com/rdwinter2/dev) - 
 - [docker-slim/examples](https://github.com/docker-slim/examples) - Minified application examples with different languages and stacks for DockerSlim
@@ -6941,6 +6949,7 @@
 
 ## Swift 
 
+- [0x0XDev/JamWiFi](https://github.com/0x0XDev/JamWiFi) - A GUI, easy to use WiFi network jammer for Mac OS X
 - [socsieng/sendkeys](https://github.com/socsieng/sendkeys) - Command line tool for automating keystrokes and mouse events on macOS
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [charliecm/alfred-hyperlink](https://github.com/charliecm/alfred-hyperlink) - Alfred workflow for copying browser tab as hyperlink.
