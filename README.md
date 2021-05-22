@@ -30,6 +30,7 @@
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
+  - [FreeMarker](#freemarker)
   - [G-code](#g-code)
   - [Go](#go)
   - [Groff](#groff)
@@ -987,12 +988,18 @@
 - [okeuday/nodefinder](https://github.com/okeuday/nodefinder) - Strategies For Automatic Node Discovery
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 
+## FreeMarker 
+
+- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+
 ## G-code 
 
 - [MKme/Roomba](https://github.com/MKme/Roomba) - Romba Virtual Wall and Any Other Mods I figure Out
 
 ## Go 
 
+- [unstoppabledomains/resolution-cli](https://github.com/unstoppabledomains/resolution-cli) - CLI tool for resolving unstoppable domains
+- [HON95/prometheus-ethermine-exporter](https://github.com/HON95/prometheus-ethermine-exporter) - A Prometheus exporter for Ethermine, ETC Ethermine, Ethpool, Zcash Flypool, Ravencoin Flypool and BEAM Flypool
 - [bemasher/rtlamr](https://github.com/bemasher/rtlamr) - An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [Kong/deck](https://github.com/Kong/deck) - decK: Configuration management and drift detection for Kong
@@ -2365,6 +2372,8 @@
 
 ## JavaScript 
 
+- [janoside/btc-rpc-explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core.
+- [moolen/statusgraph](https://github.com/moolen/statusgraph) - :sunny: A status page for your distributed system
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [42BV/yml-sorter](https://github.com/42BV/yml-sorter) - Sorts yml files alphabetically
@@ -2418,6 +2427,7 @@
 - [albertz/chrome-ext-google-takeout-downloader](https://github.com/albertz/chrome-ext-google-takeout-downloader) - 
 - [ironicnet/google-photo-transfer](https://github.com/ironicnet/google-photo-transfer) - 
 - [janis91/ocr](https://github.com/janis91/ocr) - Nextcloud OCR (optical character recoginition) processing for images with tesseract-js
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds VSCode style autocomplete to your terminal
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [IBM/node-red-tensorflowjs](https://github.com/IBM/node-red-tensorflowjs) - Node-RED node with a TensorFlow.js Object Detection model
 - [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
@@ -3210,7 +3220,6 @@
 - [xephonhq/awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) - :clock7: A curated list of awesome time series databases, benchmarks and papers
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
-- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [catamphetamine/libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Response for Microservices
@@ -3616,6 +3625,7 @@
 
 ## Others 
 
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [dbohdan/embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [AnarchoTechNYC/ansible-role-dnscrypt-proxy](https://github.com/AnarchoTechNYC/ansible-role-dnscrypt-proxy) - :lock::postal_horn: Spin up a(n optionally Torified) DNS, DNSCrypt v2, DNS-over-TLS, and/or DNS-over-HTTPS proxy server.
@@ -4178,6 +4188,7 @@
 
 ## PHP 
 
+- [rlerdorf/opcache-status](https://github.com/rlerdorf/opcache-status) - A one-page opcache status page
 - [mhujer/yaml-sort-checker](https://github.com/mhujer/yaml-sort-checker) - Tool for checking if the YAML config files are alphabetically sorted
 - [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Open Source Appointment Scheduler
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
@@ -4387,6 +4398,7 @@
 
 ## Python 
 
+- [viadee/docker-hub-rate-limit-exporter](https://github.com/viadee/docker-hub-rate-limit-exporter) - Know your limits - Via Prometheus
 - [pimms/ggl](https://github.com/pimms/ggl) - Google Custom Search for the command line
 - [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
 - [rchac/LibreQoS](https://github.com/rchac/LibreQoS) - LibreQoS is an application that makes it possible to apply fq_codel AQM and rate limits to hundreds of clients. This can help control bufferbloat on small ISP networks.
@@ -4946,7 +4958,7 @@
 - [juneau-project/juneau](https://github.com/juneau-project/juneau) - A Jupyter notebook extension to centralize and manage data
 - [viniarck/phpipam-pyclient](https://github.com/viniarck/phpipam-pyclient) - :gem: REST client and CLI tool to interface with phpipam REST API
 - [debops/phpipam-scripts](https://github.com/debops/phpipam-scripts) - A set of scripts designed to access phpIPAM database
-- [Theano/Theano](https://github.com/Theano/Theano) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+- [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/pymc-devs/aesara
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [yassineaboukir/Asnlookup](https://github.com/yassineaboukir/Asnlookup) - Leverage ASN to look up IP addresses (IPv4 & IPv6) owned by a specific organization for reconnaissance purposes, then run port scanning on it.
 - [sdwilsh/hass-truenas](https://github.com/sdwilsh/hass-truenas) - TrueNAS integration for Home Assistant
@@ -6175,6 +6187,7 @@
 
 ## Shell 
 
+- [docker-android-sdk/android-30](https://github.com/docker-android-sdk/android-30) - Docker for Android SDK 30 with preinstalled build tools and emulator image
 - [chmouel/batzconverter](https://github.com/chmouel/batzconverter) - If batman needed a tz converter to show times between different timezones that would be it 🦇
 - [jpfluger/examples](https://github.com/jpfluger/examples) - Production examples.
 - [rdwinter2/dev](https://github.com/rdwinter2/dev) - 
@@ -7063,6 +7076,7 @@
 
 ## TypeScript 
 
+- [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 - [GridProtectionAlliance/openHistorian](https://github.com/GridProtectionAlliance/openHistorian) - The Open Source Time-Series Data Historian
 - [BlueBubblesApp/BlueBubbles-Server](https://github.com/BlueBubblesApp/BlueBubbles-Server) - Server for forwarding iMessages to an Android Phone
 - [verticle-io/flowhook-datasource](https://github.com/verticle-io/flowhook-datasource) - Route any webhook to for Grafana
@@ -7085,7 +7099,6 @@
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [nurikk/z2m-frontend](https://github.com/nurikk/z2m-frontend) - Zigbee2MQTT frontend
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds VSCode style autocomplete to your terminal
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/Vue2/Vue3
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
