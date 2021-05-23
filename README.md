@@ -144,6 +144,7 @@
 
 ## C 
 
+- [trailofbits/polytracker](https://github.com/trailofbits/polytracker) - An LLVM-based instrumentation tool for universal taint tracking, dataflow analysis, and tracing.
 - [rofl0r/MacGeiger](https://github.com/rofl0r/MacGeiger) - MacGeiger - a tool to track down the location of WIFI APs with sound (Geigercounter-like)
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [rt-net/RaspberryPiMouse](https://github.com/rt-net/RaspberryPiMouse) - Raspberry Pi Mouse Device Driver
@@ -482,6 +483,7 @@
 
 ## C# # 
 
+- [mspnp/performance-optimization](https://github.com/mspnp/performance-optimization) - Guidance on how to observe, measure, and correct common issues in a cloud-based system.
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [nullpainter/sanchez](https://github.com/nullpainter/sanchez) - False-colour geostationary satellite image compositor
 - [MultiPoolMiner/MultiPoolMiner](https://github.com/MultiPoolMiner/MultiPoolMiner) - Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line.
@@ -767,6 +769,7 @@
 
 ## CSS 
 
+- [mr-pennyworth/alfred-better-dictionaries](https://github.com/mr-pennyworth/alfred-better-dictionaries) - 
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
@@ -998,6 +1001,11 @@
 
 ## Go 
 
+- [othalla/plex_exporter](https://github.com/othalla/plex_exporter) - Prometheus exporter for Plex Media Server
+- [arnarg/plex_exporter](https://github.com/arnarg/plex_exporter) - A Prometheus exporter for a few metrics from Plex Media Server
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
+- [mutantmonkey/golinx](https://github.com/mutantmonkey/golinx) - A client for linx-server written in Go
+- [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) - Performance tests and benchmarks
 - [unstoppabledomains/resolution-cli](https://github.com/unstoppabledomains/resolution-cli) - CLI tool for resolving unstoppable domains
 - [HON95/prometheus-ethermine-exporter](https://github.com/HON95/prometheus-ethermine-exporter) - A Prometheus exporter for Ethermine, ETC Ethermine, Ethpool, Zcash Flypool, Ravencoin Flypool and BEAM Flypool
 - [bemasher/rtlamr](https://github.com/bemasher/rtlamr) - An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
@@ -2079,6 +2087,7 @@
 
 ## HCL 
 
+- [BarisGece/mHC](https://github.com/BarisGece/mHC) - The easy-way to create and manage a Mini Home Cloud. mHC is built using Shell, Proxmox-VE, Packer, Terraform, Ansible and is not completely reliable for Production environments.
 - [kojiromike/inception](https://github.com/kojiromike/inception) - Wrap dind to run a container at arbitrary depth
 - [IronicBadger/infra](https://github.com/IronicBadger/infra) - 99.9% less leaked credentials
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
@@ -2235,6 +2244,7 @@
 
 ## Java 
 
+- [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.
 - [repeats/Repeat](https://github.com/repeats/Repeat) - Cross-platform mouse/keyboard record/replay and automation hotkeys/macros creation, and more advanced automation features.
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed Database Ecosphere
@@ -2372,6 +2382,10 @@
 
 ## JavaScript 
 
+- [GoogleChromeLabs/psi](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights Reporting for Node
+- [macbre/analyze-css](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer
+- [mr-pennyworth/alfred-fastest-emoji](https://github.com/mr-pennyworth/alfred-fastest-emoji) - Instant search for emojis in Alfred with related keywords
+- [stefanjudis/perf-tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools
 - [janoside/btc-rpc-explorer](https://github.com/janoside/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC to Bitcoin Core.
 - [moolen/statusgraph](https://github.com/moolen/statusgraph) - :sunny: A status page for your distributed system
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
@@ -3083,7 +3097,6 @@
 - [ouspg/urlhandlers](https://github.com/ouspg/urlhandlers) - Discover and Hack URL handlers
 - [kbshl/alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
 - [auth0/repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
-- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -3381,7 +3394,7 @@
 - [KuntalP/10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
 - [chervonij/DFL-Colab](https://github.com/chervonij/DFL-Colab) - DeepFaceLab fork which provides IPython Notebook to use DFL with Google Colab
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
-- [lab-ml/annotated_deep_learning_paper_implementations](https://github.com/lab-ml/annotated_deep_learning_paper_implementations) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc.
+- [lab-ml/annotated_deep_learning_paper_implementations](https://github.com/lab-ml/annotated_deep_learning_paper_implementations) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc.
 - [nareshkumar66675/Appomania](https://github.com/nareshkumar66675/Appomania) - Andoid and iOS App Store Analysis
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
@@ -3560,6 +3573,7 @@
 
 ## Objective-C 
 
+- [mr-pennyworth/alfred-extra-pane](https://github.com/mr-pennyworth/alfred-extra-pane) - Rich previews for Alfred script filters
 - [unixpickle/JamWiFi](https://github.com/unixpickle/JamWiFi) - A GUI, easy to use WiFi network jammer for Mac OS X
 - [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape) - Cursor Manager for OSX
 - [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS) - Objective C wrapper for the open source OCR Engine Tesseract (macOS)
@@ -3625,6 +3639,8 @@
 
 ## Others 
 
+- [arbal/alfred-clipboard-ocr](https://github.com/arbal/alfred-clipboard-ocr) - Make images in Alfred's clipboard history searchable by their text content
+- [mr-pennyworth/alfred-cleanshot](https://github.com/mr-pennyworth/alfred-cleanshot) - Trigger CleanShot Actions from Alfred
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [dbohdan/embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
@@ -4290,6 +4306,7 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [phpipam/phpipam-agent](https://github.com/phpipam/phpipam-agent) - phpipam scan agent
 - [mbolli/nfsen-ng](https://github.com/mbolli/nfsen-ng) - Responsive NetFlow visualizer built on top of nfdump tools.
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [zqzten/alfred-web-search-suggest](https://github.com/zqzten/alfred-web-search-suggest) - Alfred search suggest workflow for various popular websites.
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 3/4
 - [Cacti/cacti](https://github.com/Cacti/cacti) - Cacti ™
@@ -4398,6 +4415,11 @@
 
 ## Python 
 
+- [trailofbits/polyfile](https://github.com/trailofbits/polyfile) - A utility for mapping the file formats embedded within a single file
+- [mr-pennyworth/alfred-history-search](https://github.com/mr-pennyworth/alfred-history-search) - Alfred workflow to search through query history, and execute queries from history.
+- [mr-pennyworth/alfred-clipboard-ocr](https://github.com/mr-pennyworth/alfred-clipboard-ocr) - Make images in Alfred's clipboard history searchable by their text content
+- [rcbops/rpc-perf-scripts](https://github.com/rcbops/rpc-perf-scripts) - Scripts and automation around performance tools for testing of RPC
+- [mr-canoehead/network_performance_monitor](https://github.com/mr-canoehead/network_performance_monitor) - Network Performance Monitor - a portable tool for troubleshooting performance issues with home networks
 - [viadee/docker-hub-rate-limit-exporter](https://github.com/viadee/docker-hub-rate-limit-exporter) - Know your limits - Via Prometheus
 - [pimms/ggl](https://github.com/pimms/ggl) - Google Custom Search for the command line
 - [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
@@ -5994,6 +6016,7 @@
 
 ## Rust 
 
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [adam-mcdaniel/atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [junkurihara/encrypted-dns-server-modns](https://github.com/junkurihara/encrypted-dns-server-modns) - Fork of encrypted-dns-server to implement a multiple-relay-based DNS anonymization protocol (mu-ODNS)
 - [romanz/electrs](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server in Rust
@@ -6187,6 +6210,7 @@
 
 ## Shell 
 
+- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [docker-android-sdk/android-30](https://github.com/docker-android-sdk/android-30) - Docker for Android SDK 30 with preinstalled build tools and emulator image
 - [chmouel/batzconverter](https://github.com/chmouel/batzconverter) - If batman needed a tz converter to show times between different timezones that would be it 🦇
 - [jpfluger/examples](https://github.com/jpfluger/examples) - Production examples.
@@ -6962,6 +6986,7 @@
 
 ## Swift 
 
+- [mr-pennyworth/url-screenshotter](https://github.com/mr-pennyworth/url-screenshotter) - Command-line app for macOS to take screenshots of webpages.
 - [0x0XDev/JamWiFi](https://github.com/0x0XDev/JamWiFi) - A GUI, easy to use WiFi network jammer for Mac OS X
 - [socsieng/sendkeys](https://github.com/socsieng/sendkeys) - Command line tool for automating keystrokes and mouse events on macOS
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
@@ -7076,6 +7101,7 @@
 
 ## TypeScript 
 
+- [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 - [GridProtectionAlliance/openHistorian](https://github.com/GridProtectionAlliance/openHistorian) - The Open Source Time-Series Data Historian
 - [BlueBubblesApp/BlueBubbles-Server](https://github.com/BlueBubblesApp/BlueBubbles-Server) - Server for forwarding iMessages to an Android Phone
@@ -7229,7 +7255,7 @@
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
-- [TimoSta/sprite](https://github.com/TimoSta/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
+- [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [nervetattoo/simple-thermostat](https://github.com/nervetattoo/simple-thermostat) - A different take on the thermostat card for Home Assistant ♨️
