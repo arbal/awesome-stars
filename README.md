@@ -1001,6 +1001,7 @@
 
 ## Go 
 
+- [ricoberger/loki_exporter](https://github.com/ricoberger/loki_exporter) - Prometheus exporter to collect metrics and run queries against the Grafana Loki API.
 - [othalla/plex_exporter](https://github.com/othalla/plex_exporter) - Prometheus exporter for Plex Media Server
 - [arnarg/plex_exporter](https://github.com/arnarg/plex_exporter) - A Prometheus exporter for a few metrics from Plex Media Server
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
@@ -2352,7 +2353,7 @@
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
 - [theopolisme/react-native-stripe-terminal](https://github.com/theopolisme/react-native-stripe-terminal) - React Native bindings for the Stripe Terminal SDK. (Unofficial)
-- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides a commandline and dbus interface for signalapp/libsignal-service-java
+- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline and dbus interface for signalapp/libsignal-service-java
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or server.
 - [stkenny/Refine-NER-Extension](https://github.com/stkenny/Refine-NER-Extension) - Named-Entity Recognition extension for Google Refine / OpenRefine
@@ -2441,7 +2442,6 @@
 - [albertz/chrome-ext-google-takeout-downloader](https://github.com/albertz/chrome-ext-google-takeout-downloader) - 
 - [ironicnet/google-photo-transfer](https://github.com/ironicnet/google-photo-transfer) - 
 - [janis91/ocr](https://github.com/janis91/ocr) - Nextcloud OCR (optical character recoginition) processing for images with tesseract-js
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds VSCode style autocomplete to your terminal
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [IBM/node-red-tensorflowjs](https://github.com/IBM/node-red-tensorflowjs) - Node-RED node with a TensorFlow.js Object Detection model
 - [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
@@ -3639,6 +3639,7 @@
 
 ## Others 
 
+- [soheilpro/catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
 - [arbal/alfred-clipboard-ocr](https://github.com/arbal/alfred-clipboard-ocr) - Make images in Alfred's clipboard history searchable by their text content
 - [mr-pennyworth/alfred-cleanshot](https://github.com/mr-pennyworth/alfred-cleanshot) - Trigger CleanShot Actions from Alfred
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -6016,6 +6017,7 @@
 
 ## Rust 
 
+- [mre/fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [adam-mcdaniel/atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [junkurihara/encrypted-dns-server-modns](https://github.com/junkurihara/encrypted-dns-server-modns) - Fork of encrypted-dns-server to implement a multiple-relay-based DNS anonymization protocol (mu-ODNS)
@@ -7125,6 +7127,7 @@
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [nurikk/z2m-frontend](https://github.com/nurikk/z2m-frontend) - Zigbee2MQTT frontend
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds VSCode style autocomplete to your terminal
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/Vue2/Vue3
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
@@ -7190,7 +7193,7 @@
 - [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [FiretableProject/firetable](https://github.com/FiretableProject/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
