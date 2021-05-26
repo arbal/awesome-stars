@@ -265,7 +265,7 @@
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
-- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [kermitt2/pdfalto](https://github.com/kermitt2/pdfalto) - PDF to XML ALTO file converter
 - [kermitt2/pdf2xml](https://github.com/kermitt2/pdf2xml) - pdf2xml convertor based on Xpdf library - modified version
 - [DNS-OARC/dnsjit](https://github.com/DNS-OARC/dnsjit) - Engine for capturing, parsing and replaying DNS
@@ -549,7 +549,6 @@
 - [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 - [nlkl/Optional](https://github.com/nlkl/Optional) - A robust option type for C#
 - [zzzprojects/GraphDiff](https://github.com/zzzprojects/GraphDiff) - GraphDiff is a library that allows the automatic update of a detached graph using Entity Framework code first.
-- [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [jbakic/Shielded](https://github.com/jbakic/Shielded) - A strict and mostly lock-free Software Transactional Memory (STM) for .NET
 - [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
 - [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
@@ -2089,6 +2088,7 @@
 
 ## HCL 
 
+- [vivami/proxmox-automation](https://github.com/vivami/proxmox-automation) - Terraform and Ansible for VM and CT deployment and provisioning on Proxmox
 - [BarisGece/mHC](https://github.com/BarisGece/mHC) - The easy-way to create and manage a Mini Home Cloud. mHC is built using Shell, Proxmox-VE, Packer, Terraform, Ansible and is not completely reliable for Production environments.
 - [kojiromike/inception](https://github.com/kojiromike/inception) - Wrap dind to run a container at arbitrary depth
 - [IronicBadger/infra](https://github.com/IronicBadger/infra) - 99.9% less leaked credentials
@@ -2159,7 +2159,6 @@
 - [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website) - The Best Motherfucking Website
 - [virtualmin/virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
 - [virtualmin/authentic-theme](https://github.com/virtualmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
-- [enys/traefik_prometheus_dashboard](https://github.com/enys/traefik_prometheus_dashboard) - Graphana dashboard for prometheus metrics from Traefik v2
 - [leggett/simplify](https://github.com/leggett/simplify) - Browser extension to simplify Gmail's interface
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
@@ -2385,6 +2384,8 @@
 
 ## JavaScript 
 
+- [ActionCloud/github-raw-url](https://github.com/ActionCloud/github-raw-url) - Action to convert a normal GitHub url to its corresponding raw url.
+- [doowb/github-content](https://github.com/doowb/github-content) - Easily download files from github raw user content.
 - [jychp/cloudflare-bypass](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare bot protection using Cloudflare Workers
 - [GoogleChromeLabs/psi](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights Reporting for Node
 - [macbre/analyze-css](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer
@@ -2574,7 +2575,7 @@
 - [e2e-boilerplate/playwright-es-modules-babel-jest-expect](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect) - Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Expect.
 - [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
 - [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
-- [homebridge-plugins/homebridge-roomba2](https://github.com/homebridge-plugins/homebridge-roomba2) - Homebridge plugin to connect iRobot Roomba devices with Homebridge/HomeKit.
+- [donavanbecker/homebridge-roomba2](https://github.com/donavanbecker/homebridge-roomba2) - Homebridge plugin to connect iRobot Roomba devices with Homebridge/HomeKit.
 - [edf-hpc/slurm-web](https://github.com/edf-hpc/slurm-web) - Slurm HPC workload manager web JS dashboard and JSON REST API
 - [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
@@ -3297,6 +3298,7 @@
 - [vincentlaucsb/US-Map](https://github.com/vincentlaucsb/US-Map) - A visualization of commute times around the US
 - [anryko/grafana-influx-dashboard](https://github.com/anryko/grafana-influx-dashboard) - Grafana InfluxDB scripted dashboard
 - [GoshPosh/grafana-meta-queries](https://github.com/GoshPosh/grafana-meta-queries) - Grafana plugin for calculating time period metrics like week over week, month over month and year over year etc.
+- [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
 - [sibartlett/homebridge-wink3](https://github.com/sibartlett/homebridge-wink3) - Homebridge plugin for wink.com
 - [brockallen/IdentityServerAndApi](https://github.com/brockallen/IdentityServerAndApi) - 
@@ -3335,6 +3337,7 @@
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [papanito/ansible-role-cloudflared](https://github.com/papanito/ansible-role-cloudflared) - This ansible role does download and install cloudflared on the host and optionally installs the argo-tunnel as a service.
 - [kairen/kubeadm-ansible](https://github.com/kairen/kubeadm-ansible) - Build a Kubernetes cluster using kubeadm via Ansible.
+- [enys/traefik_prometheus_dashboard](https://github.com/enys/traefik_prometheus_dashboard) - Graphana dashboard for prometheus metrics from Traefik v2
 - [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp) - Ansible Role - NTP
 - [hassio-addons/repository-beta](https://github.com/hassio-addons/repository-beta) - BETA - Home Assistant Community Add-ons
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden (Vaultwarden) - Home Assistant Community Add-ons
@@ -3642,6 +3645,7 @@
 
 ## Others 
 
+- [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [soheilpro/catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
 - [arbal/alfred-clipboard-ocr](https://github.com/arbal/alfred-clipboard-ocr) - Make images in Alfred's clipboard history searchable by their text content
 - [mr-pennyworth/alfred-cleanshot](https://github.com/mr-pennyworth/alfred-cleanshot) - Trigger CleanShot Actions from Alfred
@@ -4419,6 +4423,9 @@
 
 ## Python 
 
+- [DanielHuisman/traefik-certificate-extractor](https://github.com/DanielHuisman/traefik-certificate-extractor) - Tool to extract Let's Encrypt certificates from Traefik's ACME storage file. Traefik v2 support:
+- [sdwilsh/aiotruenas-client](https://github.com/sdwilsh/aiotruenas-client) - Any asyncio-friendly API for TrueNAS
+- [nickryand/truenas_config_backup](https://github.com/nickryand/truenas_config_backup) - Backup script which can be used to drive the API to pull a configuration backup
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
@@ -6219,6 +6226,9 @@
 
 ## Shell 
 
+- [ruanbekker/drone-gitea-on-docker](https://github.com/ruanbekker/drone-gitea-on-docker) - DroneCI and Gitea on Docker
+- [mohd-akram/ghget](https://github.com/mohd-akram/ghget) - A script to download files/directories from GitHub.
+- [pschmitt/nrgh-sync](https://github.com/pschmitt/nrgh-sync) - Sync your GitHub starred repositories with newreleases.io
 - [slim-bean/loki-shell](https://github.com/slim-bean/loki-shell) - How to use Loki to store and centralize your shell history from anywhere and search it using ctrl-r and fzf
 - [turkenh/ansible-interactive-tutorial](https://github.com/turkenh/ansible-interactive-tutorial) - Interactive Ansible tutorials with dead simple setup via Docker
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -6650,7 +6660,6 @@
 - [billimek/homelab-infrastructure](https://github.com/billimek/homelab-infrastructure) - Infrastructure info and setup for homelab
 - [boyney123/garie](https://github.com/boyney123/garie) - Open source web performance
 - [MacsInSpace/iOS-AirPrint-for-Mac](https://github.com/MacsInSpace/iOS-AirPrint-for-Mac) - enable iOS Airprint Sharing on Mac OS
-- [tmpdubz/prox-whale-form](https://github.com/tmpdubz/prox-whale-form) - Terraform running in docker to help me manage proxmox
 - [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) - Pure-Docker Sourcegraph cluster deployment reference
 - [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay!
@@ -6812,7 +6821,7 @@
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
 - [RPi-Distro/raspberrypi-sys-mods](https://github.com/RPi-Distro/raspberrypi-sys-mods) - A collection of Raspberry Pi-sourced system configuration files and associated scripts
 - [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, UPnP and Spotify Connect
-- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
+- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [neo954/raspbian-toolbox](https://github.com/neo954/raspbian-toolbox) - Raspbian Toolbox is a collection of tools for Raspbian image customization.
 - [adampie/pi-gen](https://github.com/adampie/pi-gen) - Automating the generation of Raspbian images for the Raspberry Pi using Ansible
 - [home-assistant/pi-gen](https://github.com/home-assistant/pi-gen) - Tool used to create the Hassbian images
@@ -7113,6 +7122,7 @@
 
 ## TypeScript 
 
+- [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
@@ -7228,7 +7238,7 @@
 - [dhleong/babbling](https://github.com/dhleong/babbling) - Cast Streaming service videos to Chromecast
 - [CouchBuddy/couch-buddy](https://github.com/CouchBuddy/couch-buddy) - A Media Center with Cast support that belongs to this millennium
 - [pedromsilvapt/unicast](https://github.com/pedromsilvapt/unicast) - A node server that serves as a middleware for casting videos and other media to chromecast, and controlling the playthrough
-- [DevSnowflake/youtube-sr](https://github.com/DevSnowflake/youtube-sr) - Simple package to search videos or channels on YouTube.
+- [DevSnowflake/youtube-sr](https://github.com/DevSnowflake/youtube-sr) - Simple package to make YouTube search easily
 - [poulainv/tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [bespoken/bst](https://github.com/bespoken/bst) - :wrench: Bespoken Tools - Tools for making voice apps faster and better
