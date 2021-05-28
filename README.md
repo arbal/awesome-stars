@@ -103,6 +103,8 @@
 
 ## AppleScript 
 
+- [RobTrew/prelude-applescript](https://github.com/RobTrew/prelude-applescript) - Generic functions for macOS scripting with Applescript – function names as in Hoogle
+- [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder) - My repository of miscellaneous AppleScripts I've written for OS X
 - [squekisonmestips/clipeee-bot-farm](https://github.com/squekisonmestips/clipeee-bot-farm) - clipeee bot farm
 - [davidnewhall/iMessageSpy](https://github.com/davidnewhall/iMessageSpy) - SecuritySpy - Messages.app and iMessage Integration
 - [shirohana/alfred3-youtube-control](https://github.com/shirohana/alfred3-youtube-control) - 🎵 Control YouTube players with browser by Alfred
@@ -1000,6 +1002,12 @@
 
 ## Go 
 
+- [greenpau/caddy-auth-jwt](https://github.com/greenpau/caddy-auth-jwt) - JWT Authorization Plugin for Caddy v2
+- [tarent/loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
+- [andybrewer/mack](https://github.com/andybrewer/mack) - Mack — Golang wrapper for AppleScript
+- [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
+- [nickysemenza/onhub-prometheus](https://github.com/nickysemenza/onhub-prometheus) - Expose onhub wifi metrics to prometheus
+- [arkits/onhub-web](https://github.com/arkits/onhub-web) - The missing Web UI for Google OnHub and Google Wifi Devices
 - [NeonSludge/ansible-dns-inventory](https://github.com/NeonSludge/ansible-dns-inventory) - A dynamic inventory script for Ansible that discovers hosts and groups via a DNS request and organizes them into a tree.
 - [ricoberger/loki_exporter](https://github.com/ricoberger/loki_exporter) - Prometheus exporter to collect metrics and run queries against the Grafana Loki API.
 - [othalla/plex_exporter](https://github.com/othalla/plex_exporter) - Prometheus exporter for Plex Media Server
@@ -2382,6 +2390,7 @@
 
 ## JavaScript 
 
+- [arkits/exige](https://github.com/arkits/exige) - Traffic visualizer for UAM / UTM data
 - [ActionCloud/github-raw-url](https://github.com/ActionCloud/github-raw-url) - Action to convert a normal GitHub url to its corresponding raw url.
 - [doowb/github-content](https://github.com/doowb/github-content) - Easily download files from github raw user content.
 - [jychp/cloudflare-bypass](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare bot protection using Cloudflare Workers
@@ -2604,7 +2613,7 @@
 - [patagonaa/prometheus-mndp-autodiscovery](https://github.com/patagonaa/prometheus-mndp-autodiscovery) - Prometheus autodiscovery for Mikrotik devices
 - [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days,  please just follow your own pace.
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions using D3
@@ -3687,7 +3696,7 @@
 - [evilsocket/bettercap](https://github.com/evilsocket/bettercap) - DEPRECATED, bettercap developement moved here: https://github.com/bettercap/bettercap
 - [oziee/photoprism-places](https://github.com/oziee/photoprism-places) - Reverse Geocoding API
 - [abhineet123/Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) - Collection of papers, datasets, code and other resources for object tracking and detection using deep learning
-- [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Speech synthesis, voice conversion, self-supervised learning, music generation,Automatic Speech Recognition, Speaker Verification, Speech Synthesis, Language Modeling
+- [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc) - Documentation for Crossref's REST API. Issues moved to https://gitlab.com/crossref/issues
 - [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
@@ -4422,6 +4431,7 @@
 
 ## Python 
 
+- [deanishe/alfred-appscripts](https://github.com/deanishe/alfred-appscripts) - Alfred workflow to search and run/open AppleScripts for the active application
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [DanielHuisman/traefik-certificate-extractor](https://github.com/DanielHuisman/traefik-certificate-extractor) - Tool to extract Let's Encrypt certificates from Traefik's ACME storage file. Traefik v2 support:
 - [sdwilsh/aiotruenas-client](https://github.com/sdwilsh/aiotruenas-client) - Any asyncio-friendly API for TrueNAS
@@ -5341,7 +5351,7 @@
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Netbox agent to run on your infrastructure's servers
 - [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
-- [pipxproject/pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [ceph/ceph-iscsi](https://github.com/ceph/ceph-iscsi) - Ceph iSCSI tools
 - [JRBANCEL/Chromagnon](https://github.com/JRBANCEL/Chromagnon) - Chrome/Chromium Forensic Tool : Parses History, Visited Links, Downloaded Files and Cache
@@ -7121,6 +7131,7 @@
 
 ## TypeScript 
 
+- [inercia/vscode-k3d](https://github.com/inercia/vscode-k3d) - Kubernetes k3d extension for Visual Studio Code
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
