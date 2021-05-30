@@ -146,6 +146,8 @@
 
 ## C 
 
+- [sbyx/ohybridproxy](https://github.com/sbyx/ohybridproxy) - mDNS DNS-SD hybrid-proxy
+- [clibs/entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [trailofbits/polytracker](https://github.com/trailofbits/polytracker) - An LLVM-based instrumentation tool for universal taint tracking, dataflow analysis, and tracing.
 - [rofl0r/MacGeiger](https://github.com/rofl0r/MacGeiger) - MacGeiger - a tool to track down the location of WIFI APs with sound (Geigercounter-like)
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -1005,6 +1007,8 @@
 
 ## Go 
 
+- [jpillora/webproc](https://github.com/jpillora/webproc) - Wrap any program in a simple web-based user-interface
+- [nsqio/go-diskqueue](https://github.com/nsqio/go-diskqueue) - A Go package providing a filesystem-backed FIFO queue
 - [beatlabs/harvester](https://github.com/beatlabs/harvester) - Harvest configuration, watch and notify subscriber
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [greenpau/caddy-auth-jwt](https://github.com/greenpau/caddy-auth-jwt) - JWT Authorization Plugin for Caddy v2
@@ -2396,6 +2400,7 @@
 
 ## JavaScript 
 
+- [himynameisdave/git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - :flags: Manage your GitHub labels from the command line!
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [popomore/github-labels](https://github.com/popomore/github-labels) - Add github labels automatically
@@ -2484,6 +2489,7 @@
 - [aloysius-pgast/crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - Your gateway to the world of crypto !
 - [rvelhote/dnspropagation](https://github.com/rvelhote/dnspropagation) - Check the DNS records for a domain and check worldwide propagation of changes that you made.
 - [ianrenton/umid1090](https://github.com/ianrenton/umid1090) - An Unnecessary Military Interface for Dump1090
+- [HumphreysCarter/GLM-Lightning-Monitor](https://github.com/HumphreysCarter/GLM-Lightning-Monitor) - Python scrips for generating a webpage for monitoring lightning flashes using data from the GOES Lightning Mapper (GLM)
 - [mapbox/geobuf](https://github.com/mapbox/geobuf) - A compact binary encoding for geographic data.
 - [BinaryMuse/planetary.js](https://github.com/BinaryMuse/planetary.js) - :earth_americas: Awesome interactive globes for the web
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
@@ -3384,6 +3390,7 @@
 
 ## Jupyter Notebook 
 
+- [dvgodoy/deepreplay](https://github.com/dvgodoy/deepreplay) - Deep Replay - Generate visualizations as in my "Hyper-parameters in Action!" series!
 - [ArsalanSahab/Docker_Data_Science_Stack](https://github.com/ArsalanSahab/Docker_Data_Science_Stack) - A Docker Data Science Workflow Stack
 - [ZheC/Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) - Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)
 - [wesleyraptor/streamingphish](https://github.com/wesleyraptor/streamingphish) - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network.
@@ -3596,6 +3603,7 @@
 
 ## Objective-C 
 
+- [linkedin/cassette](https://github.com/linkedin/cassette) - An efficient, file-based FIFO Queue for iOS and macOS.
 - [macgpg/libmacgpg-free](https://github.com/macgpg/libmacgpg-free) - A drop-in replacement for GPGTools libmacgpg that disables the paywall (free MacGPG)
 - [mr-pennyworth/alfred-extra-pane](https://github.com/mr-pennyworth/alfred-extra-pane) - Rich previews for Alfred script filters
 - [unixpickle/JamWiFi](https://github.com/unixpickle/JamWiFi) - A GUI, easy to use WiFi network jammer for Mac OS X
@@ -4443,6 +4451,9 @@
 
 ## Python 
 
+- [mkuron/mdns-discovery-proxy](https://github.com/mkuron/mdns-discovery-proxy) - A Discovery Proxy for Multicast DNS-Based Service Discovery written in Python
+- [ANTS-Framework/ants](https://github.com/ANTS-Framework/ants) - ANTS is a framework to manage and apply macOS and Linux host configurations using Ansible Pull.
+- [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [deanishe/alfred-appscripts](https://github.com/deanishe/alfred-appscripts) - Alfred workflow to search and run/open AppleScripts for the active application
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [DanielHuisman/traefik-certificate-extractor](https://github.com/DanielHuisman/traefik-certificate-extractor) - Tool to extract Let's Encrypt certificates from Traefik's ACME storage file. Traefik v2 support:
@@ -4576,7 +4587,6 @@
 - [mapbox/mapbox-cli-py](https://github.com/mapbox/mapbox-cli-py) - Command line interface to Mapbox Web Services
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
-- [HumphreysCarter/GLM-Lightning-Monitor](https://github.com/HumphreysCarter/GLM-Lightning-Monitor) - Python scrips for generating a webpage for monitoring lightning flashes using data from the GOES Lightning Mapper (GLM)
 - [mrooney/mintapi](https://github.com/mrooney/mintapi) - a screen-scraping API for Mint.com
 - [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites
 - [huntrar/scrape](https://github.com/huntrar/scrape) - a command-line web scraping tool
@@ -5658,7 +5668,7 @@
 - [Scarygami/location-history-json-converter](https://github.com/Scarygami/location-history-json-converter) - Convert the Location History JSON File from Google Takeout into a useable format
 - [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [mkoskar/dotfiles](https://github.com/mkoskar/dotfiles) - My $HOME files
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
 - [scivision/findssh](https://github.com/scivision/findssh) - Asyncio concurrent Python finds SSH servers (or other services with open ports) on an IPv4 subnet, WITHOUT NMAP
@@ -6079,6 +6089,7 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -7190,7 +7201,6 @@
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
