@@ -575,6 +575,9 @@
 
 ## C++ 
 
+- [DNS-OARC/flamethrower](https://github.com/DNS-OARC/flamethrower) - a DNS performance and functional testing utility supporting UDP, TCP, DoT and DoH (by @NS1)
+- [DNS-OARC/dnsmeter](https://github.com/DNS-OARC/dnsmeter) - Tool for testing performance of nameservers
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
 - [AngeloD2022/OnHubDesktop](https://github.com/AngeloD2022/OnHubDesktop) - A desktop client for Google OnHub routers. Written in C++ with the Qt framework
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
@@ -858,6 +861,7 @@
 
 ## Dockerfile 
 
+- [yantarou/dns-perftest](https://github.com/yantarou/dns-perftest) - 
 - [d4rkstar/kong-konga-keycloak](https://github.com/d4rkstar/kong-konga-keycloak) - short tutorial to install kong, keycloak and konga in docker and test API authentication
 - [ruimarinho/docker-bitcoin-core](https://github.com/ruimarinho/docker-bitcoin-core) - A bitcoin-core docker image
 - [oznu/docker-guacamole](https://github.com/oznu/docker-guacamole) - A self-contained guacamole docker container for x64 and ARM. Remotely connect over SSH, RDP or VNC using HTML5.
@@ -1013,6 +1017,8 @@
 
 ## Go 
 
+- [JackBister/logsuck](https://github.com/JackBister/logsuck) - Easy log aggregation, indexing and searching
+- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [brave/go-sync](https://github.com/brave/go-sync) - Brave sync server v2
 - [keratin/authn-server](https://github.com/keratin/authn-server) - Authentication service that keeps you in control without forcing you to be an expert in web security.
 - [schollz/find-lf](https://github.com/schollz/find-lf) - Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND
@@ -1879,7 +1885,7 @@
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [Debian/ratt](https://github.com/Debian/ratt) - Rebuild All The Things!
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [krylovsk/mqtt-benchmark](https://github.com/krylovsk/mqtt-benchmark) - Simple MQTT (broker) benchmarking tool
+- [krylovsk/mqtt-benchmark](https://github.com/krylovsk/mqtt-benchmark) - MQTT broker benchmarking tool
 - [inovex/mqtt-stresser](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker
 - [zentures/surgemq](https://github.com/zentures/surgemq) - (Unmaintained) High-Performance MQTT Server and Client Libraries
 - [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
@@ -2139,7 +2145,7 @@
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
 - [datadesk/california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas) - Simple maps of California's 58 counties
-- [FlyOrBoom/mercator](https://github.com/FlyOrBoom/mercator) - Scripts that alters the camera feed for Google Meet.
+- [FlyOrBoom/mercator](https://github.com/FlyOrBoom/mercator) - Mercator Studio is a script that applies basic camera effects for Google Meet.
 - [datar/low-latency-system](https://github.com/datar/low-latency-system) - Everything about low latency system.
 - [maxvoltar/photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [DiegoRBaquero/PeerFast](https://github.com/DiegoRBaquero/PeerFast) - ⚡️ P2P Fast.com Clone
@@ -2414,6 +2420,7 @@
 
 ## JavaScript 
 
+- [Shmakov/Honeypot](https://github.com/Shmakov/Honeypot) - Low interaction honeypot that displays real time attacks
 - [f9mac/puppeteer-extra-plugin-proxy](https://github.com/f9mac/puppeteer-extra-plugin-proxy) - A plugin for puppeteer-extra to add proxy support
 - [samc621/SneakerBot](https://github.com/samc621/SneakerBot) - All-in-one bot, with auto captcha-solving and proxy management, using Node.js and Puppeteer.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -4259,6 +4266,7 @@
 
 ## PHP 
 
+- [Rizer0/Log-killer](https://github.com/Rizer0/Log-killer) - Clear all your logs in [linux/windows] servers 🛡️
 - [RealEnder/dwpa](https://github.com/RealEnder/dwpa) - Distributed WPA PSK auditor
 - [rlerdorf/opcache-status](https://github.com/rlerdorf/opcache-status) - A one-page opcache status page
 - [mhujer/yaml-sort-checker](https://github.com/mhujer/yaml-sort-checker) - Tool for checking if the YAML config files are alphabetically sorted
@@ -4471,6 +4479,9 @@
 
 ## Python 
 
+- [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud drive
+- [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
+- [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [chrippa/livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
 - [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
