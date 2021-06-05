@@ -586,6 +586,7 @@
 
 ## C++ 
 
+- [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor summarizes network data streams in real time, enabling on-node and centralized data visibility and analysis
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
@@ -1032,6 +1033,10 @@
 
 ## Go 
 
+- [grafana/agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
+- [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
+- [doublemarket/grafana-rrd-server](https://github.com/doublemarket/grafana-rrd-server) - A HTTP server that helps Grafana read RRD files via Grafana Simple JSON Datasource plugin
+- [grafana/memo](https://github.com/grafana/memo) - easily save grafana annotations from slack mentions and the cli
 - [megaease/easegress](https://github.com/megaease/easegress) - An all-rounder traffic orchestration system
 - [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -2440,6 +2445,7 @@
 
 ## JavaScript 
 
+- [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [unep-grid/map-x-mgl](https://github.com/unep-grid/map-x-mgl) - MapX
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
@@ -3613,7 +3619,7 @@
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [edmBernard/DockerFiles](https://github.com/edmBernard/DockerFiles) - Some useful dockerfiles for DeepLearning and Computer Vision
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
-- [eworm-de/routeros-scripts](https://github.com/eworm-de/routeros-scripts) - a collection of scripts for Mikrotik RouterOS
+- [eworm-de/routeros-scripts](https://github.com/eworm-de/routeros-scripts) - a collection of scripts for MikroTik RouterOS
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [ccrisan/motioneyeos](https://github.com/ccrisan/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [CyanogenMod/android_build](https://github.com/CyanogenMod/android_build) - Android Build System (cyanogenmod)
@@ -4435,6 +4441,7 @@
 
 ## Perl 
 
+- [proxmox/pve-container](https://github.com/proxmox/pve-container) - 
 - [marchyman/GeoTag](https://github.com/marchyman/GeoTag) - Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==&gt;
 - [stuartcryan/advanced-google-maps-alfred-workflow](https://github.com/stuartcryan/advanced-google-maps-alfred-workflow) - Advanced Google Maps and Apple Maps Workflow for Alfred
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
@@ -4507,6 +4514,8 @@
 
 ## Python 
 
+- [KostyaEsmukov/afancontrol](https://github.com/KostyaEsmukov/afancontrol) - Advanced Fan Control program, which controls PWM fans according to the current temperatures of the system components.
+- [gravadigital/tzsp-reader](https://github.com/gravadigital/tzsp-reader) - Traffic monitor for mikrotik in python
 - [robbyHuelsi/macOSVoiceMemosExporter](https://github.com/robbyHuelsi/macOSVoiceMemosExporter) - Export audio files from macOS Voice Memos App with right filename and date created
 - [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices
 - [rjsears/chia_plot_manager](https://github.com/rjsears/chia_plot_manager) - Python scripts to manage Chia plots and drive space, providing full reports. Also monitors the number of chia coins you have. Auto Drive helps to automate the addition of new hard drives to your system and to the chia config.
@@ -6337,7 +6346,7 @@
 
 ## Shell 
 
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last git command. Your damage control git buddy. Powered by FZF
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last (most recent) git command. Your damage control git buddy. Powered by FZF
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
@@ -7246,6 +7255,9 @@
 
 ## TypeScript 
 
+- [hastic/hastic-grafana-app](https://github.com/hastic/hastic-grafana-app) - Hastic data management server for labeling patterns and anomalies in Grafana
+- [hastic/hastic-server](https://github.com/hastic/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
+- [jdbranham/grafana-diagram](https://github.com/jdbranham/grafana-diagram) - A Grafana plugin to visualize metrics in a diagram using flow charts, gantt charts, sequence diagrams, or class diagrams
 - [royto/logbook-card](https://github.com/royto/logbook-card) - Logbook card for Home Assistant UI Lovelace
 - [AitorDB/home-assistant-sun-card](https://github.com/AitorDB/home-assistant-sun-card) - Home assistant sun card based on Google weather design
 - [slorber/awesome-debounce-promise](https://github.com/slorber/awesome-debounce-promise) - Debounce your API calls easily and stay in promised land.
@@ -7343,7 +7355,7 @@
 - [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [FiretableProject/firetable](https://github.com/FiretableProject/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
