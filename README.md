@@ -72,6 +72,7 @@
   - [Processing](#processing)
   - [PureBasic](#purebasic)
   - [Python](#python)
+  - [QML](#qml)
   - [R](#r)
   - [RAML](#raml)
   - [Rascal](#rascal)
@@ -153,6 +154,7 @@
 
 ## C 
 
+- [jhunkeler/cleanpath](https://github.com/jhunkeler/cleanpath) - Path filtering library/utility
 - [sheepdog/sheepdog](https://github.com/sheepdog/sheepdog) - Distributed Storage System for QEMU
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Vulnerability Management (GVM). If you are looking for the whole OpenVAS framework please take a look at https://community.greenbone.net/t/frequently-asked-questions-faq/5558.
@@ -261,6 +263,7 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [k-five/rinp](https://github.com/k-five/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining-Pool Engine that runs on Linux and Windows and supports a variety of crypto-currencies.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -500,6 +503,10 @@
 
 ## C# # 
 
+- [ssg/PathCleaner](https://github.com/ssg/PathCleaner) - Cleanup tool for polluted PATH environment variable
+- [FoundatioFx/Foundatio.Samples](https://github.com/FoundatioFx/Foundatio.Samples) - Foundatio Samples
+- [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
+- [awaescher/RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 - [mspnp/performance-optimization](https://github.com/mspnp/performance-optimization) - Guidance on how to observe, measure, and correct common issues in a cloud-based system.
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
@@ -1036,6 +1043,7 @@
 
 ## Go 
 
+- [johnweldon/cleanpath](https://github.com/johnweldon/cleanpath) - Go tool to cleanup PATH-like strings.
 - [RTradeLtd/s3x](https://github.com/RTradeLtd/s3x) - s3x is a minio gateway providing an S3 API powered by TemporalX that uses IPFS as the data storage layer. It lets you turn any S3 application into an IPFS application with no change in application design
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
 - [minio/direct-csi](https://github.com/minio/direct-csi) - Container Storage Interface (CSI) driver for direct attached storage
@@ -2170,6 +2178,7 @@
 
 ## HTML 
 
+- [ssg/yubitell](https://github.com/ssg/yubitell) - Silently extract a YubiKey serial number
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [NikolaiT/GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
 - [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
@@ -2457,6 +2466,8 @@
 
 ## JavaScript 
 
+- [ehmicky/human-signals](https://github.com/ehmicky/human-signals) - Human-friendly process signals
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [sindresorhus/delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
 - [sindresorhus/delay-cli](https://github.com/sindresorhus/delay-cli) - Delay execution for a given amount of seconds
 - [sindresorhus/wait-for-localhost](https://github.com/sindresorhus/wait-for-localhost) - Wait for localhost to be ready
@@ -3747,6 +3758,7 @@
 
 ## Others 
 
+- [viasite-ansible/ansible-server](https://github.com/viasite-ansible/ansible-server) - Collection of Ansible playbooks for manage shared hosting servers
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [rigtorp/awesome-lockfree](https://github.com/rigtorp/awesome-lockfree) - A collection of resources on wait-free and lock-free programming
@@ -4319,6 +4331,7 @@
 
 ## PHP 
 
+- [server-status-project/server-status](https://github.com/server-status-project/server-status) - Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting
 - [Rizer0/Log-killer](https://github.com/Rizer0/Log-killer) - Clear all your logs in [linux/windows] servers 🛡️
 - [RealEnder/dwpa](https://github.com/RealEnder/dwpa) - Distributed WPA PSK auditor
 - [rlerdorf/opcache-status](https://github.com/rlerdorf/opcache-status) - A one-page opcache status page
@@ -4345,7 +4358,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Please be aware that the Issue tracker on Github is a Bug Tracker, not a Support Forum!
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Sharing powered by Chevereto
+- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Sharing powered by Chevereto (图床)
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -4533,6 +4546,15 @@
 
 ## Python 
 
+- [elmotec/uniquepath](https://github.com/elmotec/uniquepath) - Simple tool to clean up the PATH (or other) environment variables.
+- [balena-io-examples/coral-getting-started](https://github.com/balena-io-examples/coral-getting-started) - A getting started example project for Coral.ai on balenaCloud
+- [simonw/datasette-clone](https://github.com/simonw/datasette-clone) - Create a local copy of database files from a Datasette instance
+- [simonw/sqlite-diffable](https://github.com/simonw/sqlite-diffable) - Tools for dumping/loading a SQLite database to diffable directory structure
+- [simonw/geojson-to-sqlite](https://github.com/simonw/geojson-to-sqlite) - CLI tool for converting GeoJSON files to SQLite (with SpatiaLite)
+- [simonw/yaml-to-sqlite](https://github.com/simonw/yaml-to-sqlite) - Utility for converting YAML files to SQLite
+- [dogsheep/google-takeout-to-sqlite](https://github.com/dogsheep/google-takeout-to-sqlite) - Save data from Google Takeout to a SQLite database
+- [simonw/csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files
+- [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [rhasselbaum/duplicity-unattended](https://github.com/rhasselbaum/duplicity-unattended) - Lightweight scripts for automating Duplicity backups
 - [scottwernervt/cloudstorage](https://github.com/scottwernervt/cloudstorage) - Unified cloud storage API for storage services.
 - [waltzofpearls/healthstats-collector](https://github.com/waltzofpearls/healthstats-collector) - Health data scraper that turns the data into prometheus metrics and grafana annotations.
@@ -4713,7 +4735,7 @@
 - [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
 - [datagod/gpsprobe](https://github.com/datagod/gpsprobe) - GPSProbe allows you to record GPS, MAC address, signal strength etc. of wifi enabled devices nearby.
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
-- [mtlynch/tinypilot](https://github.com/mtlynch/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
+- [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [danielo515/photoprism_face_recognition](https://github.com/danielo515/photoprism_face_recognition) - 
 - [zhulik/hass-photoprism](https://github.com/zhulik/hass-photoprism) - Home assistant integration for photoprism
 - [vignif/crawler-google-scholar](https://github.com/vignif/crawler-google-scholar) - This bot crawls and downloads statistics and pictures from google scholar's researchers.
@@ -4976,7 +4998,6 @@
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [google/upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
 - [djmaze/apprise-microservice](https://github.com/djmaze/apprise-microservice) - A small JSON API server for delivering notifications using Apprise
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -5967,6 +5988,10 @@
 - [phelixbtc/ncsc](https://github.com/phelixbtc/ncsc) - Namecoin Stock Control
 - [quick2wire/quick2wire-python-api](https://github.com/quick2wire/quick2wire-python-api) - Python API for controlling GPIO and I2C devices connected to the Raspberry Pi
 
+## QML 
+
+- [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
+
 ## R 
 
 - [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
@@ -6173,6 +6198,8 @@
 
 ## Rust 
 
+- [casey/lexiclean](https://github.com/casey/lexiclean) - Rust library to lexically clean paths
+- [danreeves/path-clean](https://github.com/danreeves/path-clean) - A Rust implementation of `cleanname` or `path.Clean`
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
 - [mre/fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
@@ -6369,6 +6396,10 @@
 
 ## Shell 
 
+- [ulygit/asus_rt_ac68u](https://github.com/ulygit/asus_rt_ac68u) - Configuration and script for Cloudflare DDNS on Asuswrt-Merlin
+- [kmoore134/iocage-plugin-chia](https://github.com/kmoore134/iocage-plugin-chia) - Artifact file(s) for Jenkins iocage plugin
+- [MalteHillmann/iocage-plugin-grafana](https://github.com/MalteHillmann/iocage-plugin-grafana) - 
+- [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Google Drive and rclone
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
@@ -7166,6 +7197,8 @@
 
 ## Swift 
 
+- [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
+- [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter) - Dynamically changes status bar style depending on content behind it
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It) - A macOS GUI for youtube-dl
 - [mr-pennyworth/url-screenshotter](https://github.com/mr-pennyworth/url-screenshotter) - Command-line app for macOS to take screenshots of webpages.
@@ -7283,6 +7316,8 @@
 
 ## TypeScript 
 
+- [balena-io-modules/docker-qemu-transpose](https://github.com/balena-io-modules/docker-qemu-transpose) - Alter a Dockerfile to allow emulated builds without binfmt
+- [instatushq/out](https://github.com/instatushq/out) - Monitor services in your menu bar
 - [rzrbld/adminio-ui](https://github.com/rzrbld/adminio-ui) - a simple admin ui for min.io (minio) s3 server
 - [minio/console](https://github.com/minio/console) - Management UI for MinIO and MinIO operator
 - [hastic/hastic-grafana-app](https://github.com/hastic/hastic-grafana-app) - Hastic data management server for labeling patterns and anomalies in Grafana
