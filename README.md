@@ -154,6 +154,9 @@
 
 ## C 
 
+- [dernasherbrezon/sdr-server](https://github.com/dernasherbrezon/sdr-server) - High performant TCP server for rtl-sdr
+- [DNS-OARC/tinyframe](https://github.com/DNS-OARC/tinyframe) - Minimalistic Frame Streams library
+- [DNS-OARC/dnswire](https://github.com/DNS-OARC/dnswire) - library for DNS encapsulations
 - [jhunkeler/cleanpath](https://github.com/jhunkeler/cleanpath) - Path filtering library/utility
 - [sheepdog/sheepdog](https://github.com/sheepdog/sheepdog) - Distributed Storage System for QEMU
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
@@ -503,6 +506,8 @@
 
 ## C# # 
 
+- [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
+- [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [ssg/PathCleaner](https://github.com/ssg/PathCleaner) - Cleanup tool for polluted PATH environment variable
 - [FoundatioFx/Foundatio.Samples](https://github.com/FoundatioFx/Foundatio.Samples) - Foundatio Samples
 - [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
@@ -594,6 +599,9 @@
 
 ## C++ 
 
+- [AD-Vega/rtl-power-fftw](https://github.com/AD-Vega/rtl-power-fftw) - Power spectrum for RTLSDR dongles.
+- [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
+- [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor summarizes network data streams in real time, enabling on-node and centralized data visibility and analysis
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
@@ -802,6 +810,7 @@
 
 ## CSS 
 
+- [balenalabs-incubator/coral-audio-analysis](https://github.com/balenalabs-incubator/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [Koala633/hostbase](https://github.com/Koala633/hostbase) - A Ruby GUI based on advanced rogue AP attack
 - [SOM-Research/gila](https://github.com/SOM-Research/gila) - Label analysis of GitHub projects
 - [mr-pennyworth/alfred-better-dictionaries](https://github.com/mr-pennyworth/alfred-better-dictionaries) - 
@@ -884,6 +893,7 @@
 
 ## Dockerfile 
 
+- [retzkek/chiamon](https://github.com/retzkek/chiamon) - Example Chia monitoring stack
 - [opsxcq/docker-dnsmasq](https://github.com/opsxcq/docker-dnsmasq) - 
 - [jpillora/docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq) - dnsmasq in a docker container, configurable via a simple web UI
 - [goatatwork/ntopng-nprobe-docker](https://github.com/goatatwork/ntopng-nprobe-docker) - 
@@ -1043,6 +1053,25 @@
 
 ## Go 
 
+- [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
+- [monitoring-mixins/mixtool](https://github.com/monitoring-mixins/mixtool) - mixtool is a helper for easily working with jsonnet mixins.
+- [bwplotka/mimic](https://github.com/bwplotka/mimic) - mimic: Define your Deployments, Infrastructure and Configuration as a Go Code 🚀
+- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
+- [adejoux/grafanaclient](https://github.com/adejoux/grafanaclient) - simple API to manage Grafana 2.0 DataSources and Dashboards in Go
+- [grafana/metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
+- [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
+- [netsage-project/grafana-dashboard-manager](https://github.com/netsage-project/grafana-dashboard-manager) - Grafana Dashboard Manager
+- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+- [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+- [mrparkers/terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider for Keycloak
+- [louketo/louketo-proxy](https://github.com/louketo/louketo-proxy) - A OpenID / Proxy service
+- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
+- [libopenstorage/openstorage](https://github.com/libopenstorage/openstorage) - A multi-host clustered implementation of the open storage specification
+- [dnstap/golang-dnstap](https://github.com/dnstap/golang-dnstap) - flexible, structured event replication format for DNS servers (command-line tool and Golang package)
+- [ekanite/ekanite](https://github.com/ekanite/ekanite) - The Syslog server with built-in search
+- [negbie/fancy](https://github.com/negbie/fancy) - fancy let's you fanout rsyslog to Loki
+- [ArturoGuerra/truenas-csi](https://github.com/ArturoGuerra/truenas-csi) - TrueNAS CSI Driver for K8s, Docker, etc
+- [rexray/gocsi](https://github.com/rexray/gocsi) - A Container Storage Interface (CSI) library, client, and other helpful utilities created with Go.
 - [johnweldon/cleanpath](https://github.com/johnweldon/cleanpath) - Go tool to cleanup PATH-like strings.
 - [RTradeLtd/s3x](https://github.com/RTradeLtd/s3x) - s3x is a minio gateway providing an S3 API powered by TemporalX that uses IPFS as the data storage layer. It lets you turn any S3 application into an IPFS application with no change in application design
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes.
@@ -2175,6 +2204,7 @@
 - [BretFisher/dogvscat](https://github.com/BretFisher/dogvscat) - Sample Docker Swarm cluster stack of tools
 - [in0rdr/tf-ansible-workflow](https://github.com/in0rdr/tf-ansible-workflow) - Terraform/Ansible Workflow for Proxmox VE (PVE) and Libvirt
 - [terraform-google-modules/terraform-google-gsuite-export](https://github.com/terraform-google-modules/terraform-google-gsuite-export) - The module will create a compute engine VM instance and set up a cronjob to export GSuite Admin SDK data to Stackdriver Logging on a schedule.
+- [mockingbirdconsulting/HashicorpAtHome](https://github.com/mockingbirdconsulting/HashicorpAtHome) - 
 
 ## HTML 
 
@@ -2322,6 +2352,9 @@
 
 ## Java 
 
+- [mulesoft-labs/keycloak-duo-spi](https://github.com/mulesoft-labs/keycloak-duo-spi) - Keycloak integration for Duo Security MFA
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
@@ -2466,6 +2499,7 @@
 
 ## JavaScript 
 
+- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
 - [ehmicky/human-signals](https://github.com/ehmicky/human-signals) - Human-friendly process signals
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [sindresorhus/delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
@@ -2781,7 +2815,6 @@
 - [greghesp/assistant-relay](https://github.com/greghesp/assistant-relay) - A Node.js server that allows for sending commands to Google Home/Assistant from endpoints
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [zwave-js/zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt) - Zwave to Mqtt gateway and Control Panel Web UI. Built using Nodejs, and Vue/Vuetify
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [sindresorhus/slugify-cli](https://github.com/sindresorhus/slugify-cli) - Slugify a string
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
@@ -2873,7 +2906,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - Signal Protocol library for JavaScript
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -3461,6 +3494,7 @@
 
 ## Jsonnet 
 
+- [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -3474,6 +3508,9 @@
 
 ## Jupyter Notebook 
 
+- [eswar3/Zillow-prediction-models](https://github.com/eswar3/Zillow-prediction-models) - Machine Learning Project using Kaggle dataset
+- [adeshpande3/Kaggle-Zillow](https://github.com/adeshpande3/Kaggle-Zillow) - Repo for the $1.2 million Kaggle competition
+- [Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic) - 1st place solution
 - [AlgoTraders/stock-analysis-engine](https://github.com/AlgoTraders/stock-analysis-engine) - Backtest 1000s of minute-by-minute trading algorithms for training AI with automated pricing data from: IEX, Tradier and FinViz. Datasets and trading performance automatically published to S3 for building AI training datasets for teaching DNNs how to trade. Runs on Kubernetes and docker-compose. &gt;150 million trading history rows generated from +5000 algorithms. Heads up: Yahoo's Finance API was disabled on 2019-01-03 https://developer.yahoo.com/yql/
 - [dvgodoy/deepreplay](https://github.com/dvgodoy/deepreplay) - Deep Replay - Generate visualizations as in my "Hyper-parameters in Action!" series!
 - [ArsalanSahab/Docker_Data_Science_Stack](https://github.com/ArsalanSahab/Docker_Data_Science_Stack) - A Docker Data Science Workflow Stack
@@ -3572,6 +3609,7 @@
 
 ## Kotlin 
 
+- [ingbyr/VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
 - [serebit/wraith-master](https://github.com/serebit/wraith-master) - A native Linux RGB control application for the AMD Wraith Prism (GitLab Mirror)
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android inspired by Gpredict
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
@@ -3623,6 +3661,7 @@
 
 ## Makefile 
 
+- [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [proxmox/dab-pve-appliances](https://github.com/proxmox/dab-pve-appliances) - DAB examples
 - [cloudposse/build-harness](https://github.com/cloudposse/build-harness) - 🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more
 - [thenickdude/KVM-Opencore](https://github.com/thenickdude/KVM-Opencore) - OpenCore disk image for Proxmox/QEMU
@@ -3758,6 +3797,13 @@
 
 ## Others 
 
+- [WaterByWind/grafana-dashboards](https://github.com/WaterByWind/grafana-dashboards) - Grafana Dashboards
+- [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
+- [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
+- [ladvoc/recognize-text-service](https://github.com/ladvoc/recognize-text-service) - A macOS service for processing PDF files with OCRmyPDF.
+- [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
+- [IgrikXD/rpitx-coax-pcb](https://github.com/IgrikXD/rpitx-coax-pcb) - Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment when working with the rpitx package.
+- [mojiro/mikrops](https://github.com/mojiro/mikrops) - A management UI for MikroTik Routers based onto Django
 - [viasite-ansible/ansible-server](https://github.com/viasite-ansible/ansible-server) - Collection of Ansible playbooks for manage shared hosting servers
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
@@ -4182,7 +4228,6 @@
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
-- [mockingbirdconsulting/HashicorpAtHome](https://github.com/mockingbirdconsulting/HashicorpAtHome) - 
 - [virajkulkarni14/Awesome-Cucumber](https://github.com/virajkulkarni14/Awesome-Cucumber) - A collection of awesome Cucumber and Gherkin-related resources
 - [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine Code Editor (JavaScript)
 - [Fernerkundung/awesome-sentinel](https://github.com/Fernerkundung/awesome-sentinel) - curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data
@@ -4331,6 +4376,8 @@
 
 ## PHP 
 
+- [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
+- [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 - [server-status-project/server-status](https://github.com/server-status-project/server-status) - Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting
 - [Rizer0/Log-killer](https://github.com/Rizer0/Log-killer) - Clear all your logs in [linux/windows] servers 🛡️
 - [RealEnder/dwpa](https://github.com/RealEnder/dwpa) - Distributed WPA PSK auditor
@@ -4546,6 +4593,14 @@
 
 ## Python 
 
+- [m110/grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
+- [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
+- [jcontini/gphotos-export](https://github.com/jcontini/gphotos-export) - Export Google Photos from Takeout
+- [sec-edgar/sec-edgar](https://github.com/sec-edgar/sec-edgar) - Download all companies  periodic reports, filings and forms from EDGAR database.
+- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
+- [mikepqr/real-estate-scrape](https://github.com/mikepqr/real-estate-scrape) - Get the estimated value of an address from Redfin and Zillow every night and store the result
+- [SharpBit/zillow-deal-finder](https://github.com/SharpBit/zillow-deal-finder) - A program used to find low-priced homes relative to the Zestimate
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [elmotec/uniquepath](https://github.com/elmotec/uniquepath) - Simple tool to clean up the PATH (or other) environment variables.
 - [balena-io-examples/coral-getting-started](https://github.com/balena-io-examples/coral-getting-started) - A getting started example project for Coral.ai on balenaCloud
 - [simonw/datasette-clone](https://github.com/simonw/datasette-clone) - Create a local copy of database files from a Datasette instance
@@ -5814,7 +5869,6 @@
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [thecodingmachine/yaml-tools](https://github.com/thecodingmachine/yaml-tools) - A set of CLI tools to manipulate YAML files (merge, edit, etc...)
 - [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [zach-snell/slack-export](https://github.com/zach-snell/slack-export) - A python slack exporter
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
@@ -6396,6 +6450,8 @@
 
 ## Shell 
 
+- [balenalabs-incubator/scratch](https://github.com/balenalabs-incubator/scratch) - Create your own Scratch server using a Raspberry Pi 4 (2GB+) and balena.
+- [angela-d/brain-dump](https://github.com/angela-d/brain-dump) - Cheat sheets, customizations and configurations I use across multiple systems.
 - [ulygit/asus_rt_ac68u](https://github.com/ulygit/asus_rt_ac68u) - Configuration and script for Cloudflare DDNS on Asuswrt-Merlin
 - [kmoore134/iocage-plugin-chia](https://github.com/kmoore134/iocage-plugin-chia) - Artifact file(s) for Jenkins iocage plugin
 - [MalteHillmann/iocage-plugin-grafana](https://github.com/MalteHillmann/iocage-plugin-grafana) - 
@@ -7083,6 +7139,7 @@
 - [naueramant/Audiblex](https://github.com/naueramant/Audiblex) - Audible audio book converter which actually works!
 - [ix-plugin-hub/iocage-plugin-index](https://github.com/ix-plugin-hub/iocage-plugin-index) - Community created JSON files for plugins.
 - [ouspg/cloudfuzzer](https://github.com/ouspg/cloudfuzzer) - 
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
 - [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [bashup/gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs
@@ -7316,6 +7373,10 @@
 
 ## TypeScript 
 
+- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
+- [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
+- [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
+- [open-rpa/openflow](https://github.com/open-rpa/openflow) - Scalable, secure workflow solution
 - [balena-io-modules/docker-qemu-transpose](https://github.com/balena-io-modules/docker-qemu-transpose) - Alter a Dockerfile to allow emulated builds without binfmt
 - [instatushq/out](https://github.com/instatushq/out) - Monitor services in your menu bar
 - [rzrbld/adminio-ui](https://github.com/rzrbld/adminio-ui) - a simple admin ui for min.io (minio) s3 server
@@ -7449,6 +7510,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [bespoken/bst](https://github.com/bespoken/bst) - :wrench: Bespoken Tools - Tools for making voice apps faster and better
 - [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The Open Source Voice Layer: Build Voice Experiences for Alexa, Google Assistant, Samsung Bixby, Web Apps, and much more
+- [zwave-js/zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt) - Zwave to Mqtt gateway and Control Panel Web UI. Built using Nodejs, and Vue/Vuetify
 - [dvelasquez/lighthouse-plugin-crux](https://github.com/dvelasquez/lighthouse-plugin-crux) - A Lighthouse plugin that gathers field data from the Chrome User eXperience Report
 - [kesne/HostyHosting](https://github.com/kesne/HostyHosting) - A platform to easily manage and deploy your applications.
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
