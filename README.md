@@ -154,6 +154,8 @@
 
 ## C 
 
+- [old-dab/rtlsdr](https://github.com/old-dab/rtlsdr) - Software to turn the RTL2832U into a SDR
+- [madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter) - 
 - [dernasherbrezon/sdr-server](https://github.com/dernasherbrezon/sdr-server) - High performant TCP server for rtl-sdr
 - [DNS-OARC/tinyframe](https://github.com/DNS-OARC/tinyframe) - Minimalistic Frame Streams library
 - [DNS-OARC/dnswire](https://github.com/DNS-OARC/dnswire) - library for DNS encapsulations
@@ -506,6 +508,8 @@
 
 ## C# # 
 
+- [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
+- [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [ssg/PathCleaner](https://github.com/ssg/PathCleaner) - Cleanup tool for polluted PATH environment variable
@@ -599,10 +603,12 @@
 
 ## C++ 
 
+- [softsyst/RSP2_tcp](https://github.com/softsyst/RSP2_tcp) - TCP/IP Server for I/Q data from sdrplay RSP devices (RSP1, RSP1A, RSP2, RSPduo (single tuner))
+- [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
 - [AD-Vega/rtl-power-fftw](https://github.com/AD-Vega/rtl-power-fftw) - Power spectrum for RTLSDR dongles.
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
-- [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor summarizes network data streams in real time, enabling on-node and centralized data visibility and analysis
+- [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor is an observability agent that summarizes network data streams in real time, enabling on-node and centralized data visibility and analysis
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
@@ -1053,6 +1059,22 @@
 
 ## Go 
 
+- [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
+- [capnproto/go-capnproto2](https://github.com/capnproto/go-capnproto2) - Cap'n Proto library and code generator for Go
+- [mijia/modelq](https://github.com/mijia/modelq) - ModelQ is a code generator for creating Golang codes/models to access RDBMS database/tables
+- [sirkon/ldetool](https://github.com/sirkon/ldetool) - Code generator for fast log file parsers
+- [tinylib/msgp](https://github.com/tinylib/msgp) - A Go code generator for MessagePack / msgpack.org[Go]
+- [grofers/go-codon](https://github.com/grofers/go-codon) - Workflow based REST framework code generator
+- [go-easygen/easygen](https://github.com/go-easygen/easygen) - Easy to use universal code/text generator
+- [djyde/snp](https://github.com/djyde/snp) - VS Code code snippet generator
+- [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
+- [bernmic/ocrmypdf-watchdog](https://github.com/bernmic/ocrmypdf-watchdog) - A watchdog for OCRMyPDF written in go
+- [nekr0z/gphotosync](https://github.com/nekr0z/gphotosync) - an app to download pictures and videos stored in your Google Photos
+- [danesparza/influx-annotate](https://github.com/danesparza/influx-annotate) - Command line tool to add annotations to an InfluxDB database
+- [acornies/faas-grafana-annotate](https://github.com/acornies/faas-grafana-annotate) - An OpenFaaS function to create annotations in Grafana (&gt;= v4.6).
+- [quackduck/tii](https://github.com/quackduck/tii) - Command not found? Install it right there!
+- [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [deanishe/alfred-services](https://github.com/deanishe/alfred-services) - Run macOS services from Alfred
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [monitoring-mixins/mixtool](https://github.com/monitoring-mixins/mixtool) - mixtool is a helper for easily working with jsonnet mixins.
 - [bwplotka/mimic](https://github.com/bwplotka/mimic) - mimic: Define your Deployments, Infrastructure and Configuration as a Go Code 🚀
@@ -2208,6 +2230,7 @@
 
 ## HTML 
 
+- [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
 - [ssg/yubitell](https://github.com/ssg/yubitell) - Silently extract a YubiKey serial number
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [NikolaiT/GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
@@ -2499,6 +2522,18 @@
 
 ## JavaScript 
 
+- [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
+- [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
+- [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman
+- [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
+- [sseemayer/OCRmyPDF-web](https://github.com/sseemayer/OCRmyPDF-web) - A tiny frontend for OCRing PDF files via the web.
+- [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
+- [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - An open-source no-code platform for building and deploying internal tools.
+- [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
+- [custom-cards/bignumber-card](https://github.com/custom-cards/bignumber-card) - 
+- [custom-cards/circle-sensor-card](https://github.com/custom-cards/circle-sensor-card) - A custom component for displaying sensor values as cards or elements
+- [custom-cards/secondaryinfo-entity-row](https://github.com/custom-cards/secondaryinfo-entity-row) - Custom entity row for HomeAssistant, providing additional types of data to be displayed in the secondary info area of the Lovelace Entities card
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
 - [ehmicky/human-signals](https://github.com/ehmicky/human-signals) - Human-friendly process signals
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
@@ -3471,6 +3506,7 @@
 
 ## Jinja 
 
+- [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible.
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
@@ -3651,6 +3687,7 @@
 
 ## M4 
 
+- [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
 - [Telmate/terraform-ubuntu-proxmox-iso](https://github.com/Telmate/terraform-ubuntu-proxmox-iso) - ISO builder for ubuntu running on proxmox to be provisioned by terraform
 - [1ccs-todd/freenas-media-setup](https://github.com/1ccs-todd/freenas-media-setup) - Customizable install script for FreeNAS media jails
 
@@ -3797,6 +3834,11 @@
 
 ## Others 
 
+- [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
+- [romsper/qa-automation-base](https://github.com/romsper/qa-automation-base) - Base projects for your automation frameworks.
+- [truenas/ports](https://github.com/truenas/ports) - FreeBSD ports tree
 - [WaterByWind/grafana-dashboards](https://github.com/WaterByWind/grafana-dashboards) - Grafana Dashboards
 - [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
 - [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
@@ -4593,6 +4635,23 @@
 
 ## Python 
 
+- [simonw/sqlite-transform](https://github.com/simonw/sqlite-transform) - Tool for running transformations on columns in a SQLite database
+- [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
+- [alexanderlanganke/ocrmypdfgui](https://github.com/alexanderlanganke/ocrmypdfgui) - 
+- [GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
+- [cuemacro/findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [thomasleplus/gphotos-archive](https://github.com/thomasleplus/gphotos-archive) - Archiving tool for Google Photos
+- [etoews/google-photos-sync-check](https://github.com/etoews/google-photos-sync-check) - Check if your local photos are properly sync'd with your Google Photos
+- [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
+- [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
+- [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
+- [CyborgSecurity/PoisonApple](https://github.com/CyborgSecurity/PoisonApple) - macOS persistence tool
+- [sdushantha/wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
+- [Chandler-Lu/alfred-ocr](https://github.com/Chandler-Lu/alfred-ocr) - OCR & Translate using multiple interfaces for Alfred Workflow
+- [dflock/kitty-save-session](https://github.com/dflock/kitty-save-session) - Allows you to save & restore kitty sessions, with all kitty OS windows, kitty tabs & kitty windows restored.
+- [thegeeklab/ansible-later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner for Ansible roles and playbooks
+- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [m110/grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [jcontini/gphotos-export](https://github.com/jcontini/gphotos-export) - Export Google Photos from Takeout
@@ -6108,6 +6167,7 @@
 
 ## Ruby 
 
+- [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
 - [openware/barong](https://github.com/openware/barong) - Barong auth server
 - [openware/peatio](https://github.com/openware/peatio) - Open-source crypto currency exchange software (https://openware.com)
 - [peatio/peatio](https://github.com/peatio/peatio) - An open-source assets exchange.
@@ -6450,6 +6510,12 @@
 
 ## Shell 
 
+- [mkuhlmann/docker-watch-ocrmypdf](https://github.com/mkuhlmann/docker-watch-ocrmypdf) - Automatically process documents with ocrmypdf
+- [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
+- [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
+- [inthreedee/photoprism-add-description](https://github.com/inthreedee/photoprism-add-description) - Transfer photo descriptions from Google Photos json files to matching Photoprism photos
+- [geerlingguy/ansible-collection-mac](https://github.com/geerlingguy/ansible-collection-mac) - Collection of macOS automation tools for Ansible.
+- [alexmyczko/fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
 - [balenalabs-incubator/scratch](https://github.com/balenalabs-incubator/scratch) - Create your own Scratch server using a Raspberry Pi 4 (2GB+) and balena.
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) - Cheat sheets, customizations and configurations I use across multiple systems.
 - [ulygit/asus_rt_ac68u](https://github.com/ulygit/asus_rt_ac68u) - Configuration and script for Cloudflare DDNS on Asuswrt-Merlin
@@ -6863,7 +6929,7 @@
 - [hassio-addons/addon-nut](https://github.com/hassio-addons/addon-nut) - Network UPS Tools - Home Assistant Community Add-ons
 - [Corsinvest/cv4pve-barc](https://github.com/Corsinvest/cv4pve-barc) - Backup And Restore Ceph for Proxmox VE
 - [michabbs/proxborg](https://github.com/michabbs/proxborg) - Proxmox with Borg Backup made easy!
-- [g3492/vzborg](https://github.com/g3492/vzborg) - Deduplicated encrypted backups for Proxmox
+- [g3492/vzborg](https://github.com/g3492/vzborg) - Simple deduplicated encrypted backups for Proxmox
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [lfache/awesome-traefik](https://github.com/lfache/awesome-traefik) - Welcome to Awesome Traefik, a collection of contributions around Traefik.
 - [ducksrfr/mac_admin](https://github.com/ducksrfr/mac_admin) - Helpful scripts & configuration profiles for the Mac admin community
@@ -7254,6 +7320,12 @@
 
 ## Swift 
 
+- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder Extension, which allows to quck create a new symbolik links for the selected folders using mouse right-click.
+- [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
+- [wise-emotions/mocka](https://github.com/wise-emotions/mocka) - Mocka — A Mock Server Made for Developers by Developers, made in Swift ❤️
+- [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
+- [amebalabs/TRex](https://github.com/amebalabs/TRex) - Easy to use text extraction tool for macOS
+- [okdana/chicon](https://github.com/okdana/chicon) - A command-line utility for modifying Finder thumb-nail icons
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter) - Dynamically changes status bar style depending on content behind it
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
@@ -7373,6 +7445,15 @@
 
 ## TypeScript 
 
+- [DBuit/light-popup-card](https://github.com/DBuit/light-popup-card) - Lovelace card to use as custom pop-up for light in homekit style
+- [dylandoamaral/uptime-card](https://github.com/dylandoamaral/uptime-card) - Minimalistic uptime card for Home Assistant Lovelace UI
+- [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
+- [sebbo2002/ical-generator](https://github.com/sebbo2002/ical-generator) - ical-generator is a small piece of code which generates ical calendar files
+- [teleporthq/teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
+- [piglovesyou/graphql-let](https://github.com/piglovesyou/graphql-let) - A webpack loader / babel-plugin / babel-plugin-macros / CLI / generated file manager of GraphQL code generator.
+- [HearTao/ts-creator](https://github.com/HearTao/ts-creator) - A code generator to generate TypeScript code generator from TypeScript code
+- [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders
+- [truenas/webui](https://github.com/truenas/webui) - TrueNAS Angular UI
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [QingWei-Li/notea](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3
 - [codeverland/codever](https://github.com/codeverland/codever) - Bookmarks and Snippets Manager for Developers & Co
