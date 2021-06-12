@@ -154,6 +154,9 @@
 
 ## C 
 
+- [gl-inet/bletool](https://github.com/gl-inet/bletool) - 
+- [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [garypang13/openwrt-packages](https://github.com/garypang13/openwrt-packages) - Only for Luci 19.07
 - [old-dab/rtlsdr](https://github.com/old-dab/rtlsdr) - Software to turn the RTL2832U into a SDR
 - [madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter) - 
 - [dernasherbrezon/sdr-server](https://github.com/dernasherbrezon/sdr-server) - High performant TCP server for rtl-sdr
@@ -508,6 +511,7 @@
 
 ## C# # 
 
+- [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 - [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
@@ -1009,6 +1013,7 @@
 
 ## Elixir 
 
+- [Nebo15/annon.api](https://github.com/Nebo15/annon.api) - Configurable API gateway that acts as a reverse proxy with a plugin system.
 - [holsee/chroxy](https://github.com/holsee/chroxy) - Headless Chrome as a Service
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -1059,6 +1064,13 @@
 
 ## Go 
 
+- [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+- [nextdns/diag](https://github.com/nextdns/diag) - Network diagnostic tool
+- [motiv-labs/janus](https://github.com/motiv-labs/janus) - An API Gateway written in Go
+- [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
+- [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
+- [folbricht/desync](https://github.com/folbricht/desync) - Alternative casync implementation
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [capnproto/go-capnproto2](https://github.com/capnproto/go-capnproto2) - Cap'n Proto library and code generator for Go
 - [mijia/modelq](https://github.com/mijia/modelq) - ModelQ is a code generator for creating Golang codes/models to access RDBMS database/tables
@@ -2230,6 +2242,7 @@
 
 ## HTML 
 
+- [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
 - [ssg/yubitell](https://github.com/ssg/yubitell) - Silently extract a YubiKey serial number
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
@@ -2522,6 +2535,20 @@
 
 ## JavaScript 
 
+- [stefanjudis/is-http2-cli](https://github.com/stefanjudis/is-http2-cli) - CLI Module to check for http/2 support
+- [retifrav/rclone-rc-web-gui](https://github.com/retifrav/rclone-rc-web-gui) - Web GUI for rclone rc
+- [FredHutch/motuz](https://github.com/FredHutch/motuz) - Motuz - A web based infrastructure for large scale data movements between on-premise and cloud
+- [jupe/puml2code](https://github.com/jupe/puml2code) - PlantUML code generator
+- [RossMcMillan92/lovelace-collapsable-cards](https://github.com/RossMcMillan92/lovelace-collapsable-cards) - A custom Lovelace card that hides other cards behind a dropdown toggle
+- [bessarabov/animated-consumption-card](https://github.com/bessarabov/animated-consumption-card) - Card with animated home consumption for Home Assistant Lovelace UI
+- [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
+- [postlund/search-card](https://github.com/postlund/search-card) - Quickly search for entities from a Lovelace card.
+- [hjk789/NXEnhanced](https://github.com/hjk789/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
+- [croqaz/clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into clean text
+- [ArchiveBox/readability-extractor](https://github.com/ArchiveBox/readability-extractor) - Javascript/Node wrapper around Mozilla's Readability library so that ArchiveBox can call it as a oneshot CLI command to extract each page's article text.
+- [krismuniz/minimo](https://github.com/krismuniz/minimo) - An elegant, simplified new tab page for your web browser
+- [sandhawke/jsonic-cli](https://github.com/sandhawke/jsonic-cli) - simple shell command to call jsonic
+- [jsonicjs/jsonic](https://github.com/jsonicjs/jsonic) - JSON parser that isn't strict
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman
@@ -3661,6 +3688,7 @@
 
 ## Lua 
 
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [stanaka/lightroom-google-photo-plugin](https://github.com/stanaka/lightroom-google-photo-plugin) - 
@@ -3710,7 +3738,6 @@
 - [docker-science/cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [turnkeylinux-apps/core](https://github.com/turnkeylinux-apps/core) - TurnKey Core - Common Base for All Appliances
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
-- [fboaventura/dckr-mrtg](https://github.com/fboaventura/dckr-mrtg) - :whale: Docker MRTG Instance
 - [manala/ansible-role-cloud_init](https://github.com/manala/ansible-role-cloud_init) - [READ-ONLY] Ansible role dealing with the setup of Cloud-init
 - [tomkins/cloud-init-vagrant](https://github.com/tomkins/cloud-init-vagrant) - Testing cloud-init with Vagrant
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -3834,6 +3861,10 @@
 
 ## Others 
 
+- [jeremywillans/lovelace-roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) - HA Lovelace Card for iRobot Roomba Vacuum Cleaner leveraging the rest980 Docker Image
+- [dnguyen800/spotify-playlist-card](https://github.com/dnguyen800/spotify-playlist-card) - Home Assistant Lovelace card that lists your current Spotify playlists.
+- [r0f1/datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
+- [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) - Reverse proxies cheatsheet
 - [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
@@ -4418,6 +4449,7 @@
 
 ## PHP 
 
+- [j0k3r/graby](https://github.com/j0k3r/graby) - Graby helps you extract article content from web pages
 - [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 - [server-status-project/server-status](https://github.com/server-status-project/server-status) - Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting
@@ -4602,6 +4634,7 @@
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [niarbeht/vzdump-borg-rclone](https://github.com/niarbeht/vzdump-borg-rclone) - VZDump-&gt;Borg-&gt;Rclone backup stack using Proxmox's hook-script capability.
 - [cvicente/Netdot](https://github.com/cvicente/Netdot) - Network Documentation Tool
+- [fboaventura/dckr-mrtg](https://github.com/fboaventura/dckr-mrtg) - :whale: Docker MRTG Instance
 - [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors) - lm-sensors repository
 - [XyberWolf/ReconWolf](https://github.com/XyberWolf/ReconWolf) - Web Footprinting Tool
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
@@ -4635,6 +4668,29 @@
 
 ## Python 
 
+- [basnijholt/miflora](https://github.com/basnijholt/miflora) - ☘️🌡🌼🥀🏡 Mi Flora Plant sensor Python package
+- [ChristianKuehnel/plantgateway](https://github.com/ChristianKuehnel/plantgateway) - Bluetooth to mqtt gateway for Xiaomi Mi plant sensors
+- [balenalabs-incubator/background-radiation-monitor](https://github.com/balenalabs-incubator/background-radiation-monitor) - Monitor and record background radiation levels with a cheap detector and a Raspberry Pi.
+- [jay7x/rsyslog_exporter_py](https://github.com/jay7x/rsyslog_exporter_py) - Export rsyslog counters as prometheus metrics (python + omprog version)
+- [candlerb/rsyslog-omprog-loki](https://github.com/candlerb/rsyslog-omprog-loki) - rsyslog omprog adapter to forward messages to loki
+- [mmontuori/sprinkle](https://github.com/mmontuori/sprinkle) - Sprinkle is a volume clustering utility based on RClone. It presents all the RClone available volumes as a single clustered volume. It supports 1-way sync mainly for backup and recovery.
+- [cyberjunky/home-assistant-google_fit](https://github.com/cyberjunky/home-assistant-google_fit) - :hearts: This component tracks your Google Fit activities.
+- [rgc99/irrigation_unlimited](https://github.com/rgc99/irrigation_unlimited) - ♒Irrigation controller for Home Assistant
+- [BeryJu/hass-auth-header](https://github.com/BeryJu/hass-auth-header) - Home Assistant custom component, which allows you to delegate authentication to a reverse proxy.
+- [Limych/ha-temperature-feels-like](https://github.com/Limych/ha-temperature-feels-like) - Sensor of Temperature Feels Like for Home Assistant.
+- [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation
+- [sandialabs/dr_robot](https://github.com/sandialabs/dr_robot) - This tool can be used to enumerate the subdomains associated with a company by aggregating the results of multiple OSINT (Open Source Intelligence) tools.
+- [zilliztech/phantoscope](https://github.com/zilliztech/phantoscope) - Open Source, Cloud Native, RESTful Search Engine Powered by Neural Networks
+- [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multi-cloud management platform
+- [johnjones4/Doomsday-Machine](https://github.com/johnjones4/Doomsday-Machine) - Doomsday Machine is a tool for backing up cloud services to a local machine.
+- [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+- [aliparlakci/bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads and archives content from reddit
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
+- [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Web browser forensics for Google Chrome/Chromium
+- [Acidham/chromium-hist-bookmarks](https://github.com/Acidham/chromium-hist-bookmarks) - Search in Chromium History and Bookmarks
+- [Acidham/brave-history](https://github.com/Acidham/brave-history) - Alfred workflow to search Brave Browser History
 - [simonw/sqlite-transform](https://github.com/simonw/sqlite-transform) - Tool for running transformations on columns in a SQLite database
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [alexanderlanganke/ocrmypdfgui](https://github.com/alexanderlanganke/ocrmypdfgui) - 
@@ -6167,6 +6223,7 @@
 
 ## Ruby 
 
+- [TransparencyToolkit/LookingGlass](https://github.com/TransparencyToolkit/LookingGlass) - Intuitive and configurable search interface for document archives.
 - [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
 - [openware/barong](https://github.com/openware/barong) - Barong auth server
 - [openware/peatio](https://github.com/openware/peatio) - Open-source crypto currency exchange software (https://openware.com)
@@ -6312,6 +6369,7 @@
 
 ## Rust 
 
+- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [casey/lexiclean](https://github.com/casey/lexiclean) - Rust library to lexically clean paths
 - [danreeves/path-clean](https://github.com/danreeves/path-clean) - A Rust implementation of `cleanname` or `path.Clean`
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
@@ -6510,6 +6568,10 @@
 
 ## Shell 
 
+- [misterpeee/balena-gps-ntpsecd](https://github.com/misterpeee/balena-gps-ntpsecd) - GPS Based (Stratum 1) - NTP Server Running on Balena
+- [balena-io-examples/x11-window-manager](https://github.com/balena-io-examples/x11-window-manager) - Example project showing how to run a desktop manager with balenaCloud in order to run GUI applications.
+- [Mumie-hub/docker-services](https://github.com/Mumie-hub/docker-services) - all docker services
+- [uriel1998/muna](https://github.com/uriel1998/muna) - Clean a series of links, resolving redirects and finding Wayback results if page is gone. Originally written to aid with importing from ArchiveBox.
 - [mkuhlmann/docker-watch-ocrmypdf](https://github.com/mkuhlmann/docker-watch-ocrmypdf) - Automatically process documents with ocrmypdf
 - [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
 - [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
@@ -7320,6 +7382,7 @@
 
 ## Swift 
 
+- [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder Extension, which allows to quck create a new symbolik links for the selected folders using mouse right-click.
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [wise-emotions/mocka](https://github.com/wise-emotions/mocka) - Mocka — A Mock Server Made for Developers by Developers, made in Swift ❤️
@@ -7445,6 +7508,7 @@
 
 ## TypeScript 
 
+- [DBuit/thermostat-popup-card](https://github.com/DBuit/thermostat-popup-card) - Lovelace card to use as custom pop-up for thermostat in homekit style
 - [DBuit/light-popup-card](https://github.com/DBuit/light-popup-card) - Lovelace card to use as custom pop-up for light in homekit style
 - [dylandoamaral/uptime-card](https://github.com/dylandoamaral/uptime-card) - Minimalistic uptime card for Home Assistant Lovelace UI
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
@@ -7660,7 +7724,7 @@
 - [performancecopilot/grafana-pcp](https://github.com/performancecopilot/grafana-pcp) - Performance Co-Pilot Grafana Plugin
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [blrchen/azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure speed test tool. Test your network latency, download and upload speed to Azure datacenters around the world.
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - 
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager
 - [Gowee/traceroute-map-panel](https://github.com/Gowee/traceroute-map-panel) - 📍🗺️ Visualize traceroute paths on a map in a Grafana panel
 - [fabiospampinato/autogit](https://github.com/fabiospampinato/autogit) - Define commands, using plugins, to execute across all your repositories.
 - [homebridge/homebridge-plugin-template](https://github.com/homebridge/homebridge-plugin-template) - A template you can use to create your own Homebridge plugins.
