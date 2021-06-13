@@ -2535,6 +2535,9 @@
 
 ## JavaScript 
 
+- [koalazak/rest980](https://github.com/koalazak/rest980) - REST interface to control your iRobot Roomba 980 via local server on your lan.
+- [jeremywillans/hass-addons](https://github.com/jeremywillans/hass-addons) - Hass.io Addon Repository
+- [nwesterhausen/zonefile-creator](https://github.com/nwesterhausen/zonefile-creator) - Simple HTML Tool for creating zone.yaml files.
 - [stefanjudis/is-http2-cli](https://github.com/stefanjudis/is-http2-cli) - CLI Module to check for http/2 support
 - [retifrav/rclone-rc-web-gui](https://github.com/retifrav/rclone-rc-web-gui) - Web GUI for rclone rc
 - [FredHutch/motuz](https://github.com/FredHutch/motuz) - Motuz - A web based infrastructure for large scale data movements between on-premise and cloud
@@ -3943,7 +3946,7 @@
 - [openmessaging/specification](https://github.com/openmessaging/specification) - OpenMessaging Specification
 - [klemenjak/SynD](https://github.com/klemenjak/SynD) - A Synthetic Energy Consumption Dataset for Non-Intrusive Load Monitoring
 - [ch-shin/awesome-nilm](https://github.com/ch-shin/awesome-nilm) - A curated resources of awesome NILM resources
-- [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (50+ datasets).
+- [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
 - [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [uclaconditional/video-and-image-cli](https://github.com/uclaconditional/video-and-image-cli) - Video and Image Manipulation on the Command Line
@@ -4449,6 +4452,7 @@
 
 ## PHP 
 
+- [jeremywillans/ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) - HA iRobot Roomba Configuration using rest980
 - [j0k3r/graby](https://github.com/j0k3r/graby) - Graby helps you extract article content from web pages
 - [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
@@ -4668,6 +4672,8 @@
 
 ## Python 
 
+- [jeremywillans/event-emitter](https://github.com/jeremywillans/event-emitter) - Emits a call-service event in Home Assistant
+- [dnguyen800/spotify-playlist-sensor](https://github.com/dnguyen800/spotify-playlist-sensor) - Spotify Playlist Sensor for Home Assistant
 - [basnijholt/miflora](https://github.com/basnijholt/miflora) - ☘️🌡🌼🥀🏡 Mi Flora Plant sensor Python package
 - [ChristianKuehnel/plantgateway](https://github.com/ChristianKuehnel/plantgateway) - Bluetooth to mqtt gateway for Xiaomi Mi plant sensors
 - [balenalabs-incubator/background-radiation-monitor](https://github.com/balenalabs-incubator/background-radiation-monitor) - Monitor and record background radiation levels with a cheap detector and a Raspberry Pi.
@@ -5066,7 +5072,7 @@
 - [krsmanovic/mikrotik-distributed-ssh](https://github.com/krsmanovic/mikrotik-distributed-ssh) - Python script that connects to MikroTik routers via ssh and executes list of commands. Both inventory and command lists are loaded from external files. Create separate log entries for successful connections and errors.
 - [0x802/MikrotikSploit](https://github.com/0x802/MikrotikSploit) - MikrotikSploit is a script that searches for and exploits Mikrotik network vulnerabilities
 - [den1s/MNDP_sender](https://github.com/den1s/MNDP_sender) - MikroTik Neighbor Discovery Protocol (MNDP) sender
-- [uav4geo/LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [us/english-please](https://github.com/us/english-please) - Offer for repositories whose README are written in Chinese.
 - [arbal/HelloGitHub](https://github.com/arbal/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
