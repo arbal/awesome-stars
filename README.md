@@ -943,7 +943,6 @@
 - [LiveHelperChat/intent-deeppavlov](https://github.com/LiveHelperChat/intent-deeppavlov) - Simple intent recognition using DeepPavlov.ai
 - [QuantumObject/docker-xowa](https://github.com/QuantumObject/docker-xowa) - docker container for xowa (offline wikipedia)
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
-- [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
 - [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) - 
 - [compujuckel/adsb-docker](https://github.com/compujuckel/adsb-docker) - dump1090-fa, piaware and fr24feed together with docker-compose
 - [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
@@ -1064,6 +1063,8 @@
 
 ## Go 
 
+- [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
+- [drone-plugins/drone-gitea-release](https://github.com/drone-plugins/drone-gitea-release) - Drone plugin for creating and tagging Gitea releases
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [nextdns/diag](https://github.com/nextdns/diag) - Network diagnostic tool
@@ -2535,6 +2536,7 @@
 
 ## JavaScript 
 
+- [saitho/semantic-release-gitea](https://github.com/saitho/semantic-release-gitea) - 🍵 semantic-release plugin to publish a Gitea release
 - [koalazak/rest980](https://github.com/koalazak/rest980) - REST interface to control your iRobot Roomba 980 via local server on your lan.
 - [jeremywillans/hass-addons](https://github.com/jeremywillans/hass-addons) - Hass.io Addon Repository
 - [nwesterhausen/zonefile-creator](https://github.com/nwesterhausen/zonefile-creator) - Simple HTML Tool for creating zone.yaml files.
@@ -3864,6 +3866,7 @@
 
 ## Others 
 
+- [ntimo/gitea-docker-swarm](https://github.com/ntimo/gitea-docker-swarm) - Use Gitea in a Docker Swarm in the Hetzner Cloud
 - [jeremywillans/lovelace-roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) - HA Lovelace Card for iRobot Roomba Vacuum Cleaner leveraging the rest980 Docker Image
 - [dnguyen800/spotify-playlist-card](https://github.com/dnguyen800/spotify-playlist-card) - Home Assistant Lovelace card that lists your current Spotify playlists.
 - [r0f1/datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
@@ -3871,7 +3874,7 @@
 - [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
-- [romsper/qa-automation-base](https://github.com/romsper/qa-automation-base) - Base projects for your automation frameworks.
+- [romsper/qa-automation-base](https://github.com/romsper/qa-automation-base) - There are basic projects for automation frameworks based on Kotlin/Java and TypeScript for the backend, frontend, and mobile.
 - [truenas/ports](https://github.com/truenas/ports) - FreeBSD ports tree
 - [WaterByWind/grafana-dashboards](https://github.com/WaterByWind/grafana-dashboards) - Grafana Dashboards
 - [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
@@ -4109,6 +4112,7 @@
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
 - [moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card) - A Custom Lovelace card to pull together the mail and packages sensors.
+- [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
 - [GROG/ansible-role-reboot](https://github.com/GROG/ansible-role-reboot) - Ansible role for rebooting hosts.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -4672,6 +4676,11 @@
 
 ## Python 
 
+- [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
+- [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - A topology visualization plugin for Netbox powered by NextUI Toolkit
+- [pat-s/alfred-gitea](https://github.com/pat-s/alfred-gitea) - Gitea Alfred Workflow
+- [JeanRibes/mirror-gitlab-gitea](https://github.com/JeanRibes/mirror-gitlab-gitea) - Mirror Gitlab repo to Gitea in bulk
+- [k8scat/Gigrator](https://github.com/k8scat/Gigrator) - Git repos migration tool which support Github/Gitee/Gitlab/Gitea/Coding/Gogs.
 - [jeremywillans/event-emitter](https://github.com/jeremywillans/event-emitter) - Emits a call-service event in Home Assistant
 - [dnguyen800/spotify-playlist-sensor](https://github.com/dnguyen800/spotify-playlist-sensor) - Spotify Playlist Sensor for Home Assistant
 - [basnijholt/miflora](https://github.com/basnijholt/miflora) - ☘️🌡🌼🥀🏡 Mi Flora Plant sensor Python package
@@ -5649,7 +5658,7 @@
 - [pyhackertarget/hackertarget](https://github.com/pyhackertarget/hackertarget) - 🎯 HackerTarget ToolKit - Tools And Network Intelligence To Help Organizations With Attack Surface Discovery 🎯
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet and PyTorch
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on PyTorch and MXNet
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [ohing504/ansible-role-swarmpit](https://github.com/ohing504/ansible-role-swarmpit) - Ansible role to install Swarmpit
 - [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
@@ -6574,6 +6583,9 @@
 
 ## Shell 
 
+- [fnichol/iocage-plugin-gitea](https://github.com/fnichol/iocage-plugin-gitea) - An iocage plugin for Gitea, a painless self-hosted Git service.
+- [everhopingandwaiting/gitea_drone_vault_auto](https://github.com/everhopingandwaiting/gitea_drone_vault_auto) - gitea + drone + drone-runner + redis + mysql + vault + 自动部署脚本
+- [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [misterpeee/balena-gps-ntpsecd](https://github.com/misterpeee/balena-gps-ntpsecd) - GPS Based (Stratum 1) - NTP Server Running on Balena
 - [balena-io-examples/x11-window-manager](https://github.com/balena-io-examples/x11-window-manager) - Example project showing how to run a desktop manager with balenaCloud in order to run GUI applications.
 - [Mumie-hub/docker-services](https://github.com/Mumie-hub/docker-services) - all docker services
