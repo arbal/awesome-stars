@@ -141,6 +141,7 @@
 
 ## Batchfile 
 
+- [aetonsi/rclapper](https://github.com/aetonsi/rclapper) - rclapper - rclone wrapper for continuous syncing to multiple remotes.
 - [ytx1991/ChiaMonitor](https://github.com/ytx1991/ChiaMonitor) - An approach for monitoring multiple Chia harvester in one web app based dashboard
 - [binnes/MQTT-brokers](https://github.com/binnes/MQTT-brokers) - Developer view of MQTT Broker options
 
@@ -154,6 +155,8 @@
 
 ## C 
 
+- [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
+- [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [gl-inet/bletool](https://github.com/gl-inet/bletool) - 
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [garypang13/openwrt-packages](https://github.com/garypang13/openwrt-packages) - Only for Luci 19.07
@@ -607,6 +610,8 @@
 
 ## C++ 
 
+- [baidu/tera](https://github.com/baidu/tera) - An Internet-Scale Database.
+- [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness.
 - [softsyst/RSP2_tcp](https://github.com/softsyst/RSP2_tcp) - TCP/IP Server for I/Q data from sdrplay RSP devices (RSP1, RSP1A, RSP2, RSPduo (single tuner))
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
 - [AD-Vega/rtl-power-fftw](https://github.com/AD-Vega/rtl-power-fftw) - Power spectrum for RTLSDR dongles.
@@ -903,6 +908,8 @@
 
 ## Dockerfile 
 
+- [balena-io/open-balena-s3](https://github.com/balena-io/open-balena-s3) - Amazon S3-compatible storage backend for openBalena
+- [reichley/hass-addons](https://github.com/reichley/hass-addons) - Home Assistant Add-Ons (currently only rtl433_to_mqtt)
 - [retzkek/chiamon](https://github.com/retzkek/chiamon) - Example Chia monitoring stack
 - [opsxcq/docker-dnsmasq](https://github.com/opsxcq/docker-dnsmasq) - 
 - [jpillora/docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq) - dnsmasq in a docker container, configurable via a simple web UI
@@ -1063,6 +1070,10 @@
 
 ## Go 
 
+- [bilibili/discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more
+- [drone/go-scm](https://github.com/drone/go-scm) - Package scm provides a unified interface to multiple source code management systems.
+- [benmanns/onhub](https://github.com/benmanns/onhub) - Various utilities for the OnHub router.
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [drone-plugins/drone-gitea-release](https://github.com/drone-plugins/drone-gitea-release) - Drone plugin for creating and tagging Gitea releases
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
@@ -2243,6 +2254,8 @@
 
 ## HTML 
 
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
+- [qJake/HADotNet.CommandCenter](https://github.com/qJake/HADotNet.CommandCenter) - 📱 A web-based, wall-mountable command center for Home Assistant.
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
 - [ssg/yubitell](https://github.com/ssg/yubitell) - Silently extract a YubiKey serial number
@@ -2389,6 +2402,7 @@
 
 ## Java 
 
+- [voldemort/voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo.
 - [mulesoft-labs/keycloak-duo-spi](https://github.com/mulesoft-labs/keycloak-duo-spi) - Keycloak integration for Duo Security MFA
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -2536,6 +2550,7 @@
 
 ## JavaScript 
 
+- [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea
 - [saitho/semantic-release-gitea](https://github.com/saitho/semantic-release-gitea) - 🍵 semantic-release plugin to publish a Gitea release
 - [koalazak/rest980](https://github.com/koalazak/rest980) - REST interface to control your iRobot Roomba 980 via local server on your lan.
 - [jeremywillans/hass-addons](https://github.com/jeremywillans/hass-addons) - Hass.io Addon Repository
@@ -4456,6 +4471,7 @@
 
 ## PHP 
 
+- [tedious/Stash](https://github.com/tedious/Stash) - The place to keep your cache.
 - [jeremywillans/ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) - HA iRobot Roomba Configuration using rest980
 - [j0k3r/graby](https://github.com/j0k3r/graby) - Graby helps you extract article content from web pages
 - [VictorRobellini/pfSense-Dashboard](https://github.com/VictorRobellini/pfSense-Dashboard) - A functional and useful dashboard for pfSense that utilizes influxdb, grafana and telegraf
@@ -4602,6 +4618,7 @@
 
 ## Perl 
 
+- [oasys/mkrdns](https://github.com/oasys/mkrdns) - An automatic reverse DNS zone generator.
 - [proxmox/pve-container](https://github.com/proxmox/pve-container) - 
 - [marchyman/GeoTag](https://github.com/marchyman/GeoTag) - Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==&gt;
 - [stuartcryan/advanced-google-maps-alfred-workflow](https://github.com/stuartcryan/advanced-google-maps-alfred-workflow) - Advanced Google Maps and Apple Maps Workflow for Alfred
@@ -4676,6 +4693,13 @@
 
 ## Python 
 
+- [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
+- [eldraco/Salamandra](https://github.com/eldraco/Salamandra) - Salamandra is a tool to find spy microphones that use radio freq to transmit. It uses SDR.
+- [jeroenterheerdt/HAsmartirrigation](https://github.com/jeroenterheerdt/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant
+- [pnbruckner/ha-sun2](https://github.com/pnbruckner/ha-sun2) - Home Assistant Sun2 Sensor
+- [Wilm0r/dnsrev](https://github.com/Wilm0r/dnsrev) - IPv4/IPv6 reverse lookup zone generator
+- [gl-inet/imagebuilder](https://github.com/gl-inet/imagebuilder) - Warning！Please look at 'GL.iNET Imagebuilder Introduction' section.
+- [bojanrajkovic/vaping-exporter](https://github.com/bojanrajkovic/vaping-exporter) - A Prometheus exporter for 20c/vaping
 - [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
 - [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - A topology visualization plugin for Netbox powered by NextUI Toolkit
 - [pat-s/alfred-gitea](https://github.com/pat-s/alfred-gitea) - Gitea Alfred Workflow
@@ -6078,7 +6102,7 @@
 - [nlohmann/swagger_to_uml](https://github.com/nlohmann/swagger_to_uml) - Convert OpenAPI specifications (a.k.a. Swagger) to PlantUML diagrams
 - [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 - An advanced device_tracker custom_component for iPhones, iPads, etc. It monitors zone & location updates triggered by the HA iOS App and supports Apple 2fa verification.
 - [TravisFSmith/SweetSecurity](https://github.com/TravisFSmith/SweetSecurity) - Network Security Monitoring on Raspberry Pi type devices
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [pnbruckner/ha-composite-tracker](https://github.com/pnbruckner/ha-composite-tracker) - Home Assistant Composite Device Tracker
 - [gtdiehl/eagle200_reader](https://github.com/gtdiehl/eagle200_reader) - Gather data locally from a Rainforest Eagle-200
 - [alagoa/youtube-or-pornhub](https://github.com/alagoa/youtube-or-pornhub) - Service identification on ciphered traffic.
@@ -6583,6 +6607,8 @@
 
 ## Shell 
 
+- [danigunawan/rclone_minio_remote_sync](https://github.com/danigunawan/rclone_minio_remote_sync) - Script Rclone Minio Remote & Sync
+- [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [fnichol/iocage-plugin-gitea](https://github.com/fnichol/iocage-plugin-gitea) - An iocage plugin for Gitea, a painless self-hosted Git service.
 - [everhopingandwaiting/gitea_drone_vault_auto](https://github.com/everhopingandwaiting/gitea_drone_vault_auto) - gitea + drone + drone-runner + redis + mysql + vault + 自动部署脚本
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
