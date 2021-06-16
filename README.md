@@ -124,6 +124,7 @@
 
 ## Arduino 
 
+- [yacko1975/WeatherStation](https://github.com/yacko1975/WeatherStation) - Acurite 5n1 pro and 06044-tx  Sensor Reader
 - [sirleech/Webduino](https://github.com/sirleech/Webduino) - Arduino WebServer library
 
 ## Assembly 
@@ -155,6 +156,8 @@
 
 ## C 
 
+- [cbassa/strf](https://github.com/cbassa/strf) - Radio Frequency Satellite Tracking
+- [lyusupov/SoftRF](https://github.com/lyusupov/SoftRF) - :airplane:  Multifunctional, compatible DIY general aviation proximity awareness system
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [gl-inet/bletool](https://github.com/gl-inet/bletool) - 
@@ -276,7 +279,7 @@
 - [k-five/rinp](https://github.com/k-five/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
-- [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining-Pool Engine that runs on Linux and Windows and supports a variety of crypto-currencies.
+- [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows built on .NET Core.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
 - [introlab/odas](https://github.com/introlab/odas) - ODAS: Open embeddeD Audition System
@@ -1070,6 +1073,8 @@
 
 ## Go 
 
+- [golift/imessage](https://github.com/golift/imessage) - Go Library used to interact with iMessage (Messages.app) on macOS
+- [mhansen/rtl_433_prometheus](https://github.com/mhansen/rtl_433_prometheus) - Prometheus time-series DB exporter for rtl_433 433MHz radio packet decoder
 - [bilibili/discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more
 - [drone/go-scm](https://github.com/drone/go-scm) - Package scm provides a unified interface to multiple source code management systems.
@@ -2402,6 +2407,7 @@
 
 ## Java 
 
+- [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's message relay server for Mac
 - [voldemort/voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo.
 - [mulesoft-labs/keycloak-duo-spi](https://github.com/mulesoft-labs/keycloak-duo-spi) - Keycloak integration for Duo Security MFA
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -2550,6 +2556,13 @@
 
 ## JavaScript 
 
+- [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
+- [fossasia/open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
+- [frostmar/rtl433-webmon](https://github.com/frostmar/rtl433-webmon) - web front end for a software defined radio reading 433MHz sensors
+- [dceejay/rtlpower](https://github.com/dceejay/rtlpower) - Node-RED node that calls rtl_power command running on an SDR USB stick to monitor a set Radio Frequency
+- [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library
+- [Upload/Up1](https://github.com/Upload/Up1) - Client-side encrypted image host web server
+- [Petro31/home-assistant-config](https://github.com/Petro31/home-assistant-config) - Home Assistant Configuration
 - [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea
 - [saitho/semantic-release-gitea](https://github.com/saitho/semantic-release-gitea) - 🍵 semantic-release plugin to publish a Gitea release
 - [koalazak/rest980](https://github.com/koalazak/rest980) - REST interface to control your iRobot Roomba 980 via local server on your lan.
@@ -3881,6 +3894,10 @@
 
 ## Others 
 
+- [0x90/sdr-arsenal](https://github.com/0x90/sdr-arsenal) - SDR tools and scripts
+- [linuxhw/DevicePopulation](https://github.com/linuxhw/DevicePopulation) - Population of PCI devices in the world
+- [linuxhw/LsPCI](https://github.com/linuxhw/LsPCI) - Most popular PCI devices and lspci reports
+- [defcon24bit/record-and-replay-RF-remote](https://github.com/defcon24bit/record-and-replay-RF-remote) - record & replay RF signal with Raspberry Pi & RTL-SDR dongle (optional) integrate with Home Assistant, Alexa and Google Home
 - [ntimo/gitea-docker-swarm](https://github.com/ntimo/gitea-docker-swarm) - Use Gitea in a Docker Swarm in the Hetzner Cloud
 - [jeremywillans/lovelace-roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) - HA Lovelace Card for iRobot Roomba Vacuum Cleaner leveraging the rest980 Docker Image
 - [dnguyen800/spotify-playlist-card](https://github.com/dnguyen800/spotify-playlist-card) - Home Assistant Lovelace card that lists your current Spotify playlists.
@@ -4693,6 +4710,16 @@
 
 ## Python 
 
+- [filipsPL/autowx2](https://github.com/filipsPL/autowx2) - The program for scheduling recordings and processing of the satellite and ground radio transmissions (like capturing of the weather APT images from NOAA satellites, voice messages from ISS, fixed time recordings of WeatherFaxes etc.) :earth_africa: :satellite:
+- [fossasia/open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
+- [TheByteStuff/RemoteSyslog_Service](https://github.com/TheByteStuff/RemoteSyslog_Service) - Home Assistant Custom Component - send Syslog message to remote server.
+- [CGrassin/EMI_mapper](https://github.com/CGrassin/EMI_mapper) - A python script using RTL-SDR and OpenCV to create fast 2D electromagnetic maps.
+- [mverleun/RTL433-to-mqtt](https://github.com/mverleun/RTL433-to-mqtt) - Publish info from RTL433 receiver to MQTT broker
+- [sdague/arwn](https://github.com/sdague/arwn) - Ambient Radio Weather Network - collect weather data off 433Mhz and publish to MQTT
+- [rsnodgrass/hassio-addons](https://github.com/rsnodgrass/hassio-addons) - Home Assistant smart home platform Hass.io Add-ons
+- [rsnodgrass/hass-integrations](https://github.com/rsnodgrass/hass-integrations) - Home Assistant smart home platform integrations including sensors and custom tools
+- [dreed47/redfin](https://github.com/dreed47/redfin) - Redfin property estimate Sensor for Home Assistant
+- [custom-components/healthchecksio](https://github.com/custom-components/healthchecksio) - Update and display the status of your healthchecks.io  checks.
 - [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
 - [eldraco/Salamandra](https://github.com/eldraco/Salamandra) - Salamandra is a tool to find spy microphones that use radio freq to transmit. It uses SDR.
 - [jeroenterheerdt/HAsmartirrigation](https://github.com/jeroenterheerdt/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant
@@ -5814,7 +5841,7 @@
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
-- [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services
+- [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
@@ -5838,7 +5865,7 @@
 - [jbaiter/zotero-cli](https://github.com/jbaiter/zotero-cli) - Command-line interface for Zotero
 - [clarketm/wait-for-it](https://github.com/clarketm/wait-for-it) - Wait for service(s) to be available before executing a command.
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [ttssdev/appflow](https://github.com/ttssdev/appflow) - Multitenant environment automation.
+- [cloudsidedev/appside](https://github.com/cloudsidedev/appside) - Multitenant environment automation.
 - [shiwaforce/poco](https://github.com/shiwaforce/poco) - Poco will help you to organise and manage Docker, Docker-Compose, Kubernetes, Openshift projects of any complexity using simple YAML config files to shorten the route from finding your project to initialising it in your local environment.
 - [moonbuggy/docker-dnsmasq-updater](https://github.com/moonbuggy/docker-dnsmasq-updater) - Update a remote dnsmasq server with Docker container hostnames
 - [buriburisuri/speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) - Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
@@ -6438,7 +6465,6 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -6607,6 +6633,9 @@
 
 ## Shell 
 
+- [ktemkin/gnuradio-for-mac-without-macports](https://github.com/ktemkin/gnuradio-for-mac-without-macports) - GNURadio bundled as an app for Mac OS X (does not require MacPorts)
+- [sq5bpf/etherify](https://github.com/sq5bpf/etherify) - Etherify - bringing the ether back to ethernet
+- [IoT-PTv/List-of-Tools](https://github.com/IoT-PTv/List-of-Tools) - List of the tools and usage
 - [danigunawan/rclone_minio_remote_sync](https://github.com/danigunawan/rclone_minio_remote_sync) - Script Rclone Minio Remote & Sync
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [fnichol/iocage-plugin-gitea](https://github.com/fnichol/iocage-plugin-gitea) - An iocage plugin for Gitea, a painless self-hosted Git service.
@@ -6803,7 +6832,7 @@
 - [mendhak/docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [lstellway/self-signed-ssl](https://github.com/lstellway/self-signed-ssl) - Generate self-signed TLS certificate using OpenSSL
-- [Volkov-R-Net/mikrotik-backups](https://github.com/Volkov-R-Net/mikrotik-backups) - Mikrotik centralized backup script
+- [volkovro/mikrotik-backups](https://github.com/volkovro/mikrotik-backups) - Mikrotik centralized backup script
 - [luckman212/bw-cache-update](https://github.com/luckman212/bw-cache-update) - Script to resync Bitwarden secrets in the background on a schedule. Meant to be used with https://github.com/blacs30/bitwarden-alfred-workflow
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [kaergel/docker-vdirsyncer](https://github.com/kaergel/docker-vdirsyncer) - A docker container which syncs your CalDAV/CardDAV calendars/addressbooks periodically
@@ -7370,7 +7399,7 @@
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [psprint/zsh-cmd-architect](https://github.com/psprint/zsh-cmd-architect) - Build commands from what's in history and at prompt
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [vdesabou/alfred-mac-osx-sharing](https://github.com/vdesabou/alfred-mac-osx-sharing) - Alfred workflow to use Mac OS X sharing services
@@ -7552,6 +7581,9 @@
 
 ## TypeScript 
 
+- [strongloop/loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
+- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web, Windows, and Linux
 - [DBuit/thermostat-popup-card](https://github.com/DBuit/thermostat-popup-card) - Lovelace card to use as custom pop-up for thermostat in homekit style
 - [DBuit/light-popup-card](https://github.com/DBuit/light-popup-card) - Lovelace card to use as custom pop-up for light in homekit style
 - [dylandoamaral/uptime-card](https://github.com/dylandoamaral/uptime-card) - Minimalistic uptime card for Home Assistant Lovelace UI
@@ -7621,6 +7653,7 @@
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
