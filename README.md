@@ -613,6 +613,7 @@
 
 ## C++ 
 
+- [jkuri/macstats](https://github.com/jkuri/macstats) - Mac OS X Statistics - Battery, Fans, CPU
 - [baidu/tera](https://github.com/baidu/tera) - An Internet-Scale Database.
 - [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness.
 - [softsyst/RSP2_tcp](https://github.com/softsyst/RSP2_tcp) - TCP/IP Server for I/Q data from sdrplay RSP devices (RSP1, RSP1A, RSP2, RSPduo (single tuner))
@@ -911,6 +912,9 @@
 
 ## Dockerfile 
 
+- [OPHoperHPO/hassio-addons](https://github.com/OPHoperHPO/hassio-addons) - :heavy_plus_sign: Docker add-ons for Hass.io
+- [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab) - JupyterLab Lite - Home Assistant Community Add-ons
+- [hassio-addons/addon-grafana](https://github.com/hassio-addons/addon-grafana) - Grafana - Home Assistant Community Add-ons
 - [balena-io/open-balena-s3](https://github.com/balena-io/open-balena-s3) - Amazon S3-compatible storage backend for openBalena
 - [reichley/hass-addons](https://github.com/reichley/hass-addons) - Home Assistant Add-Ons (currently only rtl433_to_mqtt)
 - [retzkek/chiamon](https://github.com/retzkek/chiamon) - Example Chia monitoring stack
@@ -1073,6 +1077,8 @@
 
 ## Go 
 
+- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI tool that can decode and display temperature, fans, battery, power, voltage and current information
+- [a-bali/janitor](https://github.com/a-bali/janitor) - Availability monitoring and alerting for IOT devices
 - [golift/imessage](https://github.com/golift/imessage) - Go Library used to interact with iMessage (Messages.app) on macOS
 - [mhansen/rtl_433_prometheus](https://github.com/mhansen/rtl_433_prometheus) - Prometheus time-series DB exporter for rtl_433 433MHz radio packet decoder
 - [bilibili/discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
@@ -2556,6 +2562,8 @@
 
 ## JavaScript 
 
+- [jxlarrea/ha-bt-proximity](https://github.com/jxlarrea/ha-bt-proximity) - Distributed Bluetooth Room Presence Sensor for Home Assistant
+- [kalkih/simple-weather-card](https://github.com/kalkih/simple-weather-card) - Minimalistic weather card for Home Assistant
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [fossasia/open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [frostmar/rtl433-webmon](https://github.com/frostmar/rtl433-webmon) - web front end for a software defined radio reading 433MHz sensors
@@ -2765,7 +2773,7 @@
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps you build and self-host internal tools in minutes 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps you build, automate and self-host internal and external tools in minutes 🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
@@ -3566,6 +3574,13 @@
 
 ## Jinja 
 
+- [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
+- [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
+- [hassio-addons/addon-portainer](https://github.com/hassio-addons/addon-portainer) - Portainer - Home Assistant Community Add-ons
+- [hassio-addons/addon-adb](https://github.com/hassio-addons/addon-adb) - Android Debug Bridge - Home Assistant Community Add-ons
+- [hassio-addons/addon-zerotier](https://github.com/hassio-addons/addon-zerotier) - ZeroTier One - Home Assistant Community Add-ons
+- [hassio-addons/addon-spotify-connect](https://github.com/hassio-addons/addon-spotify-connect) - Spotify Connect - Home Assistant Community Add-ons
+- [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast) - AirCast - Home Assistant Community Add-ons
 - [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible.
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
@@ -3591,6 +3606,7 @@
 ## Jsonnet 
 
 - [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
+- [ggear/asystem](https://github.com/ggear/asystem) - 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -3894,6 +3910,8 @@
 
 ## Others 
 
+- [amaximus/garbage-collection-card](https://github.com/amaximus/garbage-collection-card) - Custom Lovelace card for Garbage Collection custom component
+- [maxmacstn/HA-ePaper-Display](https://github.com/maxmacstn/HA-ePaper-Display) - E-Paper display for viewing sensor data from Home Assistant.
 - [0x90/sdr-arsenal](https://github.com/0x90/sdr-arsenal) - SDR tools and scripts
 - [linuxhw/DevicePopulation](https://github.com/linuxhw/DevicePopulation) - Population of PCI devices in the world
 - [linuxhw/LsPCI](https://github.com/linuxhw/LsPCI) - Most popular PCI devices and lspci reports
@@ -4289,7 +4307,7 @@
 - [bubelov/traefik-letsencrypt-compose](https://github.com/bubelov/traefik-letsencrypt-compose) - Basic Traefik configuration which includes automatic Let’s Encrypt certificate management and password protected dashboard
 - [sniperkit/snk.dev-assistant](https://github.com/sniperkit/snk.dev-assistant) - Assistant for code development with advanced machine learning features
 - [heliomass/iOSShortcuts](https://github.com/heliomass/iOSShortcuts) - A collection of shortcuts for the Shortcuts app.
-- [tomByrer/awesome-cloudflare-workers](https://github.com/tomByrer/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
+- [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [Dilden/Ansible-Proxmox-Automation](https://github.com/Dilden/Ansible-Proxmox-Automation) - For use with automating my homelab
@@ -4710,6 +4728,20 @@
 
 ## Python 
 
+- [custom-components/weatheralerts](https://github.com/custom-components/weatheralerts) - A sensor that gives you weather alerts from alerts.weather.gov.
+- [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template) - Template media_player for Home Assistant
+- [pilotak/homeassistant-attributes](https://github.com/pilotak/homeassistant-attributes) - Breaks out specified attribute from other entities to a sensor
+- [OmenWild/home-assistant-z-wave-graph](https://github.com/OmenWild/home-assistant-z-wave-graph) - Graph your Z-Wave mesh automatically from within Home Assistant.
+- [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
+- [custom-components/authenticated](https://github.com/custom-components/authenticated) - A platform which allows you to get information about sucessfull logins to Home Assistant.
+- [custom-components/breaking_changes](https://github.com/custom-components/breaking_changes) - Component to show potential breaking_changes in the current published version based on your loaded components
+- [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Hass.io that can Automatically Remove Snapshots and Supports Generational Backup Schemes.
+- [custom-components/integration_blueprint](https://github.com/custom-components/integration_blueprint) - Blueprint for custom_component developers.
+- [jseidl/hass-magic_areas](https://github.com/jseidl/hass-magic_areas) - Magic Areas custom_component for Home Assistant
+- [nielsfaber/scheduler-component](https://github.com/nielsfaber/scheduler-component) - Custom component for HA that enables the creation of scheduler entities
+- [custom-components/custom_updater](https://github.com/custom-components/custom_updater) - [DEPRECATED]📦 A component which allows you to track and update custom cards/components and python_scripts
+- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - Passively monitors BLE messages from Xiaomi Mijia BLE MiBeacon, Qingping, ATC, Xiaomi Scale, Kegtron and Thermoplus sensors
+- [lfasci/homeassistant-prometheus-query](https://github.com/lfasci/homeassistant-prometheus-query) - Inspired from homeassitant Command line Sensor this sensor take values from Prometheus metrics using PromQL query
 - [filipsPL/autowx2](https://github.com/filipsPL/autowx2) - The program for scheduling recordings and processing of the satellite and ground radio transmissions (like capturing of the weather APT images from NOAA satellites, voice messages from ISS, fixed time recordings of WeatherFaxes etc.) :earth_africa: :satellite:
 - [fossasia/open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
 - [TheByteStuff/RemoteSyslog_Service](https://github.com/TheByteStuff/RemoteSyslog_Service) - Home Assistant Custom Component - send Syslog message to remote server.
@@ -4909,7 +4941,6 @@
 - [yassineaboukir/sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 - [x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher) - Phishing catcher using Certstream
 - [eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
-- [ggear/asystem](https://github.com/ggear/asystem) - 
 - [bellrichm/WeeWX-MQTTSubscribe](https://github.com/bellrichm/WeeWX-MQTTSubscribe) - A WeeWX service and driver that receives data from MQTT.
 - [poblabs/weewx-belchertown](https://github.com/poblabs/weewx-belchertown) - A clean and modern weewx skin with real time streaming updates, forecast data and interactive charts. View it in action at BelchertownWeather.com
 - [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
@@ -5166,7 +5197,7 @@
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [GrocerCheck/LivePopularTimes](https://github.com/GrocerCheck/LivePopularTimes) - a python module for scraping live location busyness
 - [brandonscript/fylm](https://github.com/brandonscript/fylm) - A wonderful automated command line app for organizing your film media. Built for Plex and SABnzbd.
-- [abhi1thakur/colabcode](https://github.com/abhi1thakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
+- [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
 - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - [emkookmer/system_sensors](https://github.com/emkookmer/system_sensors) - Logging of system sensor specific for the RPI and sending them to a MQTT broker
@@ -5379,7 +5410,7 @@
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [wookayin/gpustat](https://github.com/wookayin/gpustat) - 📊 A simple command-line utility for querying and monitoring GPU status
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: browser-independent bookmark manager
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [ejwa/gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
@@ -6633,6 +6664,16 @@
 
 ## Shell 
 
+- [hassio-addons/addon-mqtt](https://github.com/hassio-addons/addon-mqtt) - MQTT Server & Web client - Home Assistant Community Add-ons
+- [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
+- [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
+- [hassio-addons/addon-plex](https://github.com/hassio-addons/addon-plex) - Plex Media Server - Home Assistant Community Add-ons
+- [hassio-addons/addon-influxdb](https://github.com/hassio-addons/addon-influxdb) - InfluxDB - Home Assistant Community Add-ons
+- [hassio-addons/addon-wireguard](https://github.com/hassio-addons/addon-wireguard) - WireGuard - Home Assistant Community Add-ons
+- [hassio-addons/addon-homebridge](https://github.com/hassio-addons/addon-homebridge) -  Homebridge - Community Hass.io Add-on for Home Assistant
+- [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) - UniFi Controller - Home Assistant Community Add-ons
+- [hassio-addons/addon-ssh](https://github.com/hassio-addons/addon-ssh) - SSH & Web Terminal - Home Assistant Community Add-ons
+- [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
 - [ktemkin/gnuradio-for-mac-without-macports](https://github.com/ktemkin/gnuradio-for-mac-without-macports) - GNURadio bundled as an app for Mac OS X (does not require MacPorts)
 - [sq5bpf/etherify](https://github.com/sq5bpf/etherify) - Etherify - bringing the ether back to ethernet
 - [IoT-PTv/List-of-Tools](https://github.com/IoT-PTv/List-of-Tools) - List of the tools and usage
@@ -6689,7 +6730,6 @@
 - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
 - [grondo/io-watchdog](https://github.com/grondo/io-watchdog) - Monitor processes and parallel workloads for hangs
 - [TheGrandWazoo/freenas-proxmox-packer](https://github.com/TheGrandWazoo/freenas-proxmox-packer) - The freenas-proxmox package repo for create .deb files
-- [bashclub/zfs-replication-report](https://github.com/bashclub/zfs-replication-report) - This script creates reports of your zfs replication by comparing source and target zpool and send a summary by email.
 - [pmalek/ethminer_watchdog](https://github.com/pmalek/ethminer_watchdog) - Run a watchdog on top of ethminer
 - [gilbertchen/benchmarking](https://github.com/gilbertchen/benchmarking) - A performance comparison of Duplicacy, restic, Attic, and duplicity
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server
@@ -7455,6 +7495,7 @@
 
 ## Swift 
 
+- [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow) - View MacOS and IOS battery Information
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder Extension, which allows to quck create a new symbolik links for the selected folders using mouse right-click.
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
@@ -7581,6 +7622,10 @@
 
 ## TypeScript 
 
+- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions.
+- [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
+- [mattieha/slider-button-card](https://github.com/mattieha/slider-button-card) - Lovelace Slider button card
+- [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
 - [strongloop/loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web, Windows, and Linux
