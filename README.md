@@ -156,6 +156,14 @@
 
 ## C 
 
+- [cofyc/dnscrypt-wrapper](https://github.com/cofyc/dnscrypt-wrapper) - This is dnscrypt wrapper (server-side dnscrypt proxy), which helps to add dnscrypt support to any name resolver.
+- [chaos/pdsh](https://github.com/chaos/pdsh) - A high performance, parallel remote shell utility
+- [lxc/lxcfs](https://github.com/lxc/lxcfs) - FUSE filesystem for LXC
+- [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
+- [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) - FUSE implementation for overlayfs
+- [libimobiledevice/ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
+- [relan/exfat](https://github.com/relan/exfat) - Free exFAT file system implementation
+- [moosefs/moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System (Software-Defined Storage)
 - [cbassa/strf](https://github.com/cbassa/strf) - Radio Frequency Satellite Tracking
 - [lyusupov/SoftRF](https://github.com/lyusupov/SoftRF) - :airplane:  Multifunctional, compatible DIY general aviation proximity awareness system
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
@@ -358,6 +366,7 @@
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
 - [shysaur/QLWindowsApps](https://github.com/shysaur/QLWindowsApps) - QuickLook & Spotlight plugins for Windows DLLs and EXEs
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [kilobyte/termrec](https://github.com/kilobyte/termrec) - tty recorder/player
 - [mjording/ttyrec](https://github.com/mjording/ttyrec) - ttyrec is a tty recorder. Recorded data can be played back with the included ttyplay command. ttyrec is just a derivative of script command for recording timing information with microsecond accuracy as well. It can record emacs -nw, vi, lynx, or any programs running on tty.
 - [troglobit/inadyn](https://github.com/troglobit/inadyn) - Dynamic DNS client with SSL/TLS support
@@ -516,6 +525,8 @@
 
 ## C# # 
 
+- [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
+- [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 - [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -612,6 +623,14 @@
 
 ## C++ 
 
+- [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
+- [ghostop14/gr-clenabled](https://github.com/ghostop14/gr-clenabled) - OpenCL/GPU-enabled common blocks for GNURadio
+- [jtplatt99/gr-osmosdr-kerberos](https://github.com/jtplatt99/gr-osmosdr-kerberos) - Modified gr-osmosdr libraries adding support for the common noise source on the KerberosSDR. This should allow the KerberosSDR to be more easily used in GNU Radio.
+- [rflament/loggedfs](https://github.com/rflament/loggedfs) - LoggedFS - Filesystem monitoring with Fuse
+- [nschlia/ffmpegfs](https://github.com/nschlia/ffmpegfs) - FUSE-based transcoding filesystem with video support from many formats to MP4, WebM, OGG, MP3, OPUS, MOV, ProRes or WAV.
+- [netheril96/securefs](https://github.com/netheril96/securefs) - Filesystem in userspace (FUSE) with transparent authenticated encryption
+- [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
+- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [jkuri/macstats](https://github.com/jkuri/macstats) - Mac OS X Statistics - Battery, Fans, CPU
 - [baidu/tera](https://github.com/baidu/tera) - An Internet-Scale Database.
 - [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness.
@@ -1076,6 +1095,20 @@
 
 ## Go 
 
+- [ga0/netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
+- [j-keck/lsleases](https://github.com/j-keck/lsleases) - list assigned ip from any device in your network
+- [likexian/whois](https://github.com/likexian/whois) - Go(Golang) module for domain and ip whois information query.
+- [harleo/asnip](https://github.com/harleo/asnip) - ASN target organization IP range attack surface mapping for reconnaissance, fast and lightweight
+- [yl2chen/cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang
+- [DNS-OARC/cmdns-cli](https://github.com/DNS-OARC/cmdns-cli) - Check My DNS command line client
+- [kamilsk/retry](https://github.com/kamilsk/retry) - ♻️ The most advanced interruptible mechanism to perform actions repetitively until successful.
+- [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful.
+- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers
+- [billziss-gh/cgofuse](https://github.com/billziss-gh/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
+- [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
+- [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
+- [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker
@@ -2267,6 +2300,7 @@
 
 ## HTML 
 
+- [bowood/KerberosSDR_finder](https://github.com/bowood/KerberosSDR_finder) - KerberosSDR Integration into a Google Maps API
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [qJake/HADotNet.CommandCenter](https://github.com/qJake/HADotNet.CommandCenter) - 📱 A web-based, wall-mountable command center for Home Assistant.
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
@@ -2565,6 +2599,11 @@
 
 ## JavaScript 
 
+- [TulvL/cloudflare-ip-tester](https://github.com/TulvL/cloudflare-ip-tester) - Cloudflare IP Batch Test Tool including HTTP respond time, region detection and download speed test
+- [feross/hostile](https://github.com/feross/hostile) - Simple, programmatic `/etc/hosts` manipulation (in node.js)
+- [txthinking/blackwhite](https://github.com/txthinking/blackwhite) - Domain, CIDR, IP black/white list, PAC generator
+- [20c/graphsrv](https://github.com/20c/graphsrv) - serve embeddable graphs
+- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [Hypnos3/node-red-contrib-cast](https://github.com/Hypnos3/node-red-contrib-cast) - Node-RED nodes for Chromecast and GoogleHome
 - [plasticrake/tplink-smarthome-simulator](https://github.com/plasticrake/tplink-smarthome-simulator) - TP-Link Smarthome Device Simulator
 - [zmzhang8/Photon](https://github.com/zmzhang8/Photon) - A lightweight multi-threaded downloader based on aria2.
@@ -3627,6 +3666,7 @@
 
 ## Jupyter Notebook 
 
+- [wlmeng11/rtl-ultrasound](https://github.com/wlmeng11/rtl-ultrasound) - 🔊 Ultrasound imaging with RTL-SDR
 - [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - MiXLab is a mix of multiple amazing Colab Notebooks found on the internet such as rcloneLab, RLabClone, Torrent to Google Drive Downloader and some more.
 - [eswar3/Zillow-prediction-models](https://github.com/eswar3/Zillow-prediction-models) - Machine Learning Project using Kaggle dataset
 - [adeshpande3/Kaggle-Zillow](https://github.com/adeshpande3/Kaggle-Zillow) - Repo for the $1.2 million Kaggle competition
@@ -3841,6 +3881,7 @@
 
 ## OCaml 
 
+- [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
@@ -3882,7 +3923,6 @@
 - [kerma/defaultbrowser](https://github.com/kerma/defaultbrowser) - Command line tool for getting and setting a default browser (HTTP handler) in Mac OS X
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) - Add new abilities to the macOS keep-awake utility, Amphetamine.
-- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [trufae/Therm](https://github.com/trufae/Therm) - Therm is an iTerm2 fork that aims to have good defaults and minimum features
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
@@ -3919,6 +3959,13 @@
 
 ## Others 
 
+- [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
+- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
+- [Qftm/Information_Collection_Handbook](https://github.com/Qftm/Information_Collection_Handbook) - Handbook of information collection for penetration testing and src
+- [justjavac/Google-IPs](https://github.com/justjavac/Google-IPs) - :us: Google 全球 IP 地址库
+- [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 340 lists for use in AdGuard Home or Pi-Hole.
+- [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
+- [infinit/infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [amaximus/garbage-collection-card](https://github.com/amaximus/garbage-collection-card) - Custom Lovelace card for Garbage Collection custom component
 - [maxmacstn/HA-ePaper-Display](https://github.com/maxmacstn/HA-ePaper-Display) - E-Paper display for viewing sensor data from Home Assistant.
@@ -4160,7 +4207,7 @@
 - [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
 - [peterlamar/networking-examples](https://github.com/peterlamar/networking-examples) - Collection of networking tool examples for ordinary developers
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
-- [ilzq/lovelace-soft-ui](https://github.com/ilzq/lovelace-soft-ui) - 💫 Simple and clean Lovelace configuration
+- [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫 Simple and clean Lovelace configuration
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [jitsi/jitsi-meet-release-notes](https://github.com/jitsi/jitsi-meet-release-notes) - Release notes for Jitsi Meet: the web frontend, mobile apps and mobile SDKs
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
@@ -4516,6 +4563,7 @@
 
 ## PHP 
 
+- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [tedious/Stash](https://github.com/tedious/Stash) - The place to keep your cache.
 - [jeremywillans/ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) - HA iRobot Roomba Configuration using rest980
 - [j0k3r/graby](https://github.com/j0k3r/graby) - Graby helps you extract article content from web pages
@@ -4738,6 +4786,21 @@
 
 ## Python 
 
+- [yaph/programming-languages-influence](https://github.com/yaph/programming-languages-influence) - Code to retrieve data for the programming languages influence visualizations from Freebase
+- [benedekrozemberczki/awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
+- [cea-sec/ivre](https://github.com/cea-sec/ivre) - Network recon framework.
+- [seevik2580/tor-ip-changer](https://github.com/seevik2580/tor-ip-changer) - request new identity every X seconds interval using TOR client
+- [Jiramew/spoon](https://github.com/Jiramew/spoon) - 🥄 A package for building  specific Proxy Pool for different Sites.
+- [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
+- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
+- [petotamas/DoA_simulator](https://github.com/petotamas/DoA_simulator) - Graphical RF direction finding simulator
+- [marcella-benner/cnn-kerberossdr](https://github.com/marcella-benner/cnn-kerberossdr) - Adaptation of randaller/cnn-rtlsdr that uses a KerberosSDR and can be run as a Docker container.
+- [Max-Manning/passiveRadar](https://github.com/Max-Manning/passiveRadar) - Processing code for a FM radio based passive bistatic radar
+- [yadayada/acd_cli](https://github.com/yadayada/acd_cli) - An unmaintained command line interface and FUSE filesystem for Amazon (Cloud) Drive
+- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
+- [GunshipPenguin/spreadsheetfs](https://github.com/GunshipPenguin/spreadsheetfs) - Use Google Sheets as a Filesystem to get Unlimited Free Cloud Storage
+- [tannercollin/standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) - Mount your Standard Notes as a filesystem.
+- [kobayashi/s3monkey](https://github.com/kobayashi/s3monkey) - A Python library that allows you to interact with Amazon S3 Buckets as if they are your local filesystem.
 - [leikoilja/glocaltokens](https://github.com/leikoilja/glocaltokens) - Python 3 package to fetch google home local authentication tokens and IP using google username/password or google master token
 - [rfjohnso/kerberossdr](https://github.com/rfjohnso/kerberossdr) - KerberosSDR Demo software for direction finding and passive radar
 - [petotamas/APRiL](https://github.com/petotamas/APRiL) - Passive radar signal processing library for python
@@ -6335,6 +6398,7 @@
 
 ## Ruby 
 
+- [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
 - [TransparencyToolkit/LookingGlass](https://github.com/TransparencyToolkit/LookingGlass) - Intuitive and configurable search interface for document archives.
 - [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
 - [openware/barong](https://github.com/openware/barong) - Barong auth server
@@ -6481,6 +6545,9 @@
 
 ## Rust 
 
+- [jedisct1/iptoasn-webservice](https://github.com/jedisct1/iptoasn-webservice) - Web service to map IP addresses to AS information, using iptoasn.com
+- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
+- [zargony/fuse-rs](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [casey/lexiclean](https://github.com/casey/lexiclean) - Rust library to lexically clean paths
 - [danreeves/path-clean](https://github.com/danreeves/path-clean) - A Rust implementation of `cleanname` or `path.Clean`
@@ -6679,6 +6746,10 @@
 
 ## Shell 
 
+- [trozler/whereAmI](https://github.com/trozler/whereAmI) - A short shell script that returns you your IPv4 address and its geolocation.
+- [htr-tech/track-ip](https://github.com/htr-tech/track-ip) - Advanced Ip Tracker Tool
+- [VHSgunzo/tor2tun](https://github.com/VHSgunzo/tor2tun) - tor2tun
+- [Trigus42/Private-LAN](https://github.com/Trigus42/Private-LAN) - Bring back online privacy to your home network, routing traffic trough a vpn, filtering dns queries with Pi-Hole and encrypting them with DNS-Crypt.
 - [sparanoid/live-dl](https://github.com/sparanoid/live-dl) - Monitor and download live streams from YouTube
 - [hassio-addons/addon-mqtt](https://github.com/hassio-addons/addon-mqtt) - MQTT Server & Web client - Home Assistant Community Add-ons
 - [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
@@ -7511,6 +7582,7 @@
 
 ## Swift 
 
+- [kean/Pulse](https://github.com/kean/Pulse) - Logger and Network Inspector for Apple Platforms
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow) - View MacOS and IOS battery Information
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
 - [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder Extension, which allows to quck create a new symbolik links for the selected folders using mouse right-click.
@@ -7638,12 +7710,13 @@
 
 ## TypeScript 
 
+- [Ryandev/NetStatus](https://github.com/Ryandev/NetStatus) - Internet speed & offline status monitor. Upload, download, ping, latency dashboard display
 - [plasticrake/homebridge-tplink-smarthome](https://github.com/plasticrake/homebridge-tplink-smarthome) - TP-Link Smarthome Plugin for Homebridge
 - [plasticrake/tplink-smarthome-crypto](https://github.com/plasticrake/tplink-smarthome-crypto) - TP-Link Smarthome Crypto
 - [plasticrake/tplink-smarthome-api](https://github.com/plasticrake/tplink-smarthome-api) - TP-Link Smarthome WiFi API
 - [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions.
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
-- [mattieha/slider-button-card](https://github.com/mattieha/slider-button-card) - Lovelace Slider button card
+- [mattieha/slider-button-card](https://github.com/mattieha/slider-button-card) - A button card with integrated slider
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
 - [strongloop/loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
