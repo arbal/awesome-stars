@@ -3959,6 +3959,7 @@
 
 ## Others 
 
+- [rustyshackleford36/locatarr](https://github.com/rustyshackleford36/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
 - [Qftm/Information_Collection_Handbook](https://github.com/Qftm/Information_Collection_Handbook) - Handbook of information collection for penetration testing and src
@@ -4786,6 +4787,9 @@
 
 ## Python 
 
+- [catalyst/smokeping-mtr-alert](https://github.com/catalyst/smokeping-mtr-alert) - Run MTR automatically when SmokePing triggers an alert
+- [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [yaph/programming-languages-influence](https://github.com/yaph/programming-languages-influence) - Code to retrieve data for the programming languages influence visualizations from Freebase
 - [benedekrozemberczki/awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
 - [cea-sec/ivre](https://github.com/cea-sec/ivre) - Network recon framework.
@@ -4983,7 +4987,7 @@
 - [scottbonline/sense](https://github.com/scottbonline/sense) - Sense Energy Monitor API
 - [eddiewebb/sense-to-pvoutput](https://github.com/eddiewebb/sense-to-pvoutput) - Feed Sense Energy data to PVOutput.org - realtime or backfill
 - [abhira0/frejod](https://github.com/abhira0/frejod) - Free Research Paper & Journal Downloader - extensively uses sci-hub
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [suiluj/pi-adhoc-mqtt-cluster](https://github.com/suiluj/pi-adhoc-mqtt-cluster) - Using batman-adv to connect several raspberrypi to a mesh network and creating a vernemq cluster
 - [liuwell/paperfetch](https://github.com/liuwell/paperfetch) - paperfetch can search papers from pubmed and download papers from sci-hub, it alse can get the reference and cited papers from a given article
 - [SuperBruceJia/Sci-Hub-Paper-Download-shell](https://github.com/SuperBruceJia/Sci-Hub-Paper-Download-shell) - This is an easy-to-use and convenient shell command to download papers `FOR FREE` from `Sci-Hub`!
@@ -6746,6 +6750,7 @@
 
 ## Shell 
 
+- [superman-lopez/monitor-timeouts](https://github.com/superman-lopez/monitor-timeouts) - Simple bash scrip that uses pings to checks network disconnects
 - [trozler/whereAmI](https://github.com/trozler/whereAmI) - A short shell script that returns you your IPv4 address and its geolocation.
 - [htr-tech/track-ip](https://github.com/htr-tech/track-ip) - Advanced Ip Tracker Tool
 - [VHSgunzo/tor2tun](https://github.com/VHSgunzo/tor2tun) - tor2tun
