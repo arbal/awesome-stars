@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ANTLR](#antlr)
   - [AppleScript](#applescript)
   - [Arduino](#arduino)
   - [Assembly](#assembly)
@@ -104,6 +105,10 @@
   - [XSLT](#xslt)
   - [sed](#sed)
 
+## ANTLR 
+
+- [myriadrf/LimeSDR-Mini](https://github.com/myriadrf/LimeSDR-Mini) - LimeSDR-Mini PCB Altium project
+
 ## AppleScript 
 
 - [RobTrew/prelude-applescript](https://github.com/RobTrew/prelude-applescript) - Generic functions for macOS scripting with Applescript – function names as in Hoogle
@@ -156,6 +161,8 @@
 
 ## C 
 
+- [dgiardini/rtl-ais](https://github.com/dgiardini/rtl-ais) - A simple AIS tuner and generic dual-frequency FM demodulator
+- [szpajder/dumpvdl2](https://github.com/szpajder/dumpvdl2) - VDL Mode 2 message decoder and protocol analyzer
 - [cofyc/dnscrypt-wrapper](https://github.com/cofyc/dnscrypt-wrapper) - This is dnscrypt wrapper (server-side dnscrypt proxy), which helps to add dnscrypt support to any name resolver.
 - [chaos/pdsh](https://github.com/chaos/pdsh) - A high performance, parallel remote shell utility
 - [lxc/lxcfs](https://github.com/lxc/lxcfs) - FUSE filesystem for LXC
@@ -623,6 +630,7 @@
 
 ## C++ 
 
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
 - [ghostop14/gr-clenabled](https://github.com/ghostop14/gr-clenabled) - OpenCL/GPU-enabled common blocks for GNURadio
 - [jtplatt99/gr-osmosdr-kerberos](https://github.com/jtplatt99/gr-osmosdr-kerberos) - Modified gr-osmosdr libraries adding support for the common noise source on the KerberosSDR. This should allow the KerberosSDR to be more easily used in GNU Radio.
@@ -909,7 +917,7 @@
 
 ## Common Lisp 
 
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
 
 ## Crystal 
 
@@ -2599,6 +2607,7 @@
 
 ## JavaScript 
 
+- [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [TulvL/cloudflare-ip-tester](https://github.com/TulvL/cloudflare-ip-tester) - Cloudflare IP Batch Test Tool including HTTP respond time, region detection and download speed test
 - [feross/hostile](https://github.com/feross/hostile) - Simple, programmatic `/etc/hosts` manipulation (in node.js)
 - [txthinking/blackwhite](https://github.com/txthinking/blackwhite) - Domain, CIDR, IP black/white list, PAC generator
@@ -3964,7 +3973,7 @@
 - [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
 - [Qftm/Information_Collection_Handbook](https://github.com/Qftm/Information_Collection_Handbook) - Handbook of information collection for penetration testing and src
 - [justjavac/Google-IPs](https://github.com/justjavac/Google-IPs) - :us: Google 全球 IP 地址库
-- [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 340 lists for use in AdGuard Home or Pi-Hole.
+- [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 340 lists for use in AdGuard Home, Pi-Hole or similar.
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [infinit/infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
@@ -4597,7 +4606,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Please be aware that the Issue tracker on Github is a Bug Tracker, not a Support Forum!
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Sharing powered by Chevereto (图床)
+- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Sharing powered by Chevereto
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -4787,6 +4796,7 @@
 
 ## Python 
 
+- [TomMladenov/pisdr-cyberdeck](https://github.com/TomMladenov/pisdr-cyberdeck) - 
 - [catalyst/smokeping-mtr-alert](https://github.com/catalyst/smokeping-mtr-alert) - Run MTR automatically when SmokePing triggers an alert
 - [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
