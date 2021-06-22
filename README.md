@@ -630,6 +630,7 @@
 
 ## C++ 
 
+- [hiveco/conntrack_exporter](https://github.com/hiveco/conntrack_exporter) - Prometheus exporter for tracking network connections
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
 - [ghostop14/gr-clenabled](https://github.com/ghostop14/gr-clenabled) - OpenCL/GPU-enabled common blocks for GNURadio
@@ -1103,6 +1104,11 @@
 
 ## Go 
 
+- [marcopaganini/netbackup](https://github.com/marcopaganini/netbackup) - A frontend for various backup programs (rsync, rdiff-backup, rclone) that simplifies local and remote backups.
+- [gouthamve/deadman](https://github.com/gouthamve/deadman) - A simple deadman's switch for the Prometheus AlertManager
+- [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar) - Implements support for double star (**) matches in golang's path.Match and filepath.Glob.
+- [joe-pll/minio-exporter](https://github.com/joe-pll/minio-exporter) - A Prometheus exporter for Minio cloud storage server
+- [grafana/grafana-starter-datasource-backend](https://github.com/grafana/grafana-starter-datasource-backend) - A starter for Grafana data source plugins with a backend
 - [ga0/netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
 - [j-keck/lsleases](https://github.com/j-keck/lsleases) - list assigned ip from any device in your network
 - [likexian/whois](https://github.com/likexian/whois) - Go(Golang) module for domain and ip whois information query.
@@ -2607,6 +2613,9 @@
 
 ## JavaScript 
 
+- [ahvlima/rcloneMon](https://github.com/ahvlima/rcloneMon) - Web based remote monitor for rclone jobs
+- [blgm/jfq](https://github.com/blgm/jfq) - JSONata on the command line
+- [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
 - [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [TulvL/cloudflare-ip-tester](https://github.com/TulvL/cloudflare-ip-tester) - Cloudflare IP Batch Test Tool including HTTP respond time, region detection and download speed test
 - [feross/hostile](https://github.com/feross/hostile) - Simple, programmatic `/etc/hosts` manipulation (in node.js)
@@ -3968,6 +3977,9 @@
 
 ## Others 
 
+- [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
+- [smartass08/Service-accounts-to-google-groups](https://github.com/smartass08/Service-accounts-to-google-groups) - 
+- [verticle-io/flowhook-templates](https://github.com/verticle-io/flowhook-templates) - Mapping templates for Flowhook
 - [rustyshackleford36/locatarr](https://github.com/rustyshackleford36/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
@@ -4217,7 +4229,7 @@
 - [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
 - [peterlamar/networking-examples](https://github.com/peterlamar/networking-examples) - Collection of networking tool examples for ordinary developers
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
-- [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫 Simple and clean Lovelace configuration
+- [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫  Simple and clean Lovelace configuration
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [jitsi/jitsi-meet-release-notes](https://github.com/jitsi/jitsi-meet-release-notes) - Release notes for Jitsi Meet: the web frontend, mobile apps and mobile SDKs
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
@@ -4796,6 +4808,13 @@
 
 ## Python 
 
+- [Segerberg/iphone-sms-archiver](https://github.com/Segerberg/iphone-sms-archiver) - Backup and archive your iPhone SMS and iMessages.
+- [l3uddz/cloudplow](https://github.com/l3uddz/cloudplow) - Automatic rclone remote uploader, with support for multiple remote/folder pairings.  UnionFS Cleaner functionality: Deletion of UnionFS whiteout files  and their corresponding files on rclone remotes. Automatic remote syncer: Sync between different remotes via a Scaleway server instance, that is created and destroyed at every sync.
+- [tykling/gstat_exporter](https://github.com/tykling/gstat_exporter) - Prometheus exporter for FreeBSD gstat data
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort free video editing!
+- [Wibias/hass-variables](https://github.com/Wibias/hass-variables) - Home Assistant variables component
+- [underley/annotate-influxdb](https://github.com/underley/annotate-influxdb) - Write annotations (ie for Grafana) into InfluxDB
+- [devopsmakers/python-grafannotate](https://github.com/devopsmakers/python-grafannotate) - A CLI tool to add annotations to Grafana
 - [TomMladenov/pisdr-cyberdeck](https://github.com/TomMladenov/pisdr-cyberdeck) - 
 - [catalyst/smokeping-mtr-alert](https://github.com/catalyst/smokeping-mtr-alert) - Run MTR automatically when SmokePing triggers an alert
 - [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
@@ -5662,7 +5681,6 @@
 - [jochocki/rtl2hass](https://github.com/jochocki/rtl2hass) - 
 - [xmikos/simplesoapy](https://github.com/xmikos/simplesoapy) - Simple pythonic wrapper for SoapySDR library
 - [mottosso/Qt.py](https://github.com/mottosso/Qt.py) - Minimal Python 2 & 3 shim around all Qt bindings - PySide, PySide2, PyQt4 and PyQt5.
-- [donothingloop/rtl_heatmap](https://github.com/donothingloop/rtl_heatmap) - Viewer for rtl_power CSV files written in pure JS and HTML5
 - [jvangorp/home-monitor](https://github.com/jvangorp/home-monitor) - A collection of python scripts that form a monitoring system using a publish/subscribe pattern.
 - [hardwario/bch-mqtt2influxdb](https://github.com/hardwario/bch-mqtt2influxdb) - Flexible MQTT to InfluxDB Bridge
 - [sbrudenell/eagle_exporter](https://github.com/sbrudenell/eagle_exporter) - A prometheus exporter for Rainforest Automation EAGLE-200.
@@ -6559,6 +6577,7 @@
 
 ## Rust 
 
+- [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [jedisct1/iptoasn-webservice](https://github.com/jedisct1/iptoasn-webservice) - Web service to map IP addresses to AS information, using iptoasn.com
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [zargony/fuse-rs](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE)
@@ -6760,6 +6779,10 @@
 
 ## Shell 
 
+- [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
+- [uselibrary/Aria2Drive](https://github.com/uselibrary/Aria2Drive) - Script for oneindex, aria2, AriaNG and rclone to built remote cloud storage
+- [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
+- [unguiculus/loki-minio-demo](https://github.com/unguiculus/loki-minio-demo) - Demo setup for Grafana Loki in microservices mode using MinIO as storage backend
 - [superman-lopez/monitor-timeouts](https://github.com/superman-lopez/monitor-timeouts) - Simple bash scrip that uses pings to checks network disconnects
 - [trozler/whereAmI](https://github.com/trozler/whereAmI) - A short shell script that returns you your IPv4 address and its geolocation.
 - [htr-tech/track-ip](https://github.com/htr-tech/track-ip) - Advanced Ip Tracker Tool
@@ -7524,7 +7547,7 @@
 - [danb35/freenas-iocage-heimdall](https://github.com/danb35/freenas-iocage-heimdall) - Script to install Heimdall Dashboard in a FreeNAS iocage jail
 - [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 230 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
@@ -7597,6 +7620,7 @@
 
 ## Swift 
 
+- [sheagcraig/yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command line
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and Network Inspector for Apple Platforms
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow) - View MacOS and IOS battery Information
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
@@ -7725,6 +7749,9 @@
 
 ## TypeScript 
 
+- [ryantxu/annotations-panel](https://github.com/ryantxu/annotations-panel) - Annotatoins List Panel
+- [NatelEnergy/grafana-discrete-panel](https://github.com/NatelEnergy/grafana-discrete-panel) - Show discrete events in grafana
+- [fzakaria/simple-annotations-plugin](https://github.com/fzakaria/simple-annotations-plugin) - A simple Grafana annotations plugin that works with any datasource.
 - [Ryandev/NetStatus](https://github.com/Ryandev/NetStatus) - Internet speed & offline status monitor. Upload, download, ping, latency dashboard display
 - [plasticrake/homebridge-tplink-smarthome](https://github.com/plasticrake/homebridge-tplink-smarthome) - TP-Link Smarthome Plugin for Homebridge
 - [plasticrake/tplink-smarthome-crypto](https://github.com/plasticrake/tplink-smarthome-crypto) - TP-Link Smarthome Crypto
