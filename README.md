@@ -97,6 +97,7 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [VBA](#vba)
+  - [VHDL](#vhdl)
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [Visual Basic](#visual-basic)
@@ -107,6 +108,7 @@
 
 ## ANTLR 
 
+- [myriadrf/LimeSDR-USB](https://github.com/myriadrf/LimeSDR-USB) - USB 3.0 version of the LimeSDR board
 - [myriadrf/LimeSDR-Mini](https://github.com/myriadrf/LimeSDR-Mini) - LimeSDR-Mini PCB Altium project
 
 ## AppleScript 
@@ -161,6 +163,11 @@
 
 ## C 
 
+- [hotpaw2/lmm_tcp](https://github.com/hotpaw2/lmm_tcp) - An rtl-tcp compatible, IQ server for LimeSDR Mini
+- [osqzss/LimeGPS](https://github.com/osqzss/LimeGPS) - Real-time GPS signal simulator for LimeSDR
+- [emvivre/limesdr_toolbox](https://github.com/emvivre/limesdr_toolbox) - Toolbox for the LimeSDR / LimeSDR-Mini
+- [crigler/dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
+- [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [dgiardini/rtl-ais](https://github.com/dgiardini/rtl-ais) - A simple AIS tuner and generic dual-frequency FM demodulator
 - [szpajder/dumpvdl2](https://github.com/szpajder/dumpvdl2) - VDL Mode 2 message decoder and protocol analyzer
 - [cofyc/dnscrypt-wrapper](https://github.com/cofyc/dnscrypt-wrapper) - This is dnscrypt wrapper (server-side dnscrypt proxy), which helps to add dnscrypt support to any name resolver.
@@ -292,7 +299,6 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [k-five/rinp](https://github.com/k-five/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows built on .NET Core.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -532,6 +538,8 @@
 
 ## C# # 
 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
+- [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 - [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
@@ -630,6 +638,7 @@
 
 ## C++ 
 
+- [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [hiveco/conntrack_exporter](https://github.com/hiveco/conntrack_exporter) - Prometheus exporter for tracking network connections
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
@@ -1104,6 +1113,18 @@
 
 ## Go 
 
+- [PascalMinder/GeoBlock](https://github.com/PascalMinder/GeoBlock) - Traefik middleware plugin - Deny requests based on country of origin
+- [negasus/traefik-plugin-bridge](https://github.com/negasus/traefik-plugin-bridge) - Plugin Bridge for Traefik 2
+- [traefik/plugin-blockpath](https://github.com/traefik/plugin-blockpath) - 
+- [negasus/traefik-plugin-ip2location](https://github.com/negasus/traefik-plugin-ip2location) - traefik-plugin-ip2location
+- [kevtainer/denyip](https://github.com/kevtainer/denyip) - Traefik Middleware Plugin - Deny Requests based on IP
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
+- [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email.
+- [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
+- [cardigann/cardigann](https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage and other media managers
+- [nikitavoloboev/alfred-awesome-lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Alfred workflow to search awesome lists
+- [moul/gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
+- [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
 - [marcopaganini/netbackup](https://github.com/marcopaganini/netbackup) - A frontend for various backup programs (rsync, rdiff-backup, rclone) that simplifies local and remote backups.
 - [gouthamve/deadman](https://github.com/gouthamve/deadman) - A simple deadman's switch for the Prometheus AlertManager
 - [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar) - Implements support for double star (**) matches in golang's path.Match and filepath.Glob.
@@ -2218,7 +2239,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [inkel/slacker](https://github.com/inkel/slacker) - Slack CLI to update status and presence
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Kubernetes container platform tailored for multi-cloud and multi-cluster management
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -2428,7 +2449,6 @@
 - [EliotAndres/kaggle-past-solutions](https://github.com/EliotAndres/kaggle-past-solutions) - A searchable compilation of Kaggle past solutions
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - JSON model discoverer
-- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
@@ -2614,6 +2634,16 @@
 
 ## JavaScript 
 
+- [dandv/convert-chrome-cookies-to-netscape-format](https://github.com/dandv/convert-chrome-cookies-to-netscape-format) - Convert the cookies from Chrome's Application -&gt; Storage -&gt; Cookies, into the Netscape format accepted by youtube-dl
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
+- [joelgeorgev/google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
+- [sindresorhus/kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
+- [e-alfred/ocdownloader](https://github.com/e-alfred/ocdownloader) - ocDownloader - AGPL-licensed multi-protocol download manager for Nextcloud using ARIA2, youtube-dl and Curl (supports Youtube, BitTorrent, HTTP, FTP)
+- [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio) - Local add-on manager for Stremio
+- [v0idp/Mellow](https://github.com/v0idp/Mellow) - Mellow can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming to use those services directly in your Discord client.
+- [SpaceK33z/plex2netflix](https://github.com/SpaceK33z/plex2netflix) - See how much of your media from Plex is available on Netflix.
+- [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read) - A customizable read mode web extension.
+- [KorySchneider/wikit](https://github.com/KorySchneider/wikit) - Wikipedia summaries from the command line
 - [ahvlima/rcloneMon](https://github.com/ahvlima/rcloneMon) - Web based remote monitor for rclone jobs
 - [blgm/jfq](https://github.com/blgm/jfq) - JSONata on the command line
 - [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
@@ -2837,7 +2867,7 @@
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps you build, automate and self-host internal and external tools in minutes 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
@@ -3911,6 +3941,7 @@
 
 ## Objective-C 
 
+- [matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads an .ichat binary plist file and writes newline-separated JSON to STDOUT
 - [yangshun1029/aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
 - [linkedin/cassette](https://github.com/linkedin/cassette) - An efficient, file-based FIFO Queue for iOS and macOS.
 - [macgpg/libmacgpg-free](https://github.com/macgpg/libmacgpg-free) - A drop-in replacement for GPGTools libmacgpg that disables the paywall (free MacGPG)
@@ -3979,6 +4010,12 @@
 
 ## Others 
 
+- [FUSAKLA/alertmanager-grafana-dashboard](https://github.com/FUSAKLA/alertmanager-grafana-dashboard) - Dashboard for for Grafana providing vizualization of Prometheus Alertmanager metrics.
+- [park-sang-jun/gsm-network-limesdr](https://github.com/park-sang-jun/gsm-network-limesdr) - Installation instructions for setting up GSM network using a LimeSDR Mini
+- [myriadrf/cellular-network-configs](https://github.com/myriadrf/cellular-network-configs) - Configurations for using LimeSDR hardware with Osmocom and OpenAirInterface etc.
+- [bellackn/ansible-role-proxmox-lxc](https://github.com/bellackn/ansible-role-proxmox-lxc) - Ansible role to set up LXCs on Proxmox
+- [todokku/heroku-aria2c-youtube-dl](https://github.com/todokku/heroku-aria2c-youtube-dl) - heroku and aria2c and youtube dl and rclone
+- [thoradia/thoradia](https://github.com/thoradia/thoradia) - Thoradia Add-ons Repository
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
 - [smartass08/Service-accounts-to-google-groups](https://github.com/smartass08/Service-accounts-to-google-groups) - 
 - [verticle-io/flowhook-templates](https://github.com/verticle-io/flowhook-templates) - Mapping templates for Flowhook
@@ -4587,6 +4624,7 @@
 
 ## PHP 
 
+- [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [tedious/Stash](https://github.com/tedious/Stash) - The place to keep your cache.
 - [jeremywillans/ha-rest980-roomba](https://github.com/jeremywillans/ha-rest980-roomba) - HA iRobot Roomba Configuration using rest980
@@ -4791,6 +4829,7 @@
 
 ## PowerShell 
 
+- [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - 
 - [visualblind/Scripts-collection](https://github.com/visualblind/Scripts-collection) - Collection of all my scripts
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
@@ -4810,6 +4849,24 @@
 
 ## Python 
 
+- [jamesshao8/cnn-limesdr](https://github.com/jamesshao8/cnn-limesdr) - This is based on cnn-rtlsdr. I modified it to use limesdr. It also contains python interface for lime API, similar as pyrtlsdr
+- [godfuzz3r/osmo-nitb-scripts](https://github.com/godfuzz3r/osmo-nitb-scripts) - Tools for easy deployment of osmocom stack and pentesting gsm networks with LimeSDR Mini
+- [gasparka/spectrogram](https://github.com/gasparka/spectrogram) - 80MHz bandwidth with LimeSDR-Mini and GQRX
+- [rosineygp/proxmox-pci-switcher](https://github.com/rosineygp/proxmox-pci-switcher) - Switch among Guest VMs organized by Resource Pool
+- [syncarr/syncarr](https://github.com/syncarr/syncarr) - one/two way sync of Radarr, Sonarr, or Lidarr instances
+- [autofitcloud/isitfit](https://github.com/autofitcloud/isitfit) - CLI to measure an AWS EC2/Redshift account's usage and optimize it
+- [ahmedsajid/aria2-dl](https://github.com/ahmedsajid/aria2-dl) - youtube-dl + aria2
+- [SathyaBhat/spotify-dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from your Spotify Playlist
+- [BingLingGroup/autosub](https://github.com/BingLingGroup/autosub) - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles
+- [agermanidis/autosub](https://github.com/agermanidis/autosub) - [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
+- [nosmokingbandit/Watcher3](https://github.com/nosmokingbandit/Watcher3) - 
+- [miguelangel-nubla/home-assistant-dewpoint](https://github.com/miguelangel-nubla/home-assistant-dewpoint) - Home Assistant custom component to calculate dew point using temperature and humidity sensors.
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver
+- [dolezsa/thermal_comfort](https://github.com/dolezsa/thermal_comfort) - Thermal Comfort sensor for HA (absolute humidity, heat index, dew point, thermal perception)
+- [tupton/alfred-chrome-history](https://github.com/tupton/alfred-chrome-history) - Search your Google Chrome history in Alfred
+- [deanishe/alfred-fixum](https://github.com/deanishe/alfred-fixum) - Fix Alfred 3 Python workflows affected by the Sierra/Alfred-Workflow background process bug
+- [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
+- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - (Yet Another) Awesome Curated list of (mainly) CLI applications
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
 - [Segerberg/iphone-sms-archiver](https://github.com/Segerberg/iphone-sms-archiver) - Backup and archive your iPhone SMS and iMessages.
 - [l3uddz/cloudplow](https://github.com/l3uddz/cloudplow) - Automatic rclone remote uploader, with support for multiple remote/folder pairings.  UnionFS Cleaner functionality: Deletion of UnionFS whiteout files  and their corresponding files on rclone remotes. Automatic remote syncer: Sync between different remotes via a Scaleway server instance, that is created and destroyed at every sync.
@@ -5085,7 +5142,7 @@
 - [hpe-storage/truenas-csp](https://github.com/hpe-storage/truenas-csp) - TrueNAS CORE Container Storage Provider for HPE CSI Driver for Kubernetes
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [gregoryduckworth/GoogleGeocode-HASS](https://github.com/gregoryduckworth/GoogleGeocode-HASS) - Google Location for HASS using the Google Geocode API
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection.
 - [perliedman/shadow-mapper](https://github.com/perliedman/shadow-mapper) - Generate maps of sun and shade from OpenStreetMap data
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) - Simple Python Script To Mirror Repository From Github To Gitea
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
@@ -5378,6 +5435,7 @@
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [google/upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
 - [djmaze/apprise-microservice](https://github.com/djmaze/apprise-microservice) - A small JSON API server for delivering notifications using Apprise
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -6432,6 +6490,8 @@
 
 ## Ruby 
 
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line tool
+- [leejones/alfred-grafana-dashboards-workflow](https://github.com/leejones/alfred-grafana-dashboards-workflow) - An Alfred workflow to search your Grafana dashboards and open one
 - [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
 - [TransparencyToolkit/LookingGlass](https://github.com/TransparencyToolkit/LookingGlass) - Intuitive and configurable search interface for document archives.
 - [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
@@ -6579,6 +6639,7 @@
 
 ## Rust 
 
+- [maelstrom-rs/maelstrom](https://github.com/maelstrom-rs/maelstrom) - High performance Matrix Home Server in rust.
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [jedisct1/iptoasn-webservice](https://github.com/jedisct1/iptoasn-webservice) - Web service to map IP addresses to AS information, using iptoasn.com
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
@@ -6613,6 +6674,7 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -6781,6 +6843,8 @@
 
 ## Shell 
 
+- [deflax/sysadmin](https://github.com/deflax/sysadmin) - scripts, howtos, etc. for various system administrative tasks
+- [oky2abbas/ellaco](https://github.com/oky2abbas/ellaco) - A manager for automating download lists based on youtube-dl
 - [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
 - [uselibrary/Aria2Drive](https://github.com/uselibrary/Aria2Drive) - Script for oneindex, aria2, AriaNG and rclone to built remote cloud storage
 - [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
@@ -7834,7 +7898,6 @@
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -7886,7 +7949,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [FiretableProject/firetable](https://github.com/FiretableProject/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
+- [FiretableProject/firetable](https://github.com/FiretableProject/firetable) - Unlock the full potential of Google Firestore with Excel/Google Sheets like UI.
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
 - [AlexanderLevenskikh/network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
@@ -8092,6 +8155,10 @@
 ## VBA 
 
 - [fabiogjardim/bigdata_docker](https://github.com/fabiogjardim/bigdata_docker) - Big Data Ecosystem Docker
+
+## VHDL 
+
+- [natsfr/LimeSDR_DVBSGateware](https://github.com/natsfr/LimeSDR_DVBSGateware) - Optimised gateware for lime sdr mini
 
 ## Vala 
 
