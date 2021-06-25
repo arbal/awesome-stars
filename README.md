@@ -1113,6 +1113,9 @@
 
 ## Go 
 
+- [krpn/prometheus-alert-webhooker](https://github.com/krpn/prometheus-alert-webhooker) - Convert Prometheus Alertmanager Webhook to any action
+- [openshift/autoheal](https://github.com/openshift/autoheal) - Autoheals based on monitoring alerts
+- [imgix/prometheus-am-executor](https://github.com/imgix/prometheus-am-executor) - Execute command based on Prometheus alerts
 - [PascalMinder/GeoBlock](https://github.com/PascalMinder/GeoBlock) - Traefik middleware plugin - Deny requests based on country of origin
 - [negasus/traefik-plugin-bridge](https://github.com/negasus/traefik-plugin-bridge) - Plugin Bridge for Traefik 2
 - [traefik/plugin-blockpath](https://github.com/traefik/plugin-blockpath) - 
@@ -4849,6 +4852,9 @@
 
 ## Python 
 
+- [alerta/alerta-contrib](https://github.com/alerta/alerta-contrib) - Contributed integrations, plugins and custom webhooks
+- [RobertD502/home-assistant-flair](https://github.com/RobertD502/home-assistant-flair) - Custom component for Home Assistant Core for controlling Flair vents/rooms and monitoring pucks/vents/rooms.
+- [ttolttol2/hass-flair-puck](https://github.com/ttolttol2/hass-flair-puck) - Home Assistant component for Flair puck
 - [jamesshao8/cnn-limesdr](https://github.com/jamesshao8/cnn-limesdr) - This is based on cnn-rtlsdr. I modified it to use limesdr. It also contains python interface for lime API, similar as pyrtlsdr
 - [godfuzz3r/osmo-nitb-scripts](https://github.com/godfuzz3r/osmo-nitb-scripts) - Tools for easy deployment of osmocom stack and pentesting gsm networks with LimeSDR Mini
 - [gasparka/spectrogram](https://github.com/gasparka/spectrogram) - 80MHz bandwidth with LimeSDR-Mini and GQRX
@@ -6674,7 +6680,6 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -7898,6 +7903,7 @@
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -8130,7 +8136,7 @@
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository | https://standardnotes.org
+- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository | https://standardnotes.com
 - [ethanresnick/json-api](https://github.com/ethanresnick/json-api) - Turn your node app into a JSON API server (http://jsonapi.org/)
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [ChechaValerii/node-typescript-mongodb](https://github.com/ChechaValerii/node-typescript-mongodb) - node js typescript mongodb express generator yo
