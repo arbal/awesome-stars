@@ -828,7 +828,7 @@
 - [pothosware/SoapyRemote](https://github.com/pothosware/SoapyRemote) - Use any Soapy SDR remotely
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
 - [pietern/goestools](https://github.com/pietern/goestools) - Tools to work with signals and files from GOES satellites
-- [sam210723/goestools](https://github.com/sam210723/goestools) - 📡 Demodulate LRIT downlink from geostationary meteorological satellite GK-2A (128.2˚E).
+- [sam210723/goestools](https://github.com/sam210723/goestools) - 📡 LRIT demodulator from weather satellite GEO-KOMPSAT-2A (GK-2A).
 - [mpromonet/live555helper](https://github.com/mpromonet/live555helper) - Helper for live555
 - [tud-zih-energy/FIRESTARTER](https://github.com/tud-zih-energy/FIRESTARTER) - FIRESTARTER: A Processor Stress Test Utility. This repository contains the source code generator. Our releases (including the generated source code and precompiled binaries) are available at https://tu-dresden.de/zih/firestarter/.
 - [libbitcoin/libbitcoin-protocol](https://github.com/libbitcoin/libbitcoin-protocol) - Bitcoin Blockchain Query Protocol
@@ -948,6 +948,7 @@
 
 ## Dockerfile 
 
+- [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
 - [OPHoperHPO/hassio-addons](https://github.com/OPHoperHPO/hassio-addons) - :heavy_plus_sign: Docker add-ons for Hass.io
 - [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab) - JupyterLab Lite - Home Assistant Community Add-ons
 - [hassio-addons/addon-grafana](https://github.com/hassio-addons/addon-grafana) - Grafana - Home Assistant Community Add-ons
@@ -2487,6 +2488,7 @@
 
 ## Java 
 
+- [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's message relay server for Mac
 - [voldemort/voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo.
@@ -2637,6 +2639,8 @@
 
 ## JavaScript 
 
+- [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+- [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [dandv/convert-chrome-cookies-to-netscape-format](https://github.com/dandv/convert-chrome-cookies-to-netscape-format) - Convert the cookies from Chrome's Application -&gt; Storage -&gt; Cookies, into the Netscape format accepted by youtube-dl
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [joelgeorgev/google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
@@ -4013,6 +4017,7 @@
 
 ## Others 
 
+- [wahyd4/aria2-ariang-x-docker-compose](https://github.com/wahyd4/aria2-ariang-x-docker-compose) - Docker compose files for Aria2+ AriaNg+ filerun/ Nextcloud/ h5ai + Plex.  图形化BT，磁力，离线下载，文件管理，播放，投屏
 - [FUSAKLA/alertmanager-grafana-dashboard](https://github.com/FUSAKLA/alertmanager-grafana-dashboard) - Dashboard for for Grafana providing vizualization of Prometheus Alertmanager metrics.
 - [park-sang-jun/gsm-network-limesdr](https://github.com/park-sang-jun/gsm-network-limesdr) - Installation instructions for setting up GSM network using a LimeSDR Mini
 - [myriadrf/cellular-network-configs](https://github.com/myriadrf/cellular-network-configs) - Configurations for using LimeSDR hardware with Osmocom and OpenAirInterface etc.
@@ -4852,6 +4857,7 @@
 
 ## Python 
 
+- [jbms/beancount-import](https://github.com/jbms/beancount-import) - Web UI for semi-automatically importing external data into beancount
 - [alerta/alerta-contrib](https://github.com/alerta/alerta-contrib) - Contributed integrations, plugins and custom webhooks
 - [RobertD502/home-assistant-flair](https://github.com/RobertD502/home-assistant-flair) - Custom component for Home Assistant Core for controlling Flair vents/rooms and monitoring pucks/vents/rooms.
 - [ttolttol2/hass-flair-puck](https://github.com/ttolttol2/hass-flair-puck) - Home Assistant component for Flair puck
@@ -5905,7 +5911,7 @@
 - [furushchev/respeaker_ros](https://github.com/furushchev/respeaker_ros) - A ROS Package for Respeaker Mic Array
 - [atx/prometheus-tor_exporter](https://github.com/atx/prometheus-tor_exporter) - Prometheus exporter for the TOR daemon
 - [jvstein/bitcoin-prometheus-exporter](https://github.com/jvstein/bitcoin-prometheus-exporter) - Prometheus exporter for Bitcoin Core nodes
-- [mesosphere/cloudkeeper](https://github.com/mesosphere/cloudkeeper) - Cloudkeeper - Housekeeping for Clouds
+- [someengineering/cloudkeeper](https://github.com/someengineering/cloudkeeper) - Cloudkeeper - Housekeeping for Clouds
 - [suryasev/unofficial-google-trends-api](https://github.com/suryasev/unofficial-google-trends-api) - Python-based API that uses the http site to download Google Trends data
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
@@ -6848,6 +6854,9 @@
 
 ## Shell 
 
+- [sparklespdx/limesdr-toolkit-docker](https://github.com/sparklespdx/limesdr-toolkit-docker) - GQRX and friends installed with LimeSuite in a docker container
+- [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
+- [ten7/tractorbeam](https://github.com/ten7/tractorbeam) - Open source multi-tier website backups
 - [deflax/sysadmin](https://github.com/deflax/sysadmin) - scripts, howtos, etc. for various system administrative tasks
 - [oky2abbas/ellaco](https://github.com/oky2abbas/ellaco) - A manager for automating download lists based on youtube-dl
 - [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
@@ -6980,7 +6989,7 @@
 - [DazzyWalkman/oplxc4pve](https://github.com/DazzyWalkman/oplxc4pve) - Wrapper Scripts for OpenWRT CTs on Proxmox VE
 - [openbridge/ob_bulkstash](https://github.com/openbridge/ob_bulkstash) - Bulk Stash is a docker rclone service to sync, or copy, files between different storage services. For example, you can copy files either to or from a remote storage services like Amazon S3 to Google Cloud Storage, or locally from your laptop to a remote storage.
 - [bardisty/ytdlrc](https://github.com/bardisty/ytdlrc) - :cloud: Downloads videos and metadata with youtube-dl and moves each file on completion to an rclone remote
-- [ipaqmaster/vfio](https://github.com/ipaqmaster/vfio) - A script I've made to make passing PCI devices to a VM less of a chore. I use it for single-gpu VM gaming and other PCI/LiveCD/PXE/VM/RawImage testing given the script's accessibility.
+- [ipaqmaster/vfio](https://github.com/ipaqmaster/vfio) - A script for easy pci and usb passthrough along with disks, iso's and other useful flags for quick tinkering with less of a headache. I use it for VM gaming and other PCI/LiveCD/PXE/VM/RawImage testing given the script's accessibility.
 - [tanle2694/ssh_colab](https://github.com/tanle2694/ssh_colab) - 
 - [mknoxnv/ubuntu-slurm](https://github.com/mknoxnv/ubuntu-slurm) - Steps to create a small slurm cluster with GPU enabled nodes
 - [MHA-Team/PTS-Team](https://github.com/MHA-Team/PTS-Team) - This fork serves as the basis for the continuation of the PTS project in a new form.
