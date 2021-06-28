@@ -163,6 +163,7 @@
 
 ## C 
 
+- [myriadrf/LimeSuite](https://github.com/myriadrf/LimeSuite) - Driver and GUI for LMS7002M-based SDR platforms
 - [hotpaw2/lmm_tcp](https://github.com/hotpaw2/lmm_tcp) - An rtl-tcp compatible, IQ server for LimeSDR Mini
 - [osqzss/LimeGPS](https://github.com/osqzss/LimeGPS) - Real-time GPS signal simulator for LimeSDR
 - [emvivre/limesdr_toolbox](https://github.com/emvivre/limesdr_toolbox) - Toolbox for the LimeSDR / LimeSDR-Mini
@@ -1114,6 +1115,8 @@
 
 ## Go 
 
+- [igneous-systems/s3bench](https://github.com/igneous-systems/s3bench) - S3 throughput benchmark tool
+- [giacomoguiulfo/benchio](https://github.com/giacomoguiulfo/benchio) - ⏳A minimalistic tool to benchmark AWS S3 compatible object storage services https://giacomoguiulfo.github.io/benchio/
 - [krpn/prometheus-alert-webhooker](https://github.com/krpn/prometheus-alert-webhooker) - Convert Prometheus Alertmanager Webhook to any action
 - [openshift/autoheal](https://github.com/openshift/autoheal) - Autoheals based on monitoring alerts
 - [imgix/prometheus-am-executor](https://github.com/imgix/prometheus-am-executor) - Execute command based on Prometheus alerts
@@ -4582,7 +4585,7 @@
 - [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
-- [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [yosriady/api-development-tools](https://github.com/yosriady/api-development-tools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
@@ -4857,6 +4860,7 @@
 
 ## Python 
 
+- [brianwoo/gphotos_rclone_backup](https://github.com/brianwoo/gphotos_rclone_backup) - Google Photos Albums Backup using RClone
 - [jbms/beancount-import](https://github.com/jbms/beancount-import) - Web UI for semi-automatically importing external data into beancount
 - [alerta/alerta-contrib](https://github.com/alerta/alerta-contrib) - Contributed integrations, plugins and custom webhooks
 - [RobertD502/home-assistant-flair](https://github.com/RobertD502/home-assistant-flair) - Custom component for Home Assistant Core for controlling Flair vents/rooms and monitoring pucks/vents/rooms.
@@ -6854,6 +6858,7 @@
 
 ## Shell 
 
+- [christianbaun/ossperf](https://github.com/christianbaun/ossperf) - A lightweight tool for analyzing the performance and data integrity of object-based storage services
 - [sparklespdx/limesdr-toolkit-docker](https://github.com/sparklespdx/limesdr-toolkit-docker) - GQRX and friends installed with LimeSuite in a docker container
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [ten7/tractorbeam](https://github.com/ten7/tractorbeam) - Open source multi-tier website backups
