@@ -1,4 +1,4 @@
-name: scheduled check links
+name: scheduled link check
 
 on:
   repository_dispatch:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: check links step
+      - name: check links with lychee-action
         uses: lycheeverse/lychee-action@v1.0.8
         with:
           args: --verbose --no-progress **/*.md **/*.html

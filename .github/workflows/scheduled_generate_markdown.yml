@@ -1,11 +1,11 @@
-name: scheduled update using starred
+name: scheduled generate markdown
 on:
   workflow_dispatch:
   schedule:
   - cron: 30 0 * * *
 jobs:
-  update_using_starred:
-    name: update using starred step
+  generate_README_dot_md:
+    name: generate README.md with starred
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
