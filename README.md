@@ -27,6 +27,7 @@
   - [D](#d)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [Eagle](#eagle)
   - [Elixir](#elixir)
   - [Elm](#elm)
@@ -1060,6 +1061,10 @@
 - [steren/awesome-cloudrun](https://github.com/steren/awesome-cloudrun) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [FezVrasta/rpi4-docker-compose-home-assistant](https://github.com/FezVrasta/rpi4-docker-compose-home-assistant) - 
 
+## EJS 
+
+- [daimus/dnms](https://github.com/daimus/dnms) - Another network monitoring app built with nodejs.
+
 ## Eagle 
 
 - [samyk/magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy.
@@ -1117,6 +1122,9 @@
 
 ## Go 
 
+- [chanioxaris/json-server](https://github.com/chanioxaris/json-server) - Create a dummy REST API from a json file with zero coding in seconds
+- [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Go Application Scanner
+- [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr) - LZR quickly detects and fingerprints unexpected services running on unexpected ports.
 - [openebs/dynamic-nfs-provisioner](https://github.com/openebs/dynamic-nfs-provisioner) - 
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
 - [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using ZFS.
@@ -2327,6 +2335,7 @@
 ## Groovy 
 
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
 - [brendonanderson/wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [8x8Cloud/swagger2raml](https://github.com/8x8Cloud/swagger2raml) - A utility to generate RAML documentation from Swagger JSON
@@ -2653,6 +2662,7 @@
 
 ## JavaScript 
 
+- [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
 - [montyz/photos-cleanup](https://github.com/montyz/photos-cleanup) - cleanup of os x photos library
 - [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
 - [scality/cloudserver](https://github.com/scality/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
@@ -3967,6 +3977,7 @@
 
 ## Objective-C 
 
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle
 - [matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads an .ichat binary plist file and writes newline-separated JSON to STDOUT
 - [yangshun1029/aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
 - [linkedin/cassette](https://github.com/linkedin/cassette) - An efficient, file-based FIFO Queue for iOS and macOS.
@@ -4036,6 +4047,7 @@
 
 ## Others 
 
+- [arbal/arbal.github.io](https://github.com/arbal/arbal.github.io) - Source for https://arbal.github.io
 - [kern2011/Freenas-Quicksync](https://github.com/kern2011/Freenas-Quicksync) - How to guide for getting Intel Quicksync working on Freenas
 - [wahyd4/aria2-ariang-x-docker-compose](https://github.com/wahyd4/aria2-ariang-x-docker-compose) - Docker compose files for Aria2+ AriaNg+ filerun/ Nextcloud/ h5ai + Plex.  图形化BT，磁力，离线下载，文件管理，播放，投屏
 - [FUSAKLA/alertmanager-grafana-dashboard](https://github.com/FUSAKLA/alertmanager-grafana-dashboard) - Dashboard for for Grafana providing vizualization of Prometheus Alertmanager metrics.
@@ -4154,7 +4166,7 @@
 - [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 - [bluszcz/awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.
 - [lensapp/lens-extensions](https://github.com/lensapp/lens-extensions) - List of Lens Extensions
-- [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - A curated list of my GitHub stars!
+- [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - A curated list of my GitHub stars! Generated by https://github.com/maguowei/starred w/ GitHub Actions & GitHub Pages
 - [reiver/blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
 - [alphaSeclab/sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
 - [m4ll0k/Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
@@ -4207,7 +4219,7 @@
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [laugustyniak/awesome-sentiment-analysis](https://github.com/laugustyniak/awesome-sentiment-analysis) - Repository with all what is necessary for sentiment analysis and related areas
 - [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone) - Personal Document Archiving (DMS, EDMS for Personal/Home Office use)
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [jonhadfield/awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes) - A curated list of tools and information relating to Standard Notes.
 - [bmyjacks/adlists](https://github.com/bmyjacks/adlists) - CDN powered AD filters
 - [Cauchon/NSABlocklist-pi-hole-edition](https://github.com/Cauchon/NSABlocklist-pi-hole-edition) - HOSTS file to block most known NSA / GCHQ / C.I.A. / F.B.I. spying servers. List is optimized for pi-hole.
@@ -4801,6 +4813,7 @@
 
 ## Perl 
 
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [henyxia/proxmox2netbox](https://github.com/henyxia/proxmox2netbox) - Promox information exporter
 - [oasys/mkrdns](https://github.com/oasys/mkrdns) - An automatic reverse DNS zone generator.
 - [proxmox/pve-container](https://github.com/proxmox/pve-container) - 
@@ -4827,7 +4840,6 @@
 - [miyagawa/Carmel](https://github.com/miyagawa/Carmel) - CPAN Artifact Repository Manager
 - [skaji/cpm](https://github.com/skaji/cpm) - fast CPAN client
 - [nephri/FreeNas-DiskList](https://github.com/nephri/FreeNas-DiskList) - FreeNas "Disklist" script for report informations about installed hard drives, volumes and partitions
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
 - [manuelkasper/AS-Stats](https://github.com/manuelkasper/AS-Stats) - A simple tool to generate per-AS traffic graphs from NetFlow/sFlow records
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 - [OWASP/O-Saft](https://github.com/OWASP/O-Saft) - O-Saft  - OWASP SSL advanced forensic tool
@@ -4878,6 +4890,8 @@
 
 ## Python 
 
+- [yo1frenchtoast/hermod-api](https://github.com/yo1frenchtoast/hermod-api) - HERMOD : Monitoring notification API for RouterOS
+- [Anteste/WebMap](https://github.com/Anteste/WebMap) - A Python tool used to automate the execution of the following tools : Nmap , Nikto and Dirsearch but also to automate the report generation during a Web Penetration Testing
 - [truenas/midcli](https://github.com/truenas/midcli) - NAS Command Line Interface
 - [xannor/hass_weather_template](https://github.com/xannor/hass_weather_template) - Weather Template for Home Assisstant
 - [SaraMWillis/Cloud_Storage_Benchmarking](https://github.com/SaraMWillis/Cloud_Storage_Benchmarking) - Benchmarking work for data transfer speeds between HPC, AWS S3, Google Drive, and CyVerse.
@@ -5296,7 +5310,7 @@
 - [SabyasachiRana/WebMap](https://github.com/SabyasachiRana/WebMap) - WebMap-Nmap Web Dashboard and Reporting
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Gerapy/Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for any kind of data
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) - Smart DNS proxy to watch Netflix
 - [EvaSeidlmayer/orcid-for-wikidata](https://github.com/EvaSeidlmayer/orcid-for-wikidata) - import information (affiliation, education) from ORCID database to Wikidata regarding authors of scientific papers
@@ -6503,6 +6517,7 @@
 
 ## Rascal 
 
+- [jmind-systems/wanhealththing](https://github.com/jmind-systems/wanhealththing) - RouterOS advanced WAN health monitoring
 - [Lennuj420/mikrotik-config](https://github.com/Lennuj420/mikrotik-config) - My mikrotik configuration files
 - [maxslug/mikrotik_maxslug](https://github.com/maxslug/mikrotik_maxslug) - Mikrotik configuration files for a moderately complex home network with managed access points, FTTH with authentication, multiple ISPs with failover, secure DNS, and VLANs.
 - [elmaxid/vrrp_with_sync_mikrotik](https://github.com/elmaxid/vrrp_with_sync_mikrotik) - Script for VRRP with sync config for MikroTik RouterOS
@@ -6681,6 +6696,7 @@
 
 ## Rust 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, resource-friendly link checker written in Rust. Finds broken hyperlinks and mail addresses inside Markdown, HTML, reStructuredText, and more!
 - [darrenldl/blockyarchive](https://github.com/darrenldl/blockyarchive) - Blocky archive - multithreaded archiver offering bit rot protection and sector level recoverability
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [maelstrom-rs/maelstrom](https://github.com/maelstrom-rs/maelstrom) - High performance Matrix Home Server in rust.
@@ -7856,6 +7872,7 @@
 
 ## Tcl 
 
+- [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 - [flightaware/piaware](https://github.com/flightaware/piaware) - Client-side package and programs for forwarding ADS-B data to FlightAware
 - [Unidata/ldm-docker](https://github.com/Unidata/ldm-docker) - Dockerized LDM
 
@@ -7868,6 +7885,7 @@
 
 ## TypeScript 
 
+- [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [bassrock/homebridge-flair](https://github.com/bassrock/homebridge-flair) - Homebridge Plugin for Flair Smart Vents
 - [ryantxu/annotations-panel](https://github.com/ryantxu/annotations-panel) - Annotatoins List Panel
 - [NatelEnergy/grafana-discrete-panel](https://github.com/NatelEnergy/grafana-discrete-panel) - Show discrete events in grafana
@@ -8002,7 +8020,7 @@
 - [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [FiretableProject/firetable](https://github.com/FiretableProject/firetable) - Unlock the full potential of Google Firestore with Excel/Google Sheets like UI.
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
