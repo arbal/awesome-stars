@@ -639,6 +639,8 @@
 
 ## C++ 
 
+- [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
+- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a distributed block, object and file storage platform
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [hiveco/conntrack_exporter](https://github.com/hiveco/conntrack_exporter) - Prometheus exporter for tracking network connections
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
@@ -1115,6 +1117,14 @@
 
 ## Go 
 
+- [openebs/dynamic-nfs-provisioner](https://github.com/openebs/dynamic-nfs-provisioner) - 
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
+- [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using ZFS.
+- [uber-go/dosa](https://github.com/uber-go/dosa) - DOSA is a data object abstraction layer
+- [minio/dsync](https://github.com/minio/dsync) - A distributed sync package.
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
+- [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
+- [grafana/github-datasource](https://github.com/grafana/github-datasource) - Grafana plugin for fetching stats about issues and pull requests
 - [igneous-systems/s3bench](https://github.com/igneous-systems/s3bench) - S3 throughput benchmark tool
 - [giacomoguiulfo/benchio](https://github.com/giacomoguiulfo/benchio) - ⏳A minimalistic tool to benchmark AWS S3 compatible object storage services https://giacomoguiulfo.github.io/benchio/
 - [krpn/prometheus-alert-webhooker](https://github.com/krpn/prometheus-alert-webhooker) - Convert Prometheus Alertmanager Webhook to any action
@@ -2342,6 +2352,7 @@
 
 ## HTML 
 
+- [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [bowood/KerberosSDR_finder](https://github.com/bowood/KerberosSDR_finder) - KerberosSDR Integration into a Google Maps API
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -2359,7 +2370,7 @@
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
 - [datadesk/california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas) - Simple maps of California's 58 counties
-- [FlyOrBoom/mercator](https://github.com/FlyOrBoom/mercator) - Mercator Studio is a script that applies basic camera effects for Google Meet.
+- [FlyOrBoom/mercator](https://github.com/FlyOrBoom/mercator) - Mercator Studio is a script that applies basic camera effects for Google Meet. (no longer actively developed)
 - [datar/low-latency-system](https://github.com/datar/low-latency-system) - Everything about low latency system.
 - [maxvoltar/photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [DiegoRBaquero/PeerFast](https://github.com/DiegoRBaquero/PeerFast) - ⚡️ P2P Fast.com Clone
@@ -2642,6 +2653,10 @@
 
 ## JavaScript 
 
+- [montyz/photos-cleanup](https://github.com/montyz/photos-cleanup) - cleanup of os x photos library
+- [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
+- [scality/cloudserver](https://github.com/scality/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [dandv/convert-chrome-cookies-to-netscape-format](https://github.com/dandv/convert-chrome-cookies-to-netscape-format) - Convert the cookies from Chrome's Application -&gt; Storage -&gt; Cookies, into the Netscape format accepted by youtube-dl
@@ -3677,6 +3692,7 @@
 
 ## Jinja 
 
+- [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
 - [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
 - [hassio-addons/addon-portainer](https://github.com/hassio-addons/addon-portainer) - Portainer - Home Assistant Community Add-ons
@@ -4020,6 +4036,7 @@
 
 ## Others 
 
+- [kern2011/Freenas-Quicksync](https://github.com/kern2011/Freenas-Quicksync) - How to guide for getting Intel Quicksync working on Freenas
 - [wahyd4/aria2-ariang-x-docker-compose](https://github.com/wahyd4/aria2-ariang-x-docker-compose) - Docker compose files for Aria2+ AriaNg+ filerun/ Nextcloud/ h5ai + Plex.  图形化BT，磁力，离线下载，文件管理，播放，投屏
 - [FUSAKLA/alertmanager-grafana-dashboard](https://github.com/FUSAKLA/alertmanager-grafana-dashboard) - Dashboard for for Grafana providing vizualization of Prometheus Alertmanager metrics.
 - [park-sang-jun/gsm-network-limesdr](https://github.com/park-sang-jun/gsm-network-limesdr) - Installation instructions for setting up GSM network using a LimeSDR Mini
@@ -4784,6 +4801,7 @@
 
 ## Perl 
 
+- [henyxia/proxmox2netbox](https://github.com/henyxia/proxmox2netbox) - Promox information exporter
 - [oasys/mkrdns](https://github.com/oasys/mkrdns) - An automatic reverse DNS zone generator.
 - [proxmox/pve-container](https://github.com/proxmox/pve-container) - 
 - [marchyman/GeoTag](https://github.com/marchyman/GeoTag) - Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==&gt;
@@ -4860,6 +4878,14 @@
 
 ## Python 
 
+- [truenas/midcli](https://github.com/truenas/midcli) - NAS Command Line Interface
+- [xannor/hass_weather_template](https://github.com/xannor/hass_weather_template) - Weather Template for Home Assisstant
+- [SaraMWillis/Cloud_Storage_Benchmarking](https://github.com/SaraMWillis/Cloud_Storage_Benchmarking) - Benchmarking work for data transfer speeds between HPC, AWS S3, Google Drive, and CyVerse.
+- [happy-lab/sensors_acurite](https://github.com/happy-lab/sensors_acurite) - Publish AcuRite Weather Station Sensor Data to MQTT
+- [msroest/sabnzbd_exporter](https://github.com/msroest/sabnzbd_exporter) - Prometheus exporter for sabnzbd
+- [scottx611x/google-photos-archiver](https://github.com/scottx611x/google-photos-archiver) - google-photos-archiver aims to provide a simple, fast, extensible interface to be able to back up one's Google Photos to a location of their choosing.
+- [Dany9966/gphoto-scrapper](https://github.com/Dany9966/gphoto-scrapper) - Download photos and videos from Google Photos from your CLI
+- [NickWaterton/Flair-Vents-MQTT-Interface](https://github.com/NickWaterton/Flair-Vents-MQTT-Interface) - Interface to Flair Smart vents and pucks via MQTT
 - [brianwoo/gphotos_rclone_backup](https://github.com/brianwoo/gphotos_rclone_backup) - Google Photos Albums Backup using RClone
 - [jbms/beancount-import](https://github.com/jbms/beancount-import) - Web UI for semi-automatically importing external data into beancount
 - [alerta/alerta-contrib](https://github.com/alerta/alerta-contrib) - Contributed integrations, plugins and custom webhooks
@@ -6655,6 +6681,8 @@
 
 ## Rust 
 
+- [darrenldl/blockyarchive](https://github.com/darrenldl/blockyarchive) - Blocky archive - multithreaded archiver offering bit rot protection and sector level recoverability
+- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [maelstrom-rs/maelstrom](https://github.com/maelstrom-rs/maelstrom) - High performance Matrix Home Server in rust.
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [jedisct1/iptoasn-webservice](https://github.com/jedisct1/iptoasn-webservice) - Web service to map IP addresses to AS information, using iptoasn.com
@@ -6858,6 +6886,12 @@
 
 ## Shell 
 
+- [mbrother2/butdr](https://github.com/mbrother2/butdr) - Backup to Cloud( Google Drive, Dropbox ... ) use rclone
+- [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker)
+- [kvz/nsfailover](https://github.com/kvz/nsfailover) - Let's Make DNS Outage Suck Less
+- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
+- [anthonybudd/S4](https://github.com/anthonybudd/S4) - S4 is 100% S3 compatible storage, accessed through Tor and distributed using IPFS.
+- [wolfv6/rclone_jobber](https://github.com/wolfv6/rclone_jobber) - An rclone script to perform backups
 - [christianbaun/ossperf](https://github.com/christianbaun/ossperf) - A lightweight tool for analyzing the performance and data integrity of object-based storage services
 - [sparklespdx/limesdr-toolkit-docker](https://github.com/sparklespdx/limesdr-toolkit-docker) - GQRX and friends installed with LimeSuite in a docker container
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
@@ -7834,6 +7868,7 @@
 
 ## TypeScript 
 
+- [bassrock/homebridge-flair](https://github.com/bassrock/homebridge-flair) - Homebridge Plugin for Flair Smart Vents
 - [ryantxu/annotations-panel](https://github.com/ryantxu/annotations-panel) - Annotatoins List Panel
 - [NatelEnergy/grafana-discrete-panel](https://github.com/NatelEnergy/grafana-discrete-panel) - Show discrete events in grafana
 - [fzakaria/simple-annotations-plugin](https://github.com/fzakaria/simple-annotations-plugin) - A simple Grafana annotations plugin that works with any datasource.
