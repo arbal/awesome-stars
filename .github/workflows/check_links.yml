@@ -1,4 +1,4 @@
-name: Links
+name: scheduled check links
 
 on:
   repository_dispatch:
@@ -7,12 +7,12 @@ on:
     - cron: "00 18 * * *"
 
 jobs:
-  linkChecker:
+  check_links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Link Checker
+      - name: check links step
         uses: lycheeverse/lychee-action@v1.0.8
         with:
           args: --verbose --no-progress **/*.md **/*.html

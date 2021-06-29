@@ -1,11 +1,11 @@
-name: update awesome-stars
+name: scheduled update using starred
 on:
   workflow_dispatch:
   schedule:
   - cron: 30 0 * * *
 jobs:
-  awesome-stars:
-    name: update awesome-stars
+  update_using_starred:
+    name: update using starred step
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
