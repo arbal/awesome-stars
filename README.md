@@ -221,7 +221,7 @@
 - [hwhw/alfred](https://github.com/hwhw/alfred) - Almighty Lightweight Fact Remote Exchange Daemon
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 - [pgpool/pgpool2](https://github.com/pgpool/pgpool2) - This is the official mirror of git://git.postgresql.org/git/pgpool2.git. Note that this is just a *mirror* - we don't work with issues/pull requests on github. Please visit our web site to file bug reports or submit patches.
-- [eradman/entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [FreeBSDDesktop/kms-drm](https://github.com/FreeBSDDesktop/kms-drm) - the DRM part of the linuxkpi-based KMS
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source virtual PDF printer for Windows // Print to PDF, PDF/A, PDF/X, PNG, JPEG, TIF and text
@@ -1122,6 +1122,8 @@
 
 ## Go 
 
+- [inovex/mqtt_blackbox_exporter](https://github.com/inovex/mqtt_blackbox_exporter) - Prometheus Exporter for MQTT monitoring
+- [luigifcruz/weatherdump](https://github.com/luigifcruz/weatherdump) - Multi-platform toolkit for weather satellites reception and decoding. Available for Linux, macOS, Windows and RaspberryPi.
 - [chanioxaris/json-server](https://github.com/chanioxaris/json-server) - Create a dummy REST API from a json file with zero coding in seconds
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Go Application Scanner
 - [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr) - LZR quickly detects and fingerprints unexpected services running on unexpected ports.
@@ -1383,7 +1385,6 @@
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies
 - [team-carepay/traefik-opa-plugin](https://github.com/team-carepay/traefik-opa-plugin) - Traefik plugin which connects to Open Policy Agent
-- [truecharts/apps](https://github.com/truecharts/apps) - Community App Catalog for TrueNAS SCALE
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [schollz/find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [pniedzwiedzinski/photoprism-cli](https://github.com/pniedzwiedzinski/photoprism-cli) - WIP CLI for interacting with photoprism server
@@ -2585,7 +2586,6 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [getheimdall/heimdall](https://github.com/getheimdall/heimdall) - An easy way to orchestrate your Api's
 - [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 - [yeriomin/YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store
@@ -2662,6 +2662,7 @@
 
 ## JavaScript 
 
+- [Yevgenium/lovelace-weather-card-chart](https://github.com/Yevgenium/lovelace-weather-card-chart) - Custom weather card with charts
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
 - [montyz/photos-cleanup](https://github.com/montyz/photos-cleanup) - cleanup of os x photos library
 - [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
@@ -4047,6 +4048,7 @@
 
 ## Others 
 
+- [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace
 - [arbal/arbal.github.io](https://github.com/arbal/arbal.github.io) - Source for https://arbal.github.io
 - [kern2011/Freenas-Quicksync](https://github.com/kern2011/Freenas-Quicksync) - How to guide for getting Intel Quicksync working on Freenas
 - [wahyd4/aria2-ariang-x-docker-compose](https://github.com/wahyd4/aria2-ariang-x-docker-compose) - Docker compose files for Aria2+ AriaNg+ filerun/ Nextcloud/ h5ai + Plex.  图形化BT，磁力，离线下载，文件管理，播放，投屏
@@ -4890,6 +4892,10 @@
 
 ## Python 
 
+- [custom-components/combined](https://github.com/custom-components/combined) - A camera platform that give you a combined feed of your defined camera entities.
+- [custom-components/templatesensor](https://github.com/custom-components/templatesensor) - Add template sensors from the UI.
+- [luigifcruz/software-radar](https://github.com/luigifcruz/software-radar) - Software Defined Radar with GNURadio Companion
+- [sitch-io/sensor](https://github.com/sitch-io/sensor) - Sensor software
 - [yo1frenchtoast/hermod-api](https://github.com/yo1frenchtoast/hermod-api) - HERMOD : Monitoring notification API for RouterOS
 - [Anteste/WebMap](https://github.com/Anteste/WebMap) - A Python tool used to automate the execution of the following tools : Nmap , Nikto and Dirsearch but also to automate the report generation during a Web Penetration Testing
 - [truenas/midcli](https://github.com/truenas/midcli) - NAS Command Line Interface
@@ -5219,7 +5225,7 @@
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) - A series of DAGs/Workflows to help maintain the operation of Airflow
 - [bonovoxly/coinmarketcap-exporter](https://github.com/bonovoxly/coinmarketcap-exporter) - coinmarketcap.com Prometheus Exporter
-- [fishtown-analytics/dbt](https://github.com/fishtown-analytics/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -6696,6 +6702,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, resource-friendly link checker written in Rust. Finds broken hyperlinks and mail addresses inside Markdown, HTML, reStructuredText, and more!
 - [darrenldl/blockyarchive](https://github.com/darrenldl/blockyarchive) - Blocky archive - multithreaded archiver offering bit rot protection and sector level recoverability
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
@@ -6850,7 +6857,7 @@
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [coord-e/magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
 - [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your cloudflare workers
@@ -6902,6 +6909,7 @@
 
 ## Shell 
 
+- [dslotter/HamPi](https://github.com/dslotter/HamPi) - HamPi
 - [mbrother2/butdr](https://github.com/mbrother2/butdr) - Backup to Cloud( Google Drive, Dropbox ... ) use rclone
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker)
 - [kvz/nsfailover](https://github.com/kvz/nsfailover) - Let's Make DNS Outage Suck Less
@@ -7237,7 +7245,7 @@
 - [freenas/iocage-plugin-minio](https://github.com/freenas/iocage-plugin-minio) - Artifact plugin for minio
 - [francismunch/vmbuilder](https://github.com/francismunch/vmbuilder) - Build Proxmox VM's from cloud images in just a couple of minutes
 - [Pavo-IM/Proxintosh](https://github.com/Pavo-IM/Proxintosh) - MacOS install using Proxmox on AMD system with all system components passthrough to MacOS
-- [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium
+- [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - [NOT MAINTAINED] Please use &lt;https://github.com/SeleniumHQ/docker-selenium&gt;
 - [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
 - [alex3305/home-assistant-addons](https://github.com/alex3305/home-assistant-addons) - Alex's Home Assistant Add-ons
 - [rpranshu/EternalView](https://github.com/rpranshu/EternalView) - EternalView is an all in one basic information gathering and vulnerability assessment tool
@@ -7741,6 +7749,7 @@
 
 ## Smarty 
 
+- [truecharts/apps](https://github.com/truecharts/apps) - Community App Catalog for TrueNAS SCALE
 - [clayshek/ans-pve-win-templ](https://github.com/clayshek/ans-pve-win-templ) - Ansible playbook to create Proxmox Windows VM templates
 - [pagong/jitsi-meet-on-k3os](https://github.com/pagong/jitsi-meet-on-k3os) - Run Jitsi Meet as K8s pods on K3os.
 - [billimek/billimek-charts](https://github.com/billimek/billimek-charts) - DEPRECATED - new home is https://github.com/k8s-at-home/charts
@@ -7885,6 +7894,7 @@
 
 ## TypeScript 
 
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [bassrock/homebridge-flair](https://github.com/bassrock/homebridge-flair) - Homebridge Plugin for Flair Smart Vents
 - [ryantxu/annotations-panel](https://github.com/ryantxu/annotations-panel) - Annotatoins List Panel
