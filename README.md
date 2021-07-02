@@ -132,6 +132,7 @@
 
 ## Arduino 
 
+- [samyk/dingdong](https://github.com/samyk/dingdong) - Digital Ding Dong Ditch -- RTL-SDR + Arduino + GSM/SMS/FONA + RF + GQRX to hack a wireless doorbell from a text message
 - [yacko1975/WeatherStation](https://github.com/yacko1975/WeatherStation) - Acurite 5n1 pro and 06044-tx  Sensor Reader
 - [sirleech/Webduino](https://github.com/sirleech/Webduino) - Arduino WebServer library
 
@@ -164,6 +165,11 @@
 
 ## C 
 
+- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
+- [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+- [TrevorAttema/OTGMessenger](https://github.com/TrevorAttema/OTGMessenger) - Off The Grid Messenger
+- [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
+- [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
 - [myriadrf/LimeSuite](https://github.com/myriadrf/LimeSuite) - Driver and GUI for LMS7002M-based SDR platforms
 - [hotpaw2/lmm_tcp](https://github.com/hotpaw2/lmm_tcp) - An rtl-tcp compatible, IQ server for LimeSDR Mini
 - [osqzss/LimeGPS](https://github.com/osqzss/LimeGPS) - Real-time GPS signal simulator for LimeSDR
@@ -540,6 +546,7 @@
 
 ## C# # 
 
+- [reactiveui/Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
@@ -640,6 +647,12 @@
 
 ## C++ 
 
+- [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
+- [gnuradio/gr-bokehgui](https://github.com/gnuradio/gr-bokehgui) - Web based display for GNU Radio applications
+- [mgp25/OpenLTE](https://github.com/mgp25/OpenLTE) - An open source 3GPP LTE implementation.
+- [gnss-sdr/gnss-sdr](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR, an open-source software-defined GNSS receiver
+- [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
+- [myriadrf/ExtIO_LimeSDR](https://github.com/myriadrf/ExtIO_LimeSDR) - LimeSDR ExtIO Plugin for HDSDR
 - [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a distributed block, object and file storage platform
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
@@ -865,6 +878,7 @@
 
 ## CMake 
 
+- [pothosware/PothosSDR](https://github.com/pothosware/PothosSDR) - Pothos SDR windows development environment
 - [stwunsch/gr-nacl](https://github.com/stwunsch/gr-nacl) - GNU Radio module for data encryption using NaCl library
 
 ## CSS 
@@ -919,6 +933,7 @@
 
 ## CoffeeScript 
 
+- [node-cache/node-cache](https://github.com/node-cache/node-cache) - a node internal (in-memory) caching module
 - [andreyvit/json-diff](https://github.com/andreyvit/json-diff) - Structural diff for JSON files
 - [AngryLoki/wikidata-graph-builder](https://github.com/AngryLoki/wikidata-graph-builder) - Visualize Wikidata items using d3.js
 - [github/hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
@@ -1071,6 +1086,7 @@
 
 ## Elixir 
 
+- [route/mogrify](https://github.com/route/mogrify) - Image processing in Elixir (ImageMagick command line wrapper)
 - [Nebo15/annon.api](https://github.com/Nebo15/annon.api) - Configurable API gateway that acts as a reverse proxy with a plugin system.
 - [holsee/chroxy](https://github.com/holsee/chroxy) - Headless Chrome as a Service
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
@@ -1122,6 +1138,11 @@
 
 ## Go 
 
+- [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
+- [gregjones/httpcache](https://github.com/gregjones/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC
+- [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [inovex/mqtt_blackbox_exporter](https://github.com/inovex/mqtt_blackbox_exporter) - Prometheus Exporter for MQTT monitoring
 - [luigifcruz/weatherdump](https://github.com/luigifcruz/weatherdump) - Multi-platform toolkit for weather satellites reception and decoding. Available for Linux, macOS, Windows and RaspberryPi.
 - [chanioxaris/json-server](https://github.com/chanioxaris/json-server) - Create a dummy REST API from a json file with zero coding in seconds
@@ -2662,6 +2683,24 @@
 
 ## JavaScript 
 
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved during my Google interview preparation.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [yeoman/generator](https://github.com/yeoman/generator) - Rails-inspired generator system that provides scaffolding for your apps
+- [ncform/ncform](https://github.com/ncform/ncform) - 🍻 ncform, a very nice configuration generation way to develop forms ( vue, json-schema, form, generator )
+- [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator) - 🍱 A macOS app to generate app icons
+- [vuegg/vuegg](https://github.com/vuegg/vuegg) - :hatching_chick: vue GUI generator
+- [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
+- [zkat/cacache](https://github.com/zkat/cacache) - 💩💵 but for your data. If you've got the hash, we've got the cache ™ (moved)
+- [tes/compoxure](https://github.com/tes/compoxure) - Proxy middleware for express that enables composition of microservices.
+- [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
+- [lukechilds/keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends
+- [onticsoluciones/RFMap](https://github.com/onticsoluciones/RFMap) - RFMap - Radio Frequency Mapper
 - [Yevgenium/lovelace-weather-card-chart](https://github.com/Yevgenium/lovelace-weather-card-chart) - Custom weather card with charts
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
 - [montyz/photos-cleanup](https://github.com/montyz/photos-cleanup) - cleanup of os x photos library
@@ -3752,6 +3791,8 @@
 
 ## Jupyter Notebook 
 
+- [daniestevez/gr-satellites](https://github.com/daniestevez/gr-satellites) - GNU Radio decoders for several Amateur satellites
+- [Hack4Eugene/SpeedUpAmerica](https://github.com/Hack4Eugene/SpeedUpAmerica) - Crowd-sourced internet speed tests using M-Lab data and user tests on a website, with charts, maps, and raw data downloads.
 - [wlmeng11/rtl-ultrasound](https://github.com/wlmeng11/rtl-ultrasound) - 🔊 Ultrasound imaging with RTL-SDR
 - [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - MiXLab is a mix of multiple amazing Colab Notebooks found on the internet such as rcloneLab, RLabClone, Torrent to Google Drive Downloader and some more.
 - [eswar3/Zillow-prediction-models](https://github.com/eswar3/Zillow-prediction-models) - Machine Learning Project using Kaggle dataset
@@ -3872,6 +3913,7 @@
 
 ## Lua 
 
+- [ledgetech/ledge](https://github.com/ledgetech/ledge) - An RFC compliant and ESI capable HTTP cache for Nginx / OpenResty, backed by Redis
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -3978,6 +4020,7 @@
 
 ## Objective-C 
 
+- [jslegendre/tccplus](https://github.com/jslegendre/tccplus) - tccutil with extended capabilities.  Grant/remove accessibility permissions to any app.
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle
 - [matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads an .ichat binary plist file and writes newline-separated JSON to STDOUT
 - [yangshun1029/aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
@@ -4048,6 +4091,11 @@
 
 ## Others 
 
+- [arbal/mac-chrome](https://github.com/arbal/mac-chrome) - :apple: :link: macOS Google Chrome.app scripts
+- [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and trasmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR and signal processing using GNU Radio on Orange PI. GUI on a web browser.
+- [jakeson21/gr-limesdr-examples](https://github.com/jakeson21/gr-limesdr-examples) - GNURadio LimeSDR Mini Examples
+- [cn0xroot/gr-replay](https://github.com/cn0xroot/gr-replay) - signal record and replay flow graph for Gnuradio
+- [toleda/wireless_broadcom](https://github.com/toleda/wireless_broadcom) - macOS Broadcom WiFi and Bluetooth
 - [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace
 - [arbal/arbal.github.io](https://github.com/arbal/arbal.github.io) - Source for https://arbal.github.io
 - [kern2011/Freenas-Quicksync](https://github.com/kern2011/Freenas-Quicksync) - How to guide for getting Intel Quicksync working on Freenas
@@ -4666,6 +4714,7 @@
 
 ## PHP 
 
+- [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) - A small, indipendent wrapper to get pretty versions strings
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [tedious/Stash](https://github.com/tedious/Stash) - The place to keep your cache.
@@ -4892,6 +4941,19 @@
 
 ## Python 
 
+- [rytilahti/homeassistant-upnp-availability](https://github.com/rytilahti/homeassistant-upnp-availability) - UPnP Availability sensor for Home Assistant
+- [simonw/datasette-graphql](https://github.com/simonw/datasette-graphql) - Datasette plugin providing an automatic GraphQL API for your SQLite databases
+- [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python module to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files
+- [swz30/MPRNet](https://github.com/swz30/MPRNet) - Official repository for "Multi-Stage Progressive Image Restoration" (CVPR 2021). SOTA results for image deblurring, deraining, and denoising.
+- [andrewp-as-is/chrome-bookmarks.py](https://github.com/andrewp-as-is/chrome-bookmarks.py) - :link: Google Chrome bookmarks helper
+- [andrewp-as-is/applescript.py](https://github.com/andrewp-as-is/applescript.py) - :apple: :snake: run applescript
+- [youdroid/home-assistant-gitea](https://github.com/youdroid/home-assistant-gitea) - 🍵 Gitea component to follow your repositories
+- [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
+- [tortilla/tortilla](https://github.com/tortilla/tortilla) - Wrapping web APIs made easy.
+- [dnalencastre/diatomite](https://github.com/dnalencastre/diatomite) - Software to monitor radio frequency activity
+- [myriadrf/ScratchRadio](https://github.com/myriadrf/ScratchRadio) - Educational software for use with the LimeSDR platform
+- [mgp25/RF-List](https://github.com/mgp25/RF-List) - RFSec tools
+- [tesorrells/RF-Drone-Detection](https://github.com/tesorrells/RF-Drone-Detection) - 
 - [custom-components/combined](https://github.com/custom-components/combined) - A camera platform that give you a combined feed of your defined camera entities.
 - [custom-components/templatesensor](https://github.com/custom-components/templatesensor) - Add template sensors from the UI.
 - [luigifcruz/software-radar](https://github.com/luigifcruz/software-radar) - Software Defined Radar with GNURadio Companion
@@ -6492,6 +6554,7 @@
 
 ## R 
 
+- [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
 - [yufree/scifetch](https://github.com/yufree/scifetch) - webpage crawling tools for pubmed, google scholar and rss
 - [daattali/addinslist](https://github.com/daattali/addinslist) - 📜 Discover and install useful RStudio addins
@@ -6702,6 +6765,9 @@
 
 ## Rust 
 
+- [jedisct1/edgedns](https://github.com/jedisct1/edgedns) - A high performance DNS cache designed for Content Delivery Networks
+- [valeriansaliou/bloom](https://github.com/valeriansaliou/bloom) - :cherry_blossom: HTTP REST API caching middleware, to be used between load balancers and REST API workers.
+- [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, resource-friendly link checker written in Rust. Finds broken hyperlinks and mail addresses inside Markdown, HTML, reStructuredText, and more!
 - [darrenldl/blockyarchive](https://github.com/darrenldl/blockyarchive) - Blocky archive - multithreaded archiver offering bit rot protection and sector level recoverability
@@ -6879,12 +6945,14 @@
 
 ## SCSS 
 
+- [racerxdl/sat4noobs](https://github.com/racerxdl/sat4noobs) - Satellite 4 Noobs - Powered by He4rt Devs
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mbolam/DSWS_OpenRefine](https://github.com/mbolam/DSWS_OpenRefine) - Cleaning and Linking Data with OpenRefine
 
 ## Sass 
 
+- [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps
 - [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
 
 ## Scala 
@@ -6909,6 +6977,17 @@
 
 ## Shell 
 
+- [erkules/docker-stacks](https://github.com/erkules/docker-stacks) - Simple Stacks for Docker Swarm Mode
+- [kenchan0130/TCC-Permitter](https://github.com/kenchan0130/TCC-Permitter) - Allow services that are denied in the TCC database.
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+- [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
+- [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+- [txthinking/google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
+- [andrewp-as-is/mkcache](https://github.com/andrewp-as-is/mkcache) - make cache file. inspired by 'mktemp'
+- [smallmuou/ios-icon-generator](https://github.com/smallmuou/ios-icon-generator) - This script is use to generate iOS/macOS/watchOS app icons more easier.
+- [gyaresu/sdr](https://github.com/gyaresu/sdr) - A showcase of tools you can use with Software Defined Radio
+- [SDRWaveRunner/specmon](https://github.com/SDRWaveRunner/specmon) - Statistical Spectrum Monitoring
 - [dslotter/HamPi](https://github.com/dslotter/HamPi) - HamPi
 - [mbrother2/butdr](https://github.com/mbrother2/butdr) - Backup to Cloud( Google Drive, Dropbox ... ) use rclone
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) sqlite3 database by rclone. (Docker)
@@ -7887,6 +7966,7 @@
 
 ## TeX 
 
+- [dimitriblock/gr-cheatsheet](https://github.com/dimitriblock/gr-cheatsheet) - Cheatsheet for gnuradio
 - [GerHobbelt/qiqqa-open-source](https://github.com/GerHobbelt/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows (a bleeding edge dev fork) ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・    ☞☞☞ File any issues you find in the main repo issue tracker at https://github.com/jimmejardine/qiqqa-open-source/issues
 - [jimmejardine/qiqqa-open-source](https://github.com/jimmejardine/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
@@ -7894,6 +7974,12 @@
 
 ## TypeScript 
 
+- [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
+- [balenalabs/balena-sound](https://github.com/balenalabs/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
+- [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
+- [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
+- [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
+- [kuitos/axios-extensions](https://github.com/kuitos/axios-extensions) - 🍱 axios extensions lib, including throttle, cache, retry features etc...
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [bassrock/homebridge-flair](https://github.com/bassrock/homebridge-flair) - Homebridge Plugin for Flair Smart Vents
@@ -7951,7 +8037,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [playwright-community/playwright-jest-examples](https://github.com/playwright-community/playwright-jest-examples) - Demonstrates the usage of Playwright (cross-browser automation library in Node.js) in combination with Jest on GitHub Actions to test various setups.
@@ -8250,6 +8336,7 @@
 
 ## Vim script 
 
+- [bastibl/instant-gnuradio](https://github.com/bastibl/instant-gnuradio) - Customizable GNU Radio Environment for Live Images and VMs
 - [stsewd/fzf-checkout.vim](https://github.com/stsewd/fzf-checkout.vim) - Manage branches and tags with fzf
 - [ryjo1026/.dotfiles](https://github.com/ryjo1026/.dotfiles) - Personal dotfiles managed with dotbot
 - [nisaacson/dotfiles](https://github.com/nisaacson/dotfiles) - 
