@@ -165,6 +165,9 @@
 
 ## C 
 
+- [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
+- [libarchive/libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 - [TrevorAttema/OTGMessenger](https://github.com/TrevorAttema/OTGMessenger) - Off The Grid Messenger
@@ -647,6 +650,7 @@
 
 ## C++ 
 
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [gnuradio/gr-bokehgui](https://github.com/gnuradio/gr-bokehgui) - Web based display for GNU Radio applications
 - [mgp25/OpenLTE](https://github.com/mgp25/OpenLTE) - An open source 3GPP LTE implementation.
@@ -1138,6 +1142,8 @@
 
 ## Go 
 
+- [calavera/docker-volume-glusterfs](https://github.com/calavera/docker-volume-glusterfs) - [UNMAINTAINED] Volume plugin to use GlusterFS as distributed data storage
+- [sapk/docker-volume-gvfs](https://github.com/sapk/docker-volume-gvfs) - Use GVfs as a backend for docker volume
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [gregjones/httpcache](https://github.com/gregjones/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC
@@ -2453,7 +2459,6 @@
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
 - [homelabos/homelabos](https://github.com/homelabos/homelabos) - Unofficial GitHub mirror of HomelabOS (Don't issue PRs to this repo).
-- [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [truenas/documentation](https://github.com/truenas/documentation) - TrueNAS Documentation Hub
 - [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -2683,6 +2688,8 @@
 
 ## JavaScript 
 
+- [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool
+- [imnik11/Google-Photos-Unlimited-Storage](https://github.com/imnik11/Google-Photos-Unlimited-Storage) - As google provides with the facility of unlimited data storage on google photos we can easily store any file with the help of this repo.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
@@ -3759,6 +3766,7 @@
 - [enys/traefik_prometheus_dashboard](https://github.com/enys/traefik_prometheus_dashboard) - Graphana dashboard for prometheus metrics from Traefik v2
 - [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp) - Ansible Role - NTP
 - [hassio-addons/repository-beta](https://github.com/hassio-addons/repository-beta) - BETA - Home Assistant Community Add-ons
+- [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden (Vaultwarden) - Home Assistant Community Add-ons
 - [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
 - [iancleary/ansible-role-zsh](https://github.com/iancleary/ansible-role-zsh) - Ansible role to install ZSH, with the ohmyzshplugin manager
@@ -4091,6 +4099,7 @@
 
 ## Others 
 
+- [Tolaris/mikrotik-dns-dhcp](https://github.com/Tolaris/mikrotik-dns-dhcp) - Tool to syncronise DHCP lease names with DNS hostnames on Mikrotik routers.
 - [arbal/mac-chrome](https://github.com/arbal/mac-chrome) - :apple: :link: macOS Google Chrome.app scripts
 - [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and trasmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR and signal processing using GNU Radio on Orange PI. GUI on a web browser.
 - [jakeson21/gr-limesdr-examples](https://github.com/jakeson21/gr-limesdr-examples) - GNURadio LimeSDR Mini Examples
@@ -4941,6 +4950,10 @@
 
 ## Python 
 
+- [orangeturtle739/photos-export](https://github.com/orangeturtle739/photos-export) - Apple Photos export tool
+- [patrikhson/photo-export](https://github.com/patrikhson/photo-export) - Export photos from Apple Photo.App
+- [ComansServices/Project-Armadillo](https://github.com/ComansServices/Project-Armadillo) - Nmap Web Dashboard and Reporting
+- [pageflt/ansible-jailventory](https://github.com/pageflt/ansible-jailventory) - Ansible dynamic inventory provider for FreeBSD jails.
 - [rytilahti/homeassistant-upnp-availability](https://github.com/rytilahti/homeassistant-upnp-availability) - UPnP Availability sensor for Home Assistant
 - [simonw/datasette-graphql](https://github.com/simonw/datasette-graphql) - Datasette plugin providing an automatic GraphQL API for your SQLite databases
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python module to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files
@@ -5005,7 +5018,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [yaph/programming-languages-influence](https://github.com/yaph/programming-languages-influence) - Code to retrieve data for the programming languages influence visualizations from Freebase
 - [benedekrozemberczki/awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
-- [cea-sec/ivre](https://github.com/cea-sec/ivre) - Network recon framework.
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR
 - [seevik2580/tor-ip-changer](https://github.com/seevik2580/tor-ip-changer) - request new identity every X seconds interval using TOR client
 - [Jiramew/spoon](https://github.com/Jiramew/spoon) - 🥄 A package for building  specific Proxy Pool for different Sites.
 - [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
@@ -6586,6 +6599,7 @@
 
 ## Rascal 
 
+- [svlsResearch/ha-mikrotik](https://github.com/svlsResearch/ha-mikrotik) - High availability code for Mikrotik routers
 - [jmind-systems/wanhealththing](https://github.com/jmind-systems/wanhealththing) - RouterOS advanced WAN health monitoring
 - [Lennuj420/mikrotik-config](https://github.com/Lennuj420/mikrotik-config) - My mikrotik configuration files
 - [maxslug/mikrotik_maxslug](https://github.com/maxslug/mikrotik_maxslug) - Mikrotik configuration files for a moderately complex home network with managed access points, FTTH with authentication, multiple ISPs with failover, secure DNS, and VLANs.
@@ -6765,6 +6779,7 @@
 
 ## Rust 
 
+- [fnichol/iocage-provision](https://github.com/fnichol/iocage-provision) - Creates an iocage based FreeBSD jail
 - [jedisct1/edgedns](https://github.com/jedisct1/edgedns) - A high performance DNS cache designed for Content Delivery Networks
 - [valeriansaliou/bloom](https://github.com/valeriansaliou/bloom) - :cherry_blossom: HTTP REST API caching middleware, to be used between load balancers and REST API workers.
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library.
@@ -6977,6 +6992,9 @@
 
 ## Shell 
 
+- [balenalabs-incubator/balena-homeassistant](https://github.com/balenalabs-incubator/balena-homeassistant) - Raspberry Pi + Home Assistant + balenaSense
+- [adrian-gheorghe/wait](https://github.com/adrian-gheorghe/wait) - This script waits for a host or multiple hosts to respond on a TCP port but can also wait for a command to output a value.
+- [pschmitt/home-assistant-addons](https://github.com/pschmitt/home-assistant-addons) - Home Assistant addons by pschmitt
 - [erkules/docker-stacks](https://github.com/erkules/docker-stacks) - Simple Stacks for Docker Swarm Mode
 - [kenchan0130/TCC-Permitter](https://github.com/kenchan0130/TCC-Permitter) - Allow services that are denied in the TCC database.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
@@ -7843,6 +7861,7 @@
 
 ## Swift 
 
+- [AndreYonadam/google-takeout-to-apple-photos](https://github.com/AndreYonadam/google-takeout-to-apple-photos) - Migrate your photos and videos from Google Photos to Apple Photos via Google Takeout
 - [sheagcraig/yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command line
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and Network Inspector for Apple Platforms
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow) - View MacOS and IOS battery Information
@@ -7947,7 +7966,7 @@
 - [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 - [sindresorhus/do-not-disturb](https://github.com/sindresorhus/do-not-disturb) - Control the macOS `Do Not Disturb` feature
 - [xzzz9097/Muse](https://github.com/xzzz9097/Muse) - An open-source Spotify controller with TouchBar support
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [getoffmyhack/waveSDR](https://github.com/getoffmyhack/waveSDR) - macOS native desktop Software Defined Radio app
 - [KrauseFx/overkill-for-mac](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
@@ -8080,7 +8099,7 @@
 - [beele/homebridge-unifi-protect-camera-motion](https://github.com/beele/homebridge-unifi-protect-camera-motion) - Camera & Motion sensor support for Unifi Protect cameras in Homekit via Homebridge
 - [hjdhjd/homebridge-blinds-cmd](https://github.com/hjdhjd/homebridge-blinds-cmd) - :sunrise: Homebridge plugin to enable window blinds to be controlled by executing a command line.
 - [milo526/homebridge-tuya-web](https://github.com/milo526/homebridge-tuya-web) - Hoobs and Homebridge plugin for Tuya devices using Home Assistant Tuya Web Api
-- [kbrashears5/homebridge-schedule](https://github.com/kbrashears5/homebridge-schedule) - Scheduled, repeatable triggers for Homebridge automation with HomeKit
+- [kbrashears5/typescript-homebridge-schedule](https://github.com/kbrashears5/typescript-homebridge-schedule) - Scheduled, repeatable triggers for Homebridge automation with HomeKit
 - [JosephDuffy/homebridge-pc-volume](https://github.com/JosephDuffy/homebridge-pc-volume) - Homebridge plugin to control your computer's volume using HomeKit and Siri
 - [homebridge/plugin-ui-utils](https://github.com/homebridge/plugin-ui-utils) - Create fully customisable configuration user interfaces for Homebridge plugins.
 - [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io
