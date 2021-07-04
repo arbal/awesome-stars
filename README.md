@@ -165,12 +165,13 @@
 
 ## C 
 
+- [triq-org/tx_tools](https://github.com/triq-org/tx_tools) - tx_sdr tool for transmitting data to SDRs using SoapySDR
+- [TrevorAttema/OTGMessenger](https://github.com/TrevorAttema/OTGMessenger) - Off The Grid Messenger
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [libarchive/libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
-- [TrevorAttema/OTGMessenger](https://github.com/TrevorAttema/OTGMessenger) - Off The Grid Messenger
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
 - [myriadrf/LimeSuite](https://github.com/myriadrf/LimeSuite) - Driver and GUI for LMS7002M-based SDR platforms
@@ -1142,6 +1143,7 @@
 
 ## Go 
 
+- [appscode/osm](https://github.com/appscode/osm) - 🚚 ☁️ Object Store Manipulator - curl for cloud storage
 - [calavera/docker-volume-glusterfs](https://github.com/calavera/docker-volume-glusterfs) - [UNMAINTAINED] Volume plugin to use GlusterFS as distributed data storage
 - [sapk/docker-volume-gvfs](https://github.com/sapk/docker-volume-gvfs) - Use GVfs as a backend for docker volume
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
@@ -1530,7 +1532,7 @@
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [btcsuite/btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
@@ -1841,7 +1843,7 @@
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [suyashkumar/getbin](https://github.com/suyashkumar/getbin) - 💻 Easily fetch latest GitHub release binaries (for your OS/arch) using just wget or curl
-- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open and extensible integrated development environment (IDE) for computer vision with built-in modules for model building, automated labeling, data processing, model training, hyperparameter tuning and workflow orchestration.
+- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open and extensible end-to-end computer vision platform with built-in modules for model building, automated labeling, data processing, model training, hyperparameter tuning, workflow orchestration and serverless inference.
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [mhristof/paste](https://github.com/mhristof/paste) - An alfred workflow to transform your clipboard
@@ -2389,6 +2391,7 @@
 
 ## HTML 
 
+- [balena-os/balena-os](https://github.com/balena-os/balena-os) - The central place for all things BalenaOS related.
 - [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [bowood/KerberosSDR_finder](https://github.com/bowood/KerberosSDR_finder) - KerberosSDR Integration into a Google Maps API
@@ -2688,6 +2691,8 @@
 
 ## JavaScript 
 
+- [nepeee/limeSNA](https://github.com/nepeee/limeSNA) - Scalar Network Analyser for the LimeSDR mini
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) - Node-RED - Home Assistant Community Add-ons
 - [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool
 - [imnik11/Google-Photos-Unlimited-Storage](https://github.com/imnik11/Google-Photos-Unlimited-Storage) - As google provides with the facility of unlimited data storage on google photos we can easily store any file with the help of this repo.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
@@ -2696,7 +2701,7 @@
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved during my Google interview preparation.
+- [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [yeoman/generator](https://github.com/yeoman/generator) - Rails-inspired generator system that provides scaffolding for your apps
 - [ncform/ncform](https://github.com/ncform/ncform) - 🍻 ncform, a very nice configuration generation way to develop forms ( vue, json-schema, form, generator )
@@ -4099,6 +4104,10 @@
 
 ## Others 
 
+- [dasdboot/multi-channel-gnss](https://github.com/dasdboot/multi-channel-gnss) - Advanced GPS based on LimeSDR board by Lime Microsystems
+- [balena-io-playground/awesome-balena](https://github.com/balena-io-playground/awesome-balena) - A curated list of helpful balena.io resources.
+- [balenalabs/balena-sense](https://github.com/balenalabs/balena-sense) - Take readings from a BME680 sensor or Sense-HAT on a Pi or Pi Zero, store with InfluxDB and view with Grafana
+- [Rbillon59/home-assistant-addons](https://github.com/Rbillon59/home-assistant-addons) - Repository of self made addons
 - [Tolaris/mikrotik-dns-dhcp](https://github.com/Tolaris/mikrotik-dns-dhcp) - Tool to syncronise DHCP lease names with DNS hostnames on Mikrotik routers.
 - [arbal/mac-chrome](https://github.com/arbal/mac-chrome) - :apple: :link: macOS Google Chrome.app scripts
 - [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and trasmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR and signal processing using GNU Radio on Orange PI. GUI on a web browser.
@@ -4758,7 +4767,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Please be aware that the Issue tracker on Github is a Bug Tracker, not a Support Forum!
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Sharing powered by Chevereto
+- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -4950,6 +4959,9 @@
 
 ## Python 
 
+- [wallnerryan/fio-tools](https://github.com/wallnerryan/fio-tools) - Tools for using FIO benchmarking, creating GNUPlots and serving them via Docker.
+- [theirix/google-photo-dedup](https://github.com/theirix/google-photo-dedup) - Google Photo deduplication
+- [agileek/hassio-addons](https://github.com/agileek/hassio-addons) - Some home assistant addons I manage
 - [orangeturtle739/photos-export](https://github.com/orangeturtle739/photos-export) - Apple Photos export tool
 - [patrikhson/photo-export](https://github.com/patrikhson/photo-export) - Export photos from Apple Photo.App
 - [ComansServices/Project-Armadillo](https://github.com/ComansServices/Project-Armadillo) - Nmap Web Dashboard and Reporting
@@ -6992,6 +7004,9 @@
 
 ## Shell 
 
+- [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
+- [thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons) - My collection of addons for Home Assistant
+- [osixia/docker-light-baseimage](https://github.com/osixia/docker-light-baseimage) - A docker image to build reliable single process or multiple process images quickly 🐳 ✨
 - [balenalabs-incubator/balena-homeassistant](https://github.com/balenalabs-incubator/balena-homeassistant) - Raspberry Pi + Home Assistant + balenaSense
 - [adrian-gheorghe/wait](https://github.com/adrian-gheorghe/wait) - This script waits for a host or multiple hosts to respond on a TCP port but can also wait for a command to output a value.
 - [pschmitt/home-assistant-addons](https://github.com/pschmitt/home-assistant-addons) - Home Assistant addons by pschmitt
@@ -7993,6 +8008,8 @@
 
 ## TypeScript 
 
+- [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
+- [balenalabs/wifi-repeater](https://github.com/balenalabs/wifi-repeater) - Easily create a WiFi Access Point or WiFi repeater with balenaOS
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
 - [balenalabs/balena-sound](https://github.com/balenalabs/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
 - [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
