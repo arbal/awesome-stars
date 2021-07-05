@@ -5187,7 +5187,7 @@
 - [viadee/docker-hub-rate-limit-exporter](https://github.com/viadee/docker-hub-rate-limit-exporter) - Know your limits - Via Prometheus
 - [pimms/ggl](https://github.com/pimms/ggl) - Google Custom Search for the command line
 - [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
-- [rchac/LibreQoS](https://github.com/rchac/LibreQoS) - LibreQoS is an application that makes it possible to apply fq_codel AQM and rate limits to hundreds of clients. This can help control bufferbloat on small ISP networks.
+- [rchac/LibreQoS](https://github.com/rchac/LibreQoS) - LibreQoS is an application that makes it possible to apply fq_codel/cake and bandwidth rate limiting to hundreds of clients. This can help control bufferbloat on small ISP networks.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [hofstadter-io/self-driving-desktop](https://github.com/hofstadter-io/self-driving-desktop) - Desktop Automation Framework. Drive your mouse and keyboard with an easy to use language.
 - [httpie/httpcat](https://github.com/httpie/httpcat) - httpcat is a simple utility for constructing raw HTTP requests on the command line.
@@ -5371,7 +5371,7 @@
 - [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
 - [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 - [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Build beautiful, publication-quality books and documents from computational content.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [simonw/csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database
@@ -7281,7 +7281,7 @@
 - [Dezeter/mt](https://github.com/Dezeter/mt) - Create multiple TOR instances with a load-balancing.
 - [quortex/cloudbench](https://github.com/quortex/cloudbench) - A project to bench ffmpeg performances and price for the major cloud providers
 - [cdzombak/osx-automation](https://github.com/cdzombak/osx-automation) - scripts, services, and small utilities which make life on macOS easier
-- [sulu5890/searx-traefik-docker](https://github.com/sulu5890/searx-traefik-docker) - Create a searx instance using traefik and Docker. Created for r/searx.
+- [sulu5890/searx-traefik-docker](https://github.com/sulu5890/searx-traefik-docker) - Create a searx instance using traefik and Docker. Created for a comment on r/searx. Not maintained and has flaws, use for reference only.
 - [clevr-dev/ShinyStudio](https://github.com/clevr-dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
 - [alexei-led/nsenter](https://github.com/alexei-led/nsenter) - Slim nsenter Docker image - enter into Docker container/host namespaces
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
@@ -8208,7 +8208,7 @@
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [Hirse/vscode-ungit](https://github.com/Hirse/vscode-ungit) - Extension to show ungit in Visual Studio Code.
 - [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
-- [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
