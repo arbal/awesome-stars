@@ -91,6 +91,7 @@
   - [Smarty](#smarty)
   - [SourcePawn](#sourcepawn)
   - [Starlark](#starlark)
+  - [SuperCollider](#supercollider)
   - [Swift](#swift)
   - [TSQL](#tsql)
   - [Tcl](#tcl)
@@ -165,6 +166,7 @@
 
 ## C 
 
+- [ge-ne/bibtool](https://github.com/ge-ne/bibtool) - BibTool is a tool for manipulating BibTeX data bases. BibTeX provides a mean to integrate citations into LaTeX documents. BibTool allows the manipulation of BibTeX files which goes beyond the possibilities -- and intentions -- of BibTeX.
 - [triq-org/tx_tools](https://github.com/triq-org/tx_tools) - tx_sdr tool for transmitting data to SDRs using SoapySDR
 - [TrevorAttema/OTGMessenger](https://github.com/TrevorAttema/OTGMessenger) - Off The Grid Messenger
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
@@ -651,6 +653,8 @@
 
 ## C++ 
 
+- [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
+- [bastibl/gr-rds](https://github.com/bastibl/gr-rds) - FM RDS/TMC Transceiver
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
 - [gnuradio/gr-bokehgui](https://github.com/gnuradio/gr-bokehgui) - Web based display for GNU Radio applications
@@ -1091,7 +1095,15 @@
 
 ## Elixir 
 
-- [route/mogrify](https://github.com/route/mogrify) - Image processing in Elixir (ImageMagick command line wrapper)
+- [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
+- [edgurgel/verk](https://github.com/edgurgel/verk) - A job processing system that just verks! 🧛‍
+- [koudelka/honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈
+- [akira/exq](https://github.com/akira/exq) - Job processing library for Elixir  - compatible with Resque / Sidekiq
+- [elixir-nx/livebook](https://github.com/elixir-nx/livebook) - Interactive and collaborative code notebooks - made with Phoenix LiveView
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
+- [phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Realtime dashboard with metrics, request logging, plus storage, OS and VM insights
+- [elixir-mogrify/mogrify](https://github.com/elixir-mogrify/mogrify) - Image processing in Elixir (ImageMagick command line wrapper)
 - [Nebo15/annon.api](https://github.com/Nebo15/annon.api) - Configurable API gateway that acts as a reverse proxy with a plugin system.
 - [holsee/chroxy](https://github.com/holsee/chroxy) - Headless Chrome as a Service
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
@@ -1143,6 +1155,10 @@
 
 ## Go 
 
+- [similarweb/finala](https://github.com/similarweb/finala) - Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.
+- [micromdm/scep](https://github.com/micromdm/scep) - Go SCEP server
+- [last9/timescaledb-metrics](https://github.com/last9/timescaledb-metrics) - Send TimescaleDB policy stats (and other things) as metrics.
+- [timescale/benchmark-postgres](https://github.com/timescale/benchmark-postgres) - Tools for benchmarking TimescaleDB vs PostgreSQL
 - [appscode/osm](https://github.com/appscode/osm) - 🚚 ☁️ Object Store Manipulator - curl for cloud storage
 - [calavera/docker-volume-glusterfs](https://github.com/calavera/docker-volume-glusterfs) - [UNMAINTAINED] Volume plugin to use GlusterFS as distributed data storage
 - [sapk/docker-volume-gvfs](https://github.com/sapk/docker-volume-gvfs) - Use GVfs as a backend for docker volume
@@ -1720,7 +1736,7 @@
 - [minio/sidekick](https://github.com/minio/sidekick) - High Performance HTTP Sidecar Load Balancer
 - [rycus86/podlike](https://github.com/rycus86/podlike) - Co-located containers as Docker Swarm services (like Kubernetes pods)
 - [dropbox/llama](https://github.com/dropbox/llama) - Library for testing and measuring network loss and latency between distributed endpoints.
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
+- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [skydive-project/skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [moul/ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
@@ -2391,6 +2407,9 @@
 
 ## HTML 
 
+- [openspeedtest/iocage-plugin-OpenSpeedTest-Server](https://github.com/openspeedtest/iocage-plugin-OpenSpeedTest-Server) - OpenSpeedTest-Server Plugin for FreeNAS | HTML5 Network Performance Estimation Tool.
+- [HyperCable/hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with  timescaledb openresty  redis and rails.
+- [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
 - [balena-os/balena-os](https://github.com/balena-os/balena-os) - The central place for all things BalenaOS related.
 - [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
@@ -2541,6 +2560,7 @@
 
 ## Java 
 
+- [xipki/xipki](https://github.com/xipki/xipki) - Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies, No-JPA, No-Spring, No-EJB.
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's message relay server for Mac
@@ -2691,6 +2711,14 @@
 
 ## JavaScript 
 
+- [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
+- [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
+- [Netflix-Skunkworks/sketchy](https://github.com/Netflix-Skunkworks/sketchy) - A task based API for taking screenshots and scraping text from websites.
+- [Alamantus/GooglePhotosExportOrganizer](https://github.com/Alamantus/GooglePhotosExportOrganizer) - A tool for merging and organizing exported Google Photos backups. Built with React and Electron!
+- [stevelacey/wifi-cli-macos](https://github.com/stevelacey/wifi-cli-macos) - 📡️ Wi-Fi CLI MacOS is a command line utility for managing network connections on MacOS
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [pubkey/broadcast-channel](https://github.com/pubkey/broadcast-channel) - :satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels
+- [ljmerza/travel-time-card](https://github.com/ljmerza/travel-time-card) - show travel times for you travel time sensors
 - [nepeee/limeSNA](https://github.com/nepeee/limeSNA) - Scalar Network Analyser for the LimeSDR mini
 - [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) - Node-RED - Home Assistant Community Add-ons
 - [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool
@@ -3669,7 +3697,7 @@
 - [patrickschur/pappet](https://github.com/patrickschur/pappet) - A command-line tool to crawl websites using puppeteer.
 - [apify/apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
-- [balenalabs/boombeastic](https://github.com/balenalabs/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
+- [balenalabs-incubator/boombeastic](https://github.com/balenalabs-incubator/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [rkclark/pullp](https://github.com/rkclark/pullp) - A Github pull request monitoring tool for Mac, Linux and Windows
@@ -3804,6 +3832,7 @@
 
 ## Jupyter Notebook 
 
+- [timescale/examples](https://github.com/timescale/examples) - Collection of example applications and tools to help you get familiar with TimescaleDB
 - [daniestevez/gr-satellites](https://github.com/daniestevez/gr-satellites) - GNU Radio decoders for several Amateur satellites
 - [Hack4Eugene/SpeedUpAmerica](https://github.com/Hack4Eugene/SpeedUpAmerica) - Crowd-sourced internet speed tests using M-Lab data and user tests on a website, with charts, maps, and raw data downloads.
 - [wlmeng11/rtl-ultrasound](https://github.com/wlmeng11/rtl-ultrasound) - 🔊 Ultrasound imaging with RTL-SDR
@@ -4104,6 +4133,9 @@
 
 ## Others 
 
+- [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
+- [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
+- [kstenerud/openwrt-relayd-wireless-bridge](https://github.com/kstenerud/openwrt-relayd-wireless-bridge) - Instructions for setting up a wireless bridge in OpenWRT using relayd
 - [dasdboot/multi-channel-gnss](https://github.com/dasdboot/multi-channel-gnss) - Advanced GPS based on LimeSDR board by Lime Microsystems
 - [balena-io-playground/awesome-balena](https://github.com/balena-io-playground/awesome-balena) - A curated list of helpful balena.io resources.
 - [balenalabs/balena-sense](https://github.com/balenalabs/balena-sense) - Take readings from a BME680 sensor or Sense-HAT on a Pi or Pi Zero, store with InfluxDB and view with Grafana
@@ -4732,6 +4764,8 @@
 
 ## PHP 
 
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - The new (and simple) admin generator for Symfony applications.
+- [LibreTime/libretime](https://github.com/LibreTime/libretime) - LibreTime: Radio Broadcast & Automation Platform
 - [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) - A small, indipendent wrapper to get pretty versions strings
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -4959,6 +4993,17 @@
 
 ## Python 
 
+- [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
+- [spotify/klio](https://github.com/spotify/klio) - Smarter data pipelines for audio.
+- [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
+- [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
+- [partofthething/ha_skyfield](https://github.com/partofthething/ha_skyfield) - See the apparent positions of the Sun, Moon, and planets in this home assistant custom component
+- [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter's textfile collector
+- [DongjunLee/quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
+- [thisisgvrt/fitbit-timescaledb-exporter](https://github.com/thisisgvrt/fitbit-timescaledb-exporter) - Exporter for piping metrics from fitbit to timescale
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
+- [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
+- [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf (and epub, cbz, ...) reader that works inside the kitty terminal
 - [wallnerryan/fio-tools](https://github.com/wallnerryan/fio-tools) - Tools for using FIO benchmarking, creating GNUPlots and serving them via Docker.
 - [theirix/google-photo-dedup](https://github.com/theirix/google-photo-dedup) - Google Photo deduplication
 - [agileek/hassio-addons](https://github.com/agileek/hassio-addons) - Some home assistant addons I manage
@@ -5087,7 +5132,7 @@
 - [dnguyen800/spotify-playlist-sensor](https://github.com/dnguyen800/spotify-playlist-sensor) - Spotify Playlist Sensor for Home Assistant
 - [basnijholt/miflora](https://github.com/basnijholt/miflora) - ☘️🌡🌼🥀🏡 Mi Flora Plant sensor Python package
 - [ChristianKuehnel/plantgateway](https://github.com/ChristianKuehnel/plantgateway) - Bluetooth to mqtt gateway for Xiaomi Mi plant sensors
-- [balenalabs-incubator/background-radiation-monitor](https://github.com/balenalabs-incubator/background-radiation-monitor) - Monitor and record background radiation levels with a cheap detector and a Raspberry Pi.
+- [chrisys/background-radiation-monitor](https://github.com/chrisys/background-radiation-monitor) - Monitor and record background radiation levels with a cheap detector and a Raspberry Pi.
 - [jay7x/rsyslog_exporter_py](https://github.com/jay7x/rsyslog_exporter_py) - Export rsyslog counters as prometheus metrics (python + omprog version)
 - [candlerb/rsyslog-omprog-loki](https://github.com/candlerb/rsyslog-omprog-loki) - rsyslog omprog adapter to forward messages to loki
 - [mmontuori/sprinkle](https://github.com/mmontuori/sprinkle) - Sprinkle is a volume clustering utility based on RClone. It presents all the RClone available volumes as a single clustered volume. It supports 1-way sync mainly for backup and recovery.
@@ -6642,6 +6687,7 @@
 
 ## Ruby 
 
+- [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
 - [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line tool
 - [leejones/alfred-grafana-dashboards-workflow](https://github.com/leejones/alfred-grafana-dashboards-workflow) - An Alfred workflow to search your Grafana dashboards and open one
 - [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
@@ -6791,6 +6837,8 @@
 
 ## Rust 
 
+- [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for easier analytics, fully compatible with TimescaleDB and PostgreSQL 📈
+- [jonhoo/bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel
 - [fnichol/iocage-provision](https://github.com/fnichol/iocage-provision) - Creates an iocage based FreeBSD jail
 - [jedisct1/edgedns](https://github.com/jedisct1/edgedns) - A high performance DNS cache designed for Content Delivery Networks
 - [valeriansaliou/bloom](https://github.com/valeriansaliou/bloom) - :cherry_blossom: HTTP REST API caching middleware, to be used between load balancers and REST API workers.
@@ -7004,6 +7052,9 @@
 
 ## Shell 
 
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
+- [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
+- [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons) - My collection of addons for Home Assistant
 - [osixia/docker-light-baseimage](https://github.com/osixia/docker-light-baseimage) - A docker image to build reliable single process or multiple process images quickly 🐳 ✨
@@ -7297,7 +7348,7 @@
 - [wolveix/plexus](https://github.com/wolveix/plexus) - A suite of tools to help manage your media collection.
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [whiskerz007/proxmox_lxc_create](https://github.com/whiskerz007/proxmox_lxc_create) - 
-- [omer-dogan/whoami](https://github.com/omer-dogan/whoami) - Whoami is a privacy tool developed to keep you anonymous on Debian-based linux operating systems at the highest level.
+- [omer-dogan/whoami](https://github.com/omer-dogan/whoami) - Whoami is a privacy tool developed to keep you anonymous on Kali Linux at the highest level.
 - [vitorgalvao/lowchime](https://github.com/vitorgalvao/lowchime) - Lower the volume of macOS’s startup chime
 - [vitorgalvao/tiny-alfred-scripts](https://github.com/vitorgalvao/tiny-alfred-scripts) - Collection of small scripts to manage my Alfred Workflows
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
@@ -7874,8 +7925,13 @@
 
 - [googleapis/googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
 
+## SuperCollider 
+
+- [musikinformatik/SuperDirt](https://github.com/musikinformatik/SuperDirt) - Tidal Audio Engine
+
 ## Swift 
 
+- [chbrown/macos-wifi](https://github.com/chbrown/macos-wifi) - MacOS Wi-Fi (CoreWLAN) utility
 - [AndreYonadam/google-takeout-to-apple-photos](https://github.com/AndreYonadam/google-takeout-to-apple-photos) - Migrate your photos and videos from Google Photos to Apple Photos via Google Takeout
 - [sheagcraig/yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command line
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and Network Inspector for Apple Platforms
