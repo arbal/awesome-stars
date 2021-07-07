@@ -166,6 +166,7 @@
 
 ## C 
 
+- [JiaoXianjun/LTE-Cell-Scanner](https://github.com/JiaoXianjun/LTE-Cell-Scanner) - OpenCL, SDR, TDD/FDD LTE cell scanner, full stack from A/D samples to SIB ASN1 messages decoded in PDSCH, (optimized for RTL-SDR HACKRF and BladeRF board)
 - [ge-ne/bibtool](https://github.com/ge-ne/bibtool) - BibTool is a tool for manipulating BibTeX data bases. BibTeX provides a mean to integrate citations into LaTeX documents. BibTool allows the manipulation of BibTeX files which goes beyond the possibilities -- and intentions -- of BibTeX.
 - [triq-org/tx_tools](https://github.com/triq-org/tx_tools) - tx_sdr tool for transmitting data to SDRs using SoapySDR
 - [TrevorAttema/OTGMessenger](https://github.com/TrevorAttema/OTGMessenger) - Off The Grid Messenger
@@ -653,6 +654,11 @@
 
 ## C++ 
 
+- [gnuradio/gr-inspector](https://github.com/gnuradio/gr-inspector) - Signal Analysis Toolbox for GNU Radio
+- [BelmY/srsLTE-LimeSDR](https://github.com/BelmY/srsLTE-LimeSDR) - 
+- [srsran/srsGUI](https://github.com/srsran/srsGUI) - A graphics library for software radio.
+- [chrisjohgorman/gr-limesdr](https://github.com/chrisjohgorman/gr-limesdr) - gr-limesdr Plugin for GNURadio
+- [myriadrf/gr-limesdr](https://github.com/myriadrf/gr-limesdr) - gr-limesdr Plugin for GNURadio
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [bastibl/gr-rds](https://github.com/bastibl/gr-rds) - FM RDS/TMC Transceiver
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
@@ -976,6 +982,7 @@
 
 ## Dockerfile 
 
+- [jeffersonjhunt/shinysdr-docker](https://github.com/jeffersonjhunt/shinysdr-docker) - Docker build of debian, gnuradio and shinysdr with all plugins
 - [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
 - [OPHoperHPO/hassio-addons](https://github.com/OPHoperHPO/hassio-addons) - :heavy_plus_sign: Docker add-ons for Hass.io
 - [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab) - JupyterLab Lite - Home Assistant Community Add-ons
@@ -1989,7 +1996,7 @@
 - [square/spincycle](https://github.com/square/spincycle) - Automate and expose complex infrastructure tasks to teams and services.
 - [chanzuckerberg/fogg](https://github.com/chanzuckerberg/fogg) - Manage Infrastructure as Code with less pain.
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -2711,10 +2718,14 @@
 
 ## JavaScript 
 
+- [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
+- [reynico/raspberry-websdr](https://github.com/reynico/raspberry-websdr) - Raspberry PI based WebSDR server
+- [qgis/qwc2-demo-app](https://github.com/qgis/qwc2-demo-app) - QWC2 demo application
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [Netflix-Skunkworks/sketchy](https://github.com/Netflix-Skunkworks/sketchy) - A task based API for taking screenshots and scraping text from websites.
 - [Alamantus/GooglePhotosExportOrganizer](https://github.com/Alamantus/GooglePhotosExportOrganizer) - A tool for merging and organizing exported Google Photos backups. Built with React and Electron!
+- [timescale/examples](https://github.com/timescale/examples) - Collection of example applications and tools to help you get familiar with TimescaleDB
 - [stevelacey/wifi-cli-macos](https://github.com/stevelacey/wifi-cli-macos) - 📡️ Wi-Fi CLI MacOS is a command line utility for managing network connections on MacOS
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pubkey/broadcast-channel](https://github.com/pubkey/broadcast-channel) - :satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels
@@ -3832,7 +3843,6 @@
 
 ## Jupyter Notebook 
 
-- [timescale/examples](https://github.com/timescale/examples) - Collection of example applications and tools to help you get familiar with TimescaleDB
 - [daniestevez/gr-satellites](https://github.com/daniestevez/gr-satellites) - GNU Radio decoders for several Amateur satellites
 - [Hack4Eugene/SpeedUpAmerica](https://github.com/Hack4Eugene/SpeedUpAmerica) - Crowd-sourced internet speed tests using M-Lab data and user tests on a website, with charts, maps, and raw data downloads.
 - [wlmeng11/rtl-ultrasound](https://github.com/wlmeng11/rtl-ultrasound) - 🔊 Ultrasound imaging with RTL-SDR
@@ -4138,7 +4148,6 @@
 - [kstenerud/openwrt-relayd-wireless-bridge](https://github.com/kstenerud/openwrt-relayd-wireless-bridge) - Instructions for setting up a wireless bridge in OpenWRT using relayd
 - [dasdboot/multi-channel-gnss](https://github.com/dasdboot/multi-channel-gnss) - Advanced GPS based on LimeSDR board by Lime Microsystems
 - [balena-io-playground/awesome-balena](https://github.com/balena-io-playground/awesome-balena) - A curated list of helpful balena.io resources.
-- [balenalabs/balena-sense](https://github.com/balenalabs/balena-sense) - Take readings from a BME680 sensor or Sense-HAT on a Pi or Pi Zero, store with InfluxDB and view with Grafana
 - [Rbillon59/home-assistant-addons](https://github.com/Rbillon59/home-assistant-addons) - Repository of self made addons
 - [Tolaris/mikrotik-dns-dhcp](https://github.com/Tolaris/mikrotik-dns-dhcp) - Tool to syncronise DHCP lease names with DNS hostnames on Mikrotik routers.
 - [arbal/mac-chrome](https://github.com/arbal/mac-chrome) - :apple: :link: macOS Google Chrome.app scripts
@@ -4799,7 +4808,7 @@
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
-- [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Please be aware that the Issue tracker on Github is a Bug Tracker, not a Support Forum!
+- [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
 - [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
@@ -4993,6 +5002,7 @@
 
 ## Python 
 
+- [gnuradio/pybombs](https://github.com/gnuradio/pybombs) - PyBOMBS (Python Build Overlay Managed Bundle System) is the GNU Radio install management system for resolving dependencies and pulling in out-of-tree projects.
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 - [spotify/klio](https://github.com/spotify/klio) - Smarter data pipelines for audio.
 - [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
@@ -5232,7 +5242,7 @@
 - [viadee/docker-hub-rate-limit-exporter](https://github.com/viadee/docker-hub-rate-limit-exporter) - Know your limits - Via Prometheus
 - [pimms/ggl](https://github.com/pimms/ggl) - Google Custom Search for the command line
 - [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
-- [rchac/LibreQoS](https://github.com/rchac/LibreQoS) - LibreQoS is an application that makes it possible to apply fq_codel/cake and bandwidth rate limiting to hundreds of clients. This can help control bufferbloat on small ISP networks.
+- [rchac/LibreQoS](https://github.com/rchac/LibreQoS) - Fq_codel/cake bandwidth rate limiting for ISPs
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [hofstadter-io/self-driving-desktop](https://github.com/hofstadter-io/self-driving-desktop) - Desktop Automation Framework. Drive your mouse and keyboard with an easy to use language.
 - [httpie/httpcat](https://github.com/httpie/httpcat) - httpcat is a simple utility for constructing raw HTTP requests on the command line.
@@ -6687,6 +6697,7 @@
 
 ## Ruby 
 
+- [dholm/homebrew-sdr](https://github.com/dholm/homebrew-sdr) - Homebrew formulas for software defined radio
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
 - [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line tool
 - [leejones/alfred-grafana-dashboards-workflow](https://github.com/leejones/alfred-grafana-dashboards-workflow) - An Alfred workflow to search your Grafana dashboards and open one
@@ -7052,10 +7063,12 @@
 
 ## Shell 
 
+- [qgis/homebrew-qgisdev](https://github.com/qgis/homebrew-qgisdev) - Homebrew recipes for QGIS and MacOS
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
 - [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
+- [balenalabs/balena-sense](https://github.com/balenalabs/balena-sense) - Take readings from a BME680 sensor or Sense-HAT on a Pi or Pi Zero, store with InfluxDB and view with Grafana
 - [thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons) - My collection of addons for Home Assistant
 - [osixia/docker-light-baseimage](https://github.com/osixia/docker-light-baseimage) - A docker image to build reliable single process or multiple process images quickly 🐳 ✨
 - [balenalabs-incubator/balena-homeassistant](https://github.com/balenalabs-incubator/balena-homeassistant) - Raspberry Pi + Home Assistant + balenaSense
@@ -7348,7 +7361,7 @@
 - [wolveix/plexus](https://github.com/wolveix/plexus) - A suite of tools to help manage your media collection.
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [whiskerz007/proxmox_lxc_create](https://github.com/whiskerz007/proxmox_lxc_create) - 
-- [omer-dogan/whoami](https://github.com/omer-dogan/whoami) - Whoami is a privacy tool developed to keep you anonymous on Kali Linux at the highest level.
+- [omer-dogan/kali-whoami](https://github.com/omer-dogan/kali-whoami) - Whoami is a privacy tool developed to keep you anonymous on Kali Linux at the highest level.
 - [vitorgalvao/lowchime](https://github.com/vitorgalvao/lowchime) - Lower the volume of macOS’s startup chime
 - [vitorgalvao/tiny-alfred-scripts](https://github.com/vitorgalvao/tiny-alfred-scripts) - Collection of small scripts to manage my Alfred Workflows
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
@@ -8064,6 +8077,7 @@
 
 ## TypeScript 
 
+- [JurajNyiri/PlexMeetsHomeAssistant](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) - Custom card which integrates plex into Home Assistant and makes it possible to launch movies or tv shows on TV with a simple click
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
 - [balenalabs/wifi-repeater](https://github.com/balenalabs/wifi-repeater) - Easily create a WiFi Access Point or WiFi repeater with balenaOS
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
