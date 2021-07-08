@@ -166,6 +166,7 @@
 
 ## C 
 
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [JiaoXianjun/LTE-Cell-Scanner](https://github.com/JiaoXianjun/LTE-Cell-Scanner) - OpenCL, SDR, TDD/FDD LTE cell scanner, full stack from A/D samples to SIB ASN1 messages decoded in PDSCH, (optimized for RTL-SDR HACKRF and BladeRF board)
 - [ge-ne/bibtool](https://github.com/ge-ne/bibtool) - BibTool is a tool for manipulating BibTeX data bases. BibTeX provides a mean to integrate citations into LaTeX documents. BibTool allows the manipulation of BibTeX files which goes beyond the possibilities -- and intentions -- of BibTeX.
 - [triq-org/tx_tools](https://github.com/triq-org/tx_tools) - tx_sdr tool for transmitting data to SDRs using SoapySDR
@@ -553,6 +554,7 @@
 
 ## C# # 
 
+- [netdoggy/sdrsharp-limesdr](https://github.com/netdoggy/sdrsharp-limesdr) - LimeSDR driver for SDR#
 - [reactiveui/Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
@@ -1162,8 +1164,11 @@
 
 ## Go 
 
-- [similarweb/finala](https://github.com/similarweb/finala) - Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.
+- [twpayne/go-kml](https://github.com/twpayne/go-kml) - Package kml provides convenince methods for creating and writing KML documents.
+- [trackit/trackit](https://github.com/trackit/trackit) - Trackit helps you understand and improve your use of AWS
 - [micromdm/scep](https://github.com/micromdm/scep) - Go SCEP server
+- [racerxdl/lms_tcp](https://github.com/racerxdl/lms_tcp) - LimeSDR rtl_tcp equivalent
+- [similarweb/finala](https://github.com/similarweb/finala) - Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.
 - [last9/timescaledb-metrics](https://github.com/last9/timescaledb-metrics) - Send TimescaleDB policy stats (and other things) as metrics.
 - [timescale/benchmark-postgres](https://github.com/timescale/benchmark-postgres) - Tools for benchmarking TimescaleDB vs PostgreSQL
 - [appscode/osm](https://github.com/appscode/osm) - 🚚 ☁️ Object Store Manipulator - curl for cloud storage
@@ -2567,6 +2572,7 @@
 
 ## Java 
 
+- [Teevity/ice](https://github.com/Teevity/ice) - AWS Usage Tool
 - [xipki/xipki](https://github.com/xipki/xipki) - Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies, No-JPA, No-Spring, No-EJB.
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
@@ -2718,6 +2724,7 @@
 
 ## JavaScript 
 
+- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [reynico/raspberry-websdr](https://github.com/reynico/raspberry-websdr) - Raspberry PI based WebSDR server
 - [qgis/qwc2-demo-app](https://github.com/qgis/qwc2-demo-app) - QWC2 demo application
@@ -3843,6 +3850,7 @@
 
 ## Jupyter Notebook 
 
+- [sarabara/google_earth_pro_downloader](https://github.com/sarabara/google_earth_pro_downloader) - Downloading historical images from google earth pro client using pyautogui tool
 - [daniestevez/gr-satellites](https://github.com/daniestevez/gr-satellites) - GNU Radio decoders for several Amateur satellites
 - [Hack4Eugene/SpeedUpAmerica](https://github.com/Hack4Eugene/SpeedUpAmerica) - Crowd-sourced internet speed tests using M-Lab data and user tests on a website, with charts, maps, and raw data downloads.
 - [wlmeng11/rtl-ultrasound](https://github.com/wlmeng11/rtl-ultrasound) - 🔊 Ultrasound imaging with RTL-SDR
@@ -4143,6 +4151,7 @@
 
 ## Others 
 
+- [karimkfoure/datahoarding](https://github.com/karimkfoure/datahoarding) - My datahoarding tools
 - [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
 - [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
 - [kstenerud/openwrt-relayd-wireless-bridge](https://github.com/kstenerud/openwrt-relayd-wireless-bridge) - Instructions for setting up a wireless bridge in OpenWRT using relayd
@@ -4150,6 +4159,7 @@
 - [balena-io-playground/awesome-balena](https://github.com/balena-io-playground/awesome-balena) - A curated list of helpful balena.io resources.
 - [Rbillon59/home-assistant-addons](https://github.com/Rbillon59/home-assistant-addons) - Repository of self made addons
 - [Tolaris/mikrotik-dns-dhcp](https://github.com/Tolaris/mikrotik-dns-dhcp) - Tool to syncronise DHCP lease names with DNS hostnames on Mikrotik routers.
+- [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [arbal/mac-chrome](https://github.com/arbal/mac-chrome) - :apple: :link: macOS Google Chrome.app scripts
 - [F1ATB/Remote-SDR](https://github.com/F1ATB/Remote-SDR) - Remote control of 2 Software Design Radio. Receiver and trasmitter. Based on Adalm-Pluto SDR or RTL-SDR or Hack RF SDR and signal processing using GNU Radio on Orange PI. GUI on a web browser.
 - [jakeson21/gr-limesdr-examples](https://github.com/jakeson21/gr-limesdr-examples) - GNURadio LimeSDR Mini Examples
@@ -5002,6 +5012,14 @@
 
 ## Python 
 
+- [l3uddz/unionfs_cleaner](https://github.com/l3uddz/unionfs_cleaner) - Perform scan of .unionfs folder for _HIDDEN~ files, if file exists on remote, delete it and the _HIDDEN~ file. Perform automated rclone moves on your local media when X gigabytes has been reached and no files are currently being accessed. Perform automated rsync backups on specified folders after X hours.
+- [tokland/shoogle](https://github.com/tokland/shoogle) - Use the Google API from the shell
+- [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
+- [rtorrent-community/rtorrent-docs](https://github.com/rtorrent-community/rtorrent-docs) - “rTorrent Handbook” community project
+- [endormi/automation](https://github.com/endormi/automation) - Collection of automated tasks
+- [jcjorel/ec2-spot-converter](https://github.com/jcjorel/ec2-spot-converter) - A tool to convert AWS EC2 instances back and forth between On-Demand and Spot billing models.
+- [ayoubeddafali/sind](https://github.com/ayoubeddafali/sind) - Minimal framework for web automation using selenium & pyautogui
+- [tribela/image-cleaner](https://github.com/tribela/image-cleaner) - Remove duplicated images from a path
 - [gnuradio/pybombs](https://github.com/gnuradio/pybombs) - PyBOMBS (Python Build Overlay Managed Bundle System) is the GNU Radio install management system for resolving dependencies and pulling in out-of-tree projects.
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 - [spotify/klio](https://github.com/spotify/klio) - Smarter data pipelines for audio.
@@ -6520,7 +6538,7 @@
 - [adolfosilva/libgen.py](https://github.com/adolfosilva/libgen.py) - Download books from gen.lib.rus.ec, libgen.io, libgen.pw, b-ok.org and bookfi.net
 - [luka1199/geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [mirumee/saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -6848,6 +6866,7 @@
 
 ## Rust 
 
+- [Dentosal/autogui-rs](https://github.com/Dentosal/autogui-rs) - GUI automation toolkit for Rust
 - [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for easier analytics, fully compatible with TimescaleDB and PostgreSQL 📈
 - [jonhoo/bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel
 - [fnichol/iocage-provision](https://github.com/fnichol/iocage-provision) - Creates an iocage based FreeBSD jail
@@ -7063,6 +7082,8 @@
 
 ## Shell 
 
+- [hassiweb/docker-openairinterface-enb](https://github.com/hassiweb/docker-openairinterface-enb) - A Docker recipe of OpenAirInterface eNB
+- [pierrickrouxel/iocage-plugin-rtorrent-flood](https://github.com/pierrickrouxel/iocage-plugin-rtorrent-flood) - Artifact file(s) for rTorrent Flood iocage plugin
 - [qgis/homebrew-qgisdev](https://github.com/qgis/homebrew-qgisdev) - Homebrew recipes for QGIS and MacOS
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
@@ -7078,7 +7099,6 @@
 - [kenchan0130/TCC-Permitter](https://github.com/kenchan0130/TCC-Permitter) - Allow services that are denied in the TCC database.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [txthinking/google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
 - [andrewp-as-is/mkcache](https://github.com/andrewp-as-is/mkcache) - make cache file. inspired by 'mktemp'
@@ -8077,6 +8097,7 @@
 
 ## TypeScript 
 
+- [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [JurajNyiri/PlexMeetsHomeAssistant](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) - Custom card which integrates plex into Home Assistant and makes it possible to launch movies or tv shows on TV with a simple click
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
 - [balenalabs/wifi-repeater](https://github.com/balenalabs/wifi-repeater) - Easily create a WiFi Access Point or WiFi repeater with balenaOS
