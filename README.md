@@ -166,6 +166,9 @@
 
 ## C 
 
+- [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor) - CCExtractor - Official version maintained by the core team
+- [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
+- [luigifcruz/webusb-libusb](https://github.com/luigifcruz/webusb-libusb) - Translation layer from libusb to webusb.
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [JiaoXianjun/LTE-Cell-Scanner](https://github.com/JiaoXianjun/LTE-Cell-Scanner) - OpenCL, SDR, TDD/FDD LTE cell scanner, full stack from A/D samples to SIB ASN1 messages decoded in PDSCH, (optimized for RTL-SDR HACKRF and BladeRF board)
 - [ge-ne/bibtool](https://github.com/ge-ne/bibtool) - BibTool is a tool for manipulating BibTeX data bases. BibTeX provides a mean to integrate citations into LaTeX documents. BibTool allows the manipulation of BibTeX files which goes beyond the possibilities -- and intentions -- of BibTeX.
@@ -984,6 +987,7 @@
 
 ## Dockerfile 
 
+- [Dezota/dockerfiles](https://github.com/Dezota/dockerfiles) - These are Dezota created docker images and compose files
 - [jeffersonjhunt/shinysdr-docker](https://github.com/jeffersonjhunt/shinysdr-docker) - Docker build of debian, gnuradio and shinysdr with all plugins
 - [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
 - [OPHoperHPO/hassio-addons](https://github.com/OPHoperHPO/hassio-addons) - :heavy_plus_sign: Docker add-ons for Hass.io
@@ -1871,7 +1875,7 @@
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [suyashkumar/getbin](https://github.com/suyashkumar/getbin) - 💻 Easily fetch latest GitHub release binaries (for your OS/arch) using just wget or curl
-- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open and extensible end-to-end computer vision platform with built-in modules for model building, automated labeling, data processing, model training, hyperparameter tuning, workflow orchestration and serverless inference.
+- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate, all in one platform that runs on any cloud and on-premises.
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [mhristof/paste](https://github.com/mhristof/paste) - An alfred workflow to transform your clipboard
@@ -2001,7 +2005,7 @@
 - [square/spincycle](https://github.com/square/spincycle) - Automate and expose complex infrastructure tasks to teams and services.
 - [chanzuckerberg/fogg](https://github.com/chanzuckerberg/fogg) - Manage Infrastructure as Code with less pain.
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -2572,6 +2576,8 @@
 
 ## Java 
 
+- [intel-cloud/cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service
+- [vinay-lodha/greenbot](https://github.com/vinay-lodha/greenbot) - AWS cost optimization tool
 - [Teevity/ice](https://github.com/Teevity/ice) - AWS Usage Tool
 - [xipki/xipki](https://github.com/xipki/xipki) - Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies, No-JPA, No-Spring, No-EJB.
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
@@ -2724,6 +2730,17 @@
 
 ## JavaScript 
 
+- [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
+- [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
+- [webtorrent/torrent-discovery](https://github.com/webtorrent/torrent-discovery) - Discover BitTorrent and WebTorrent peers
+- [webtorrent/magnet-uri](https://github.com/webtorrent/magnet-uri) - Parse a magnet URI and return an object of keys/values
+- [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
+- [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A chrome extension for the Motrix Download Manager
+- [rstacruz/psdinfo](https://github.com/rstacruz/psdinfo) - Inspect PSD files from the command line
+- [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
+- [adobe-photoshop/generator-cli](https://github.com/adobe-photoshop/generator-cli) - Command line launcher for Photoshop Generator
+- [adobe-photoshop/generator-assets](https://github.com/adobe-photoshop/generator-assets) - Generator Plug-in for Adobe Photoshop CC that helps users export image assets
+- [adobe-photoshop/generator-core](https://github.com/adobe-photoshop/generator-core) - Core Node.js library for Adobe Photoshop CC's Generator extensibility layer
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [Flood-UI/flood](https://github.com/Flood-UI/flood) - A web UI for rTorrent, qBittorrent and Transmission with a Node.js backend and React frontend. Migrate to v4: https://github.com/jesec/flood/wiki/Migrate-from-older-versions-of-Flood.
 - [reynico/raspberry-websdr](https://github.com/reynico/raspberry-websdr) - Raspberry PI based WebSDR server
@@ -4030,7 +4047,6 @@
 - [davidnewhall/secspy](https://github.com/davidnewhall/secspy) - SecuritySpy Command Line Interface
 - [Jack12816/docker-mdns](https://github.com/Jack12816/docker-mdns) - Simple mDNS/ZeroConf demonstration of a nginx container, acessible at http://nginx.local
 - [hectorm/docker-caddy2](https://github.com/hectorm/docker-caddy2) - A Docker image for Caddy 2.
-- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [edmBernard/DockerFiles](https://github.com/edmBernard/DockerFiles) - Some useful dockerfiles for DeepLearning and Computer Vision
@@ -4151,6 +4167,9 @@
 
 ## Others 
 
+- [bob-style/homebrew-moreutils](https://github.com/bob-style/homebrew-moreutils) - Moreutils for Homebrew with additional options
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+- [ExtendScript/wiki](https://github.com/ExtendScript/wiki) - A wiki about ExtendScript features, tricks, workarounds, magic and rainbow unicorns
 - [karimkfoure/datahoarding](https://github.com/karimkfoure/datahoarding) - My datahoarding tools
 - [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
 - [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
@@ -4820,7 +4839,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto
+- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -5012,6 +5031,12 @@
 
 ## Python 
 
+- [mortensteenrasmussen/docker-registry-manifest-cleanup](https://github.com/mortensteenrasmussen/docker-registry-manifest-cleanup) - Cleans up docker registry by removing untagged manifests from the registry
+- [kharkevich/letsencrypt-proxmox](https://github.com/kharkevich/letsencrypt-proxmox) - Proxmox VE plugin for Pritunl
+- [EnigmaBridge/certbot-external-auth](https://github.com/EnigmaBridge/certbot-external-auth) - Certbot external DNS, HTTP, TLSSNI domain validation plugin with JSON output and scriptable hooks, with Dehydrated compatibility
+- [dstat-real/dstat](https://github.com/dstat-real/dstat) - Versatile resource statistics tool (the real one, not the Red Hat clone)
+- [luigifcruz/CyberRadio](https://github.com/luigifcruz/CyberRadio) - 📻 An SDR Based FM/AM Radio For Desktop. Accelerated with #cuSignal and Numba.
+- [lohriialo/photoshop-scripting-python](https://github.com/lohriialo/photoshop-scripting-python) - Scripting in Photoshop is used to automate a wide variety of repetitive task or as complex as an entire new feature
 - [l3uddz/unionfs_cleaner](https://github.com/l3uddz/unionfs_cleaner) - Perform scan of .unionfs folder for _HIDDEN~ files, if file exists on remote, delete it and the _HIDDEN~ file. Perform automated rclone moves on your local media when X gigabytes has been reached and no files are currently being accessed. Perform automated rsync backups on specified folders after X hours.
 - [tokland/shoogle](https://github.com/tokland/shoogle) - Use the Google API from the shell
 - [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
@@ -5909,7 +5934,7 @@
 - [frankiexyz/ping-exporter](https://github.com/frankiexyz/ping-exporter) - Prometheus Ping exporter
 - [jupyterhub/dockerspawner](https://github.com/jupyterhub/dockerspawner) - Spawns JupyterHub single user servers in Docker containers
 - [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 - [johnolafenwa/DeepStack](https://github.com/johnolafenwa/DeepStack) - The World's Leading Cross Platform AI Engine for Edge Devices
 - [tomswartz07/grafana-sdr-weather](https://github.com/tomswartz07/grafana-sdr-weather) - Weather Dashboard
@@ -6715,6 +6740,7 @@
 
 ## Ruby 
 
+- [slhck/homebrew-moreutils](https://github.com/slhck/homebrew-moreutils) - Moreutils for Homebrew with additional options
 - [dholm/homebrew-sdr](https://github.com/dholm/homebrew-sdr) - Homebrew formulas for software defined radio
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
 - [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line tool
@@ -6866,6 +6892,7 @@
 
 ## Rust 
 
+- [frugalos/frugalos](https://github.com/frugalos/frugalos) - Frugal Object Storage
 - [Dentosal/autogui-rs](https://github.com/Dentosal/autogui-rs) - GUI automation toolkit for Rust
 - [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for easier analytics, fully compatible with TimescaleDB and PostgreSQL 📈
 - [jonhoo/bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel
@@ -7082,6 +7109,10 @@
 
 ## Shell 
 
+- [servisys/ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
+- [deptofdefense/now](https://github.com/deptofdefense/now) - Simple command line tool for printing current time.
+- [ewanmellor/git-diff-image](https://github.com/ewanmellor/git-diff-image) - An extension to 'git diff' that provides support for diffing images.
+- [trackit/trackit2-home](https://github.com/trackit/trackit2-home) - TrackIt helps you to optimize your AWS cloud
 - [hassiweb/docker-openairinterface-enb](https://github.com/hassiweb/docker-openairinterface-enb) - A Docker recipe of OpenAirInterface eNB
 - [pierrickrouxel/iocage-plugin-rtorrent-flood](https://github.com/pierrickrouxel/iocage-plugin-rtorrent-flood) - Artifact file(s) for rTorrent Flood iocage plugin
 - [qgis/homebrew-qgisdev](https://github.com/qgis/homebrew-qgisdev) - Homebrew recipes for QGIS and MacOS
@@ -7760,6 +7791,7 @@
 - [codenameyau/sed-awk-cheatsheet](https://github.com/codenameyau/sed-awk-cheatsheet) - Things you can do with sed and awk
 - [TamCore/autoupdate-oh-my-zsh-plugins](https://github.com/TamCore/autoupdate-oh-my-zsh-plugins) - Plugin for oh-my-zsh to automatically update custom-plugins
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
+- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [chriswayg/proxmox-server-scripts](https://github.com/chriswayg/proxmox-server-scripts) - :x: Various scripts for configuring and administering a Proxmox (Debian) server and VMs
 - [DerDanilo/proxmox-stuff](https://github.com/DerDanilo/proxmox-stuff) - This is a collection of stuff that I wrote for Proxmox.
 - [morph027/pve-iso-2-pxe](https://github.com/morph027/pve-iso-2-pxe) - Create PXE bootable Proxmox installation
@@ -7836,7 +7868,7 @@
 - [reynico/raspberry-noaa](https://github.com/reynico/raspberry-noaa) - Fully automated ISS SSTV, NOAA and Meteor satellite image downloader using Raspberry PI
 - [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
 - [gantsign/ansible-role-oh-my-zsh](https://github.com/gantsign/ansible-role-oh-my-zsh) - Ansible role for installing and configuring oh-my-zsh
-- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH and zgenom
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins.
 - [tarjoilija/zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH
 - [zdharma/pm-perf-test](https://github.com/zdharma/pm-perf-test) - Performance test of some of Zsh plugin managers
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
@@ -8097,6 +8129,7 @@
 
 ## TypeScript 
 
+- [Novage/wt-tracker](https://github.com/Novage/wt-tracker) - High-performance WebTorrent tracker
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [JurajNyiri/PlexMeetsHomeAssistant](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) - Custom card which integrates plex into Home Assistant and makes it possible to launch movies or tv shows on TV with a simple click
 - [balena-io/balena-cli](https://github.com/balena-io/balena-cli) - The official balena CLI tool.
