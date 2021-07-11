@@ -1190,7 +1190,7 @@
 - [chanioxaris/json-server](https://github.com/chanioxaris/json-server) - Create a dummy REST API from a json file with zero coding in seconds
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Go Application Scanner
 - [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr) - LZR quickly detects and fingerprints unexpected services running on unexpected ports.
-- [openebs/dynamic-nfs-provisioner](https://github.com/openebs/dynamic-nfs-provisioner) - 
+- [openebs/dynamic-nfs-provisioner](https://github.com/openebs/dynamic-nfs-provisioner) - CSI Driver for dynamically provisioning NFS Volumes on any Block Storage Volumes.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
 - [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using ZFS.
 - [uber-go/dosa](https://github.com/uber-go/dosa) - DOSA is a data object abstraction layer
@@ -1364,7 +1364,6 @@
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
 - [msoap/html2data](https://github.com/msoap/html2data) - Library and cli for extracting data from HTML via CSS selectors
 - [optix2000/nsd_exporter](https://github.com/optix2000/nsd_exporter) - Prometheus exporter for NSD (Name Server Daemon)
-- [prologic/go-picnic-umbrella](https://github.com/prologic/go-picnic-umbrella) - Picnic CSS + Umbrella JS starter template with a Go backend
 - [fstab/grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
 - [timescale/promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
 - [timescale/prometheus-postgresql-adapter](https://github.com/timescale/prometheus-postgresql-adapter) - Use PostgreSQL as a remote storage database for Prometheus
@@ -1582,7 +1581,6 @@
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [AndreaJegher/nlp](https://github.com/AndreaJegher/nlp) - Chromium and chrome netlog parser
-- [prologic/golinks](https://github.com/prologic/golinks) - 🌐A web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [flike/kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -2190,7 +2188,6 @@
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [dayvonjersen/linguist](https://github.com/dayvonjersen/linguist) - Detect programming language used in git repository. Go port of github linguist.
-- [prologic/autodock](https://github.com/prologic/autodock) - autodock is a Daemon for Docker Automation that helps to build automated Docker based infrastructure by integrating with Docker events
 - [kubernetes-sigs/sig-storage-lib-external-provisioner](https://github.com/kubernetes-sigs/sig-storage-lib-external-provisioner) - 
 - [kubernetes-retired/external-storage](https://github.com/kubernetes-retired/external-storage) - [EOL] External storage plugins, provisioners, and helper libraries
 - [dgruber/wfl](https://github.com/dgruber/wfl) - A Simple Way of Creating Job Workflows in Go running in Processes, Containers, Tasks, Pods, or Jobs
