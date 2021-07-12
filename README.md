@@ -166,6 +166,8 @@
 
 ## C 
 
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
+- [gpac/gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content.
 - [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor) - CCExtractor - Official version maintained by the core team
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [luigifcruz/webusb-libusb](https://github.com/luigifcruz/webusb-libusb) - Translation layer from libusb to webusb.
@@ -1168,6 +1170,16 @@
 
 ## Go 
 
+- [harrybrwn/apizza](https://github.com/harrybrwn/apizza) - Order Dominos pizza from the command line
+- [cmuench/inotify-proxy](https://github.com/cmuench/inotify-proxy) - A utility to help detect file changes in docker containers where filesystem is mounted by NFS. It's much more powerful and faster than other similar solutions.
+- [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
+- [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
+- [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
+- [snickers/snickers](https://github.com/snickers/snickers) - :chocolate_bar: An open source alternative to the video cloud encoding services.
+- [Comcast/eel](https://github.com/Comcast/eel) - A simple proxy service to forward JSON events and transform or filter them along the way.
+- [juicedata/juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
+- [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader) - Scripted uploads to Youtube
 - [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
 - [gokrazy/stat](https://github.com/gokrazy/stat) - program to visualize resource usage, very similar to Dag Wieers’s dstat default output
 - [twpayne/go-kml](https://github.com/twpayne/go-kml) - Package kml provides convenince methods for creating and writing KML documents.
@@ -1392,7 +1404,7 @@
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source vector database powered by Faiss, NMSLIB and Annoy
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [terraform-providers/terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
@@ -1789,7 +1801,7 @@
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [inlets/inletsctl](https://github.com/inlets/inletsctl) - The fastest way to create self-hosted exit-servers
-- [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
@@ -2492,7 +2504,7 @@
 - [virtualmin/virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
 - [virtualmin/authentic-theme](https://github.com/virtualmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
 - [leggett/simplify](https://github.com/leggett/simplify) - Browser extension to simplify Gmail's interface
-- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks.
+- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
 - [homelabos/homelabos](https://github.com/homelabos/homelabos) - Unofficial GitHub mirror of HomelabOS (Don't issue PRs to this repo).
@@ -2551,6 +2563,7 @@
 
 ## Haskell 
 
+- [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
 - [simonmar/async](https://github.com/simonmar/async) - Run IO operations asynchronously and wait for their results
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [input-output-hk/cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
@@ -2575,6 +2588,9 @@
 
 ## Java 
 
+- [loklak/loklak_server](https://github.com/loklak/loklak_server) - Distributed Open Source twitter and social media message search server that anonymously collects, shares, dumps and indexes data http://api.loklak.org
+- [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
+- [schibsted/jslt](https://github.com/schibsted/jslt) - JSON query and transformation language
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
 - [intel-cloud/cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service
 - [vinay-lodha/greenbot](https://github.com/vinay-lodha/greenbot) - AWS cost optimization tool
@@ -2730,6 +2746,9 @@
 
 ## JavaScript 
 
+- [fergiemcdowall/search-index](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
+- [rhalff/dot-object](https://github.com/rhalff/dot-object) - Transform json objects using dot notation
+- [rocketseat-content/youtube-upload-nodejs-reactjs-backend](https://github.com/rocketseat-content/youtube-upload-nodejs-reactjs-backend) - Código produzido durante o vídeo sobre criação do backend de uma aplicação de upload de imagens com NodeJS e ReactJS.
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [webtorrent/torrent-discovery](https://github.com/webtorrent/torrent-discovery) - Discover BitTorrent and WebTorrent peers
@@ -3817,6 +3836,7 @@
 
 ## Jinja 
 
+- [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
 - [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
@@ -4031,6 +4051,7 @@
 
 ## Makefile 
 
+- [r-pufky/digikam](https://github.com/r-pufky/digikam) - Digikam docker build repository
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [proxmox/dab-pve-appliances](https://github.com/proxmox/dab-pve-appliances) - DAB examples
 - [cloudposse/build-harness](https://github.com/cloudposse/build-harness) - 🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more
@@ -4170,6 +4191,8 @@
 
 ## Others 
 
+- [geerlingguy/ansible-role-awx](https://github.com/geerlingguy/ansible-role-awx) - Ansible Role - AWX
+- [ahuacate/proxmox-lxc-homelab](https://github.com/ahuacate/proxmox-lxc-homelab) - LXC Homelab Container Builds
 - [myriadrf/LMS7002M-docs](https://github.com/myriadrf/LMS7002M-docs) - Documentation for the Lime Microsystems second generation transceiver IC
 - [bob-style/homebrew-moreutils](https://github.com/bob-style/homebrew-moreutils) - Moreutils for Homebrew with additional options
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -5035,6 +5058,8 @@
 
 ## Python 
 
+- [cytech/Home-Assistant-wundergroundpws](https://github.com/cytech/Home-Assistant-wundergroundpws) - Home Assistant custom component sensor for Weather Underground personal weather station users
+- [linouk23/youtube_uploader_selenium](https://github.com/linouk23/youtube_uploader_selenium) - Python script to upload videos on YouTube using Selenium
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) - WaveRNN Vocoder + TTS
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
@@ -5381,7 +5406,7 @@
 - [elemental-lf/benji](https://github.com/elemental-lf/benji) - Benji Backup: A  block based deduplicating backup software for Ceph RBD images, iSCSI targets, image files and block devices
 - [ivopetiz/crypto-exchange-cli](https://github.com/ivopetiz/crypto-exchange-cli) - CLI for Crypto Exchanges.
 - [thejeffreystone/hassio_addons](https://github.com/thejeffreystone/hassio_addons) - 
-- [ixkc/Search4](https://github.com/ixkc/Search4) - Search people on the Internet.
+- [kisestu/Search4](https://github.com/kisestu/Search4) - Search people on the Internet.
 - [donbowman/OpenCorsairLink-Netdata](https://github.com/donbowman/OpenCorsairLink-Netdata) - OpenCorsairLink integration to Netdata
 - [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
 - [peci1/mikrotik_swos_tools](https://github.com/peci1/mikrotik_swos_tools) - 
@@ -6750,6 +6775,8 @@
 
 ## Ruby 
 
+- [ttscoff/doing](https://github.com/ttscoff/doing) - 
+- [textacular/textacular](https://github.com/textacular/textacular) - Textacular exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular will extend ActiveRecord with named_scope methods making searching easy and fun!
 - [slhck/homebrew-moreutils](https://github.com/slhck/homebrew-moreutils) - Moreutils for Homebrew with additional options
 - [dholm/homebrew-sdr](https://github.com/dholm/homebrew-sdr) - Homebrew formulas for software defined radio
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
@@ -6806,7 +6833,7 @@
 - [mozilla/ssh_scan](https://github.com/mozilla/ssh_scan) - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
 - [mozilla/ssh_scan_api](https://github.com/mozilla/ssh_scan_api) - An API for ssh_scan (https://github.com/mozilla/ssh_scan) and the backend API service for the Mozilla SSH Observatory (https://observatory.mozilla.org/)
 - [kostya/eye](https://github.com/kostya/eye) - Process monitoring tool. Inspired from Bluepill and God.
-- [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [mperham/sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby
 - [uzh/sushi](https://github.com/uzh/sushi) - SUSHI: Supporting User for SHell script Integration
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
@@ -6902,6 +6929,7 @@
 
 ## Rust 
 
+- [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) - Convert CSV files to HTML tables
 - [frugalos/frugalos](https://github.com/frugalos/frugalos) - Frugal Object Storage
 - [Dentosal/autogui-rs](https://github.com/Dentosal/autogui-rs) - GUI automation toolkit for Rust
@@ -7120,6 +7148,7 @@
 
 ## Shell 
 
+- [minio/minio-service](https://github.com/minio/minio-service) - Collection of MinIO server scripts for upstart, systemd, sysvinit, launchd.
 - [dominiklippl/simple-kubernetes](https://github.com/dominiklippl/simple-kubernetes) - This repository contains yaml files and shell scripts needed to create a bare metal kubernetes cluster within Proxmox in LXC containers.
 - [servisys/ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
 - [deptofdefense/now](https://github.com/deptofdefense/now) - Simple command line tool for printing current time.
@@ -8142,6 +8171,8 @@
 
 ## TypeScript 
 
+- [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
+- [gladiatortoise/node-apiless-youtube-upload](https://github.com/gladiatortoise/node-apiless-youtube-upload) - Upload videos to Youtube in Node.js without any Youtube API dependency by using Selenium.
 - [Novage/wt-tracker](https://github.com/Novage/wt-tracker) - High-performance WebTorrent tracker
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [JurajNyiri/PlexMeetsHomeAssistant](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) - Custom card which integrates plex into Home Assistant and makes it possible to launch movies or tv shows on TV with a simple click
