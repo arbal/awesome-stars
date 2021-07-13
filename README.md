@@ -166,6 +166,7 @@
 
 ## C 
 
+- [gerryyang/mac-utils](https://github.com/gerryyang/mac-utils) - Some tools about Mac OSX system.
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [gpac/gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content.
 - [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor) - CCExtractor - Official version maintained by the core team
@@ -1170,6 +1171,7 @@
 
 ## Go 
 
+- [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [harrybrwn/apizza](https://github.com/harrybrwn/apizza) - Order Dominos pizza from the command line
 - [cmuench/inotify-proxy](https://github.com/cmuench/inotify-proxy) - A utility to help detect file changes in docker containers where filesystem is mounted by NFS. It's much more powerful and faster than other similar solutions.
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
@@ -2487,7 +2489,6 @@
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
-- [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [koutto/jok3r](https://github.com/koutto/jok3r) - Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework
 - [herf/la-covid](https://github.com/herf/la-covid) - COVID-19 data from Los Angeles Public Health
 - [Netflix/ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
@@ -3271,7 +3272,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +800 social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - Signal Protocol library for JavaScript
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -3836,6 +3837,7 @@
 
 ## Jinja 
 
+- [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for most of my services.
 - [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
@@ -3847,6 +3849,7 @@
 - [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast) - AirCast - Home Assistant Community Add-ons
 - [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible.
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
+- [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [papanito/ansible-role-cloudflared](https://github.com/papanito/ansible-role-cloudflared) - This ansible role does download and install cloudflared on the host and optionally installs the argo-tunnel as a service.
@@ -4099,6 +4102,7 @@
 
 ## Nim 
 
+- [mahlonsmith/netdata-timescale-relay](https://github.com/mahlonsmith/netdata-timescale-relay) - A Netdata json formatter for storing metrics in Timescale.
 - [calebwin/pipelines](https://github.com/calebwin/pipelines) - An experimental programming language for data flow
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 
@@ -5058,6 +5062,7 @@
 
 ## Python 
 
+- [custom-components/sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) - 📺 Sonarr component to feed Upcoming Media Card.
 - [cytech/Home-Assistant-wundergroundpws](https://github.com/cytech/Home-Assistant-wundergroundpws) - Home Assistant custom component sensor for Weather Underground personal weather station users
 - [linouk23/youtube_uploader_selenium](https://github.com/linouk23/youtube_uploader_selenium) - Python script to upload videos on YouTube using Selenium
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
@@ -5424,7 +5429,7 @@
 - [hpe-storage/truenas-csp](https://github.com/hpe-storage/truenas-csp) - TrueNAS CORE Container Storage Provider for HPE CSI Driver for Kubernetes
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [gregoryduckworth/GoogleGeocode-HASS](https://github.com/gregoryduckworth/GoogleGeocode-HASS) - Google Location for HASS using the Google Geocode API
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support!
 - [perliedman/shadow-mapper](https://github.com/perliedman/shadow-mapper) - Generate maps of sun and shade from OpenStreetMap data
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) - Simple Python Script To Mirror Repository From Github To Gitea
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
@@ -5841,7 +5846,7 @@
 - [anuragbanerjee/literature-organizer](https://github.com/anuragbanerjee/literature-organizer) - Automatically rename research papers, ebooks, and PDFs.
 - [quobyte/network-tester](https://github.com/quobyte/network-tester) - 
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-- [GitGuardian/gg-shield](https://github.com/GitGuardian/gg-shield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection & remediation service.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection & remediation service.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [adferrand/dnsrobocert](https://github.com/adferrand/dnsrobocert) - Orchestrate Certbot and Lexicon together to provide Let's Encrypt TLS certificates validated by DNS challenges
@@ -6431,7 +6436,7 @@
 - [gtalarico/pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
 - [UniversityRadioYork/jail-devops](https://github.com/UniversityRadioYork/jail-devops) - who needs docker?
 - [fractalcells/ansible-iocage](https://github.com/fractalcells/ansible-iocage) - 
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [pnlng/alfred-url-actions](https://github.com/pnlng/alfred-url-actions) - An Alfred workflow that fetches the URL and title of your browser's current tab, and does things with them.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
@@ -6582,7 +6587,7 @@
 - [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi) - A tutorial showing how to train, convert, and run TensorFlow Lite object detection models on Android devices, the Raspberry Pi, and more!
 - [LionSec/katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
 - [ceandre/radonreader](https://github.com/ceandre/radonreader) - Read current radon level from RadonEye RD200
-- [rackerlabs/scantron](https://github.com/rackerlabs/scantron) - A distributed nmap / masscan scanning framework complete with an API client for automation workflows
+- [rackerlabs/scantron](https://github.com/rackerlabs/scantron) - A distributed nmap / masscan scanning framework complete with scan scheduling, engine pooling, subsequent scan port diff-ing, and an API client for automation workflows.
 - [kpreid/shinysdr](https://github.com/kpreid/shinysdr) - Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins. In development, usable but incomplete. Compatible with RTL-SDR.
 - [EarToEarOak/RTLSDR-Scanner](https://github.com/EarToEarOak/RTLSDR-Scanner) - A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library
 - [xmikos/qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer) - Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, hackrf_sweep, rtl_power, rx_power and other backends)
@@ -7148,6 +7153,7 @@
 
 ## Shell 
 
+- [Yaser-Amiri/netdata-ssh-module](https://github.com/Yaser-Amiri/netdata-ssh-module) - 
 - [minio/minio-service](https://github.com/minio/minio-service) - Collection of MinIO server scripts for upstart, systemd, sysvinit, launchd.
 - [dominiklippl/simple-kubernetes](https://github.com/dominiklippl/simple-kubernetes) - This repository contains yaml files and shell scripts needed to create a bare metal kubernetes cluster within Proxmox in LXC containers.
 - [servisys/ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
@@ -7741,7 +7747,7 @@
 - [julianxhokaxhiu/vps-powered-by-docker](https://github.com/julianxhokaxhiu/vps-powered-by-docker) - Arch Linux setup script to obtain a full VPS with Automatic Reverse Proxy (and more) without pain
 - [julianxhokaxhiu/docker-powerdns](https://github.com/julianxhokaxhiu/docker-powerdns) - PowerDNS + Recursor + Admin GUI + Adblock in one single Docker
 - [pschiffe/docker-pdns](https://github.com/pschiffe/docker-pdns) - Docker images for PowerDNS
-- [JOduMonT/DEB](https://github.com/JOduMonT/DEB) - WARNING OLD Notes & Bots repo the NEW one is --&gt; https://github.com/JOduMonT/DEB
+- [JOduMonT/DEB](https://github.com/JOduMonT/DEB) - 
 - [docker-how-to/docker-swarm-configure-keepalived](https://github.com/docker-how-to/docker-swarm-configure-keepalived) - Configure keepalived floating ip for docker swarm
 - [searx/searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [CollaboraOnline/Docker-CODE](https://github.com/CollaboraOnline/Docker-CODE) - Dockerfile and scripts to generate CODE Docker image
@@ -8037,6 +8043,7 @@
 
 ## Swift 
 
+- [getGuaka/FileUtils](https://github.com/getGuaka/FileUtils) - Easy way to work with files, directories and paths in swift on macOS and linux.
 - [chbrown/macos-wifi](https://github.com/chbrown/macos-wifi) - MacOS Wi-Fi (CoreWLAN) utility
 - [AndreYonadam/google-takeout-to-apple-photos](https://github.com/AndreYonadam/google-takeout-to-apple-photos) - Migrate your photos and videos from Google Photos to Apple Photos via Google Takeout
 - [sheagcraig/yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command line
@@ -8171,6 +8178,7 @@
 
 ## TypeScript 
 
+- [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
 - [gladiatortoise/node-apiless-youtube-upload](https://github.com/gladiatortoise/node-apiless-youtube-upload) - Upload videos to Youtube in Node.js without any Youtube API dependency by using Selenium.
 - [Novage/wt-tracker](https://github.com/Novage/wt-tracker) - High-performance WebTorrent tracker
