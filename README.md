@@ -74,7 +74,6 @@
   - [Processing](#processing)
   - [PureBasic](#purebasic)
   - [Python](#python)
-  - [QML](#qml)
   - [R](#r)
   - [RAML](#raml)
   - [Rascal](#rascal)
@@ -560,6 +559,7 @@
 
 ## C# # 
 
+- [retroplasma/binsync](https://github.com/retroplasma/binsync) - Deterministic Usenet Vault
 - [netdoggy/sdrsharp-limesdr](https://github.com/netdoggy/sdrsharp-limesdr) - LimeSDR driver for SDR#
 - [reactiveui/Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
@@ -697,6 +697,7 @@
 - [AD-Vega/rtl-power-fftw](https://github.com/AD-Vega/rtl-power-fftw) - Power spectrum for RTLSDR dongles.
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
+- [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
 - [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor is an observability agent that summarizes network data streams in real time, enabling on-node and centralized data visibility and analysis
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
@@ -990,6 +991,8 @@
 
 ## Dockerfile 
 
+- [bradsjm/balena-adsb](https://github.com/bradsjm/balena-adsb) - This repository provides a multi-container project for adsb receiving and submission to multiple websites optionally deployed using balenaCloud to Raspberry PI devices.
+- [solarkennedy/wine-x11-novnc-docker](https://github.com/solarkennedy/wine-x11-novnc-docker) - Base Docker image to run wine programs in a web browser via noVNC (html5 vnc viewer) + Xvfb + x11vnc
 - [Dezota/dockerfiles](https://github.com/Dezota/dockerfiles) - These are Dezota created docker images and compose files
 - [jeffersonjhunt/shinysdr-docker](https://github.com/jeffersonjhunt/shinysdr-docker) - Docker build of debian, gnuradio and shinysdr with all plugins
 - [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
@@ -1171,6 +1174,8 @@
 
 ## Go 
 
+- [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [harrybrwn/apizza](https://github.com/harrybrwn/apizza) - Order Dominos pizza from the command line
 - [cmuench/inotify-proxy](https://github.com/cmuench/inotify-proxy) - A utility to help detect file changes in docker containers where filesystem is mounted by NFS. It's much more powerful and faster than other similar solutions.
@@ -2747,6 +2752,10 @@
 
 ## JavaScript 
 
+- [muralikg/puppetcam](https://github.com/muralikg/puppetcam) - Export puppeteer tab as webm video
+- [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, containing all features of AriaNg and more features for desktop.
+- [animetosho/Nyuu](https://github.com/animetosho/Nyuu) - Flexible usenet binary posting tool
+- [ethibox/ethibox](https://github.com/ethibox/ethibox) - Open-source web apps hoster
 - [fergiemcdowall/search-index](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
 - [rhalff/dot-object](https://github.com/rhalff/dot-object) - Transform json objects using dot notation
 - [rocketseat-content/youtube-upload-nodejs-reactjs-backend](https://github.com/rocketseat-content/youtube-upload-nodejs-reactjs-backend) - Código produzido durante o vídeo sobre criação do backend de uma aplicação de upload de imagens com NodeJS e ReactJS.
@@ -4195,6 +4204,8 @@
 
 ## Others 
 
+- [arbal/sdr-spectrum-monitor](https://github.com/arbal/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
+- [arbal/coral-audio-analysis](https://github.com/arbal/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [geerlingguy/ansible-role-awx](https://github.com/geerlingguy/ansible-role-awx) - Ansible Role - AWX
 - [ahuacate/proxmox-lxc-homelab](https://github.com/ahuacate/proxmox-lxc-homelab) - LXC Homelab Container Builds
 - [myriadrf/LMS7002M-docs](https://github.com/myriadrf/LMS7002M-docs) - Documentation for the Lime Microsystems second generation transceiver IC
@@ -4833,6 +4844,8 @@
 
 ## PHP 
 
+- [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
+- [nZEDb/nZEDb](https://github.com/nZEDb/nZEDb) - nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - The new (and simple) admin generator for Symfony applications.
 - [LibreTime/libretime](https://github.com/LibreTime/libretime) - LibreTime: Radio Broadcast & Automation Platform
 - [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) - A small, indipendent wrapper to get pretty versions strings
@@ -5062,6 +5075,7 @@
 
 ## Python 
 
+- [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
 - [custom-components/sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) - 📺 Sonarr component to feed Upcoming Media Card.
 - [cytech/Home-Assistant-wundergroundpws](https://github.com/cytech/Home-Assistant-wundergroundpws) - Home Assistant custom component sensor for Weather Underground personal weather station users
 - [linouk23/youtube_uploader_selenium](https://github.com/linouk23/youtube_uploader_selenium) - Python script to upload videos on YouTube using Selenium
@@ -5343,7 +5357,7 @@
 - [rmax/parsel-cli](https://github.com/rmax/parsel-cli) - Parsel Command Line Interface
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [Yehia-Helwa/KerberosSDR-Automation](https://github.com/Yehia-Helwa/KerberosSDR-Automation) - Automates configuration and syncing of KerberosSDR
-- [NicholasDawson/GooglePhotosArchiver](https://github.com/NicholasDawson/GooglePhotosArchiver) - A tool that downloads all media from google photos.
+- [NicholasDawson/ArchiverForGooglePhotos](https://github.com/NicholasDawson/ArchiverForGooglePhotos) - A tool that downloads all media from google photos.
 - [top-on/life-vault](https://github.com/top-on/life-vault) - Using selenium to automate google takeout routines
 - [sooryaprakash31/GMeet-Bot](https://github.com/sooryaprakash31/GMeet-Bot) - CLI bot for joining classes/meetings in Google Classroom.
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
@@ -6711,10 +6725,6 @@
 - [phelixbtc/ncsc](https://github.com/phelixbtc/ncsc) - Namecoin Stock Control
 - [quick2wire/quick2wire-python-api](https://github.com/quick2wire/quick2wire-python-api) - Python API for controlling GPIO and I2C devices connected to the Raspberry Pi
 
-## QML 
-
-- [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
-
 ## R 
 
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
@@ -6934,6 +6944,7 @@
 
 ## Rust 
 
+- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) - Convert CSV files to HTML tables
 - [frugalos/frugalos](https://github.com/frugalos/frugalos) - Frugal Object Storage
