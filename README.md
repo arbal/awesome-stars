@@ -151,6 +151,7 @@
 
 ## Batchfile 
 
+- [tindy2013/stairspeedtest](https://github.com/tindy2013/stairspeedtest) - A small script that can test the stairs' download speed, packet loss and latency. Supports single ss/ssr/v2ray links and their subscribe links.
 - [aetonsi/rclapper](https://github.com/aetonsi/rclapper) - rclapper - rclone wrapper for continuous syncing to multiple remotes.
 - [ytx1991/ChiaMonitor](https://github.com/ytx1991/ChiaMonitor) - An approach for monitoring multiple Chia harvester in one web app based dashboard
 - [binnes/MQTT-brokers](https://github.com/binnes/MQTT-brokers) - Developer view of MQTT Broker options
@@ -320,6 +321,7 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [k-five/rinp](https://github.com/k-five/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows built on .NET Core.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -559,6 +561,8 @@
 
 ## C# # 
 
+- [phil-d-wilson/BalenaLocating-ML](https://github.com/phil-d-wilson/BalenaLocating-ML) - PoC to show indoor BLE triangulation using RaspberryPi sensors, IOT Hub and a KNN classifier model
+- [phil-d-wilson/balena-locating](https://github.com/phil-d-wilson/balena-locating) - Never lose something important to you again by using Bluetooth Low Energy (BLE) beacons and Raspberry Pi sensors to track your stuff.
 - [retroplasma/binsync](https://github.com/retroplasma/binsync) - Deterministic Usenet Vault
 - [netdoggy/sdrsharp-limesdr](https://github.com/netdoggy/sdrsharp-limesdr) - LimeSDR driver for SDR#
 - [reactiveui/Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires.
@@ -662,6 +666,7 @@
 
 ## C++ 
 
+- [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [gnuradio/gr-inspector](https://github.com/gnuradio/gr-inspector) - Signal Analysis Toolbox for GNU Radio
 - [BelmY/srsLTE-LimeSDR](https://github.com/BelmY/srsLTE-LimeSDR) - 
 - [srsran/srsGUI](https://github.com/srsran/srsGUI) - A graphics library for software radio.
@@ -907,6 +912,7 @@
 
 ## CSS 
 
+- [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [balenalabs-incubator/coral-audio-analysis](https://github.com/balenalabs-incubator/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [Koala633/hostbase](https://github.com/Koala633/hostbase) - A Ruby GUI based on advanced rogue AP attack
 - [SOM-Research/gila](https://github.com/SOM-Research/gila) - Label analysis of GitHub projects
@@ -991,6 +997,7 @@
 
 ## Dockerfile 
 
+- [johanpi/docker-webmin](https://github.com/johanpi/docker-webmin) - Docker container running Webmin on Ubuntu 20.04 LTS
 - [bradsjm/balena-adsb](https://github.com/bradsjm/balena-adsb) - This repository provides a multi-container project for adsb receiving and submission to multiple websites optionally deployed using balenaCloud to Raspberry PI devices.
 - [solarkennedy/wine-x11-novnc-docker](https://github.com/solarkennedy/wine-x11-novnc-docker) - Base Docker image to run wine programs in a web browser via noVNC (html5 vnc viewer) + Xvfb + x11vnc
 - [Dezota/dockerfiles](https://github.com/Dezota/dockerfiles) - These are Dezota created docker images and compose files
@@ -1174,6 +1181,12 @@
 
 ## Go 
 
+- [yakshaving-art/alertsnitch](https://github.com/yakshaving-art/alertsnitch) - Ingests Prometheus alerts and poops them into a MySQL database for offline analysis
+- [mr-karan/calert](https://github.com/mr-karan/calert) - Prometheus' Alertmanager - Google Chat Integration :bell:
+- [prymitive/kthxbye](https://github.com/prymitive/kthxbye) - Prometheus Alertmanager alert acknowledgement management daemon
+- [Spedoske/CloudflareScanner](https://github.com/Spedoske/CloudflareScanner) - 
+- [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
+- [zpeters/speedtest](https://github.com/zpeters/speedtest) - Command line client for speedtest.net written in Go
 - [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
@@ -2599,7 +2612,7 @@
 - [schibsted/jslt](https://github.com/schibsted/jslt) - JSON query and transformation language
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
 - [intel-cloud/cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service
-- [vinay-lodha/greenbot](https://github.com/vinay-lodha/greenbot) - AWS cost optimization tool
+- [vinayalodha/greenbot](https://github.com/vinayalodha/greenbot) - AWS cost optimization tool
 - [Teevity/ice](https://github.com/Teevity/ice) - AWS Usage Tool
 - [xipki/xipki](https://github.com/xipki/xipki) - Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies, No-JPA, No-Spring, No-EJB.
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
@@ -2752,6 +2765,11 @@
 
 ## JavaScript 
 
+- [bitpay/bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
+- [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
+- [JeffResc/SimpleSignage](https://github.com/JeffResc/SimpleSignage) - A simple signage display program built for Raspberry Pis
+- [JeffreyDavidsz/VICREO-Listener](https://github.com/JeffreyDavidsz/VICREO-Listener) - 
+- [josephdadams/TimeKeeper](https://github.com/josephdadams/TimeKeeper) - A Node.js server supporting a generic API to create and display timers, countdowns, and messages to client browsers.
 - [muralikg/puppetcam](https://github.com/muralikg/puppetcam) - Export puppeteer tab as webm video
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, containing all features of AriaNg and more features for desktop.
 - [animetosho/Nyuu](https://github.com/animetosho/Nyuu) - Flexible usenet binary posting tool
@@ -3076,7 +3094,6 @@
 - [anseki/readline-sync](https://github.com/anseki/readline-sync) - Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [xxczaki/cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
-- [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript.
 - [asapach/peerflix-server](https://github.com/asapach/peerflix-server) - Streaming torrent client for Node.js with web ui.
 - [mafintosh/multicast-dns](https://github.com/mafintosh/multicast-dns) - Low level multicast-dns implementation in pure javascript
 - [kmyk/google-home-say](https://github.com/kmyk/google-home-say) - Get Google Home to say something
@@ -4204,6 +4221,9 @@
 
 ## Others 
 
+- [kerberos-io/kerberos-balena](https://github.com/kerberos-io/kerberos-balena) - Run Kerberos Open Source on Balena Cloud with just a few clicks.
+- [cburmeister/pi-hole](https://github.com/cburmeister/pi-hole) - A network-level black hole for internet advertisements running on a Raspberry Pi deployed via BalenaCloud.
+- [arbal/CroniclePlugins](https://github.com/arbal/CroniclePlugins) - Plugins I have created to use with Cronicle (https://github.com/jhuckaby/Cronicle)
 - [arbal/sdr-spectrum-monitor](https://github.com/arbal/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
 - [arbal/coral-audio-analysis](https://github.com/arbal/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [geerlingguy/ansible-role-awx](https://github.com/geerlingguy/ansible-role-awx) - Ansible Role - AWX
@@ -4844,6 +4864,7 @@
 
 ## PHP 
 
+- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [nZEDb/nZEDb](https://github.com/nZEDb/nZEDb) - nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - The new (and simple) admin generator for Symfony applications.
@@ -4998,6 +5019,7 @@
 
 ## Perl 
 
+- [centreon/centreon-plugins](https://github.com/centreon/centreon-plugins) - Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [henyxia/proxmox2netbox](https://github.com/henyxia/proxmox2netbox) - Promox information exporter
 - [oasys/mkrdns](https://github.com/oasys/mkrdns) - An automatic reverse DNS zone generator.
@@ -5075,6 +5097,12 @@
 
 ## Python 
 
+- [dubass83/python_loki_exporter](https://github.com/dubass83/python_loki_exporter) - Export metrics from loki to prometheus
+- [fedejaure/mdns-beacon](https://github.com/fedejaure/mdns-beacon) - Multicast DNS (mDNS) Beacon to announce multiple CNAME aliases across your local network.
+- [esneider/indy](https://github.com/esneider/indy) - 🕵️‍♂️ Find and sweep all the funds spendable by your bitcoin private key.
+- [balenalabs/inkyshot](https://github.com/balenalabs/inkyshot) - Get a daily random inspirational quote delivered direct to your desk with Inkyshot. Build multiple Inkyshots and share the inspiration with your friends, family and loved ones ❤️
+- [coderkevin/balena-ble-proximity](https://github.com/coderkevin/balena-ble-proximity) - Tracks proximity to a Bluetooth Low Energy device
+- [josephdadams/CroniclePlugins](https://github.com/josephdadams/CroniclePlugins) - Plugins I have created to use with Cronicle (https://github.com/jhuckaby/Cronicle)
 - [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
 - [custom-components/sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) - 📺 Sonarr component to feed Upcoming Media Card.
 - [cytech/Home-Assistant-wundergroundpws](https://github.com/cytech/Home-Assistant-wundergroundpws) - Home Assistant custom component sensor for Weather Underground personal weather station users
@@ -5425,7 +5453,7 @@
 - [elemental-lf/benji](https://github.com/elemental-lf/benji) - Benji Backup: A  block based deduplicating backup software for Ceph RBD images, iSCSI targets, image files and block devices
 - [ivopetiz/crypto-exchange-cli](https://github.com/ivopetiz/crypto-exchange-cli) - CLI for Crypto Exchanges.
 - [thejeffreystone/hassio_addons](https://github.com/thejeffreystone/hassio_addons) - 
-- [kisestu/Search4](https://github.com/kisestu/Search4) - Search people on the Internet.
+- [paper-ai/Search4](https://github.com/paper-ai/Search4) - Search people on the Internet.
 - [donbowman/OpenCorsairLink-Netdata](https://github.com/donbowman/OpenCorsairLink-Netdata) - OpenCorsairLink integration to Netdata
 - [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
 - [peci1/mikrotik_swos_tools](https://github.com/peci1/mikrotik_swos_tools) - 
@@ -5736,7 +5764,6 @@
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [google/upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
 - [djmaze/apprise-microservice](https://github.com/djmaze/apprise-microservice) - A small JSON API server for delivering notifications using Apprise
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -6944,6 +6971,7 @@
 
 ## Rust 
 
+- [Chia-Network/clvm_rs](https://github.com/Chia-Network/clvm_rs) - Rust implementation of clvm
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) - Convert CSV files to HTML tables
@@ -7164,6 +7192,7 @@
 
 ## Shell 
 
+- [xoseperez/the-things-stack-balena](https://github.com/xoseperez/the-things-stack-balena) - Deploys the The Things Stack LoRaWAN Network Server Open Source Edition using Balena. Includes BasicStation Gateway Protocol support.
 - [Yaser-Amiri/netdata-ssh-module](https://github.com/Yaser-Amiri/netdata-ssh-module) - 
 - [minio/minio-service](https://github.com/minio/minio-service) - Collection of MinIO server scripts for upstart, systemd, sysvinit, launchd.
 - [dominiklippl/simple-kubernetes](https://github.com/dominiklippl/simple-kubernetes) - This repository contains yaml files and shell scripts needed to create a bare metal kubernetes cluster within Proxmox in LXC containers.
@@ -8054,6 +8083,7 @@
 
 ## Swift 
 
+- [ricoberger/Alertmanager](https://github.com/ricoberger/Alertmanager) - Alertmanager for macOS.
 - [getGuaka/FileUtils](https://github.com/getGuaka/FileUtils) - Easy way to work with files, directories and paths in swift on macOS and linux.
 - [chbrown/macos-wifi](https://github.com/chbrown/macos-wifi) - MacOS Wi-Fi (CoreWLAN) utility
 - [AndreYonadam/google-takeout-to-apple-photos](https://github.com/AndreYonadam/google-takeout-to-apple-photos) - Migrate your photos and videos from Google Photos to Apple Photos via Google Takeout
@@ -8189,6 +8219,8 @@
 
 ## TypeScript 
 
+- [bitpay/insight](https://github.com/bitpay/insight) - A bitcoin blockchain explorer and API
+- [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
 - [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
 - [gladiatortoise/node-apiless-youtube-upload](https://github.com/gladiatortoise/node-apiless-youtube-upload) - Upload videos to Youtube in Node.js without any Youtube API dependency by using Selenium.
@@ -8217,7 +8249,7 @@
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
 - [mattieha/slider-button-card](https://github.com/mattieha/slider-button-card) - A button card with integrated slider
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
-- [strongloop/loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web, Windows, and Linux
 - [DBuit/thermostat-popup-card](https://github.com/DBuit/thermostat-popup-card) - Lovelace card to use as custom pop-up for thermostat in homekit style
@@ -8331,6 +8363,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [nevalla/lens-resource-map-extension](https://github.com/nevalla/lens-resource-map-extension) - Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.
 - [influxdata/vsflux](https://github.com/influxdata/vsflux) - Flux language extension for VSCode
+- [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [testimio/root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
