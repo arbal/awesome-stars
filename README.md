@@ -6,6 +6,7 @@
 ## Contents
 
   - [ANTLR](#antlr)
+  - [ASL](#asl)
   - [AppleScript](#applescript)
   - [Arduino](#arduino)
   - [Assembly](#assembly)
@@ -111,6 +112,10 @@
 
 - [myriadrf/LimeSDR-USB](https://github.com/myriadrf/LimeSDR-USB) - USB 3.0 version of the LimeSDR board
 - [myriadrf/LimeSDR-Mini](https://github.com/myriadrf/LimeSDR-Mini) - LimeSDR-Mini PCB Altium project
+
+## ASL 
+
+- [acpica/acpica](https://github.com/acpica/acpica) - The ACPI Component Architecture (ACPICA) project provides an open-source operating system-independent implementation of the Advanced Configuration and Power Interface specification (ACPI).  For detailed project  information and downloads, go to https://www.acpica.org.  For ACPICA contributor and source code licensing information,  go to
 
 ## AppleScript 
 
@@ -666,6 +671,7 @@
 
 ## C++ 
 
+- [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [gnuradio/gr-inspector](https://github.com/gnuradio/gr-inspector) - Signal Analysis Toolbox for GNU Radio
 - [BelmY/srsLTE-LimeSDR](https://github.com/BelmY/srsLTE-LimeSDR) - 
@@ -1125,7 +1131,7 @@
 - [edgurgel/verk](https://github.com/edgurgel/verk) - A job processing system that just verks! 🧛‍
 - [koudelka/honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈
 - [akira/exq](https://github.com/akira/exq) - Job processing library for Elixir  - compatible with Resque / Sidekiq
-- [elixir-nx/livebook](https://github.com/elixir-nx/livebook) - Interactive and collaborative code notebooks - made with Phoenix LiveView
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Realtime dashboard with metrics, request logging, plus storage, OS and VM insights
@@ -1181,6 +1187,16 @@
 
 ## Go 
 
+- [adhocteam/script_exporter](https://github.com/adhocteam/script_exporter) - Shell script prometheus exporter
+- [ContainerSolutions/locust_exporter](https://github.com/ContainerSolutions/locust_exporter) - A Locust metrics exporter for Prometheus
+- [prometheus-community/json_exporter](https://github.com/prometheus-community/json_exporter) - A prometheus exporter which scrapes remote JSON by JSONPath
+- [DRuggeri/dhcpd_leases_exporter](https://github.com/DRuggeri/dhcpd_leases_exporter) - A Prometheus exporter for the ISC dhcpd daemon's dhcpd.leases file
+- [grafana/mqtt-datasource](https://github.com/grafana/mqtt-datasource) - MQTT Datasource for Grafana allows streaming data from any MQTT broker running either locally or remotely.
+- [balerter/balerter](https://github.com/balerter/balerter) - Script Based Alerting Manager
+- [platform9/grafanactl](https://github.com/platform9/grafanactl) - Yet another Grafana CLI
+- [grafana-wizzy/wizzy2](https://github.com/grafana-wizzy/wizzy2) - A CLI for Grafana
+- [kckecheng/grafana_cli](https://github.com/kckecheng/grafana_cli) - A CLI based utility to operate Grafana dashboards, folders, annotations, etc.
+- [pito-svk/grafana-simple-dashboard-generator](https://github.com/pito-svk/grafana-simple-dashboard-generator) - Simple opinionated dashboard generator cli for Grafana
 - [yakshaving-art/alertsnitch](https://github.com/yakshaving-art/alertsnitch) - Ingests Prometheus alerts and poops them into a MySQL database for offline analysis
 - [mr-karan/calert](https://github.com/mr-karan/calert) - Prometheus' Alertmanager - Google Chat Integration :bell:
 - [prymitive/kthxbye](https://github.com/prymitive/kthxbye) - Prometheus Alertmanager alert acknowledgement management daemon
@@ -1475,7 +1491,7 @@
 - [ohsu-comp-bio/funnel](https://github.com/ohsu-comp-bio/funnel) - Funnel is a toolkit for distributed task execution via a simple, standard API.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure vault for customer records built to comply with GDPR
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more 🚀 It's completely configurable and 100% cross-platform compatible.
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies
 - [team-carepay/traefik-opa-plugin](https://github.com/team-carepay/traefik-opa-plugin) - Traefik plugin which connects to Open Policy Agent
@@ -1530,7 +1546,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1837,7 +1853,7 @@
 - [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
-- [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [po3rin/dockerdot](https://github.com/po3rin/dockerdot) - :whale: dockerdot shows dockerfile dependenciy graph. This is useful to understand how build dockerfile. This uses Go WebAssembly + BuildKit package.
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers
 - [buildkite/terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
@@ -2607,6 +2623,7 @@
 
 ## Java 
 
+- [bhattchaitanya/Grafana-Dashboard-Generator](https://github.com/bhattchaitanya/Grafana-Dashboard-Generator) - Automatic generation of Grafana dashboard for Jmeter scripts
 - [loklak/loklak_server](https://github.com/loklak/loklak_server) - Distributed Open Source twitter and social media message search server that anonymously collects, shares, dumps and indexes data http://api.loklak.org
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [schibsted/jslt](https://github.com/schibsted/jslt) - JSON query and transformation language
@@ -2693,7 +2710,7 @@
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 - [yeriomin/YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store
 - [1hakr/AnExplorer](https://github.com/1hakr/AnExplorer) - 📁 Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, Chromecast, Wear OS, Android TV and Chromebooks. It's a fully designed with Material guidelines by Google.
-- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Better YouTube experience on Android TV
+- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [cmichi/visual-traceroute](https://github.com/cmichi/visual-traceroute) - A graphical frontend for the traceroute utility. Written in Processing.
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
 - [HubSpot/Singularity](https://github.com/HubSpot/Singularity) - Scheduler (HTTP API and webapp) for running Mesos tasks—long running processes, one-off tasks, and scheduled jobs. #hubspot-open-source
@@ -2765,6 +2782,8 @@
 
 ## JavaScript 
 
+- [LePetitBloc/bitcoind-exporter](https://github.com/LePetitBloc/bitcoind-exporter) - :bar_chart: Bitcoind metrics Prometheus exporter in node js
+- [ShawnMcCool/BraveTranslatorChromeExtension](https://github.com/ShawnMcCool/BraveTranslatorChromeExtension) - A quick way to translate full pages in Brave / Chromium. Click the icon or Ctrl + Shift + 2.
 - [bitpay/bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
 - [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
 - [JeffResc/SimpleSignage](https://github.com/JeffResc/SimpleSignage) - A simple signage display program built for Raspberry Pis
@@ -3255,7 +3274,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [sindresorhus/run-jxa](https://github.com/sindresorhus/run-jxa) - Run JXA code and get the result
 - [ncbi/PubReader](https://github.com/ncbi/PubReader) - A new way to view journal articles
-- [tmcw/togeojson](https://github.com/tmcw/togeojson) - convert KML, TCX, and GPX to GeoJSON, without the fuss
+- [placemark/togeojson](https://github.com/placemark/togeojson) - convert KML, TCX, and GPX to GeoJSON, without the fuss
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -4221,6 +4240,7 @@
 
 ## Others 
 
+- [grafana-tools/autograf](https://github.com/grafana-tools/autograf) - [ON HOLD] Another way for building Grafana dashboards.
 - [kerberos-io/kerberos-balena](https://github.com/kerberos-io/kerberos-balena) - Run Kerberos Open Source on Balena Cloud with just a few clicks.
 - [cburmeister/pi-hole](https://github.com/cburmeister/pi-hole) - A network-level black hole for internet advertisements running on a Raspberry Pi deployed via BalenaCloud.
 - [arbal/CroniclePlugins](https://github.com/arbal/CroniclePlugins) - Plugins I have created to use with Cronicle (https://github.com/jhuckaby/Cronicle)
@@ -5097,6 +5117,10 @@
 
 ## Python 
 
+- [simonw/datasette-ripgrep](https://github.com/simonw/datasette-ripgrep) - Web interface for searching your code using ripgrep, built as a Datasette plugin
+- [derickfay/fuzzylist](https://github.com/derickfay/fuzzylist) - Fuzzy, self-updating list filter workflow template for Alfred 3
+- [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator) - Generate Grafana dashboards from configuration
+- [mr-pennyworth/alfred-fzf](https://github.com/mr-pennyworth/alfred-fzf) - Instant Fuzzy File Search for Alfred
 - [dubass83/python_loki_exporter](https://github.com/dubass83/python_loki_exporter) - Export metrics from loki to prometheus
 - [fedejaure/mdns-beacon](https://github.com/fedejaure/mdns-beacon) - Multicast DNS (mDNS) Beacon to announce multiple CNAME aliases across your local network.
 - [esneider/indy](https://github.com/esneider/indy) - 🕵️‍♂️ Find and sweep all the funds spendable by your bitcoin private key.
@@ -7192,6 +7216,10 @@
 
 ## Shell 
 
+- [dedukun/kokatu](https://github.com/dedukun/kokatu) - Simple POSIX script that uses fd and ripgrep to work as a faster mlocate
+- [jonathanpoelen/batrg](https://github.com/jonathanpoelen/batrg) - Search and highlight files using ripgrep and bat
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [xoseperez/the-things-stack-balena](https://github.com/xoseperez/the-things-stack-balena) - Deploys the The Things Stack LoRaWAN Network Server Open Source Edition using Balena. Includes BasicStation Gateway Protocol support.
 - [Yaser-Amiri/netdata-ssh-module](https://github.com/Yaser-Amiri/netdata-ssh-module) - 
 - [minio/minio-service](https://github.com/minio/minio-service) - Collection of MinIO server scripts for upstart, systemd, sysvinit, launchd.
@@ -8453,7 +8481,7 @@
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊 Beautiful and interactive data visualization platform, visualize metrics,logs,traces and big-screens
+- [datav-io/datav](https://github.com/datav-io/datav) - 📊 Beautiful and interactive data visualization platform, for metrics,logs,traces and big-screens
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rlivings39/vscode-fzf-quick-open](https://github.com/rlivings39/vscode-fzf-quick-open) - vscode extension providing quick file/folder open and searching using fzf
