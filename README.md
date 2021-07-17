@@ -171,6 +171,10 @@
 
 ## C 
 
+- [balenalabs-incubator/basicstation](https://github.com/balenalabs-incubator/basicstation) - LoRa Basics™ Station - The LoRaWAN Gateway Software
+- [nieluj/nntp-proxy](https://github.com/nieluj/nntp-proxy) - simple NNTP proxy with SSL support
+- [gl-inet/openwrt](https://github.com/gl-inet/openwrt) - This repository is fork from openwrt official repo, we will update the latest tag and release GL.iNet firmware based on it.
+- [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
 - [gerryyang/mac-utils](https://github.com/gerryyang/mac-utils) - Some tools about Mac OSX system.
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
 - [gpac/gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content.
@@ -566,6 +570,7 @@
 
 ## C# # 
 
+- [cliveontoast/GoMoPho](https://github.com/cliveontoast/GoMoPho) - Google motion photos video extractor
 - [phil-d-wilson/BalenaLocating-ML](https://github.com/phil-d-wilson/BalenaLocating-ML) - PoC to show indoor BLE triangulation using RaspberryPi sensors, IOT Hub and a KNN classifier model
 - [phil-d-wilson/balena-locating](https://github.com/phil-d-wilson/balena-locating) - Never lose something important to you again by using Bluetooth Low Energy (BLE) beacons and Raspberry Pi sensors to track your stuff.
 - [retroplasma/binsync](https://github.com/retroplasma/binsync) - Deterministic Usenet Vault
@@ -716,7 +721,7 @@
 - [DNS-OARC/flamethrower](https://github.com/DNS-OARC/flamethrower) - a DNS performance and functional testing utility supporting UDP, TCP, DoT and DoH (by @ns1labs)
 - [DNS-OARC/dnsmeter](https://github.com/DNS-OARC/dnsmeter) - Tool for testing performance of nameservers
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
+- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [AngeloD2022/OnHubDesktop](https://github.com/AngeloD2022/OnHubDesktop) - A desktop client for Google OnHub routers. Written in C++ with the Qt framework
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [divyekapoor/grepurls](https://github.com/divyekapoor/grepurls) - Command line utility to extract URLs from text or HTML using an RFC 3986 compliant parser.
@@ -1003,6 +1008,8 @@
 
 ## Dockerfile 
 
+- [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application.
+- [toby1991/minio-rclone-webdav-server](https://github.com/toby1991/minio-rclone-webdav-server) - A @rclone served WebDAV server with @minio as the s3 storage backend docker example
 - [johanpi/docker-webmin](https://github.com/johanpi/docker-webmin) - Docker container running Webmin on Ubuntu 20.04 LTS
 - [bradsjm/balena-adsb](https://github.com/bradsjm/balena-adsb) - This repository provides a multi-container project for adsb receiving and submission to multiple websites optionally deployed using balenaCloud to Raspberry PI devices.
 - [solarkennedy/wine-x11-novnc-docker](https://github.com/solarkennedy/wine-x11-novnc-docker) - Base Docker image to run wine programs in a web browser via noVNC (html5 vnc viewer) + Xvfb + x11vnc
@@ -1105,7 +1112,6 @@
 - [MojaX2/docker-ros-noetic](https://github.com/MojaX2/docker-ros-noetic) - 
 - [mglukhovsky/caddy2](https://github.com/mglukhovsky/caddy2) - Caddy 2 with Cloudflare modules
 - [nklmilojevic/caddy2-custom](https://github.com/nklmilojevic/caddy2-custom) - Caddy 2 with Cloudflare docker repo
-- [open-wa/wa-avd-docker](https://github.com/open-wa/wa-avd-docker) - A Docker image based on Ubuntu Desktop with VNC and noVNC access, that runs a lightweight Android Virtual Device with WhatsApp pre-installed.
 - [justinribeiro/dockerfiles](https://github.com/justinribeiro/dockerfiles) - Various dockerfiles including chrome-headless, lighthouse and other tooling.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
@@ -1187,6 +1193,14 @@
 
 ## Go 
 
+- [arso8/gphotos-cdp](https://github.com/arso8/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
+- [HuwSy/gphotos-cdp](https://github.com/HuwSy/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
+- [minio/ming](https://github.com/minio/ming) - Object Storage Gateway for Hybrid Cloud
+- [totoval/mindav](https://github.com/totoval/mindav) - A self-hosted file backup server which bridges WebDAV protocol with @Minio written in @Totoval. Webdav ❤️ Minio
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
+- [dennis-tra/pcp](https://github.com/dennis-tra/pcp) - 📦 Command line peer-to-peer data transfer tool based on libp2p.
+- [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
+- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [adhocteam/script_exporter](https://github.com/adhocteam/script_exporter) - Shell script prometheus exporter
 - [ContainerSolutions/locust_exporter](https://github.com/ContainerSolutions/locust_exporter) - A Locust metrics exporter for Prometheus
 - [prometheus-community/json_exporter](https://github.com/prometheus-community/json_exporter) - A prometheus exporter which scrapes remote JSON by JSONPath
@@ -2443,6 +2457,7 @@
 
 ## Groovy 
 
+- [atcol/docker-registry-ui](https://github.com/atcol/docker-registry-ui) - A web frontend/UI for easy private/local Docker Registry integration
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
 - [brendonanderson/wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
@@ -2470,6 +2485,7 @@
 
 ## HTML 
 
+- [tkuriyama/tkuriyama.github.io](https://github.com/tkuriyama/tkuriyama.github.io) - Pages
 - [openspeedtest/iocage-plugin-OpenSpeedTest-Server](https://github.com/openspeedtest/iocage-plugin-OpenSpeedTest-Server) - OpenSpeedTest-Server Plugin for FreeNAS | HTML5 Network Performance Estimation Tool.
 - [HyperCable/hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with  timescaledb openresty  redis and rails.
 - [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
@@ -2623,6 +2639,7 @@
 
 ## Java 
 
+- [openpnp/openpnp](https://github.com/openpnp/openpnp) - Open Source SMT Pick and Place Hardware and Software
 - [bhattchaitanya/Grafana-Dashboard-Generator](https://github.com/bhattchaitanya/Grafana-Dashboard-Generator) - Automatic generation of Grafana dashboard for Jmeter scripts
 - [loklak/loklak_server](https://github.com/loklak/loklak_server) - Distributed Open Source twitter and social media message search server that anonymously collects, shares, dumps and indexes data http://api.loklak.org
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
@@ -2782,6 +2799,9 @@
 
 ## JavaScript 
 
+- [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
+- [HubSpot/messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app. #hubspot-open-source
+- [Github-Web-Apps/Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
 - [LePetitBloc/bitcoind-exporter](https://github.com/LePetitBloc/bitcoind-exporter) - :bar_chart: Bitcoind metrics Prometheus exporter in node js
 - [ShawnMcCool/BraveTranslatorChromeExtension](https://github.com/ShawnMcCool/BraveTranslatorChromeExtension) - A quick way to translate full pages in Brave / Chromium. Click the icon or Ctrl + Shift + 2.
 - [bitpay/bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
@@ -2930,7 +2950,7 @@
 - [f9mac/puppeteer-extra-plugin-proxy](https://github.com/f9mac/puppeteer-extra-plugin-proxy) - A plugin for puppeteer-extra to add proxy support
 - [samc621/SneakerBot](https://github.com/samc621/SneakerBot) - All-in-one bot, with auto captcha-solving and proxy management, using Node.js and Puppeteer.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi
+- [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [himynameisdave/git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - :flags: Manage your GitHub labels from the command line!
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
@@ -4060,6 +4080,7 @@
 
 ## Lua 
 
+- [jschornick/openwrt_exporter](https://github.com/jschornick/openwrt_exporter) - OpenWrt metrics exporter for Prometheus written in Lua
 - [ledgetech/ledge](https://github.com/ledgetech/ledge) - An RFC compliant and ESI capable HTTP cache for Nginx / OpenResty, backed by Redis
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
@@ -4141,7 +4162,7 @@
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-- [inlets/inlets-pro](https://github.com/inlets/inlets-pro) - Secure TCP and HTTP tunnels that work anywhere
+- [inlets/inlets-pro](https://github.com/inlets/inlets-pro) - Secure HTTP and TCP tunnels that work anywhere
 - [influxdata/helm-charts](https://github.com/influxdata/helm-charts) - Official Helm Chart Repository for InfluxData Applications
 - [bitnami/charts](https://github.com/bitnami/charts) - Helm Charts
 
@@ -4240,6 +4261,8 @@
 
 ## Others 
 
+- [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
+- [gl-inet/glinet](https://github.com/gl-inet/glinet) - All ipks for GL.iNet's official firmware.
 - [grafana-tools/autograf](https://github.com/grafana-tools/autograf) - [ON HOLD] Another way for building Grafana dashboards.
 - [kerberos-io/kerberos-balena](https://github.com/kerberos-io/kerberos-balena) - Run Kerberos Open Source on Balena Cloud with just a few clicks.
 - [cburmeister/pi-hole](https://github.com/cburmeister/pi-hole) - A network-level black hole for internet advertisements running on a Raspberry Pi deployed via BalenaCloud.
@@ -5117,6 +5140,12 @@
 
 ## Python 
 
+- [jekkos/find3-openwrt-scanner](https://github.com/jekkos/find3-openwrt-scanner) - Some scripts to turn an OpenWrt router into a passive find3 scanner
+- [ovpn-to/oVPN.to-Advanced-NNTP-Proxy](https://github.com/ovpn-to/oVPN.to-Advanced-NNTP-Proxy) - nntp2nntp python proxy script
+- [rclement/datasette-dashboards](https://github.com/rclement/datasette-dashboards) - Datasette plugin providing data dashboards from metadata
+- [simonw/datasette-jq](https://github.com/simonw/datasette-jq) - Datasette plugin that adds a custom SQL function for executing jq expressions against JSON values
+- [simonw/datasette-tiles](https://github.com/simonw/datasette-tiles) - Mapping tile server for Datasette, serving tiles from MBTiles packages
+- [dogsheep/dogsheep-photos](https://github.com/dogsheep/dogsheep-photos) - Upload your photos to S3 and import metadata about them into a SQLite database
 - [simonw/datasette-ripgrep](https://github.com/simonw/datasette-ripgrep) - Web interface for searching your code using ripgrep, built as a Datasette plugin
 - [derickfay/fuzzylist](https://github.com/derickfay/fuzzylist) - Fuzzy, self-updating list filter workflow template for Alfred 3
 - [Showmax/grafana-dashboards-generator](https://github.com/Showmax/grafana-dashboards-generator) - Generate Grafana dashboards from configuration
@@ -6841,6 +6870,7 @@
 
 ## Ruby 
 
+- [guard/listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
 - [ttscoff/doing](https://github.com/ttscoff/doing) - 
 - [textacular/textacular](https://github.com/textacular/textacular) - Textacular exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular will extend ActiveRecord with named_scope methods making searching easy and fun!
 - [slhck/homebrew-moreutils](https://github.com/slhck/homebrew-moreutils) - Moreutils for Homebrew with additional options
@@ -6995,13 +7025,16 @@
 
 ## Rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [frewsxcv/alert-after](https://github.com/frewsxcv/alert-after) - Get a desktop notification after a command finishes executing.
+- [TomFrost/fs_eventbridge](https://github.com/TomFrost/fs_eventbridge) - A TCP server to stream file-change events to a remote destination, written in Rust.
 - [Chia-Network/clvm_rs](https://github.com/Chia-Network/clvm_rs) - Rust implementation of clvm
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [bayard-search/bayard](https://github.com/bayard-search/bayard) - A full-text search and indexing server written in Rust.
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) - Convert CSV files to HTML tables
 - [frugalos/frugalos](https://github.com/frugalos/frugalos) - Frugal Object Storage
 - [Dentosal/autogui-rs](https://github.com/Dentosal/autogui-rs) - GUI automation toolkit for Rust
-- [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for easier analytics, fully compatible with TimescaleDB and PostgreSQL 📈
+- [timescale/timescaledb-toolkit](https://github.com/timescale/timescaledb-toolkit) - Extension for more hyperfunctions, fully compatible with TimescaleDB and PostgreSQL 📈
 - [jonhoo/bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel
 - [fnichol/iocage-provision](https://github.com/fnichol/iocage-provision) - Creates an iocage based FreeBSD jail
 - [jedisct1/edgedns](https://github.com/jedisct1/edgedns) - A high performance DNS cache designed for Content Delivery Networks
@@ -7216,6 +7249,13 @@
 
 ## Shell 
 
+- [samuelkimuli/Minio-distributed-NAS-gateway](https://github.com/samuelkimuli/Minio-distributed-NAS-gateway) - 
+- [sriramsrinivasangmail/minio-nas-gateway](https://github.com/sriramsrinivasangmail/minio-nas-gateway) - experiments with using minio to serve NFS volumes as buckets
+- [gl-inet/sdk](https://github.com/gl-inet/sdk) - OpenWRT SDK for GL.iNet devices
+- [synox/osxphotos-launchd-config](https://github.com/synox/osxphotos-launchd-config) - 
+- [pforret/crontask](https://github.com/pforret/crontask) - Use to call scripts or URLs from a crontab file, with optional logging and webhook upon success/failure
+- [arbal/github-profile-visualizer](https://github.com/arbal/github-profile-visualizer) - Visualize Github profile growth (followers, num repo, etc) with daily cron and Github Pages
+- [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 - [dedukun/kokatu](https://github.com/dedukun/kokatu) - Simple POSIX script that uses fd and ripgrep to work as a faster mlocate
 - [jonathanpoelen/batrg](https://github.com/jonathanpoelen/batrg) - Search and highlight files using ripgrep and bat
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
@@ -7235,7 +7275,7 @@
 - [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
 - [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
-- [balenalabs/balena-sense](https://github.com/balenalabs/balena-sense) - Take readings from a BME680 sensor or Sense-HAT on a Pi or Pi Zero, store with InfluxDB and view with Grafana
+- [balenalabs/balena-sense](https://github.com/balenalabs/balena-sense) - Take readings from a BME680 or similar sensor on a Raspberry Pi, store with InfluxDB and view with Grafana
 - [thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons) - My collection of addons for Home Assistant
 - [osixia/docker-light-baseimage](https://github.com/osixia/docker-light-baseimage) - A docker image to build reliable single process or multiple process images quickly 🐳 ✨
 - [balenalabs-incubator/balena-homeassistant](https://github.com/balenalabs-incubator/balena-homeassistant) - Raspberry Pi + Home Assistant + balenaSense
@@ -7437,7 +7477,7 @@
 - [MonsterMuffin/rclone-gmedia](https://github.com/MonsterMuffin/rclone-gmedia) - Configuration files for
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
 - [drduh/Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
-- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.13 container for the iCloud Photos Downloader command line utility
+- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.13.5 container for the iCloud Photos Downloader command line utility
 - [xxh/xxh-plugin-zsh-ohmyzsh](https://github.com/xxh/xxh-plugin-zsh-ohmyzsh) - Oh my zsh plugin for xxh zsh
 - [georchestra/docker](https://github.com/georchestra/docker) - Quick start geOrchestra with docker
 - [kernelkaribou/synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
@@ -7942,6 +7982,7 @@
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [open-wa/wa-avd-docker](https://github.com/open-wa/wa-avd-docker) - A Docker image based on Ubuntu Desktop with VNC and noVNC access, that runs a lightweight Android Virtual Device with WhatsApp pre-installed.
 - [oracle/docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [UpdateCommand/update](https://github.com/UpdateCommand/update) - Update scripts for apm, apt, brew, carthage, gem, npm, pip yum, and more
@@ -8119,7 +8160,7 @@
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow) - View MacOS and IOS battery Information
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
-- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder Extension, which allows to quck create a new symbolik links for the selected folders using mouse right-click.
+- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder Extension, which allows to quick create a new symbolik links for the selected folders or files using mouse right-click.
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [wise-emotions/mocka](https://github.com/wise-emotions/mocka) - Mocka — A Mock Server Made for Developers by Developers, made in Swift ❤️
 - [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
@@ -8247,6 +8288,7 @@
 
 ## TypeScript 
 
+- [gregordr/ImageStore](https://github.com/gregordr/ImageStore) - Open source google photos alternative!
 - [bitpay/insight](https://github.com/bitpay/insight) - A bitcoin blockchain explorer and API
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
 - [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
@@ -8627,6 +8669,7 @@
 
 ## Visual Basic 
 
+- [spotnet/spotnet](https://github.com/spotnet/spotnet) - Decentralized community
 - [dzzie/home_automation](https://github.com/dzzie/home_automation) - Code for Blog posts: http://sandsprite.com/blogs/index.php?uid=15 and videos: https://www.youtube.com/user/dzzie2/videos
 
 ## Visual Basic .NET 
@@ -8635,6 +8678,7 @@
 
 ## Vue 
 
+- [Uploadarr/Uploadarr](https://github.com/Uploadarr/Uploadarr) - Read the concept for this project here:
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - [sjoerdvanderhoorn/Uier](https://github.com/sjoerdvanderhoorn/Uier) - Codeless or low-code User Experience test editing and management.
 - [hello-efficiency-inc/ridereceipts](https://github.com/hello-efficiency-inc/ridereceipts) - 🚕 Simple automation desktop app to download and organize your receipts from Uber/Lyft. Try out our new Ride Receipts PRO !
