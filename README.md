@@ -137,7 +137,6 @@
 
 ## Arduino 
 
-- [samyk/dingdong](https://github.com/samyk/dingdong) - Digital Ding Dong Ditch -- RTL-SDR + Arduino + GSM/SMS/FONA + RF + GQRX to hack a wireless doorbell from a text message
 - [yacko1975/WeatherStation](https://github.com/yacko1975/WeatherStation) - Acurite 5n1 pro and 06044-tx  Sensor Reader
 - [sirleech/Webduino](https://github.com/sirleech/Webduino) - Arduino WebServer library
 
@@ -692,6 +691,7 @@
 - [gnss-sdr/gnss-sdr](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR, an open-source software-defined GNSS receiver
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [myriadrf/ExtIO_LimeSDR](https://github.com/myriadrf/ExtIO_LimeSDR) - LimeSDR ExtIO Plugin for HDSDR
+- [samyk/dingdong](https://github.com/samyk/dingdong) - Digital Ding Dong Ditch -- RTL-SDR + Arduino + GSM/SMS/FONA + RF + GQRX to hack a wireless doorbell from a text message
 - [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a distributed block, object and file storage platform
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
@@ -974,6 +974,7 @@
 
 ## CoffeeScript 
 
+- [balena-os/balena-raspberrypi](https://github.com/balena-os/balena-raspberrypi) - Balena support for RaspberryPI boards
 - [node-cache/node-cache](https://github.com/node-cache/node-cache) - a node internal (in-memory) caching module
 - [andreyvit/json-diff](https://github.com/andreyvit/json-diff) - Structural diff for JSON files
 - [AngryLoki/wikidata-graph-builder](https://github.com/AngryLoki/wikidata-graph-builder) - Visualize Wikidata items using d3.js
@@ -2799,6 +2800,8 @@
 
 ## JavaScript 
 
+- [awslabs/datawig](https://github.com/awslabs/datawig) - Imputation of missing values in tables.
+- [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [HubSpot/messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app. #hubspot-open-source
 - [Github-Web-Apps/Starhub](https://github.com/Github-Web-Apps/Starhub) - :octocat: All about your Github account, public and private activity, watch stars, followers and much more.
@@ -4307,7 +4310,7 @@
 - [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
 - [Qftm/Information_Collection_Handbook](https://github.com/Qftm/Information_Collection_Handbook) - Handbook of information collection for penetration testing and src
 - [justjavac/Google-IPs](https://github.com/justjavac/Google-IPs) - :us: Google 全球 IP 地址库
-- [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 340 lists for use in AdGuard Home, Pi-Hole or similar.
+- [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [infinit/infinit](https://github.com/infinit/infinit) - The Infinit policy-based software-defined storage platform.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
@@ -5101,7 +5104,7 @@
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
 - [turnkeylinux-apps/fileserver](https://github.com/turnkeylinux-apps/fileserver) - File Server - Simple Network Attached Storage
 - [proxmox/dab](https://github.com/proxmox/dab) - Debian Appliance Builder
-- [pliablepixels/zmeventnotification](https://github.com/pliablepixels/zmeventnotification) - Machine Learning powered Secure Websocket & MQTT based ZoneMinder event notification server
+- [ZoneMinder/zmeventnotification](https://github.com/ZoneMinder/zmeventnotification) - Machine Learning powered Secure Websocket & MQTT based ZoneMinder event notification server
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [niarbeht/vzdump-borg-rclone](https://github.com/niarbeht/vzdump-borg-rclone) - VZDump-&gt;Borg-&gt;Rclone backup stack using Proxmox's hook-script capability.
 - [cvicente/Netdot](https://github.com/cvicente/Netdot) - Network Documentation Tool
@@ -5120,7 +5123,7 @@
 
 ## PowerShell 
 
-- [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - 
+- [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - Various scripts
 - [visualblind/Scripts-collection](https://github.com/visualblind/Scripts-collection) - Collection of all my scripts
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
@@ -5292,7 +5295,7 @@
 - [jseidl/hass-magic_areas](https://github.com/jseidl/hass-magic_areas) - Magic Areas custom_component for Home Assistant
 - [nielsfaber/scheduler-component](https://github.com/nielsfaber/scheduler-component) - Custom component for HA that enables the creation of scheduler entities
 - [custom-components/custom_updater](https://github.com/custom-components/custom_updater) - [DEPRECATED]📦 A component which allows you to track and update custom cards/components and python_scripts
-- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - Passively monitors BLE messages from Xiaomi Mijia BLE MiBeacon, Qingping, ATC, Xiaomi Scale, Kegtron and Thermoplus sensors
+- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - Passively monitors BLE messages from Xiaomi Mijia BLE MiBeacon, Qingping, ATC, Xiaomi Scale, Govee, Kegtron, iNode and Thermoplus sensors
 - [lfasci/homeassistant-prometheus-query](https://github.com/lfasci/homeassistant-prometheus-query) - Inspired from homeassitant Command line Sensor this sensor take values from Prometheus metrics using PromQL query
 - [filipsPL/autowx2](https://github.com/filipsPL/autowx2) - The program for scheduling recordings and processing of the satellite and ground radio transmissions (like capturing of the weather APT images from NOAA satellites, voice messages from ISS, fixed time recordings of WeatherFaxes etc.) :earth_africa: :satellite:
 - [fossasia/open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
@@ -6383,7 +6386,7 @@
 - [bitsy-ai/rpi-object-tracking](https://github.com/bitsy-ai/rpi-object-tracking) - Object tracking tutorial using TensorFlow / TensorFlow Lite, Raspberry Pi, Pi Camera, and a Pimoroni Pan-Tilt Hat.
 - [goruck/radar-ml](https://github.com/goruck/radar-ml) - Detect (classify and localize) people, pets and objects using millimeter-wave radar.
 - [neuralet/smart-social-distancing](https://github.com/neuralet/smart-social-distancing) - Social Distancing Detector using deep learning and capable to run on edge AI devices such as NVIDIA Jetson, Google Coral, and more.
-- [pliablepixels/mlapi](https://github.com/pliablepixels/mlapi) - An easy to use/extend object recognition API you can locally install. Python+Flask. Also works with ZMES!
+- [ZoneMinder/mlapi](https://github.com/ZoneMinder/mlapi) - An easy to use/extend object recognition API you can locally install. Python+Flask. Also works with ZMES!
 - [google/caliban](https://github.com/google/caliban) - Research workflows made easy, locally and in the Cloud.
 - [dgomes/cusca](https://github.com/dgomes/cusca) - off-device object detection for low-cost RTSP cameras
 - [AdaptiveCity/deepdish](https://github.com/AdaptiveCity/deepdish) - Video object recognition, tracking and counting
@@ -6807,6 +6810,7 @@
 
 ## R 
 
+- [sfirke/janitor](https://github.com/sfirke/janitor) - simple tools for data cleaning in R
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
 - [yufree/scifetch](https://github.com/yufree/scifetch) - webpage crawling tools for pubmed, google scholar and rss
@@ -8160,7 +8164,7 @@
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow) - View MacOS and IOS battery Information
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
-- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder Extension, which allows to quick create a new symbolik links for the selected folders or files using mouse right-click.
+- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click.
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [wise-emotions/mocka](https://github.com/wise-emotions/mocka) - Mocka — A Mock Server Made for Developers by Developers, made in Swift ❤️
 - [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
@@ -8288,6 +8292,7 @@
 
 ## TypeScript 
 
+- [balena-io/open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
 - [gregordr/ImageStore](https://github.com/gregordr/ImageStore) - Open source google photos alternative!
 - [bitpay/insight](https://github.com/bitpay/insight) - A bitcoin blockchain explorer and API
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
@@ -8691,7 +8696,7 @@
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [kkeisuke/plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [mikecrittenden/shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
