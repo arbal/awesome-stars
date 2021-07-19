@@ -675,6 +675,7 @@
 
 ## C++ 
 
+- [rbaron/deskmate](https://github.com/rbaron/deskmate) - A tiny MQTT-powered dashboard and control center.
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [gnuradio/gr-inspector](https://github.com/gnuradio/gr-inspector) - Signal Analysis Toolbox for GNU Radio
@@ -1172,6 +1173,7 @@
 
 ## Erlang 
 
+- [emqx/emqx-web-hook](https://github.com/emqx/emqx-web-hook) - EMQ X Webhook Plugin
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [processone/tsung](https://github.com/processone/tsung) - Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
@@ -1194,6 +1196,7 @@
 
 ## Go 
 
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [arso8/gphotos-cdp](https://github.com/arso8/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [HuwSy/gphotos-cdp](https://github.com/HuwSy/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [minio/ming](https://github.com/minio/ming) - Object Storage Gateway for Hybrid Cloud
@@ -2800,6 +2803,9 @@
 
 ## JavaScript 
 
+- [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
+- [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi
+- [sanjeshpathak/realtimedashboardplatform](https://github.com/sanjeshpathak/realtimedashboardplatform) - A Real Time Streaming Dashboard Platform using MQTT Protocol. You can create your own browser based Real Time Streaming Dashboard using this platform. It is very easy and simple to use. All you need is a basic knowledge of HTML, CSS and Javascript. That's all and you can have your own real time streaming dashboard up and ready. Another cool thing, the dashboard works on your mobile device too.
 - [awslabs/datawig](https://github.com/awslabs/datawig) - Imputation of missing values in tables.
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
@@ -3742,7 +3748,7 @@
 - [pomber/covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sindresorhus/is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -4264,6 +4270,7 @@
 
 ## Others 
 
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 - [gl-inet/glinet](https://github.com/gl-inet/glinet) - All ipks for GL.iNet's official firmware.
 - [grafana-tools/autograf](https://github.com/grafana-tools/autograf) - [ON HOLD] Another way for building Grafana dashboards.
@@ -4910,6 +4917,7 @@
 
 ## PHP 
 
+- [bramus/mixed-content-scan](https://github.com/bramus/mixed-content-scan) - Scan your HTTPS-enabled website for Mixed Content
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [nZEDb/nZEDb](https://github.com/nZEDb/nZEDb) - nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
@@ -5143,6 +5151,11 @@
 
 ## Python 
 
+- [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
+- [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
+- [nallamuthu/Ascan](https://github.com/nallamuthu/Ascan) - Python script to perform nmap, header, ssl, cipher, certificate scan
+- [bitsofinfo/testssl.sh-processor](https://github.com/bitsofinfo/testssl.sh-processor) - Wrapper for concurrent batch processing of testssl.sh commands
+- [edfungus/Crouton](https://github.com/edfungus/Crouton) - Crouton MQTT IOT Dashboard
 - [jekkos/find3-openwrt-scanner](https://github.com/jekkos/find3-openwrt-scanner) - Some scripts to turn an OpenWrt router into a passive find3 scanner
 - [ovpn-to/oVPN.to-Advanced-NNTP-Proxy](https://github.com/ovpn-to/oVPN.to-Advanced-NNTP-Proxy) - nntp2nntp python proxy script
 - [rclement/datasette-dashboards](https://github.com/rclement/datasette-dashboards) - Datasette plugin providing data dashboards from metadata
@@ -8292,6 +8305,7 @@
 
 ## TypeScript 
 
+- [casanet/casanet-server](https://github.com/casanet/casanet-server) - Open-source server and dashboard to control IoT devices in a local home network
 - [balena-io/open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
 - [gregordr/ImageStore](https://github.com/gregordr/ImageStore) - Open source google photos alternative!
 - [bitpay/insight](https://github.com/bitpay/insight) - A bitcoin blockchain explorer and API
@@ -8658,6 +8672,8 @@
 
 ## VHDL 
 
+- [myriadrf/LimeSDR-Mini_GW](https://github.com/myriadrf/LimeSDR-Mini_GW) - LimeSDR-Mini board FPGA project
+- [myriadrf/LimeSDR-USB_GW](https://github.com/myriadrf/LimeSDR-USB_GW) - Altera Cyclone IV FPGA project for the USB 3.0 LimeSDR board
 - [natsfr/LimeSDR_DVBSGateware](https://github.com/natsfr/LimeSDR_DVBSGateware) - Optimised gateware for lime sdr mini
 
 ## Vala 
@@ -8683,6 +8699,7 @@
 
 ## Vue 
 
+- [flespi-software/MQTT-Tiles](https://github.com/flespi-software/MQTT-Tiles) - Open-source MQTT-based IoT dashboard visualization tool. Has full MQTT 5.0 support. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.
 - [Uploadarr/Uploadarr](https://github.com/Uploadarr/Uploadarr) - Read the concept for this project here:
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - [sjoerdvanderhoorn/Uier](https://github.com/sjoerdvanderhoorn/Uier) - Codeless or low-code User Experience test editing and management.
