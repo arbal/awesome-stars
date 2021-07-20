@@ -675,6 +675,9 @@
 
 ## C++ 
 
+- [myriadrf/kalibrate-lms](https://github.com/myriadrf/kalibrate-lms) - Fork of Kalibrate GSM signal detector and clock frequency offset calculator with support for LimeSDR hardware
+- [steve-m/kalibrate-rtl](https://github.com/steve-m/kalibrate-rtl) - fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
+- [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 - [rbaron/deskmate](https://github.com/rbaron/deskmate) - A tiny MQTT-powered dashboard and control center.
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
@@ -1028,7 +1031,6 @@
 - [jpillora/docker-dnsmasq](https://github.com/jpillora/docker-dnsmasq) - dnsmasq in a docker container, configurable via a simple web UI
 - [goatatwork/ntopng-nprobe-docker](https://github.com/goatatwork/ntopng-nprobe-docker) - 
 - [yantarou/dns-perftest](https://github.com/yantarou/dns-perftest) - 
-- [d4rkstar/kong-konga-keycloak](https://github.com/d4rkstar/kong-konga-keycloak) - short tutorial to install kong, keycloak and konga in docker and test API authentication
 - [ruimarinho/docker-bitcoin-core](https://github.com/ruimarinho/docker-bitcoin-core) - A bitcoin-core docker image
 - [oznu/docker-guacamole](https://github.com/oznu/docker-guacamole) - A self-contained guacamole docker container for x64 and ARM. Remotely connect over SSH, RDP or VNC using HTML5.
 - [ianwalter/puppeteer-container](https://github.com/ianwalter/puppeteer-container) - A GitHub Action / Docker image for   Puppeteer, the Headless Chrome Node API
@@ -1182,7 +1184,7 @@
 - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.
 - [skythet/ejabberd-prometheus-exporter](https://github.com/skythet/ejabberd-prometheus-exporter) - Ejabberd metrics for prometheus
 - [emqx/ekka](https://github.com/emqx/ekka) - Autocluster and Autoheal for EMQ X Broker
-- [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, distributed MQTT Message Broker for Large-scale IoT Applications.
+- [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
 - [okeuday/nodefinder](https://github.com/okeuday/nodefinder) - Strategies For Automatic Node Discovery
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 
@@ -1196,6 +1198,7 @@
 
 ## Go 
 
+- [genuinetools/weather](https://github.com/genuinetools/weather) - Weather via the command line.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [arso8/gphotos-cdp](https://github.com/arso8/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [HuwSy/gphotos-cdp](https://github.com/HuwSy/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
@@ -2391,7 +2394,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [inkel/slacker](https://github.com/inkel/slacker) - Slack CLI to update status and presence
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management. ⎈ 🖥 ☁️
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -3964,6 +3967,7 @@
 
 ## Jupyter Notebook 
 
+- [reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub) - Projections of COVID-19, in standardized format
 - [kan-bayashi/ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN) with Pytorch
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [sarabara/google_earth_pro_downloader](https://github.com/sarabara/google_earth_pro_downloader) - Downloading historical images from google earth pro client using pyautogui tool
@@ -4270,6 +4274,8 @@
 
 ## Others 
 
+- [arbal/hassio_config_fragments](https://github.com/arbal/hassio_config_fragments) - Useful bits of config for HomeAssistant
+- [Hunthideaway/kerberosPi](https://github.com/Hunthideaway/kerberosPi) - This shows the user how to successfully setup the Raspberry Pi and Kerberos to work in tandem in order to identify RF signals emitted by a variety of devices.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative) - A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 - [gl-inet/glinet](https://github.com/gl-inet/glinet) - All ipks for GL.iNet's official firmware.
@@ -5151,6 +5157,7 @@
 
 ## Python 
 
+- [pangeo-data/climpred](https://github.com/pangeo-data/climpred) - :earth_americas: Verification of weather and climate forecasts. :earth_africa:
 - [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [nallamuthu/Ascan](https://github.com/nallamuthu/Ascan) - Python script to perform nmap, header, ssl, cipher, certificate scan
@@ -7266,6 +7273,11 @@
 
 ## Shell 
 
+- [drewgolden/balena-ads-b](https://github.com/drewgolden/balena-ads-b) - 
+- [garethhowell/mlat_minion](https://github.com/garethhowell/mlat_minion) - A Balena OS project to use multi-lateration to identify the source of RF signals
+- [mmiller7/rtl-sdr_linux_driver](https://github.com/mmiller7/rtl-sdr_linux_driver) - Downloads, builds, installs, and configures the driver to use a RTL-SDR on Linux
+- [mmiller7/Arris_modem_scrape](https://github.com/mmiller7/Arris_modem_scrape) - 
+- [mmiller7/hassio_config_fragments](https://github.com/mmiller7/hassio_config_fragments) - Useful bits of config for HomeAssistant
 - [samuelkimuli/Minio-distributed-NAS-gateway](https://github.com/samuelkimuli/Minio-distributed-NAS-gateway) - 
 - [sriramsrinivasangmail/minio-nas-gateway](https://github.com/sriramsrinivasangmail/minio-nas-gateway) - experiments with using minio to serve NFS volumes as buckets
 - [gl-inet/sdk](https://github.com/gl-inet/sdk) - OpenWRT SDK for GL.iNet devices
@@ -7420,6 +7432,7 @@
 - [popstas/zsh-command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh
 - [Xentrk/nvram-save-restore-utility](https://github.com/Xentrk/nvram-save-restore-utility) - NVRAM Save/Restore Utility
 - [mikigal/ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - OpenCore EFI for AMD Ryzen Hackintosh
+- [d4rkstar/kong-konga-keycloak](https://github.com/d4rkstar/kong-konga-keycloak) - short tutorial to install kong, keycloak and konga in docker and test API authentication
 - [fatih-yavuz/alfred-timer-workflow](https://github.com/fatih-yavuz/alfred-timer-workflow) - Alfred workflow to start a timer, which blinks when the time is up.
 - [zealotnt/dotfiles](https://github.com/zealotnt/dotfiles) - 
 - [AlexandreDey/ContainerBox](https://github.com/AlexandreDey/ContainerBox) - Tool on top of LXD to easily create and use graphical containers
@@ -8402,7 +8415,7 @@
 - [haythem/public-ip](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address
 - [Slynova-Org/flydrive](https://github.com/Slynova-Org/flydrive) - ☁️ Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
-- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing, includes AWS, GCP (and soon others)
+- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing, includes AWS, GCP and Azure
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
