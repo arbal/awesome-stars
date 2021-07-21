@@ -369,6 +369,7 @@
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [owntone/owntone-server](https://github.com/owntone/owntone-server) - OwnTone is forked-daapd's new name! Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 - [mysql/mysql-proxy](https://github.com/mysql/mysql-proxy) - MySQL Proxy is a simple program that sits between your client and MySQL server(s) and that can monitor, analyze or transform their communication. Its flexibility allows for a wide variety of uses, including load balancing, failover, query analysis, query filtering and modification, and many more.
+- [CFSworks/nvml_fix](https://github.com/CFSworks/nvml_fix) - A workaround for an annoying bug in nVidia's NVML library. Allows nvidia-smi to work once more!
 - [waywardgeek/infnoise](https://github.com/waywardgeek/infnoise) - The world's easiest TRNG to get right
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [koraa/pipe_exec](https://github.com/koraa/pipe_exec) - Execute binaries from pipes, stdin and ttys
@@ -816,7 +817,6 @@
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [lambdahuang/FlashRoute](https://github.com/lambdahuang/FlashRoute) - 🚀 Takes minutes to explore the topology of all routable /24 prefixes in IPv4 address space. Now supports IPv6 scan!
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
-- [CFSworks/nvml_fix](https://github.com/CFSworks/nvml_fix) - A workaround for an annoying bug in nVidia's NVML library. Allows nvidia-smi to work once more!
 - [weiliu89/caffe](https://github.com/weiliu89/caffe) - Caffe: a fast open framework for deep learning.
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
@@ -2394,7 +2394,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [inkel/slacker](https://github.com/inkel/slacker) - Slack CLI to update status and presence
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management. ⎈ 🖥 ☁️
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management ⎈ 🖥 ☁️
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -2555,7 +2555,6 @@
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
 - [fitbeard/awx-ha-cluster](https://github.com/fitbeard/awx-ha-cluster) - AWX clustering on Docker standalone installation
 - [prometheus/demo-site](https://github.com/prometheus/demo-site) - Demo site auto-deployed with Ansible and Travis CI.
-- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
 - [cagov/covid19](https://github.com/cagov/covid19) - This is the official COVID19 response website for the state of California.
 - [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website) - The Best Motherfucking Website
@@ -2565,7 +2564,6 @@
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
-- [homelabos/homelabos](https://github.com/homelabos/homelabos) - Unofficial GitHub mirror of HomelabOS (Don't issue PRs to this repo).
 - [truenas/documentation](https://github.com/truenas/documentation) - TrueNAS Documentation Hub
 - [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -2646,6 +2644,7 @@
 
 ## Java 
 
+- [pschweitz/insidelog](https://github.com/pschweitz/insidelog) - [newer] Colorized real-time log viewer with remote tail over SSH support for Windows, Mac and Linux
 - [openpnp/openpnp](https://github.com/openpnp/openpnp) - Open Source SMT Pick and Place Hardware and Software
 - [bhattchaitanya/Grafana-Dashboard-Generator](https://github.com/bhattchaitanya/Grafana-Dashboard-Generator) - Automatic generation of Grafana dashboard for Jmeter scripts
 - [loklak/loklak_server](https://github.com/loklak/loklak_server) - Distributed Open Source twitter and social media message search server that anonymously collects, shares, dumps and indexes data http://api.loklak.org
@@ -2806,6 +2805,8 @@
 
 ## JavaScript 
 
+- [negative0/rclone-vscode](https://github.com/negative0/rclone-vscode) - 
+- [rclone/rclone-plugin-template](https://github.com/rclone/rclone-plugin-template) - 
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi
 - [sanjeshpathak/realtimedashboardplatform](https://github.com/sanjeshpathak/realtimedashboardplatform) - A Real Time Streaming Dashboard Platform using MQTT Protocol. You can create your own browser based Real Time Streaming Dashboard using this platform. It is very easy and simple to use. All you need is a basic knowledge of HTML, CSS and Javascript. That's all and you can have your own real time streaming dashboard up and ready. Another cool thing, the dashboard works on your mobile device too.
@@ -3831,7 +3832,7 @@
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
 - [balenalabs-incubator/boombeastic](https://github.com/balenalabs-incubator/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [rkclark/pullp](https://github.com/rkclark/pullp) - A Github pull request monitoring tool for Mac, Linux and Windows
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
@@ -3934,6 +3935,7 @@
 - [enys/traefik_prometheus_dashboard](https://github.com/enys/traefik_prometheus_dashboard) - Graphana dashboard for prometheus metrics from Traefik v2
 - [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp) - Ansible Role - NTP
 - [hassio-addons/repository-beta](https://github.com/hassio-addons/repository-beta) - BETA - Home Assistant Community Add-ons
+- [homelabos/homelabos](https://github.com/homelabos/homelabos) - Unofficial GitHub mirror of HomelabOS (Don't issue PRs to this repo).
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden (Vaultwarden) - Home Assistant Community Add-ons
 - [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
@@ -4274,6 +4276,7 @@
 
 ## Others 
 
+- [rclone/rclone-plugins-repo](https://github.com/rclone/rclone-plugins-repo) - This is a repository to list plugins available for rclone-webui-react
 - [arbal/hassio_config_fragments](https://github.com/arbal/hassio_config_fragments) - Useful bits of config for HomeAssistant
 - [Hunthideaway/kerberosPi](https://github.com/Hunthideaway/kerberosPi) - This shows the user how to successfully setup the Raspberry Pi and Kerberos to work in tandem in order to identify RF signals emitted by a variety of devices.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -5738,7 +5741,7 @@
 - [krsmanovic/mikrotik-distributed-ssh](https://github.com/krsmanovic/mikrotik-distributed-ssh) - Python script that connects to MikroTik routers via ssh and executes list of commands. Both inventory and command lists are loaded from external files. Create separate log entries for successful connections and errors.
 - [0x802/MikrotikSploit](https://github.com/0x802/MikrotikSploit) - MikrotikSploit is a script that searches for and exploits Mikrotik network vulnerabilities
 - [den1s/MNDP_sender](https://github.com/den1s/MNDP_sender) - MikroTik Neighbor Discovery Protocol (MNDP) sender
-- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary translation services.
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [us/english-please](https://github.com/us/english-please) - Offer for repositories whose README are written in Chinese.
 - [arbal/HelloGitHub](https://github.com/arbal/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
@@ -7273,6 +7276,9 @@
 
 ## Shell 
 
+- [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
+- [krezreb/singleton](https://github.com/krezreb/singleton) - Easily run scripts in singleton mode, no race conditions
+- [patrickmn/one.sh](https://github.com/patrickmn/one.sh) - Singleton command execution for Linux/BSD
 - [drewgolden/balena-ads-b](https://github.com/drewgolden/balena-ads-b) - 
 - [garethhowell/mlat_minion](https://github.com/garethhowell/mlat_minion) - A Balena OS project to use multi-lateration to identify the source of RF signals
 - [mmiller7/rtl-sdr_linux_driver](https://github.com/mmiller7/rtl-sdr_linux_driver) - Downloads, builds, installs, and configures the driver to use a RTL-SDR on Linux
@@ -8457,7 +8463,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+- [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
@@ -8552,6 +8558,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [gnawhleinad/setup-cloudflared-ssh](https://github.com/gnawhleinad/setup-cloudflared-ssh) - setup ~/.ssh using cloudflared access service token
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
+- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
