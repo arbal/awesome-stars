@@ -1198,6 +1198,15 @@
 
 ## Go 
 
+- [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - 🧠 AI powered image tagger backed by DeepDetect
+- [mjs/aw-golang_sample_agent](https://github.com/mjs/aw-golang_sample_agent) - A minimal remote agent example for ActiveWorkflow in Go
+- [hypnoglow/chronologist](https://github.com/hypnoglow/chronologist) - 🎞 Continuously annotate Helm releases in Grafana.
+- [alphagov/paas-grafana-annotation-resource](https://github.com/alphagov/paas-grafana-annotation-resource) - A concourse resource for creating and updating Grafana annotations
+- [4nte/mqtt-mirror](https://github.com/4nte/mqtt-mirror) - Fork MQTT traffic from broker A to B like it's potatoes 🥔.
+- [giantswarm/net-exporter](https://github.com/giantswarm/net-exporter) - A Prometheus exporter for exposing network information in Kubernetes clusters
+- [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter
+- [thought-machine/aws-service-quotas-exporter](https://github.com/thought-machine/aws-service-quotas-exporter) - Exports AWS service quotas as Prometheus metrics
+- [michael-doubez/filestat_exporter](https://github.com/michael-doubez/filestat_exporter) - Prometheus exporter gathering metrics about file size, modification time and other stats
 - [genuinetools/weather](https://github.com/genuinetools/weather) - Weather via the command line.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [arso8/gphotos-cdp](https://github.com/arso8/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
@@ -2727,7 +2736,6 @@
 - [pegasus-isi/pegasus](https://github.com/pegasus-isi/pegasus) - Pegasus Workflow Management System - Automate, recover, and debug scientific computations.
 - [treasure-data/digdag](https://github.com/treasure-data/digdag) - Workload Automation System
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
@@ -2805,6 +2813,9 @@
 
 ## JavaScript 
 
+- [negative0/rclone-terminal](https://github.com/negative0/rclone-terminal) - Terminal extension for rclone webui react.
+- [negative0/rclone-file-viewer](https://github.com/negative0/rclone-file-viewer) - An official rclone plugin for viewing files like csv etc
+- [delirius325/axios-curlirize](https://github.com/delirius325/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
 - [negative0/rclone-vscode](https://github.com/negative0/rclone-vscode) - 
 - [rclone/rclone-plugin-template](https://github.com/rclone/rclone-plugin-template) - 
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
@@ -4014,7 +4025,7 @@
 - [KuntalP/10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
 - [chervonij/DFL-Colab](https://github.com/chervonij/DFL-Colab) - DeepFaceLab fork which provides IPython Notebook to use DFL with Google Colab
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc.
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback, vit), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), reinforcement learning (ppo, dqn), capsnet, distillation, etc.
 - [nareshkumar66675/Appomania](https://github.com/nareshkumar66675/Appomania) - Andoid and iOS App Store Analysis
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
@@ -4082,6 +4093,7 @@
 - [ingbyr/VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
 - [serebit/wraith-master](https://github.com/serebit/wraith-master) - A native Linux RGB control application for the AMD Wraith Prism (GitLab Mirror)
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android inspired by Gpredict
+- [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [afollestad/nock-nock](https://github.com/afollestad/nock-nock) - 🚪 Monitor and validate your websites to maintain maximum uptime.
 
@@ -4135,6 +4147,7 @@
 
 ## Makefile 
 
+- [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 - [r-pufky/digikam](https://github.com/r-pufky/digikam) - Digikam docker build repository
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [proxmox/dab-pve-appliances](https://github.com/proxmox/dab-pve-appliances) - DAB examples
@@ -4276,6 +4289,8 @@
 
 ## Others 
 
+- [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - Information for developers that want to work with Pacmax
+- [eutialia/open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from Alfred or Raycast
 - [rclone/rclone-plugins-repo](https://github.com/rclone/rclone-plugins-repo) - This is a repository to list plugins available for rclone-webui-react
 - [arbal/hassio_config_fragments](https://github.com/arbal/hassio_config_fragments) - Useful bits of config for HomeAssistant
 - [Hunthideaway/kerberosPi](https://github.com/Hunthideaway/kerberosPi) - This shows the user how to successfully setup the Raspberry Pi and Kerberos to work in tandem in order to identify RF signals emitted by a variety of devices.
@@ -5160,6 +5175,12 @@
 
 ## Python 
 
+- [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
+- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [aorfanos/ansible-add-grafana-annotations](https://github.com/aorfanos/ansible-add-grafana-annotations) - An Ansible module to add annotations in Grafana.
+- [simonhq/accu_allergies](https://github.com/simonhq/accu_allergies) - HA allergy sensors from AccuWeather
+- [mrkarezina/awesome-search](https://github.com/mrkarezina/awesome-search) - Search community curated awesome list resources directly from Raycast or your CLI!
+- [claws/dump1090-exporter](https://github.com/claws/dump1090-exporter) - A Prometheus metrics exporter for the dump1090 Mode S decoder for RTLSDR
 - [pangeo-data/climpred](https://github.com/pangeo-data/climpred) - :earth_americas: Verification of weather and climate forecasts. :earth_africa:
 - [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
@@ -6450,7 +6471,7 @@
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
 - [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
@@ -7276,6 +7297,8 @@
 
 ## Shell 
 
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+- [adsbxchange/adsb-exchange](https://github.com/adsbxchange/adsb-exchange) - ADS-B Exchange Linux Setup Scripts
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 - [krezreb/singleton](https://github.com/krezreb/singleton) - Easily run scripts in singleton mode, no race conditions
 - [patrickmn/one.sh](https://github.com/patrickmn/one.sh) - Singleton command execution for Linux/BSD
