@@ -170,6 +170,7 @@
 
 ## C 
 
+- [viraptor/fm_tune](https://github.com/viraptor/fm_tune) - Calculate rough PPM estimate for SDR devices
 - [balenalabs-incubator/basicstation](https://github.com/balenalabs-incubator/basicstation) - LoRa Basics™ Station - The LoRaWAN Gateway Software
 - [nieluj/nntp-proxy](https://github.com/nieluj/nntp-proxy) - simple NNTP proxy with SSL support
 - [gl-inet/openwrt](https://github.com/gl-inet/openwrt) - This repository is fork from openwrt official repo, we will update the latest tag and release GL.iNet firmware based on it.
@@ -214,7 +215,7 @@
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [gl-inet/bletool](https://github.com/gl-inet/bletool) - 
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-- [garypang13/openwrt-packages](https://github.com/garypang13/openwrt-packages) - Only for Luci 19.07
+- [kiddin9/openwrt-packages](https://github.com/kiddin9/openwrt-packages) - Only for Luci 19.07
 - [old-dab/rtlsdr](https://github.com/old-dab/rtlsdr) - Software to turn the RTL2832U into a SDR
 - [madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter) - 
 - [dernasherbrezon/sdr-server](https://github.com/dernasherbrezon/sdr-server) - High performant TCP server for rtl-sdr
@@ -1198,6 +1199,13 @@
 
 ## Go 
 
+- [danielfm/aws-limits-exporter](https://github.com/danielfm/aws-limits-exporter) - Expose AWS service usage and limits to Prometheus
+- [kha7iq/drl-exporter](https://github.com/kha7iq/drl-exporter) - Prometheus exporter for dockerhub rate limits
+- [velp/netns-exporter](https://github.com/velp/netns-exporter) - Prometheus exporter for network namespaces
+- [cirocosta/dmesg_exporter](https://github.com/cirocosta/dmesg_exporter) - A "dmesg" prometheus exporter - metrics from the kernel messages ring buffer
+- [Shinzu/mtr_exporter](https://github.com/Shinzu/mtr_exporter) - mtr_exporter
+- [gree-gorey/geoip-exporter](https://github.com/gree-gorey/geoip-exporter) - GeoIP exporter for Prometheus
+- [ExpediaGroup/flyte](https://github.com/ExpediaGroup/flyte) - Flyte binds together the tools you use into easily defined, automated workflows
 - [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - 🧠 AI powered image tagger backed by DeepDetect
 - [mjs/aw-golang_sample_agent](https://github.com/mjs/aw-golang_sample_agent) - A minimal remote agent example for ActiveWorkflow in Go
 - [hypnoglow/chronologist](https://github.com/hypnoglow/chronologist) - 🎞 Continuously annotate Helm releases in Grafana.
@@ -1867,7 +1875,7 @@
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [inlets/inletsctl](https://github.com/inlets/inletsctl) - The fastest way to create self-hosted exit-servers
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
@@ -1953,7 +1961,7 @@
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [suyashkumar/getbin](https://github.com/suyashkumar/getbin) - 💻 Easily fetch latest GitHub release binaries (for your OS/arch) using just wget or curl
-- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate, all in one platform that runs on any cloud and on-premises.
+- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [mhristof/paste](https://github.com/mhristof/paste) - An alfred workflow to transform your clipboard
@@ -2813,6 +2821,8 @@
 
 ## JavaScript 
 
+- [MM2-0/Dialogflow2MQTT](https://github.com/MM2-0/Dialogflow2MQTT) - A webhook for Dialogflow that forwards incoming requests to an MQTT server
+- [DIYgod/download-webhook](https://github.com/DIYgod/download-webhook) - 🍰 Download files through webhook
 - [negative0/rclone-terminal](https://github.com/negative0/rclone-terminal) - Terminal extension for rclone webui react.
 - [negative0/rclone-file-viewer](https://github.com/negative0/rclone-file-viewer) - An official rclone plugin for viewing files like csv etc
 - [delirius325/axios-curlirize](https://github.com/delirius325/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
@@ -5175,6 +5185,7 @@
 
 ## Python 
 
+- [kibitzr/kibitzr](https://github.com/kibitzr/kibitzr) - Personal Web Assistant
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [aorfanos/ansible-add-grafana-annotations](https://github.com/aorfanos/ansible-add-grafana-annotations) - An Ansible module to add annotations in Grafana.
@@ -7668,7 +7679,7 @@
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [morgant/tools-osx](https://github.com/morgant/tools-osx) - A small collection of command line tools for Mac OS X, incl.: clipcat, dict, eject, launch, ql, swuser, trash & with.
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
-- [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
+- [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [Spearfoot/scripts-for-using-rsync](https://github.com/Spearfoot/scripts-for-using-rsync) - Shell scripts for using rsync
 - [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
@@ -7851,7 +7862,7 @@
 - [billimek/homelab-infrastructure](https://github.com/billimek/homelab-infrastructure) - Infrastructure info and setup for homelab
 - [boyney123/garie](https://github.com/boyney123/garie) - Open source web performance
 - [MacsInSpace/iOS-AirPrint-for-Mac](https://github.com/MacsInSpace/iOS-AirPrint-for-Mac) - enable iOS Airprint Sharing on Mac OS
-- [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) - Pure-Docker Sourcegraph cluster deployment reference
+- [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) - Sourcegraph with Docker Compose deployment reference
 - [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay!
 - [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
@@ -8347,6 +8358,7 @@
 
 ## TypeScript 
 
+- [wiseindy/timer-for-google-assistant](https://github.com/wiseindy/timer-for-google-assistant) - Allows you to send commands to Google Assistant that will execute after a certain time interval. Built using NodeJS.
 - [casanet/casanet-server](https://github.com/casanet/casanet-server) - Open-source server and dashboard to control IoT devices in a local home network
 - [balena-io/open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
 - [gregordr/ImageStore](https://github.com/gregordr/ImageStore) - Open source google photos alternative!
