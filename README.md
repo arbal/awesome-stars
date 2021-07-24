@@ -73,6 +73,7 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Processing](#processing)
+  - [Pug](#pug)
   - [PureBasic](#purebasic)
   - [Python](#python)
   - [R](#r)
@@ -1014,6 +1015,7 @@
 
 ## Dockerfile 
 
+- [BytesCo/docker-ncdu](https://github.com/BytesCo/docker-ncdu) - 
 - [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application.
 - [toby1991/minio-rclone-webdav-server](https://github.com/toby1991/minio-rclone-webdav-server) - A @rclone served WebDAV server with @minio as the s3 storage backend docker example
 - [johanpi/docker-webmin](https://github.com/johanpi/docker-webmin) - Docker container running Webmin on Ubuntu 20.04 LTS
@@ -1199,6 +1201,11 @@
 
 ## Go 
 
+- [ExpressenAB/cloudmonitor_exporter](https://github.com/ExpressenAB/cloudmonitor_exporter) - 
+- [fffonion/tplink-plug-exporter](https://github.com/fffonion/tplink-plug-exporter) - TP-Link Smart Plug Prometheus Exporter
+- [anas-aso/ssllabs_exporter](https://github.com/anas-aso/ssllabs_exporter) - Getting deep analysis of the configuration of any SSL web server on the public Internet à la blackbox_exporter style.
+- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
+- [mxplusb/cloudflare-sync](https://github.com/mxplusb/cloudflare-sync) - A nice to have, MIT-licensed tool for using Cloudflare as a dynamic DNS provider.
 - [danielfm/aws-limits-exporter](https://github.com/danielfm/aws-limits-exporter) - Expose AWS service usage and limits to Prometheus
 - [kha7iq/drl-exporter](https://github.com/kha7iq/drl-exporter) - Prometheus exporter for dockerhub rate limits
 - [velp/netns-exporter](https://github.com/velp/netns-exporter) - Prometheus exporter for network namespaces
@@ -2411,7 +2418,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [inkel/slacker](https://github.com/inkel/slacker) - Slack CLI to update status and presence
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management ⎈ 🖥 ☁️
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -2786,7 +2793,6 @@
 - [OpenIdentityPlatform/OpenDJ](https://github.com/OpenIdentityPlatform/OpenDJ) - OpenDJ is an LDAPv3 compliant directory service, which has been developed for the Java platform, providing a high performance, highly available, and secure store for the identities managed by your organization. Its easy installation process, combined with the power of the Java platform makes OpenDJ the simplest, fastest directory to deploy and manage.
 - [in28minutes/devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
 - [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-- [blynkkk/blynk-server](https://github.com/blynkkk/blynk-server) - Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes
 - [jprante/elasticsearch-plugin-bundle](https://github.com/jprante/elasticsearch-plugin-bundle) - A bundle of useful Elasticsearch plugins
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
@@ -2821,6 +2827,9 @@
 
 ## JavaScript 
 
+- [jamesbarnett91/tplink-energy-monitor](https://github.com/jamesbarnett91/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs
+- [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
+- [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [MM2-0/Dialogflow2MQTT](https://github.com/MM2-0/Dialogflow2MQTT) - A webhook for Dialogflow that forwards incoming requests to an MQTT server
 - [DIYgod/download-webhook](https://github.com/DIYgod/download-webhook) - 🍰 Download files through webhook
 - [negative0/rclone-terminal](https://github.com/negative0/rclone-terminal) - Terminal extension for rclone webui react.
@@ -4050,7 +4059,6 @@
 - [jgoerner/data-science-stack-cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter) - 🐳📊🤓Cookiecutter template to launch an awesome dockerized Data Science toolstack (incl. Jupyster, Superset, Postgres, Minio, AirFlow & API Star)
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [danecollins/fitbit](https://github.com/danecollins/fitbit) - Tools to analyze your fitbit data
-- [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark
 - [tmthydvnprt/pfcompute](https://github.com/tmthydvnprt/pfcompute) - Personal Finance library for the Computationally Curious.
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
 - [H21lab/Anomaly-Detection](https://github.com/H21lab/Anomaly-Detection) - Scripts to help to detect anomalies in pcap file. Anomaly Detection using tensorflow and tshark.
@@ -4093,7 +4101,7 @@
 - [blaylockbk/pyBKB_v3](https://github.com/blaylockbk/pyBKB_v3) - Python scripts that help me be a successfull meteorologist. (Python 3)
 - [anilsathyan7/Portrait-Segmentation](https://github.com/anilsathyan7/Portrait-Segmentation) - Real-time portrait segmentation for mobile devices
 - [kvos/CoastSat](https://github.com/kvos/CoastSat) - Global shoreline mapping tool from satellite imagery
-- [robmarkcole/coral-pi-rest-server](https://github.com/robmarkcole/coral-pi-rest-server) - Instead use
+- [robmarkcole/coral-pi-rest-server](https://github.com/robmarkcole/coral-pi-rest-server) - Perform inferencing of tensorflow-lite models on an RPi with acceleration from Coral USB stick
 - [BlockchainCommons/Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - A complete course for learning Bitcoin programming and usage from the command
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [microsoft/tensorwatch](https://github.com/microsoft/tensorwatch) - Debugging, monitoring and visualization for Python Machine Learning and Data Science
@@ -4299,6 +4307,7 @@
 
 ## Others 
 
+- [arbal/archive-imessages](https://github.com/arbal/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - Information for developers that want to work with Pacmax
 - [eutialia/open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from Alfred or Raycast
 - [rclone/rclone-plugins-repo](https://github.com/rclone/rclone-plugins-repo) - This is a repository to list plugins available for rclone-webui-react
@@ -5179,12 +5188,17 @@
 
 - [pavels/spektrum](https://github.com/pavels/spektrum) - rtl-sdr spectrum analyzer
 
+## Pug 
+
+- [cloudflare/1.1.1.1](https://github.com/cloudflare/1.1.1.1) - Cloudflare DNS resolver website.
+
 ## PureBasic 
 
 - [neuralet/models](https://github.com/neuralet/models) - Neuralet edge deep learning models library. Neuralet is an open-source platform for edge deep learning models on GPU, TPU, and more.
 
 ## Python 
 
+- [flavio-fernandes/mqtt2kasa](https://github.com/flavio-fernandes/mqtt2kasa) - Python-based project that provides wrapper to python-kasa for MQTT access
 - [kibitzr/kibitzr](https://github.com/kibitzr/kibitzr) - Personal Web Assistant
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -5496,7 +5510,7 @@
 - [rmax/parsel-cli](https://github.com/rmax/parsel-cli) - Parsel Command Line Interface
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [Yehia-Helwa/KerberosSDR-Automation](https://github.com/Yehia-Helwa/KerberosSDR-Automation) - Automates configuration and syncing of KerberosSDR
-- [NicholasDawson/ArchiverForGooglePhotos](https://github.com/NicholasDawson/ArchiverForGooglePhotos) - A tool that downloads all media from google photos.
+- [NicholasDawson/ArchiverForGooglePhotos](https://github.com/NicholasDawson/ArchiverForGooglePhotos) - A tool to maintain an archive/mirror of your Google Photos library for backup purposes.
 - [top-on/life-vault](https://github.com/top-on/life-vault) - Using selenium to automate google takeout routines
 - [sooryaprakash31/GMeet-Bot](https://github.com/sooryaprakash31/GMeet-Bot) - CLI bot for joining classes/meetings in Google Classroom.
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
@@ -5975,6 +5989,7 @@
 - [lensacom/sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [dask/distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
+- [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
 - [bitsofinfo/testssl.sh-alerts](https://github.com/bitsofinfo/testssl.sh-alerts) - Alerting engine (slack etc) for testssl.sh JSON result output files
 - [TKCERT/pathfinder](https://github.com/TKCERT/pathfinder) - Generates a graph of the traceroute information in nmap XML files using graphviz.
@@ -6349,7 +6364,7 @@
 - [pyhackertarget/hackertarget](https://github.com/pyhackertarget/hackertarget) - 🎯 HackerTarget ToolKit - Tools And Network Intelligence To Help Organizations With Attack Surface Discovery 🎯
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on PyTorch and MXNet
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [ohing504/ansible-role-swarmpit](https://github.com/ohing504/ansible-role-swarmpit) - Ansible role to install Swarmpit
 - [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
@@ -7308,6 +7323,10 @@
 
 ## Shell 
 
+- [5c0tt/archive-imessages](https://github.com/5c0tt/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
+- [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
+- [yulewang/cloudflare-api-v4-ddns](https://github.com/yulewang/cloudflare-api-v4-ddns) - Cloudflare API v4 Dynamic DNS Update in Bash
+- [tykarol/hassio-addons](https://github.com/tykarol/hassio-addons) - Rsync Backups add-on for Home Assistant
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [adsbxchange/adsb-exchange](https://github.com/adsbxchange/adsb-exchange) - ADS-B Exchange Linux Setup Scripts
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
@@ -8222,6 +8241,7 @@
 
 ## Swift 
 
+- [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [ricoberger/Alertmanager](https://github.com/ricoberger/Alertmanager) - Alertmanager for macOS.
 - [getGuaka/FileUtils](https://github.com/getGuaka/FileUtils) - Easy way to work with files, directories and paths in swift on macOS and linux.
 - [chbrown/macos-wifi](https://github.com/chbrown/macos-wifi) - MacOS Wi-Fi (CoreWLAN) utility
@@ -8358,6 +8378,7 @@
 
 ## TypeScript 
 
+- [functionland/photos](https://github.com/functionland/photos) - This is a gallery app based on react native+typescript that gives you the same smoothness and features of Google Photos or Apple Photos, but it's free and open source! It connects to decentralized backends like "box" (a new form factor),  IPFS, Filecoin, or even any centralized cloud service provider like AWS, Azure or your own server.
 - [wiseindy/timer-for-google-assistant](https://github.com/wiseindy/timer-for-google-assistant) - Allows you to send commands to Google Assistant that will execute after a certain time interval. Built using NodeJS.
 - [casanet/casanet-server](https://github.com/casanet/casanet-server) - Open-source server and dashboard to control IoT devices in a local home network
 - [balena-io/open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
