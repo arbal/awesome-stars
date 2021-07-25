@@ -947,7 +947,7 @@
 - [taroved/pol](https://github.com/taroved/pol) - RSS generator website
 - [amiechen/pretzel](https://github.com/amiechen/pretzel) - Pretzel is Mac desktop app that shows and find keyboard shortcuts based on your current app.
 - [romulomourao/tracemap](https://github.com/romulomourao/tracemap) - :pushpin: Tracemap is an app to visualize output of traceroute on the map. For educational purpose only.
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [rhicks/bgp-dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application
 - [domainzero/bookstack-dark-theme](https://github.com/domainzero/bookstack-dark-theme) - A dark theme for Bookstack using the dracula color scheme
 - [pascalandy/docker-stack-this](https://github.com/pascalandy/docker-stack-this) - A Docker Stack that just work. With Traefik, Socat, Portainer, Nginx, Caddy, Whoami
@@ -2827,6 +2827,7 @@
 
 ## JavaScript 
 
+- [jampez77/Multiline-Entity-Card](https://github.com/jampez77/Multiline-Entity-Card) - A custom entity card for Home Assistant that allows text to span multiple lines.
 - [jamesbarnett91/tplink-energy-monitor](https://github.com/jamesbarnett91/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
@@ -4235,6 +4236,7 @@
 
 ## Objective-C 
 
+- [aburgh/Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures.
 - [nriley/launch](https://github.com/nriley/launch) - A command-line launcher for macOS in the spirit of open(1).
 - [jslegendre/tccplus](https://github.com/jslegendre/tccplus) - tccutil with extended capabilities.  Grant/remove accessibility permissions to any app.
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle
@@ -7323,6 +7325,7 @@
 
 ## Shell 
 
+- [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [5c0tt/archive-imessages](https://github.com/5c0tt/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
 - [yulewang/cloudflare-api-v4-ddns](https://github.com/yulewang/cloudflare-api-v4-ddns) - Cloudflare API v4 Dynamic DNS Update in Bash
@@ -8469,7 +8472,7 @@
 - [nurikk/z2m-frontend](https://github.com/nurikk/z2m-frontend) - Zigbee2MQTT frontend
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
-- [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/Vue2/Vue3
+- [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
