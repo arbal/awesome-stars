@@ -171,6 +171,7 @@
 
 ## C 
 
+- [bareboat-necessities/my-bareboat](https://github.com/bareboat-necessities/my-bareboat) - Opensource hardware and software solutions for sailing and sailboats
 - [viraptor/fm_tune](https://github.com/viraptor/fm_tune) - Calculate rough PPM estimate for SDR devices
 - [balenalabs-incubator/basicstation](https://github.com/balenalabs-incubator/basicstation) - LoRa Basics™ Station - The LoRaWAN Gateway Software
 - [nieluj/nntp-proxy](https://github.com/nieluj/nntp-proxy) - simple NNTP proxy with SSL support
@@ -572,6 +573,7 @@
 
 ## C# # 
 
+- [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [cliveontoast/GoMoPho](https://github.com/cliveontoast/GoMoPho) - Google motion photos video extractor
 - [phil-d-wilson/BalenaLocating-ML](https://github.com/phil-d-wilson/BalenaLocating-ML) - PoC to show indoor BLE triangulation using RaspberryPi sensors, IOT Hub and a KNN classifier model
 - [phil-d-wilson/balena-locating](https://github.com/phil-d-wilson/balena-locating) - Never lose something important to you again by using Bluetooth Low Energy (BLE) beacons and Raspberry Pi sensors to track your stuff.
@@ -678,6 +680,9 @@
 
 ## C++ 
 
+- [RPi-Distro/RTIMULib](https://github.com/RPi-Distro/RTIMULib) - RTIMULib is a C++ and Python library that makes it easy to use 9-dof and 10-dof IMUs with embedded Linux systems (especially the Raspberry PI and Intel Edison!)
+- [tenable/routeros](https://github.com/tenable/routeros) - RouterOS Security Research Tooling and Proof of Concepts
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [myriadrf/kalibrate-lms](https://github.com/myriadrf/kalibrate-lms) - Fork of Kalibrate GSM signal detector and clock frequency offset calculator with support for LimeSDR hardware
 - [steve-m/kalibrate-rtl](https://github.com/steve-m/kalibrate-rtl) - fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 - [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
@@ -1015,6 +1020,9 @@
 
 ## Dockerfile 
 
+- [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
+- [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 🦎 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap)
+- [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
 - [BytesCo/docker-ncdu](https://github.com/BytesCo/docker-ncdu) - 
 - [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application.
 - [toby1991/minio-rclone-webdav-server](https://github.com/toby1991/minio-rclone-webdav-server) - A @rclone served WebDAV server with @minio as the s3 storage backend docker example
@@ -1201,6 +1209,11 @@
 
 ## Go 
 
+- [mlabouardy/nexus-cli](https://github.com/mlabouardy/nexus-cli) - Nexus CLI for Docker Registry v2 🐳
+- [gavv/webrtc-cli](https://github.com/gavv/webrtc-cli) - WebRTC command-line peer.
+- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
+- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
+- [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
 - [ExpressenAB/cloudmonitor_exporter](https://github.com/ExpressenAB/cloudmonitor_exporter) - 
 - [fffonion/tplink-plug-exporter](https://github.com/fffonion/tplink-plug-exporter) - TP-Link Smart Plug Prometheus Exporter
 - [anas-aso/ssllabs_exporter](https://github.com/anas-aso/ssllabs_exporter) - Getting deep analysis of the configuration of any SSL web server on the public Internet à la blackbox_exporter style.
@@ -2827,6 +2840,8 @@
 
 ## JavaScript 
 
+- [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [jampez77/Multiline-Entity-Card](https://github.com/jampez77/Multiline-Entity-Card) - A custom entity card for Home Assistant that allows text to span multiple lines.
 - [jamesbarnett91/tplink-energy-monitor](https://github.com/jamesbarnett91/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
@@ -3946,6 +3961,7 @@
 
 ## Jinja 
 
+- [forem/selfhost](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure 🎉
 - [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for most of my services.
 - [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
@@ -3993,6 +4009,7 @@
 
 ## Julia 
 
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaSpace/SatelliteToolbox.jl](https://github.com/JuliaSpace/SatelliteToolbox.jl) - A toolbox for satellite analysis written in julia language.
 - [JunoLab/Weave.jl](https://github.com/JunoLab/Weave.jl) - Scientific reports/literate programming for Julia
 - [svaksha/Julia.jl](https://github.com/svaksha/Julia.jl) - Curated decibans of Julia programming language.
@@ -4074,7 +4091,7 @@
 - [datadesk/california-coronavirus-data](https://github.com/datadesk/california-coronavirus-data) - The Los Angeles Times' independent tally of coronavirus cases in California.
 - [CAIDA/submarine-cable-impact-analysis-public](https://github.com/CAIDA/submarine-cable-impact-analysis-public) - This repository contains tools implemented for the PAM 2020 paper "Unintended consequences: Effects of submarine cable deployment on Internet routing" to collect and analyze data depicting the impact of the South-Atlantic Cable System (SACS) launch on Internet routing. This codebase can be extended to other use-cases of cable launches, failures, etc.
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
-- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - The AI Application Platform We All Need. Human AND Machine Intelligence. Based on experience building AI solutions at Panasonic: robotics predictive maintenance, cold-chain energy optimization, Gigafactory battery mfg, avionics, automotive cybersecurity, and more.
+- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [dolongbien/HumanBehaviorBKU](https://github.com/dolongbien/HumanBehaviorBKU) - Abnormal Human Behaviors Detection/ Road Accident Detection From Surveillance Videos/ Real-World Anomaly Detection in Surveillance Videos/ C3D Feature Extraction
 - [aqibsaeed/Human-Activity-Recognition-using-CNN](https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN) - Convolutional Neural Network for Human Activity Recognition in Tensorflow
@@ -4309,6 +4326,7 @@
 
 ## Others 
 
+- [arbal/speed-cloudflare-cli](https://github.com/arbal/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [arbal/archive-imessages](https://github.com/arbal/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - Information for developers that want to work with Pacmax
 - [eutialia/open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from Alfred or Raycast
@@ -5200,6 +5218,20 @@
 
 ## Python 
 
+- [GoVanguard/legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
+- [plucena24/network_discovery](https://github.com/plucena24/network_discovery) - Network Discovery tool - crawls the network, discovering devices and adding them to an inventory database.
+- [greenpau/ndmtk](https://github.com/greenpau/ndmtk) - Network Discovery and Management Toolkit
+- [chrismaddalena/ODIN](https://github.com/chrismaddalena/ODIN) - Automated network asset, email, and social media profile discovery and cataloguing.
+- [bwaldvogel/neighbourhood](https://github.com/bwaldvogel/neighbourhood) - Layer 2 network neighbourhood discovery tool that uses scapy
+- [MJL85/natlas](https://github.com/MJL85/natlas) - natlas - Network Discovery and Auto-Diagramming
+- [Neo23x0/littlesnitch-log-exporter](https://github.com/Neo23x0/littlesnitch-log-exporter) - LittleSnitch Log Statistics Exporter
+- [mushorg/snare](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot
+- [DinoTools/dionaea](https://github.com/DinoTools/dionaea) - Home of the dionaea honeypot
+- [p1r06u3/opencanary_web](https://github.com/p1r06u3/opencanary_web) - The web management platform of honeypot
+- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
+- [azogue/eventsensor](https://github.com/azogue/eventsensor) - HomeAssistant custom sensor to track specific events
+- [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
+- [briis/unifiprotect](https://github.com/briis/unifiprotect) - Control and monitor your Unifi Protect Cameras from Home Assistant
 - [flavio-fernandes/mqtt2kasa](https://github.com/flavio-fernandes/mqtt2kasa) - Python-based project that provides wrapper to python-kasa for MQTT access
 - [kibitzr/kibitzr](https://github.com/kibitzr/kibitzr) - Personal Web Assistant
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
@@ -5678,7 +5710,7 @@
 - [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
 - [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 - [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Build beautiful, publication-quality books and documents from computational content.
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [simonw/csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database
@@ -5716,7 +5748,7 @@
 - [EvaSeidlmayer/orcid-for-wikidata](https://github.com/EvaSeidlmayer/orcid-for-wikidata) - import information (affiliation, education) from ORCID database to Wikidata regarding authors of scientific papers
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [activeloopai/Hub](https://github.com/activeloopai/Hub) - Fastest dataset optimization and management for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 200 universities.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash) - 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡
@@ -7325,6 +7357,9 @@
 
 ## Shell 
 
+- [balenalabs-incubator/balena-prometheus-grafana](https://github.com/balenalabs-incubator/balena-prometheus-grafana) - 
+- [balena-io-examples/device-cloud-logging](https://github.com/balena-io-examples/device-cloud-logging) - An example of using the journald log streaming endpoint on balena-supervisor
+- [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [5c0tt/archive-imessages](https://github.com/5c0tt/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
@@ -8381,6 +8416,9 @@
 
 ## TypeScript 
 
+- [balena-io-examples/meta-exporter](https://github.com/balena-io-examples/meta-exporter) - The People's Exporter
+- [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
+- [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [functionland/photos](https://github.com/functionland/photos) - This is a gallery app based on react native+typescript that gives you the same smoothness and features of Google Photos or Apple Photos, but it's free and open source! It connects to decentralized backends like "box" (a new form factor),  IPFS, Filecoin, or even any centralized cloud service provider like AWS, Azure or your own server.
 - [wiseindy/timer-for-google-assistant](https://github.com/wiseindy/timer-for-google-assistant) - Allows you to send commands to Google Assistant that will execute after a certain time interval. Built using NodeJS.
 - [casanet/casanet-server](https://github.com/casanet/casanet-server) - Open-source server and dashboard to control IoT devices in a local home network
