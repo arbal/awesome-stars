@@ -171,6 +171,7 @@
 
 ## C 
 
+- [cornet/ccze](https://github.com/cornet/ccze) - ccze
 - [bareboat-necessities/my-bareboat](https://github.com/bareboat-necessities/my-bareboat) - Opensource hardware and software solutions for sailing and sailboats
 - [viraptor/fm_tune](https://github.com/viraptor/fm_tune) - Calculate rough PPM estimate for SDR devices
 - [balenalabs-incubator/basicstation](https://github.com/balenalabs-incubator/basicstation) - LoRa Basics™ Station - The LoRaWAN Gateway Software
@@ -1020,6 +1021,7 @@
 
 ## Dockerfile 
 
+- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 🦎 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap)
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
@@ -2628,7 +2630,6 @@
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [viasite-ansible/ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
-- [imjasonh/gcping](https://github.com/imjasonh/gcping) - Measure your latency to GCP regions
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 - [mritd/dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
@@ -2840,6 +2841,13 @@
 
 ## JavaScript 
 
+- [cloudflare/cloudflare-grafana-app](https://github.com/cloudflare/cloudflare-grafana-app) - Cloudflare Grafana App allows for the collection and graphing of Cloudflare analytics data over time.
+- [balena-io/balena-cli-advanced-masterclass](https://github.com/balena-io/balena-cli-advanced-masterclass) - A guide to the advanced features available in balena CLI
+- [balena-io/services-masterclass](https://github.com/balena-io/services-masterclass) - A guide to developing and deploying services on a balena device
+- [balena-io/debugging-masterclass](https://github.com/balena-io/debugging-masterclass) - A guide to debugging balena device issues
+- [balena-io/balena-cli-masterclass](https://github.com/balena-io/balena-cli-masterclass) - A guide to getting started with the balena CLI
+- [mo/color-hash-cli](https://github.com/mo/color-hash-cli) - Command line interface for the npm color-hash module; generates a color from an arbitrary string.
+- [balena-io-examples/multicontainer-getting-started](https://github.com/balena-io-examples/multicontainer-getting-started) - Get up and running quickly with a multicontainer setup on balena
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [jampez77/Multiline-Entity-Card](https://github.com/jampez77/Multiline-Entity-Card) - A custom entity card for Home Assistant that allows text to span multiple lines.
@@ -3964,6 +3972,7 @@
 - [forem/selfhost](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure 🎉
 - [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for most of my services.
 - [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
 - [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
@@ -4447,7 +4456,7 @@
 - [minio/awesome-minio](https://github.com/minio/awesome-minio) - A curated list of Awesome MinIO community projects.
 - [dillionverma/crypto-cli](https://github.com/dillionverma/crypto-cli) - The best cryptocurrency price CLI written in one line :moneybag:
 - [88lex/sa-guide](https://github.com/88lex/sa-guide) - Guide to creating multiple service accounts and using them with rclone sync or copy
-- [Arrin-KN1E/Gpredict-TRSP-Update](https://github.com/Arrin-KN1E/Gpredict-TRSP-Update) - Basic updates to the Gpredict .trsp files, which store satellite transponder data.
+- [Arrin-KN1E/Gpredict-TRSP-Upgrade](https://github.com/Arrin-KN1E/Gpredict-TRSP-Upgrade) - Basic upgrades to some Gpredict .trsp files, which store satellite transponder data.
 - [barbeau/awesome-gnss](https://github.com/barbeau/awesome-gnss) - Community list of open-source GNSS software and resources :satellite:
 - [gl-inet/ble2mqtt](https://github.com/gl-inet/ble2mqtt) - BLE 2 MQTT bridge on GL.iNet IoT gateway
 - [Timtech4u/awesome-cloudbuild](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build
@@ -4812,6 +4821,7 @@
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
+- [imjasonh/gcping](https://github.com/imjasonh/gcping) - 
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [vookimedlo/alfred-various-screenshots](https://github.com/vookimedlo/alfred-various-screenshots) - Alfred 3 & 4 workflow for taking various screenshots.
 - [kalakaru/GooglePopularTimeGraphAnalysis](https://github.com/kalakaru/GooglePopularTimeGraphAnalysis) - 
@@ -5136,6 +5146,7 @@
 
 ## Perl 
 
+- [raszi/colorize](https://github.com/raszi/colorize) - Log colorizer perl script
 - [centreon/centreon-plugins](https://github.com/centreon/centreon-plugins) - Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [henyxia/proxmox2netbox](https://github.com/henyxia/proxmox2netbox) - Promox information exporter
@@ -7133,6 +7144,8 @@
 
 ## Rust 
 
+- [aserowy/docker2mqtt](https://github.com/aserowy/docker2mqtt) - Monitor your docker environment over mqtt the easy way.
+- [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [frewsxcv/alert-after](https://github.com/frewsxcv/alert-after) - Get a desktop notification after a command finishes executing.
 - [TomFrost/fs_eventbridge](https://github.com/TomFrost/fs_eventbridge) - A TCP server to stream file-change events to a remote destination, written in Rust.
@@ -7397,7 +7410,6 @@
 - [hassiweb/docker-openairinterface-enb](https://github.com/hassiweb/docker-openairinterface-enb) - A Docker recipe of OpenAirInterface eNB
 - [pierrickrouxel/iocage-plugin-rtorrent-flood](https://github.com/pierrickrouxel/iocage-plugin-rtorrent-flood) - Artifact file(s) for rTorrent Flood iocage plugin
 - [qgis/homebrew-qgisdev](https://github.com/qgis/homebrew-qgisdev) - Homebrew recipes for QGIS and MacOS
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
 - [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
@@ -8416,6 +8428,7 @@
 
 ## TypeScript 
 
+- [zenozeng/color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and SHA256).
 - [balena-io-examples/meta-exporter](https://github.com/balena-io-examples/meta-exporter) - The People's Exporter
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
@@ -8440,7 +8453,7 @@
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [kuitos/axios-extensions](https://github.com/kuitos/axios-extensions) - 🍱 axios extensions lib, including throttle, cache, retry features etc...
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [bassrock/homebridge-flair](https://github.com/bassrock/homebridge-flair) - Homebridge Plugin for Flair Smart Vents
 - [ryantxu/annotations-panel](https://github.com/ryantxu/annotations-panel) - Annotatoins List Panel
