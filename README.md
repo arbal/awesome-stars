@@ -120,6 +120,7 @@
 
 ## AppleScript 
 
+- [naefl/alfred-kitty](https://github.com/naefl/alfred-kitty) - Alfred workflow to work more seamlessly with TUIs using Kitty's remote control API
 - [RobTrew/prelude-applescript](https://github.com/RobTrew/prelude-applescript) - Generic functions for macOS scripting with Applescript – function names as in Hoogle
 - [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder) - My repository of miscellaneous AppleScripts I've written for OS X
 - [squekisonmestips/clipeee-bot-farm](https://github.com/squekisonmestips/clipeee-bot-farm) - clipeee bot farm
@@ -171,6 +172,9 @@
 
 ## C 
 
+- [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
+- [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
+- [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
 - [cornet/ccze](https://github.com/cornet/ccze) - ccze
 - [bareboat-necessities/my-bareboat](https://github.com/bareboat-necessities/my-bareboat) - Opensource hardware and software solutions for sailing and sailboats
 - [viraptor/fm_tune](https://github.com/viraptor/fm_tune) - Calculate rough PPM estimate for SDR devices
@@ -681,6 +685,8 @@
 
 ## C++ 
 
+- [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
+- [wangyu-/tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [RPi-Distro/RTIMULib](https://github.com/RPi-Distro/RTIMULib) - RTIMULib is a C++ and Python library that makes it easy to use 9-dof and 10-dof IMUs with embedded Linux systems (especially the Raspberry PI and Intel Edison!)
 - [tenable/routeros](https://github.com/tenable/routeros) - RouterOS Security Research Tooling and Proof of Concepts
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
@@ -986,6 +992,7 @@
 
 ## CoffeeScript 
 
+- [flosse/sloc](https://github.com/flosse/sloc) - simple tool to count SLOC (source lines of code)
 - [balena-os/balena-raspberrypi](https://github.com/balena-os/balena-raspberrypi) - Balena support for RaspberryPI boards
 - [node-cache/node-cache](https://github.com/node-cache/node-cache) - a node internal (in-memory) caching module
 - [andreyvit/json-diff](https://github.com/andreyvit/json-diff) - Structural diff for JSON files
@@ -1211,6 +1218,13 @@
 
 ## Go 
 
+- [elastic/apm-server](https://github.com/elastic/apm-server) - APM Server
+- [rapidloop/pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server
+- [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
+- [TalkingData/owl](https://github.com/TalkingData/owl) - distributed monitoring system
+- [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
+- [drgrib/alfred](https://github.com/drgrib/alfred) - A fast, simple way to make Alfred workflow script filters in Go
+- [yo000/rctl_exporter](https://github.com/yo000/rctl_exporter) - Prometheus metrics exporter for FreeBSD rctl/racct
 - [mlabouardy/nexus-cli](https://github.com/mlabouardy/nexus-cli) - Nexus CLI for Docker Registry v2 🐳
 - [gavv/webrtc-cli](https://github.com/gavv/webrtc-cli) - WebRTC command-line peer.
 - [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
@@ -2584,7 +2598,7 @@
 - [TGiles/auto-lighthouse](https://github.com/TGiles/auto-lighthouse) - A utility package for automating lighthouse reporting
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
-- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [koutto/jok3r](https://github.com/koutto/jok3r) - Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework
 - [herf/la-covid](https://github.com/herf/la-covid) - COVID-19 data from Los Angeles Public Health
 - [Netflix/ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
@@ -2682,6 +2696,8 @@
 
 ## Java 
 
+- [OpenNMS/opennms](https://github.com/OpenNMS/opennms) - Enterprise-Grade Open-Source Network Management Platform
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [pschweitz/insidelog](https://github.com/pschweitz/insidelog) - [newer] Colorized real-time log viewer with remote tail over SSH support for Windows, Mac and Linux
 - [openpnp/openpnp](https://github.com/openpnp/openpnp) - Open Source SMT Pick and Place Hardware and Software
 - [bhattchaitanya/Grafana-Dashboard-Generator](https://github.com/bhattchaitanya/Grafana-Dashboard-Generator) - Automatic generation of Grafana dashboard for Jmeter scripts
@@ -2841,6 +2857,13 @@
 
 ## JavaScript 
 
+- [cryptocat/cryptocat](https://github.com/cryptocat/cryptocat) - Secure chat software for your computer.
+- [Theodo-UK/sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - Dev Tools for the Serverless World - Issues, PRs and ⭐️welcome!
+- [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [giangvo/alfred-workflow-nodejs](https://github.com/giangvo/alfred-workflow-nodejs) - A small library providing helpers to create Alfred Workflow
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 - [cloudflare/cloudflare-grafana-app](https://github.com/cloudflare/cloudflare-grafana-app) - Cloudflare Grafana App allows for the collection and graphing of Cloudflare analytics data over time.
 - [balena-io/balena-cli-advanced-masterclass](https://github.com/balena-io/balena-cli-advanced-masterclass) - A guide to the advanced features available in balena CLI
 - [balena-io/services-masterclass](https://github.com/balena-io/services-masterclass) - A guide to developing and deploying services on a balena device
@@ -3750,7 +3773,6 @@
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [sindresorhus/filenamify-cli](https://github.com/sindresorhus/filenamify-cli) - Convert a string to a valid safe filename on the command-line
 - [sindresorhus/filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid safe filename
-- [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [SterlingButters/ip-kvm-interface](https://github.com/SterlingButters/ip-kvm-interface) - DIY IP-KVM for Remote Desktop Access
 - [justinshenk/party-pi](https://github.com/justinshenk/party-pi) - Computer vision emotion :stuck_out_tongue_winking_eye: detection game in Flask with TensorFlow backend.
 - [philhawthorne/ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
@@ -4335,6 +4357,9 @@
 
 ## Others 
 
+- [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
+- [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
+- [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
 - [arbal/speed-cloudflare-cli](https://github.com/arbal/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [arbal/archive-imessages](https://github.com/arbal/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - Information for developers that want to work with Pacmax
@@ -4352,7 +4377,7 @@
 - [arbal/sdr-spectrum-monitor](https://github.com/arbal/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
 - [arbal/coral-audio-analysis](https://github.com/arbal/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [geerlingguy/ansible-role-awx](https://github.com/geerlingguy/ansible-role-awx) - Ansible Role - AWX
-- [ahuacate/proxmox-lxc-homelab](https://github.com/ahuacate/proxmox-lxc-homelab) - LXC Homelab Container Builds
+- [ahuacate/pve-homelab](https://github.com/ahuacate/pve-homelab) - LXC Homelab Container Builds
 - [myriadrf/LMS7002M-docs](https://github.com/myriadrf/LMS7002M-docs) - Documentation for the Lime Microsystems second generation transceiver IC
 - [bob-style/homebrew-moreutils](https://github.com/bob-style/homebrew-moreutils) - Moreutils for Homebrew with additional options
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -4990,6 +5015,7 @@
 
 ## PHP 
 
+- [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [bramus/mixed-content-scan](https://github.com/bramus/mixed-content-scan) - Scan your HTTPS-enabled website for Mixed Content
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
@@ -5229,6 +5255,10 @@
 
 ## Python 
 
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [Devil64-Dev/automated-dtool](https://github.com/Devil64-Dev/automated-dtool) - Python script to automate youtube-dl downloads
+- [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
+- [GoogleChrome/chromium-dashboard](https://github.com/GoogleChrome/chromium-dashboard) - Chrome Status Dashboard
 - [GoVanguard/legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
 - [plucena24/network_discovery](https://github.com/plucena24/network_discovery) - Network Discovery tool - crawls the network, discovering devices and adding them to an inventory database.
 - [greenpau/ndmtk](https://github.com/greenpau/ndmtk) - Network Discovery and Management Toolkit
@@ -5995,7 +6025,7 @@
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [freol35241/ltss](https://github.com/freol35241/ltss) - Long time state storage (LTSS) custom component for Home Assistant using Timescale DB
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
-- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
+- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, ETA and very cool animations!
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -7350,6 +7380,7 @@
 
 ## Scala 
 
+- [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
 - [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [zaratsian/network_topology_analysis](https://github.com/zaratsian/network_topology_analysis) - Code to collect and analyze traceroute data within a network topology
 - [mesos/chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
@@ -7370,6 +7401,8 @@
 
 ## Shell 
 
+- [ddelange/yt](https://github.com/ddelange/yt) - Fine-tuning the use of youtube-dl for audio and videophiles
+- [mlabouardy/grafana-dashboards](https://github.com/mlabouardy/grafana-dashboards) - List of Grafana Dashboards 📺
 - [balenalabs-incubator/balena-prometheus-grafana](https://github.com/balenalabs-incubator/balena-prometheus-grafana) - 
 - [balena-io-examples/device-cloud-logging](https://github.com/balena-io-examples/device-cloud-logging) - An example of using the journald log streaming endpoint on balena-supervisor
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
@@ -8291,6 +8324,7 @@
 
 ## Swift 
 
+- [Building42/Telegraph](https://github.com/Building42/Telegraph) - Secure Web Server for iOS, tvOS and macOS
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [ricoberger/Alertmanager](https://github.com/ricoberger/Alertmanager) - Alertmanager for macOS.
 - [getGuaka/FileUtils](https://github.com/getGuaka/FileUtils) - Easy way to work with files, directories and paths in swift on macOS and linux.
@@ -8428,6 +8462,7 @@
 
 ## TypeScript 
 
+- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
 - [zenozeng/color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and SHA256).
 - [balena-io-examples/meta-exporter](https://github.com/balena-io-examples/meta-exporter) - The People's Exporter
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
@@ -8748,6 +8783,7 @@
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
+- [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [evandcoleman/node-appletv](https://github.com/evandcoleman/node-appletv) - A node module for interacting with an Apple TV (4th-generation or later) over the Media Remote Protocol.
 - [openzim/mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
