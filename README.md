@@ -178,7 +178,7 @@
 - [cornet/ccze](https://github.com/cornet/ccze) - ccze
 - [bareboat-necessities/my-bareboat](https://github.com/bareboat-necessities/my-bareboat) - Opensource hardware and software solutions for sailing and sailboats
 - [viraptor/fm_tune](https://github.com/viraptor/fm_tune) - Calculate rough PPM estimate for SDR devices
-- [balenalabs-incubator/basicstation](https://github.com/balenalabs-incubator/basicstation) - LoRa Basics™ Station - The LoRaWAN Gateway Software
+- [mpous/basicstation](https://github.com/mpous/basicstation) - LoRa Basics™ Station - The LoRaWAN Gateway Software
 - [nieluj/nntp-proxy](https://github.com/nieluj/nntp-proxy) - simple NNTP proxy with SSL support
 - [gl-inet/openwrt](https://github.com/gl-inet/openwrt) - This repository is fork from openwrt official repo, we will update the latest tag and release GL.iNet firmware based on it.
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
@@ -578,6 +578,7 @@
 
 ## C# # 
 
+- [v-braun/gh-urls](https://github.com/v-braun/gh-urls) - resolves API, HTML and RAW Urls for GitHub repositories
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [cliveontoast/GoMoPho](https://github.com/cliveontoast/GoMoPho) - Google motion photos video extractor
 - [phil-d-wilson/BalenaLocating-ML](https://github.com/phil-d-wilson/BalenaLocating-ML) - PoC to show indoor BLE triangulation using RaspberryPi sensors, IOT Hub and a KNN classifier model
@@ -1028,6 +1029,7 @@
 
 ## Dockerfile 
 
+- [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
 - [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 🦎 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap)
@@ -1218,6 +1220,8 @@
 
 ## Go 
 
+- [livepeer/lpms](https://github.com/livepeer/lpms) - Livepeer media server
+- [Telmate/proxmox-api-go](https://github.com/Telmate/proxmox-api-go) - Consume the proxmox API in golang
 - [elastic/apm-server](https://github.com/elastic/apm-server) - APM Server
 - [rapidloop/pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
@@ -2696,6 +2700,7 @@
 
 ## Java 
 
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [OpenNMS/opennms](https://github.com/OpenNMS/opennms) - Enterprise-Grade Open-Source Network Management Platform
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [pschweitz/insidelog](https://github.com/pschweitz/insidelog) - [newer] Colorized real-time log viewer with remote tail over SSH support for Windows, Mac and Linux
@@ -2857,6 +2862,12 @@
 
 ## JavaScript 
 
+- [github-modules/github-url-to-object](https://github.com/github-modules/github-url-to-object) - A node module that extracts useful properties like user, repo, and branch from various flavors of GitHub URLs.
+- [jonschlinkert/parse-github-url](https://github.com/jonschlinkert/parse-github-url) - Parse a Github URL into an object. Supports a wide variety of GitHub URL formats.
+- [mattdesl/gh-md-urls](https://github.com/mattdesl/gh-md-urls) - find and resolve URLs in GitHub Markdown
+- [mattdesl/gh-readme-scrape](https://github.com/mattdesl/gh-readme-scrape) - a CLI to bulk download URLs (images/pdfs/etc) from GitHub readmes
+- [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Adapted Custom-ui for HA 110+ / HA 2021.6
+- [FlatFilers/csvjson-csv2json](https://github.com/FlatFilers/csvjson-csv2json) - Converts CSV to JSON. Powers the most used online tool CSVJSON. Used by thousands everyday.
 - [cryptocat/cryptocat](https://github.com/cryptocat/cryptocat) - Secure chat software for your computer.
 - [Theodo-UK/sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - Dev Tools for the Serverless World - Issues, PRs and ⭐️welcome!
 - [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
@@ -4357,6 +4368,7 @@
 
 ## Others 
 
+- [geerlingguy/awx-container](https://github.com/geerlingguy/awx-container) - Ansible Container project that manages the lifecycle of AWX on Docker.
 - [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
@@ -5255,6 +5267,21 @@
 
 ## Python 
 
+- [inveniosoftware/invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
+- [zenodo/zenodo](https://github.com/zenodo/zenodo) - Research. Shared.
+- [sdx23/zotadd](https://github.com/sdx23/zotadd) - A simple script to add pdf-files to Zotero via CLI
+- [fallaciousreasoning/CalibreLibgenStore](https://github.com/fallaciousreasoning/CalibreLibgenStore) - A Libgen Fiction store plugin for Calibre
+- [mdbiz/pypdfocr](https://github.com/mdbiz/pypdfocr) - Python script to do PDF OCR conversion using Tesseract
+- [obuenfil/pypdfocr](https://github.com/obuenfil/pypdfocr) - Python script to do PDF OCR conversion using Tesseract
+- [benjsec/pypdfocr](https://github.com/benjsec/pypdfocr) - Python script to do PDF OCR conversion using Tesseract
+- [pseudo-apt/pypdfocr](https://github.com/pseudo-apt/pypdfocr) - Python script to do PDF OCR conversion using Tesseract
+- [rasa/pypdfocr](https://github.com/rasa/pypdfocr) - Python script to do PDF OCR conversion using Tesseract
+- [virantha/pypdfocr](https://github.com/virantha/pypdfocr) - Python script to do PDF OCR conversion using Tesseract
+- [jdmonaco/pdf-title-rename](https://github.com/jdmonaco/pdf-title-rename) - A script to batch rename PDF files based on metadata/XMP title and author
+- [metebalci/pdftitle](https://github.com/metebalci/pdftitle) - a utility to extract the title of a PDF article
+- [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [khaitun1998/speedtest-all-server](https://github.com/khaitun1998/speedtest-all-server) - Python script to run speedtest-cli on all available servers
+- [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter) - Speedtest Exporter made in python using the official speedtest bin
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [Devil64-Dev/automated-dtool](https://github.com/Devil64-Dev/automated-dtool) - Python script to automate youtube-dl downloads
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
@@ -7019,6 +7046,8 @@
 
 ## Ruby 
 
+- [agilecreativity/ebook_renamer](https://github.com/agilecreativity/ebook_renamer) - Rename multiple ebooks (pdf, epub, mobi) based on embedded meta-data.
+- [darwin/csv2json](https://github.com/darwin/csv2json) - A gem useful for converting CSV files to JSON from command-line
 - [guard/listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
 - [ttscoff/doing](https://github.com/ttscoff/doing) - 
 - [textacular/textacular](https://github.com/textacular/textacular) - Textacular exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular will extend ActiveRecord with named_scope methods making searching easy and fun!
@@ -7401,6 +7430,8 @@
 
 ## Shell 
 
+- [balena-os/balenahup](https://github.com/balena-os/balenahup) - BALENA Host os UPdater
+- [attente/ghurl](https://github.com/attente/ghurl) - Print a URL to a GitHub repository or source file.
 - [ddelange/yt](https://github.com/ddelange/yt) - Fine-tuning the use of youtube-dl for audio and videophiles
 - [mlabouardy/grafana-dashboards](https://github.com/mlabouardy/grafana-dashboards) - List of Grafana Dashboards 📺
 - [balenalabs-incubator/balena-prometheus-grafana](https://github.com/balenalabs-incubator/balena-prometheus-grafana) - 
@@ -7474,7 +7505,7 @@
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [ten7/tractorbeam](https://github.com/ten7/tractorbeam) - Open source multi-tier website backups
 - [deflax/sysadmin](https://github.com/deflax/sysadmin) - scripts, howtos, etc. for various system administrative tasks
-- [oky2abbas/ellaco](https://github.com/oky2abbas/ellaco) - A manager for automating download lists based on youtube-dl
+- [oky2abbas/easyYoutubeDL](https://github.com/oky2abbas/easyYoutubeDL) - A manager for automating download lists based on youtube-dl
 - [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
 - [uselibrary/Aria2Drive](https://github.com/uselibrary/Aria2Drive) - Script for oneindex, aria2, AriaNG and rclone to built remote cloud storage
 - [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
