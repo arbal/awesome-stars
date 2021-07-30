@@ -1029,6 +1029,7 @@
 
 ## Dockerfile 
 
+- [gerritjandebruin/home-assistant-kaku-doorbell](https://github.com/gerritjandebruin/home-assistant-kaku-doorbell) - Home Assistant Add-on that allows to capture the KlikAanKlikUit Doorbell with RTL-SDR.
 - [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
 - [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
@@ -1220,6 +1221,7 @@
 
 ## Go 
 
+- [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [livepeer/lpms](https://github.com/livepeer/lpms) - Livepeer media server
 - [Telmate/proxmox-api-go](https://github.com/Telmate/proxmox-api-go) - Consume the proxmox API in golang
 - [elastic/apm-server](https://github.com/elastic/apm-server) - APM Server
@@ -1663,7 +1665,7 @@
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - cloudquery transforms your cloud infrastructure into SQL database for easy monitoring, governance and security.
 - [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - Like gcping.com but a command line tool
+- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com
 - [googlearchive/cloud-functions-go](https://github.com/googlearchive/cloud-functions-go) - Unofficial Native Go Runtime for Google Cloud Functions
 - [GoogleCloudPlatform/berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -1914,7 +1916,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
-- [inlets/inletsctl](https://github.com/inlets/inletsctl) - The fastest way to create self-hosted exit-servers
+- [inlets/inletsctl](https://github.com/inlets/inletsctl) - Create inlets servers on the top cloud platforms
 - [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
@@ -2533,7 +2535,6 @@
 - [vivami/proxmox-automation](https://github.com/vivami/proxmox-automation) - Terraform and Ansible for VM and CT deployment and provisioning on Proxmox
 - [BarisGece/mHC](https://github.com/BarisGece/mHC) - The easy-way to create and manage a Mini Home Cloud. mHC is built using Shell, Proxmox-VE, Packer, Terraform, Ansible and is not completely reliable for Production environments.
 - [kojiromike/inception](https://github.com/kojiromike/inception) - Wrap dind to run a container at arbitrary depth
-- [IronicBadger/infra](https://github.com/IronicBadger/infra) - 99.9% less leaked credentials
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [dopry/cloud-netbench](https://github.com/dopry/cloud-netbench) - 
 - [NickMRamirez/Proxy-Benchmarks](https://github.com/NickMRamirez/Proxy-Benchmarks) - Benchmarks for several proxies
@@ -2862,6 +2863,8 @@
 
 ## JavaScript 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [zotero/translators](https://github.com/zotero/translators) - Zotero Translators
 - [github-modules/github-url-to-object](https://github.com/github-modules/github-url-to-object) - A node module that extracts useful properties like user, repo, and branch from various flavors of GitHub URLs.
 - [jonschlinkert/parse-github-url](https://github.com/jonschlinkert/parse-github-url) - Parse a Github URL into an object. Supports a wide variety of GitHub URL formats.
 - [mattdesl/gh-md-urls](https://github.com/mattdesl/gh-md-urls) - find and resolve URLs in GitHub Markdown
@@ -3096,7 +3099,7 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
-- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 - [GoogleChromeLabs/pptraas.com](https://github.com/GoogleChromeLabs/pptraas.com) - Puppeteer as a service
@@ -4015,6 +4018,7 @@
 - [hassio-addons/addon-spotify-connect](https://github.com/hassio-addons/addon-spotify-connect) - Spotify Connect - Home Assistant Community Add-ons
 - [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast) - AirCast - Home Assistant Community Add-ons
 - [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible.
+- [IronicBadger/infra](https://github.com/IronicBadger/infra) - 99.9% less leaked credentials
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
@@ -4235,7 +4239,7 @@
 - [KROSF/cloud](https://github.com/KROSF/cloud) - Self Hosted :cloud:
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [kangaechu/aws-vault-alfred-workflow](https://github.com/kangaechu/aws-vault-alfred-workflow) - Alfred workflow to Open AWS in your browser via aws-vault
-- [deepsweet/chromium-headless-remote](https://github.com/deepsweet/chromium-headless-remote) - 🐳 Dockerized Chromium in headless remote debugging mode
+- [kir-belevich/chromium-headless-remote](https://github.com/kir-belevich/chromium-headless-remote) - 🐳 Dockerized Chromium in headless remote debugging mode
 - [docker-science/cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [turnkeylinux-apps/core](https://github.com/turnkeylinux-apps/core) - TurnKey Core - Common Base for All Appliances
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -4368,6 +4372,7 @@
 
 ## Others 
 
+- [mestadler/openwrt-pi4](https://github.com/mestadler/openwrt-pi4) - OpenWRT on Pi4
 - [geerlingguy/awx-container](https://github.com/geerlingguy/awx-container) - Ansible Container project that manages the lifecycle of AWX on Docker.
 - [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
@@ -5267,6 +5272,8 @@
 
 ## Python 
 
+- [fallenangel3k/sdr-spectrum-monitor](https://github.com/fallenangel3k/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Remove Background from Video and Images with a simple command line interface
 - [inveniosoftware/invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
 - [zenodo/zenodo](https://github.com/zenodo/zenodo) - Research. Shared.
 - [sdx23/zotadd](https://github.com/sdx23/zotadd) - A simple script to add pdf-files to Zotero via CLI
@@ -6959,7 +6966,7 @@
 - [jay0lee/got-your-back](https://github.com/jay0lee/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [stevenleeg/geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [pkpio/fitbit-googlefit](https://github.com/pkpio/fitbit-googlefit) - Export Fitbit data to Google Fit. Unlike the alternatives such as fitnessyncer.com, this offers very fine intraday granularity (every minute/second data).
 - [marshall/logcat-color](https://github.com/marshall/logcat-color) - A colorful and highly configurable alternative to the standard "adb logcat" command from the Android SDK
 - [jim-easterbrook/pywws](https://github.com/jim-easterbrook/pywws) - Python software for USB Wireless WeatherStations
@@ -7430,6 +7437,9 @@
 
 ## Shell 
 
+- [ar18-linux/libstderred](https://github.com/ar18-linux/libstderred) - 
+- [bash-suite/gh-latest](https://github.com/bash-suite/gh-latest) - Simple utility to get the latest release version from GitHub repository
+- [tjluoma/pkginstall](https://github.com/tjluoma/pkginstall) - shell script for installing packages via Mac OS X's `installer` program instead of GUI
 - [balena-os/balenahup](https://github.com/balena-os/balenahup) - BALENA Host os UPdater
 - [attente/ghurl](https://github.com/attente/ghurl) - Print a URL to a GitHub repository or source file.
 - [ddelange/yt](https://github.com/ddelange/yt) - Fine-tuning the use of youtube-dl for audio and videophiles
@@ -8355,6 +8365,7 @@
 
 ## Swift 
 
+- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 - [Building42/Telegraph](https://github.com/Building42/Telegraph) - Secure Web Server for iOS, tvOS and macOS
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [ricoberger/Alertmanager](https://github.com/ricoberger/Alertmanager) - Alertmanager for macOS.
@@ -8597,7 +8608,7 @@
 - [haythem/public-ip](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address
 - [Slynova-Org/flydrive](https://github.com/Slynova-Org/flydrive) - ☁️ Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
-- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing, includes AWS, GCP and Azure
+- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Includes AWS, Azure and GCP.
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
