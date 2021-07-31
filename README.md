@@ -102,6 +102,7 @@
   - [VBA](#vba)
   - [VHDL](#vhdl)
   - [Vala](#vala)
+  - [Verilog](#verilog)
   - [Vim script](#vim-script)
   - [Visual Basic](#visual-basic)
   - [Visual Basic .NET](#visual-basic-.net)
@@ -172,6 +173,8 @@
 
 ## C 
 
+- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source 802.11 WiFi baseband chip/FPGA design
+- [mossmann/hackrf](https://github.com/mossmann/hackrf) - low cost software radio platform
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
@@ -578,6 +581,7 @@
 
 ## C# # 
 
+- [nandortoth/rtlsdr-manager](https://github.com/nandortoth/rtlsdr-manager) - .NET Core library to manage RTL-SDR devices
 - [v-braun/gh-urls](https://github.com/v-braun/gh-urls) - resolves API, HTML and RAW Urls for GitHub repositories
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [cliveontoast/GoMoPho](https://github.com/cliveontoast/GoMoPho) - Google motion photos video extractor
@@ -686,6 +690,10 @@
 
 ## C++ 
 
+- [pothosware/PothosFlow](https://github.com/pothosware/PothosFlow) - GUI frontend and designer tool for the Pothos framework
+- [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
+- [pothosware/PothosCore](https://github.com/pothosware/PothosCore) - The Pothos data-flow framework
+- [miek/inspectrum](https://github.com/miek/inspectrum) - Radio signal analyser
 - [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
 - [wangyu-/tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [RPi-Distro/RTIMULib](https://github.com/RPi-Distro/RTIMULib) - RTIMULib is a C++ and Python library that makes it easy to use 9-dof and 10-dof IMUs with embedded Linux systems (especially the Raspberry PI and Intel Edison!)
@@ -1221,6 +1229,7 @@
 
 ## Go 
 
+- [klauspost/geoip-service](https://github.com/klauspost/geoip-service) - A fast in-memory http microservice for looking up MaxMind GeoIP2 and GeoLite2 database
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [livepeer/lpms](https://github.com/livepeer/lpms) - Livepeer media server
 - [Telmate/proxmox-api-go](https://github.com/Telmate/proxmox-api-go) - Consume the proxmox API in golang
@@ -1448,7 +1457,7 @@
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 - [nickysemenza/onhub-prometheus](https://github.com/nickysemenza/onhub-prometheus) - Expose onhub wifi metrics to prometheus
 - [arkits/onhub-web](https://github.com/arkits/onhub-web) - The missing Web UI for Google OnHub and Google Wifi Devices
-- [NeonSludge/ansible-dns-inventory](https://github.com/NeonSludge/ansible-dns-inventory) - A dynamic inventory script for Ansible that discovers hosts and groups via a DNS request and organizes them into a tree.
+- [NeonSludge/ansible-dns-inventory](https://github.com/NeonSludge/ansible-dns-inventory) - A dynamic inventory script for Ansible that uses DNS to discover hosts and groups and represents the resulting inventory as a tree.
 - [ricoberger/loki_exporter](https://github.com/ricoberger/loki_exporter) - Prometheus exporter to collect metrics and run queries against the Grafana Loki API.
 - [othalla/plex_exporter](https://github.com/othalla/plex_exporter) - Prometheus exporter for Plex Media Server
 - [arnarg/plex_exporter](https://github.com/arnarg/plex_exporter) - A Prometheus exporter for a few metrics from Plex Media Server
@@ -2863,6 +2872,7 @@
 
 ## JavaScript 
 
+- [jhackshaw/tspvis](https://github.com/jhackshaw/tspvis) - 🗺️   Visualize and control algorithms for the traveling salesman problem
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [zotero/translators](https://github.com/zotero/translators) - Zotero Translators
 - [github-modules/github-url-to-object](https://github.com/github-modules/github-url-to-object) - A node module that extracts useful properties like user, repo, and branch from various flavors of GitHub URLs.
@@ -2911,7 +2921,6 @@
 - [bitpay/bitcore](https://github.com/bitpay/bitcore) - A full stack for bitcoin and blockchain-based applications
 - [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
 - [JeffResc/SimpleSignage](https://github.com/JeffResc/SimpleSignage) - A simple signage display program built for Raspberry Pis
-- [JeffreyDavidsz/VICREO-Listener](https://github.com/JeffreyDavidsz/VICREO-Listener) - 
 - [josephdadams/TimeKeeper](https://github.com/josephdadams/TimeKeeper) - A Node.js server supporting a generic API to create and display timers, countdowns, and messages to client browsers.
 - [muralikg/puppetcam](https://github.com/muralikg/puppetcam) - Export puppeteer tab as webm video
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, containing all features of AriaNg and more features for desktop.
@@ -4265,6 +4274,7 @@
 
 ## Matlab 
 
+- [myriadrf/LimeSDR_Workshop](https://github.com/myriadrf/LimeSDR_Workshop) - Intro to software-defined radio with LimeSDR workshop
 - [beckel/nilm-eval](https://github.com/beckel/nilm-eval) - NILM-EVAL: An evaluation framework for non-intrusive load monitoring algorithms
 
 ## Mustache 
@@ -4299,6 +4309,7 @@
 
 ## Objective-C 
 
+- [robmathers/WhereAmI](https://github.com/robmathers/WhereAmI) - A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework.
 - [aburgh/Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures.
 - [nriley/launch](https://github.com/nriley/launch) - A command-line launcher for macOS in the spirit of open(1).
 - [jslegendre/tccplus](https://github.com/jslegendre/tccplus) - tccutil with extended capabilities.  Grant/remove accessibility permissions to any app.
@@ -4372,6 +4383,8 @@
 
 ## Others 
 
+- [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
+- [gnuradio/gr-etcetera](https://github.com/gnuradio/gr-etcetera) - Additional PyBOMBS recipes that aren't in gr-recipes
 - [mestadler/openwrt-pi4](https://github.com/mestadler/openwrt-pi4) - OpenWRT on Pi4
 - [geerlingguy/awx-container](https://github.com/geerlingguy/awx-container) - Ansible Container project that manages the lifecycle of AWX on Docker.
 - [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
@@ -5272,6 +5285,16 @@
 
 ## Python 
 
+- [Lunik/gitea_prometheus_exporter](https://github.com/Lunik/gitea_prometheus_exporter) - Prometheus exporter for Gitea repositories metrics
+- [lheimbs/probemon](https://github.com/lheimbs/probemon) - A complex CLI to allow easy monitoring and logging 802.11 probe frames to multiple targets like a SQL database or MQTT
+- [BoBiene/probemon-docker](https://github.com/BoBiene/probemon-docker) - 
+- [klein0r/probemon](https://github.com/klein0r/probemon) - A simple command line tool for monitoring and logging 802.11 probe frames to mqtt
+- [mgp25/Probe-Hunter](https://github.com/mgp25/Probe-Hunter) - Probe Request sniffer + Wigle
+- [SkypLabs/probequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests
+- [hkm/whoishere.py](https://github.com/hkm/whoishere.py) - WIFI Client Detection - Identify people by assigning a name to a device performing a wireless probe request.
+- [WiPi-Hunter/PiDense](https://github.com/WiPi-Hunter/PiDense) - 🍓📡🍍Monitor illegal wireless network activities. (Fake Access Points), (WiFi Threats: KARMA Attacks, WiFi Pineapple, Similar SSID, OPN Network Density etc.)
+- [kootenpv/access_points](https://github.com/kootenpv/access_points) - Scan your WiFi and get access point information and signal quality
+- [CRED-CLUB/ARTIF](https://github.com/CRED-CLUB/ARTIF) - An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data.
 - [fallenangel3k/sdr-spectrum-monitor](https://github.com/fallenangel3k/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Remove Background from Video and Images with a simple command line interface
 - [inveniosoftware/invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
@@ -7437,6 +7460,8 @@
 
 ## Shell 
 
+- [offlinehacker/docker-ap](https://github.com/offlinehacker/docker-ap) - WIFI access point running in docker
+- [Tommrodrigues/ProbeOSX](https://github.com/Tommrodrigues/ProbeOSX) - Capture and interpret probe requests with macOS
 - [ar18-linux/libstderred](https://github.com/ar18-linux/libstderred) - 
 - [bash-suite/gh-latest](https://github.com/bash-suite/gh-latest) - Simple utility to get the latest release version from GitHub repository
 - [tjluoma/pkginstall](https://github.com/tjluoma/pkginstall) - shell script for installing packages via Mac OS X's `installer` program instead of GUI
@@ -7524,7 +7549,7 @@
 - [trozler/whereAmI](https://github.com/trozler/whereAmI) - A short shell script that returns you your IPv4 address and its geolocation.
 - [htr-tech/track-ip](https://github.com/htr-tech/track-ip) - Advanced Ip Tracker Tool
 - [VHSgunzo/tor2tun](https://github.com/VHSgunzo/tor2tun) - tor2tun
-- [Trigus42/Private-LAN](https://github.com/Trigus42/Private-LAN) - Bring back online privacy to your home network, routing traffic trough a vpn, filtering dns queries with Pi-Hole and encrypting them with DNS-Crypt.
+- [Trigus42/Private-LAN](https://github.com/Trigus42/Private-LAN) - Route traffic trough a VPN, filter DNS queries with Pi-Hole and encrypt them with DNS-Crypt or use Unbound as a local DNS resolver.
 - [sparanoid/live-dl](https://github.com/sparanoid/live-dl) - Monitor and download live streams from YouTube
 - [hassio-addons/addon-mqtt](https://github.com/hassio-addons/addon-mqtt) - MQTT Server & Web client - Home Assistant Community Add-ons
 - [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
@@ -8504,6 +8529,7 @@
 
 ## TypeScript 
 
+- [jhackshaw/iplocate](https://github.com/jhackshaw/iplocate) - Geolocate and plot ipv4 and ipv6 addresses
 - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
 - [zenozeng/color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and SHA256).
 - [balena-io-examples/meta-exporter](https://github.com/balena-io-examples/meta-exporter) - The People's Exporter
@@ -8749,7 +8775,7 @@
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊 Beautiful and interactive data visualization platform, for metrics,logs,traces and big-screens
+- [datav-io/datav](https://github.com/datav-io/datav) - As an open-source alternative to DataDog&NewRelic, Datav is a modern apm for metrics/traces/logs, and has a built-in independent data visualization platform(like grafana,but much better for apm purpose)📊.      Datav has fully native support for @open-telemetry.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rlivings39/vscode-fzf-quick-open](https://github.com/rlivings39/vscode-fzf-quick-open) - vscode extension providing quick file/folder open and searching using fzf
@@ -8888,6 +8914,10 @@
 
 - [bcedu/VGrive](https://github.com/bcedu/VGrive) - Google Drive client  for linux
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+
+## Verilog 
+
+- [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - FPGA/hardware design of openwifi
 
 ## Vim script 
 
