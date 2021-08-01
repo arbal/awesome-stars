@@ -505,6 +505,7 @@
 - [nsacyber/simon-speck-supercop](https://github.com/nsacyber/simon-speck-supercop) - Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit. #nsacyber
 - [linux-apfs/apfsprogs](https://github.com/linux-apfs/apfsprogs) - Experimental APFS tools for linux
 - [dosfstools/dosfstools](https://github.com/dosfstools/dosfstools) - dosfstools consists of the programs mkfs.fat, fsck.fat and fatlabel to create, check and label file systems of the FAT family.
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [ChrisJohnsen/tmux-MacOSX-pasteboard](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [trailofbits/osquery-extensions](https://github.com/trailofbits/osquery-extensions) - osquery extensions by Trail of Bits
@@ -581,6 +582,7 @@
 
 ## C# # 
 
+- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [nandortoth/rtlsdr-manager](https://github.com/nandortoth/rtlsdr-manager) - .NET Core library to manage RTL-SDR devices
 - [v-braun/gh-urls](https://github.com/v-braun/gh-urls) - resolves API, HTML and RAW Urls for GitHub repositories
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
@@ -882,7 +884,6 @@
 - [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.3: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents and more. A faster, user-friendly and compatible grep replacement.
 - [Namburger/edgetpu-detection-camera](https://github.com/Namburger/edgetpu-detection-camera) - Detection Camera with EdgeTpu
-- [NobuoTsukamoto/tflite-cv-example](https://github.com/NobuoTsukamoto/tflite-cv-example) - TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [google-coral/edgetpu](https://github.com/google-coral/edgetpu) - Coral issue tracker (and legacy Edge TPU API source)
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
@@ -1229,6 +1230,7 @@
 
 ## Go 
 
+- [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI
 - [klauspost/geoip-service](https://github.com/klauspost/geoip-service) - A fast in-memory http microservice for looking up MaxMind GeoIP2 and GeoLite2 database
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [livepeer/lpms](https://github.com/livepeer/lpms) - Livepeer media server
@@ -2335,7 +2337,6 @@
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [lnxbil/docker-machine-driver-proxmox-ve](https://github.com/lnxbil/docker-machine-driver-proxmox-ve) - Docker Machine driver for Proxmox VE
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -2559,6 +2560,7 @@
 
 ## HTML 
 
+- [pd3f/pd3f](https://github.com/pd3f/pd3f) - 🏭 PDF text extraction pipeline: self-hosted, local-first, Docker-based
 - [tkuriyama/tkuriyama.github.io](https://github.com/tkuriyama/tkuriyama.github.io) - Pages
 - [openspeedtest/iocage-plugin-OpenSpeedTest-Server](https://github.com/openspeedtest/iocage-plugin-OpenSpeedTest-Server) - OpenSpeedTest-Server Plugin for FreeNAS | HTML5 Network Performance Estimation Tool.
 - [HyperCable/hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with  timescaledb openresty  redis and rails.
@@ -2872,6 +2874,11 @@
 
 ## JavaScript 
 
+- [npulidom/node-ocr](https://github.com/npulidom/node-ocr) - NodeJs + OcrMyPdf + pdftotext Docker Image. Developed for custom OCR node APIs or workers.
+- [SaraVieira/starter-book](https://github.com/SaraVieira/starter-book) - A book starter to kickstart your writing journey 🎉
+- [magicbookproject/magicbook](https://github.com/magicbookproject/magicbook) - The magic book project returns!
+- [DavidWells/analytics](https://github.com/DavidWells/analytics) - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors
+- [finos/perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
 - [jhackshaw/tspvis](https://github.com/jhackshaw/tspvis) - 🗺️   Visualize and control algorithms for the traveling salesman problem
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [zotero/translators](https://github.com/zotero/translators) - Zotero Translators
@@ -4072,6 +4079,7 @@
 
 ## Jupyter Notebook 
 
+- [AICoE/prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
 - [reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub) - Projections of COVID-19, in standardized format
 - [kan-bayashi/ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN) with Pytorch
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -4383,6 +4391,9 @@
 
 ## Others 
 
+- [abhi18av/awesome-pdf](https://github.com/abhi18av/awesome-pdf) - List of tools for dealing with the wonderful PDF format.
+- [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
+- [Slocan/weatherDashboard](https://github.com/Slocan/weatherDashboard) - Code repository for custom weather dashboard in Grafana, using data from a Ecowitt GW1000 gateway
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [gnuradio/gr-etcetera](https://github.com/gnuradio/gr-etcetera) - Additional PyBOMBS recipes that aren't in gr-recipes
 - [mestadler/openwrt-pi4](https://github.com/mestadler/openwrt-pi4) - OpenWRT on Pi4
@@ -5045,6 +5056,7 @@
 
 ## PHP 
 
+- [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [bramus/mixed-content-scan](https://github.com/bramus/mixed-content-scan) - Scan your HTTPS-enabled website for Mixed Content
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
@@ -5285,6 +5297,12 @@
 
 ## Python 
 
+- [trapexit/mergerfs-tools](https://github.com/trapexit/mergerfs-tools) - Optional tools to help manage data in a mergerfs pool
+- [fniephaus/alfred-brightness](https://github.com/fniephaus/alfred-brightness) - Adjust your display's brightness with Alfred
+- [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract highlights, scribbles, and annotations from PDFs marked with the reMarkable tablet. Export to Markdown, PDF, PNG, and SVG
+- [cmccambridge/ocrmypdf-auto](https://github.com/cmccambridge/ocrmypdf-auto) - Docker container to automate use of OCRmyPDF to process documents.
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
+- [uncertainty-toolbox/uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization
 - [Lunik/gitea_prometheus_exporter](https://github.com/Lunik/gitea_prometheus_exporter) - Prometheus exporter for Gitea repositories metrics
 - [lheimbs/probemon](https://github.com/lheimbs/probemon) - A complex CLI to allow easy monitoring and logging 802.11 probe frames to multiple targets like a SQL database or MQTT
 - [BoBiene/probemon-docker](https://github.com/BoBiene/probemon-docker) - 
@@ -5296,7 +5314,7 @@
 - [kootenpv/access_points](https://github.com/kootenpv/access_points) - Scan your WiFi and get access point information and signal quality
 - [CRED-CLUB/ARTIF](https://github.com/CRED-CLUB/ARTIF) - An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data.
 - [fallenangel3k/sdr-spectrum-monitor](https://github.com/fallenangel3k/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
-- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Remove Background from Video and Images with a simple command line interface
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - BackgroundRemover lets you Remove Background from Video and Images with a simple command line interface
 - [inveniosoftware/invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
 - [zenodo/zenodo](https://github.com/zenodo/zenodo) - Research. Shared.
 - [sdx23/zotadd](https://github.com/sdx23/zotadd) - A simple script to add pdf-files to Zotero via CLI
@@ -5817,7 +5835,7 @@
 - [drkane/python-reconcile-csv](https://github.com/drkane/python-reconcile-csv) - Provides a reconciliation service based on a CSV
 - [gitonthescene/csv-reconcile](https://github.com/gitonthescene/csv-reconcile) - A reconciliation service for OpenRefine serving data from a given CSV file.
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
-- [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player on a lot of devices.
+- [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
 - [tomek-l/ai-thermometer](https://github.com/tomek-l/ai-thermometer) - Fever screening with IR & RGB cameras and Deep CNNs
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
@@ -6586,6 +6604,7 @@
 - [google-coral/examples-camera](https://github.com/google-coral/examples-camera) - Small code snippets that show how to stream camera images to a Coral device.
 - [balena-io-examples/coral-streaming-object-detector](https://github.com/balena-io-examples/coral-streaming-object-detector) - This example will help you deploy a streaming camera feed with realtime people detection using the Coral Edge TPU for on-device ML inferencing.
 - [bitsy-ai/rpi-object-tracking](https://github.com/bitsy-ai/rpi-object-tracking) - Object tracking tutorial using TensorFlow / TensorFlow Lite, Raspberry Pi, Pi Camera, and a Pimoroni Pan-Tilt Hat.
+- [NobuoTsukamoto/tflite-cv-example](https://github.com/NobuoTsukamoto/tflite-cv-example) - TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).
 - [goruck/radar-ml](https://github.com/goruck/radar-ml) - Detect (classify and localize) people, pets and objects using millimeter-wave radar.
 - [neuralet/smart-social-distancing](https://github.com/neuralet/smart-social-distancing) - Social Distancing Detector using deep learning and capable to run on edge AI devices such as NVIDIA Jetson, Google Coral, and more.
 - [ZoneMinder/mlapi](https://github.com/ZoneMinder/mlapi) - An easy to use/extend object recognition API you can locally install. Python+Flask. Also works with ZMES!
@@ -7233,6 +7252,7 @@
 
 ## Rust 
 
+- [smudge/nightlight](https://github.com/smudge/nightlight) - A CLI for configuring "Night Shift" on macOS 🌕🌖🌗🌘🌑
 - [aserowy/docker2mqtt](https://github.com/aserowy/docker2mqtt) - Monitor your docker environment over mqtt the easy way.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -7460,6 +7480,10 @@
 
 ## Shell 
 
+- [Ogglord/docker-rclone-mergerfs](https://github.com/Ogglord/docker-rclone-mergerfs) - Docker that sets up an rclone mount with a mergerfs cache - The ambition is a setup that allows for hardlinking files to cloud storage
+- [Pogij/owncloudOCR](https://github.com/Pogij/owncloudOCR) - OwncloudOCR uses tesseract OCR and OCRmyPDF for reading text from images and images in PDF files.
+- [adept/paperless-ocrmypdf](https://github.com/adept/paperless-ocrmypdf) - Docker compose recipe for The Paperless Project + OCRmyPDF
+- [morrownr/7612u](https://github.com/morrownr/7612u) - Linux Support for USB WiFi Adapters that are based on the MT7612U Chipset
 - [offlinehacker/docker-ap](https://github.com/offlinehacker/docker-ap) - WIFI access point running in docker
 - [Tommrodrigues/ProbeOSX](https://github.com/Tommrodrigues/ProbeOSX) - Capture and interpret probe requests with macOS
 - [ar18-linux/libstderred](https://github.com/ar18-linux/libstderred) - 
@@ -8529,6 +8553,8 @@
 
 ## TypeScript 
 
+- [yashha/percollate-api](https://github.com/yashha/percollate-api) - A basic api to serve percollate as an web api
+- [evnbr/bindery](https://github.com/evnbr/bindery) - Book layout in the browser
 - [jhackshaw/iplocate](https://github.com/jhackshaw/iplocate) - Geolocate and plot ipv4 and ipv6 addresses
 - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
 - [zenozeng/color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and SHA256).
