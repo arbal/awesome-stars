@@ -173,6 +173,11 @@
 
 ## C 
 
+- [davecrump/portsdown4](https://github.com/davecrump/portsdown4) - Portsdown 4 for the Raspberry Pi 4 with the official Raspberry Pi 7 inch touch screen.  Digital amateur TV transmitter and receiver
+- [monkeydom/TCMPortMapper](https://github.com/monkeydom/TCMPortMapper) - "TCMPortMapper.framework" is a clean and nice Objective-C API to provide knowledge about and improve the reachability of your machine from the big bad internet. "Port Map.app" is a nice standalone sample app using the framework to display reachability and enable setup of Port Mappings if your router allows for it.
+- [miniupnp/miniupnp](https://github.com/miniupnp/miniupnp) - UPnP IGD implementation
+- [pupnp/pupnp](https://github.com/pupnp/pupnp) - libupnp: Build UPnP-compliant control points, devices, and bridges on several operating systems.
+- [eniac/Flightplan](https://github.com/eniac/Flightplan) - Flightplan is a toolchain for the flexible decomposition of P4 programs and their allocation to heterogeneous hardware to improve performance, reliability and utilisation of software-defined networks.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source 802.11 WiFi baseband chip/FPGA design
 - [mossmann/hackrf](https://github.com/mossmann/hackrf) - low cost software radio platform
@@ -693,6 +698,9 @@
 
 ## C++ 
 
+- [jacobagilbert/inspectrum](https://github.com/jacobagilbert/inspectrum) - Offline radio signal analyser
+- [mkiol/Jupii](https://github.com/mkiol/Jupii) - Play audio, video and images on UPnP/DLNA devices
+- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [pothosware/PothosFlow](https://github.com/pothosware/PothosFlow) - GUI frontend and designer tool for the Pothos framework
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
 - [pothosware/PothosCore](https://github.com/pothosware/PothosCore) - The Pothos data-flow framework
@@ -798,6 +806,7 @@
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files on macOS Catalina and Big Sur.
 - [cnr-isti-vclab/PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
@@ -1039,6 +1048,8 @@
 
 ## Dockerfile 
 
+- [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
+- [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
 - [mkorenkov/docker-perkeep](https://github.com/mkorenkov/docker-perkeep) - prebuilt docker image of perkeep (aka camlistore)
 - [gerritjandebruin/home-assistant-kaku-doorbell](https://github.com/gerritjandebruin/home-assistant-kaku-doorbell) - Home Assistant Add-on that allows to capture the KlikAanKlikUit Doorbell with RTL-SDR.
 - [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
@@ -1232,6 +1243,13 @@
 
 ## Go 
 
+- [mitchellh/gox](https://github.com/mitchellh/gox) - A dead simple, no frills Go cross compile tool
+- [lucidcube/whois](https://github.com/lucidcube/whois) - Quick Whois
+- [emmanuelay/badger](https://github.com/emmanuelay/badger) - CLI tool to perform brute force lookup on domains
+- [zonedb/zonedb](https://github.com/zonedb/zonedb) - Public Zone Database
+- [ilyaglow/portmapping](https://github.com/ilyaglow/portmapping) - Gather available port mappings on UPnP device
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Go2TV lets you cast your videos to any  UPnP/DLNA MediaRenderer like Samsumg and LG TVs
+- [huin/goupnp](https://github.com/huin/goupnp) - UPnP client library for Go (#golang)
 - [owenthereal/spotctl](https://github.com/owenthereal/spotctl) - A command-line interface to Spotify, written in Go
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI
 - [klauspost/geoip-service](https://github.com/klauspost/geoip-service) - A fast in-memory http microservice for looking up MaxMind GeoIP2 and GeoLite2 database
@@ -1664,7 +1682,6 @@
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [mdbraber/acmeproxy](https://github.com/mdbraber/acmeproxy) - Proxy server for ACME DNS challenges written in Go
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
@@ -2563,6 +2580,8 @@
 
 ## HTML 
 
+- [plamere/playlistminer](https://github.com/plamere/playlistminer) - Creates spotify playlists by aggregating top songs from other playlists
+- [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
 - [pd3f/pd3f](https://github.com/pd3f/pd3f) - 🏭 PDF text extraction pipeline: self-hosted, local-first, Docker-based
 - [tkuriyama/tkuriyama.github.io](https://github.com/tkuriyama/tkuriyama.github.io) - Pages
 - [openspeedtest/iocage-plugin-OpenSpeedTest-Server](https://github.com/openspeedtest/iocage-plugin-OpenSpeedTest-Server) - OpenSpeedTest-Server Plugin for FreeNAS | HTML5 Network Performance Estimation Tool.
@@ -2715,6 +2734,9 @@
 
 ## Java 
 
+- [ps3mediaserver/ps3mediaserver](https://github.com/ps3mediaserver/ps3mediaserver) - PS3 Media Server is a cross-platform DLNA-compliant UPnP Media Server. Originally written to support the PlayStation 3, PS3 Media Server has been expanded to support a range of other media renderers, including smartphones, televisions, music players and more.
+- [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
+- [REDACTED-REDACTED/SSDP-Search](https://github.com/REDACTED-REDACTED/SSDP-Search) - A Java Implementation of the Simple Service Discovery Protocol
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [OpenNMS/opennms](https://github.com/OpenNMS/opennms) - Enterprise-Grade Open-Source Network Management Platform
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -2877,6 +2899,20 @@
 
 ## JavaScript 
 
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
+- [borismus/keysocket](https://github.com/borismus/keysocket) - 
+- [bikenik/alfred-icons](https://github.com/bikenik/alfred-icons) - Quick search, preview directly in alfred any icons by the thenounproject.com service.
+- [sindresorhus/file-icon-cli](https://github.com/sindresorhus/file-icon-cli) - Get the icon of a file or app as a PNG image (macOS)
+- [importre/alfred-mdi](https://github.com/importre/alfred-mdi) - Alfred 3 workflow to find Material Design Icons
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [balenablocks/browser](https://github.com/balenablocks/browser) - A drop-in web browser block
+- [apnex/bind-cli](https://github.com/apnex/bind-cli) - CLI interface to BIND / NAMED DNS system
+- [bazwilliams/node-ssdp](https://github.com/bazwilliams/node-ssdp) - Simple Service Discovery for Node.js, handling Upnp NOTIFY and M-SEARCH requests.
+- [alxhotel/nat-api](https://github.com/alxhotel/nat-api) - :left_right_arrow: Fast port mapping with UPnP and NAT-PMP
+- [rern/rAudio-1](https://github.com/rern/rAudio-1) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, Multi-room, Spotify Connect, UPnP
+- [diversario/node-ssdp](https://github.com/diversario/node-ssdp) - node.js SSDP client/server.
 - [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - A Node.js wrapper for Spotify's Web API.
 - [npulidom/node-ocr](https://github.com/npulidom/node-ocr) - NodeJs + OcrMyPdf + pdftotext Docker Image. Developed for custom OCR node APIs or workers.
 - [SaraVieira/starter-book](https://github.com/SaraVieira/starter-book) - A book starter to kickstart your writing journey 🎉
@@ -4193,6 +4229,7 @@
 
 ## Kotlin 
 
+- [dotStart/Beacon](https://github.com/dotStart/Beacon) - A simple UPnP Assistant that is capable of opening arbitrary ports.
 - [ingbyr/VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
 - [serebit/wraith-master](https://github.com/serebit/wraith-master) - A native Linux RGB control application for the AMD Wraith Prism (GitLab Mirror)
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android inspired by Gpredict
@@ -4321,6 +4358,9 @@
 
 ## Objective-C 
 
+- [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses
+- [grandcentrix/upnpx-gcx](https://github.com/grandcentrix/upnpx-gcx) - Officially endorsed fork of the discontinued upnpx library by Bruno Keymolen
+- [fkuehne/upnpx](https://github.com/fkuehne/upnpx) - Officially endorsed fork of the discontinued upnpx library by Bruno Keymolen
 - [robmathers/WhereAmI](https://github.com/robmathers/WhereAmI) - A quick command line tool for OS X to get your geographic coordinates using the CoreLocation framework.
 - [aburgh/Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures.
 - [nriley/launch](https://github.com/nriley/launch) - A command-line launcher for macOS in the spirit of open(1).
@@ -4395,6 +4435,11 @@
 
 ## Others 
 
+- [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio) - Home Assistant
+- [arbal/gh-latest](https://github.com/arbal/gh-latest) - Simple utility to get the latest release version from GitHub repository
+- [zacharywhitley/awesome-ocr](https://github.com/zacharywhitley/awesome-ocr) - 
+- [tstanislawek/awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) - A curated list of resources for Document Understanding (DU) topic
+- [judge2020/Actual-Domain-Prices](https://github.com/judge2020/Actual-Domain-Prices) - The real cost of each TLD (top-level-domain). Find out how much your registrar marks up your domain prices.
 - [abhi18av/awesome-pdf](https://github.com/abhi18av/awesome-pdf) - List of tools for dealing with the wonderful PDF format.
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
 - [Slocan/weatherDashboard](https://github.com/Slocan/weatherDashboard) - Code repository for custom weather dashboard in Grafana, using data from a Ecowitt GW1000 gateway
@@ -5301,6 +5346,19 @@
 
 ## Python 
 
+- [XDGFX/ultrasonics-api](https://github.com/XDGFX/ultrasonics-api) - API proxy for ultrasonics
+- [ricardojoserf/spotify-playlist-downloader](https://github.com/ricardojoserf/spotify-playlist-downloader) - Downloading Spotify Playlists
+- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
+- [Perdu/panoptiphone](https://github.com/Perdu/panoptiphone) - Estimates the uniqueness of a device based on the content of its emitted Wi-Fi frames, even if the MAC address is randomized
+- [ajackal/cherrywasp](https://github.com/ajackal/cherrywasp) - An 802.11 probe request and beacon sniffer.
+- [smythtech/WifiProbeMapper](https://github.com/smythtech/WifiProbeMapper) - Tool for capturing and mapping locations of SSIDs from wireless beacons and client requests
+- [dbrgn/pydigitize](https://github.com/dbrgn/pydigitize) - Command line tool to easily scan documents into OCRd PDF/A files for archival.
+- [ProvenanceLabs/image-match](https://github.com/ProvenanceLabs/image-match) - 🎇 Quickly search over billions of images
+- [siznax/wptools](https://github.com/siznax/wptools) - Wikipedia tools (for Humans): easily extract data from Wikipedia, Wikidata, and other MediaWikis
+- [Jwink3101/syncrclone](https://github.com/Jwink3101/syncrclone) - Python-based bi-direction sync tool for rclone
+- [gabrielmagno/nano-dlna](https://github.com/gabrielmagno/nano-dlna) - A minimal UPnP/DLNA media streamer
+- [kimocoder/miranda-upnp](https://github.com/kimocoder/miranda-upnp) - Automatically exported from code.google.com/p/miranda-upnp
+- [0x90/miranda-upnp](https://github.com/0x90/miranda-upnp) - Automatically exported from code.google.com/p/miranda-upnp
 - [caseychu/spotify-backup](https://github.com/caseychu/spotify-backup) - A Python script that exports all of your Spotify playlists.
 - [XDGFX/ultrasonics](https://github.com/XDGFX/ultrasonics) - Sync music playlists between all your music services. Do more with your music.
 - [bassrock/spotify-plex-playlists](https://github.com/bassrock/spotify-plex-playlists) - Sync Spotify Playlists To Plex
@@ -5881,7 +5939,7 @@
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [thomas-krenn/TKperf](https://github.com/thomas-krenn/TKperf) - Performance test tool for SSDs, HDDs and RAID devices
-- [facebookexperimental/doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
+- [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [hardillb/nginx-proxy-avahi-helper](https://github.com/hardillb/nginx-proxy-avahi-helper) - A container to generate matching mDNS CNAMEs for the virtual hosts used by jwilder/nginx-proxy
@@ -7015,7 +7073,7 @@
 - [jay0lee/got-your-back](https://github.com/jay0lee/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [stevenleeg/geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [pkpio/fitbit-googlefit](https://github.com/pkpio/fitbit-googlefit) - Export Fitbit data to Google Fit. Unlike the alternatives such as fitnessyncer.com, this offers very fine intraday granularity (every minute/second data).
 - [marshall/logcat-color](https://github.com/marshall/logcat-color) - A colorful and highly configurable alternative to the standard "adb logcat" command from the Android SDK
 - [jim-easterbrook/pywws](https://github.com/jim-easterbrook/pywws) - Python software for USB Wireless WeatherStations
@@ -7259,6 +7317,8 @@
 
 ## Rust 
 
+- [aethylia/upnp_scanner](https://github.com/aethylia/upnp_scanner) - Scans the local network for UPNP root devices.
+- [yuvadm/slingr](https://github.com/yuvadm/slingr) - A simple CLI for UPnP media file streaming
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [smudge/nightlight](https://github.com/smudge/nightlight) - A CLI for configuring "Night Shift" on macOS 🌕🌖🌗🌘🌑
 - [aserowy/docker2mqtt](https://github.com/aserowy/docker2mqtt) - Monitor your docker environment over mqtt the easy way.
@@ -7488,6 +7548,16 @@
 
 ## Shell 
 
+- [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
+- [madslundt/docker-cloud-media-scripts](https://github.com/madslundt/docker-cloud-media-scripts) - Upload and stream media from the cloud with or without encryption. Cache all new and recently streamed media locally to access quickly and reduce API calls
+- [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
+- [karalabe/xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler
+- [kolonuk/get_iplayer-docker](https://github.com/kolonuk/get_iplayer-docker) - A docker container for get-iplayer which grabs the latest release instead of bundling a static release in the container.
+- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
+- [james-fry/hassio-addons](https://github.com/james-fry/hassio-addons) - Repository for hass.io add ons
+- [jfilter/pdf-scripts](https://github.com/jfilter/pdf-scripts) - 📑 Scripts to repair, verify, OCR, compress, wrangle, crop (etc.) PDFs
+- [ElectricRCAircraftGuy/PDF2SearchablePDF](https://github.com/ElectricRCAircraftGuy/PDF2SearchablePDF) - `pdf2searchablepdf input.pdf` = voila! "input_searchable.pdf" is created & now has searchable text!
+- [dockserver/dockserver](https://github.com/dockserver/dockserver) - Install remote or local , included Authelia/ Traefikv2 and much more
 - [Ogglord/docker-rclone-mergerfs](https://github.com/Ogglord/docker-rclone-mergerfs) - Docker that sets up an rclone mount with a mergerfs cache - The ambition is a setup that allows for hardlinking files to cloud storage
 - [Pogij/owncloudOCR](https://github.com/Pogij/owncloudOCR) - OwncloudOCR uses tesseract OCR and OCRmyPDF for reading text from images and images in PDF files.
 - [adept/paperless-ocrmypdf](https://github.com/adept/paperless-ocrmypdf) - Docker compose recipe for The Paperless Project + OCRmyPDF
@@ -8422,6 +8492,8 @@
 
 ## Swift 
 
+- [peterbmarks/waveSDR](https://github.com/peterbmarks/waveSDR) - macOS native desktop Software Defined Radio app
+- [0x5e/DLNACast](https://github.com/0x5e/DLNACast) - DLNA screen mirror in macOS.
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 - [Building42/Telegraph](https://github.com/Building42/Telegraph) - Secure Web Server for iOS, tvOS and macOS
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
@@ -8561,6 +8633,9 @@
 
 ## TypeScript 
 
+- [ruedap/alfred-bootstrap-icons-workflow](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - 🎩 Bootstrap Icons workflow for Alfred
+- [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
+- [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [yashha/percollate-api](https://github.com/yashha/percollate-api) - A basic api to serve percollate as an web api
 - [evnbr/bindery](https://github.com/evnbr/bindery) - Book layout in the browser
@@ -8942,7 +9017,6 @@
 ## VHDL 
 
 - [myriadrf/LimeSDR-Mini_GW](https://github.com/myriadrf/LimeSDR-Mini_GW) - LimeSDR-Mini board FPGA project
-- [myriadrf/LimeSDR-USB_GW](https://github.com/myriadrf/LimeSDR-USB_GW) - Altera Cyclone IV FPGA project for the USB 3.0 LimeSDR board
 - [natsfr/LimeSDR_DVBSGateware](https://github.com/natsfr/LimeSDR_DVBSGateware) - Optimised gateware for lime sdr mini
 
 ## Vala 
@@ -8953,6 +9027,7 @@
 ## Verilog 
 
 - [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - FPGA/hardware design of openwifi
+- [myriadrf/LimeSDR-USB_GW](https://github.com/myriadrf/LimeSDR-USB_GW) - Altera Cyclone IV FPGA project for the USB 3.0 LimeSDR board
 
 ## Vim script 
 
@@ -8972,6 +9047,7 @@
 
 ## Vue 
 
+- [Razikus/open-balena-dashboard](https://github.com/Razikus/open-balena-dashboard) - 
 - [flespi-software/MQTT-Tiles](https://github.com/flespi-software/MQTT-Tiles) - Open-source MQTT-based IoT dashboard visualization tool. Has full MQTT 5.0 support. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.
 - [Uploadarr/Uploadarr](https://github.com/Uploadarr/Uploadarr) - Read the concept for this project here:
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
