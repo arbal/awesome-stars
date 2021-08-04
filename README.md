@@ -631,7 +631,7 @@
 - [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant!
 - [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
-- [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [yuzd/Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob) - httpjob for Hangfire,restful api for Hangfire,job调度与业务分离
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
@@ -698,6 +698,7 @@
 
 ## C++ 
 
+- [PhotoFlare/photoflare](https://github.com/PhotoFlare/photoflare) - Quick, simple but powerful Cross Platform image editor.
 - [jacobagilbert/inspectrum](https://github.com/jacobagilbert/inspectrum) - Offline radio signal analyser
 - [mkiol/Jupii](https://github.com/mkiol/Jupii) - Play audio, video and images on UPnP/DLNA devices
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
@@ -1048,6 +1049,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-ddclient](https://github.com/linuxserver/docker-ddclient) - 
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
 - [mkorenkov/docker-perkeep](https://github.com/mkorenkov/docker-perkeep) - prebuilt docker image of perkeep (aka camlistore)
@@ -1243,6 +1245,8 @@
 
 ## Go 
 
+- [seanbreckenridge/newest](https://github.com/seanbreckenridge/newest) - Basic CLI tool to print the most recently modified file in a directory
+- [viktomas/godu](https://github.com/viktomas/godu) - Simple golang utility helping to discover large files/folders.
 - [mitchellh/gox](https://github.com/mitchellh/gox) - A dead simple, no frills Go cross compile tool
 - [lucidcube/whois](https://github.com/lucidcube/whois) - Quick Whois
 - [emmanuelay/badger](https://github.com/emmanuelay/badger) - CLI tool to perform brute force lookup on domains
@@ -2734,6 +2738,7 @@
 
 ## Java 
 
+- [linuxserver/davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
 - [ps3mediaserver/ps3mediaserver](https://github.com/ps3mediaserver/ps3mediaserver) - PS3 Media Server is a cross-platform DLNA-compliant UPnP Media Server. Originally written to support the PlayStation 3, PS3 Media Server has been expanded to support a range of other media renderers, including smartphones, televisions, music players and more.
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [REDACTED-REDACTED/SSDP-Search](https://github.com/REDACTED-REDACTED/SSDP-Search) - A Java Implementation of the Simple Service Discovery Protocol
@@ -2759,7 +2764,6 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
@@ -2899,6 +2903,8 @@
 
 ## JavaScript 
 
+- [kalkih/forked-daapd-card](https://github.com/kalkih/forked-daapd-card) - forked daapd card for Home Assistant Lovelace UI
+- [LuisReinoso/git-history-browser-extension](https://github.com/LuisReinoso/git-history-browser-extension) - Agrega un botón a la interfáz de archivos de github para ver su historial / Add a button to the github file interface to see its history
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [borismus/keysocket](https://github.com/borismus/keysocket) - 
 - [bikenik/alfred-icons](https://github.com/bikenik/alfred-icons) - Quick search, preview directly in alfred any icons by the thenounproject.com service.
@@ -4349,6 +4355,7 @@
 ## OCaml 
 
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
@@ -4358,6 +4365,7 @@
 
 ## Objective-C 
 
+- [fractaledmind/alfred_skimmer](https://github.com/fractaledmind/alfred_skimmer) - PDF Actions for Skim App
 - [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses
 - [grandcentrix/upnpx-gcx](https://github.com/grandcentrix/upnpx-gcx) - Officially endorsed fork of the discontinued upnpx library by Bruno Keymolen
 - [fkuehne/upnpx](https://github.com/fkuehne/upnpx) - Officially endorsed fork of the discontinued upnpx library by Bruno Keymolen
@@ -4435,6 +4443,8 @@
 
 ## Others 
 
+- [rajannpatel/EXIF-Date-Read.workflow-for-macOS](https://github.com/rajannpatel/EXIF-Date-Read.workflow-for-macOS) - right click any files or folders in the macOS Finder.app to read the EXIF Create Date on photos and images
+- [rajannpatel/EXIF-Date-Change.workflow-for-macOS](https://github.com/rajannpatel/EXIF-Date-Change.workflow-for-macOS) - right click any files or folders in the macOS Finder.app to edit the EXIF Date on photos and images
 - [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio) - Home Assistant
 - [arbal/gh-latest](https://github.com/arbal/gh-latest) - Simple utility to get the latest release version from GitHub repository
 - [zacharywhitley/awesome-ocr](https://github.com/zacharywhitley/awesome-ocr) - 
@@ -5263,6 +5273,7 @@
 
 ## Perl 
 
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [raszi/colorize](https://github.com/raszi/colorize) - Log colorizer perl script
 - [centreon/centreon-plugins](https://github.com/centreon/centreon-plugins) - Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
@@ -5346,6 +5357,8 @@
 
 ## Python 
 
+- [Zarcolio/2ulb](https://github.com/Zarcolio/2ulb) - Easy shortcut to make scripts executable and link them from /usr/local/bin
+- [Zarcolio/grepaddr](https://github.com/Zarcolio/grepaddr) - Use grepaddr to extract (grep) different kinds of addresses from stdin like URLs (incl. IPv4 & IPv6), IP addresses & ranges (IPv4 & IPv6), e-mail addresses, MAC addresses.
 - [XDGFX/ultrasonics-api](https://github.com/XDGFX/ultrasonics-api) - API proxy for ultrasonics
 - [ricardojoserf/spotify-playlist-downloader](https://github.com/ricardojoserf/spotify-playlist-downloader) - Downloading Spotify Playlists
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
@@ -6236,7 +6249,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [activecm/passer](https://github.com/activecm/passer) - Passive service locator, a python sniffer that identifies servers, clients, names and much more
-- [mateuszk87/PcapViz](https://github.com/mateuszk87/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
+- [1ultimat3/PcapViz](https://github.com/1ultimat3/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
 - [GustavoKatel/pushbullet-cli](https://github.com/GustavoKatel/pushbullet-cli) - Access Pushbullet from the command line
@@ -6516,7 +6529,7 @@
 - [megadose/phoneinfoga-maltego](https://github.com/megadose/phoneinfoga-maltego) - Phoneinfoga Maltego Transform
 - [censys/censys-maltego](https://github.com/censys/censys-maltego) - Censys Maltego transforms! Take advantage of Censys transforms for Maltego to back your investigations with the most trusted Internet data available.
 - [oberstet/scratchbox](https://github.com/oberstet/scratchbox) - Random stuff. Unpolished. Tests. Whatever.
-- [kiwix/kiwix-hotspot](https://github.com/kiwix/kiwix-hotspot) - Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux
+- [offspot/kiwix-hotspot](https://github.com/offspot/kiwix-hotspot) - Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [targendaz2/Mac-Set-Default-Apps](https://github.com/targendaz2/Mac-Set-Default-Apps) - A utility to change default applications in macOS
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
@@ -6695,7 +6708,7 @@
 - [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
 - [thtrieu/darkflow](https://github.com/thtrieu/darkflow) - Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
 - [Kao1126/EdgeTPU-FaceNet](https://github.com/Kao1126/EdgeTPU-FaceNet) - Implement SSD and FaceNet on Edge TPU Accelerator
-- [huseinzol05/Gather-Deployment](https://github.com/huseinzol05/Gather-Deployment) - Gathers scalable tensorflow and Python infrastructure deployment, Husein Go-To for development, 100% Docker.
+- [huseinzol05/Gather-Deployment](https://github.com/huseinzol05/Gather-Deployment) - Gathers scalable Tensorflow and Python infrastructure deployment, Husein Go-To for development, 100% Docker.
 - [larsbijl/trending_archive](https://github.com/larsbijl/trending_archive) - a Archive of the github daily trending information
 - [morpheus65535/oscarr](https://github.com/morpheus65535/oscarr) - Oscarr is a dashboard application for users of Plex, Emby, Sonarr, Radarr and Bazarr. It gives you and overview of your media management software.
 - [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox) - Ansible role to provision containers in Proxmox VE virtualization
@@ -7548,6 +7561,8 @@
 
 ## Shell 
 
+- [jcorreajr/ProxmoxBackupHost](https://github.com/jcorreajr/ProxmoxBackupHost) - Backup e Restore Host Proxmox
+- [h4r7w3l1/http_file_prober](https://github.com/h4r7w3l1/http_file_prober) - Simple a Bash tool to parse URLs size and content-type
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
 - [madslundt/docker-cloud-media-scripts](https://github.com/madslundt/docker-cloud-media-scripts) - Upload and stream media from the cloud with or without encryption. Cache all new and recently streamed media locally to access quickly and reduce API calls
 - [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
@@ -8492,6 +8507,11 @@
 
 ## Swift 
 
+- [debug45/PermissionWizard](https://github.com/debug45/PermissionWizard) - 🔮 An ultimate library for iOS and macOS system permissions management. The easiest way to check or request a permission.
+- [BeauNouvelle/FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
+- [gergelysanta/PhotoMiner](https://github.com/gergelysanta/PhotoMiner) - Photo finder application for macOS
+- [abentele/PhotosExporter](https://github.com/abentele/PhotosExporter) - Command line program to export and backup your macOS Photos Library
+- [ethanzxlee/edit-in](https://github.com/ethanzxlee/edit-in) - Edit In is a macOS Photos Editing extension that allows you to edit your photos in other applications like Photoshop.
 - [peterbmarks/waveSDR](https://github.com/peterbmarks/waveSDR) - macOS native desktop Software Defined Radio app
 - [0x5e/DLNACast](https://github.com/0x5e/DLNACast) - DLNA screen mirror in macOS.
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
@@ -8633,6 +8653,7 @@
 
 ## TypeScript 
 
+- [any-json/any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON
 - [ruedap/alfred-bootstrap-icons-workflow](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - 🎩 Bootstrap Icons workflow for Alfred
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
@@ -8744,7 +8765,7 @@
 - [haythem/public-ip](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address
 - [Slynova-Org/flydrive](https://github.com/Slynova-Org/flydrive) - ☁️ Flexible and Fluent framework-agnostic driver based system to manage storage in Node.js
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
-- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Includes AWS, Azure and GCP.
+- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job.
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
@@ -8885,7 +8906,7 @@
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊Datav is a data visualization platform for metrics,traces,logs and large-screens. Also as an open-source alternative to DataDog&NewRelic, we build a apm layer on datav, which has fully native support for @open-telemetry.
+- [datav-io/datav](https://github.com/datav-io/datav) - 📊Modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rlivings39/vscode-fzf-quick-open](https://github.com/rlivings39/vscode-fzf-quick-open) - vscode extension providing quick file/folder open and searching using fzf
