@@ -173,6 +173,7 @@
 
 ## C 
 
+- [mutability/dump978](https://github.com/mutability/dump978) - Experimental demodulator/decoder for UAT on 978MHz
 - [davecrump/portsdown4](https://github.com/davecrump/portsdown4) - Portsdown 4 for the Raspberry Pi 4 with the official Raspberry Pi 7 inch touch screen.  Digital amateur TV transmitter and receiver
 - [monkeydom/TCMPortMapper](https://github.com/monkeydom/TCMPortMapper) - "TCMPortMapper.framework" is a clean and nice Objective-C API to provide knowledge about and improve the reachability of your machine from the big bad internet. "Port Map.app" is a nice standalone sample app using the framework to display reachability and enable setup of Port Mappings if your router allows for it.
 - [miniupnp/miniupnp](https://github.com/miniupnp/miniupnp) - UPnP IGD implementation
@@ -346,7 +347,6 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [k-five/rinp](https://github.com/k-five/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows built on .NET Core.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -1245,6 +1245,8 @@
 
 ## Go 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [ktr0731/itunes-cli](https://github.com/ktr0731/itunes-cli) - Command line interface for control iTunes
 - [seanbreckenridge/newest](https://github.com/seanbreckenridge/newest) - Basic CLI tool to print the most recently modified file in a directory
 - [viktomas/godu](https://github.com/viktomas/godu) - Simple golang utility helping to discover large files/folders.
 - [mitchellh/gox](https://github.com/mitchellh/gox) - A dead simple, no frills Go cross compile tool
@@ -2607,6 +2609,7 @@
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [katalon-studio/katalon-recorder-samples](https://github.com/katalon-studio/katalon-recorder-samples) - Samples for Katalon Recorder
 - [Tysonpower/DC4-emulator](https://github.com/Tysonpower/DC4-emulator) - Run the Dreamcatcher 4 UI on any Webserver
+- [visualblind/Scripts-collection](https://github.com/visualblind/Scripts-collection) - Collection of all my scripts
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
 - [datadesk/california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas) - Simple maps of California's 58 counties
@@ -2903,6 +2906,7 @@
 
 ## JavaScript 
 
+- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [kalkih/forked-daapd-card](https://github.com/kalkih/forked-daapd-card) - forked daapd card for Home Assistant Lovelace UI
 - [LuisReinoso/git-history-browser-extension](https://github.com/LuisReinoso/git-history-browser-extension) - Agrega un botón a la interfáz de archivos de github para ver su historial / Add a button to the github file interface to see its history
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
@@ -3505,7 +3509,7 @@
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
-- [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - Signal Protocol library for JavaScript
+- [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -4166,6 +4170,7 @@
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [datadesk/cpi](https://github.com/datadesk/cpi) - Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [KuntalP/10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
@@ -4303,7 +4308,7 @@
 - [KROSF/cloud](https://github.com/KROSF/cloud) - Self Hosted :cloud:
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [kangaechu/aws-vault-alfred-workflow](https://github.com/kangaechu/aws-vault-alfred-workflow) - Alfred workflow to Open AWS in your browser via aws-vault
-- [kir-belevich/chromium-headless-remote](https://github.com/kir-belevich/chromium-headless-remote) - 🐳 Dockerized Chromium in headless remote debugging mode
+- [deepsweet/chromium-headless-remote](https://github.com/deepsweet/chromium-headless-remote) - 🐳 Dockerized Chromium in headless remote debugging mode
 - [docker-science/cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [turnkeylinux-apps/core](https://github.com/turnkeylinux-apps/core) - TurnKey Core - Common Base for All Appliances
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -5334,7 +5339,6 @@
 ## PowerShell 
 
 - [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - Various scripts
-- [visualblind/Scripts-collection](https://github.com/visualblind/Scripts-collection) - Collection of all my scripts
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
 - [jvlflame/Javinizer](https://github.com/jvlflame/Javinizer) - (NSFW) Organize your local Japanese Adult Video (JAV) library
@@ -5357,6 +5361,10 @@
 
 ## Python 
 
+- [sky-uk/docker-registry-exporter](https://github.com/sky-uk/docker-registry-exporter) - Prometheus exporter for docker registry
+- [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
+- [chbrown/iOSpy](https://github.com/chbrown/iOSpy) - iOS MobileSync backup data extraction
+- [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [Zarcolio/2ulb](https://github.com/Zarcolio/2ulb) - Easy shortcut to make scripts executable and link them from /usr/local/bin
 - [Zarcolio/grepaddr](https://github.com/Zarcolio/grepaddr) - Use grepaddr to extract (grep) different kinds of addresses from stdin like URLs (incl. IPv4 & IPv6), IP addresses & ranges (IPv4 & IPv6), e-mail addresses, MAC addresses.
 - [XDGFX/ultrasonics-api](https://github.com/XDGFX/ultrasonics-api) - API proxy for ultrasonics
@@ -5981,7 +5989,6 @@
 - [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [ivanvza/arpy](https://github.com/ivanvza/arpy) - Mac OSX ARP spoof (MiTM) tool that can also plug into Gource
 - [madereddy/noisy](https://github.com/madereddy/noisy) - Simple random DNS, HTTP/S internet traffic noise generator in a Docker container
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [vlall/Darksearch](https://github.com/vlall/Darksearch) - :mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
@@ -6117,6 +6124,7 @@
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [google/upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
 - [djmaze/apprise-microservice](https://github.com/djmaze/apprise-microservice) - A small JSON API server for delivering notifications using Apprise
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -7330,6 +7338,8 @@
 
 ## Rust 
 
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [aethylia/upnp_scanner](https://github.com/aethylia/upnp_scanner) - Scans the local network for UPNP root devices.
 - [yuvadm/slingr](https://github.com/yuvadm/slingr) - A simple CLI for UPnP media file streaming
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
