@@ -173,6 +173,7 @@
 
 ## C 
 
+- [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 - [mutability/dump978](https://github.com/mutability/dump978) - Experimental demodulator/decoder for UAT on 978MHz
 - [davecrump/portsdown4](https://github.com/davecrump/portsdown4) - Portsdown 4 for the Raspberry Pi 4 with the official Raspberry Pi 7 inch touch screen.  Digital amateur TV transmitter and receiver
 - [monkeydom/TCMPortMapper](https://github.com/monkeydom/TCMPortMapper) - "TCMPortMapper.framework" is a clean and nice Objective-C API to provide knowledge about and improve the reachability of your machine from the big bad internet. "Port Map.app" is a nice standalone sample app using the framework to display reachability and enable setup of Port Mappings if your router allows for it.
@@ -303,6 +304,7 @@
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [GenericMappingTools/gmt](https://github.com/GenericMappingTools/gmt) - The Generic Mapping Tools
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
+- [ssec/polar2grid](https://github.com/ssec/polar2grid) - Tools for reading, remapping, and writing satellite instrument data.
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
 - [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner
@@ -347,6 +349,7 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [k-five/rinp](https://github.com/k-five/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows built on .NET Core.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -698,6 +701,8 @@
 
 ## C++ 
 
+- [breuner/elbencho](https://github.com/breuner/elbencho) - A distributed storage benchmark for file systems, object stores & block devices with support for GPUs
+- [lizardfs/lizardfs](https://github.com/lizardfs/lizardfs) - LizardFS is an Open Source Distributed File System licensed under GPLv3.
 - [PhotoFlare/photoflare](https://github.com/PhotoFlare/photoflare) - Quick, simple but powerful Cross Platform image editor.
 - [jacobagilbert/inspectrum](https://github.com/jacobagilbert/inspectrum) - Offline radio signal analyser
 - [mkiol/Jupii](https://github.com/mkiol/Jupii) - Play audio, video and images on UPnP/DLNA devices
@@ -1049,6 +1054,7 @@
 
 ## Dockerfile 
 
+- [rycus86/docker-prometheus-node-exporter](https://github.com/rycus86/docker-prometheus-node-exporter) - Exporter for machine metrics https://prometheus.io/ (on ARM)
 - [linuxserver/docker-ddclient](https://github.com/linuxserver/docker-ddclient) - 
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
@@ -1245,6 +1251,12 @@
 
 ## Go 
 
+- [thought-machine/prometheus-cardinality-exporter](https://github.com/thought-machine/prometheus-cardinality-exporter) - Metric cardinality exporter for Prometheus
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [seznam/slo-exporter](https://github.com/seznam/slo-exporter) - Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
+- [sans-sroc/file_exporter](https://github.com/sans-sroc/file_exporter) - Prometheus Metrics for Files for Any Operating System
+- [contiv/netplugin](https://github.com/contiv/netplugin) - Container networking for various use cases
+- [marcelo-ochoa/docker-volume-plugins](https://github.com/marcelo-ochoa/docker-volume-plugins) - Managed docker volume plugins
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [ktr0731/itunes-cli](https://github.com/ktr0731/itunes-cli) - Command line interface for control iTunes
 - [seanbreckenridge/newest](https://github.com/seanbreckenridge/newest) - Basic CLI tool to print the most recently modified file in a directory
@@ -1434,7 +1446,7 @@
 - [danesparza/influx-annotate](https://github.com/danesparza/influx-annotate) - Command line tool to add annotations to an InfluxDB database
 - [acornies/faas-grafana-annotate](https://github.com/acornies/faas-grafana-annotate) - An OpenFaaS function to create annotations in Grafana (&gt;= v4.6).
 - [quackduck/tii](https://github.com/quackduck/tii) - Command not found? Install it right there!
-- [AkihiroSuda/lima](https://github.com/AkihiroSuda/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [deanishe/alfred-services](https://github.com/deanishe/alfred-services) - Run macOS services from Alfred
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [monitoring-mixins/mixtool](https://github.com/monitoring-mixins/mixtool) - mixtool is a helper for easily working with jsonnet mixins.
@@ -2593,7 +2605,6 @@
 - [openspeedtest/iocage-plugin-OpenSpeedTest-Server](https://github.com/openspeedtest/iocage-plugin-OpenSpeedTest-Server) - OpenSpeedTest-Server Plugin for FreeNAS | HTML5 Network Performance Estimation Tool.
 - [HyperCable/hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with  timescaledb openresty  redis and rails.
 - [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
-- [balena-os/balena-os](https://github.com/balena-os/balena-os) - The central place for all things BalenaOS related.
 - [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [bowood/KerberosSDR_finder](https://github.com/bowood/KerberosSDR_finder) - KerberosSDR Integration into a Google Maps API
@@ -2862,7 +2873,6 @@
 - [wttech/aet](https://github.com/wttech/aet) - AET - a system that detects visual changes on web sites and performs basic page health checks
 - [LINBIT/linstor-server](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
-- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [lamarios/Homedash2](https://github.com/lamarios/Homedash2) - Dashboard for servers
 - [dernasherbrezon/rtlSpectrum](https://github.com/dernasherbrezon/rtlSpectrum) - Analyze spectrograms created by rtl_power
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
@@ -2906,6 +2916,7 @@
 
 ## JavaScript 
 
+- [daneroo/MomPhotoCompare](https://github.com/daneroo/MomPhotoCompare) - Comparing iCloud and GooglePhots Downloads, to hopefully consiladte them both, with no loss and no duplicates
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [kalkih/forked-daapd-card](https://github.com/kalkih/forked-daapd-card) - forked daapd card for Home Assistant Lovelace UI
 - [LuisReinoso/git-history-browser-extension](https://github.com/LuisReinoso/git-history-browser-extension) - Agrega un botón a la interfáz de archivos de github para ver su historial / Add a button to the github file interface to see its history
@@ -3801,6 +3812,7 @@
 - [sitespeedio/pagexray](https://github.com/sitespeedio/pagexray) - Xray your HAR file and know all about the page
 - [sitespeedio/chrome-har](https://github.com/sitespeedio/chrome-har) - Create HAR files from Chrome Debugging Protocol data
 - [cyrus-and/chrome-har-capturer](https://github.com/cyrus-and/chrome-har-capturer) - Capture HAR files from a Chrome instance
+- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [ioBroker/ioBroker.geofency](https://github.com/ioBroker/ioBroker.geofency) - provides a websever for geofency-webhooks
 - [iobroker-community-adapters/ioBroker.places](https://github.com/iobroker-community-adapters/ioBroker.places) - Adapter for ioBroker for analyzing location information
 - [t4qjXH8N/ioBroker.google-sharedlocations](https://github.com/t4qjXH8N/ioBroker.google-sharedlocations) - An ioBroker-adapter for retrieving shared locations from Google
@@ -4129,6 +4141,7 @@
 
 ## Jupyter Notebook 
 
+- [gerritjandebruin/home-assistant](https://github.com/gerritjandebruin/home-assistant) - This repository contains the set-up of my smart home, featured by the open-source project Home Assistant.
 - [AICoE/prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
 - [reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub) - Projections of COVID-19, in standardized format
 - [kan-bayashi/ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN) with Pytorch
@@ -4205,7 +4218,6 @@
 - [datadesk/california-coronavirus-data](https://github.com/datadesk/california-coronavirus-data) - The Los Angeles Times' independent tally of coronavirus cases in California.
 - [CAIDA/submarine-cable-impact-analysis-public](https://github.com/CAIDA/submarine-cable-impact-analysis-public) - This repository contains tools implemented for the PAM 2020 paper "Unintended consequences: Effects of submarine cable deployment on Internet routing" to collect and analyze data depicting the impact of the South-Atlantic Cable System (SACS) launch on Internet routing. This codebase can be extended to other use-cases of cable launches, failures, etc.
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
-- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [dolongbien/HumanBehaviorBKU](https://github.com/dolongbien/HumanBehaviorBKU) - Abnormal Human Behaviors Detection/ Road Accident Detection From Surveillance Videos/ Real-World Anomaly Detection in Surveillance Videos/ C3D Feature Extraction
 - [aqibsaeed/Human-Activity-Recognition-using-CNN](https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN) - Convolutional Neural Network for Human Activity Recognition in Tensorflow
@@ -4448,6 +4460,8 @@
 
 ## Others 
 
+- [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
+- [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 - [rajannpatel/EXIF-Date-Read.workflow-for-macOS](https://github.com/rajannpatel/EXIF-Date-Read.workflow-for-macOS) - right click any files or folders in the macOS Finder.app to read the EXIF Create Date on photos and images
 - [rajannpatel/EXIF-Date-Change.workflow-for-macOS](https://github.com/rajannpatel/EXIF-Date-Change.workflow-for-macOS) - right click any files or folders in the macOS Finder.app to edit the EXIF Date on photos and images
 - [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio) - Home Assistant
@@ -4493,6 +4507,7 @@
 - [kstenerud/openwrt-relayd-wireless-bridge](https://github.com/kstenerud/openwrt-relayd-wireless-bridge) - Instructions for setting up a wireless bridge in OpenWRT using relayd
 - [dasdboot/multi-channel-gnss](https://github.com/dasdboot/multi-channel-gnss) - Advanced GPS based on LimeSDR board by Lime Microsystems
 - [balena-io-playground/awesome-balena](https://github.com/balena-io-playground/awesome-balena) - A curated list of helpful balena.io resources.
+- [balena-os/balena-os](https://github.com/balena-os/balena-os) - The central place for all things BalenaOS related.
 - [Rbillon59/home-assistant-addons](https://github.com/Rbillon59/home-assistant-addons) - Repository of self made addons
 - [Tolaris/mikrotik-dns-dhcp](https://github.com/Tolaris/mikrotik-dns-dhcp) - Tool to syncronise DHCP lease names with DNS hostnames on Mikrotik routers.
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
@@ -5163,7 +5178,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
+- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -5361,6 +5376,7 @@
 
 ## Python 
 
+- [burnettk/delete-docker-registry-image](https://github.com/burnettk/delete-docker-registry-image) - If you are running a private v2 docker registry, and you are storing your data on disk, running this script from the machine where the data lives will let you fully delete an image or tag
 - [sky-uk/docker-registry-exporter](https://github.com/sky-uk/docker-registry-exporter) - Prometheus exporter for docker registry
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [chbrown/iOSpy](https://github.com/chbrown/iOSpy) - iOS MobileSync backup data extraction
@@ -5929,7 +5945,6 @@
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [johntruckenbrodt/pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing
-- [ssec/polar2grid](https://github.com/ssec/polar2grid) - Tools for reading, remapping, and writing satellite instrument data.
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 - [mapbox/rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
@@ -6124,7 +6139,6 @@
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [google/upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
 - [djmaze/apprise-microservice](https://github.com/djmaze/apprise-microservice) - A small JSON API server for delivering notifications using Apprise
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -6439,6 +6453,7 @@
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [alankbi/detecto](https://github.com/alankbi/detecto) - Build fully-functioning computer vision models with PyTorch
 - [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml) - [UNMAINTAINED] Automated machine learning for analytics & production
+- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
 - [chickenbestlover/RNN-Time-series-Anomaly-Detection](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection) - RNN based Time-series Anomaly detector model implemented in Pytorch.
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [Kismuz/btgym](https://github.com/Kismuz/btgym) - Scalable, event-driven, deep-learning-friendly backtesting library
@@ -7571,6 +7586,7 @@
 
 ## Shell 
 
+- [balena-io-examples/balena-device-node-exporter](https://github.com/balena-io-examples/balena-device-node-exporter) - On-device node_exporter
 - [jcorreajr/ProxmoxBackupHost](https://github.com/jcorreajr/ProxmoxBackupHost) - Backup e Restore Host Proxmox
 - [h4r7w3l1/http_file_prober](https://github.com/h4r7w3l1/http_file_prober) - Simple a Bash tool to parse URLs size and content-type
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
