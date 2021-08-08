@@ -701,6 +701,8 @@
 
 ## C++ 
 
+- [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+- [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [breuner/elbencho](https://github.com/breuner/elbencho) - A distributed storage benchmark for file systems, object stores & block devices with support for GPUs
 - [lizardfs/lizardfs](https://github.com/lizardfs/lizardfs) - LizardFS is an Open Source Distributed File System licensed under GPLv3.
 - [PhotoFlare/photoflare](https://github.com/PhotoFlare/photoflare) - Quick, simple but powerful Cross Platform image editor.
@@ -1054,6 +1056,7 @@
 
 ## Dockerfile 
 
+- [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [rycus86/docker-prometheus-node-exporter](https://github.com/rycus86/docker-prometheus-node-exporter) - Exporter for machine metrics https://prometheus.io/ (on ARM)
 - [linuxserver/docker-ddclient](https://github.com/linuxserver/docker-ddclient) - 
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
@@ -1229,6 +1232,7 @@
 
 ## Erlang 
 
+- [emqx/emqx-bridge-mqtt](https://github.com/emqx/emqx-bridge-mqtt) - Bridge of MQTT
 - [emqx/emqx-web-hook](https://github.com/emqx/emqx-web-hook) - EMQ X Webhook Plugin
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [processone/tsung](https://github.com/processone/tsung) - Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.
@@ -1252,6 +1256,7 @@
 
 ## Go 
 
+- [grepplabs/mqtt-proxy](https://github.com/grepplabs/mqtt-proxy) - MQTT Proxy allows MQTT clients to send messages to other messaging systems
 - [thought-machine/prometheus-cardinality-exporter](https://github.com/thought-machine/prometheus-cardinality-exporter) - Metric cardinality exporter for Prometheus
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) - Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
@@ -2131,7 +2136,7 @@
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics.
 - [povilasv/systemd_exporter](https://github.com/povilasv/systemd_exporter) - Exporter for systemd unit metrics
 - [mindprince/nvidia_gpu_prometheus_exporter](https://github.com/mindprince/nvidia_gpu_prometheus_exporter) - NVIDIA GPU Prometheus Exporter
-- [ribbybibby/ssl_exporter](https://github.com/ribbybibby/ssl_exporter) - Exports Prometheus metrics for SSL certificates
+- [ribbybibby/ssl_exporter](https://github.com/ribbybibby/ssl_exporter) - Exports Prometheus metrics for TLS certificates
 - [QubitProducts/exporter_exporter](https://github.com/QubitProducts/exporter_exporter) - A reverse proxy designed for Prometheus exporters
 - [nshttpd/mikrotik-exporter](https://github.com/nshttpd/mikrotik-exporter) - prometheus mikrotik device(s) exporter
 - [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
@@ -2753,6 +2758,7 @@
 
 ## Java 
 
+- [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
 - [linuxserver/davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
 - [ps3mediaserver/ps3mediaserver](https://github.com/ps3mediaserver/ps3mediaserver) - PS3 Media Server is a cross-platform DLNA-compliant UPnP Media Server. Originally written to support the PlayStation 3, PS3 Media Server has been expanded to support a range of other media renderers, including smartphones, televisions, music players and more.
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
@@ -2917,6 +2923,16 @@
 
 ## JavaScript 
 
+- [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for viewing IP cameras RTSP stream in real time using WebRTC and MSE technology
+- [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
+- [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
+- [arachnetech/homebridge-mqttthing](https://github.com/arachnetech/homebridge-mqttthing) - A plugin for Homebridge allowing the integration of many different accessory types using MQTT.
+- [njh/marquette](https://github.com/njh/marquette) - MQTT enabled Control panel written in node.js
+- [fabaff/mqtt-panel](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT
+- [hobbyquaker/mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Node.js based script runner for use in MQTT based Smart Home environments
+- [hobbyquaker/mqtt-admin](https://github.com/hobbyquaker/mqtt-admin) - MQTT Web Frontend: Publish, Subscribe and see Topic Status in a comfortable UI
+- [tborychowski/unifi-event-monitor](https://github.com/tborychowski/unifi-event-monitor) - Monitors Unifi Controller events and push them as notifications to slack (or any other platform)
+- [bwp91/homebridge-wemo](https://github.com/bwp91/homebridge-wemo) - Homebridge plugin to control Wemo devices.
 - [daneroo/MomPhotoCompare](https://github.com/daneroo/MomPhotoCompare) - Comparing iCloud and GooglePhots Downloads, to hopefully consiladte them both, with no loss and no duplicates
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [kalkih/forked-daapd-card](https://github.com/kalkih/forked-daapd-card) - forked daapd card for Home Assistant Lovelace UI
@@ -3127,7 +3143,7 @@
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [Shmakov/Honeypot](https://github.com/Shmakov/Honeypot) - Low interaction honeypot that displays real time attacks
 - [f9mac/puppeteer-extra-plugin-proxy](https://github.com/f9mac/puppeteer-extra-plugin-proxy) - A plugin for puppeteer-extra to add proxy support
 - [samc621/SneakerBot](https://github.com/samc621/SneakerBot) - All-in-one bot, with auto captcha-solving and proxy management, using Node.js and Puppeteer.
@@ -3623,6 +3639,7 @@
 - [danielfm/prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
@@ -4461,6 +4478,8 @@
 
 ## Others 
 
+- [vvoovv/blender-osm](https://github.com/vvoovv/blender-osm) - One click download and import of OpenStreetMap and terrain for Blender! Global coverage! Source code is in the branch 'release'.
+- [mqtt-smarthome/mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
 - [rajannpatel/EXIF-Date-Read.workflow-for-macOS](https://github.com/rajannpatel/EXIF-Date-Read.workflow-for-macOS) - right click any files or folders in the macOS Finder.app to read the EXIF Create Date on photos and images
@@ -5377,6 +5396,13 @@
 
 ## Python 
 
+- [AlexxIT/StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
+- [twrecked/hass-virtual](https://github.com/twrecked/hass-virtual) - Virtual Components for Home Assistant
+- [custom-components/sensor.ssh](https://github.com/custom-components/sensor.ssh) - SSH Generic Sensor
+- [Petro31/ha-integration-multizone-controller](https://github.com/Petro31/ha-integration-multizone-controller) - Integration that creates a multi-zone volume controller for media_players in Home Assistant
+- [gbbirkisson/hass-pid-thermostat](https://github.com/gbbirkisson/hass-pid-thermostat) - 
+- [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
+- [Misiu/argon40](https://github.com/Misiu/argon40) - Home Assistant support for Argon ONE Pi 3 & 4 cases and Argon Fan HAT
 - [burnettk/delete-docker-registry-image](https://github.com/burnettk/delete-docker-registry-image) - If you are running a private v2 docker registry, and you are storing your data on disk, running this script from the machine where the data lives will let you fully delete an image or tag
 - [sky-uk/docker-registry-exporter](https://github.com/sky-uk/docker-registry-exporter) - Prometheus exporter for docker registry
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
@@ -7198,6 +7224,7 @@
 
 ## Ruby 
 
+- [alexreisner/geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
 - [agilecreativity/ebook_renamer](https://github.com/agilecreativity/ebook_renamer) - Rename multiple ebooks (pdf, epub, mobi) based on embedded meta-data.
 - [darwin/csv2json](https://github.com/darwin/csv2json) - A gem useful for converting CSV files to JSON from command-line
 - [guard/listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
@@ -7355,6 +7382,10 @@
 
 ## Rust 
 
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [woubuc/sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds
+- [whitfin/detox](https://github.com/whitfin/detox) - Quickly clean up your development directories before backups
+- [vmchale/tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [aethylia/upnp_scanner](https://github.com/aethylia/upnp_scanner) - Scans the local network for UPNP root devices.
@@ -7588,6 +7619,8 @@
 
 ## Shell 
 
+- [bAndie91/cloudflare-cli](https://github.com/bAndie91/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
+- [mmontes11/photoprism-auto-index](https://github.com/mmontes11/photoprism-auto-index) - Photoprism supercharged with originals folder auto indexing
 - [steerio/dotfiles](https://github.com/steerio/dotfiles) - Dotfiles for zsh-based environments on OS X, Linux and OpenBSD
 - [scriptingosx/mac-zsh-completions](https://github.com/scriptingosx/mac-zsh-completions) - macOS specific additional completion definitions for Zsh.
 - [tbowmo/docker-swarm-example](https://github.com/tbowmo/docker-swarm-example) - Example of docker swarm setup
@@ -7736,7 +7769,7 @@
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Google Drive and rclone
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
 - [mrako/wait-for](https://github.com/mrako/wait-for) - 
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last (most recent) git command. Your damage control git buddy. Powered by FZF
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
@@ -8935,7 +8968,6 @@
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [datav-io/datav](https://github.com/datav-io/datav) - 📊Modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -9098,6 +9130,8 @@
 
 ## Vue 
 
+- [robertsLando/Mqtt2Mqtt](https://github.com/robertsLando/Mqtt2Mqtt) - Customize MQTT messages between two brokers
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
 - [Razikus/open-balena-dashboard](https://github.com/Razikus/open-balena-dashboard) - 
 - [flespi-software/MQTT-Tiles](https://github.com/flespi-software/MQTT-Tiles) - Open-source MQTT-based IoT dashboard visualization tool. Has full MQTT 5.0 support. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.
 - [Uploadarr/Uploadarr](https://github.com/Uploadarr/Uploadarr) - Read the concept for this project here:
