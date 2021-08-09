@@ -701,6 +701,7 @@
 
 ## C++ 
 
+- [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) - Command line tool for working with OpenStreetMap data based on the Osmium library.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 - [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
 - [breuner/elbencho](https://github.com/breuner/elbencho) - A distributed storage benchmark for file systems, object stores & block devices with support for GPUs
@@ -1062,7 +1063,6 @@
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
 - [mkorenkov/docker-perkeep](https://github.com/mkorenkov/docker-perkeep) - prebuilt docker image of perkeep (aka camlistore)
-- [gerritjandebruin/home-assistant-kaku-doorbell](https://github.com/gerritjandebruin/home-assistant-kaku-doorbell) - Home Assistant Add-on that allows to capture the KlikAanKlikUit Doorbell with RTL-SDR.
 - [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
 - [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
@@ -1256,6 +1256,9 @@
 
 ## Go 
 
+- [4thel00z/upnpctl](https://github.com/4thel00z/upnpctl) - Upnp utility for device discovery and scan (+ export as json)
+- [dadevel/alertmanager-signal-receiver](https://github.com/dadevel/alertmanager-signal-receiver) - Prometheus Alertmanager Webhook Receiver for Signal Messenger
+- [schlauerlauer/alertmanager-webhook-signal](https://github.com/schlauerlauer/alertmanager-webhook-signal) - This project creates a little (dockerized) REST API Endpoint for an Alertmanager and Grafana webhook receiver and maps it to the dockerized signal-cli.
 - [grepplabs/mqtt-proxy](https://github.com/grepplabs/mqtt-proxy) - MQTT Proxy allows MQTT clients to send messages to other messaging systems
 - [thought-machine/prometheus-cardinality-exporter](https://github.com/thought-machine/prometheus-cardinality-exporter) - Metric cardinality exporter for Prometheus
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
@@ -1736,7 +1739,7 @@
 - [rsc/benchstat](https://github.com/rsc/benchstat) - Benchstat computes and compares statistics about benchmarks.
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using Accelerate SHA256 computations in pure Go using AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performance boost of close to 4x over native.
 - [google/skicka](https://github.com/google/skicka) - Command-line utility for working with Google Drive. Join the mailing list at https://groups.google.com/forum/#!forum/skicka-users.
-- [gchaincl/httplab](https://github.com/gchaincl/httplab) - The interactive web server
+- [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [johanmeiring/mikrocount](https://github.com/johanmeiring/mikrocount) - Mikrotik accounting data aggregation and visualisation
 - [rusq/osx-callhistory-decryptor](https://github.com/rusq/osx-callhistory-decryptor) - macOS (incl big sur) call history decryptor/converter to CSV format.
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -2675,7 +2678,7 @@
 - [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website) - The Best Motherfucking Website
 - [virtualmin/virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
 - [virtualmin/authentic-theme](https://github.com/virtualmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
-- [leggett/simplify](https://github.com/leggett/simplify) - Browser extension to simplify Gmail's interface
+- [leggett/simplify](https://github.com/leggett/simplify) - Issue tracker for Simplify Gmail, a browser extension to simplify Gmail's interface
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
@@ -2758,6 +2761,8 @@
 
 ## Java 
 
+- [tordanik/OSM2World](https://github.com/tordanik/OSM2World) - converter that creates three-dimensional models of the world from OpenStreetMap data
+- [osmlab/atlas](https://github.com/osmlab/atlas) - OSM in memory
 - [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
 - [linuxserver/davos](https://github.com/linuxserver/davos) - Web-based FTP automation for Linux servers.
 - [ps3mediaserver/ps3mediaserver](https://github.com/ps3mediaserver/ps3mediaserver) - PS3 Media Server is a cross-platform DLNA-compliant UPnP Media Server. Originally written to support the PlayStation 3, PS3 Media Server has been expanded to support a range of other media renderers, including smartphones, televisions, music players and more.
@@ -2828,7 +2833,7 @@
 - [bonigarcia/webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automated driver management for Selenium WebDriver
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
-- [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server supports RTMP, RTSP, WebRTC and Adaptive Bitrate. It can also record videos in MP4, HLS and FLV
+- [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server is a streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is highly scalable both horizontally and vertically. It can run on-premise or on-cloud.
 - [trixon/mapollage](https://github.com/trixon/mapollage) - Mapollage is a photo kml generator for Google Earth
 - [OpenSextant/Xponents](https://github.com/OpenSextant/Xponents) - Geographic Place, Date/time, and Pattern entity extraction toolkit along with text extraction from unstructured data and GIS outputters.
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
@@ -2923,6 +2928,8 @@
 
 ## JavaScript 
 
+- [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
+- [osmlab/osm-community-index](https://github.com/osmlab/osm-community-index) - :speech_balloon: An index of community resources for OpenStreetMap
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for viewing IP cameras RTSP stream in real time using WebRTC and MSE technology
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
@@ -3938,7 +3945,7 @@
 - [pomber/covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sindresorhus/is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -4162,7 +4169,7 @@
 - [gerritjandebruin/home-assistant](https://github.com/gerritjandebruin/home-assistant) - This repository contains the set-up of my smart home, featured by the open-source project Home Assistant.
 - [AICoE/prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
 - [reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub) - Projections of COVID-19, in standardized format
-- [kan-bayashi/ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN) with Pytorch
+- [kan-bayashi/ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN & HiFi-GAN & StyleMelGAN) with Pytorch
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [sarabara/google_earth_pro_downloader](https://github.com/sarabara/google_earth_pro_downloader) - Downloading historical images from google earth pro client using pyautogui tool
 - [daniestevez/gr-satellites](https://github.com/daniestevez/gr-satellites) - GNU Radio decoders for several Amateur satellites
@@ -4478,6 +4485,8 @@
 
 ## Others 
 
+- [wunderlicht/killtouchbar](https://github.com/wunderlicht/killtouchbar) - An Alfred workflow to kill/restart the Touch Bar
+- [vinaywadhwa/Go-Incognito-Private---Alfred](https://github.com/vinaywadhwa/Go-Incognito-Private---Alfred) - Re-Open current browser tab in Incognito/Private mode with a keyboard shortcut.
 - [vvoovv/blender-osm](https://github.com/vvoovv/blender-osm) - One click download and import of OpenStreetMap and terrain for Blender! Global coverage! Source code is in the branch 'release'.
 - [mqtt-smarthome/mqtt-smarthome](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal
 - [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
@@ -5396,6 +5405,11 @@
 
 ## Python 
 
+- [dchesterton/amcrest2mqtt](https://github.com/dchesterton/amcrest2mqtt) - Expose all events from an Amcrest device to an MQTT broker
+- [jklewa/sourcegraph-alfred](https://github.com/jklewa/sourcegraph-alfred) - Sourcegraph workflow for Alfred
+- [trailbehind/DeepOSM](https://github.com/trailbehind/DeepOSM) - Train a deep learning net with OpenStreetMap features and satellite imagery.
+- [gurumitts/pylutron-caseta](https://github.com/gurumitts/pylutron-caseta) - 
+- [bachya/ecowitt2mqtt](https://github.com/bachya/ecowitt2mqtt) - A small web server to send data from Ecowitt devices to an MQTT Broker
 - [AlexxIT/StartTime](https://github.com/AlexxIT/StartTime) - Start Time sensor for Home Assistant
 - [twrecked/hass-virtual](https://github.com/twrecked/hass-virtual) - Virtual Components for Home Assistant
 - [custom-components/sensor.ssh](https://github.com/custom-components/sensor.ssh) - SSH Generic Sensor
@@ -7619,6 +7633,7 @@
 
 ## Shell 
 
+- [lukdiekm/alfred-shortcuts](https://github.com/lukdiekm/alfred-shortcuts) - 
 - [bAndie91/cloudflare-cli](https://github.com/bAndie91/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
 - [mmontes11/photoprism-auto-index](https://github.com/mmontes11/photoprism-auto-index) - Photoprism supercharged with originals folder auto indexing
 - [steerio/dotfiles](https://github.com/steerio/dotfiles) - Dotfiles for zsh-based environments on OS X, Linux and OpenBSD
