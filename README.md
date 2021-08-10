@@ -173,6 +173,7 @@
 
 ## C 
 
+- [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
 - [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 - [mutability/dump978](https://github.com/mutability/dump978) - Experimental demodulator/decoder for UAT on 978MHz
@@ -970,6 +971,7 @@
 
 ## CSS 
 
+- [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [balenalabs-incubator/coral-audio-analysis](https://github.com/balenalabs-incubator/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [Koala633/hostbase](https://github.com/Koala633/hostbase) - A Ruby GUI based on advanced rogue AP attack
@@ -1256,6 +1258,9 @@
 
 ## Go 
 
+- [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
+- [netzkern/butler](https://github.com/netzkern/butler) - 🤵 Welcome to Butler, your personal assistent to scaffold new projects. Shipped with binaries for Mac, Win and Linux.
+- [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) - Bitrise runner CLI - run your automations on your Mac or Linux machine -
 - [4thel00z/upnpctl](https://github.com/4thel00z/upnpctl) - Upnp utility for device discovery and scan (+ export as json)
 - [dadevel/alertmanager-signal-receiver](https://github.com/dadevel/alertmanager-signal-receiver) - Prometheus Alertmanager Webhook Receiver for Signal Messenger
 - [schlauerlauer/alertmanager-webhook-signal](https://github.com/schlauerlauer/alertmanager-webhook-signal) - This project creates a little (dockerized) REST API Endpoint for an Alertmanager and Grafana webhook receiver and maps it to the dockerized signal-cli.
@@ -1580,7 +1585,7 @@
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-- [terraform-providers/terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [hashicorp/envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
@@ -2015,7 +2020,7 @@
 - [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [google/mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
+- [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [openrdap/rdap](https://github.com/openrdap/rdap) - RDAP command line client
 - [prometheus-community/prometheus-playground](https://github.com/prometheus-community/prometheus-playground) - Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases
 - [genkiroid/cert](https://github.com/genkiroid/cert) - Cert is the Go tool to get TLS certificate information.
@@ -2681,7 +2686,6 @@
 - [leggett/simplify](https://github.com/leggett/simplify) - Issue tracker for Simplify Gmail, a browser extension to simplify Gmail's interface
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
-- [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
 - [truenas/documentation](https://github.com/truenas/documentation) - TrueNAS Documentation Hub
 - [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS) - Deep Learning GPU Training System
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -2868,6 +2872,7 @@
 - [structurizr/java](https://github.com/structurizr/java) - Structurizr for Java
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [APNIC-net/rdap-ingressd](https://github.com/APNIC-net/rdap-ingressd) - Proxy and redirection server for the RDAP protocol
+- [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
 - [iipc/openwayback](https://github.com/iipc/openwayback) - The OpenWayback Development
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [intuit/karate](https://github.com/intuit/karate) - Test Automation Made Simple
@@ -2928,6 +2933,10 @@
 
 ## JavaScript 
 
+- [guyongquan/webhook-adapter](https://github.com/guyongquan/webhook-adapter) - 
+- [Taisun-Docker/taisun](https://github.com/Taisun-Docker/taisun) - Application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
+- [pratikpz18/automation-with-robotjs](https://github.com/pratikpz18/automation-with-robotjs) - automation for regular task using nodejs library robotjs the desktop automation
+- [gonnavis/TeamControl](https://github.com/gonnavis/TeamControl) - Visual Desktop Remote Control Application based on WebRTC
 - [tyrasd/osmtogeojson](https://github.com/tyrasd/osmtogeojson) - convert osm to geojson
 - [osmlab/osm-community-index](https://github.com/osmlab/osm-community-index) - :speech_balloon: An index of community resources for OpenStreetMap
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for viewing IP cameras RTSP stream in real time using WebRTC and MSE technology
@@ -3810,7 +3819,7 @@
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development
-- [trufflesuite/ganache-cli](https://github.com/trufflesuite/ganache-cli) - Fast Ethereum RPC client for testing and development
+- [trufflesuite/ganache-cli](https://github.com/trufflesuite/ganache-cli) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache-core for current development.
 - [adibas03/crypto-will](https://github.com/adibas03/crypto-will) - Dead man's switch implementation in the Crypto world, will be connected to EAC (Ethereum alarm clock): https://adibas03.github.io/crypto-will
 - [PirateBox-Dev/PirateBoxScripts](https://github.com/PirateBox-Dev/PirateBoxScripts) - David Dart's Piratebox scripts reformed for laptop usage.
 - [dsheiko/puppetry](https://github.com/dsheiko/puppetry) - Web testing solution for non-developers on top of Puppeteer and Jest
@@ -4214,7 +4223,7 @@
 - [KuntalP/10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
 - [chervonij/DFL-Colab](https://github.com/chervonij/DFL-Colab) - DeepFaceLab fork which provides IPython Notebook to use DFL with Google Colab
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback, vit), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), reinforcement learning (ppo, dqn), capsnet, distillation, etc.
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠
 - [nareshkumar66675/Appomania](https://github.com/nareshkumar66675/Appomania) - Andoid and iOS App Store Analysis
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
@@ -5469,7 +5478,7 @@
 - [rasa/pypdfocr](https://github.com/rasa/pypdfocr) - Python script to do PDF OCR conversion using Tesseract
 - [virantha/pypdfocr](https://github.com/virantha/pypdfocr) - Python script to do PDF OCR conversion using Tesseract
 - [jdmonaco/pdf-title-rename](https://github.com/jdmonaco/pdf-title-rename) - A script to batch rename PDF files based on metadata/XMP title and author
-- [metebalci/pdftitle](https://github.com/metebalci/pdftitle) - a utility to extract the title of a PDF article
+- [metebalci/pdftitle](https://github.com/metebalci/pdftitle) - a utility to extract the title from a PDF file
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [khaitun1998/speedtest-all-server](https://github.com/khaitun1998/speedtest-all-server) - Python script to run speedtest-cli on all available servers
 - [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter) - Speedtest Exporter made in python using the official speedtest bin
@@ -7238,6 +7247,7 @@
 
 ## Ruby 
 
+- [youpy/mac-robot](https://github.com/youpy/mac-robot) - A Library to Automate User Interactions
 - [alexreisner/geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
 - [agilecreativity/ebook_renamer](https://github.com/agilecreativity/ebook_renamer) - Rename multiple ebooks (pdf, epub, mobi) based on embedded meta-data.
 - [darwin/csv2json](https://github.com/darwin/csv2json) - A gem useful for converting CSV files to JSON from command-line
@@ -7633,6 +7643,7 @@
 
 ## Shell 
 
+- [maddox/mac-api](https://github.com/maddox/mac-api) - Command your Mac from afar
 - [lukdiekm/alfred-shortcuts](https://github.com/lukdiekm/alfred-shortcuts) - 
 - [bAndie91/cloudflare-cli](https://github.com/bAndie91/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
 - [mmontes11/photoprism-auto-index](https://github.com/mmontes11/photoprism-auto-index) - Photoprism supercharged with originals folder auto indexing
@@ -8731,6 +8742,7 @@
 
 ## TypeScript 
 
+- [littledivy/voicecontroljs](https://github.com/littledivy/voicecontroljs) - Voice-driven desktop automation. :rocket:
 - [any-json/any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON
 - [ruedap/alfred-bootstrap-icons-workflow](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - 🎩 Bootstrap Icons workflow for Alfred
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
