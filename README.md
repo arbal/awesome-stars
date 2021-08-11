@@ -592,6 +592,7 @@
 
 ## C# # 
 
+- [sleevezipper/hass-workstation-service](https://github.com/sleevezipper/hass-workstation-service) - Provide useful sensors and services from your workstation to Home Assistant.
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [nandortoth/rtlsdr-manager](https://github.com/nandortoth/rtlsdr-manager) - .NET Core library to manage RTL-SDR devices
 - [v-braun/gh-urls](https://github.com/v-braun/gh-urls) - resolves API, HTML and RAW Urls for GitHub repositories
@@ -1258,6 +1259,15 @@
 
 ## Go 
 
+- [zmap/zannotate](https://github.com/zmap/zannotate) - Utility for annotating Internet datasets with contextual metadata (e.g., origin AS, MaxMind GeoIP2, reverse DNS, and WHOIS)
+- [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
+- [danielgtaylor/openapi-cli-generator](https://github.com/danielgtaylor/openapi-cli-generator) - Generate a CLI from an OpenAPI 3 specification
+- [shyim/ssh-host-manager](https://github.com/shyim/ssh-host-manager) - Simple CLI to manage your ssh shortcuts
+- [google/renameio](https://github.com/google/renameio) - Package renameio provides a way to atomically create or replace a file or symbolic link.
+- [astaxie/bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
+- [NVISOsecurity/IOXY](https://github.com/NVISOsecurity/IOXY) - MQTT intercepting proxy
 - [djherbis/times](https://github.com/djherbis/times) - #golang file times (atime, mtime, ctime, btime)
 - [netzkern/butler](https://github.com/netzkern/butler) - 🤵 Welcome to Butler, your personal assistent to scaffold new projects. Shipped with binaries for Mac, Win and Linux.
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) - Bitrise runner CLI - run your automations on your Mac or Linux machine -
@@ -2044,7 +2054,7 @@
 - [SCHKN/systemd-monitoring](https://github.com/SCHKN/systemd-monitoring) - a simple way to monitor systemd services using go, influxdb and chronograf
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data lake, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [shuza/mqtt-cli](https://github.com/shuza/mqtt-cli) - A cli application written in Go to provide terminal interaction with EMQ
 - [golift/securityspy](https://github.com/golift/securityspy) - Full Featured Go Library for SecuritySpy
@@ -2612,6 +2622,7 @@
 
 ## HTML 
 
+- [synesthesiam/rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy voice assistant for offline home automation
 - [plamere/playlistminer](https://github.com/plamere/playlistminer) - Creates spotify playlists by aggregating top songs from other playlists
 - [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
 - [pd3f/pd3f](https://github.com/pd3f/pd3f) - 🏭 PDF text extraction pipeline: self-hosted, local-first, Docker-based
@@ -2765,6 +2776,7 @@
 
 ## Java 
 
+- [owagner/logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for smart home automation, based around MQTT
 - [tordanik/OSM2World](https://github.com/tordanik/OSM2World) - converter that creates three-dimensional models of the world from OpenStreetMap data
 - [osmlab/atlas](https://github.com/osmlab/atlas) - OSM in memory
 - [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
@@ -2933,6 +2945,17 @@
 
 ## JavaScript 
 
+- [projecthorus/chasemapper](https://github.com/projecthorus/chasemapper) - Browser-Based High-Altitude Balloon Chase Map
+- [zone117x/node-cryptonote-pool](https://github.com/zone117x/node-cryptonote-pool) - Mining pool for CryptoNote based coins such as Bytecoin and Monero
+- [OSMBuildings/OSMBuildings](https://github.com/OSMBuildings/OSMBuildings) - 3d building geometry viewer based on OpenStreetMap data
+- [jhotmann/node-rename-cli](https://github.com/jhotmann/node-rename-cli) - A tool for renaming files quickly, especially multiple files at once.
+- [75lb/renamer](https://github.com/75lb/renamer) - Rename files in bulk.
+- [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
+- [synapsemx/adsb-stats-twitter](https://github.com/synapsemx/adsb-stats-twitter) - Pulls a given station id from flightaware and tweets a statement about aircraft and position reports
+- [andrey-git/home-assistant-custom-ui](https://github.com/andrey-git/home-assistant-custom-ui) - Custom UI elements for https://home-assistant.io
+- [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant
+- [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [guyongquan/webhook-adapter](https://github.com/guyongquan/webhook-adapter) - 
 - [Taisun-Docker/taisun](https://github.com/Taisun-Docker/taisun) - Application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
 - [pratikpz18/automation-with-robotjs](https://github.com/pratikpz18/automation-with-robotjs) - automation for regular task using nodejs library robotjs the desktop automation
@@ -4261,7 +4284,7 @@
 - [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
 - [betatim/openrefineder](https://github.com/betatim/openrefineder) - 💠 + 📚 OpenRefine on Binder!
 - [Earth-Observation/ml-workspace](https://github.com/Earth-Observation/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
-- [joehoeller/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV](https://github.com/joehoeller/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV) - A complete machine vision container that includes Jupyter notebooks with built-in code hinting, Anaconda, CUDA-X, TensorRT inference accelerator for Tensor cores, CuPy (GPU drop in replacement for Numpy), PyTorch, TF2, Tensorboard, and OpenCV for accelerated workloads on NVIDIA Tensor cores and GPUs.
+- [joehoeller/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV](https://github.com/joehoeller/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV) - A complete machine vision container that includes Jupyter notebooks with built-in code hinting, Anaconda, CUDA 11, TensorRT inference accelerator for Tensor cores, CuPy (GPU drop in replacement for Numpy), PyTorch, PyTorch geometric for Graph Neural Networks, TF2, Tensorboard, and OpenCV for accelerated workloads on NVIDIA Tensor cores and GPUs.
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -5414,6 +5437,14 @@
 
 ## Python 
 
+- [darksidelemm/kerberossdr](https://github.com/darksidelemm/kerberossdr) - KerberosSDR Demo software for direction finding and passive radar
+- [hjelev/rpi-mqtt-monitor](https://github.com/hjelev/rpi-mqtt-monitor) - Python 2 and 3 script to check cpu load, cpu temperature, free space, used memory, swap usage, voltage and system clock speed on a Raspberry Pi computer and publish the data to a MQTT broker.
+- [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renamer and organizion tool
+- [Limych/ha-average](https://github.com/Limych/ha-average) - Average Sensor for Home Assistant
+- [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
+- [FrancisLab/hass-climate-scheduler](https://github.com/FrancisLab/hass-climate-scheduler) - A Home Assistant component to define climate profiles and facilitate automation of climate entities.
+- [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
+- [timofurrer/maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
 - [dchesterton/amcrest2mqtt](https://github.com/dchesterton/amcrest2mqtt) - Expose all events from an Amcrest device to an MQTT broker
 - [jklewa/sourcegraph-alfred](https://github.com/jklewa/sourcegraph-alfred) - Sourcegraph workflow for Alfred
 - [trailbehind/DeepOSM](https://github.com/trailbehind/DeepOSM) - Train a deep learning net with OpenStreetMap features and satellite imagery.
@@ -5537,7 +5568,7 @@
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) - WaveRNN Vocoder + TTS
 - [r9y9/deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models
-- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese, German and Easy to adapt for other languages)
+- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
 - [mortensteenrasmussen/docker-registry-manifest-cleanup](https://github.com/mortensteenrasmussen/docker-registry-manifest-cleanup) - Cleans up docker registry by removing untagged manifests from the registry
@@ -5575,7 +5606,7 @@
 - [pageflt/ansible-jailventory](https://github.com/pageflt/ansible-jailventory) - Ansible dynamic inventory provider for FreeBSD jails.
 - [rytilahti/homeassistant-upnp-availability](https://github.com/rytilahti/homeassistant-upnp-availability) - UPnP Availability sensor for Home Assistant
 - [simonw/datasette-graphql](https://github.com/simonw/datasette-graphql) - Datasette plugin providing an automatic GraphQL API for your SQLite databases
-- [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python module to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files
+- [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
 - [swz30/MPRNet](https://github.com/swz30/MPRNet) - Official repository for "Multi-Stage Progressive Image Restoration" (CVPR 2021). SOTA results for image deblurring, deraining, and denoising.
 - [andrewp-as-is/chrome-bookmarks.py](https://github.com/andrewp-as-is/chrome-bookmarks.py) - :link: Google Chrome bookmarks helper
 - [andrewp-as-is/applescript.py](https://github.com/andrewp-as-is/applescript.py) - :apple: :snake: run applescript
@@ -7406,6 +7437,9 @@
 
 ## Rust 
 
+- [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
+- [CanalTP/mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data)
+- [waltzofpearls/belt](https://github.com/waltzofpearls/belt) - A CLI app to show your time from a list of selected time zones, and a rust lib to parse dates in string formats that are commonly used.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [woubuc/sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds
 - [whitfin/detox](https://github.com/whitfin/detox) - Quickly clean up your development directories before backups
@@ -7643,6 +7677,12 @@
 
 ## Shell 
 
+- [Othernet-Project/dreamcatcher-chat](https://github.com/Othernet-Project/dreamcatcher-chat) - A chat application for the Othernet Dreamcatcher data radio
+- [Othernet-Project/orx-rpi](https://github.com/Othernet-Project/orx-rpi) - ORx build for Raspberry Pi
+- [7sDream/certbot-dns-challenge-cloudflare-hooks](https://github.com/7sDream/certbot-dns-challenge-cloudflare-hooks) - Simple scripts I use to auto renew my Let's encrypt wildcard SSL cert.
+- [arbal/addon-sponsorblockcast](https://github.com/arbal/addon-sponsorblockcast) - 
+- [MrYadro/addon-sponsorblockcast](https://github.com/MrYadro/addon-sponsorblockcast) - 
+- [chvancooten/homeassistant-googletokenretriever](https://github.com/chvancooten/homeassistant-googletokenretriever) - A script for automatically retrieving Google Home API keys into Home Assistant
 - [maddox/mac-api](https://github.com/maddox/mac-api) - Command your Mac from afar
 - [lukdiekm/alfred-shortcuts](https://github.com/lukdiekm/alfred-shortcuts) - 
 - [bAndie91/cloudflare-cli](https://github.com/bAndie91/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
@@ -8742,6 +8782,8 @@
 
 ## TypeScript 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [EricAndrechek/nest-cam-rtsp](https://github.com/EricAndrechek/nest-cam-rtsp) - 
 - [littledivy/voicecontroljs](https://github.com/littledivy/voicecontroljs) - Voice-driven desktop automation. :rocket:
 - [any-json/any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON
 - [ruedap/alfred-bootstrap-icons-workflow](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - 🎩 Bootstrap Icons workflow for Alfred
@@ -9192,6 +9234,7 @@
 
 ## XSLT 
 
+- [ernw/nmap-parse-output](https://github.com/ernw/nmap-parse-output) - Converts/manipulates/extracts data from a Nmap scan output.
 - [ietf-wg-cellar/matroska-specification](https://github.com/ietf-wg-cellar/matroska-specification) - Matroska specification.
 
 ## sed 
