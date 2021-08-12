@@ -173,6 +173,7 @@
 
 ## C 
 
+- [ocerman/zenpower](https://github.com/ocerman/zenpower) - Zenpower is Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
 - [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
@@ -703,6 +704,7 @@
 
 ## C++ 
 
+- [octobanana/euarel](https://github.com/octobanana/euarel) - A CLI tool for URL percent-encoding and percent-decoding text.
 - [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) - Command line tool for working with OpenStreetMap data based on the Osmium library.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 - [openstreetmap/osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - OpenStreetMap data to PostgreSQL converter
@@ -796,7 +798,7 @@
 - [xmrig/xmrig-proxy](https://github.com/xmrig/xmrig-proxy) - Monero (XMR) Stratum protocol proxy
 - [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
+- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility, SMS & LORA.
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
@@ -1259,6 +1261,8 @@
 
 ## Go 
 
+- [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
+- [nathanielc/jim](https://github.com/nathanielc/jim) - Jim is a home automation assistant
 - [zmap/zannotate](https://github.com/zmap/zannotate) - Utility for annotating Internet datasets with contextual metadata (e.g., origin AS, MaxMind GeoIP2, reverse DNS, and WHOIS)
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [danielgtaylor/openapi-cli-generator](https://github.com/danielgtaylor/openapi-cli-generator) - Generate a CLI from an OpenAPI 3 specification
@@ -2945,6 +2949,10 @@
 
 ## JavaScript 
 
+- [fraserxu/electron-pdf](https://github.com/fraserxu/electron-pdf) - 📄 A command line tool to generate PDF from URL, HTML or Markdown files.
+- [pillarjs/encodeurl](https://github.com/pillarjs/encodeurl) - Encode a URL to a percent-encoded form, excluding already-encoded sequences
+- [klauserber/homr-react](https://github.com/klauserber/homr-react) - HOMR-REACT is a small html5 app that provides simple status displays and switches for smart home applications.
+- [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [projecthorus/chasemapper](https://github.com/projecthorus/chasemapper) - Browser-Based High-Altitude Balloon Chase Map
 - [zone117x/node-cryptonote-pool](https://github.com/zone117x/node-cryptonote-pool) - Mining pool for CryptoNote based coins such as Bytecoin and Monero
 - [OSMBuildings/OSMBuildings](https://github.com/OSMBuildings/OSMBuildings) - 3d building geometry viewer based on OpenStreetMap data
@@ -7677,6 +7685,7 @@
 
 ## Shell 
 
+- [alex00x6/mqtt-monitoring](https://github.com/alex00x6/mqtt-monitoring) - 
 - [Othernet-Project/dreamcatcher-chat](https://github.com/Othernet-Project/dreamcatcher-chat) - A chat application for the Othernet Dreamcatcher data radio
 - [Othernet-Project/orx-rpi](https://github.com/Othernet-Project/orx-rpi) - ORx build for Raspberry Pi
 - [7sDream/certbot-dns-challenge-cloudflare-hooks](https://github.com/7sDream/certbot-dns-challenge-cloudflare-hooks) - Simple scripts I use to auto renew my Let's encrypt wildcard SSL cert.
