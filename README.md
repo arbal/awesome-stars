@@ -173,6 +173,7 @@
 
 ## C 
 
+- [jketterl/csdr](https://github.com/jketterl/csdr) - A simple DSP library and command-line tool for Software Defined Radio.
 - [ocerman/zenpower](https://github.com/ocerman/zenpower) - Zenpower is Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
@@ -593,6 +594,7 @@
 
 ## C# # 
 
+- [dend/foggycam](https://github.com/dend/foggycam) - 📹  A tool to locally capture your own Nest camera stream.
 - [sleevezipper/hass-workstation-service](https://github.com/sleevezipper/hass-workstation-service) - Provide useful sensors and services from your workstation to Home Assistant.
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [nandortoth/rtlsdr-manager](https://github.com/nandortoth/rtlsdr-manager) - .NET Core library to manage RTL-SDR devices
@@ -704,6 +706,8 @@
 
 ## C++ 
 
+- [altillimity/AltiWx](https://github.com/altillimity/AltiWx) - Yet another automated SDR-based station software
+- [altillimity/SatDump](https://github.com/altillimity/SatDump) - A generic satellite data processing software.
 - [octobanana/euarel](https://github.com/octobanana/euarel) - A CLI tool for URL percent-encoding and percent-decoding text.
 - [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) - Command line tool for working with OpenStreetMap data based on the Osmium library.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
@@ -882,7 +886,7 @@
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [fanout/pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
+- [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, Caffe2, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [nikolaseu/neuvision](https://github.com/nikolaseu/neuvision) - Structured Light based 3D scanner
@@ -1983,13 +1987,13 @@
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [insomniacslk/dublin-traceroute](https://github.com/insomniacslk/dublin-traceroute) - Dublin Traceroute is a NAT-aware multipath tracerouting tool
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
-- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way. Set up once and forever.
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
 - [williamchanrico/planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server dependencies along with required bandwidth
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket[s]-FLV/TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify.
-- [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
+- [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically log in users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
@@ -2664,7 +2668,6 @@
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Generate Google Cloud Platform support for Terraform, Ansible, InSpec
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
-- [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [nabla-c0d3/trust_stores_observatory](https://github.com/nabla-c0d3/trust_stores_observatory) - Continuously monitor and record the content of the major platforms' root certificate stores.
 - [ookangzheng/blahdns](https://github.com/ookangzheng/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [ninoseki/mihari](https://github.com/ninoseki/mihari) - A framework for continuous OSINT based threat hunting
@@ -2949,6 +2952,9 @@
 
 ## JavaScript 
 
+- [binghe/acrobat-actions](https://github.com/binghe/acrobat-actions) - Custom Commands and Actions for Adobe Acrobat
+- [nyoungstudios/Adobe-Acrobat-PDF-Tools](https://github.com/nyoungstudios/Adobe-Acrobat-PDF-Tools) - 📄 Scripts to automate time consuming tasks in Adobe Acrobat using JavaScript.
+- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots
 - [fraserxu/electron-pdf](https://github.com/fraserxu/electron-pdf) - 📄 A command line tool to generate PDF from URL, HTML or Markdown files.
 - [pillarjs/encodeurl](https://github.com/pillarjs/encodeurl) - Encode a URL to a percent-encoded form, excluding already-encoded sequences
 - [klauserber/homr-react](https://github.com/klauserber/homr-react) - HOMR-REACT is a small html5 app that provides simple status displays and switches for smart home applications.
@@ -3146,7 +3152,7 @@
 - [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library
 - [Upload/Up1](https://github.com/Upload/Up1) - Client-side encrypted image host web server
 - [Petro31/home-assistant-config](https://github.com/Petro31/home-assistant-config) - Home Assistant Configuration
-- [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea
+- [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea、Gogs
 - [saitho/semantic-release-gitea](https://github.com/saitho/semantic-release-gitea) - 🍵 semantic-release plugin to publish a Gitea release
 - [koalazak/rest980](https://github.com/koalazak/rest980) - REST interface to control your iRobot Roomba 980 via local server on your lan.
 - [jeremywillans/hass-addons](https://github.com/jeremywillans/hass-addons) - Hass.io Addon Repository
@@ -3410,6 +3416,7 @@
 - [breakdance/breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
 - [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
 - [jojoee/add2calendar](https://github.com/jojoee/add2calendar) - :calendar: Allow you to add event to calendar easier
+- [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [transitive-bullshit/check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness. Extremely fast ⚡
@@ -4160,7 +4167,8 @@
 - [hassio-addons/addon-zerotier](https://github.com/hassio-addons/addon-zerotier) - ZeroTier One - Home Assistant Community Add-ons
 - [hassio-addons/addon-spotify-connect](https://github.com/hassio-addons/addon-spotify-connect) - Spotify Connect - Home Assistant Community Add-ons
 - [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast) - AirCast - Home Assistant Community Add-ons
-- [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible.
+- [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) - UniFi Controller - Home Assistant Community Add-ons
+- [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖
 - [IronicBadger/infra](https://github.com/IronicBadger/infra) - 99.9% less leaked credentials
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
@@ -4525,6 +4533,7 @@
 
 ## Others 
 
+- [arbal/sdr-spectrum-monitor](https://github.com/arbal/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
 - [wunderlicht/killtouchbar](https://github.com/wunderlicht/killtouchbar) - An Alfred workflow to kill/restart the Touch Bar
 - [vinaywadhwa/Go-Incognito-Private---Alfred](https://github.com/vinaywadhwa/Go-Incognito-Private---Alfred) - Re-Open current browser tab in Incognito/Private mode with a keyboard shortcut.
 - [vvoovv/blender-osm](https://github.com/vvoovv/blender-osm) - One click download and import of OpenStreetMap and terrain for Blender! Global coverage! Source code is in the branch 'release'.
@@ -4562,7 +4571,6 @@
 - [kerberos-io/kerberos-balena](https://github.com/kerberos-io/kerberos-balena) - Run Kerberos Open Source on Balena Cloud with just a few clicks.
 - [cburmeister/pi-hole](https://github.com/cburmeister/pi-hole) - A network-level black hole for internet advertisements running on a Raspberry Pi deployed via BalenaCloud.
 - [arbal/CroniclePlugins](https://github.com/arbal/CroniclePlugins) - Plugins I have created to use with Cronicle (https://github.com/jhuckaby/Cronicle)
-- [arbal/sdr-spectrum-monitor](https://github.com/arbal/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
 - [arbal/coral-audio-analysis](https://github.com/arbal/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [geerlingguy/ansible-role-awx](https://github.com/geerlingguy/ansible-role-awx) - Ansible Role - AWX
 - [ahuacate/pve-homelab](https://github.com/ahuacate/pve-homelab) - LXC Homelab Container Builds
@@ -5018,6 +5026,7 @@
 - [horjulf/docker-certbot_cloudflare](https://github.com/horjulf/docker-certbot_cloudflare) - Docker image providing certbot with Cloudflare plugin
 - [michaelpporter/ansible-role-certbot-cloudflare](https://github.com/michaelpporter/ansible-role-certbot-cloudflare) - Ansible Role for setting up Wildcard certs with certbot and Cloudflare dns plugin
 - [shirosaidev/diskover-web](https://github.com/shirosaidev/diskover-web) - Web file manager, disk space usage, storage search engine and file system analytics for diskover
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 75+ open-source web apps with one Docker command
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [mikrotik-ansible/mikrotik-firewall](https://github.com/mikrotik-ansible/mikrotik-firewall) - 
 - [Madnessy/ansible-mikrotik](https://github.com/Madnessy/ansible-mikrotik) - Manage mikrotik devices
@@ -5445,6 +5454,9 @@
 
 ## Python 
 
+- [inishantgrover/Shodmon](https://github.com/inishantgrover/Shodmon) - The Shodan monitoring tools allows you to monitor shodan listed servers basis on the filter you provided
+- [Yelp/docker-custodian](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy
+- [thegeeklab/prometheus-pve-sd](https://github.com/thegeeklab/prometheus-pve-sd) - Prometheus Service Discovery for Proxmox VE
 - [darksidelemm/kerberossdr](https://github.com/darksidelemm/kerberossdr) - KerberosSDR Demo software for direction finding and passive radar
 - [hjelev/rpi-mqtt-monitor](https://github.com/hjelev/rpi-mqtt-monitor) - Python 2 and 3 script to check cpu load, cpu temperature, free space, used memory, swap usage, voltage and system clock speed on a Raspberry Pi computer and publish the data to a MQTT broker.
 - [jkwill87/mnamer](https://github.com/jkwill87/mnamer) - media file renamer and organizion tool
@@ -7523,13 +7535,13 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [openethereum/openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [jedisct1/doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
+- [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [femiagbabiaka/shodan-rust](https://github.com/femiagbabiaka/shodan-rust) - rusty shodan
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [aahancoc/tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
-- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds
+- [Qovery/engine](https://github.com/Qovery/engine) - Deploy your apps on any Cloud provider in just a few seconds
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [thecoshman/http](https://github.com/thecoshman/http) - Host These Things Please - a basic http server for hosting a folder fast and simply
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -7565,7 +7577,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
-- [jedisct1/encrypted-dns-server](https://github.com/jedisct1/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
+- [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -7685,6 +7697,7 @@
 
 ## Shell 
 
+- [mr-pennyworth/tesseract-app](https://github.com/mr-pennyworth/tesseract-app) - Tesseract-ocr from homebrew packaged as a standalone app
 - [alex00x6/mqtt-monitoring](https://github.com/alex00x6/mqtt-monitoring) - 
 - [Othernet-Project/dreamcatcher-chat](https://github.com/Othernet-Project/dreamcatcher-chat) - A chat application for the Othernet Dreamcatcher data radio
 - [Othernet-Project/orx-rpi](https://github.com/Othernet-Project/orx-rpi) - ORx build for Raspberry Pi
@@ -7813,7 +7826,6 @@
 - [hassio-addons/addon-influxdb](https://github.com/hassio-addons/addon-influxdb) - InfluxDB - Home Assistant Community Add-ons
 - [hassio-addons/addon-wireguard](https://github.com/hassio-addons/addon-wireguard) - WireGuard - Home Assistant Community Add-ons
 - [hassio-addons/addon-homebridge](https://github.com/hassio-addons/addon-homebridge) -  Homebridge - Community Hass.io Add-on for Home Assistant
-- [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) - UniFi Controller - Home Assistant Community Add-ons
 - [hassio-addons/addon-ssh](https://github.com/hassio-addons/addon-ssh) - SSH & Web Terminal - Home Assistant Community Add-ons
 - [hassio-addons/addon-adguard-home](https://github.com/hassio-addons/addon-adguard-home) - AdGuard Home - Home Assistant Community Add-ons
 - [ktemkin/gnuradio-for-mac-without-macports](https://github.com/ktemkin/gnuradio-for-mac-without-macports) - GNURadio bundled as an app for Mac OS X (does not require MacPorts)
@@ -8002,7 +8014,7 @@
 - [rsvp/speedtest-linux](https://github.com/rsvp/speedtest-linux) - Get download/upload speeds via speedtest.net or fast.com from command line using Bash script -- suitable for logs. POSIX OSX Linux
 - [n-st/nench](https://github.com/n-st/nench) - VPS benchmark script — based on the popular bench.sh, plus CPU and ioping tests, and dual-stack IPv4 and v6 speedtests by default
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-- [toniblyx/prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf and more than 100 additional checks that help on GDPR, HIPAA and other security requirements.
+- [toniblyx/prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls and many more additional checks that help on GDPR, HIPAA and other security frameworks.
 - [Whonix/Whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP. https://www.whonix.org
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [zaherg/letsencrypt-for-local-development](https://github.com/zaherg/letsencrypt-for-local-development) - Docker Compose + Traefik TLS Proxy + Let's encrypt Wildcard Cert
@@ -8428,7 +8440,6 @@
 - [Grokzen/docker-redis-cluster](https://github.com/Grokzen/docker-redis-cluster) - Dockerfile for Redis Cluster (redis 3.0+)
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [jonashackt/gitlab-ci-stack](https://github.com/jonashackt/gitlab-ci-stack) - Full CI pipeline project based on Gitlab & Gitlab CI running Docker, completely automated setup by Vagrant & Ansible, providing Let´s Encrypt certificates for private Servers, multiple Gitlab-Runners and the Gitlab Container Registry, incl. GitLab Pages
-- [ethibox/stacks](https://github.com/ethibox/stacks) - Launch your open-source web apps with one docker command
 - [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [mattermost/mattermost-docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production
 - [geerlingguy/ansible-role-certbot](https://github.com/geerlingguy/ansible-role-certbot) - Ansible Role - Certbot (for Let's Encrypt)
@@ -8791,6 +8802,8 @@
 
 ## TypeScript 
 
+- [domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - 🛰 Experience the latest image from the Himawari, GOES, Meteosat, and DSCOVR satellites
+- [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [EricAndrechek/nest-cam-rtsp](https://github.com/EricAndrechek/nest-cam-rtsp) - 
 - [littledivy/voicecontroljs](https://github.com/littledivy/voicecontroljs) - Voice-driven desktop automation. :rocket:
