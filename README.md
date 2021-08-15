@@ -979,6 +979,7 @@
 ## CSS 
 
 - [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
+- [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [balenalabs-incubator/coral-audio-analysis](https://github.com/balenalabs-incubator/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [Koala633/hostbase](https://github.com/Koala633/hostbase) - A Ruby GUI based on advanced rogue AP attack
@@ -1066,6 +1067,7 @@
 
 ## Dockerfile 
 
+- [arbal/dockerfiles](https://github.com/arbal/dockerfiles) - For use with the other major hub
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [rycus86/docker-prometheus-node-exporter](https://github.com/rycus86/docker-prometheus-node-exporter) - Exporter for machine metrics https://prometheus.io/ (on ARM)
 - [linuxserver/docker-ddclient](https://github.com/linuxserver/docker-ddclient) - 
@@ -2758,6 +2760,7 @@
 
 ## Haskell 
 
+- [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
 - [simonmar/async](https://github.com/simonmar/async) - Run IO operations asynchronously and wait for their results
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
@@ -2952,6 +2955,8 @@
 
 ## JavaScript 
 
+- [DBa2016/power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex) - Lovelace pie chart card that displays current energy usage
+- [gurbyz/power-wheel-card](https://github.com/gurbyz/power-wheel-card) - An intuitive way to represent the power and energy that your home is consuming or producing. (A custom card for the Lovelace UI of Home Assistant.)
 - [binghe/acrobat-actions](https://github.com/binghe/acrobat-actions) - Custom Commands and Actions for Adobe Acrobat
 - [nyoungstudios/Adobe-Acrobat-PDF-Tools](https://github.com/nyoungstudios/Adobe-Acrobat-PDF-Tools) - 📄 Scripts to automate time consuming tasks in Adobe Acrobat using JavaScript.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots
@@ -3550,7 +3555,7 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-- [emmtte/Google-Photos-Metadata-Fixer](https://github.com/emmtte/Google-Photos-Metadata-Fixer) - Automatically fix photo's metadata and upload into Google Photos
+- [emmtte/Photos-Metadata-Fixer](https://github.com/emmtte/Photos-Metadata-Fixer) - Automatically fix photo's metadata and upload into Google Photos
 - [edin-m/google-photos-sync](https://github.com/edin-m/google-photos-sync) - Sync Google Photos on a local disk
 - [hamada2029/gphotos_sort](https://github.com/hamada2029/gphotos_sort) - Sort Google Photos album images by filename.
 - [rfgamaral/docker-gphotos-uploader](https://github.com/rfgamaral/docker-gphotos-uploader) - 🐳 Mass upload media folders to your Google Photos account with this Docker image.
@@ -4183,6 +4188,7 @@
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden (Vaultwarden) - Home Assistant Community Add-ons
 - [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
+- [softasap/sa-prometheus-exporters](https://github.com/softasap/sa-prometheus-exporters) - Collection of the preselected prometheus exporters to be installed on a target nodes
 - [iancleary/ansible-role-zsh](https://github.com/iancleary/ansible-role-zsh) - Ansible role to install ZSH, with the ohmyzshplugin manager
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [homielabs/ansible](https://github.com/homielabs/ansible) - Speedy config time
@@ -4312,6 +4318,7 @@
 - [allisonmorgan/google_trends](https://github.com/allisonmorgan/google_trends) - Predicting Google Search Trends
 - [qztseng/google-trends-daily](https://github.com/qztseng/google-trends-daily) - Reconstruct daily trends data over extended period
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
+- [huseinzol05/Gather-Deployment](https://github.com/huseinzol05/Gather-Deployment) - Gathers scalable Tensorflow and Python infrastructure deployment, Husein Go-To for development, 100% Docker.
 - [ThatShelbs/Trend-Py-Sheets-Tab](https://github.com/ThatShelbs/Trend-Py-Sheets-Tab) - Google Trends + Python + Google Sheets API + Tableau Public = Full Automation
 - [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model. Accuracy 90%+
 - [guicalare/Hwmon-python](https://github.com/guicalare/Hwmon-python) - lm-sensor and psutil alternatives for python from scrach
@@ -5454,6 +5461,7 @@
 
 ## Python 
 
+- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [inishantgrover/Shodmon](https://github.com/inishantgrover/Shodmon) - The Shodan monitoring tools allows you to monitor shodan listed servers basis on the filter you provided
 - [Yelp/docker-custodian](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy
 - [thegeeklab/prometheus-pve-sd](https://github.com/thegeeklab/prometheus-pve-sd) - Prometheus Service Discovery for Proxmox VE
@@ -6833,7 +6841,6 @@
 - [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
 - [thtrieu/darkflow](https://github.com/thtrieu/darkflow) - Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
 - [Kao1126/EdgeTPU-FaceNet](https://github.com/Kao1126/EdgeTPU-FaceNet) - Implement SSD and FaceNet on Edge TPU Accelerator
-- [huseinzol05/Gather-Deployment](https://github.com/huseinzol05/Gather-Deployment) - Gathers scalable Tensorflow and Python infrastructure deployment, Husein Go-To for development, 100% Docker.
 - [larsbijl/trending_archive](https://github.com/larsbijl/trending_archive) - a Archive of the github daily trending information
 - [morpheus65535/oscarr](https://github.com/morpheus65535/oscarr) - Oscarr is a dashboard application for users of Plex, Emby, Sonarr, Radarr and Bazarr. It gives you and overview of your media management software.
 - [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox) - Ansible role to provision containers in Proxmox VE virtualization
@@ -7292,7 +7299,6 @@
 - [flexibeast/s6-man-pages](https://github.com/flexibeast/s6-man-pages) - mdoc versions of the documentation for the s6 supervision suite
 - [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
-- [softasap/sa-prometheus-exporters](https://github.com/softasap/sa-prometheus-exporters) - Collection of the preselected prometheus exporters to be installed on a target nodes
 - [xorhash/fh](https://github.com/xorhash/fh) - file history with ed(1), diff(1), awk(1), sed(1) and sh(1)
 - [uschtwill/docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting.
 
@@ -7457,6 +7463,7 @@
 
 ## Rust 
 
+- [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
 - [CanalTP/mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data)
 - [waltzofpearls/belt](https://github.com/waltzofpearls/belt) - A CLI app to show your time from a list of selected time zones, and a rust lib to parse dates in string formats that are commonly used.
@@ -7697,6 +7704,7 @@
 
 ## Shell 
 
+- [utensils/essex](https://github.com/utensils/essex) - Essex - Boilerplate for Docker Based Projects
 - [mr-pennyworth/tesseract-app](https://github.com/mr-pennyworth/tesseract-app) - Tesseract-ocr from homebrew packaged as a standalone app
 - [alex00x6/mqtt-monitoring](https://github.com/alex00x6/mqtt-monitoring) - 
 - [Othernet-Project/dreamcatcher-chat](https://github.com/Othernet-Project/dreamcatcher-chat) - A chat application for the Othernet Dreamcatcher data radio
@@ -8809,7 +8817,6 @@
 - [littledivy/voicecontroljs](https://github.com/littledivy/voicecontroljs) - Voice-driven desktop automation. :rocket:
 - [any-json/any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON
 - [ruedap/alfred-bootstrap-icons-workflow](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - 🎩 Bootstrap Icons workflow for Alfred
-- [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [yashha/percollate-api](https://github.com/yashha/percollate-api) - A basic api to serve percollate as an web api
