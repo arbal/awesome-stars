@@ -706,6 +706,7 @@
 
 ## C++ 
 
+- [pstavirs/ostinato](https://github.com/pstavirs/ostinato) - Ostinato - Packet/Traffic Generator and Analyzer
 - [altillimity/AltiWx](https://github.com/altillimity/AltiWx) - Yet another automated SDR-based station software
 - [altillimity/SatDump](https://github.com/altillimity/SatDump) - A generic satellite data processing software.
 - [octobanana/euarel](https://github.com/octobanana/euarel) - A CLI tool for URL percent-encoding and percent-decoding text.
@@ -1067,6 +1068,8 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
+- [IronicBadger/pms-wiki](https://github.com/IronicBadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
 - [arbal/dockerfiles](https://github.com/arbal/dockerfiles) - For use with the other major hub
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [rycus86/docker-prometheus-node-exporter](https://github.com/rycus86/docker-prometheus-node-exporter) - Exporter for machine metrics https://prometheus.io/ (on ARM)
@@ -3276,6 +3279,7 @@
 - [ironicnet/google-photo-transfer](https://github.com/ironicnet/google-photo-transfer) - 
 - [janis91/ocr](https://github.com/janis91/ocr) - Nextcloud OCR (optical character recoginition) processing for images with tesseract-js
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is a reconnaissance engine(framework) that does end-to-end reconnaissance with the help of highly configurable scan engines and does information gathering about the target web application. reNgine makes use of various open-source tools and makes a configurable pipeline of reconnaissance.
 - [IBM/node-red-tensorflowjs](https://github.com/IBM/node-red-tensorflowjs) - Node-RED node with a TensorFlow.js Object Detection model
 - [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
 - [adonisjs/drive](https://github.com/adonisjs/drive) - Filesystem provider built on top of node-flydrive
@@ -4001,7 +4005,7 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sindresorhus/is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
 - [sindresorhus/uti-cli](https://github.com/sindresorhus/uti-cli) - Get the UTI (Uniform Type Identifier) of a file on macOS
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [samber/grafana-flamegraph-panel](https://github.com/samber/grafana-flamegraph-panel) - 📊 Flame graph panels for Grafana
@@ -5180,7 +5184,6 @@
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems) - Awesome list of distributed systems resources
 - [chrisbalmer/ansible-playbook-freenas](https://github.com/chrisbalmer/ansible-playbook-freenas) - Configures some alerting and HDD checks for FreeNAS
 - [yangwao/awesome-offline](https://github.com/yangwao/awesome-offline) - :no_entry_sign: :satellite: A collection of awesome resources for learning about Offline-First movement
@@ -5461,6 +5464,8 @@
 
 ## Python 
 
+- [damianolombardo/noisy](https://github.com/damianolombardo/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
+- [DShield-ISC/dshield](https://github.com/DShield-ISC/dshield) - DShield Raspberry Pi Sensor
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [inishantgrover/Shodmon](https://github.com/inishantgrover/Shodmon) - The Shodan monitoring tools allows you to monitor shodan listed servers basis on the filter you provided
 - [Yelp/docker-custodian](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy
@@ -5921,7 +5926,6 @@
 - [presslabs/z3](https://github.com/presslabs/z3) - Backup your ZFS snapshots to S3.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
-- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is a reconnaissance engine(framework) that does end-to-end reconnaissance with the help of highly configurable scan engines and does information gathering about the target web application. reNgine makes use of various open-source tools and makes a configurable pipeline of reconnaissance.
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [yassineaboukir/sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 - [x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher) - Phishing catcher using Certstream
@@ -5957,7 +5961,7 @@
 - [hpe-storage/truenas-csp](https://github.com/hpe-storage/truenas-csp) - TrueNAS CORE Container Storage Provider for HPE CSI Driver for Kubernetes
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [gregoryduckworth/GoogleGeocode-HASS](https://github.com/gregoryduckworth/GoogleGeocode-HASS) - Google Location for HASS using the Google Geocode API
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support!
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support!
 - [perliedman/shadow-mapper](https://github.com/perliedman/shadow-mapper) - Generate maps of sun and shade from OpenStreetMap data
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) - Simple Python Script To Mirror Repository From Github To Gitea
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
@@ -6205,7 +6209,7 @@
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [shadow-maker/iBackupPhotosExtractor](https://github.com/shadow-maker/iBackupPhotosExtractor) - Extract Camera Roll and iMessage photos from iOS and iPadOS backup files
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
-- [searx/searx-stats2](https://github.com/searx/searx-stats2) - Statistics of the public Searx instances
+- [searxng/searx-space](https://github.com/searxng/searx-space) - Statistics of the public SearX(NG) instances
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [zigpy/zigpy-znp](https://github.com/zigpy/zigpy-znp) - TI CC2531, CC13x2, CC26x2 radio support for Zigpy and ZHA
 - [deepcoder/ha-zha-query-tools](https://github.com/deepcoder/ha-zha-query-tools) - Python tools to get zigbee device info from Home Assistant ZHA
@@ -7463,6 +7467,7 @@
 
 ## Rust 
 
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
 - [CanalTP/mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data)
@@ -7704,6 +7709,7 @@
 
 ## Shell 
 
+- [AlmirKadric-Published/docker-tuntap-osx](https://github.com/AlmirKadric-Published/docker-tuntap-osx) - A tuntap shim installer for "Docker for Mac"
 - [utensils/essex](https://github.com/utensils/essex) - Essex - Boilerplate for Docker Based Projects
 - [mr-pennyworth/tesseract-app](https://github.com/mr-pennyworth/tesseract-app) - Tesseract-ocr from homebrew packaged as a standalone app
 - [alex00x6/mqtt-monitoring](https://github.com/alex00x6/mqtt-monitoring) - 
@@ -8607,6 +8613,7 @@
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [vdesabou/alfred-mac-osx-sharing](https://github.com/vdesabou/alfred-mac-osx-sharing) - Alfred workflow to use Mac OS X sharing services
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [xwmx/hosts](https://github.com/xwmx/hosts) - A command line hosts file editor in one portable script.
 - [arount/recursive-gitconfig](https://github.com/arount/recursive-gitconfig) - Manage multiple .gitconfig files
 - [paulbhart/toggleairport](https://github.com/paulbhart/toggleairport) - 
@@ -8810,6 +8817,8 @@
 
 ## TypeScript 
 
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
+- [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [domoritz/himawari-8-chrome](https://github.com/domoritz/himawari-8-chrome) - 🛰 Experience the latest image from the Himawari, GOES, Meteosat, and DSCOVR satellites
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
