@@ -1659,7 +1659,7 @@
 - [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
 - [ohsu-comp-bio/funnel](https://github.com/ohsu-comp-bio/funnel) - Funnel is a toolkit for distributed task execution via a simple, standard API.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure vault for customer records built to comply with GDPR
+- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies
@@ -2574,7 +2574,7 @@
 - [square/certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [ccremer/clustercode](https://github.com/ccremer/clustercode) - Distribute your video encoding tasks across a cluster of nodes!
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [caltechlibrary/datatools](https://github.com/caltechlibrary/datatools) - A set of tools for working with JSON, CSV and Excel workbooks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -2961,6 +2961,7 @@
 
 ## JavaScript 
 
+- [ddcc/d3-waterfall](https://github.com/ddcc/d3-waterfall) - 
 - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [DBa2016/power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex) - Lovelace pie chart card that displays current energy usage
 - [gurbyz/power-wheel-card](https://github.com/gurbyz/power-wheel-card) - An intuitive way to represent the power and energy that your home is consuming or producing. (A custom card for the Lovelace UI of Home Assistant.)
@@ -4169,7 +4170,6 @@
 
 - [forem/selfhost](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure 🎉
 - [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for most of my services.
-- [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
@@ -5467,6 +5467,7 @@
 
 ## Python 
 
+- [AresValley/Artemis](https://github.com/AresValley/Artemis) - Radio Signals Recognition Manual
 - [hongquan/CurliPie](https://github.com/hongquan/CurliPie) - Convert cURL command to HTTPie
 - [alexander0042/pirate-weather-ha](https://github.com/alexander0042/pirate-weather-ha) - Replacement for the default Dark Sky Home Assistant integration using Pirate Weather
 - [damianolombardo/noisy](https://github.com/damianolombardo/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
@@ -5601,6 +5602,7 @@
 - [josephdadams/CroniclePlugins](https://github.com/josephdadams/CroniclePlugins) - Plugins I have created to use with Cronicle (https://github.com/jhuckaby/Cronicle)
 - [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
 - [custom-components/sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) - 📺 Sonarr component to feed Upcoming Media Card.
+- [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [cytech/Home-Assistant-wundergroundpws](https://github.com/cytech/Home-Assistant-wundergroundpws) - Home Assistant custom component sensor for Weather Underground personal weather station users
 - [linouk23/youtube_uploader_selenium](https://github.com/linouk23/youtube_uploader_selenium) - Python script to upload videos on YouTube using Selenium
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
@@ -6477,7 +6479,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [jen-soft/pydocker](https://github.com/jen-soft/pydocker) - Easy generator Dockerfile for humans
 - [rgerum/pylustrator](https://github.com/rgerum/pylustrator) - Visualisations of data are at the core of every publication of scientific research results. They have to be as clear as possible to facilitate the communication of research. As data can have different formats and shapes, the visualisations often have to be adapted to reflect the data as well as possible. We developed Pylustrator, an interface to directly edit python generated matplotlib graphs to finalize them for publication. Therefore, subplots can be resized and dragged around by the mouse, text and annotations can be added. The changes can be saved to the initial plot file as python code.
-- [deepmipt/deepy](https://github.com/deepmipt/deepy) - Deepy is a free, open-source Multiskill AI Assistant built using DeepPavlov Conversational AI Stack. It is built on top of DeepPavlov Agent running as container in Docker. It runs on x86_64 machines, and prefers having NVIDIA GPUs on the machine.
+- [deepmipt/dream](https://github.com/deepmipt/dream) - DeepPavlov Dream is a free, open-source Multiskill AI Assistant built using DeepPavlov Conversational AI Stack. It is built on top of DeepPavlov Agent running as container in Docker. It runs on x86_64 machines, and prefers having NVIDIA GPUs on the machine.
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox) - DeepVis Toolbox
@@ -6742,7 +6744,7 @@
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [wangyu-/UDPping](https://github.com/wangyu-/UDPping) - ping with UDP packets 🛠
 - [adversarialtools/apple-telemetry](https://github.com/adversarialtools/apple-telemetry) - Domain blocklists, IP blocklists, Little Snitch .lsrules, and cloaking files for blocking Apple telemetry
-- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT so you can focus on analysis.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [Te-k/harpoon](https://github.com/Te-k/harpoon) - CLI tool for open source and threat intelligence
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
