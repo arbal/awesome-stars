@@ -348,6 +348,7 @@
 - [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - A 3D Mapping Engine & SDK for OpenSceneGraph.
 - [davidramiro/ffmpeg-nvenc-debian](https://github.com/davidramiro/ffmpeg-nvenc-debian) - FFmpeg for Debian with NVENC support
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
+- [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
 - [sonertari/SSLproxy](https://github.com/sonertari/SSLproxy) - Transparent SSL/TLS proxy for decrypting and diverting network traffic to other programs, such as UTM services, for deep SSL inspection
 - [semigodking/redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
@@ -1272,6 +1273,15 @@
 
 ## Go 
 
+- [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
+- [justinfx/olric-nats-plugin](https://github.com/justinfx/olric-nats-plugin) - A service discovery plugin for Olric distributed cache, using nats.io
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
+- [femiwiki/caddy-mwcache](https://github.com/femiwiki/caddy-mwcache) - :wrench: Caddy anonymous cache plugin for MediaWiki
+- [aablinov/caddy-geoip](https://github.com/aablinov/caddy-geoip) - Caddy plugin to resolve user GeoIP data
+- [greenpau/caddy-trace](https://github.com/greenpau/caddy-trace) - Request Debugging Middleware Plugin for Caddy v2
+- [abiosoft/caddy-json-schema](https://github.com/abiosoft/caddy-json-schema) - JSON schema generator for Caddy v2
+- [BTBurke/caddy-jwt](https://github.com/BTBurke/caddy-jwt) - JWT middleware for the Caddy server
+- [techknowlogick/caddy-s3browser](https://github.com/techknowlogick/caddy-s3browser) - Caddy plugin to generate file indexes of S3 buckets to browse via Web Client
 - [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
 - [nathanielc/jim](https://github.com/nathanielc/jim) - Jim is a home automation assistant
 - [zmap/zannotate](https://github.com/zmap/zannotate) - Utility for annotating Internet datasets with contextual metadata (e.g., origin AS, MaxMind GeoIP2, reverse DNS, and WHOIS)
@@ -1835,7 +1845,6 @@
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [Shimmur/shipspotter](https://github.com/Shimmur/shipspotter) - Tool for tunneling a port forward into remote Docker containers over SSH 🚢
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
-- [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [SuperQ/smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping
 - [cloudflare/gortr](https://github.com/cloudflare/gortr) - The RPKI-to-Router server used at Cloudflare
@@ -2574,7 +2583,7 @@
 - [square/certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [ccremer/clustercode](https://github.com/ccremer/clustercode) - Distribute your video encoding tasks across a cluster of nodes!
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [caltechlibrary/datatools](https://github.com/caltechlibrary/datatools) - A set of tools for working with JSON, CSV and Excel workbooks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -2961,6 +2970,7 @@
 
 ## JavaScript 
 
+- [meltwater/fetch-favicon](https://github.com/meltwater/fetch-favicon) - Fetch a great looking favicon from a website
 - [ddcc/d3-waterfall](https://github.com/ddcc/d3-waterfall) - 
 - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [DBa2016/power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex) - Lovelace pie chart card that displays current energy usage
@@ -3869,8 +3879,8 @@
 - [travisghansen/external-auth-server](https://github.com/travisghansen/external-auth-server) - easy auth for reverse proxies
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development
-- [trufflesuite/ganache-cli](https://github.com/trufflesuite/ganache-cli) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache-core for current development.
+- [trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) - Personal blockchain for Ethereum development
+- [trufflesuite/ganache-cli-archive](https://github.com/trufflesuite/ganache-cli-archive) - Fast Ethereum RPC client for testing and development. See https://github.com/trufflesuite/ganache for current development.
 - [adibas03/crypto-will](https://github.com/adibas03/crypto-will) - Dead man's switch implementation in the Crypto world, will be connected to EAC (Ethereum alarm clock): https://adibas03.github.io/crypto-will
 - [PirateBox-Dev/PirateBoxScripts](https://github.com/PirateBox-Dev/PirateBoxScripts) - David Dart's Piratebox scripts reformed for laptop usage.
 - [dsheiko/puppetry](https://github.com/dsheiko/puppetry) - Web testing solution for non-developers on top of Puppeteer and Jest
@@ -4253,7 +4263,6 @@
 - [evrythng/appliance-classification-ml](https://github.com/evrythng/appliance-classification-ml) - Machine Learning Code
 - [nipunbatra/Gemello](https://github.com/nipunbatra/Gemello) - 
 - [JackKelly/neuralnilm_prototype](https://github.com/JackKelly/neuralnilm_prototype) - 
-- [nilmtk/nilmtk-contrib](https://github.com/nilmtk/nilmtk-contrib) - 
 - [pipette/Electricity-load-disaggregation](https://github.com/pipette/Electricity-load-disaggregation) - Smart meter load disaggregation with Hidden Markov Models
 - [louisyuzhe/MachineLearning_NILM](https://github.com/louisyuzhe/MachineLearning_NILM) - Undergraduate research by Yuzhe Lim in Spring 2019. Field of research: Deep Neural Networks application on NILM (Nonintrusive load monitoring) for Energy Disaggregation
 - [ihomelab/dnn4nilm_overview](https://github.com/ihomelab/dnn4nilm_overview) - Overview of NILM works employing Deep Neural Networks on low frequency data
@@ -6019,6 +6028,7 @@
 - [maechler/nnilm](https://github.com/maechler/nnilm) - A reimplementation of Jack Kelly's rectangles neural network architecture based on Keras and the NILMToolkit.
 - [smakonin/SparseNILM](https://github.com/smakonin/SparseNILM) - The super-state hidden Markov model disaggregator that uses a sparse Viterbi algorithm for decoding. This project contains the source code that was use for my IEEE Transactions on Smart Grid journal paper.
 - [JackKelly/neuralnilm](https://github.com/JackKelly/neuralnilm) - Deep Neural Networks Applied to Energy Disaggregation
+- [nilmtk/nilmtk-contrib](https://github.com/nilmtk/nilmtk-contrib) - 
 - [nongiach/arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
 - [fretboardfreak/kitty-theme-changer](https://github.com/fretboardfreak/kitty-theme-changer) - A helper script to change Kitty Terminal Emulator themes on the fly.
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
@@ -6134,7 +6144,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 SeleniumBase: The all-in-one Python framework for fast, easy, & reliable web testing. 🚀
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Automate Web/Mobile UI Testing w/ Python. 🚀
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -6534,7 +6544,7 @@
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
 - [0x4D31/fatt](https://github.com/0x4D31/fatt) - FATT /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
-- [orchest/orchest](https://github.com/orchest/orchest) - A new kind of IDE for Data Science.
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way
 - [Manisso/Crips](https://github.com/Manisso/Crips) - IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
 - [nethunteros/punter](https://github.com/nethunteros/punter) - Hunt domain names using DNSDumpster, WHOIS, Reverse WHOIS, Shodan, Crimeflare
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
@@ -9091,7 +9101,7 @@
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊Modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
+- [datav-io/datav](https://github.com/datav-io/datav) - 📊A lightweight alternative to Grafana, also datav is a modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rlivings39/vscode-fzf-quick-open](https://github.com/rlivings39/vscode-fzf-quick-open) - vscode extension providing quick file/folder open and searching using fzf
