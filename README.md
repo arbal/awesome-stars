@@ -173,6 +173,12 @@
 
 ## C 
 
+- [Benzhaomin/corsairpsu](https://github.com/Benzhaomin/corsairpsu) - hwmon Linux Kernel driver for the Corsair RMi and HXi series of PSUs
+- [GramThanos/WakeOnLAN](https://github.com/GramThanos/WakeOnLAN) - A simple C program that sends a magic packet
+- [YeautyYE/arpspoof](https://github.com/YeautyYE/arpspoof) - :trollface: arpspoof for macOS  - intercept packets on a switched LAN
+- [chromi/sce](https://github.com/chromi/sce) - Some Congestion Experienced
+- [gsnw/fping](https://github.com/gsnw/fping) - High performance ping tool
+- [lavoiesl/osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) - Outputs current CPU temperature for OSX
 - [jketterl/csdr](https://github.com/jketterl/csdr) - A simple DSP library and command-line tool for Software Defined Radio.
 - [ocerman/zenpower](https://github.com/ocerman/zenpower) - Zenpower is Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
@@ -1273,6 +1279,9 @@
 
 ## Go 
 
+- [arbal/liquidctl-exporter](https://github.com/arbal/liquidctl-exporter) - liquidctl Prometheus exporter
+- [taskctl/taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰
+- [paha/liquidctl-exporter](https://github.com/paha/liquidctl-exporter) - liquidctl Prometheus exporter
 - [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
 - [justinfx/olric-nats-plugin](https://github.com/justinfx/olric-nats-plugin) - A service discovery plugin for Olric distributed cache, using nats.io
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed cache and in-memory key/value data store. It can be used both as an embedded Go library and as a language-independent service.
@@ -2822,7 +2831,7 @@
 - [intel-cloud/cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service
 - [vinayalodha/greenbot](https://github.com/vinayalodha/greenbot) - AWS cost optimization tool
 - [Teevity/ice](https://github.com/Teevity/ice) - AWS Usage Tool
-- [xipki/xipki](https://github.com/xipki/xipki) - Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies, No-JPA, No-Spring, No-EJB.
+- [xipki/xipki](https://github.com/xipki/xipki) - Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies.
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's message relay server for Mac
@@ -3045,7 +3054,7 @@
 - [cryptocat/cryptocat](https://github.com/cryptocat/cryptocat) - Secure chat software for your computer.
 - [Theodo-UK/sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - Dev Tools for the Serverless World - Issues, PRs and ⭐️welcome!
 - [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [giangvo/alfred-workflow-nodejs](https://github.com/giangvo/alfred-workflow-nodejs) - A small library providing helpers to create Alfred Workflow
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
@@ -3201,7 +3210,7 @@
 - [sseemayer/OCRmyPDF-web](https://github.com/sseemayer/OCRmyPDF-web) - A tiny frontend for OCRing PDF files via the web.
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - An open-source no-code platform for building and deploying internal tools.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - An open-source no-code platform for building and deploying internal tools 🚀
 - [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
 - [custom-cards/bignumber-card](https://github.com/custom-cards/bignumber-card) - 
 - [custom-cards/circle-sensor-card](https://github.com/custom-cards/circle-sensor-card) - A custom component for displaying sensor values as cards or elements
@@ -4160,7 +4169,7 @@
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [andrew-templeton/cfn-api-gateway-restapi](https://github.com/andrew-templeton/cfn-api-gateway-restapi) - Custom::ApiGatewayRestApi | AWS CloudFormation Custom Lambda Resource | API Gateway RestApi
 - [agnat/node_mdns](https://github.com/agnat/node_mdns) - mdns/zeroconf/bonjour service discovery add-on for node.js
@@ -5234,6 +5243,7 @@
 
 ## PHP 
 
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter
 - [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [bramus/mixed-content-scan](https://github.com/bramus/mixed-content-scan) - Scan your HTTPS-enabled website for Mixed Content
@@ -5475,6 +5485,7 @@
 
 ## Python 
 
+- [uetchy/mac-battery-inspector](https://github.com/uetchy/mac-battery-inspector) - Check your Mac's battery health.
 - [AresValley/Artemis](https://github.com/AresValley/Artemis) - Radio Signals Recognition Manual
 - [hongquan/CurliPie](https://github.com/hongquan/CurliPie) - Convert cURL command to HTTPie
 - [alexander0042/pirate-weather-ha](https://github.com/alexander0042/pirate-weather-ha) - Replacement for the default Dark Sky Home Assistant integration using Pirate Weather
@@ -6144,7 +6155,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Automate Web/Mobile UI Testing w/ Python. 🚀
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Automate Web Testing with Selenium, Python, and pytest. 🚀
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -7484,6 +7495,7 @@
 
 ## Rust 
 
+- [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Automate and relate multiple processes.
 - [kejadlen/pirate-weather.alfredworkflow](https://github.com/kejadlen/pirate-weather.alfredworkflow) - A Pirate Weather workflow for Alfred
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators
@@ -7727,6 +7739,7 @@
 
 ## Shell 
 
+- [WeblateOrg/docker-compose](https://github.com/WeblateOrg/docker-compose) - Docker compose for Weblate
 - [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [Rajeeban-A/SearX_easy_Installer](https://github.com/Rajeeban-A/SearX_easy_Installer) - Search without being tracked-(Your Own Private Search Engine )
 - [AlmirKadric-Published/docker-tuntap-osx](https://github.com/AlmirKadric-Published/docker-tuntap-osx) - A tuntap shim installer for "Docker for Mac"
@@ -8691,6 +8704,8 @@
 
 ## Swift 
 
+- [beltex/SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library & tool
+- [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
 - [debug45/PermissionWizard](https://github.com/debug45/PermissionWizard) - 🔮 An ultimate library for iOS and macOS system permissions management. The easiest way to check or request a permission.
 - [BeauNouvelle/FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
 - [gergelysanta/PhotoMiner](https://github.com/gergelysanta/PhotoMiner) - Photo finder application for macOS
