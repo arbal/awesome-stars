@@ -36,6 +36,7 @@
   - [Erlang](#erlang)
   - [FreeMarker](#freemarker)
   - [G-code](#g-code)
+  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groff](#groff)
   - [Groovy](#groovy)
@@ -173,6 +174,8 @@
 
 ## C 
 
+- [Martingf56/ctOS-TPMS](https://github.com/Martingf56/ctOS-TPMS) - Este es en el respositorio de nuestro Trabajo de Fin de Grado para terminar nuestro Grado en Ingeniería Informática en la Universidad Complutense de Madrid. El cual es un estudio sobre las vulnerabilidades de la tecnología TPMS y el desarrollo de una aplicación capaz de recibir estas señales emitidas por los vehículos y a traves de ellas generar señales falsas con el fin de atacar a la ECU de la víctima.
+- [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [Benzhaomin/corsairpsu](https://github.com/Benzhaomin/corsairpsu) - hwmon Linux Kernel driver for the Corsair RMi and HXi series of PSUs
 - [GramThanos/WakeOnLAN](https://github.com/GramThanos/WakeOnLAN) - A simple C program that sends a magic packet
 - [YeautyYE/arpspoof](https://github.com/YeautyYE/arpspoof) - :trollface: arpspoof for macOS  - intercept packets on a switched LAN
@@ -1277,8 +1280,17 @@
 
 - [MKme/Roomba](https://github.com/MKme/Roomba) - Romba Virtual Wall and Any Other Mods I figure Out
 
+## Gherkin 
+
+- [xyteam/AutoBDD-example](https://github.com/xyteam/AutoBDD-example) - Cucumber E2E Automation Example
+
 ## Go 
 
+- [myriadrf/limedrv](https://github.com/myriadrf/limedrv) - LimeSuite Wrapper on Go (Driver for LimeSDR Devices)
+- [chromedp/chromedp-proxy](https://github.com/chromedp/chromedp-proxy) - chromedp-proxy is a logging proxy for Chrome DevTools Protocol clients.
+- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
+- [utkusen/reqstress](https://github.com/utkusen/reqstress) - a benchmarking&stressing tool that can send raw HTTP requests
+- [Ullaakut/camerattack](https://github.com/Ullaakut/camerattack) - An attack tool designed to remotely disable CCTV camera streams (like in spy movies)
 - [arbal/liquidctl-exporter](https://github.com/arbal/liquidctl-exporter) - liquidctl Prometheus exporter
 - [taskctl/taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰
 - [paha/liquidctl-exporter](https://github.com/paha/liquidctl-exporter) - liquidctl Prometheus exporter
@@ -2592,7 +2604,7 @@
 - [square/certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [ccremer/clustercode](https://github.com/ccremer/clustercode) - Distribute your video encoding tasks across a cluster of nodes!
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [caltechlibrary/datatools](https://github.com/caltechlibrary/datatools) - A set of tools for working with JSON, CSV and Excel workbooks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -2979,6 +2991,9 @@
 
 ## JavaScript 
 
+- [xyteam/AutoBDD](https://github.com/xyteam/AutoBDD) - End-to-End BDD Automation Framework
+- [hoadv/electron-base-with-robotjs](https://github.com/hoadv/electron-base-with-robotjs) - The electron base project setup that already set up robotjs package (https://github.com/octalmage/robotjs) and handled some events (like preventing close application, moving to Tray...)
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Node.js rate limit requests by key with atomic increments in single process or distributed environment.
 - [meltwater/fetch-favicon](https://github.com/meltwater/fetch-favicon) - Fetch a great looking favicon from a website
 - [ddcc/d3-waterfall](https://github.com/ddcc/d3-waterfall) - 
 - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
@@ -4748,7 +4763,6 @@
 - [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - All of GitHub's finest.
 - [reiver/blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
 - [alphaSeclab/sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
-- [m4ll0k/Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
 - [imbaniac/awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
@@ -5485,6 +5499,8 @@
 
 ## Python 
 
+- [abriginets/wreckuests](https://github.com/abriginets/wreckuests) - Yet another one hard-hitting tool to run HTTP stress tests 🌌
+- [Leeon123/CC-attack](https://github.com/Leeon123/CC-attack) - Using Socks4/5 proxy to make a multithreading Http-flood/Https-flood (cc) attack.
 - [uetchy/mac-battery-inspector](https://github.com/uetchy/mac-battery-inspector) - Check your Mac's battery health.
 - [AresValley/Artemis](https://github.com/AresValley/Artemis) - Radio Signals Recognition Manual
 - [hongquan/CurliPie](https://github.com/hongquan/CurliPie) - Convert cURL command to HTTPie
@@ -7739,6 +7755,7 @@
 
 ## Shell 
 
+- [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
 - [WeblateOrg/docker-compose](https://github.com/WeblateOrg/docker-compose) - Docker compose for Weblate
 - [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [Rajeeban-A/SearX_easy_Installer](https://github.com/Rajeeban-A/SearX_easy_Installer) - Search without being tracked-(Your Own Private Search Engine )
@@ -8852,6 +8869,7 @@
 
 ## TypeScript 
 
+- [LordAlex2015/brave-rewards-bot](https://github.com/LordAlex2015/brave-rewards-bot) - Brave Rewards Farm Bot  |  EDUCATIONAL PURPOSES ONLY
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
 - [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake integration in Visual Studio Code
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
