@@ -95,6 +95,7 @@
   - [Starlark](#starlark)
   - [SuperCollider](#supercollider)
   - [Swift](#swift)
+  - [SystemVerilog](#systemverilog)
   - [TSQL](#tsql)
   - [Tcl](#tcl)
   - [TeX](#tex)
@@ -174,6 +175,10 @@
 
 ## C 
 
+- [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open-source DDoS protection system
+- [DasSidG/limesdr_rfid](https://github.com/DasSidG/limesdr_rfid) - A repo containing LimeSuite drivers and GNU Radio code to use the LimeSDR as an RFID reader
+- [oresat/uniclogs-hardware](https://github.com/oresat/uniclogs-hardware) - University Class Open Ground Station Hardware
+- [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [Martingf56/ctOS-TPMS](https://github.com/Martingf56/ctOS-TPMS) - Este es en el respositorio de nuestro Trabajo de Fin de Grado para terminar nuestro Grado en Ingeniería Informática en la Universidad Complutense de Madrid. El cual es un estudio sobre las vulnerabilidades de la tecnología TPMS y el desarrollo de una aplicación capaz de recibir estas señales emitidas por los vehículos y a traves de ellas generar señales falsas con el fin de atacar a la ECU de la víctima.
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [Benzhaomin/corsairpsu](https://github.com/Benzhaomin/corsairpsu) - hwmon Linux Kernel driver for the Corsair RMi and HXi series of PSUs
@@ -716,6 +721,8 @@
 
 ## C++ 
 
+- [myriadrf/lime-tools](https://github.com/myriadrf/lime-tools) - A collection of useful tools for use with the LimeSDR family of boards
+- [Stream-AD/MIDAS](https://github.com/Stream-AD/MIDAS) - Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [opcm/pcm](https://github.com/opcm/pcm) - Processor Counter Monitor
 - [pstavirs/ostinato](https://github.com/pstavirs/ostinato) - Ostinato - Packet/Traffic Generator and Analyzer
@@ -991,6 +998,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
@@ -1286,6 +1294,8 @@
 
 ## Go 
 
+- [docker/hub-tool](https://github.com/docker/hub-tool) - 🧪 Docker Hub experimental CLI tool
+- [docker/scan-cli-plugin](https://github.com/docker/scan-cli-plugin) - Docker Scan is a Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images
 - [myriadrf/limedrv](https://github.com/myriadrf/limedrv) - LimeSuite Wrapper on Go (Driver for LimeSDR Devices)
 - [chromedp/chromedp-proxy](https://github.com/chromedp/chromedp-proxy) - chromedp-proxy is a logging proxy for Chrome DevTools Protocol clients.
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -2331,7 +2341,7 @@
 - [tsutsu/github-auth3](https://github.com/tsutsu/github-auth3) - Use Github for your SSH AuthorizedKeysCommand
 - [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 - [gen2brain/url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites
-- [thecodingmachine/gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [nmaupu/freenas-provisioner](https://github.com/nmaupu/freenas-provisioner) - Kubernetes external provisioner using Freenas as backend
 - [travisghansen/freenas-iscsi-provisioner](https://github.com/travisghansen/freenas-iscsi-provisioner) - FreeNAS iscsi provisioner
 - [56quarters/await](https://github.com/56quarters/await) - Wait for a file to be created/deleted/modified while blocking
@@ -2667,6 +2677,7 @@
 
 ## HTML 
 
+- [jgamblin/NMapNetworkInventoryContainer](https://github.com/jgamblin/NMapNetworkInventoryContainer) - A Docker Container To Continually Scan Your Network And Display Findings Cleanly.
 - [synesthesiam/rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy voice assistant for offline home automation
 - [plamere/playlistminer](https://github.com/plamere/playlistminer) - Creates spotify playlists by aggregating top songs from other playlists
 - [GSA/data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
@@ -2821,6 +2832,7 @@
 
 ## Java 
 
+- [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [plantuml/plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
 - [owagner/logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for smart home automation, based around MQTT
 - [tordanik/OSM2World](https://github.com/tordanik/OSM2World) - converter that creates three-dimensional models of the world from OpenStreetMap data
@@ -2991,6 +3003,10 @@
 
 ## JavaScript 
 
+- [sanjeshpathak/Mosquitto-Dashboard](https://github.com/sanjeshpathak/Mosquitto-Dashboard) - A real time dashboard for monitoring Mosquitto Broker (MQTT)
+- [webdriverio/cucumber-boilerplate](https://github.com/webdriverio/cucumber-boilerplate) - Boilerplate project to run WebdriverIO tests with Cucumber
+- [webrtcHacks/adapter](https://github.com/webrtcHacks/adapter) - Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:
+- [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
 - [xyteam/AutoBDD](https://github.com/xyteam/AutoBDD) - End-to-End BDD Automation Framework
 - [hoadv/electron-base-with-robotjs](https://github.com/hoadv/electron-base-with-robotjs) - The electron base project setup that already set up robotjs package (https://github.com/octalmage/robotjs) and handled some events (like preventing close application, moving to Tray...)
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Node.js rate limit requests by key with atomic increments in single process or distributed environment.
@@ -3160,7 +3176,7 @@
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
 - [lukechilds/keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends
 - [onticsoluciones/RFMap](https://github.com/onticsoluciones/RFMap) - RFMap - Radio Frequency Mapper
-- [Yevgenium/lovelace-weather-card-chart](https://github.com/Yevgenium/lovelace-weather-card-chart) - Custom weather card with charts
+- [Yevgenium/weather-chart-card](https://github.com/Yevgenium/weather-chart-card) - Custom weather card with charts
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [montyz/photos-cleanup](https://github.com/montyz/photos-cleanup) - cleanup of os x photos library
 - [mayeaux/videodownloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
@@ -4261,6 +4277,8 @@
 
 ## Jupyter Notebook 
 
+- [neurotechuoft/MindType](https://github.com/neurotechuoft/MindType) - Mind-controlled keyboard
+- [philzook58/philzook58.github.io](https://github.com/philzook58/philzook58.github.io) - My Blog
 - [gerritjandebruin/home-assistant](https://github.com/gerritjandebruin/home-assistant) - This repository contains the set-up of my smart home, featured by the open-source project Home Assistant.
 - [AICoE/prometheus-anomaly-detector](https://github.com/AICoE/prometheus-anomaly-detector) - A newer more updated version of the prometheus anomaly detector (https://github.com/AICoE/prometheus-anomaly-detector-legacy)
 - [reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub) - Projections of COVID-19, in standardized format
@@ -4580,6 +4598,9 @@
 
 ## Others 
 
+- [jausegar/openair](https://github.com/jausegar/openair) - OpenAirInterface
+- [antonjan/lime_mini](https://github.com/antonjan/lime_mini) - This repository will have all my Lime mini configurations.
+- [irvin-s/docker_repair](https://github.com/irvin-s/docker_repair) - Finding Fix Recommendations for Dockerfiles
 - [arbal/sdr-spectrum-monitor](https://github.com/arbal/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
 - [wunderlicht/killtouchbar](https://github.com/wunderlicht/killtouchbar) - An Alfred workflow to kill/restart the Touch Bar
 - [vinaywadhwa/Go-Incognito-Private---Alfred](https://github.com/vinaywadhwa/Go-Incognito-Private---Alfred) - Re-Open current browser tab in Incognito/Private mode with a keyboard shortcut.
@@ -5499,6 +5520,16 @@
 
 ## Python 
 
+- [jpmens/mqtt-launcher](https://github.com/jpmens/mqtt-launcher) - Execute shell commands triggered by published MQTT messages
+- [hazrmard/SatTrack](https://github.com/hazrmard/SatTrack) - Real time satellite tracking with antennas.
+- [jjlee/git-meld-index](https://github.com/jjlee/git-meld-index) - Run meld or any git difftool to interactively stage changes
+- [magamig/duplicate-images-finder](https://github.com/magamig/duplicate-images-finder) - 🏞🌉 Find and Delete Duplicate Images / Photos
+- [Makr91/IOGraph](https://github.com/Makr91/IOGraph) - IOZone Plotter
+- [hb9fxq/sdr-setup-notes](https://github.com/hb9fxq/sdr-setup-notes) - 
+- [mspicer/pcapinator](https://github.com/mspicer/pcapinator) - A tool for processing a lot of pcaps using tshark
+- [scottwernervt/favicon](https://github.com/scottwernervt/favicon) - Find a website's favicon.
+- [0x416c616e/systemDiff](https://github.com/0x416c616e/systemDiff) - A Linux security tool for finding all differences made to files and processes
+- [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [abriginets/wreckuests](https://github.com/abriginets/wreckuests) - Yet another one hard-hitting tool to run HTTP stress tests 🌌
 - [Leeon123/CC-attack](https://github.com/Leeon123/CC-attack) - Using Socks4/5 proxy to make a multithreading Http-flood/Https-flood (cc) attack.
 - [uetchy/mac-battery-inspector](https://github.com/uetchy/mac-battery-inspector) - Check your Mac's battery health.
@@ -5795,7 +5826,7 @@
 - [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - A topology visualization plugin for Netbox powered by NextUI Toolkit
 - [pat-s/alfred-gitea](https://github.com/pat-s/alfred-gitea) - Gitea Alfred Workflow
 - [JeanRibes/mirror-gitlab-gitea](https://github.com/JeanRibes/mirror-gitlab-gitea) - Mirror Gitlab repo to Gitea in bulk
-- [k8scat/Gigrator](https://github.com/k8scat/Gigrator) - Git repos migration tool which support Github/Gitee/Gitlab/Gitea/Coding/Gogs.
+- [k8scat/Gigrator](https://github.com/k8scat/Gigrator) - Git repos migration tool which supports Github / Gitee / Gitlab / Gitea / Coding / Gogs / 腾讯工蜂.
 - [jeremywillans/event-emitter](https://github.com/jeremywillans/event-emitter) - Emits a call-service event in Home Assistant
 - [dnguyen800/spotify-playlist-sensor](https://github.com/dnguyen800/spotify-playlist-sensor) - Spotify Playlist Sensor for Home Assistant
 - [basnijholt/miflora](https://github.com/basnijholt/miflora) - ☘️🌡🌼🥀🏡 Mi Flora Plant sensor Python package
@@ -7511,6 +7542,7 @@
 
 ## Rust 
 
+- [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Automate and relate multiple processes.
 - [kejadlen/pirate-weather.alfredworkflow](https://github.com/kejadlen/pirate-weather.alfredworkflow) - A Pirate Weather workflow for Alfred
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -7722,6 +7754,7 @@
 
 ## SCSS 
 
+- [edersonbrilhante/vilicus](https://github.com/edersonbrilhante/vilicus) - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
 - [racerxdl/sat4noobs](https://github.com/racerxdl/sat4noobs) - Satellite 4 Noobs - Powered by He4rt Devs
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -7734,6 +7767,7 @@
 
 ## Scala 
 
+- [eikek/chee](https://github.com/eikek/chee) - A command line tool for managing photos.
 - [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
 - [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [zaratsian/network_topology_analysis](https://github.com/zaratsian/network_topology_analysis) - Code to collect and analyze traceroute data within a network topology
@@ -7755,6 +7789,18 @@
 
 ## Shell 
 
+- [tastapod/snitcher](https://github.com/tastapod/snitcher) - Create Little Snitch rule group from list of hostnames
+- [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
+- [proxycannon/proxycannon-ng](https://github.com/proxycannon/proxycannon-ng) - A private botnet using multiple cloud environments for pentesters and red teamers. - Built by the community during a hackathon at the WWHF 2018 security conference
+- [percona/proxysql-admin-tool](https://github.com/percona/proxysql-admin-tool) - ProxySQL Admin
+- [joarleymoraes/net_guard](https://github.com/joarleymoraes/net_guard) - A command line tool to detect new unknown device in your network using ARP protocol
+- [yottabit42/gtakeout_backup](https://github.com/yottabit42/gtakeout_backup) - Script to automate deduplication and backup of Google Takeout archives.
+- [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
+- [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
+- [fit-r2lab/r2lab-embedded](https://github.com/fit-r2lab/r2lab-embedded) - the code that is designed to run on operational parts of the R2lab testbed, typically nodes, and user profiles and similar
+- [Jehops/zap](https://github.com/Jehops/zap) - Maintain and replicate ZFS snapshots
+- [rommelfs/scanner](https://github.com/rommelfs/scanner) - nmap/ndiff based scanner with template based notification system in case of infrastructure changes
+- [bradleyfalzon/docker-nmap-scans](https://github.com/bradleyfalzon/docker-nmap-scans) - Periodically scan target ranges using nmap, ndiff and emailing changes
 - [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
 - [WeblateOrg/docker-compose](https://github.com/WeblateOrg/docker-compose) - Docker compose for Weblate
 - [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
@@ -8846,6 +8892,10 @@
 - [KrauseFx/overkill-for-mac](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
 - [ALPHAvibe/hackachat](https://github.com/ALPHAvibe/hackachat) - socket.io hackathon
+
+## SystemVerilog 
+
+- [myriadrf/LimeADPD](https://github.com/myriadrf/LimeADPD) - Lime Adaptive Digital Predistortion
 
 ## TSQL 
 
