@@ -110,6 +110,7 @@
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
   - [XSLT](#xslt)
+  - [YAML](#yaml)
   - [sed](#sed)
 
 ## ANTLR 
@@ -175,6 +176,7 @@
 
 ## C 
 
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open-source DDoS protection system
 - [DasSidG/limesdr_rfid](https://github.com/DasSidG/limesdr_rfid) - A repo containing LimeSuite drivers and GNU Radio code to use the LimeSDR as an RFID reader
 - [oresat/uniclogs-hardware](https://github.com/oresat/uniclogs-hardware) - University Class Open Ground Station Hardware
@@ -721,6 +723,8 @@
 
 ## C++ 
 
+- [omnisci/omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [myriadrf/lime-tools](https://github.com/myriadrf/lime-tools) - A collection of useful tools for use with the LimeSDR family of boards
 - [Stream-AD/MIDAS](https://github.com/Stream-AD/MIDAS) - Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
@@ -1088,6 +1092,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
 - [IronicBadger/pms-wiki](https://github.com/IronicBadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
 - [arbal/dockerfiles](https://github.com/arbal/dockerfiles) - For use with the other major hub
@@ -1294,6 +1299,14 @@
 
 ## Go 
 
+- [pdf/zfs_exporter](https://github.com/pdf/zfs_exporter) - Prometheus ZFS exporter
+- [radondb/radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
+- [gorilla/feeds](https://github.com/gorilla/feeds) - golang rss/atom generator library
+- [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
+- [dewey/feedbridge](https://github.com/dewey/feedbridge) - Plugin based RSS feed generator for sites that don't offer any. Serves RSS, Atom and JSON Feeds.
+- [sh0rez/awesome-libsonnet](https://github.com/sh0rez/awesome-libsonnet) - Curated list of Kubernetes focused Jsonnet resources
+- [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
+- [mitch000001/fitbit-exporter](https://github.com/mitch000001/fitbit-exporter) - An exporter for fitbit data
 - [docker/hub-tool](https://github.com/docker/hub-tool) - 🧪 Docker Hub experimental CLI tool
 - [docker/scan-cli-plugin](https://github.com/docker/scan-cli-plugin) - Docker Scan is a Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images
 - [myriadrf/limedrv](https://github.com/myriadrf/limedrv) - LimeSuite Wrapper on Go (Driver for LimeSDR Devices)
@@ -1826,7 +1839,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
-- [Darkweak/Souin](https://github.com/Darkweak/Souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @traefik, @caddyserver, @nginx and @apache
+- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @traefik, @caddyserver, @nginx and @apache
 - [acouvreur/traefik-ondemand-service](https://github.com/acouvreur/traefik-ondemand-service) - Traefik ondemand service for the traefik ondemand plugin
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [gophertuts/reminders-cli](https://github.com/gophertuts/reminders-cli) - Reminders CLI app in Go
@@ -2109,7 +2122,7 @@
 - [SCHKN/systemd-monitoring](https://github.com/SCHKN/systemd-monitoring) - a simple way to monitor systemd services using go, influxdb and chronograf
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, Cloud Drive.
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [shuza/mqtt-cli](https://github.com/shuza/mqtt-cli) - A cli application written in Go to provide terminal interaction with EMQ
 - [golift/securityspy](https://github.com/golift/securityspy) - Full Featured Go Library for SecuritySpy
@@ -2739,7 +2752,6 @@
 - [herf/la-covid](https://github.com/herf/la-covid) - COVID-19 data from Los Angeles Public Health
 - [Netflix/ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-- [geerlingguy/ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
 - [fitbeard/awx-ha-cluster](https://github.com/fitbeard/awx-ha-cluster) - AWX clustering on Docker standalone installation
@@ -2977,7 +2989,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or server.
 - [stkenny/Refine-NER-Extension](https://github.com/stkenny/Refine-NER-Extension) - Named-Entity Recognition extension for Google Refine / OpenRefine
-- [dernasherbrezon/r2cloud](https://github.com/dernasherbrezon/r2cloud) - Decode satellite signals on Raspberry PI or any other 64-bit intel.
+- [dernasherbrezon/r2cloud](https://github.com/dernasherbrezon/r2cloud) - Decode satellite signals on Raspberry PI or any other 64-bit CPU.
 - [bshannon/savenotes](https://github.com/bshannon/savenotes) - Save the contents of Apple Notes
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe.
 - [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
@@ -3003,6 +3015,9 @@
 
 ## JavaScript 
 
+- [fanvanzh/viewshed-analysis](https://github.com/fanvanzh/viewshed-analysis) - this is a project to explain how to realize viewshed-analysis
+- [TuiQiao/CBoard](https://github.com/TuiQiao/CBoard) - An easy to use, self-service open BI reporting and BI dashboard platform.
+- [vcaesar/robotn](https://github.com/vcaesar/robotn) - Robotn, Native cross-platform GUI automation
 - [sanjeshpathak/Mosquitto-Dashboard](https://github.com/sanjeshpathak/Mosquitto-Dashboard) - A real time dashboard for monitoring Mosquitto Broker (MQTT)
 - [webdriverio/cucumber-boilerplate](https://github.com/webdriverio/cucumber-boilerplate) - Boilerplate project to run WebdriverIO tests with Cucumber
 - [webrtcHacks/adapter](https://github.com/webrtcHacks/adapter) - Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:
@@ -4235,6 +4250,7 @@
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
+- [geerlingguy/ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [papanito/ansible-role-cloudflared](https://github.com/papanito/ansible-role-cloudflared) - This ansible role does download and install cloudflared on the host and optionally installs the argo-tunnel as a service.
 - [kairen/kubeadm-ansible](https://github.com/kairen/kubeadm-ansible) - Build a Kubernetes cluster using kubeadm via Ansible.
@@ -4260,6 +4276,7 @@
 
 ## Jsonnet 
 
+- [adamwg/grafana-dashboards](https://github.com/adamwg/grafana-dashboards) - Grafana dashboard management demo for PromCon 2019
 - [grafana/tns](https://github.com/grafana/tns) - Observability Demo App
 - [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 - [ggear/asystem](https://github.com/ggear/asystem) - 
@@ -4277,6 +4294,8 @@
 
 ## Jupyter Notebook 
 
+- [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and read files from the NOAA GOES archive on AWS.
+- [HamedAlemo/visualize-goes16](https://github.com/HamedAlemo/visualize-goes16) - This is a sample code to visualize GOES16 data, reading them directly from AWS S3 storage
 - [neurotechuoft/MindType](https://github.com/neurotechuoft/MindType) - Mind-controlled keyboard
 - [philzook58/philzook58.github.io](https://github.com/philzook58/philzook58.github.io) - My Blog
 - [gerritjandebruin/home-assistant](https://github.com/gerritjandebruin/home-assistant) - This repository contains the set-up of my smart home, featured by the open-source project Home Assistant.
@@ -4298,7 +4317,6 @@
 - [ZheC/Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) - Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)
 - [wesleyraptor/streamingphish](https://github.com/wesleyraptor/streamingphish) - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network.
 - [88lex/safire](https://github.com/88lex/safire) - 
-- [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and read files from the NOAA GOES archive on AWS.
 - [jonghajang/google_scholar_crawling](https://github.com/jonghajang/google_scholar_crawling) - 
 - [greenelab/crossref](https://github.com/greenelab/crossref) - Download metadata for all DOIs using the Crossref API
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
@@ -4519,6 +4537,7 @@
 
 ## Objective-C 
 
+- [hjuutilainen/munkiadmin](https://github.com/hjuutilainen/munkiadmin) - macOS app for managing Munki repositories
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [fractaledmind/alfred_skimmer](https://github.com/fractaledmind/alfred_skimmer) - PDF Actions for Skim App
 - [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses
@@ -4598,6 +4617,11 @@
 
 ## Others 
 
+- [awslabs/open-data-docs](https://github.com/awslabs/open-data-docs) - Additional documentation for publicly available datasets on AWS
+- [jbmusso/awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
+- [metalmatze/awesome-jsonnet](https://github.com/metalmatze/awesome-jsonnet) - A curated list of awesome Jsonnet projects and mixins
+- [MacroPower/awesome-jsonnet](https://github.com/MacroPower/awesome-jsonnet) - A curated list of Jsonnet libraries, utilities, and other resources.
+- [geoffrepoli/macvars](https://github.com/geoffrepoli/macvars) - command library for scripting osx
 - [jausegar/openair](https://github.com/jausegar/openair) - OpenAirInterface
 - [antonjan/lime_mini](https://github.com/antonjan/lime_mini) - This repository will have all my Lime mini configurations.
 - [irvin-s/docker_repair](https://github.com/irvin-s/docker_repair) - Finding Fix Recommendations for Dockerfiles
@@ -5098,7 +5122,7 @@
 - [Madnessy/ansible-mikrotik](https://github.com/Madnessy/ansible-mikrotik) - Manage mikrotik devices
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
 - [Aaron-K-T-Berry/packer-ubuntu-proxmox-template](https://github.com/Aaron-K-T-Berry/packer-ubuntu-proxmox-template) - This packer template will create an ubuntu 18.04 cloud init enabled proxmox template
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - Everything awesome related to npm scripts and using npm as a build tool.
 - [marekkaczkowski/Touch-Bar-iStats](https://github.com/marekkaczkowski/Touch-Bar-iStats) - Show CPU/GPU/MEM temperature on Touch Bar with BetterTouchTool!
@@ -5278,6 +5302,8 @@
 
 ## PHP 
 
+- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
+- [leenooks/phpLDAPadmin](https://github.com/leenooks/phpLDAPadmin) - phpLDAPadmin - Web based LDAP administration tool
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter
 - [R0Wi/workflow_ocr](https://github.com/R0Wi/workflow_ocr) - This is a Nextcloud Workflow App which enables you to process files via OCR on serverside.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
@@ -5520,6 +5546,25 @@
 
 ## Python 
 
+- [space-physics/GOESplot](https://github.com/space-physics/GOESplot) - Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time
+- [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+- [lucasdemassy/Viewshed-automation-workflow](https://github.com/lucasdemassy/Viewshed-automation-workflow) - Several scripts to automatize observation points from building in order to calculate their field of view
+- [JanCaha/Line-of-Sight-Analyst](https://github.com/JanCaha/Line-of-Sight-Analyst) - A python toolbox for ArcGIS designed for creation and analysis of Lines of Sight. The tool provides new functionality especially in analyzing of Line of Sight. The toolbox uses Python 2.7 as distributed with ArcGIS 10.3.
+- [dlcifuentesl/UrbanRadioCober](https://github.com/dlcifuentesl/UrbanRadioCober) - Urban radiocober simulator plugin for omnidirectional radio coverage in urban enviroment
+- [JanCaha/qgis_los_tools](https://github.com/JanCaha/qgis_los_tools) - This plugin creates and analyzes lines-of-sight (LoS) and also provides supporting tools.
+- [driscoll42/ebayMarketAnalyzer](https://github.com/driscoll42/ebayMarketAnalyzer) - Scrape all eBay sold listings to determine average/median pricing, plot listings over time with trend lines, and extract to excel
+- [0xPrateek/Stardox](https://github.com/0xPrateek/Stardox) - Github stargazers information gathering tool
+- [chris-greening/instascrape](https://github.com/chris-greening/instascrape) - Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically
+- [m8r0wn/CrossLinked](https://github.com/m8r0wn/CrossLinked) - LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
+- [rootVIII/proxy_requests](https://github.com/rootVIII/proxy_requests) - a class that uses scraped proxies to make http GET/POST requests (Python requests)
+- [holgerd77/django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface
+- [jakubplichta/grafana-dashboard-builder](https://github.com/jakubplichta/grafana-dashboard-builder) - Generate Grafana dashboards with YAML
+- [univ-of-utah-marriott-library-apple/firmware_password_manager](https://github.com/univ-of-utah-marriott-library-apple/firmware_password_manager) - A Python script to help Macintosh administrators manage the firmware passwords of their computers.
+- [homebysix/recipe-robot](https://github.com/homebysix/recipe-robot) - A kick ass tool for creating AutoPkg recipes.
+- [grahampugh/macadmin-scripts](https://github.com/grahampugh/macadmin-scripts) - Scripts of possible interest to macOS admins
+- [google/macops](https://github.com/google/macops) - Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment
+- [MacSysadmin/pymacadmin](https://github.com/MacSysadmin/pymacadmin) - Python tools for Mac system administration
+- [5agado/fitbit-analyzer](https://github.com/5agado/fitbit-analyzer) - Analyzer and statistics generator for fitbit data like sleep, steps count and heart rate
 - [jpmens/mqtt-launcher](https://github.com/jpmens/mqtt-launcher) - Execute shell commands triggered by published MQTT messages
 - [hazrmard/SatTrack](https://github.com/hazrmard/SatTrack) - Real time satellite tracking with antennas.
 - [jjlee/git-meld-index](https://github.com/jjlee/git-meld-index) - Run meld or any git difftool to interactively stage changes
@@ -7029,7 +7074,7 @@
 - [Pack3tL0ss/ConsolePi](https://github.com/Pack3tL0ss/ConsolePi) - Raspberry Pi Based Serial Console Server, with PushBullet Notification of IP changes, Automatic VPN termination, custom menu, Power Outlet Control, and a lot more
 - [ansible-collections/ansible.netcommon](https://github.com/ansible-collections/ansible.netcommon) - Ansible Network Collection for Common Code
 - [s3ql/s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 5.x/6.x clusters.
 - [LordGaav/proxmox-deploy](https://github.com/LordGaav/proxmox-deploy) - A cli-based deployment tool for Proxmox
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -7320,6 +7365,8 @@
 
 ## R 
 
+- [ropensci/webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web
+- [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
 - [sfirke/janitor](https://github.com/sfirke/janitor) - simple tools for data cleaning in R
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
@@ -7383,6 +7430,7 @@
 
 ## Ruby 
 
+- [openaustralia/morph](https://github.com/openaustralia/morph) - Take the hassle out of web scraping
 - [youpy/mac-robot](https://github.com/youpy/mac-robot) - A Library to Automate User Interactions
 - [alexreisner/geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
 - [agilecreativity/ebook_renamer](https://github.com/agilecreativity/ebook_renamer) - Rename multiple ebooks (pdf, epub, mobi) based on embedded meta-data.
@@ -7542,6 +7590,9 @@
 
 ## Rust 
 
+- [DSLAM-UMD/Squirtle](https://github.com/DSLAM-UMD/Squirtle) - Squirtle: A Serverless SQL Query Engine for Event-Driven Analytics
+- [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - An elastic and scalable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Automate and relate multiple processes.
 - [kejadlen/pirate-weather.alfredworkflow](https://github.com/kejadlen/pirate-weather.alfredworkflow) - A Pirate Weather workflow for Alfred
@@ -7789,6 +7840,14 @@
 
 ## Shell 
 
+- [willswire/balenaPrint](https://github.com/willswire/balenaPrint) - CUPS on BalenaOS
+- [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
+- [jamf/jamfpro](https://github.com/jamf/jamfpro) - JamfPro Docker image
+- [smashism/jamfpro-scripts](https://github.com/smashism/jamfpro-scripts) - 💻 General scripts for Self Service policies and other parts of Jamf Pro.
+- [joeblau/apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - Apple iOS 14.0 Native App Bundle Identifiers
+- [Darkomen78/automation](https://github.com/Darkomen78/automation) - Some tools for macOS administrators
+- [kennyb-222/AutoBrew](https://github.com/kennyb-222/AutoBrew) - AutoBrew: Homebrew deployments made easy
+- [tbridge/munki-in-a-cloud](https://github.com/tbridge/munki-in-a-cloud) - A bash script designed to setup a Munki repository, download items, and then prepare and sync an Amazon S3 + CloudFront distribution method.
 - [tastapod/snitcher](https://github.com/tastapod/snitcher) - Create Little Snitch rule group from list of hostnames
 - [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
 - [proxycannon/proxycannon-ng](https://github.com/proxycannon/proxycannon-ng) - A private botnet using multiple cloud environments for pentesters and red teamers. - Built by the community during a hackathon at the WWHF 2018 security conference
@@ -8326,7 +8385,7 @@
 - [shawnrice/alfred-2-caffeinate-workflow](https://github.com/shawnrice/alfred-2-caffeinate-workflow) - An Alfred2 workflow to control the system caffeinate utility (prevents sleep).
 - [danb35/freenas-iocage-plex](https://github.com/danb35/freenas-iocage-plex) - Scripted installation of Plex Media Server in a FreeNAS jail
 - [leometzger/home-monitoring](https://github.com/leometzger/home-monitoring) - This repository contains a docker-compose based host-monitoring for your home/lab
-- [inishchith/autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Author @ken-reitz]
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments. [Author @ken-reitz]
 - [BenziAhamed/alfred-battery](https://github.com/BenziAhamed/alfred-battery) - An Alfred app workflow to display battery levels of your Apple devices
 - [raisedadead/alfred-tor](https://github.com/raisedadead/alfred-tor) - Alfred 3 workflow - Toggle Tor and Internet proxy on/off
 - [stesix/dotfiles](https://github.com/stesix/dotfiles) - dotfiles for my current setup
@@ -8767,6 +8826,7 @@
 
 ## Swift 
 
+- [mipstian/catch](https://github.com/mipstian/catch) - Catch: Broadcatching made easy.
 - [beltex/SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library & tool
 - [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
 - [debug45/PermissionWizard](https://github.com/debug45/PermissionWizard) - 🔮 An ultimate library for iOS and macOS system permissions management. The easiest way to check or request a permission.
@@ -8787,7 +8847,7 @@
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow) - View MacOS and IOS battery Information
 - [PDF-Archiver/PDF-Archiver](https://github.com/PDF-Archiver/PDF-Archiver) - A tool for tagging files and archiving tasks.
-- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click.
+- [ololx/quick-symlink](https://github.com/ololx/quick-symlink) - Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/quick-symlink
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [wise-emotions/mocka](https://github.com/wise-emotions/mocka) - Mocka — A Mock Server Made for Developers by Developers, made in Swift ❤️
 - [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
@@ -9383,6 +9443,10 @@
 
 - [ernw/nmap-parse-output](https://github.com/ernw/nmap-parse-output) - Converts/manipulates/extracts data from a Nmap scan output.
 - [ietf-wg-cellar/matroska-specification](https://github.com/ietf-wg-cellar/matroska-specification) - Matroska specification.
+
+## YAML 
+
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 
 ## sed 
 
