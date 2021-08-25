@@ -124,6 +124,7 @@
 
 ## AppleScript 
 
+- [rtrouton/Payload-Free-Package-Creator](https://github.com/rtrouton/Payload-Free-Package-Creator) - 
 - [naefl/alfred-kitty](https://github.com/naefl/alfred-kitty) - Alfred workflow to work more seamlessly with TUIs using Kitty's remote control API
 - [RobTrew/prelude-applescript](https://github.com/RobTrew/prelude-applescript) - Generic functions for macOS scripting with Applescript – function names as in Hoogle
 - [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder) - My repository of miscellaneous AppleScripts I've written for OS X
@@ -723,6 +724,11 @@
 
 ## C++ 
 
+- [jonnyhuck/Viewshed](https://github.com/jonnyhuck/Viewshed) - A GDAL-based Viewshed command line tool with python bindings
+- [xvitaly/zswap-cli](https://github.com/xvitaly/zswap-cli) - Command-line tool to control zswap options
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- [QDeltaSoft/qradiopredict](https://github.com/QDeltaSoft/qradiopredict) - Radio propagation prediction and simulation tool for VHF-UHF
+- [nu-radio/RadioPropa](https://github.com/nu-radio/RadioPropa) - Simulate radio propagation in inhomogeneous by media by ray-tracing
 - [omnisci/omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [myriadrf/lime-tools](https://github.com/myriadrf/lime-tools) - A collection of useful tools for use with the LimeSDR family of boards
@@ -1092,6 +1098,7 @@
 
 ## Dockerfile 
 
+- [visibilityspots/dockerfile-cloudflared](https://github.com/visibilityspots/dockerfile-cloudflared) - run the cloudflared proxy-dns on port 54 using the DNS over HTTPS feature from cloudflare.
 - [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
 - [IronicBadger/pms-wiki](https://github.com/IronicBadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
@@ -1299,6 +1306,14 @@
 
 ## Go 
 
+- [maximumadmin/zramd](https://github.com/maximumadmin/zramd) - Automatically setup swap on zram ✨ with optional systemd support, a simpler alternative to zram-generator and systemd-swap
+- [andybalholm/redwood](https://github.com/andybalholm/redwood) - Web content filter that runs as an HTTP proxy
+- [andybalholm/c2go](https://github.com/andybalholm/c2go) - C to Go translation tool
+- [andybalholm/brotli](https://github.com/andybalholm/brotli) - Pure Go Brotli encoder and decoder
+- [ueffel/caddy-brotli](https://github.com/ueffel/caddy-brotli) - Brotli compression encoder for Caddy
+- [Eun/yaegi-template](https://github.com/Eun/yaegi-template) - Use yaegi as a template engine.
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
+- [avinashbot/satellite](https://github.com/avinashbot/satellite) - Download the latest images from Himawari-8 or DSCOVR and set it as your desktop background.
 - [pdf/zfs_exporter](https://github.com/pdf/zfs_exporter) - Prometheus ZFS exporter
 - [radondb/radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
 - [gorilla/feeds](https://github.com/gorilla/feeds) - golang rss/atom generator library
@@ -1660,7 +1675,7 @@
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [sapk/docker-volume-rclone](https://github.com/sapk/docker-volume-rclone) - Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).
 - [mumble-voip/grumble](https://github.com/mumble-voip/grumble) - Alternative Mumble server
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source vector database powered by Faiss, NMSLIB and Annoy
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
@@ -3015,6 +3030,8 @@
 
 ## JavaScript 
 
+- [stickpin/node-appletv-x](https://github.com/stickpin/node-appletv-x) - A node module for interacting with an Apple TV (4th-generation or later) over the Media Remote Protocol.
+- [inveneo/RFAnalysisJS](https://github.com/inveneo/RFAnalysisJS) - A JavaScript library for calculating and graphically depicting point-point and viewshed radio frequency analyses
 - [fanvanzh/viewshed-analysis](https://github.com/fanvanzh/viewshed-analysis) - this is a project to explain how to realize viewshed-analysis
 - [TuiQiao/CBoard](https://github.com/TuiQiao/CBoard) - An easy to use, self-service open BI reporting and BI dashboard platform.
 - [vcaesar/robotn](https://github.com/vcaesar/robotn) - Robotn, Native cross-platform GUI automation
@@ -4537,6 +4554,7 @@
 
 ## Objective-C 
 
+- [lindegroup/autopkgr](https://github.com/lindegroup/autopkgr) - AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg.
 - [hjuutilainen/munkiadmin](https://github.com/hjuutilainen/munkiadmin) - macOS app for managing Munki repositories
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [fractaledmind/alfred_skimmer](https://github.com/fractaledmind/alfred_skimmer) - PDF Actions for Skim App
@@ -4617,6 +4635,8 @@
 
 ## Others 
 
+- [deadtrickster/beam-dashboards](https://github.com/deadtrickster/beam-dashboards) - BEAM :heart: Prometheus :heart: Grafana
+- [webusb/awesome](https://github.com/webusb/awesome) - List of awesome WebUSB applications, libraries and resources
 - [awslabs/open-data-docs](https://github.com/awslabs/open-data-docs) - Additional documentation for publicly available datasets on AWS
 - [jbmusso/awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [metalmatze/awesome-jsonnet](https://github.com/metalmatze/awesome-jsonnet) - A curated list of awesome Jsonnet projects and mixins
@@ -5546,6 +5566,17 @@
 
 ## Python 
 
+- [renemarc/home-assistant-config](https://github.com/renemarc/home-assistant-config) - 🏠 Fully documented Home Assistant configuration for a smart-looking place. 😎 Be sure to ⭐️ my repo and copy ideas!
+- [jugla/worldtidesinfocustom](https://github.com/jugla/worldtidesinfocustom) - world tides info custom component for home assistant
+- [Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
+- [NZRS/wavetrace](https://github.com/NZRS/wavetrace) - Radio propagation modelling
+- [MagerValp/AutoDMG](https://github.com/MagerValp/AutoDMG) - Create deployable system images from OS X installer
+- [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
+- [munki/munki-pkg](https://github.com/munki/munki-pkg) - Repo for the munkipkg tool and example projects
+- [Esri/elevation-gp-python](https://github.com/Esri/elevation-gp-python) - ArcGIS elevation analysis tool that allows you to set up an in-house viewshed geoprocessing service.
+- [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
+- [Solcast/netcdf-tiff](https://github.com/Solcast/netcdf-tiff) - NETCDF to GeoTIFF utility library
+- [tethysplatform/tethys](https://github.com/tethysplatform/tethys) - The Tethys Platform main Django website project repository.
 - [space-physics/GOESplot](https://github.com/space-physics/GOESplot) - Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 - [lucasdemassy/Viewshed-automation-workflow](https://github.com/lucasdemassy/Viewshed-automation-workflow) - Several scripts to automatize observation points from building in order to calculate their field of view
@@ -5604,7 +5635,7 @@
 - [twrecked/hass-virtual](https://github.com/twrecked/hass-virtual) - Virtual Components for Home Assistant
 - [custom-components/sensor.ssh](https://github.com/custom-components/sensor.ssh) - SSH Generic Sensor
 - [Petro31/ha-integration-multizone-controller](https://github.com/Petro31/ha-integration-multizone-controller) - Integration that creates a multi-zone volume controller for media_players in Home Assistant
-- [gbbirkisson/hass-pid-thermostat](https://github.com/gbbirkisson/hass-pid-thermostat) - 
+- [gbbirkisson/hass-pid-thermostat](https://github.com/gbbirkisson/hass-pid-thermostat) - PID controller designed to run on Raspberry PI that is controlled by Home Assistant
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [Misiu/argon40](https://github.com/Misiu/argon40) - Home Assistant support for Argon ONE Pi 3 & 4 cases and Argon Fan HAT
 - [burnettk/delete-docker-registry-image](https://github.com/burnettk/delete-docker-registry-image) - If you are running a private v2 docker registry, and you are storing your data on disk, running this script from the machine where the data lives will let you fully delete an image or tag
@@ -6647,7 +6678,7 @@
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
 - [0x4D31/fatt](https://github.com/0x4D31/fatt) - FATT /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
-- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [Manisso/Crips](https://github.com/Manisso/Crips) - IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
 - [nethunteros/punter](https://github.com/nethunteros/punter) - Hunt domain names using DNSDumpster, WHOIS, Reverse WHOIS, Shodan, Crimeflare
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
@@ -7365,6 +7396,7 @@
 
 ## R 
 
+- [bahanonu/geoSatView](https://github.com/bahanonu/geoSatView) - geoSatView: Downloads satellite data, crop images, and makes animation video.
 - [ropensci/webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web
 - [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
 - [sfirke/janitor](https://github.com/sfirke/janitor) - simple tools for data cleaning in R
@@ -7590,6 +7622,8 @@
 
 ## Rust 
 
+- [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
+- [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [DSLAM-UMD/Squirtle](https://github.com/DSLAM-UMD/Squirtle) - Squirtle: A Serverless SQL Query Engine for Event-Driven Analytics
 - [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - An elastic and scalable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
@@ -7840,6 +7874,9 @@
 
 ## Shell 
 
+- [clemenko/prometheus](https://github.com/clemenko/prometheus) - prometheus for swarm/k8s with grafana and dashboards
+- [cirocosta/sample-grafana](https://github.com/cirocosta/sample-grafana) - Automatic Grafana dashboard initialisation example
+- [mnbf9rca/cups-google-print](https://github.com/mnbf9rca/cups-google-print) - a CUPS printer with Google Cloud Print enabled
 - [willswire/balenaPrint](https://github.com/willswire/balenaPrint) - CUPS on BalenaOS
 - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
 - [jamf/jamfpro](https://github.com/jamf/jamfpro) - JamfPro Docker image
@@ -8826,6 +8863,7 @@
 
 ## Swift 
 
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [mipstian/catch](https://github.com/mipstian/catch) - Catch: Broadcatching made easy.
 - [beltex/SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library & tool
 - [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage
