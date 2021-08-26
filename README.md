@@ -177,6 +177,10 @@
 
 ## C 
 
+- [seemoo-lab/nexmon_csi](https://github.com/seemoo-lab/nexmon_csi) - Channel State Information Extraction on Various Broadcom Wi-Fi Chips
+- [seemoo-lab/wisec2017_nexmon_jammer](https://github.com/seemoo-lab/wisec2017_nexmon_jammer) - This project contains the nexmon-based source code required to repeat the experiments of our WiSec 2017 paper.
+- [ip2location/ip2location-traceroute](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database.
+- [cloudflare/mmproxy](https://github.com/cloudflare/mmproxy) - mmproxy, the magical PROXY protocol gateway
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open-source DDoS protection system
 - [DasSidG/limesdr_rfid](https://github.com/DasSidG/limesdr_rfid) - A repo containing LimeSuite drivers and GNU Radio code to use the LimeSDR as an RFID reader
@@ -612,6 +616,7 @@
 
 ## C# # 
 
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [dend/foggycam](https://github.com/dend/foggycam) - 📹  A tool to locally capture your own Nest camera stream.
 - [sleevezipper/hass-workstation-service](https://github.com/sleevezipper/hass-workstation-service) - Provide useful sensors and services from your workstation to Home Assistant.
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
@@ -1306,6 +1311,10 @@
 
 ## Go 
 
+- [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
+- [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
+- [cloudflare/flow-pipeline](https://github.com/cloudflare/flow-pipeline) - A set of tools and examples to run a flow-pipeline (sFlow, NetFlow)
+- [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [maximumadmin/zramd](https://github.com/maximumadmin/zramd) - Automatically setup swap on zram ✨ with optional systemd support, a simpler alternative to zram-generator and systemd-swap
 - [andybalholm/redwood](https://github.com/andybalholm/redwood) - Web content filter that runs as an HTTP proxy
 - [andybalholm/c2go](https://github.com/andybalholm/c2go) - C to Go translation tool
@@ -2137,7 +2146,7 @@
 - [SCHKN/systemd-monitoring](https://github.com/SCHKN/systemd-monitoring) - a simple way to monitor systemd services using go, influxdb and chronograf
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, Cloud Drive.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [shuza/mqtt-cli](https://github.com/shuza/mqtt-cli) - A cli application written in Go to provide terminal interaction with EMQ
 - [golift/securityspy](https://github.com/golift/securityspy) - Full Featured Go Library for SecuritySpy
@@ -2642,7 +2651,7 @@
 - [square/certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [ccremer/clustercode](https://github.com/ccremer/clustercode) - Distribute your video encoding tasks across a cluster of nodes!
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [caltechlibrary/datatools](https://github.com/caltechlibrary/datatools) - A set of tools for working with JSON, CSV and Excel workbooks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -3030,6 +3039,7 @@
 
 ## JavaScript 
 
+- [jivesearch/jivesearch](https://github.com/jivesearch/jivesearch) - A search engine that doesn't track you.
 - [stickpin/node-appletv-x](https://github.com/stickpin/node-appletv-x) - A node module for interacting with an Apple TV (4th-generation or later) over the Media Remote Protocol.
 - [inveneo/RFAnalysisJS](https://github.com/inveneo/RFAnalysisJS) - A JavaScript library for calculating and graphically depicting point-point and viewshed radio frequency analyses
 - [fanvanzh/viewshed-analysis](https://github.com/fanvanzh/viewshed-analysis) - this is a project to explain how to realize viewshed-analysis
@@ -4635,6 +4645,8 @@
 
 ## Others 
 
+- [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [deadtrickster/beam-dashboards](https://github.com/deadtrickster/beam-dashboards) - BEAM :heart: Prometheus :heart: Grafana
 - [webusb/awesome](https://github.com/webusb/awesome) - List of awesome WebUSB applications, libraries and resources
 - [awslabs/open-data-docs](https://github.com/awslabs/open-data-docs) - Additional documentation for publicly available datasets on AWS
@@ -5322,6 +5334,7 @@
 
 ## PHP 
 
+- [cloudharmony/dns-propagation](https://github.com/cloudharmony/dns-propagation) - DNS Propagation Benchmark
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [leenooks/phpLDAPadmin](https://github.com/leenooks/phpLDAPadmin) - phpLDAPadmin - Web based LDAP administration tool
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter
@@ -5566,6 +5579,9 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [andrewradke/MikroTik-upgrade](https://github.com/andrewradke/MikroTik-upgrade) - Upgrade multiple MikroTik RouterOS and firmware via SSH
+- [olixu/cloudflare-ip-ping](https://github.com/olixu/cloudflare-ip-ping) - Ping all the ips of cloudflare.
 - [renemarc/home-assistant-config](https://github.com/renemarc/home-assistant-config) - 🏠 Fully documented Home Assistant configuration for a smart-looking place. 😎 Be sure to ⭐️ my repo and copy ideas!
 - [jugla/worldtidesinfocustom](https://github.com/jugla/worldtidesinfocustom) - world tides info custom component for home assistant
 - [Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
@@ -6675,7 +6691,7 @@
 - [defjaf/pip_upgrade_outdated](https://github.com/defjaf/pip_upgrade_outdated) - Install outdated python packages.
 - [ANRGUSC/lacounty_covid19_data](https://github.com/ANRGUSC/lacounty_covid19_data) - 
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
-- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
+- [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [0x4D31/fatt](https://github.com/0x4D31/fatt) - FATT /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
@@ -7622,6 +7638,7 @@
 
 ## Rust 
 
+- [extrawurst/ip2country](https://github.com/extrawurst/ip2country) - fast ip -&gt; country lookup using asn database
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [DSLAM-UMD/Squirtle](https://github.com/DSLAM-UMD/Squirtle) - Squirtle: A Serverless SQL Query Engine for Event-Driven Analytics
@@ -7874,6 +7891,9 @@
 
 ## Shell 
 
+- [arpitjindal97/raspbian-recipes](https://github.com/arpitjindal97/raspbian-recipes) - Raspberry networking made easy
+- [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
+- [OneNormalUsername/DNS_propagation_checker](https://github.com/OneNormalUsername/DNS_propagation_checker) - DNS Propagation Checker
 - [clemenko/prometheus](https://github.com/clemenko/prometheus) - prometheus for swarm/k8s with grafana and dashboards
 - [cirocosta/sample-grafana](https://github.com/cirocosta/sample-grafana) - Automatic Grafana dashboard initialisation example
 - [mnbf9rca/cups-google-print](https://github.com/mnbf9rca/cups-google-print) - a CUPS printer with Google Cloud Print enabled
@@ -9444,6 +9464,7 @@
 
 ## Vue 
 
+- [jeliasson/dns-propagation-checker](https://github.com/jeliasson/dns-propagation-checker) - Check propagation of DNS records from one or many Name Servers. Useful for validating a DNS zone during migration.
 - [robertsLando/Mqtt2Mqtt](https://github.com/robertsLando/Mqtt2Mqtt) - Customize MQTT messages between two brokers
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
 - [Razikus/open-balena-dashboard](https://github.com/Razikus/open-balena-dashboard) - 
