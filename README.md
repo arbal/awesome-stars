@@ -177,6 +177,8 @@
 
 ## C 
 
+- [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
+- [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [seemoo-lab/nexmon_csi](https://github.com/seemoo-lab/nexmon_csi) - Channel State Information Extraction on Various Broadcom Wi-Fi Chips
 - [seemoo-lab/wisec2017_nexmon_jammer](https://github.com/seemoo-lab/wisec2017_nexmon_jammer) - This project contains the nexmon-based source code required to repeat the experiments of our WiSec 2017 paper.
 - [ip2location/ip2location-traceroute](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database.
@@ -258,7 +260,7 @@
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [gl-inet/bletool](https://github.com/gl-inet/bletool) - 
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-- [kiddin9/openwrt-packages](https://github.com/kiddin9/openwrt-packages) - Only for Luci 19.07
+- [kiddin9/openwrt-packages](https://github.com/kiddin9/openwrt-packages) - openwrt packages
 - [old-dab/rtlsdr](https://github.com/old-dab/rtlsdr) - Software to turn the RTL2832U into a SDR
 - [madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter) - 
 - [dernasherbrezon/sdr-server](https://github.com/dernasherbrezon/sdr-server) - High performant TCP server for rtl-sdr
@@ -729,6 +731,7 @@
 
 ## C++ 
 
+- [nbdy/pwnpi](https://github.com/nbdy/pwnpi) - cpp rpi wardriving application
 - [jonnyhuck/Viewshed](https://github.com/jonnyhuck/Viewshed) - A GDAL-based Viewshed command line tool with python bindings
 - [xvitaly/zswap-cli](https://github.com/xvitaly/zswap-cli) - Command-line tool to control zswap options
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -1311,6 +1314,7 @@
 
 ## Go 
 
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 - [cloudflare/flow-pipeline](https://github.com/cloudflare/flow-pipeline) - A set of tools and examples to run a flow-pipeline (sFlow, NetFlow)
@@ -1863,7 +1867,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
-- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @traefik, @caddyserver, @nginx and @apache
+- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @nginx and @apache
 - [acouvreur/traefik-ondemand-service](https://github.com/acouvreur/traefik-ondemand-service) - Traefik ondemand service for the traefik ondemand plugin
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [gophertuts/reminders-cli](https://github.com/gophertuts/reminders-cli) - Reminders CLI app in Go
@@ -3039,6 +3043,9 @@
 
 ## JavaScript 
 
+- [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
+- [balena-io-playground/balena-rpi-wifiquality](https://github.com/balena-io-playground/balena-rpi-wifiquality) - Display wifi connection quality on a Raspberry Pi screen
+- [dcarr178/har2openapi](https://github.com/dcarr178/har2openapi) - Generate openapi spec api documentation from captured har files
 - [jivesearch/jivesearch](https://github.com/jivesearch/jivesearch) - A search engine that doesn't track you.
 - [stickpin/node-appletv-x](https://github.com/stickpin/node-appletv-x) - A node module for interacting with an Apple TV (4th-generation or later) over the Media Remote Protocol.
 - [inveneo/RFAnalysisJS](https://github.com/inveneo/RFAnalysisJS) - A JavaScript library for calculating and graphically depicting point-point and viewshed radio frequency analyses
@@ -3748,7 +3755,7 @@
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
-- [yuliskov/SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) - Watch YouTube videos on your TV and set-top-box with comfort
+- [yuliskov/SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [magjac/graphviz-visual-editor](https://github.com/magjac/graphviz-visual-editor) - A web application for interactive visual editing of Graphviz graphs described in the DOT language.
 - [seflless/diagrams](https://github.com/seflless/diagrams) - Generate Flowcharts, Network Sequence Diagrams, GraphViz Dot Diagrams, and Railroad Diagrams
@@ -5334,6 +5341,7 @@
 
 ## PHP 
 
+- [Kallys/MediaDownloader](https://github.com/Kallys/MediaDownloader) - A WebUI for youtube-dl, implementing management for background downloads (queuing, concurrency...)
 - [cloudharmony/dns-propagation](https://github.com/cloudharmony/dns-propagation) - DNS Propagation Benchmark
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [leenooks/phpLDAPadmin](https://github.com/leenooks/phpLDAPadmin) - phpLDAPadmin - Web based LDAP administration tool
@@ -5579,6 +5587,9 @@
 
 ## Python 
 
+- [zalando-incubator/transformer](https://github.com/zalando-incubator/transformer) - A tool to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
+- [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages
+- [openuado/niet](https://github.com/openuado/niet) - Parse/Read yaml or json files directly in your shell (sh, bash, ksh, ...)
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [andrewradke/MikroTik-upgrade](https://github.com/andrewradke/MikroTik-upgrade) - Upgrade multiple MikroTik RouterOS and firmware via SSH
 - [olixu/cloudflare-ip-ping](https://github.com/olixu/cloudflare-ip-ping) - Ping all the ips of cloudflare.
@@ -7379,7 +7390,7 @@
 - [json-schema-org/understanding-json-schema](https://github.com/json-schema-org/understanding-json-schema) - A website aiming to provide more accessible documentation for JSON schema.
 - [home-assistant-libs/netdisco](https://github.com/home-assistant-libs/netdisco) - :mag_right: Python library to scan local network for services and devices.
 - [SecPi/SecPi](https://github.com/SecPi/SecPi) - A Raspberry Pi based home alarm system.
-- [efficiosoft/hass-apps](https://github.com/efficiosoft/hass-apps) - Some useful apps and snippets to empower Home Assistant and AppDaemon even more.
+- [bob1de/hass-apps](https://github.com/bob1de/hass-apps) - Some useful apps and snippets to empower Home Assistant and AppDaemon even more.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [fugue/credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
