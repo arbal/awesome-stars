@@ -731,6 +731,7 @@
 
 ## C++ 
 
+- [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [nbdy/pwnpi](https://github.com/nbdy/pwnpi) - cpp rpi wardriving application
 - [jonnyhuck/Viewshed](https://github.com/jonnyhuck/Viewshed) - A GDAL-based Viewshed command line tool with python bindings
 - [xvitaly/zswap-cli](https://github.com/xvitaly/zswap-cli) - Command-line tool to control zswap options
@@ -869,6 +870,7 @@
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [alicevision/AliceVision](https://github.com/alicevision/AliceVision) - Photogrammetric Computer Vision Framework
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
@@ -1314,6 +1316,10 @@
 
 ## Go 
 
+- [projectdiscovery/retryabledns](https://github.com/projectdiscovery/retryabledns) - Retryable DNS client in Go
+- [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
+- [swordlordcodingcrew/fennel](https://github.com/swordlordcodingcrew/fennel) - Fennel is your lightweight CalDAV and CardDAV server to run-your-own
+- [rrreeeyyy/prometheus-http-sd](https://github.com/rrreeeyyy/prometheus-http-sd) - Prometheus service discovery using with HTTP API and file_sd_config.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
@@ -2444,7 +2450,7 @@
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
-- [facebook/fbtracert](https://github.com/facebook/fbtracert) - Identify the network components that drops packets by employing the traceroute logic which explores multiple parallel paths.
+- [facebookarchive/fbtracert](https://github.com/facebookarchive/fbtracert) - Identify the network components that drops packets by employing the traceroute logic which explores multiple parallel paths.
 - [sanathp/statusok](https://github.com/sanathp/statusok) - Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected.
 - [prometheus/graphite_exporter](https://github.com/prometheus/graphite_exporter) - Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
@@ -2872,6 +2878,7 @@
 
 ## Java 
 
+- [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [plantuml/plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
 - [owagner/logic4mqtt](https://github.com/owagner/logic4mqtt) - Logic and scripting engine for smart home automation, based around MQTT
@@ -3043,6 +3050,7 @@
 
 ## JavaScript 
 
+- [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud
 - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
 - [balena-io-playground/balena-rpi-wifiquality](https://github.com/balena-io-playground/balena-rpi-wifiquality) - Display wifi connection quality on a Raspberry Pi screen
 - [dcarr178/har2openapi](https://github.com/dcarr178/har2openapi) - Generate openapi spec api documentation from captured har files
@@ -3357,7 +3365,7 @@
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
@@ -3701,7 +3709,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -4304,7 +4312,7 @@
 - [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
 - [Oefenweb/ansible-locales](https://github.com/Oefenweb/ansible-locales) - Ansible role to set up locales in Debian-like systems
 - [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata) - An Ansible role to install/configure Netdata
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [nodiscc/xsrv](https://github.com/nodiscc/xsrv) - [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
 - [hassio-addons/repository](https://github.com/hassio-addons/repository) - Home Assistant Community Add-ons
 
@@ -4647,11 +4655,11 @@
 
 - [JustinSDK/dotSCAD](https://github.com/JustinSDK/dotSCAD) - Reduce the burden of mathematics when playing OpenSCAD
 - [OpenAstroTech/OpenAstroTracker](https://github.com/OpenAstroTech/OpenAstroTracker) - 3D printed DSLR tracking mount
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib) - Library of parts modelled in OpenSCAD and a framework for making projects
 
 ## Others 
 
+- [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [deadtrickster/beam-dashboards](https://github.com/deadtrickster/beam-dashboards) - BEAM :heart: Prometheus :heart: Grafana
@@ -5587,6 +5595,10 @@
 
 ## Python 
 
+- [mudape/iphonedetect](https://github.com/mudape/iphonedetect) - A custom component for Home Assistant to detect iPhones connected to local LAN, even if the phone is in deep sleep.
+- [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
+- [etesync/etesync-dav](https://github.com/etesync/etesync-dav) - This is a CalDAV and CardDAV adapter for EteSync
+- [llacroix/prometheus-swarm-discovery](https://github.com/llacroix/prometheus-swarm-discovery) - Prometheus Swarm Discovery based on file_sd
 - [zalando-incubator/transformer](https://github.com/zalando-incubator/transformer) - A tool to transform/convert web browser sessions (HAR files) into Locust load testing scenarios (locustfile).
 - [haralyzer/haralyzer](https://github.com/haralyzer/haralyzer) - A Framework For Using HAR Files To Analyze Web Pages
 - [openuado/niet](https://github.com/openuado/niet) - Parse/Read yaml or json files directly in your shell (sh, bash, ksh, ...)
@@ -7902,6 +7914,7 @@
 
 ## Shell 
 
+- [balena-io-examples/balena-storage](https://github.com/balena-io-examples/balena-storage) - Sample project to showcase storage mounting on balenaOS.
 - [arpitjindal97/raspbian-recipes](https://github.com/arpitjindal97/raspbian-recipes) - Raspberry networking made easy
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
 - [OneNormalUsername/DNS_propagation_checker](https://github.com/OneNormalUsername/DNS_propagation_checker) - DNS Propagation Checker
@@ -9048,6 +9061,7 @@
 
 ## TypeScript 
 
+- [balena-io-examples/baletheus](https://github.com/balena-io-examples/baletheus) - Balena Service Discovery for Prometheus
 - [LordAlex2015/brave-rewards-bot](https://github.com/LordAlex2015/brave-rewards-bot) - Brave Rewards Farm Bot  |  EDUCATIONAL PURPOSES ONLY
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
 - [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake integration in Visual Studio Code
