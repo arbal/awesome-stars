@@ -177,6 +177,8 @@
 
 ## C 
 
+- [Ta180m/zenpower3](https://github.com/Ta180m/zenpower3) - Zenpower3 is a Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs, now with Zen 3 support!
+- [aabc/ipt-netflow](https://github.com/aabc/ipt-netflow) - Netflow iptables module for Linux kernel (official)
 - [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [seemoo-lab/nexmon_csi](https://github.com/seemoo-lab/nexmon_csi) - Channel State Information Extraction on Various Broadcom Wi-Fi Chips
@@ -1108,6 +1110,7 @@
 
 ## Dockerfile 
 
+- [thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker) - Docker configuration to quickly setup your own Canarytokens.
 - [visibilityspots/dockerfile-cloudflared](https://github.com/visibilityspots/dockerfile-cloudflared) - run the cloudflared proxy-dns on port 54 using the DNS over HTTPS feature from cloudflare.
 - [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
@@ -1316,6 +1319,9 @@
 
 ## Go 
 
+- [sapcc/atlas](https://github.com/sapcc/atlas) - Custom Prometheus service discovery
+- [nasdf/diff3](https://github.com/nasdf/diff3) - A diff3 text merge implementation in Go
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [projectdiscovery/retryabledns](https://github.com/projectdiscovery/retryabledns) - Retryable DNS client in Go
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [swordlordcodingcrew/fennel](https://github.com/swordlordcodingcrew/fennel) - Fennel is your lightweight CalDAV and CardDAV server to run-your-own
@@ -2724,6 +2730,7 @@
 
 ## HTML 
 
+- [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [jgamblin/NMapNetworkInventoryContainer](https://github.com/jgamblin/NMapNetworkInventoryContainer) - A Docker Container To Continually Scan Your Network And Display Findings Cleanly.
 - [synesthesiam/rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy voice assistant for offline home automation
 - [plamere/playlistminer](https://github.com/plamere/playlistminer) - Creates spotify playlists by aggregating top songs from other playlists
@@ -2878,6 +2885,8 @@
 
 ## Java 
 
+- [mirsamantajbakhsh/OnionTunnel](https://github.com/mirsamantajbakhsh/OnionTunnel) - Onion Tunnel: Proxy Every Hidden Service on localhost
+- [spinnaker/kayenta](https://github.com/spinnaker/kayenta) - Automated Canary Service
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [plantuml/plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
@@ -3050,6 +3059,7 @@
 
 ## JavaScript 
 
+- [vicanso/diving](https://github.com/vicanso/diving) - Exploring each layer in a docker image
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud
 - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
 - [balena-io-playground/balena-rpi-wifiquality](https://github.com/balena-io-playground/balena-rpi-wifiquality) - Display wifi connection quality on a Raspberry Pi screen
@@ -7914,6 +7924,8 @@
 
 ## Shell 
 
+- [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support
+- [CenturyLinkLabs/golang-builder](https://github.com/CenturyLinkLabs/golang-builder) - Containerized build environment for compiling an executable Golang package and packaging it in a light-weight Docker container.
 - [balena-io-examples/balena-storage](https://github.com/balena-io-examples/balena-storage) - Sample project to showcase storage mounting on balenaOS.
 - [arpitjindal97/raspbian-recipes](https://github.com/arpitjindal97/raspbian-recipes) - Raspberry networking made easy
 - [seemoo-lab/mobisys2018_nexmon_software_defined_radio](https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio) - Proof of concept project for operating Broadcom Wi-Fi chips as arbitrary signal transmitters similar to software-defined radios (SDRs)
