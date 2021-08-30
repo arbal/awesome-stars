@@ -177,6 +177,8 @@
 
 ## C 
 
+- [ttsou/turbofec](https://github.com/ttsou/turbofec) - TurboFEC - SIMD vectorized LTE turbo and convolutional encoders and decoders
+- [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
 - [Ta180m/zenpower3](https://github.com/Ta180m/zenpower3) - Zenpower3 is a Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs, now with Zen 3 support!
 - [aabc/ipt-netflow](https://github.com/aabc/ipt-netflow) - Netflow iptables module for Linux kernel (official)
 - [ntop/n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
@@ -1319,6 +1321,12 @@
 
 ## Go 
 
+- [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
+- [ricardbejarano/dnsmasq_exporter](https://github.com/ricardbejarano/dnsmasq_exporter) - Prometheus metrics for Dnsmasq
+- [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter) - dnsmasq exporter for Prometheus
+- [ncabatoff/sensor-exporter](https://github.com/ncabatoff/sensor-exporter) - Prometheus exporter for sensor data like temperature and fan speed
+- [andmarios/sensor_exporter](https://github.com/andmarios/sensor_exporter) - A simple sensor_exporter for prometheus. Currently supporting coretemp on linux, hddtemp daemon, NUT's upsd.
+- [kckecheng/fio_exporter](https://github.com/kckecheng/fio_exporter) - Run fio and make its result consumable for Prometheus
 - [sapcc/atlas](https://github.com/sapcc/atlas) - Custom Prometheus service discovery
 - [nasdf/diff3](https://github.com/nasdf/diff3) - A diff3 text merge implementation in Go
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
@@ -3059,6 +3067,13 @@
 
 ## JavaScript 
 
+- [leinonen/cucumber-html-report](https://github.com/leinonen/cucumber-html-report) - Create pretty HTML reports from cucumber json report files using Mustache templates
+- [spirosikmd/cucumber-puppeteer-example](https://github.com/spirosikmd/cucumber-puppeteer-example) - Example project on how to use cucumber with puppeteer for UI testing
+- [brainhubeu/cucumber-steps](https://github.com/brainhubeu/cucumber-steps) - 🥒 Quick start for testing with Cucumber.js
+- [patheard/cucumber-puppeteer](https://github.com/patheard/cucumber-puppeteer) - A Node.js template for end-to-end testing your app with Cucumber.js and Puppeteer.
+- [john-doherty/selenium-cucumber-js](https://github.com/john-doherty/selenium-cucumber-js) - Browser automation framework written in pure JavaScript using official selenium-webdriver and cucumber-js
+- [BlueHatbRit/mdpdf](https://github.com/BlueHatbRit/mdpdf) - Markdown to PDF command line app with support for stylesheets
+- [nexdrew/rekcod](https://github.com/nexdrew/rekcod) - docker inspect :mag: → docker run :runner:
 - [vicanso/diving](https://github.com/vicanso/diving) - Exploring each layer in a docker image
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud
 - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
@@ -4314,7 +4329,7 @@
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden (Vaultwarden) - Home Assistant Community Add-ons
 - [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
 - [softasap/sa-prometheus-exporters](https://github.com/softasap/sa-prometheus-exporters) - Collection of the preselected prometheus exporters to be installed on a target nodes
-- [iancleary/ansible-role-zsh](https://github.com/iancleary/ansible-role-zsh) - Ansible role to install ZSH, with the ohmyzshplugin manager
+- [icancclearynow/ansible-role-zsh](https://github.com/icancclearynow/ansible-role-zsh) - Ansible role to install ZSH, with the ohmyzshplugin manager
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [homielabs/ansible](https://github.com/homielabs/ansible) - Speedy config time
 - [Akipe/ansible_system_recipes](https://github.com/Akipe/ansible_system_recipes) - Personal Ansible recipes for manage my computers & servers.
@@ -5605,6 +5620,7 @@
 
 ## Python 
 
+- [carmanm/KML-Builder-For-Kerberos-SDR](https://github.com/carmanm/KML-Builder-For-Kerberos-SDR) - This is a proof of concept to be further built upon for interfacing the KerberosSDR with Ozzmaker's BerryGPS and IMU v4 in order to compile data from both sources and build a KML file to show accurate lines of bearing regardless of which direction antenna array is facing.
 - [mudape/iphonedetect](https://github.com/mudape/iphonedetect) - A custom component for Home Assistant to detect iPhones connected to local LAN, even if the phone is in deep sleep.
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
 - [etesync/etesync-dav](https://github.com/etesync/etesync-dav) - This is a CalDAV and CardDAV adapter for EteSync
@@ -7671,6 +7687,8 @@
 
 ## Rust 
 
+- [bbqsrc/cucumber-rust](https://github.com/bbqsrc/cucumber-rust) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
+- [badboy/mdbook-open-on-gh](https://github.com/badboy/mdbook-open-on-gh) - mdbook preprocessor to add a open-on-github link on every page
 - [extrawurst/ip2country](https://github.com/extrawurst/ip2country) - fast ip -&gt; country lookup using asn database
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
@@ -9073,6 +9091,9 @@
 
 ## TypeScript 
 
+- [bencompton/jest-cucumber](https://github.com/bencompton/jest-cucumber) - Execute Gherkin scenarios in Jest
+- [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
+- [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [balena-io-examples/baletheus](https://github.com/balena-io-examples/baletheus) - Balena Service Discovery for Prometheus
 - [LordAlex2015/brave-rewards-bot](https://github.com/LordAlex2015/brave-rewards-bot) - Brave Rewards Farm Bot  |  EDUCATIONAL PURPOSES ONLY
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
