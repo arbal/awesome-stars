@@ -1321,6 +1321,8 @@
 
 ## Go 
 
+- [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) - Time based rotating file writer
+- [rigado/ble](https://github.com/rigado/ble) - Bluetooth Low Energy for Linux / macOS
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [ricardbejarano/dnsmasq_exporter](https://github.com/ricardbejarano/dnsmasq_exporter) - Prometheus metrics for Dnsmasq
 - [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter) - dnsmasq exporter for Prometheus
@@ -1509,7 +1511,7 @@
 - [chanioxaris/json-server](https://github.com/chanioxaris/json-server) - Create a dummy REST API from a json file with zero coding in seconds
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Go Application Scanner
 - [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr) - LZR quickly detects and fingerprints unexpected services running on unexpected ports.
-- [openebs/dynamic-nfs-provisioner](https://github.com/openebs/dynamic-nfs-provisioner) - CSI Driver for dynamically provisioning NFS Volumes on any Block Storage Volumes.
+- [openebs/dynamic-nfs-provisioner](https://github.com/openebs/dynamic-nfs-provisioner) - Operator for dynamically provisioning an NFS server on any Kubernetes Persistent Volume. Also creates an NFS volume on the dynamically provisioned server for enabling Kubernetes RWX volumes.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
 - [openebs/zfs-localpv](https://github.com/openebs/zfs-localpv) - CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using ZFS.
 - [uber-go/dosa](https://github.com/uber-go/dosa) - DOSA is a data object abstraction layer
@@ -2968,7 +2970,7 @@
 - [apache/incubator-sedona](https://github.com/apache/incubator-sedona) - A cluster computing framework for processing large-scale geospatial data
 - [ORCID/ORCID-Source](https://github.com/ORCID/ORCID-Source) - ORCID Open Source Project
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
-- [bonigarcia/webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automated driver management for Selenium WebDriver
+- [bonigarcia/webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automated driver management and Docker builder for Selenium WebDriver
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server is a streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is highly scalable both horizontally and vertically. It can run on-premise or on-cloud.
@@ -3067,6 +3069,7 @@
 
 ## JavaScript 
 
+- [vbguyny/ws4kp](https://github.com/vbguyny/ws4kp) - WeatherStar 4000+
 - [leinonen/cucumber-html-report](https://github.com/leinonen/cucumber-html-report) - Create pretty HTML reports from cucumber json report files using Mustache templates
 - [spirosikmd/cucumber-puppeteer-example](https://github.com/spirosikmd/cucumber-puppeteer-example) - Example project on how to use cucumber with puppeteer for UI testing
 - [brainhubeu/cucumber-steps](https://github.com/brainhubeu/cucumber-steps) - 🥒 Quick start for testing with Cucumber.js
@@ -4403,7 +4406,7 @@
 - [aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-- [datadesk/cpi](https://github.com/datadesk/cpi) - Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
+- [palewire/cpi](https://github.com/palewire/cpi) - Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
@@ -4448,7 +4451,7 @@
 - [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
 - [betatim/openrefineder](https://github.com/betatim/openrefineder) - 💠 + 📚 OpenRefine on Binder!
 - [Earth-Observation/ml-workspace](https://github.com/Earth-Observation/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
-- [joehoeller/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV](https://github.com/joehoeller/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV) - A complete machine vision container that includes Jupyter notebooks with built-in code hinting, Anaconda, CUDA 11, TensorRT inference accelerator for Tensor cores, CuPy (GPU drop in replacement for Numpy), PyTorch, PyTorch geometric for Graph Neural Networks, TF2, Tensorboard, and OpenCV for accelerated workloads on NVIDIA Tensor cores and GPUs.
+- [salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV](https://github.com/salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV) - A complete machine vision container that includes Jupyter notebooks with built-in code hinting, Anaconda, CUDA 11, TensorRT inference accelerator for Tensor cores, CuPy (GPU drop in replacement for Numpy), PyTorch, PyTorch geometric for Graph Neural Networks, TF2, Tensorboard, and OpenCV for accelerated workloads on NVIDIA Tensor cores and GPUs.
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -4568,6 +4571,7 @@
 
 ## Matlab 
 
+- [MeowLucian/SDR_FM_Radio](https://github.com/MeowLucian/SDR_FM_Radio) - :radio: Using Software Designed Radio to transmit & receive FM signal
 - [myriadrf/LimeSDR_Workshop](https://github.com/myriadrf/LimeSDR_Workshop) - Intro to software-defined radio with LimeSDR workshop
 - [beckel/nilm-eval](https://github.com/beckel/nilm-eval) - NILM-EVAL: An evaluation framework for non-intrusive load monitoring algorithms
 
@@ -4684,6 +4688,7 @@
 
 ## Others 
 
+- [DD5HT/awesome-hamradio](https://github.com/DD5HT/awesome-hamradio) - Awesome hamradio repositories.
 - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -5620,6 +5625,10 @@
 
 ## Python 
 
+- [randaller/fm2txt](https://github.com/randaller/fm2txt) - Rtl-sdr listens to radio, recognizes text and writes to txt file
+- [aerospaceresearch/CalibrateSDR](https://github.com/aerospaceresearch/CalibrateSDR) - what is my SDR frequency?
+- [gojiplus/get-weather-data](https://github.com/gojiplus/get-weather-data) - Get weather data for a list of zip codes for a range of dates
+- [myriadrf/limescan-device](https://github.com/myriadrf/limescan-device) - LimeSCAN device scripts etc.
 - [carmanm/KML-Builder-For-Kerberos-SDR](https://github.com/carmanm/KML-Builder-For-Kerberos-SDR) - This is a proof of concept to be further built upon for interfacing the KerberosSDR with Ozzmaker's BerryGPS and IMU v4 in order to compile data from both sources and build a KML file to show accurate lines of bearing regardless of which direction antenna array is facing.
 - [mudape/iphonedetect](https://github.com/mudape/iphonedetect) - A custom component for Home Assistant to detect iPhones connected to local LAN, even if the phone is in deep sleep.
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
@@ -7154,7 +7163,6 @@
 - [salopensource/grahamgilbert-plugins](https://github.com/salopensource/grahamgilbert-plugins) - Plugins for Sal (The Munki Puppet)
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [balenalabs-incubator/sdr-spectrum-monitor](https://github.com/balenalabs-incubator/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
 - [sidroopdaska/SelfDrivingRCCar](https://github.com/sidroopdaska/SelfDrivingRCCar) - Autonomous RC Car using Neural Networks, Python and Open CV
 - [goruck/models](https://github.com/goruck/models) - Models and examples built with TensorFlow with support for edge tpu
@@ -7692,7 +7700,7 @@
 - [extrawurst/ip2country](https://github.com/extrawurst/ip2country) - fast ip -&gt; country lookup using asn database
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
-- [DSLAM-UMD/Squirtle](https://github.com/DSLAM-UMD/Squirtle) - Squirtle: A Serverless SQL Query Engine for Event-Driven Analytics
+- [DSLAM-UMD/Squirtle](https://github.com/DSLAM-UMD/Squirtle) - Flock: A Practical Serverless Streaming Query Engine
 - [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) - An elastic and scalable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
@@ -7872,6 +7880,7 @@
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
@@ -7942,6 +7951,8 @@
 
 ## Shell 
 
+- [pfranchini/weather-satellites](https://github.com/pfranchini/weather-satellites) - Weather satellites (NOAA, METEOR) scripts
+- [krdee1/BarronWeather](https://github.com/krdee1/BarronWeather) - A Raspberry Pi NOAA satellite receiver built with Raspbian, Predict, rtl-sdr, SoX, WXtoImg, and Twython on a custom QFH 1Xyyyymmdd-hhmmss UTC 🛰️🌎📡🥧 By Kevin D
 - [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support
 - [CenturyLinkLabs/golang-builder](https://github.com/CenturyLinkLabs/golang-builder) - Containerized build environment for compiling an executable Golang package and packaging it in a light-weight Docker container.
 - [balena-io-examples/balena-storage](https://github.com/balena-io-examples/balena-storage) - Sample project to showcase storage mounting on balenaOS.
@@ -8234,7 +8245,7 @@
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to build your own vpn under a minute.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
-- [joehillen/sysz](https://github.com/joehillen/sysz) - An interactive fuzzy matching TUI for systemctl using fzf written entirely in Bash
+- [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [cardi/qemu-windows-10](https://github.com/cardi/qemu-windows-10) - running a windows 10 guest on a linux host with pci passthrough
 - [abcdabcd987/lxc-gpu](https://github.com/abcdabcd987/lxc-gpu) - Enjoy computation resources sharing at your laboratory with lxc-gpu!
 - [hughobrien/zfs-remote-mirror](https://github.com/hughobrien/zfs-remote-mirror) - A detailed tutorial on setting up a remote ZFS mirror for home use.
@@ -8802,7 +8813,7 @@
 - [Tecnativa/docker-postfix-relay](https://github.com/Tecnativa/docker-postfix-relay) - SMTP server and SMTP relay host
 - [namshi/docker-smtp](https://github.com/namshi/docker-smtp) - SMTP docker container
 - [tj/n](https://github.com/tj/n) - Node version management
-- [truecharts/jailman](https://github.com/truecharts/jailman) - Automated iocage Jail manager for FreeNAS
+- [Ornias1993/jailman](https://github.com/Ornias1993/jailman) - Automated iocage Jail manager for FreeNAS
 - [roblav96/dotfiles](https://github.com/roblav96/dotfiles) - 📺⌨️ Terminal super powers
 - [panaman/arpnamer](https://github.com/panaman/arpnamer) - layer 2 network scanner used to log mac, vender, ip address and dns names
 - [reynico/raspberry-noaa](https://github.com/reynico/raspberry-noaa) - Fully automated ISS SSTV, NOAA and Meteor satellite image downloader using Raspberry PI
@@ -8937,6 +8948,8 @@
 
 ## Swift 
 
+- [yonaskolb/Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs executable Swift packages
+- [mickeyl/core-bluetooth-tool](https://github.com/mickeyl/core-bluetooth-tool) - Bluetooth Low Energy Command Line Tool (macOS)
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [mipstian/catch](https://github.com/mipstian/catch) - Catch: Broadcatching made easy.
 - [beltex/SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library & tool
@@ -9091,6 +9104,7 @@
 
 ## TypeScript 
 
+- [PenguinSnail/penguinWX](https://github.com/PenguinSnail/penguinWX) - Node.JS tool to predict, schedule, record, and process weather satellite images with the RTL-SDR
 - [bencompton/jest-cucumber](https://github.com/bencompton/jest-cucumber) - Execute Gherkin scenarios in Jest
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
@@ -9522,6 +9536,7 @@
 
 ## Vue 
 
+- [dernasherbrezon/r2cloud-ui](https://github.com/dernasherbrezon/r2cloud-ui) - Web UI for r2cloud (https://github.com/dernasherbrezon/r2cloud)
 - [jeliasson/dns-propagation-checker](https://github.com/jeliasson/dns-propagation-checker) - Check propagation of DNS records from one or many Name Servers. Useful for validating a DNS zone during migration.
 - [robertsLando/Mqtt2Mqtt](https://github.com/robertsLando/Mqtt2Mqtt) - Customize MQTT messages between two brokers
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
