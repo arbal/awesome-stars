@@ -42,6 +42,7 @@
   - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
+  - [Haml](#haml)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [JSON](#json)
@@ -124,6 +125,7 @@
 
 ## AppleScript 
 
+- [SaiWebApps/AppleScriptUtils](https://github.com/SaiWebApps/AppleScriptUtils) - Collection of useful AppleScripts to automate common workflows on my Mac.
 - [rtrouton/Payload-Free-Package-Creator](https://github.com/rtrouton/Payload-Free-Package-Creator) - 
 - [naefl/alfred-kitty](https://github.com/naefl/alfred-kitty) - Alfred workflow to work more seamlessly with TUIs using Kitty's remote control API
 - [RobTrew/prelude-applescript](https://github.com/RobTrew/prelude-applescript) - Generic functions for macOS scripting with Applescript – function names as in Hoogle
@@ -177,6 +179,9 @@
 
 ## C 
 
+- [luigifcruz/kimera](https://github.com/luigifcruz/kimera) - Low-latency hardware accelerated codec based video streaming utility.
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [nriley/brightness](https://github.com/nriley/brightness) - Command-line display brightness control for macOS.
 - [ttsou/turbofec](https://github.com/ttsou/turbofec) - TurboFEC - SIMD vectorized LTE turbo and convolutional encoders and decoders
 - [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
 - [Ta180m/zenpower3](https://github.com/Ta180m/zenpower3) - Zenpower3 is a Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs, now with Zen 3 support!
@@ -1321,6 +1326,8 @@
 
 ## Go 
 
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd, with support for Compose
+- [rhaidiz/broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
 - [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) - Time based rotating file writer
 - [rigado/ble](https://github.com/rigado/ble) - Bluetooth Low Energy for Linux / macOS
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
@@ -2715,7 +2722,7 @@
 
 - [atcol/docker-registry-ui](https://github.com/atcol/docker-registry-ui) - A web frontend/UI for easy private/local Docker Registry integration
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
 - [brendonanderson/wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [8x8Cloud/swagger2raml](https://github.com/8x8Cloud/swagger2raml) - A utility to generate RAML documentation from Swagger JSON
@@ -2866,6 +2873,10 @@
 - [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [AtuyL/gulp-imgsizefix](https://github.com/AtuyL/gulp-imgsizefix) - fix an IMG tags width and height attributes.
+
+## Haml 
+
+- [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 
 ## Haskell 
 
@@ -3069,6 +3080,8 @@
 
 ## JavaScript 
 
+- [yuis-ice/visited](https://github.com/yuis-ice/visited) - Securely collect browsing history over browsers.
+- [thesephist/histools](https://github.com/thesephist/histools) - A collection of tools for generating data visualizations from browser history data
 - [vbguyny/ws4kp](https://github.com/vbguyny/ws4kp) - WeatherStar 4000+
 - [leinonen/cucumber-html-report](https://github.com/leinonen/cucumber-html-report) - Create pretty HTML reports from cucumber json report files using Mustache templates
 - [spirosikmd/cucumber-puppeteer-example](https://github.com/spirosikmd/cucumber-puppeteer-example) - Example project on how to use cucumber with puppeteer for UI testing
@@ -3243,7 +3256,7 @@
 - [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) - Node-RED - Home Assistant Community Add-ons
 - [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool
 - [imnik11/Google-Photos-Unlimited-Storage](https://github.com/imnik11/Google-Photos-Unlimited-Storage) - As google provides with the facility of unlimited data storage on google photos we can easily store any file with the help of this repo.
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -4495,6 +4508,7 @@
 
 ## Lua 
 
+- [fullmetalsheep/mpv-iina-scripts](https://github.com/fullmetalsheep/mpv-iina-scripts) - Some scripts I made / forked to make life easier for mpv and iina (mpv fork for OSX)
 - [jschornick/openwrt_exporter](https://github.com/jschornick/openwrt_exporter) - OpenWrt metrics exporter for Prometheus written in Lua
 - [ledgetech/ledge](https://github.com/ledgetech/ledge) - An RFC compliant and ESI capable HTTP cache for Nginx / OpenResty, backed by Redis
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
@@ -4608,6 +4622,8 @@
 
 ## Objective-C 
 
+- [nriley/SoundSource](https://github.com/nriley/SoundSource) - Rogue Amoeba’s SoundSource 2.5, with added command line tool for switching audio devices and setting volume.
+- [nriley/appswitch](https://github.com/nriley/appswitch) - Switch, hide, show, quit, kill or list macOS applications from the command line or scripts.
 - [lindegroup/autopkgr](https://github.com/lindegroup/autopkgr) - AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg.
 - [hjuutilainen/munkiadmin](https://github.com/hjuutilainen/munkiadmin) - macOS app for managing Munki repositories
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
@@ -4688,6 +4704,8 @@
 
 ## Others 
 
+- [reald/sdr-collection](https://github.com/reald/sdr-collection) - SDR collection
+- [m6r3k/LimeSDR_GNURadio_FM_TX](https://github.com/m6r3k/LimeSDR_GNURadio_FM_TX) - Simple FM transmitter
 - [DD5HT/awesome-hamradio](https://github.com/DD5HT/awesome-hamradio) - Awesome hamradio repositories.
 - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
@@ -5542,6 +5560,7 @@
 
 ## Perl 
 
+- [nriley/Pester](https://github.com/nriley/Pester) - Simple, disposable alarms and timers for macOS.
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [raszi/colorize](https://github.com/raszi/colorize) - Log colorizer perl script
 - [centreon/centreon-plugins](https://github.com/centreon/centreon-plugins) - Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.
@@ -5625,6 +5644,10 @@
 
 ## Python 
 
+- [devanshbatham/CertEagle](https://github.com/devanshbatham/CertEagle) - Weaponizing Live CT logs for automated monitoring of assets
+- [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution) - ISP Data Pollution to Protect Private Browsing History with Obfuscation
+- [ts123/AppSwitch.alfredworkflow](https://github.com/ts123/AppSwitch.alfredworkflow) - Switch to other running applications via Alfred2
+- [rbunger/FM-Radio-Spectrum-Plot](https://github.com/rbunger/FM-Radio-Spectrum-Plot) - Plotting FM radio spectrum using RTL-SDR
 - [randaller/fm2txt](https://github.com/randaller/fm2txt) - Rtl-sdr listens to radio, recognizes text and writes to txt file
 - [aerospaceresearch/CalibrateSDR](https://github.com/aerospaceresearch/CalibrateSDR) - what is my SDR frequency?
 - [gojiplus/get-weather-data](https://github.com/gojiplus/get-weather-data) - Get weather data for a list of zip codes for a range of dates
@@ -6459,7 +6482,6 @@
 - [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg) - A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video
 - [TenPennyTV/worker-ffmpeg](https://github.com/TenPennyTV/worker-ffmpeg) - Worker that is used to transcode video to supported formats and resolutions
 - [juancarlospaco/pyvoicechanger](https://github.com/juancarlospaco/pyvoicechanger) - Real Time Microphone Voice Changer Python 3.6+ App. Works with On-Line Games and VideoConferences!
-- [GitHackTools/TorghostNG](https://github.com/GitHackTools/TorghostNG) - TorghostNG - Make your internet traffic anonymized through Tor network and Privoxy. Rewritten from TorGhost with Python 3
 - [NationalSecurityAgency/qgis-latlontools-plugin](https://github.com/NationalSecurityAgency/qgis-latlontools-plugin) - QGIS tools to capture and zoom to coordinates using decimal, DMS, WKT, GeoJSON, MGRS, UTM, UPS, GEOREF, and Plus Codes notation. Provides external map support, MGRS & Plus Codes conversion and point digitizing tools.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [signalfx/maestro-ng](https://github.com/signalfx/maestro-ng) - Orchestration of Docker-based, multi-host environments
@@ -7535,6 +7557,7 @@
 
 ## Ruby 
 
+- [appswitch/examples](https://github.com/appswitch/examples) - Example usage scenarios for AppSwitch
 - [openaustralia/morph](https://github.com/openaustralia/morph) - Take the hassle out of web scraping
 - [youpy/mac-robot](https://github.com/youpy/mac-robot) - A Library to Automate User Interactions
 - [alexreisner/geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
@@ -7951,6 +7974,8 @@
 
 ## Shell 
 
+- [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav)
+- [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
 - [pfranchini/weather-satellites](https://github.com/pfranchini/weather-satellites) - Weather satellites (NOAA, METEOR) scripts
 - [krdee1/BarronWeather](https://github.com/krdee1/BarronWeather) - A Raspberry Pi NOAA satellite receiver built with Raspbian, Predict, rtl-sdr, SoX, WXtoImg, and Twython on a custom QFH 1Xyyyymmdd-hhmmss UTC 🛰️🌎📡🥧 By Kevin D
 - [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support
@@ -8343,7 +8368,7 @@
 - [rimar/wifi-location-changer](https://github.com/rimar/wifi-location-changer) - automatically change location when mac os x changes wifi connection
 - [kyletmiller/locationchanger](https://github.com/kyletmiller/locationchanger) - Automatically change the macOS network location when joining a Wi-Fi network
 - [sashagavrilov/locationchanger](https://github.com/sashagavrilov/locationchanger) - Automatically change the macOS network location when joining a Wi-Fi network
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [Dezeter/mt](https://github.com/Dezeter/mt) - Create multiple TOR instances with a load-balancing.
 - [quortex/cloudbench](https://github.com/quortex/cloudbench) - A project to bench ffmpeg performances and price for the major cloud providers
 - [cdzombak/osx-automation](https://github.com/cdzombak/osx-automation) - scripts, services, and small utilities which make life on macOS easier
@@ -8948,6 +8973,7 @@
 
 ## Swift 
 
+- [nriley/Karabiner-Elements-App-Profiles](https://github.com/nriley/Karabiner-Elements-App-Profiles) - Workaround for lack of app-specific behavior in Karabiner-Elements
 - [yonaskolb/Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs executable Swift packages
 - [mickeyl/core-bluetooth-tool](https://github.com/mickeyl/core-bluetooth-tool) - Bluetooth Low Energy Command Line Tool (macOS)
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
@@ -8999,7 +9025,6 @@
 - [gyf304/vmcli](https://github.com/gyf304/vmcli) - A set of utilities (vmcli + vmctl) for macOS Virtualization.framework
 - [kendfinger/virtual](https://github.com/kendfinger/virtual) - Linux Virtual Machines on macOS
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [rsyncOSX/rcloneosx](https://github.com/rsyncOSX/rcloneosx) - A macOS GUI for rclone
 - [JackSteele/VFHost](https://github.com/JackSteele/VFHost) - GUI for Virtualization.framework, including installer for Ubuntu 20.04 on Apple Silicon and Intel Macs.
 - [KhaosT/SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
 - [lukas-zronek/ssh-askpass-mac](https://github.com/lukas-zronek/ssh-askpass-mac) - A macOS front-end of ssh-askpass with keychain support
@@ -9104,6 +9129,9 @@
 
 ## TypeScript 
 
+- [f4exb/sdrangelcli](https://github.com/f4exb/sdrangelcli) - Browser based client application for SDRangel in remote mode
+- [f4exb/sdrangelspectrum](https://github.com/f4exb/sdrangelspectrum) - Web client for SDRangel websockets spectrum server
+- [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
 - [PenguinSnail/penguinWX](https://github.com/PenguinSnail/penguinWX) - Node.JS tool to predict, schedule, record, and process weather satellite images with the RTL-SDR
 - [bencompton/jest-cucumber](https://github.com/bencompton/jest-cucumber) - Execute Gherkin scenarios in Jest
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
@@ -9244,7 +9272,7 @@
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
-- [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
+- [snyk/snyk](https://github.com/snyk/snyk) - Scans and monitors your projects for security vulnerabilities.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
