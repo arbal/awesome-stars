@@ -627,6 +627,8 @@
 
 ## C# # 
 
+- [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+- [cryptoprofitswitcher/CryptoProfitSwitcher](https://github.com/cryptoprofitswitcher/CryptoProfitSwitcher) - Extensible profit switcher for crypto coins and algorithms
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [dend/foggycam](https://github.com/dend/foggycam) - 📹  A tool to locally capture your own Nest camera stream.
 - [sleevezipper/hass-workstation-service](https://github.com/sleevezipper/hass-workstation-service) - Provide useful sensors and services from your workstation to Home Assistant.
@@ -740,6 +742,7 @@
 
 ## C++ 
 
+- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [nbdy/pwnpi](https://github.com/nbdy/pwnpi) - cpp rpi wardriving application
 - [jonnyhuck/Viewshed](https://github.com/jonnyhuck/Viewshed) - A GDAL-based Viewshed command line tool with python bindings
@@ -1059,6 +1062,7 @@
 
 ## Clojure 
 
+- [jsa-aerial/saite](https://github.com/jsa-aerial/saite) - Interactive document creation for exploratory graphics and visualizations. 咲いて (in bloom). Built on top of hanami vega/vega-lite library with CodeMirror and self hosted ClojureScript
 - [alexvaut/OpenTracingDiagram](https://github.com/alexvaut/OpenTracingDiagram) - Use traces to describe micro-services architecture.
 - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
 - [dlebrero/wireshark-plantuml](https://github.com/dlebrero/wireshark-plantuml) - Generates a PlantUML sequence diagram given a Wireshark JSON capture.
@@ -1290,6 +1294,7 @@
 
 ## Elm 
 
+- [gicentre/elm-vega](https://github.com/gicentre/elm-vega) - Elm - Vega Integration for functional declarative visualization
 - [charypar/swarm-dashboard](https://github.com/charypar/swarm-dashboard) - A simple monitoring dashboard for Docker in Swarm Mode.
 
 ## Emacs Lisp 
@@ -1326,6 +1331,11 @@
 
 ## Go 
 
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
+- [JensRantil/unfy](https://github.com/JensRantil/unfy) - A command line utility that automagically replaces UNIX timestamps with human interpretable timestamps.
+- [sj14/epoch](https://github.com/sj14/epoch) - 🕗 Easily convert epoch timestamps to human-readable formats and vice versa.
+- [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts & similar environments
+- [ksonnet/ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd, with support for Compose
 - [rhaidiz/broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
 - [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) - Time based rotating file writer
@@ -2747,6 +2757,7 @@
 
 ## HTML 
 
+- [gramener/visual-vocabulary-vega](https://github.com/gramener/visual-vocabulary-vega) - Visual Vocabulary with Vega
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [jgamblin/NMapNetworkInventoryContainer](https://github.com/jgamblin/NMapNetworkInventoryContainer) - A Docker Container To Continually Scan Your Network And Display Findings Cleanly.
 - [synesthesiam/rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy voice assistant for offline home automation
@@ -3080,6 +3091,13 @@
 
 ## JavaScript 
 
+- [HubSpot/humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane. #hubspot-open-source
+- [sindresorhus/pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
+- [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
+- [simonw/datasette-vega](https://github.com/simonw/datasette-vega) - Datasette plugin for visualizing data using Vega
+- [plotly/dash-alternative-viz](https://github.com/plotly/dash-alternative-viz) - Dash components & demos to create Altair, Matplotlib, Highcharts , and Bokeh graphs within Dash apps.
+- [vega/vega-desktop](https://github.com/vega/vega-desktop) - App for viewing visualizations created in Vega or Vega-lite
+- [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [yuis-ice/visited](https://github.com/yuis-ice/visited) - Securely collect browsing history over browsers.
 - [thesephist/histools](https://github.com/thesephist/histools) - A collection of tools for generating data visualizations from browser history data
 - [vbguyny/ws4kp](https://github.com/vbguyny/ws4kp) - WeatherStar 4000+
@@ -4704,6 +4722,7 @@
 
 ## Others 
 
+- [zimmertr/TKS-Bootstrap_Proxmox](https://github.com/zimmertr/TKS-Bootstrap_Proxmox) - 
 - [reald/sdr-collection](https://github.com/reald/sdr-collection) - SDR collection
 - [m6r3k/LimeSDR_GNURadio_FM_TX](https://github.com/m6r3k/LimeSDR_GNURadio_FM_TX) - Simple FM transmitter
 - [DD5HT/awesome-hamradio](https://github.com/DD5HT/awesome-hamradio) - Awesome hamradio repositories.
@@ -4812,7 +4831,6 @@
 - [jeremywillans/lovelace-roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) - HA Lovelace Card for iRobot Roomba Vacuum Cleaner leveraging the rest980 Docker Image
 - [dnguyen800/spotify-playlist-card](https://github.com/dnguyen800/spotify-playlist-card) - Home Assistant Lovelace card that lists your current Spotify playlists.
 - [r0f1/datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
-- [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) - Reverse proxies cheatsheet
 - [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [dogsheep/dogsheep.github.io](https://github.com/dogsheep/dogsheep.github.io) - Tools for personal analytics using SQLite and Datasette
@@ -5377,6 +5395,7 @@
 - [feathersjs/awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) - A list of awesome things related to FeathersJS
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [arbal/kumbaya-terminator](https://github.com/arbal/kumbaya-terminator) - 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
@@ -5572,6 +5591,7 @@
 - [stuartcryan/advanced-google-maps-alfred-workflow](https://github.com/stuartcryan/advanced-google-maps-alfred-workflow) - Advanced Google Maps and Apple Maps Workflow for Alfred
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
 - [mad-ady/smokeping-speedtest](https://github.com/mad-ady/smokeping-speedtest) - Smokeping::probes::speedtest
+- [LJMUAstroecology/flirpy](https://github.com/LJMUAstroecology/flirpy) - Python library to interact with FLIR camera cores
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
 - [fink/fink](https://github.com/fink/fink) - The fink package manager
@@ -5644,6 +5664,11 @@
 
 ## Python 
 
+- [ibmcb/cbtool](https://github.com/ibmcb/cbtool) - Cloud Rapid Experimentation and Analysis Toolkit
+- [mld-0/dtscan](https://github.com/mld-0/dtscan) - Python cli utility, identify/convert/analyse datetimes in text.
+- [yankeexe/timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI to store and glance date-time from multiple time zones.
+- [bear/parsedatetime](https://github.com/bear/parsedatetime) - Parse human-readable date/time strings
+- [simonw/datasette-render-binary](https://github.com/simonw/datasette-render-binary) - Datasette plugin for rendering binary data
 - [devanshbatham/CertEagle](https://github.com/devanshbatham/CertEagle) - Weaponizing Live CT logs for automated monitoring of assets
 - [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution) - ISP Data Pollution to Protect Private Browsing History with Obfuscation
 - [ts123/AppSwitch.alfredworkflow](https://github.com/ts123/AppSwitch.alfredworkflow) - Switch to other running applications via Alfred2
@@ -6020,6 +6045,7 @@
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+- [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) - Reverse proxies cheatsheet
 - [aliparlakci/bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads and archives content from reddit
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Web browser forensics for Google Chrome/Chromium
@@ -6253,7 +6279,6 @@
 - [ipburger/speedtest.mini.php](https://github.com/ipburger/speedtest.mini.php) - Speedtest.net mini/legacy-http light server. Works with speedtest cli
 - [ChrisRegado/streamdeck-googlemeet](https://github.com/ChrisRegado/streamdeck-googlemeet) - A Stream Deck plugin to manage your Google Meet microphone and camera.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-- [LJMUAstroecology/flirpy](https://github.com/LJMUAstroecology/flirpy) - Python library to interact with FLIR camera cores
 - [ParadoxAlarmInterface/pai](https://github.com/ParadoxAlarmInterface/pai) - Paradox Magellan, Spectra and EVO, with MQTT, Signal, Pushbullet, Pushover and others
 - [mravanelli/pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) - pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
 - [maechler/nnilm](https://github.com/maechler/nnilm) - A reimplementation of Jack Kelly's rectangles neural network architecture based on Keras and the NILMToolkit.
@@ -6838,7 +6863,7 @@
 - [isaacbernat/netflix-to-srt](https://github.com/isaacbernat/netflix-to-srt) - Rip, extract and convert subtitles to .srt closed captions from .xml/dfxp/ttml and .vtt/WebVTT (e.g. Netflix, YouTube)
 - [briis/securityspy](https://github.com/briis/securityspy) - SecuritySpy Integration for Home Assistant with Camera Streams and Motion Detection
 - [opencultureconsulting/openrefine-client](https://github.com/opencultureconsulting/openrefine-client) - The OpenRefine Python Client from Paul Makepeace provides a library for communicating with an OpenRefine server. This fork extends the command line interface (CLI) and is distributed as a convenient one-file-executable (Windows, Linux, Mac). It is also available via Docker Hub, PyPI and Binder.
-- [advaithm/cloudflare-DDNS](https://github.com/advaithm/cloudflare-DDNS) - python CLI program to automatically update cloud-flare dns records for dynamic ips
+- [Lunarequest/cloudflare-DDNS](https://github.com/Lunarequest/cloudflare-DDNS) - python CLI program to automatically update cloud-flare dns records for dynamic ips
 - [LINKIWI/cloudflare-ddns-client](https://github.com/LINKIWI/cloudflare-ddns-client) - Linux client for automatic dynamic DNS updates on CloudFlare-managed domains
 - [thesanjeetc/SiriControl-System](https://github.com/thesanjeetc/SiriControl-System) - Control anything with Siri voice commands.
 - [emoji-gen/web-slack-proxy-obsolete](https://github.com/emoji-gen/web-slack-proxy-obsolete) - ARCHIVED: :squirrel: Ultimate Slack Incoming Webhooks proxy
@@ -7557,6 +7582,8 @@
 
 ## Ruby 
 
+- [radar/humanize](https://github.com/radar/humanize) - Takes your numbers and makes them *fancy*.
+- [zhustec/jekyll-diagrams](https://github.com/zhustec/jekyll-diagrams) - A Jekyll plugin with support for Blockdiag, Erd, GraphViz, Mermaid, Nomnoml, PlantUML, Svgbob, Syntrax, Vega, Vega-Lite and WaveDrom.
 - [appswitch/examples](https://github.com/appswitch/examples) - Example usage scenarios for AppSwitch
 - [openaustralia/morph](https://github.com/openaustralia/morph) - Take the hassle out of web scraping
 - [youpy/mac-robot](https://github.com/youpy/mac-robot) - A Library to Automate User Interactions
@@ -7718,6 +7745,7 @@
 
 ## Rust 
 
+- [heepster/time-butler](https://github.com/heepster/time-butler) - A CLI tool for easy datetime conversions
 - [bbqsrc/cucumber-rust](https://github.com/bbqsrc/cucumber-rust) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [badboy/mdbook-open-on-gh](https://github.com/badboy/mdbook-open-on-gh) - mdbook preprocessor to add a open-on-github link on every page
 - [extrawurst/ip2country](https://github.com/extrawurst/ip2country) - fast ip -&gt; country lookup using asn database
@@ -8940,7 +8968,6 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [gretzky/n.zsh](https://github.com/gretzky/n.zsh) - zsh plugin for switching node versions automatically with n
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -9129,6 +9156,15 @@
 
 ## TypeScript 
 
+- [vega/vega-render-service](https://github.com/vega/vega-render-service) - A service to render Vega visualizations
+- [eram/tensorflow-stack-ts](https://github.com/eram/tensorflow-stack-ts) - TensorFlow.js Full-Stack Starter Kit
+- [RandomFractals/vscode-vega-viewer](https://github.com/RandomFractals/vscode-vega-viewer) - VSCode extension for Interactive Preview of Vega & Vega-Lite maps 🗺️ & graphs  📈
+- [vega/editor](https://github.com/vega/editor) - Editor/IDE for Vega and Vega-Lite
+- [uwdata/draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
+- [vega/vega-embed](https://github.com/vega/vega-embed) - Publish Vega visualizations as embedded web components with interactive parameters.
+- [altair-viz/jupyterlab_voyager](https://github.com/altair-viz/jupyterlab_voyager) - JupyterLab extension visualize data with Voyager
+- [gicentre/litvis](https://github.com/gicentre/litvis) - Literate Visualization: Theory, software and examples
+- [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [f4exb/sdrangelcli](https://github.com/f4exb/sdrangelcli) - Browser based client application for SDRangel in remote mode
 - [f4exb/sdrangelspectrum](https://github.com/f4exb/sdrangelspectrum) - Web client for SDRangel websockets spectrum server
 - [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
