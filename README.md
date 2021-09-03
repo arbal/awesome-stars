@@ -179,6 +179,10 @@
 
 ## C 
 
+- [iscsi-osx/iSCSIInitiator](https://github.com/iscsi-osx/iSCSIInitiator) - iSCSI Initiator for macOS
+- [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
+- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
+- [ntop/PF_RING](https://github.com/ntop/PF_RING) - High-speed packet processing framework
 - [luigifcruz/kimera](https://github.com/luigifcruz/kimera) - Low-latency hardware accelerated codec based video streaming utility.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [nriley/brightness](https://github.com/nriley/brightness) - Command-line display brightness control for macOS.
@@ -742,6 +746,8 @@
 
 ## C++ 
 
+- [webcamoid/akvirtualcamera](https://github.com/webcamoid/akvirtualcamera) - akvirtualcamera, virtual camera for Mac and Windows
+- [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [nbdy/pwnpi](https://github.com/nbdy/pwnpi) - cpp rpi wardriving application
@@ -1331,6 +1337,10 @@
 
 ## Go 
 
+- [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
+- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
+- [netsampler/goflow2](https://github.com/netsampler/goflow2) - High performance sFlow/IPFIX/NetFlow Collector
+- [EdgeCast/vflow](https://github.com/EdgeCast/vflow) - Enterprise Network Flow Collector (IPFIX, sFlow, Netflow)
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [JensRantil/unfy](https://github.com/JensRantil/unfy) - A command line utility that automagically replaces UNIX timestamps with human interpretable timestamps.
 - [sj14/epoch](https://github.com/sj14/epoch) - 🕗 Easily convert epoch timestamps to human-readable formats and vice versa.
@@ -2905,6 +2915,7 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [mryndzionek/composable-sdr](https://github.com/mryndzionek/composable-sdr) - SDR DSP utilities embedded in Haskell
 - [inguardians/VaporTrail](https://github.com/inguardians/VaporTrail) - Written by InGuardians' Faith Alderson and Larry Pesce, VaporTrail is a tool for data transmission over FM, using RPITX to transmit from an out-of-the-box Raspberry Pi, and an RTL-SDR to receive.  Twitter handles:  @unknownloner, @haxorthematrix, @inguardians
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [chrisdone/jl](https://github.com/chrisdone/jl) - Functional sed for JSON
 
 ## Haxe 
@@ -2917,6 +2928,7 @@
 
 ## Java 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [mirsamantajbakhsh/OnionTunnel](https://github.com/mirsamantajbakhsh/OnionTunnel) - Onion Tunnel: Proxy Every Hidden Service on localhost
 - [spinnaker/kayenta](https://github.com/spinnaker/kayenta) - Automated Canary Service
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
@@ -2953,7 +2965,7 @@
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.
@@ -3424,7 +3436,7 @@
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
@@ -4526,6 +4538,7 @@
 
 ## Lua 
 
+- [ntop/nProbe](https://github.com/ntop/nProbe) - Open source components and extensions for nProbe
 - [fullmetalsheep/mpv-iina-scripts](https://github.com/fullmetalsheep/mpv-iina-scripts) - Some scripts I made / forked to make life easier for mpv and iina (mpv fork for OSX)
 - [jschornick/openwrt_exporter](https://github.com/jschornick/openwrt_exporter) - OpenWrt metrics exporter for Prometheus written in Lua
 - [ledgetech/ledge](https://github.com/ledgetech/ledge) - An RFC compliant and ESI capable HTTP cache for Nginx / OpenResty, backed by Redis
@@ -4710,6 +4723,8 @@
 
 ## Objective-C++ 
 
+- [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.
+- [johnboiles/coremediaio-dal-minimal-example](https://github.com/johnboiles/coremediaio-dal-minimal-example) - Intended to be the most minimalistic example of a macOS CoreMediaIO DAL plugin.
 - [kmgrant/macterm](https://github.com/kmgrant/macterm) - Terminal emulator for macOS with 24-bit color, bitmap and vector graphics.
 - [mapbox/mapbox-gl-native-ios](https://github.com/mapbox/mapbox-gl-native-ios) - Interactive, thoroughly customizable maps for iOS powered by vector tiles and OpenGL
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
@@ -4859,6 +4874,7 @@
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [AnarchoTechNYC/ansible-role-dnscrypt-proxy](https://github.com/AnarchoTechNYC/ansible-role-dnscrypt-proxy) - :lock::postal_horn: Spin up a(n optionally Torified) DNS, DNSCrypt v2, DNS-over-TLS, and/or DNS-over-HTTPS proxy server.
 - [arbal/docker-swarm-keepalived](https://github.com/arbal/docker-swarm-keepalived) - Operator for keepalived on docker swarm
+- [rsoper/richardsoper.me](https://github.com/rsoper/richardsoper.me) - My Traefik V2 stack.
 - [rxy/OoklaServer-speedtest.net-daemon](https://github.com/rxy/OoklaServer-speedtest.net-daemon) - https://support.ookla.com/hc/en-us/articles/234578528-OoklaServer-Installation-Linux-Unix
 - [awesometic/hackintosh-gigabyte-x570-aorus-elite](https://github.com/awesometic/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh.
 - [chris1111/Wireless-USB-OC-Big-Sur-Adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter) - Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters. Packages for macOS Hackintosh PC or Laptop
@@ -5664,6 +5680,10 @@
 
 ## Python 
 
+- [smahesh29/Gender-and-Age-Detection](https://github.com/smahesh29/Gender-and-Age-Detection) - A Python project which can detect gender and age using OpenCV of the person (face) in a picture or through webcam.
+- [cpmarvin/lnetd](https://github.com/cpmarvin/lnetd) - dynamic network topology from IGP information
+- [DynamiteAI/dynamite-nsm](https://github.com/DynamiteAI/dynamite-nsm) - DynamiteNSM is a free Network Security Monitor developed by Dynamite Analytics to enable network visibility and advanced cyber threat detection
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [ibmcb/cbtool](https://github.com/ibmcb/cbtool) - Cloud Rapid Experimentation and Analysis Toolkit
 - [mld-0/dtscan](https://github.com/mld-0/dtscan) - Python cli utility, identify/convert/analyse datetimes in text.
 - [yankeexe/timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI to store and glance date-time from multiple time zones.
@@ -6400,7 +6420,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Automate Web Testing with Selenium, Python, and pytest. 🚀
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅📊 Automate Web Testing with Selenium, Python, and pytest. 🚀
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -6902,8 +6922,8 @@
 - [cagbal/ros_people_object_detection_tensorflow](https://github.com/cagbal/ros_people_object_detection_tensorflow) - An extensive ROS toolbox for object detection & tracking and face/action recognition with 2D and 3D support which makes your Robot understand the environment
 - [mit-acl/cadrl_ros](https://github.com/mit-acl/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 - [lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection) - Object detection project for real-time (webcam) and offline (video processing) application.
-- [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, location awareness, color analysis and other ML algorithms.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Privacy is the most important issue for the AI face recognition camera. Open source and BYOD is the only way to solve privacy issue. SharpAI DeepCamera provides private deployment architecture to save all your information on your own devices.
+- [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open Source Face Recognition AI NVR
 - [BMW-InnovationLab/BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
 - [idealo/image-quality-assessment](https://github.com/idealo/image-quality-assessment) - Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
@@ -7239,7 +7259,6 @@
 - [gtalarico/pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
 - [UniversityRadioYork/jail-devops](https://github.com/UniversityRadioYork/jail-devops) - who needs docker?
 - [fractalcells/ansible-iocage](https://github.com/fractalcells/ansible-iocage) - 
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [pnlng/alfred-url-actions](https://github.com/pnlng/alfred-url-actions) - An Alfred workflow that fetches the URL and title of your browser's current tab, and does things with them.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
@@ -8002,6 +8021,7 @@
 
 ## Shell 
 
+- [untitledgoos/big-sur-automator](https://github.com/untitledgoos/big-sur-automator) - BSA is a simple shell script that completely automates the process of making a macOS Big Sur USB Installer thats patched to work on a unsupported Mac.
 - [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav)
 - [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
 - [pfranchini/weather-satellites](https://github.com/pfranchini/weather-satellites) - Weather satellites (NOAA, METEOR) scripts
@@ -8236,7 +8256,6 @@
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
-- [rsoper/richardsoper.me](https://github.com/rsoper/richardsoper.me) - My simple, functional Traefik V2 stack.
 - [crowbar/crowbar](https://github.com/crowbar/crowbar) - Cloud Operations Platform
 - [LolHens/docker-swarm-keepalived](https://github.com/LolHens/docker-swarm-keepalived) - Operator for keepalived on docker swarm
 - [DrSnowbird/openrefine](https://github.com/DrSnowbird/openrefine) - OpenRefine Docker for Data ETL/ELT
@@ -8296,7 +8315,7 @@
 - [edgarsuit/FreeNAS-Report](https://github.com/edgarsuit/FreeNAS-Report) - SMART & ZPool Status Report for FreeNAS
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to build your own vpn under a minute.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to build and manage your own vpn under a minute.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [cardi/qemu-windows-10](https://github.com/cardi/qemu-windows-10) - running a windows 10 guest on a linux host with pci passthrough
@@ -9000,6 +9019,7 @@
 
 ## Swift 
 
+- [lvsti/Cameo](https://github.com/lvsti/Cameo) - CMIO DAL plugin explorer
 - [nriley/Karabiner-Elements-App-Profiles](https://github.com/nriley/Karabiner-Elements-App-Profiles) - Workaround for lack of app-specific behavior in Karabiner-Elements
 - [yonaskolb/Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs executable Swift packages
 - [mickeyl/core-bluetooth-tool](https://github.com/mickeyl/core-bluetooth-tool) - Bluetooth Low Energy Command Line Tool (macOS)
