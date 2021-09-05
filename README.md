@@ -1634,7 +1634,6 @@
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [mrparkers/terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider for Keycloak
 - [louketo/louketo-proxy](https://github.com/louketo/louketo-proxy) - A OpenID / Proxy service
-- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [libopenstorage/openstorage](https://github.com/libopenstorage/openstorage) - A multi-host clustered implementation of the open storage specification
 - [dnstap/golang-dnstap](https://github.com/dnstap/golang-dnstap) - flexible, structured event replication format for DNS servers (command-line tool and Golang package)
 - [ekanite/ekanite](https://github.com/ekanite/ekanite) - The Syslog server with built-in search
@@ -3107,6 +3106,10 @@
 
 ## JavaScript 
 
+- [sindresorhus/env-editor](https://github.com/sindresorhus/env-editor) - Get metadata on the default editor or a specific editor
+- [sindresorhus/open-editor-cli](https://github.com/sindresorhus/open-editor-cli) - Open files in your editor at a specific line and column
+- [sindresorhus/open-editor](https://github.com/sindresorhus/open-editor) - Open files in your editor at a specific line and column
+- [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [HubSpot/humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane. #hubspot-open-source
@@ -3381,6 +3384,7 @@
 - [custom-cards/circle-sensor-card](https://github.com/custom-cards/circle-sensor-card) - A custom component for displaying sensor values as cards or elements
 - [custom-cards/secondaryinfo-entity-row](https://github.com/custom-cards/secondaryinfo-entity-row) - Custom entity row for HomeAssistant, providing additional types of data to be displayed in the secondary info area of the Lovelace Entities card
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
+- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.) in the browser
 - [ehmicky/human-signals](https://github.com/ehmicky/human-signals) - Human-friendly process signals
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [sindresorhus/delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
@@ -6024,7 +6028,7 @@
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
 - [custom-components/authenticated](https://github.com/custom-components/authenticated) - A platform which allows you to get information about sucessfull logins to Home Assistant.
 - [custom-components/breaking_changes](https://github.com/custom-components/breaking_changes) - Component to show potential breaking_changes in the current published version based on your loaded components
-- [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Hass.io that can Automatically Remove Snapshots and Supports Generational Backup Schemes.
+- [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Hass.io that can Automatically Remove Backups and Supports Generational Backup Schemes.
 - [custom-components/integration_blueprint](https://github.com/custom-components/integration_blueprint) - Blueprint for custom_component developers.
 - [jseidl/hass-magic_areas](https://github.com/jseidl/hass-magic_areas) - Magic Areas custom_component for Home Assistant
 - [nielsfaber/scheduler-component](https://github.com/nielsfaber/scheduler-component) - Custom component for HA that enables the creation of scheduler entities
