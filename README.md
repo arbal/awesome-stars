@@ -1340,6 +1340,7 @@
 
 ## Go 
 
+- [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges.
 - [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -2563,7 +2564,7 @@
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [terra-farm/terraform-provider-xenorchestra](https://github.com/terra-farm/terraform-provider-xenorchestra) - Xen Orchestra provider for Terraform
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use server and proxy that allows to read, publish and proxy video and audio streams with RTSP, RTMP, HLS
 - [aler9/rtsp-simple-proxy](https://github.com/aler9/rtsp-simple-proxy) - DEPRECATED - please use https://github.com/aler9/rtsp-simple-server
 - [shomali11/util](https://github.com/shomali11/util) - A collection of useful utility functions
 - [shomali11/parallelizer](https://github.com/shomali11/parallelizer) - Simplifies the parallelization of function calls.
@@ -3106,6 +3107,9 @@
 
 ## JavaScript 
 
+- [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
+- [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
+- [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [sindresorhus/env-editor](https://github.com/sindresorhus/env-editor) - Get metadata on the default editor or a specific editor
 - [sindresorhus/open-editor-cli](https://github.com/sindresorhus/open-editor-cli) - Open files in your editor at a specific line and column
 - [sindresorhus/open-editor](https://github.com/sindresorhus/open-editor) - Open files in your editor at a specific line and column
@@ -5690,6 +5694,8 @@
 
 ## Python 
 
+- [tzutalin/labelImg](https://github.com/tzutalin/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
+- [famzah/mpssh-py](https://github.com/famzah/mpssh-py) - Mass Parallel Secure Shell command execution
 - [jmozmoz/cloudmap](https://github.com/jmozmoz/cloudmap) - Python script to create cloud map for xplanet using satellite images from http://www.sat.dundee.ac.uk/
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
 - [smahesh29/Gender-and-Age-Detection](https://github.com/smahesh29/Gender-and-Age-Detection) - A Python project which can detect gender and age using OpenCV of the person (face) in a picture or through webcam.
@@ -7776,6 +7782,7 @@
 
 ## Rust 
 
+- [ctbur/async](https://github.com/ctbur/async) - A tool to parallelize shell commands.
 - [heepster/time-butler](https://github.com/heepster/time-butler) - A CLI tool for easy datetime conversions
 - [bbqsrc/cucumber-rust](https://github.com/bbqsrc/cucumber-rust) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [badboy/mdbook-open-on-gh](https://github.com/badboy/mdbook-open-on-gh) - mdbook preprocessor to add a open-on-github link on every page
