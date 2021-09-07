@@ -1129,6 +1129,8 @@
 
 ## Dockerfile 
 
+- [atlassian/docker-chromium-xvfb](https://github.com/atlassian/docker-chromium-xvfb) - Docker image for running browser tests against headless Chromium
+- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
 - [jwigley/docker-smokeping-speedtest](https://github.com/jwigley/docker-smokeping-speedtest) - Docker image containing smokeping with speedtest-cli and smokeping-speedtest probe
 - [thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker) - Docker configuration to quickly setup your own Canarytokens.
 - [visibilityspots/dockerfile-cloudflared](https://github.com/visibilityspots/dockerfile-cloudflared) - run the cloudflared proxy-dns on port 54 using the DNS over HTTPS feature from cloudflare.
@@ -1340,6 +1342,8 @@
 
 ## Go 
 
+- [maxwo/snmp_notifier](https://github.com/maxwo/snmp_notifier) - A webhook to relay Prometheus alerts as SNMP traps, because sometimes, you have to deal with legacy
+- [tomtom-international/alertmanager-webhook-logger](https://github.com/tomtom-international/alertmanager-webhook-logger) - Generates (structured) log messages from Prometheus AlertManager webhook notifier.
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges.
 - [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
@@ -2564,7 +2568,7 @@
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [terra-farm/terraform-provider-xenorchestra](https://github.com/terra-farm/terraform-provider-xenorchestra) - Xen Orchestra provider for Terraform
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use server and proxy that allows to read, publish and proxy video and audio streams with RTSP, RTMP, HLS
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [aler9/rtsp-simple-proxy](https://github.com/aler9/rtsp-simple-proxy) - DEPRECATED - please use https://github.com/aler9/rtsp-simple-server
 - [shomali11/util](https://github.com/shomali11/util) - A collection of useful utility functions
 - [shomali11/parallelizer](https://github.com/shomali11/parallelizer) - Simplifies the parallelization of function calls.
@@ -2932,6 +2936,7 @@
 
 ## Java 
 
+- [nmonvisualizer/nmonvisualizer](https://github.com/nmonvisualizer/nmonvisualizer) - A Java GUI tool for analyzing NMON and other system stats files
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [mirsamantajbakhsh/OnionTunnel](https://github.com/mirsamantajbakhsh/OnionTunnel) - Onion Tunnel: Proxy Every Hidden Service on localhost
 - [spinnaker/kayenta](https://github.com/spinnaker/kayenta) - Automated Canary Service
@@ -3107,6 +3112,8 @@
 
 ## JavaScript 
 
+- [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
@@ -3543,7 +3550,7 @@
 - [taeukme/google-home-push](https://github.com/taeukme/google-home-push) - Send Push Notifications to your Google Home device
 - [danistefanovic/hooka](https://github.com/danistefanovic/hooka) - 😎 A webhook server with zero coding
 - [terafin/mqtt-rainforest-bridge](https://github.com/terafin/mqtt-rainforest-bridge) - Simple docker container that locally polls the rainforest energy bridge, and sends the results to an MQTT broker
-- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - •:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)
+- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - XgeneCloud is now https://github.com/nocodb/nocodb
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
@@ -4751,6 +4758,7 @@
 
 ## Others 
 
+- [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
 - [zimmertr/TKS-Bootstrap_Proxmox](https://github.com/zimmertr/TKS-Bootstrap_Proxmox) - 
 - [reald/sdr-collection](https://github.com/reald/sdr-collection) - SDR collection
 - [m6r3k/LimeSDR_GNURadio_FM_TX](https://github.com/m6r3k/LimeSDR_GNURadio_FM_TX) - Simple FM transmitter
@@ -5694,6 +5702,9 @@
 
 ## Python 
 
+- [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
+- [ClericPy/ichrome](https://github.com/ClericPy/ichrome) - Chrome controller for Humans, based on Chrome Devtools Protocol(CDP) and python3.7+.
+- [luiscarlosgph/dockerx](https://github.com/luiscarlosgph/dockerx) - Python script to launch a container with X11 graphics support.
 - [tzutalin/labelImg](https://github.com/tzutalin/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [famzah/mpssh-py](https://github.com/famzah/mpssh-py) - Mass Parallel Secure Shell command execution
 - [jmozmoz/cloudmap](https://github.com/jmozmoz/cloudmap) - Python script to create cloud map for xplanet using satellite images from http://www.sat.dundee.ac.uk/
@@ -5704,7 +5715,7 @@
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [ibmcb/cbtool](https://github.com/ibmcb/cbtool) - Cloud Rapid Experimentation and Analysis Toolkit
 - [mld-0/dtscan](https://github.com/mld-0/dtscan) - Python cli utility, identify/convert/analyse datetimes in text.
-- [yankeexe/timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI to store and glance date-time from multiple time zones.
+- [yankeexe/timezones-cli](https://github.com/yankeexe/timezones-cli) - Get local datetime from multiple timezones.
 - [bear/parsedatetime](https://github.com/bear/parsedatetime) - Parse human-readable date/time strings
 - [simonw/datasette-render-binary](https://github.com/simonw/datasette-render-binary) - Datasette plugin for rendering binary data
 - [devanshbatham/CertEagle](https://github.com/devanshbatham/CertEagle) - Weaponizing Live CT logs for automated monitoring of assets
@@ -6140,7 +6151,7 @@
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
 - [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
 - [neuml/paperai](https://github.com/neuml/paperai) - AI-powered literature discovery and review engine for medical/scientific papers
-- [neuml/txtai](https://github.com/neuml/txtai) - AI-powered search engine
+- [neuml/txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
@@ -7619,6 +7630,7 @@
 
 ## Ruby 
 
+- [stuartcryan/rapid-browser-tabs-for-alfred](https://github.com/stuartcryan/rapid-browser-tabs-for-alfred) - Rapid Browser Tabs Workflow for Alfred
 - [radar/humanize](https://github.com/radar/humanize) - Takes your numbers and makes them *fancy*.
 - [zhustec/jekyll-diagrams](https://github.com/zhustec/jekyll-diagrams) - A Jekyll plugin with support for Blockdiag, Erd, GraphViz, Mermaid, Nomnoml, PlantUML, Svgbob, Syntrax, Vega, Vega-Lite and WaveDrom.
 - [appswitch/examples](https://github.com/appswitch/examples) - Example usage scenarios for AppSwitch
@@ -8040,6 +8052,7 @@
 
 ## Shell 
 
+- [zobo/docker-nfsen](https://github.com/zobo/docker-nfsen) - NFSEN in Docker
 - [untitledgoos/big-sur-automator](https://github.com/untitledgoos/big-sur-automator) - BSA is a simple shell script that completely automates the process of making a macOS Big Sur USB Installer thats patched to work on a unsupported Mac.
 - [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav)
 - [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
@@ -9038,6 +9051,7 @@
 
 ## Swift 
 
+- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync compiled for macOS Big Sur
 - [lvsti/Cameo](https://github.com/lvsti/Cameo) - CMIO DAL plugin explorer
 - [nriley/Karabiner-Elements-App-Profiles](https://github.com/nriley/Karabiner-Elements-App-Profiles) - Workaround for lack of app-specific behavior in Karabiner-Elements
 - [yonaskolb/Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs executable Swift packages
