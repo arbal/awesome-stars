@@ -180,6 +180,8 @@
 
 ## C 
 
+- [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
+- [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
 - [iscsi-osx/iSCSIInitiator](https://github.com/iscsi-osx/iSCSIInitiator) - iSCSI Initiator for macOS
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
 - [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
@@ -747,6 +749,7 @@
 
 ## C++ 
 
+- [AmokHuginnsson/replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
 - [webcamoid/akvirtualcamera](https://github.com/webcamoid/akvirtualcamera) - akvirtualcamera, virtual camera for Mac and Windows
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -1342,6 +1345,13 @@
 
 ## Go 
 
+- [flaviostutz/perfstat](https://github.com/flaviostutz/perfstat) - Analyze and show tips about possible bottlenecks in Linux systems regarding to diskio, networking, cpu, swapping, memory etc
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
+- [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
+- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
+- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [maxwo/snmp_notifier](https://github.com/maxwo/snmp_notifier) - A webhook to relay Prometheus alerts as SNMP traps, because sometimes, you have to deal with legacy
 - [tomtom-international/alertmanager-webhook-logger](https://github.com/tomtom-international/alertmanager-webhook-logger) - Generates (structured) log messages from Prometheus AlertManager webhook notifier.
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
@@ -2634,7 +2644,7 @@
 - [edgard/iperf3_exporter](https://github.com/edgard/iperf3_exporter) - Simple server that probes iPerf3 endpoints and exports results via HTTP for Prometheus consumption
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, vSphere, MetalStack, and Kubevirt with minimal TCO.
+- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
@@ -3112,6 +3122,20 @@
 
 ## JavaScript 
 
+- [balenablocks/balena-node-red](https://github.com/balenablocks/balena-node-red) - a node-red application with balena-supervisor support, can be managed remotely via balena publicURL
+- [mohnish/rearrange-tabs](https://github.com/mohnish/rearrange-tabs) - Google Chrome Extension to rearrange your tabs using customizable keyboard shortcuts
+- [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
+- [zhuyingda/webster](https://github.com/zhuyingda/webster) - a reliable high-level web crawling & scraping framework for Node.js.
+- [cheeaun/puppetron](https://github.com/cheeaun/puppetron) - Puppeteer (Headless Chrome Node API)-based rendering solution.
+- [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
+- [bahmutov/term-to-html](https://github.com/bahmutov/term-to-html) - Stream terminal output with ansi codes into nicely formatted HTML
+- [chalk/strip-ansi-stream](https://github.com/chalk/strip-ansi-stream) - Strip ANSI escape codes
+- [jaywcjlove/colors-cli](https://github.com/jaywcjlove/colors-cli) - ಠ_ಠ  Terminal string styling done right.
+- [wooorm/emphasize](https://github.com/wooorm/emphasize) - ANSI syntax highlighting for the terminal
+- [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into in-browser HTML
+- [xpl/ololog](https://github.com/xpl/ololog) - A better console.log for the log-driven debugging junkies
+- [doowb/ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal. ansi-colors is the official ansi styling library for gulp, and is used by hundreds of other projects, including mocha and enquirer.
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - Easily set the color and style of text in the terminal.
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
@@ -3456,7 +3480,7 @@
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
@@ -3735,7 +3759,7 @@
 - [grafana-wizzy/wizzy](https://github.com/grafana-wizzy/wizzy) - Manage & automate Grafana with easy wizzy
 - [epilande/alfred-be-quiet](https://github.com/epilande/alfred-be-quiet) - 🤫 Workflow to automatically pause audio/video playing
 - [phoqe/havelock](https://github.com/phoqe/havelock) - Extract accounts, cookies, and history from Chromium-based web browsers.
-- [epilande/alfred-browser-tabs](https://github.com/epilande/alfred-browser-tabs) - 🔍 Search browser tabs from Chrome, Brave, & Safari
+- [epilande/alfred-browser-tabs](https://github.com/epilande/alfred-browser-tabs) - 🔍 Search browser tabs from Chrome, Brave, Safari, etc..
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [jc21/docker-registry-ui](https://github.com/jc21/docker-registry-ui) - 😎 A nice web interface for managing your Docker Registry images
@@ -4674,6 +4698,7 @@
 
 ## Objective-C 
 
+- [ansilove/Ascension](https://github.com/ansilove/Ascension) - ANSI/ASCII art viewer for Mac OS X
 - [nriley/SoundSource](https://github.com/nriley/SoundSource) - Rogue Amoeba’s SoundSource 2.5, with added command line tool for switching audio devices and setting volume.
 - [nriley/appswitch](https://github.com/nriley/appswitch) - Switch, hide, show, quit, kill or list macOS applications from the command line or scripts.
 - [lindegroup/autopkgr](https://github.com/lindegroup/autopkgr) - AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg.
@@ -4758,6 +4783,7 @@
 
 ## Others 
 
+- [sickcodes/no-sandbox](https://github.com/sickcodes/no-sandbox) - No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
 - [zimmertr/TKS-Bootstrap_Proxmox](https://github.com/zimmertr/TKS-Bootstrap_Proxmox) - 
 - [reald/sdr-collection](https://github.com/reald/sdr-collection) - SDR collection
@@ -5176,7 +5202,7 @@
 - [miles969/systemd-automount-template](https://github.com/miles969/systemd-automount-template) - These 2 templates can be used to automount network filesystems without editing fstab. It uses systemd's automount function to monitor access requests to local mountpoints and mount the corrosponding network filesystem on the fly
 - [asmirnou/frigate](https://github.com/asmirnou/frigate) - Realtime object detection on RTSP cameras with the Google Coral
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
-- [ymkl/project-jaguar](https://github.com/ymkl/project-jaguar) - A gorgeous home monitoring using various cool techs
+- [hakkutu-za/project-jaguar](https://github.com/hakkutu-za/project-jaguar) - A gorgeous home monitoring using various cool techs
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [maxyermayank/vault-examples](https://github.com/maxyermayank/vault-examples) - vault-consul-swarm-cluster
 - [jackchuka/alfred-workflow-bookmarks](https://github.com/jackchuka/alfred-workflow-bookmarks) - Alfred workflow for universal bookmark manager
@@ -5702,6 +5728,11 @@
 
 ## Python 
 
+- [chazkii/chromewhip](https://github.com/chazkii/chromewhip) - Scriptable Google Chrome™ as a HTTP service + asyncio driver
+- [byt3bl33d3r/WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
+- [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
+- [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
+- [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [ClericPy/ichrome](https://github.com/ClericPy/ichrome) - Chrome controller for Humans, based on Chrome Devtools Protocol(CDP) and python3.7+.
 - [luiscarlosgph/dockerx](https://github.com/luiscarlosgph/dockerx) - Python script to launch a container with X11 graphics support.
@@ -7630,6 +7661,7 @@
 
 ## Ruby 
 
+- [janlelis/paint](https://github.com/janlelis/paint) - Ruby gem for ANSI terminal colors 🎨︎ VERY FAST
 - [stuartcryan/rapid-browser-tabs-for-alfred](https://github.com/stuartcryan/rapid-browser-tabs-for-alfred) - Rapid Browser Tabs Workflow for Alfred
 - [radar/humanize](https://github.com/radar/humanize) - Takes your numbers and makes them *fancy*.
 - [zhustec/jekyll-diagrams](https://github.com/zhustec/jekyll-diagrams) - A Jekyll plugin with support for Blockdiag, Erd, GraphViz, Mermaid, Nomnoml, PlantUML, Svgbob, Syntrax, Vega, Vega-Lite and WaveDrom.
@@ -7763,7 +7795,7 @@
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [bernd/fpm-cookery](https://github.com/bernd/fpm-cookery) - A tool for building software packages with fpm.
 - [telcat/vagrant-proxmox](https://github.com/telcat/vagrant-proxmox) - Use Vagrant to manage Proxmox virtual machines
-- [puppetlabs/razor-server](https://github.com/puppetlabs/razor-server) - Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning
+- [puppetlabs-toy-chest/razor-server](https://github.com/puppetlabs-toy-chest/razor-server) - Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning
 - [chrishunt/github-auth](https://github.com/chrishunt/github-auth) - SSH key management for GitHub users
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [Homebrew/homebrew-autoupdate](https://github.com/Homebrew/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
@@ -8052,6 +8084,10 @@
 
 ## Shell 
 
+- [DazzyWalkman/lxd-openwrt-simplified](https://github.com/DazzyWalkman/lxd-openwrt-simplified) - A simplified version of lxd-openwrt
+- [cvmiller/openwrt-lxd](https://github.com/cvmiller/openwrt-lxd) - Directions and script for running OpenWrt on LXD
+- [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
+- [vegardit/bash-funk](https://github.com/vegardit/bash-funk) - bash-funk is a collection of useful commands for Bash 3.2 or higher.
 - [zobo/docker-nfsen](https://github.com/zobo/docker-nfsen) - NFSEN in Docker
 - [untitledgoos/big-sur-automator](https://github.com/untitledgoos/big-sur-automator) - BSA is a simple shell script that completely automates the process of making a macOS Big Sur USB Installer thats patched to work on a unsupported Mac.
 - [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav)
@@ -9209,6 +9245,9 @@
 
 ## TypeScript 
 
+- [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
+- [iliazeus/vscode-ansi](https://github.com/iliazeus/vscode-ansi) - VS Code extension enabling ANSI color styling for text documents
+- [marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist) - A tiny utility to colorize stdin/stdout
 - [vega/vega-render-service](https://github.com/vega/vega-render-service) - A service to render Vega visualizations
 - [eram/tensorflow-stack-ts](https://github.com/eram/tensorflow-stack-ts) - TensorFlow.js Full-Stack Starter Kit
 - [RandomFractals/vscode-vega-viewer](https://github.com/RandomFractals/vscode-vega-viewer) - VSCode extension for Interactive Preview of Vega & Vega-Lite maps 🗺️ & graphs  📈
