@@ -180,6 +180,9 @@
 
 ## C 
 
+- [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
+- [neural75/gqrx-scanner](https://github.com/neural75/gqrx-scanner) - A frequency scanner for Gqrx Software Defined Radio receiver
+- [apache/hawq](https://github.com/apache/hawq) - Apache HAWQ
 - [henrypp/chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.
 - [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
 - [iscsi-osx/iSCSIInitiator](https://github.com/iscsi-osx/iSCSIInitiator) - iSCSI Initiator for macOS
@@ -749,6 +752,8 @@
 
 ## C++ 
 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [AmokHuginnsson/replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
 - [webcamoid/akvirtualcamera](https://github.com/webcamoid/akvirtualcamera) - akvirtualcamera, virtual camera for Mac and Windows
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
@@ -1345,6 +1350,8 @@
 
 ## Go 
 
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
+- [cfunkhouser/kasa](https://github.com/cfunkhouser/kasa) - Library and CLI utility for interacting with tp-link Kasa devices on the local network
 - [flaviostutz/perfstat](https://github.com/flaviostutz/perfstat) - Analyze and show tips about possible bottlenecks in Linux systems regarding to diskio, networking, cpu, swapping, memory etc
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -3122,12 +3129,17 @@
 
 ## JavaScript 
 
+- [thetacom/signalserver_gui](https://github.com/thetacom/signalserver_gui) - Signal Server GUI is designed as a companion to Signal Server. Signal Server GUI provides a simple and intuitive interface to manage the many configuration options available within Signal Server.
+- [terkelg/sisteransi](https://github.com/terkelg/sisteransi) - ANSI escape codes for some terminal swag.
+- [synclounge/synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
+- [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
+- [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
+- [sindresorhus/active-win](https://github.com/sindresorhus/active-win) - Get metadata about the active window (title, id, bounds, owner, etc)
 - [balenablocks/balena-node-red](https://github.com/balenablocks/balena-node-red) - a node-red application with balena-supervisor support, can be managed remotely via balena publicURL
 - [mohnish/rearrange-tabs](https://github.com/mohnish/rearrange-tabs) - Google Chrome Extension to rearrange your tabs using customizable keyboard shortcuts
 - [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
 - [zhuyingda/webster](https://github.com/zhuyingda/webster) - a reliable high-level web crawling & scraping framework for Node.js.
 - [cheeaun/puppetron](https://github.com/cheeaun/puppetron) - Puppeteer (Headless Chrome Node API)-based rendering solution.
-- [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 - [bahmutov/term-to-html](https://github.com/bahmutov/term-to-html) - Stream terminal output with ansi codes into nicely formatted HTML
 - [chalk/strip-ansi-stream](https://github.com/chalk/strip-ansi-stream) - Strip ANSI escape codes
 - [jaywcjlove/colors-cli](https://github.com/jaywcjlove/colors-cli) - ಠ_ಠ  Terminal string styling done right.
@@ -4392,7 +4404,6 @@
 ## Jinja 
 
 - [forem/selfhost](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure 🎉
-- [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for most of my services.
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
@@ -4815,7 +4826,6 @@
 - [arbal/gh-latest](https://github.com/arbal/gh-latest) - Simple utility to get the latest release version from GitHub repository
 - [zacharywhitley/awesome-ocr](https://github.com/zacharywhitley/awesome-ocr) - 
 - [tstanislawek/awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) - A curated list of resources for Document Understanding (DU) topic
-- [judge2020/Actual-Domain-Prices](https://github.com/judge2020/Actual-Domain-Prices) - The real cost of each TLD (top-level-domain). Find out how much your registrar marks up your domain prices.
 - [abhi18av/awesome-pdf](https://github.com/abhi18av/awesome-pdf) - List of tools for dealing with the wonderful PDF format.
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
 - [Slocan/weatherDashboard](https://github.com/Slocan/weatherDashboard) - Code repository for custom weather dashboard in Grafana, using data from a Ecowitt GW1000 gateway
@@ -5293,7 +5303,7 @@
 - [horjulf/docker-certbot_cloudflare](https://github.com/horjulf/docker-certbot_cloudflare) - Docker image providing certbot with Cloudflare plugin
 - [michaelpporter/ansible-role-certbot-cloudflare](https://github.com/michaelpporter/ansible-role-certbot-cloudflare) - Ansible Role for setting up Wildcard certs with certbot and Cloudflare dns plugin
 - [shirosaidev/diskover-web](https://github.com/shirosaidev/diskover-web) - Web file manager, disk space usage, storage search engine and file system analytics for diskover
-- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 75+ open-source web apps with one Docker command
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 80+ open-source web apps with one Docker command
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [mikrotik-ansible/mikrotik-firewall](https://github.com/mikrotik-ansible/mikrotik-firewall) - 
 - [Madnessy/ansible-mikrotik](https://github.com/Madnessy/ansible-mikrotik) - Manage mikrotik devices
@@ -5728,6 +5738,10 @@
 
 ## Python 
 
+- [0xCoto/Virgo](https://github.com/0xCoto/Virgo) - 📡 Virgo: A Versatile Spectrometer for Radio Astronomy
+- [shajen/rtl-sdr-scanner](https://github.com/shajen/rtl-sdr-scanner) - Automatically scan and record selected frequencies ranges using rtl-sdr.
+- [FortyNorthSecurity/EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [chazkii/chromewhip](https://github.com/chazkii/chromewhip) - Scriptable Google Chrome™ as a HTTP service + asyncio driver
 - [byt3bl33d3r/WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
@@ -7661,6 +7675,7 @@
 
 ## Ruby 
 
+- [tresacton/dspectrum](https://github.com/tresacton/dspectrum) - Automated RF/SDR Signal Analysis [Reverse Engineering]
 - [janlelis/paint](https://github.com/janlelis/paint) - Ruby gem for ANSI terminal colors 🎨︎ VERY FAST
 - [stuartcryan/rapid-browser-tabs-for-alfred](https://github.com/stuartcryan/rapid-browser-tabs-for-alfred) - Rapid Browser Tabs Workflow for Alfred
 - [radar/humanize](https://github.com/radar/humanize) - Takes your numbers and makes them *fancy*.
@@ -8084,6 +8099,7 @@
 
 ## Shell 
 
+- [dkorzhevin/lastpasslinux](https://github.com/dkorzhevin/lastpasslinux) - LastPass Universal Linux Installer
 - [DazzyWalkman/lxd-openwrt-simplified](https://github.com/DazzyWalkman/lxd-openwrt-simplified) - A simplified version of lxd-openwrt
 - [cvmiller/openwrt-lxd](https://github.com/cvmiller/openwrt-lxd) - Directions and script for running OpenWrt on LXD
 - [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
@@ -9245,6 +9261,8 @@
 
 ## TypeScript 
 
+- [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
+- [agektmr/ProjectTabManager](https://github.com/agektmr/ProjectTabManager) - Have too many tabs opened on Chrome? This extension helps you organize your tabs on windows per projects.
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
 - [iliazeus/vscode-ansi](https://github.com/iliazeus/vscode-ansi) - VS Code extension enabling ANSI color styling for text documents
 - [marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist) - A tiny utility to colorize stdin/stdout
@@ -9400,7 +9418,7 @@
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytical API Platform
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
-- [snyk/snyk](https://github.com/snyk/snyk) - Scans and monitors your projects for security vulnerabilities.
+- [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
@@ -9692,6 +9710,7 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
 - [dernasherbrezon/r2cloud-ui](https://github.com/dernasherbrezon/r2cloud-ui) - Web UI for r2cloud (https://github.com/dernasherbrezon/r2cloud)
 - [jeliasson/dns-propagation-checker](https://github.com/jeliasson/dns-propagation-checker) - Check propagation of DNS records from one or many Name Servers. Useful for validating a DNS zone during migration.
 - [robertsLando/Mqtt2Mqtt](https://github.com/robertsLando/Mqtt2Mqtt) - Customize MQTT messages between two brokers
@@ -9735,6 +9754,7 @@
 ## YAML 
 
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
+- [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for most of my services.
 
 ## sed 
 
