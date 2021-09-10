@@ -164,6 +164,7 @@
 
 ## Batchfile 
 
+- [creinemann/goestools-with-Fire-Data-Layer](https://github.com/creinemann/goestools-with-Fire-Data-Layer) - These scripts allows goestools to use the built in map handlers to apply fire data from FIRMS
 - [mave007/dns_completitude_and_compliance](https://github.com/mave007/dns_completitude_and_compliance) - DNS Completitude and Compliance utility to check if a DNS server is answering with the same output as a target server.
 - [tindy2013/stairspeedtest](https://github.com/tindy2013/stairspeedtest) - A small script that can test the stairs' download speed, packet loss and latency. Supports single ss/ssr/v2ray links and their subscribe links.
 - [aetonsi/rclapper](https://github.com/aetonsi/rclapper) - rclapper - rclone wrapper for continuous syncing to multiple remotes.
@@ -180,6 +181,11 @@
 
 ## C 
 
+- [abstrakraft/lxc-android-lxc](https://github.com/abstrakraft/lxc-android-lxc) - 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A custom macOS statusbar with shell plugin, interaction and graph support
+- [discoteq/flock](https://github.com/discoteq/flock) - flock(1) locks files
+- [projecthorus/radiosonde_auto_rx](https://github.com/projecthorus/radiosonde_auto_rx) - Automatically Track Radiosonde Launches using RTLSDR
+- [OpenATS/OpenATS](https://github.com/OpenATS/OpenATS) - Open Auto Tracking System for satellite tracking or target tracking.
 - [cariboulabs/cariboulite](https://github.com/cariboulabs/cariboulite) - CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR
 - [neural75/gqrx-scanner](https://github.com/neural75/gqrx-scanner) - A frequency scanner for Gqrx Software Defined Radio receiver
 - [apache/hawq](https://github.com/apache/hawq) - Apache HAWQ
@@ -752,6 +758,9 @@
 
 ## C++ 
 
+- [skysafe/gr-sigmf](https://github.com/skysafe/gr-sigmf) - GNURadio blocks to read, write, and modify SigMF datasets
+- [jocover/OpenUSRP](https://github.com/jocover/OpenUSRP) - using LimeSDR to simulate USRP B210
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when screen recording.
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [AmokHuginnsson/replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
@@ -1130,6 +1139,7 @@
 
 ## Dart 
 
+- [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [photoprism/photoprism-mobile](https://github.com/photoprism/photoprism-mobile) - PhotoPrism Mobile App
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 - [CometTools/LunaSea](https://github.com/CometTools/LunaSea) - A self-hosted controller for mobile and macOS built using the Flutter framework.
@@ -1350,6 +1360,15 @@
 
 ## Go 
 
+- [jwkohnen/conntrack-stats-exporter](https://github.com/jwkohnen/conntrack-stats-exporter) - Netfilter Conntrack Stats Exporter
+- [greenpau/ovs_exporter](https://github.com/greenpau/ovs_exporter) - Prometheus Exporter for Open Virtual Switch (OVS)
+- [tynany/exporter_aggregator](https://github.com/tynany/exporter_aggregator) - Prometheus Exporter That Aggregates Metrics from Other Exporter Endpoints
+- [kfdm/promql-guard](https://github.com/kfdm/promql-guard) - 
+- [VirusTotal/vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
+- [mholt/photobak](https://github.com/mholt/photobak) - Back up your content from Google Photos - DEPRECATED: use Timeliner
+- [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
+- [knipferrc/fm](https://github.com/knipferrc/fm) - A terminal based file manager
+- [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
 - [cfunkhouser/kasa](https://github.com/cfunkhouser/kasa) - Library and CLI utility for interacting with tp-link Kasa devices on the local network
 - [flaviostutz/perfstat](https://github.com/flaviostutz/perfstat) - Analyze and show tips about possible bottlenecks in Linux systems regarding to diskio, networking, cpu, swapping, memory etc
@@ -1873,7 +1892,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-- [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [submariner-io/lighthouse](https://github.com/submariner-io/lighthouse) - Controller to facilitate DNS discovery between clusters
 - [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
@@ -2792,6 +2811,8 @@
 
 ## HTML 
 
+- [node-red/node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
+- [MycroftAI/mycroft-skills](https://github.com/MycroftAI/mycroft-skills) - A repository for sharing and collaboration for third-party Mycroft skills development.
 - [gramener/visual-vocabulary-vega](https://github.com/gramener/visual-vocabulary-vega) - Visual Vocabulary with Vega
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [jgamblin/NMapNetworkInventoryContainer](https://github.com/jgamblin/NMapNetworkInventoryContainer) - A Docker Container To Continually Scan Your Network And Display Findings Cleanly.
@@ -2813,7 +2834,7 @@
 - [ssg/yubitell](https://github.com/ssg/yubitell) - Silently extract a YubiKey serial number
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [NikolaiT/GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
-- [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
+- [openware/opendax-oss](https://github.com/openware/opendax-oss) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [katalon-studio/katalon-recorder-samples](https://github.com/katalon-studio/katalon-recorder-samples) - Samples for Katalon Recorder
@@ -2884,6 +2905,7 @@
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [darrow/balena-piaware](https://github.com/darrow/balena-piaware) - 
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [hassio-addons/addon-zwave2mqtt](https://github.com/hassio-addons/addon-zwave2mqtt) - Z-Wave to MQTT - Home Assistant Community Add-ons
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
@@ -2953,6 +2975,7 @@
 
 ## Java 
 
+- [apache/guacamole-client](https://github.com/apache/guacamole-client) - Mirror of Apache Guacamole Client
 - [nmonvisualizer/nmonvisualizer](https://github.com/nmonvisualizer/nmonvisualizer) - A Java GUI tool for analyzing NMON and other system stats files
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [mirsamantajbakhsh/OnionTunnel](https://github.com/mirsamantajbakhsh/OnionTunnel) - Onion Tunnel: Proxy Every Hidden Service on localhost
@@ -3129,6 +3152,17 @@
 
 ## JavaScript 
 
+- [wonderbeyond/HitUP](https://github.com/wonderbeyond/HitUP) - Find top things in New Tab, including GitHub Trending Repositories.
+- [uglow/active-win-log](https://github.com/uglow/active-win-log) - Log your active window usage
+- [kiwibrowser/sync](https://github.com/kiwibrowser/sync) - Open-source Chrome Extension for Bookmarks and Profile sync
+- [Justineo/coplay](https://github.com/Justineo/coplay) - Synchronizing video play between two peers.
+- [gkoberger/stacksort](https://github.com/gkoberger/stacksort) - Sorts an array by downloading snippets from StackOverflow. Inspired by http://xkcd.com/1185/. I'm sorry.
+- [vadimpronin/guacamole-lite](https://github.com/vadimpronin/guacamole-lite) - NodeJS replacement for guacamole-client (server-side Java servlet). Guacamole is a RDP/VNC client for HTML5 browsers.
+- [google/blockly-samples](https://github.com/google/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
+- [jmoenig/Snap](https://github.com/jmoenig/Snap) - a visual programming language inspired by Scratch
+- [dh1tw/remoteRotator](https://github.com/dh1tw/remoteRotator) - remoteRotator lets you expose a local antenna rotator (azimuth / elevation) to the network
+- [GlobalNOC/globalnoc-networkmap-panel](https://github.com/GlobalNOC/globalnoc-networkmap-panel) - A network map panel for Grafana
+- [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [thetacom/signalserver_gui](https://github.com/thetacom/signalserver_gui) - Signal Server GUI is designed as a companion to Signal Server. Signal Server GUI provides a simple and intuitive interface to manage the many configuration options available within Signal Server.
 - [terkelg/sisteransi](https://github.com/terkelg/sisteransi) - ANSI escape codes for some terminal swag.
 - [synclounge/synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
@@ -4577,7 +4611,7 @@
 ## Kotlin 
 
 - [dotStart/Beacon](https://github.com/dotStart/Beacon) - A simple UPnP Assistant that is capable of opening arbitrary ports.
-- [ingbyr/VDM](https://github.com/ingbyr/VDM) - GUI for command-line video downloader (youtube-dl annie)
+- [ingbyr/vdm](https://github.com/ingbyr/vdm) - GUI for command-line video downloader (youtube-dl annie)
 - [serebit/wraith-master](https://github.com/serebit/wraith-master) - A native Linux RGB control application for the AMD Wraith Prism (GitLab Mirror)
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android inspired by Gpredict
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
@@ -4594,6 +4628,7 @@
 
 ## Lua 
 
+- [CommandPost/CommandPost](https://github.com/CommandPost/CommandPost) - Workflow Enhancements for Creatives
 - [ntop/nProbe](https://github.com/ntop/nProbe) - Open source components and extensions for nProbe
 - [fullmetalsheep/mpv-iina-scripts](https://github.com/fullmetalsheep/mpv-iina-scripts) - Some scripts I made / forked to make life easier for mpv and iina (mpv fork for OSX)
 - [jschornick/openwrt_exporter](https://github.com/jschornick/openwrt_exporter) - OpenWrt metrics exporter for Prometheus written in Lua
@@ -4631,6 +4666,7 @@
 
 ## MATLAB 
 
+- [metinaktas/Acoustic-direction-finding-using-single-acoustic-vector-sensor-under-high-reverberation](https://github.com/metinaktas/Acoustic-direction-finding-using-single-acoustic-vector-sensor-under-high-reverberation) - We propose a novel and robust method for acoustic direction finding, which is solely based on acoustic pressure and pressure gradient measurements from single Acoustic Vector Sensor (AVS). We do not make any stochastic and sparseness assumptions regarding the signal source and the environmental characteristics. Hence, our method can be applied to a wide range of wideband acoustic signals including the speech and noise-like signals in various environments. Our method identifies the “clean” time frequency bins that are not distorted by multipath signals and noise, and estimates the 2D-DOA angles at only those identified bins. Moreover, the identification of the clean bins and the corresponding DOA estimation are performed jointly in one framework in a computationally highly efficient manner. We mathematically and experimentally show that the false detection rate of the proposed method is zero, i.e., none of the time-frequency bins with multiple sources are wrongly labeled as single-source, when the source directions do not coincide. Therefore, our method is significantly more reliable and robust compared to the competing state-of-the-art methods that perform the time-frequency bin selection and the DOA estimation separately. The proposed method, for performed simulations, estimates the source direction with high accuracy (less than 1 degree error) even under significantly high reverberation conditions.
 - [jmfriedt/passive_radar](https://github.com/jmfriedt/passive_radar) - Passive radar measurements using synchronized RTL-SDR DVB-T receivers
 - [aicip/GCNMF-s2k](https://github.com/aicip/GCNMF-s2k) - Load disaggregation using group constrained non-negative matrix factorization with sum-to-k constraint (GCNMF-s2k)
 
@@ -4709,6 +4745,9 @@
 
 ## Objective-C 
 
+- [monal-im/Monal](https://github.com/monal-im/Monal) - Free Jabber/XMPP client for iOS and macOS
+- [fcanas/mirror-displays](https://github.com/fcanas/mirror-displays) - A Mac app and command-line tool for fiddling with display mirroring: on/off/toggle
+- [IGRSoft/KisMac2](https://github.com/IGRSoft/KisMac2) - KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
 - [ansilove/Ascension](https://github.com/ansilove/Ascension) - ANSI/ASCII art viewer for Mac OS X
 - [nriley/SoundSource](https://github.com/nriley/SoundSource) - Rogue Amoeba’s SoundSource 2.5, with added command line tool for switching audio devices and setting volume.
 - [nriley/appswitch](https://github.com/nriley/appswitch) - Switch, hide, show, quit, kill or list macOS applications from the command line or scripts.
@@ -4794,6 +4833,10 @@
 
 ## Others 
 
+- [antifuchs/smartctl_exporter](https://github.com/antifuchs/smartctl_exporter) - Export smartctl statistics to prometheus
+- [Expaso/hassos-addons](https://github.com/Expaso/hassos-addons) - Home Assistant Add-ons
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+- [mossmann/pseudo-doppler](https://github.com/mossmann/pseudo-doppler) - experiments in SDR-based pseudo-doppler direction finding
 - [sickcodes/no-sandbox](https://github.com/sickcodes/no-sandbox) - No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
 - [zimmertr/TKS-Bootstrap_Proxmox](https://github.com/zimmertr/TKS-Bootstrap_Proxmox) - 
@@ -5490,6 +5533,7 @@
 
 ## PHP 
 
+- [magicbug/Cloudlog](https://github.com/magicbug/Cloudlog) - Web based amateur radio logging application built using PHP & MySQL supports general station logging tasks from HF to Microwave with supporting applications to support CAT control.
 - [Kallys/MediaDownloader](https://github.com/Kallys/MediaDownloader) - A WebUI for youtube-dl, implementing management for background downloads (queuing, concurrency...)
 - [cloudharmony/dns-propagation](https://github.com/cloudharmony/dns-propagation) - DNS Propagation Benchmark
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
@@ -5738,6 +5782,15 @@
 
 ## Python 
 
+- [Showmax/prometheus-ethtool-exporter](https://github.com/Showmax/prometheus-ethtool-exporter) - A python script that pulls information from ethtool and publishes it in prometheus format.
+- [fhemberger/mqtt_exporter](https://github.com/fhemberger/mqtt_exporter) - General purpose Prometheus exporter for MQTT
+- [celliott/weather_exporter](https://github.com/celliott/weather_exporter) - A prometheus exporter that scrapes dark sky api for current weather for a set of cities'
+- [gnuradio/SigMF](https://github.com/gnuradio/SigMF) - The Signal Metadata Format Specification
+- [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+- [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+- [uqfoundation/pathos](https://github.com/uqfoundation/pathos) - parallel graph management and execution in heterogeneous computing
+- [harschht/The-Seer](https://github.com/harschht/The-Seer) - The Seer incorporates machine learning, radio frequency communication, and signal processing to estimate the direction-of-arrival of an incoming low-band 5G signal.
+- [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [0xCoto/Virgo](https://github.com/0xCoto/Virgo) - 📡 Virgo: A Versatile Spectrometer for Radio Astronomy
 - [shajen/rtl-sdr-scanner](https://github.com/shajen/rtl-sdr-scanner) - Automatically scan and record selected frequencies ranges using rtl-sdr.
 - [FortyNorthSecurity/EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
@@ -7244,7 +7297,6 @@
 - [NLPatVCU/PaperScraper](https://github.com/NLPatVCU/PaperScraper) - A web scraping tool to systematically extract the text of scientific papers and corresponding metadata from university accessible journals.
 - [home-assistant/supervisor](https://github.com/home-assistant/supervisor) - :house_with_garden: Home Assistant Supervisor
 - [KeyWeeUsr/OnionProxy](https://github.com/KeyWeeUsr/OnionProxy) - :whale2: :satellite: Create Containerized Clearnet Proxies
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework
 - [birlorg/bitwarden-cli](https://github.com/birlorg/bitwarden-cli) - Cross Platform Bitwarden library and CLI with sudolikeaboss functionality.
 - [davidswelt/zot_bib_web](https://github.com/davidswelt/zot_bib_web) - Create interactive web bibliographies based on Zotero collections
 - [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
@@ -8099,6 +8151,8 @@
 
 ## Shell 
 
+- [joecupano/SIGbox](https://github.com/joecupano/SIGbox) - A SIGINT Go-kit of sorts
+- [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [dkorzhevin/lastpasslinux](https://github.com/dkorzhevin/lastpasslinux) - LastPass Universal Linux Installer
 - [DazzyWalkman/lxd-openwrt-simplified](https://github.com/DazzyWalkman/lxd-openwrt-simplified) - A simplified version of lxd-openwrt
 - [cvmiller/openwrt-lxd](https://github.com/cvmiller/openwrt-lxd) - Directions and script for running OpenWrt on LXD
@@ -9103,6 +9157,8 @@
 
 ## Swift 
 
+- [mapbox/mapbox-speech-swift](https://github.com/mapbox/mapbox-speech-swift) - Natural-sounding text-to-speech in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
+- [mapbox/mapbox-directions-swift](https://github.com/mapbox/mapbox-directions-swift) - Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, watchOS, and Linux
 - [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync compiled for macOS Big Sur
 - [lvsti/Cameo](https://github.com/lvsti/Cameo) - CMIO DAL plugin explorer
 - [nriley/Karabiner-Elements-App-Profiles](https://github.com/nriley/Karabiner-Elements-App-Profiles) - Workaround for lack of app-specific behavior in Karabiner-Elements
@@ -9261,6 +9317,8 @@
 
 ## TypeScript 
 
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+- [Blaarkies/ksp-visual-calculator](https://github.com/Blaarkies/ksp-visual-calculator) - Online tool for Kerbal Space Program that helps to determine what type of comms dishes a certain satellite requires.
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
 - [agektmr/ProjectTabManager](https://github.com/agektmr/ProjectTabManager) - Have too many tabs opened on Chrome? This extension helps you organize your tabs on windows per projects.
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
