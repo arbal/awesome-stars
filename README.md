@@ -181,6 +181,9 @@
 
 ## C 
 
+- [ozzmaker/BerryIMU](https://github.com/ozzmaker/BerryIMU) - Code related to BerryIMU
+- [hessu/aprsc](https://github.com/hessu/aprsc) - aprsc, a core APRS-IS server
+- [ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
 - [abstrakraft/lxc-android-lxc](https://github.com/abstrakraft/lxc-android-lxc) - 
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A custom macOS statusbar with shell plugin, interaction and graph support
 - [discoteq/flock](https://github.com/discoteq/flock) - flock(1) locks files
@@ -758,6 +761,7 @@
 
 ## C++ 
 
+- [mlaaks/coherent-rtlsdr](https://github.com/mlaaks/coherent-rtlsdr) - 
 - [skysafe/gr-sigmf](https://github.com/skysafe/gr-sigmf) - GNURadio blocks to read, write, and modify SigMF datasets
 - [jocover/OpenUSRP](https://github.com/jocover/OpenUSRP) - using LimeSDR to simulate USRP B210
 - [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when screen recording.
@@ -1054,6 +1058,7 @@
 
 ## CSS 
 
+- [t0xic0der/sysmon](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
 - [guillaumebriday/traefik-custom-error-pages](https://github.com/guillaumebriday/traefik-custom-error-pages) - Bunch of custom error pages for Traefik 2.x built with Jekyll
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
@@ -1147,6 +1152,7 @@
 
 ## Dockerfile 
 
+- [balena-io/open-balena-registry](https://github.com/balena-io/open-balena-registry) - Docker image storage backend for openBalena
 - [atlassian/docker-chromium-xvfb](https://github.com/atlassian/docker-chromium-xvfb) - Docker image for running browser tests against headless Chromium
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
 - [jwigley/docker-smokeping-speedtest](https://github.com/jwigley/docker-smokeping-speedtest) - Docker image containing smokeping with speedtest-cli and smokeping-speedtest probe
@@ -1360,6 +1366,8 @@
 
 ## Go 
 
+- [cceremuga/ionosphere](https://github.com/cceremuga/ionosphere) - The next-generation successor to PyPacket. An APRS Rx IGate / plugin framework for RTL-SDR devices.
+- [sodafoundation/api](https://github.com/sodafoundation/api) - SODA API is an open source implementation of SODA API Standards for Data and Storage Management.
 - [jwkohnen/conntrack-stats-exporter](https://github.com/jwkohnen/conntrack-stats-exporter) - Netfilter Conntrack Stats Exporter
 - [greenpau/ovs_exporter](https://github.com/greenpau/ovs_exporter) - Prometheus Exporter for Open Virtual Switch (OVS)
 - [tynany/exporter_aggregator](https://github.com/tynany/exporter_aggregator) - Prometheus Exporter That Aggregates Metrics from Other Exporter Endpoints
@@ -3152,6 +3160,9 @@
 
 ## JavaScript 
 
+- [balena-io-examples/balena-node-hello-world](https://github.com/balena-io-examples/balena-node-hello-world) - Run a simple express server with balena
+- [charliegerard/whereami.js](https://github.com/charliegerard/whereami.js) - Node.js module to predict indoor location using machine learning and WiFi information 📶
+- [Xpra-org/xpra-html5](https://github.com/Xpra-org/xpra-html5) - HTML5 client for Xpra
 - [wonderbeyond/HitUP](https://github.com/wonderbeyond/HitUP) - Find top things in New Tab, including GitHub Trending Repositories.
 - [uglow/active-win-log](https://github.com/uglow/active-win-log) - Log your active window usage
 - [kiwibrowser/sync](https://github.com/kiwibrowser/sync) - Open-source Chrome Extension for Bookmarks and Profile sync
@@ -4833,6 +4844,8 @@
 
 ## Others 
 
+- [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+- [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 - [antifuchs/smartctl_exporter](https://github.com/antifuchs/smartctl_exporter) - Export smartctl statistics to prometheus
 - [Expaso/hassos-addons](https://github.com/Expaso/hassos-addons) - Home Assistant Add-ons
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -6876,7 +6889,7 @@
 - [jantman/home-automation-configs](https://github.com/jantman/home-automation-configs) - home automation/security config/scripts/tooling - HomeAssistant, AppDaemon, ZoneMinder, etc.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [frappe/bench](https://github.com/frappe/bench) - CLI to manage Multi-tenant deployments for Frappe apps
-- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting) - Circadian Lighting custom component for Home Assistant
 - [thebino/rki_covid](https://github.com/thebino/rki_covid) - 🦠 Custom integration for Home Assistant to monitor covid numbers provided by Robert-Koch Institut
 - [dwighthubbard/python-dlipower](https://github.com/dwighthubbard/python-dlipower) - Python modules to manage Digital Loggers Web Power Switch
@@ -8151,6 +8164,9 @@
 
 ## Shell 
 
+- [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Install Tailscale on OpenWRT
+- [balena-io-playground/psu-notify](https://github.com/balena-io-playground/psu-notify) - Easily test Raspberry Pi power supplies
+- [balena-io-playground/balena-bridge](https://github.com/balena-io-playground/balena-bridge) - Resin.io device to bridging the wifi network to ethernet
 - [joecupano/SIGbox](https://github.com/joecupano/SIGbox) - A SIGINT Go-kit of sorts
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [dkorzhevin/lastpasslinux](https://github.com/dkorzhevin/lastpasslinux) - LastPass Universal Linux Installer
@@ -9317,6 +9333,7 @@
 
 ## TypeScript 
 
+- [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [Blaarkies/ksp-visual-calculator](https://github.com/Blaarkies/ksp-visual-calculator) - Online tool for Kerbal Space Program that helps to determine what type of comms dishes a certain satellite requires.
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
