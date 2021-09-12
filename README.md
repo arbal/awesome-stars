@@ -181,6 +181,7 @@
 
 ## C 
 
+- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [ozzmaker/BerryIMU](https://github.com/ozzmaker/BerryIMU) - Code related to BerryIMU
 - [hessu/aprsc](https://github.com/hessu/aprsc) - aprsc, a core APRS-IS server
 - [ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
@@ -761,6 +762,7 @@
 
 ## C++ 
 
+- [IBM/gWhisper](https://github.com/IBM/gWhisper) - A gRPC CLI featuring reflection and tab-completion
 - [mlaaks/coherent-rtlsdr](https://github.com/mlaaks/coherent-rtlsdr) - 
 - [skysafe/gr-sigmf](https://github.com/skysafe/gr-sigmf) - GNURadio blocks to read, write, and modify SigMF datasets
 - [jocover/OpenUSRP](https://github.com/jocover/OpenUSRP) - using LimeSDR to simulate USRP B210
@@ -1053,6 +1055,7 @@
 
 ## CMake 
 
+- [osh/gr-pcap](https://github.com/osh/gr-pcap) - 
 - [pothosware/PothosSDR](https://github.com/pothosware/PothosSDR) - Pothos SDR windows development environment
 - [stwunsch/gr-nacl](https://github.com/stwunsch/gr-nacl) - GNU Radio module for data encryption using NaCl library
 
@@ -1152,6 +1155,7 @@
 
 ## Dockerfile 
 
+- [kazazes/balena-tailscale](https://github.com/kazazes/balena-tailscale) - 
 - [balena-io/open-balena-registry](https://github.com/balena-io/open-balena-registry) - Docker image storage backend for openBalena
 - [atlassian/docker-chromium-xvfb](https://github.com/atlassian/docker-chromium-xvfb) - Docker image for running browser tests against headless Chromium
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
@@ -1366,6 +1370,14 @@
 
 ## Go 
 
+- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale
+- [morgangallant/ipn](https://github.com/morgangallant/ipn) - Automatic peer discovery within a @Tailscale network.
+- [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (comments and trailing commas)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [mark-ignacio/tailscale2cloudflare](https://github.com/mark-ignacio/tailscale2cloudflare) - Don't want to use MagicDNS? Put all of those DNS entries in Cloudflare instead.
+- [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) - A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
+- [kobolog/gorb](https://github.com/kobolog/gorb) - IPVS on steroids – REST API, heartbeats, service discovery and more
+- [hacdias/webdav](https://github.com/hacdias/webdav) - Simple Go WebDAV server.
 - [cceremuga/ionosphere](https://github.com/cceremuga/ionosphere) - The next-generation successor to PyPacket. An APRS Rx IGate / plugin framework for RTL-SDR devices.
 - [sodafoundation/api](https://github.com/sodafoundation/api) - SODA API is an open source implementation of SODA API Standards for Data and Storage Management.
 - [jwkohnen/conntrack-stats-exporter](https://github.com/jwkohnen/conntrack-stats-exporter) - Netfilter Conntrack Stats Exporter
@@ -3160,6 +3172,8 @@
 
 ## JavaScript 
 
+- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
+- [skydiver/btt-helper](https://github.com/skydiver/btt-helper) - Helpers to improve your BetterTouchTool presets"
 - [balena-io-examples/balena-node-hello-world](https://github.com/balena-io-examples/balena-node-hello-world) - Run a simple express server with balena
 - [charliegerard/whereami.js](https://github.com/charliegerard/whereami.js) - Node.js module to predict indoor location using machine learning and WiFi information 📶
 - [Xpra-org/xpra-html5](https://github.com/Xpra-org/xpra-html5) - HTML5 client for Xpra
@@ -4683,6 +4697,7 @@
 
 ## Makefile 
 
+- [nxhack/openwrt-node-packages](https://github.com/nxhack/openwrt-node-packages) - OpenWrt Project Node.js packages. v12.x LTS and v14.x LTS and v16.x Current
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 - [r-pufky/digikam](https://github.com/r-pufky/digikam) - Digikam docker build repository
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
@@ -4756,6 +4771,7 @@
 
 ## Objective-C 
 
+- [andrewchidden/btt-services](https://github.com/andrewchidden/btt-services) - Simple command-line utilities designed for BetterTouchTool presets.
 - [monal-im/Monal](https://github.com/monal-im/Monal) - Free Jabber/XMPP client for iOS and macOS
 - [fcanas/mirror-displays](https://github.com/fcanas/mirror-displays) - A Mac app and command-line tool for fiddling with display mirroring: on/off/toggle
 - [IGRSoft/KisMac2](https://github.com/IGRSoft/KisMac2) - KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
@@ -4844,6 +4860,7 @@
 
 ## Others 
 
+- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 - [antifuchs/smartctl_exporter](https://github.com/antifuchs/smartctl_exporter) - Export smartctl statistics to prometheus
@@ -5795,6 +5812,9 @@
 
 ## Python 
 
+- [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
+- [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
+- [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [Showmax/prometheus-ethtool-exporter](https://github.com/Showmax/prometheus-ethtool-exporter) - A python script that pulls information from ethtool and publishes it in prometheus format.
 - [fhemberger/mqtt_exporter](https://github.com/fhemberger/mqtt_exporter) - General purpose Prometheus exporter for MQTT
 - [celliott/weather_exporter](https://github.com/celliott/weather_exporter) - A prometheus exporter that scrapes dark sky api for current weather for a set of cities'
@@ -6560,7 +6580,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅📊 Automate Web Testing with Selenium, Python, and pytest. 🚀
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Automate Web Testing with Selenium, Python, and pytest. 🦄
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -6734,7 +6754,6 @@
 - [karlicoss/spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
 - [karlicoss/fbmessengerexport](https://github.com/karlicoss/fbmessengerexport) - Export/access you Messenger/Facebook chat messages
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
-- [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [menahishayan/HomeScript](https://github.com/menahishayan/HomeScript) - Python script for command line control of HomeBridge (HomeKit)
 - [mister-monster/YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot written in Python3 that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel.
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
@@ -7740,6 +7759,7 @@
 
 ## Ruby 
 
+- [grpc/homebrew-grpc](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
 - [tresacton/dspectrum](https://github.com/tresacton/dspectrum) - Automated RF/SDR Signal Analysis [Reverse Engineering]
 - [janlelis/paint](https://github.com/janlelis/paint) - Ruby gem for ANSI terminal colors 🎨︎ VERY FAST
 - [stuartcryan/rapid-browser-tabs-for-alfred](https://github.com/stuartcryan/rapid-browser-tabs-for-alfred) - Rapid Browser Tabs Workflow for Alfred
@@ -7906,6 +7926,7 @@
 
 ## Rust 
 
+- [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [ctbur/async](https://github.com/ctbur/async) - A tool to parallelize shell commands.
 - [heepster/time-butler](https://github.com/heepster/time-butler) - A CLI tool for easy datetime conversions
 - [bbqsrc/cucumber-rust](https://github.com/bbqsrc/cucumber-rust) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
@@ -7988,7 +8009,7 @@
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
-- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit written in Rust
+- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
@@ -8164,6 +8185,7 @@
 
 ## Shell 
 
+- [hslatman/tailscale-balena-rpi](https://github.com/hslatman/tailscale-balena-rpi) - Raspberry Pi 3 powered by Balena serving Tailscale mesh VPN node
 - [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Install Tailscale on OpenWRT
 - [balena-io-playground/psu-notify](https://github.com/balena-io-playground/psu-notify) - Easily test Raspberry Pi power supplies
 - [balena-io-playground/balena-bridge](https://github.com/balena-io-playground/balena-bridge) - Resin.io device to bridging the wifi network to ethernet
@@ -9173,6 +9195,7 @@
 
 ## Swift 
 
+- [njdehoog/Witness](https://github.com/njdehoog/Witness) - Monitor file system events using Swift
 - [mapbox/mapbox-speech-swift](https://github.com/mapbox/mapbox-speech-swift) - Natural-sounding text-to-speech in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
 - [mapbox/mapbox-directions-swift](https://github.com/mapbox/mapbox-directions-swift) - Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, watchOS, and Linux
 - [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync compiled for macOS Big Sur
@@ -9333,6 +9356,7 @@
 
 ## TypeScript 
 
+- [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [Blaarkies/ksp-visual-calculator](https://github.com/Blaarkies/ksp-visual-calculator) - Online tool for Kerbal Space Program that helps to determine what type of comms dishes a certain satellite requires.
