@@ -181,6 +181,7 @@
 
 ## C 
 
+- [osmocom/gr-fosphor](https://github.com/osmocom/gr-fosphor) - GNURadio block for spectrum visualization using GPU
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [ozzmaker/BerryIMU](https://github.com/ozzmaker/BerryIMU) - Code related to BerryIMU
 - [hessu/aprsc](https://github.com/hessu/aprsc) - aprsc, a core APRS-IS server
@@ -454,7 +455,6 @@
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) - User-mode networking for unprivileged network namespaces
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
-- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [flightaware/dump1090](https://github.com/flightaware/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [CAIDA/bgpstream](https://github.com/CAIDA/bgpstream) - BGP measurement analysis for the masses
@@ -762,6 +762,8 @@
 
 ## C++ 
 
+- [kit-cel/gr-radar](https://github.com/kit-cel/gr-radar) - GNU Radio Radar Toolbox
+- [pinkavaj/gr-scan](https://github.com/pinkavaj/gr-scan) - spectrum scanner based on SDR and gnuradio
 - [IBM/gWhisper](https://github.com/IBM/gWhisper) - A gRPC CLI featuring reflection and tab-completion
 - [mlaaks/coherent-rtlsdr](https://github.com/mlaaks/coherent-rtlsdr) - 
 - [skysafe/gr-sigmf](https://github.com/skysafe/gr-sigmf) - GNURadio blocks to read, write, and modify SigMF datasets
@@ -955,6 +957,7 @@
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [cosmoscout/cosmoscout-vr](https://github.com/cosmoscout/cosmoscout-vr) - :milky_way: A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
 - [BrewNinja/RadonEye-ESP32](https://github.com/BrewNinja/RadonEye-ESP32) - 
@@ -1055,6 +1058,7 @@
 
 ## CMake 
 
+- [daniestevez/gr-outernet](https://github.com/daniestevez/gr-outernet) - GNUradio OOT module for Outernet
 - [osh/gr-pcap](https://github.com/osh/gr-pcap) - 
 - [pothosware/PothosSDR](https://github.com/pothosware/PothosSDR) - Pothos SDR windows development environment
 - [stwunsch/gr-nacl](https://github.com/stwunsch/gr-nacl) - GNU Radio module for data encryption using NaCl library
@@ -1370,6 +1374,8 @@
 
 ## Go 
 
+- [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale
 - [morgangallant/ipn](https://github.com/morgangallant/ipn) - Automatic peer discovery within a @Tailscale network.
 - [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (comments and trailing commas)
@@ -1732,7 +1738,7 @@
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 - [nickysemenza/onhub-prometheus](https://github.com/nickysemenza/onhub-prometheus) - Expose onhub wifi metrics to prometheus
 - [arkits/onhub-web](https://github.com/arkits/onhub-web) - The missing Web UI for Google OnHub and Google Wifi Devices
-- [NeonSludge/ansible-dns-inventory](https://github.com/NeonSludge/ansible-dns-inventory) - A dynamic inventory script for Ansible that uses DNS to discover hosts and groups and represents the resulting inventory as a tree.
+- [NeonSludge/ansible-dns-inventory](https://github.com/NeonSludge/ansible-dns-inventory) - A tool that processes sets of host attributes stored as DNS TXT records or key/value pairs in etcd to create a tree-like inventory of your infrastructure that can be immediately consumed by Ansible or exported in several helpful formats.
 - [ricoberger/loki_exporter](https://github.com/ricoberger/loki_exporter) - Prometheus exporter to collect metrics and run queries against the Grafana Loki API.
 - [othalla/plex_exporter](https://github.com/othalla/plex_exporter) - Prometheus exporter for Plex Media Server
 - [arnarg/plex_exporter](https://github.com/arnarg/plex_exporter) - A Prometheus exporter for a few metrics from Plex Media Server
@@ -3040,7 +3046,7 @@
 - [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.
 - [repeats/Repeat](https://github.com/repeats/Repeat) - Cross-platform mouse/keyboard record/replay and automation hotkeys/macros creation, and more advanced automation features.
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed Database Ecosphere
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Build criterion and ecosystem above multi-model databases
 - [Rantzur1992/parallel-cucumber](https://github.com/Rantzur1992/parallel-cucumber) - Example Tests with parallel execution on Docker using TestProject Java SDK and Docker
 - [BenjaminFavre/keycloak-apple-social-identity-provider](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider) - Apple Social Identity Provider for Keycloak
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -3172,6 +3178,7 @@
 
 ## JavaScript 
 
+- [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [skydiver/btt-helper](https://github.com/skydiver/btt-helper) - Helpers to improve your BetterTouchTool presets"
 - [balena-io-examples/balena-node-hello-world](https://github.com/balena-io-examples/balena-node-hello-world) - Run a simple express server with balena
@@ -5812,6 +5819,8 @@
 
 ## Python 
 
+- [hostinfodev/nesdis-goes](https://github.com/hostinfodev/nesdis-goes) - Downloads satellite imagery directly from star.nesdis.noaa.gov. Also compiles gifs and a few other utilities.
+- [python-mario/mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell
 - [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
 - [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
@@ -8185,6 +8194,7 @@
 
 ## Shell 
 
+- [paulgclark/grc-install](https://github.com/paulgclark/grc-install) - Helpful files for installing and testing gnuradio-companion and assorted SDR HW drivers
 - [hslatman/tailscale-balena-rpi](https://github.com/hslatman/tailscale-balena-rpi) - Raspberry Pi 3 powered by Balena serving Tailscale mesh VPN node
 - [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Install Tailscale on OpenWRT
 - [balena-io-playground/psu-notify](https://github.com/balena-io-playground/psu-notify) - Easily test Raspberry Pi power supplies
@@ -8596,7 +8606,7 @@
 - [quortex/cloudbench](https://github.com/quortex/cloudbench) - A project to bench ffmpeg performances and price for the major cloud providers
 - [cdzombak/osx-automation](https://github.com/cdzombak/osx-automation) - scripts, services, and small utilities which make life on macOS easier
 - [sulu5890/searx-traefik-docker](https://github.com/sulu5890/searx-traefik-docker) - Create a searx instance using traefik and Docker. Created for a comment on r/searx. Not maintained and has flaws, use for reference only.
-- [clevr-dev/ShinyStudio](https://github.com/clevr-dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
+- [fresh2dev/ShinyStudio](https://github.com/fresh2dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
 - [alexei-led/nsenter](https://github.com/alexei-led/nsenter) - Slim nsenter Docker image - enter into Docker container/host namespaces
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
 - [gregoriomomm/docker-multsocks](https://github.com/gregoriomomm/docker-multsocks) - docker-microtsocks
@@ -9475,7 +9485,7 @@
 - [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 - [GridProtectionAlliance/openHistorian](https://github.com/GridProtectionAlliance/openHistorian) - The Open Source Time-Series Data Historian
-- [BlueBubblesApp/BlueBubbles-Server](https://github.com/BlueBubblesApp/BlueBubbles-Server) - Server for forwarding iMessages to an Android Phone
+- [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
 - [verticle-io/flowhook-datasource](https://github.com/verticle-io/flowhook-datasource) - Route any webhook to for Grafana
 - [labs42io/web-automation](https://github.com/labs42io/web-automation) - BDD tests with Cucumber, WebdriverIO and Docker Selenium
 - [mempool/mempool](https://github.com/mempool/mempool) - An open-source explorer developed for the Bitcoin community, focusing on the emerging transaction fee market to help our transition into a multi-layer ecosystem.
