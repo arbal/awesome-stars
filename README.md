@@ -181,6 +181,7 @@
 
 ## C 
 
+- [rtlsdrblog/TempestSDR](https://github.com/rtlsdrblog/TempestSDR) - Remote video eavesdropping using a software-defined radio platform
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [darrenldl/sandboxing](https://github.com/darrenldl/sandboxing) - Scripts, files and tools related to sandboxing
 - [hacker1024/coretemp](https://github.com/hacker1024/coretemp) - Outputs current CPU core and package temperatures on macOS.
@@ -765,6 +766,9 @@
 
 ## C++ 
 
+- [openhome/ohPlayer](https://github.com/openhome/ohPlayer) - ohPlayer is a full featured OpenHome media renderer licenced under an MIT licence
+- [openhome/ohPipeline](https://github.com/openhome/ohPipeline) - OpenHome audio pipeline
+- [openhome/ohNet](https://github.com/openhome/ohNet) - OpenHome Networking (ohNet) is a modern, cross platform, multi-language UPnP stack
 - [pothosware/SoapyMultiSDR](https://github.com/pothosware/SoapyMultiSDR) - Multi-device support module for SoapySDR
 - [kit-cel/gr-radar](https://github.com/kit-cel/gr-radar) - GNU Radio Radar Toolbox
 - [pinkavaj/gr-scan](https://github.com/pinkavaj/gr-scan) - spectrum scanner based on SDR and gnuradio
@@ -1378,6 +1382,7 @@
 
 ## Go 
 
+- [inetaf/netaddr](https://github.com/inetaf/netaddr) - Network address types
 - [zaynetro/pingme](https://github.com/zaynetro/pingme) - Get notifications easily when someone needs you
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
 - [genuinetools/bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
@@ -2899,6 +2904,7 @@
 - [dvdvdmt/popup-tab-switcher](https://github.com/dvdvdmt/popup-tab-switcher) - A browser extension that makes switching between tabs more convenient
 - [fhamborg/Giveme5W1H](https://github.com/fhamborg/Giveme5W1H) - Extraction of the journalistic five W and one H questions (5W1H) from news articles: who did what, when, where, why, and how?
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - Statistics hub for the Fediverse
 - [Niquarl/Peertube-Quality](https://github.com/Niquarl/Peertube-Quality) - Hoping to create a somewhat complete list of all quality stuff on the Peertube federated network. I don't judge the instance where the account is hosted but the video content from that account.
@@ -3185,6 +3191,9 @@
 
 ## JavaScript 
 
+- [Integralist/Google-Home-GSuite-Calendar-Sync](https://github.com/Integralist/Google-Home-GSuite-Calendar-Sync) - Sync your G Suite Calendar to your personal Google account so you can access events via Google Home
+- [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library.
+- [fsn1995/Fun-with-Google-Earth-Engine](https://github.com/fsn1995/Fun-with-Google-Earth-Engine) - Google Earth Engine practice
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows
 - [custom-cards/flex-table-card](https://github.com/custom-cards/flex-table-card) - Highly Flexible Lovelace Card - arbitrary contents/columns/rows, regex matched, perfect to show appdaemon created content and anything breaking out of the entity_id + attributes concept
 - [colloqi/pisignage-server](https://github.com/colloqi/pisignage-server) - Local Server to manage piSignage players based on node.js
@@ -3310,7 +3319,6 @@
 - [tborychowski/unifi-event-monitor](https://github.com/tborychowski/unifi-event-monitor) - Monitors Unifi Controller events and push them as notifications to slack (or any other platform)
 - [bwp91/homebridge-wemo](https://github.com/bwp91/homebridge-wemo) - Homebridge plugin to control Wemo devices.
 - [daneroo/MomPhotoCompare](https://github.com/daneroo/MomPhotoCompare) - Comparing iCloud and GooglePhots Downloads, to hopefully consiladte them both, with no loss and no duplicates
-- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [kalkih/forked-daapd-card](https://github.com/kalkih/forked-daapd-card) - forked daapd card for Home Assistant Lovelace UI
 - [LuisReinoso/git-history-browser-extension](https://github.com/LuisReinoso/git-history-browser-extension) - Agrega un botón a la interfáz de archivos de github para ver su historial / Add a button to the github file interface to see its history
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
@@ -3746,7 +3754,7 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [transitive-bullshit/check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness. Extremely fast ⚡
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
-- [Soapbox/linkifyjs](https://github.com/Soapbox/linkifyjs) - Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [sindresorhus/linkify-urls](https://github.com/sindresorhus/linkify-urls) - Linkify URLs in a string
 - [Mokkapps/github-traffic-viewer-website](https://github.com/Mokkapps/github-traffic-viewer-website) - A website which shows a list of traffic graphs of your own GitHub repositories
 - [humanmade/trafficator](https://github.com/humanmade/trafficator) - Traffic generator for local analytics testing
@@ -3872,7 +3880,6 @@
 - [sindresorhus/run-jxa](https://github.com/sindresorhus/run-jxa) - Run JXA code and get the result
 - [ncbi/PubReader](https://github.com/ncbi/PubReader) - A new way to view journal articles
 - [placemark/togeojson](https://github.com/placemark/togeojson) - convert KML, TCX, and GPX to GeoJSON, without the fuss
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [emmtte/Photos-Metadata-Fixer](https://github.com/emmtte/Photos-Metadata-Fixer) - Automatically fix photo's metadata and upload into Google Photos
@@ -5836,7 +5843,11 @@
 
 ## Python 
 
+- [Netflix/security_monkey](https://github.com/Netflix/security_monkey) - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+- [openhome/ohdevtools](https://github.com/openhome/ohdevtools) - Openhome Development Tools
+- [zinka/arraytool](https://github.com/zinka/arraytool) - Python based package for phased array antenna design and analysis
 - [antonjan/gnuradio-grc-examples](https://github.com/antonjan/gnuradio-grc-examples) - This repository will have all my gnuradio exsamples
+- [dbhi/qus](https://github.com/dbhi/qus) - qemu-user-static (qus) and docker, non-invasive minimal working setups
 - [hostinfodev/nesdis-goes](https://github.com/hostinfodev/nesdis-goes) - Downloads satellite imagery directly from star.nesdis.noaa.gov. Also compiles gifs and a few other utilities.
 - [python-mario/mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell
 - [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
@@ -8214,9 +8225,10 @@
 
 ## Shell 
 
+- [klutchell/balena-wireguard](https://github.com/klutchell/balena-wireguard) - wireguard stack for balenacloud
+- [dominiksalvet/asus-fan-control](https://github.com/dominiksalvet/asus-fan-control) - 🌀 Fan control for ASUS devices running Linux.
 - [jaredallard-home/wireguard-balena-rpi](https://github.com/jaredallard-home/wireguard-balena-rpi) - Example project for building an OOT kernel module in resin
 - [docker-archive/dockerlite](https://github.com/docker-archive/dockerlite) - Lightweight virtualization system based on LXC and BTRFS. See dotcloud/docker.
-- [dbhi/qus](https://github.com/dbhi/qus) - qemu-user-static (qus) and docker, non-invasive minimal working setups
 - [mk-fg/apparmor-profiles](https://github.com/mk-fg/apparmor-profiles) - My local apparmor profiles for binary or dangerous apps
 - [Whonix/apparmor-profile-everything](https://github.com/Whonix/apparmor-profile-everything) - AppArmor for everything. APT, systemd, init, all systemd units, all applications. Mandatory Access Control. Security Hardening.
 - [natelandau/shell-scripting-templates](https://github.com/natelandau/shell-scripting-templates) - Shell scripting utility functions and a bash script boilerplate template
@@ -9431,6 +9443,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [EricAndrechek/nest-cam-rtsp](https://github.com/EricAndrechek/nest-cam-rtsp) - 
 - [littledivy/voicecontroljs](https://github.com/littledivy/voicecontroljs) - Voice-driven desktop automation. :rocket:
+- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [any-json/any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON
 - [ruedap/alfred-bootstrap-icons-workflow](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - 🎩 Bootstrap Icons workflow for Alfred
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
