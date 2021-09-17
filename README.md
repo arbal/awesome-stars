@@ -181,6 +181,10 @@
 
 ## C 
 
+- [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
+- [Unidata/gempak](https://github.com/Unidata/gempak) - Analysis and product generation for meteorological data.
+- [luigirizzo/netmap](https://github.com/luigirizzo/netmap) - Automatically exported from code.google.com/p/netmap
+- [oracle/fdr](https://github.com/oracle/fdr) - Flight Data Recorder to enable "always on" diagnosability & observability
 - [rtlsdrblog/TempestSDR](https://github.com/rtlsdrblog/TempestSDR) - Remote video eavesdropping using a software-defined radio platform
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [darrenldl/sandboxing](https://github.com/darrenldl/sandboxing) - Scripts, files and tools related to sandboxing
@@ -1336,7 +1340,7 @@
 - [hez/rainforest-eagle](https://github.com/hez/rainforest-eagle) - Elixir Rainforest Eagle API
 - [hez/home-hub-logger](https://github.com/hez/home-hub-logger) - Elixir service to log sensor data to influxdb
 - [statuspal/statuspal](https://github.com/statuspal/statuspal) - Statuspal lets you communicate your web apps/services status 📡
-- [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests with elixir
+- [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [hedwig-im/hedwig](https://github.com/hedwig-im/hedwig) - An Adapter-based Bot Framework for Elixir Applications
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
@@ -1382,6 +1386,10 @@
 
 ## Go 
 
+- [vultr/vultr-cli](https://github.com/vultr/vultr-cli) - Official command line tool for Vultr services
+- [paihu/netflow_exporter](https://github.com/paihu/netflow_exporter) - 
+- [neptune-networks/flow-exporter](https://github.com/neptune-networks/flow-exporter) - Export network flows from Kafka to Prometheus
+- [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [inetaf/netaddr](https://github.com/inetaf/netaddr) - Network address types
 - [zaynetro/pingme](https://github.com/zaynetro/pingme) - Get notifications easily when someone needs you
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available.
@@ -2438,7 +2446,7 @@
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
-- [docker/docker-ce](https://github.com/docker/docker-ce) - Docker CE
+- [docker/docker-ce](https://github.com/docker/docker-ce) - :warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:
 - [picatz/doh](https://github.com/picatz/doh) - 🍩  DNS over HTTPs command-line client
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
@@ -3191,6 +3199,11 @@
 
 ## JavaScript 
 
+- [satellogic/grafana-3d-globe-panel](https://github.com/satellogic/grafana-3d-globe-panel) - A cesium based 3d globe panel plugin for grafana
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - A modern web interface for OpenWrt implemented in vue.js and Lua.
+- [robinnorth/google-migration-utils](https://github.com/robinnorth/google-migration-utils) - CLI utilities to assist with migrating Google Account data where no Google-provided solution exists
+- [prprprus/softest](https://github.com/prprprus/softest) - Recording Browser Interactions And Generating Test Scripts.
+- [skarfacegc/FlowTrack2](https://github.com/skarfacegc/FlowTrack2) - Netflow Analyzer
 - [Integralist/Google-Home-GSuite-Calendar-Sync](https://github.com/Integralist/Google-Home-GSuite-Calendar-Sync) - Sync your G Suite Calendar to your personal Google account so you can access events via Google Home
 - [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library.
 - [fsn1995/Fun-with-Google-Earth-Engine](https://github.com/fsn1995/Fun-with-Google-Earth-Engine) - Google Earth Engine practice
@@ -3453,7 +3466,6 @@
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [dandv/convert-chrome-cookies-to-netscape-format](https://github.com/dandv/convert-chrome-cookies-to-netscape-format) - Convert the cookies from Chrome's Application -&gt; Storage -&gt; Cookies, into the Netscape format accepted by youtube-dl
-- [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [joelgeorgev/google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
 - [sindresorhus/kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
 - [e-alfred/ocdownloader](https://github.com/e-alfred/ocdownloader) - ocDownloader - AGPL-licensed multi-protocol download manager for Nextcloud using ARIA2, youtube-dl and Curl (supports Youtube, BitTorrent, HTTP, FTP)
@@ -4405,7 +4417,7 @@
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
 - [balenalabs-incubator/boombeastic](https://github.com/balenalabs-incubator/boombeastic) - A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [rkclark/pullp](https://github.com/rkclark/pullp) - A Github pull request monitoring tool for Mac, Linux and Windows
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
@@ -4717,6 +4729,7 @@
 
 ## MATLAB 
 
+- [mlaaks/NFLOPnet](https://github.com/mlaaks/NFLOPnet) - 
 - [metinaktas/Acoustic-direction-finding-using-single-acoustic-vector-sensor-under-high-reverberation](https://github.com/metinaktas/Acoustic-direction-finding-using-single-acoustic-vector-sensor-under-high-reverberation) - We propose a novel and robust method for acoustic direction finding, which is solely based on acoustic pressure and pressure gradient measurements from single Acoustic Vector Sensor (AVS). We do not make any stochastic and sparseness assumptions regarding the signal source and the environmental characteristics. Hence, our method can be applied to a wide range of wideband acoustic signals including the speech and noise-like signals in various environments. Our method identifies the “clean” time frequency bins that are not distorted by multipath signals and noise, and estimates the 2D-DOA angles at only those identified bins. Moreover, the identification of the clean bins and the corresponding DOA estimation are performed jointly in one framework in a computationally highly efficient manner. We mathematically and experimentally show that the false detection rate of the proposed method is zero, i.e., none of the time-frequency bins with multiple sources are wrongly labeled as single-source, when the source directions do not coincide. Therefore, our method is significantly more reliable and robust compared to the competing state-of-the-art methods that perform the time-frequency bin selection and the DOA estimation separately. The proposed method, for performed simulations, estimates the source direction with high accuracy (less than 1 degree error) even under significantly high reverberation conditions.
 - [jmfriedt/passive_radar](https://github.com/jmfriedt/passive_radar) - Passive radar measurements using synchronized RTL-SDR DVB-T receivers
 - [aicip/GCNMF-s2k](https://github.com/aicip/GCNMF-s2k) - Load disaggregation using group constrained non-negative matrix factorization with sum-to-k constraint (GCNMF-s2k)
@@ -4887,6 +4900,7 @@
 
 ## Others 
 
+- [timwallace/nicar20-imagery-sources](https://github.com/timwallace/nicar20-imagery-sources) - Sources for earth imagery
 - [ahuacate/pfsense-haproxy](https://github.com/ahuacate/pfsense-haproxy) - Build a Proxmox LXC HAProxy
 - [MarijnKoesen/kubernetes-in-proxmox-with-kubeadm-lxc-and-wireshark](https://github.com/MarijnKoesen/kubernetes-in-proxmox-with-kubeadm-lxc-and-wireshark) - 
 - [gnuradio/gr-recipes](https://github.com/gnuradio/gr-recipes) - Main GNU Radio recipe repository for use with PyBOMBS
@@ -5758,6 +5772,7 @@
 
 ## Perl 
 
+- [skarfacegc/FlowTrack](https://github.com/skarfacegc/FlowTrack) - An all in one netflow collector with a web front end.  Designed for small networks.
 - [nriley/Pester](https://github.com/nriley/Pester) - Simple, disposable alarms and timers for macOS.
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [raszi/colorize](https://github.com/raszi/colorize) - Log colorizer perl script
@@ -5843,11 +5858,16 @@
 
 ## Python 
 
+- [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
+- [cameronleger/goes16-background](https://github.com/cameronleger/goes16-background) - goes16-background is a Python 3 script that fetches near-realtime (~15 minutes delayed) Full Disk Natural Color image of Earth as its taken by GOES-16 and sets it as your desktop background.
+- [ujnzxw/oh-my-earth](https://github.com/ujnzxw/oh-my-earth) - Make a real time earth picture as your wallpaper
+- [bitkeks/python-netflow-v9-softflowd](https://github.com/bitkeks/python-netflow-v9-softflowd) - PyPI "netflow" package. NetFlow v9 parser, collector and analyzer implemented in Python 3. Developed and tested with softflowd
+- [coxley/asn_report](https://github.com/coxley/asn_report) - Analyzes traffic via netflow or live capture and graphs ASN's
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [openhome/ohdevtools](https://github.com/openhome/ohdevtools) - Openhome Development Tools
 - [zinka/arraytool](https://github.com/zinka/arraytool) - Python based package for phased array antenna design and analysis
 - [antonjan/gnuradio-grc-examples](https://github.com/antonjan/gnuradio-grc-examples) - This repository will have all my gnuradio exsamples
-- [dbhi/qus](https://github.com/dbhi/qus) - qemu-user-static (qus) and docker, non-invasive minimal working setups
+- [dbhi/qus](https://github.com/dbhi/qus) - qemu-user-static (qus) and containers, non-invasive minimal working setups
 - [hostinfodev/nesdis-goes](https://github.com/hostinfodev/nesdis-goes) - Downloads satellite imagery directly from star.nesdis.noaa.gov. Also compiles gifs and a few other utilities.
 - [python-mario/mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell
 - [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts) - BTT presets, macros & scripts I use to make my life sometimes easier
@@ -6162,6 +6182,7 @@
 - [godfuzz3r/osmo-nitb-scripts](https://github.com/godfuzz3r/osmo-nitb-scripts) - Tools for easy deployment of osmocom stack and pentesting gsm networks with LimeSDR Mini
 - [gasparka/spectrogram](https://github.com/gasparka/spectrogram) - 80MHz bandwidth with LimeSDR-Mini and GQRX
 - [rosineygp/proxmox-pci-switcher](https://github.com/rosineygp/proxmox-pci-switcher) - Switch among Guest VMs organized by Resource Pool
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [syncarr/syncarr](https://github.com/syncarr/syncarr) - one/two way sync of Radarr, Sonarr, or Lidarr instances
 - [autofitcloud/isitfit](https://github.com/autofitcloud/isitfit) - CLI to measure an AWS EC2/Redshift account's usage and optimize it
 - [ahmedsajid/aria2-dl](https://github.com/ahmedsajid/aria2-dl) - youtube-dl + aria2
@@ -8225,6 +8246,7 @@
 
 ## Shell 
 
+- [pigmonkey/goesimage](https://github.com/pigmonkey/goesimage) - Download the latest image from a NOAA Geostationary Operational Environment Satellite and set it as the desktop background
 - [klutchell/balena-wireguard](https://github.com/klutchell/balena-wireguard) - wireguard stack for balenacloud
 - [dominiksalvet/asus-fan-control](https://github.com/dominiksalvet/asus-fan-control) - 🌀 Fan control for ASUS devices running Linux.
 - [jaredallard-home/wireguard-balena-rpi](https://github.com/jaredallard-home/wireguard-balena-rpi) - Example project for building an OOT kernel module in resin
@@ -9242,6 +9264,7 @@
 
 ## Swift 
 
+- [zixun/GodEye](https://github.com/zixun/GodEye) - Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 - [njdehoog/Witness](https://github.com/njdehoog/Witness) - Monitor file system events using Swift
 - [mapbox/mapbox-speech-swift](https://github.com/mapbox/mapbox-speech-swift) - Natural-sounding text-to-speech in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
 - [mapbox/mapbox-directions-swift](https://github.com/mapbox/mapbox-directions-swift) - Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, watchOS, and Linux
@@ -9403,6 +9426,10 @@
 
 ## TypeScript 
 
+- [CorpGlory/grafana-data-exporter-panel](https://github.com/CorpGlory/grafana-data-exporter-panel) - Panel for exporting metrics from Grafana dashboards
+- [geeks-r-us/mqtt-panel](https://github.com/geeks-r-us/mqtt-panel) - Simple Grafana panel that allows to communicate with a mqtt server
+- [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)
+- [MatheusR42/vtex-google-auth-cli](https://github.com/MatheusR42/vtex-google-auth-cli) - A tool to get VtexIdclientAutCookie Token by CLI
 - [testinggospels/camouflage](https://github.com/testinggospels/camouflage) - Camouflage is a backend mocking tool for HTTP, gRPC and Websockets protocols, which helps you carry out your front end prototyping, unit testing, functional/performance testing in silos, in absence of one or more Microservices/APIs.
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
@@ -9755,7 +9782,7 @@
 - [pipiliang/docker-dashboard](https://github.com/pipiliang/docker-dashboard) - Console based docker dashboard
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) - A Wake on Lan plugin for Homebridge
 - [theodo/falco](https://github.com/theodo/falco) - Falco helps you monitor, analyze, and optimize your websites.
-- [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface) - 🦄 An open source interface for the Uniswap protocol
+- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [PinkyJie/google-actions-github-bot](https://github.com/PinkyJie/google-actions-github-bot) - A Google Assistant Action (with an invocation name of "Github Trending") which tells you the trending repositories on Github and more.
