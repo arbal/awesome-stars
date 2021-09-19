@@ -771,6 +771,8 @@
 
 ## C++ 
 
+- [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
+- [lmux/Signal-Server](https://github.com/lmux/Signal-Server) - Multi-threaded RF coverage calculator
 - [openhome/ohPlayer](https://github.com/openhome/ohPlayer) - ohPlayer is a full featured OpenHome media renderer licenced under an MIT licence
 - [openhome/ohPipeline](https://github.com/openhome/ohPipeline) - OpenHome audio pipeline
 - [openhome/ohNet](https://github.com/openhome/ohNet) - OpenHome Networking (ohNet) is a modern, cross platform, multi-language UPnP stack
@@ -2149,7 +2151,7 @@
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
-- [AsynkronIT/protoactor-go](https://github.com/AsynkronIT/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
+- [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [terorie/netdata-influx](https://github.com/terorie/netdata-influx) - Netdata ➡️ InfluxDB metrics exporter & Grafana dashboard
 - [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
@@ -2885,7 +2887,7 @@
 - [ssg/yubitell](https://github.com/ssg/yubitell) - Silently extract a YubiKey serial number
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [NikolaiT/GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
-- [openware/opendax-oss](https://github.com/openware/opendax-oss) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
+- [openware/opendax](https://github.com/openware/opendax) - Open-Source Cloud-Native Digital Asset & Cryptocurrency Exchange Platform
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [katalon-studio/katalon-recorder-samples](https://github.com/katalon-studio/katalon-recorder-samples) - Samples for Katalon Recorder
@@ -2928,6 +2930,7 @@
 - [herf/la-covid](https://github.com/herf/la-covid) - COVID-19 data from Los Angeles Public Health
 - [Netflix/ndbench](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
 - [fitbeard/awx-ha-cluster](https://github.com/fitbeard/awx-ha-cluster) - AWX clustering on Docker standalone installation
@@ -3203,6 +3206,7 @@
 
 ## JavaScript 
 
+- [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [satellogic/grafana-3d-globe-panel](https://github.com/satellogic/grafana-3d-globe-panel) - A cesium based 3d globe panel plugin for grafana
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - A modern web interface for OpenWrt implemented in vue.js and Lua.
 - [robinnorth/google-migration-utils](https://github.com/robinnorth/google-migration-utils) - CLI utilities to assist with migrating Google Account data where no Google-provided solution exists
@@ -3448,7 +3452,7 @@
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [yeoman/generator](https://github.com/yeoman/generator) - Rails-inspired generator system that provides scaffolding for your apps
@@ -4906,6 +4910,7 @@
 
 ## Others 
 
+- [bethanysciences/radio](https://github.com/bethanysciences/radio) - rf digital encoding and decoding applications
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 - [timwallace/nicar20-imagery-sources](https://github.com/timwallace/nicar20-imagery-sources) - Sources for earth imagery
 - [ahuacate/pfsense-haproxy](https://github.com/ahuacate/pfsense-haproxy) - Build a Proxmox LXC HAProxy
@@ -5251,7 +5256,6 @@
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
-- [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [idealista/fluentd-role](https://github.com/idealista/fluentd-role) - Ansible role to install fluentd
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
@@ -5865,6 +5869,8 @@
 
 ## Python 
 
+- [Cloud-RF/CloudRF-API-clients](https://github.com/Cloud-RF/CloudRF-API-clients) - Cloud-RF API clients for use with the CloudRF API https://api.cloudrf.com
+- [Wings-Lab/Radio_identification_cnn](https://github.com/Wings-Lab/Radio_identification_cnn) - Deep Learning Convolutional Neural Networks for Radio Identification
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [cameronleger/goes16-background](https://github.com/cameronleger/goes16-background) - goes16-background is a Python 3 script that fetches near-realtime (~15 minutes delayed) Full Disk Natural Color image of Earth as its taken by GOES-16 and sets it as your desktop background.
 - [ujnzxw/oh-my-earth](https://github.com/ujnzxw/oh-my-earth) - Make a real time earth picture as your wallpaper
@@ -6490,7 +6496,7 @@
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
 - [ChiefGokhlayeh/pluto-sdr-pr](https://github.com/ChiefGokhlayeh/pluto-sdr-pr) - Turning cheap(ish) Pluto-SDR receivers into passive radar sensors
-- [mrooney/mintapi](https://github.com/mrooney/mintapi) - a screen-scraping API for Mint.com
+- [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping API for Mint.com
 - [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites
 - [huntrar/scrape](https://github.com/huntrar/scrape) - a command-line web scraping tool
 - [keikoproj/minion-manager](https://github.com/keikoproj/minion-manager) - Intelligent use of Spot Instances in Kubernetes
@@ -8006,7 +8012,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [DSLAM-UMD/Squirtle](https://github.com/DSLAM-UMD/Squirtle) - Flock: A Practical Serverless Streaming Query Engine
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Automate and relate multiple processes.
@@ -8257,6 +8263,8 @@
 
 ## Shell 
 
+- [arbal/home-assistant](https://github.com/arbal/home-assistant) - Installation and other instructions for Home Assistant
+- [Kanga-Who/home-assistant](https://github.com/Kanga-Who/home-assistant) - Installation and other instructions for Home Assistant
 - [chrislim2888/IP2Location-C-Library](https://github.com/chrislim2888/IP2Location-C-Library) - IP2Location C library enables the user to find the country, region, city, coordinates, zip code, time zone, ISP, domain name, connection type, area code, weather station code, weather station name, mobile, usage types, etc that any IP address or hostname originates from.
 - [pigmonkey/goesimage](https://github.com/pigmonkey/goesimage) - Download the latest image from a NOAA Geostationary Operational Environment Satellite and set it as the desktop background
 - [klutchell/balena-wireguard](https://github.com/klutchell/balena-wireguard) - wireguard stack for balenacloud
@@ -9441,6 +9449,7 @@
 
 ## TypeScript 
 
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [CorpGlory/grafana-data-exporter-panel](https://github.com/CorpGlory/grafana-data-exporter-panel) - Panel for exporting metrics from Grafana dashboards
 - [geeks-r-us/mqtt-panel](https://github.com/geeks-r-us/mqtt-panel) - Simple Grafana panel that allows to communicate with a mqtt server
 - [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)
