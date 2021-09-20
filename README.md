@@ -182,6 +182,12 @@
 
 ## C 
 
+- [0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal) - WiFi arsenal
+- [Guenael/rtlsdr-wsprd](https://github.com/Guenael/rtlsdr-wsprd) - WSPR daemon for RTL receivers
+- [nfinit/ansibench](https://github.com/nfinit/ansibench) - A selection of ANSI C benchmarks and programs useful as benchmarks
+- [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
+- [getoffmyhack/RTLSDR.Swift](https://github.com/getoffmyhack/RTLSDR.Swift) - Swift / IOKit port of librtlsdr
+- [libevent/libevent](https://github.com/libevent/libevent) - Event notification library
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [Unidata/gempak](https://github.com/Unidata/gempak) - Analysis and product generation for meteorological data.
 - [luigirizzo/netmap](https://github.com/luigirizzo/netmap) - Automatically exported from code.google.com/p/netmap
@@ -656,6 +662,7 @@
 
 ## C# # 
 
+- [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [cryptoprofitswitcher/CryptoProfitSwitcher](https://github.com/cryptoprofitswitcher/CryptoProfitSwitcher) - Extensible profit switcher for crypto coins and algorithms
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
@@ -771,6 +778,8 @@
 
 ## C++ 
 
+- [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
+- [kunalkandekar/quicktrace](https://github.com/kunalkandekar/quicktrace) - Command-line utility and C++ class for running quick traceroutes, discovering intermediate hop IPs as quickly as possible, at the expense of less accurate per-hop RTTs.
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
 - [lmux/Signal-Server](https://github.com/lmux/Signal-Server) - Multi-threaded RF coverage calculator
 - [openhome/ohPlayer](https://github.com/openhome/ohPlayer) - ohPlayer is a full featured OpenHome media renderer licenced under an MIT licence
@@ -2864,6 +2873,7 @@
 
 ## HTML 
 
+- [ChHarding/TouchTerrain_for_CAGEO](https://github.com/ChHarding/TouchTerrain_for_CAGEO) - Touch Terrain: A python app to create 3D printable terrain models (STL/OBJ) from only elevation data (via Google Earth Engine) or from a local geotiff. Has been used for CNC terrain models. Runs as a web app (http://touchterrain.org), as .py file (standalone.py) or as jupyter notebook. Docker image: https://github.com/ChHarding/TouchTerrain_jupyter_docker
 - [node-red/node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [MycroftAI/mycroft-skills](https://github.com/MycroftAI/mycroft-skills) - A repository for sharing and collaboration for third-party Mycroft skills development.
 - [gramener/visual-vocabulary-vega](https://github.com/gramener/visual-vocabulary-vega) - Visual Vocabulary with Vega
@@ -3206,6 +3216,13 @@
 
 ## JavaScript 
 
+- [emileaben/ixp-country-jedi](https://github.com/emileaben/ixp-country-jedi) - Set of scripts to measure and analyse countries and/or IXPs using RIPE Atlas
+- [bellingcat/cloud-free-subregion](https://github.com/bellingcat/cloud-free-subregion) - Google Earth Engine application that finds Sentinel-2 images that are cloud-free in a particular area of interest.
+- [zecojls/tagee](https://github.com/zecojls/tagee) - Terrain Analysis in Google Earth Engine
+- [geohackweek/GoogleEarthEngine](https://github.com/geohackweek/GoogleEarthEngine) - Google Earth Engine Tutorial
+- [gee-community/ee-runner](https://github.com/gee-community/ee-runner) - Command-line runner for Google Earth Engine Playground scripts
+- [rhodey/radiowitness](https://github.com/rhodey/radiowitness) - P25 public safety radio archive with a web application and support for cryptographically authenticated mirrors through Dat Protocol.
+- [chuot/rdio-scanner](https://github.com/chuot/rdio-scanner) - Rdio Scanner is an interface similar to a police radio scanner for software defined radio recorders
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [satellogic/grafana-3d-globe-panel](https://github.com/satellogic/grafana-3d-globe-panel) - A cesium based 3d globe panel plugin for grafana
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - A modern web interface for OpenWrt implemented in vue.js and Lua.
@@ -4570,6 +4587,7 @@
 
 ## Jupyter Notebook 
 
+- [google/earthengine-community](https://github.com/google/earthengine-community) - Tutorials and content created by Earth Engine users, for Earth Engine users
 - [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and read files from the NOAA GOES archive on AWS.
 - [HamedAlemo/visualize-goes16](https://github.com/HamedAlemo/visualize-goes16) - This is a sample code to visualize GOES16 data, reading them directly from AWS S3 storage
 - [neurotechuoft/MindType](https://github.com/neurotechuoft/MindType) - Mind-controlled keyboard
@@ -4819,6 +4837,7 @@
 
 ## Objective-C 
 
+- [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 - [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [hholtmann/smcFanControl](https://github.com/hholtmann/smcFanControl) - Control the fans of every Intel Mac to make it run cooler
 - [andrewchidden/btt-services](https://github.com/andrewchidden/btt-services) - Simple command-line utilities designed for BetterTouchTool presets.
@@ -4910,6 +4929,8 @@
 
 ## Others 
 
+- [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
+- [philippgaertner/awesome-earth-engine-apps](https://github.com/philippgaertner/awesome-earth-engine-apps) - A collection of all public Google Earth Engine Apps.
 - [bethanysciences/radio](https://github.com/bethanysciences/radio) - rf digital encoding and decoding applications
 - [ololx/create-symlink](https://github.com/ololx/create-symlink) - Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 - [timwallace/nicar20-imagery-sources](https://github.com/timwallace/nicar20-imagery-sources) - Sources for earth imagery
@@ -5588,7 +5609,7 @@
 - [freenas/iocage-ports](https://github.com/freenas/iocage-ports) - Official iXsystems iocage ports tree used to make plugins for FreeNAS and TrueOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [shirosaidev/diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
+- [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [adde88/openwrt-useful-tools](https://github.com/adde88/openwrt-useful-tools) - A repo containing different tools compiled specifically for the Hak5 WiFi Pineapple MK6 and MK7.
 - [zbeekman/launchctl-tasks](https://github.com/zbeekman/launchctl-tasks) - A set of short & sweet `launchctl` plists for automating boring tasks on macOS 🤖🍏
@@ -5869,6 +5890,21 @@
 
 ## Python 
 
+- [llvll/propagation-heatmap](https://github.com/llvll/propagation-heatmap) - Demo for plotting RF propagation heatmap using the two-dimensional signal strength data of 2.4 GHz Wi-Fi antenna.
+- [jimoconnell/GoogleSpeak](https://github.com/jimoconnell/GoogleSpeak) - 
+- [pytroll/satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
+- [matthewwall/weewx-windy](https://github.com/matthewwall/weewx-windy) - uploader for windy.com
+- [5olitude/earthengine-image-downloader](https://github.com/5olitude/earthengine-image-downloader) - A fast way to download satellite images by defining the location from google-earth-engine
+- [samapriya/Planet-GEE-Pipeline-CLI](https://github.com/samapriya/Planet-GEE-Pipeline-CLI) - Planet and Google Earth Engine Pipeline Command Line Interface Tool
+- [samapriya/geeup](https://github.com/samapriya/geeup) - Simple CLI for Google Earth Engine Uploads
+- [aazuspan/wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing weather and climate data
+- [endlessm/eos-boot-helper](https://github.com/endlessm/eos-boot-helper) - Endless OS services required for booting
+- [aaronzlim/rtlsdr-speca](https://github.com/aaronzlim/rtlsdr-speca) - RTL-SDR based spectrum analyzer.
+- [EarToEarOak/RF-Monitor](https://github.com/EarToEarOak/RF-Monitor) - RF signal monitor
+- [uav-profile/rtlsdr-spectrum](https://github.com/uav-profile/rtlsdr-spectrum) - Using RTL-SDR Dongle to watching spectrum, some DSP...
+- [CdeMills/RTLSDR-Scanner](https://github.com/CdeMills/RTLSDR-Scanner) - A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library
+- [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa) - 🏠🤖 Python API for TP-Link Kasa Smarthome products
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [Cloud-RF/CloudRF-API-clients](https://github.com/Cloud-RF/CloudRF-API-clients) - Cloud-RF API clients for use with the CloudRF API https://api.cloudrf.com
 - [Wings-Lab/Radio_identification_cnn](https://github.com/Wings-Lab/Radio_identification_cnn) - Deep Learning Convolutional Neural Networks for Radio Identification
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
@@ -7819,6 +7855,7 @@
 
 ## Rich Text Format 
 
+- [lexrus/LTFinderButtons](https://github.com/lexrus/LTFinderButtons) - My Finder buttons collection for macOS.
 - [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - Open source tutorial & information collector for hackintosh installation.
 
 ## Riot 
@@ -8003,6 +8040,8 @@
 
 ## Rust 
 
+- [wisespace-io/nearby](https://github.com/wisespace-io/nearby) - Scans all nearby wifi networks and the devices connected to each network for Indoor positioning
+- [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [ctbur/async](https://github.com/ctbur/async) - A tool to parallelize shell commands.
 - [heepster/time-butler](https://github.com/heepster/time-butler) - A CLI tool for easy datetime conversions
@@ -8240,6 +8279,7 @@
 
 ## Scala 
 
+- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [phiSgr/gatling-grpc](https://github.com/phiSgr/gatling-grpc) - A Gatling load test plugin for gRPC
 - [eikek/chee](https://github.com/eikek/chee) - A command line tool for managing photos.
 - [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
@@ -8263,6 +8303,10 @@
 
 ## Shell 
 
+- [cytopia/pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
+- [angela-d/autohosts](https://github.com/angela-d/autohosts) - Automate hosts file updates on Linux and MacOS.  Block Firefox telemetry, Google snooping and web trackers at the root.
+- [chuot/rdio-scanner-pi-setup](https://github.com/chuot/rdio-scanner-pi-setup) - A fully working police radio scanner on a Raspberry Pi with Trunk Recorder and Rdio Scanner
+- [liujianping/job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. 将命令行规划成任务的工具
 - [arbal/home-assistant](https://github.com/arbal/home-assistant) - Installation and other instructions for Home Assistant
 - [Kanga-Who/home-assistant](https://github.com/Kanga-Who/home-assistant) - Installation and other instructions for Home Assistant
 - [chrislim2888/IP2Location-C-Library](https://github.com/chrislim2888/IP2Location-C-Library) - IP2Location C library enables the user to find the country, region, city, coordinates, zip code, time zone, ISP, domain name, connection type, area code, weather station code, weather station name, mobile, usage types, etc that any IP address or hostname originates from.
@@ -9284,6 +9328,8 @@
 
 ## Swift 
 
+- [dingwilson/MultiPeer](https://github.com/dingwilson/MultiPeer) - 📱📲 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
+- [AXU9513/WiFi-Info-Recorder](https://github.com/AXU9513/WiFi-Info-Recorder) - A WiFi information recorder for macOS.
 - [Mortennn/Notarize](https://github.com/Mortennn/Notarize) - CLI to easily notarize a Mac app
 - [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo) - MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu.
 - [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
