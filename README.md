@@ -76,6 +76,7 @@
   - [PowerShell](#powershell)
   - [Processing](#processing)
   - [Pug](#pug)
+  - [Puppet](#puppet)
   - [PureBasic](#purebasic)
   - [Python](#python)
   - [R](#r)
@@ -182,6 +183,13 @@
 
 ## C 
 
+- [xenogenesi/task-spooler](https://github.com/xenogenesi/task-spooler) - fork of ts (task spooler by Lluís Batlle i Rossell) to add GNU/Autotools support, and some helper to generate packages
+- [libimobiledevice/libusbmuxd](https://github.com/libimobiledevice/libusbmuxd) - A client library to multiplex connections from and to iOS devices
+- [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
+- [libimobiledevice/libirecovery](https://github.com/libimobiledevice/libirecovery) - Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
+- [libimobiledevice/ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) - Manage apps of iOS devices
+- [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+- [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
 - [0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal) - WiFi arsenal
 - [Guenael/rtlsdr-wsprd](https://github.com/Guenael/rtlsdr-wsprd) - WSPR daemon for RTL receivers
 - [nfinit/ansibench](https://github.com/nfinit/ansibench) - A selection of ANSI C benchmarks and programs useful as benchmarks
@@ -241,7 +249,6 @@
 - [chromi/sce](https://github.com/chromi/sce) - Some Congestion Experienced
 - [gsnw/fping](https://github.com/gsnw/fping) - High performance ping tool
 - [lavoiesl/osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) - Outputs current CPU temperature for OSX
-- [jketterl/csdr](https://github.com/jketterl/csdr) - A simple DSP library and command-line tool for Software Defined Radio.
 - [ocerman/zenpower](https://github.com/ocerman/zenpower) - Zenpower is Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
@@ -778,6 +785,7 @@
 
 ## C++ 
 
+- [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [kunalkandekar/quicktrace](https://github.com/kunalkandekar/quicktrace) - Command-line utility and C++ class for running quick traceroutes, discovering intermediate hop IPs as quickly as possible, at the expense of less accurate per-hop RTTs.
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
@@ -815,6 +823,7 @@
 - [pstavirs/ostinato](https://github.com/pstavirs/ostinato) - Ostinato - Packet/Traffic Generator and Analyzer
 - [altillimity/AltiWx](https://github.com/altillimity/AltiWx) - Yet another automated SDR-based station software
 - [altillimity/SatDump](https://github.com/altillimity/SatDump) - A generic satellite data processing software.
+- [jketterl/csdr](https://github.com/jketterl/csdr) - A simple DSP library and command-line tool for Software Defined Radio.
 - [octobanana/euarel](https://github.com/octobanana/euarel) - A CLI tool for URL percent-encoding and percent-decoding text.
 - [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) - Command line tool for working with OpenStreetMap data based on the Osmium library.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
@@ -1399,6 +1408,8 @@
 
 ## Go 
 
+- [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
+- [NiceGuyIT/smartctl_exporter](https://github.com/NiceGuyIT/smartctl_exporter) - Export smartctl statistics to prometheus
 - [docker-flow/docker-flow-swarm-listener](https://github.com/docker-flow/docker-flow-swarm-listener) - Docker Flow Swarm Listener
 - [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
 - [ip2location/ip2location-go](https://github.com/ip2location/ip2location-go) - Use IP2Location geolocation database to lookup the geolocation information with IP2Location Go Package. It can be used to determine country, region, city, coordinates, zip code, time zone, ISP, domain name, connection type, area code, weather, MCC, MNC, mobile brand name, elevation, usage type, address type and IAB category that any IP address or hostname originates from.
@@ -3216,6 +3227,9 @@
 
 ## JavaScript 
 
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree
+- [joeyAghion/unique_tabs](https://github.com/joeyAghion/unique_tabs) - A Chrome extension that closes duplicate tabs when you open a new tab or navigate to a new page.
+- [ktr0731/excl](https://github.com/ktr0731/excl) - A Chrome extension for closing all tabs of duplicate URLs
 - [emileaben/ixp-country-jedi](https://github.com/emileaben/ixp-country-jedi) - Set of scripts to measure and analyse countries and/or IXPs using RIPE Atlas
 - [bellingcat/cloud-free-subregion](https://github.com/bellingcat/cloud-free-subregion) - Google Earth Engine application that finds Sentinel-2 images that are cloud-free in a particular area of interest.
 - [zecojls/tagee](https://github.com/zecojls/tagee) - Terrain Analysis in Google Earth Engine
@@ -3467,7 +3481,6 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
@@ -3770,7 +3783,6 @@
 - [e2e-boilerplate/playwright-es-modules-babel-jest-expect](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect) - Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Expect.
 - [pownjs/pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
 - [pownjs/recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
-- [karlvr/homebridge-roomba2](https://github.com/karlvr/homebridge-roomba2) - Homebridge plugin to connect iRobot Roomba devices with Homebridge/HomeKit.
 - [edf-hpc/slurm-web](https://github.com/edf-hpc/slurm-web) - Slurm HPC workload manager web JS dashboard and JSON REST API
 - [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
@@ -5804,6 +5816,7 @@
 
 ## Perl 
 
+- [gryphonshafer/Geo-GoogleEarth-AutoTour](https://github.com/gryphonshafer/Geo-GoogleEarth-AutoTour) - Generate Google Earth Camera Tours from Tracks and Paths
 - [skarfacegc/FlowTrack](https://github.com/skarfacegc/FlowTrack) - An all in one netflow collector with a web front end.  Designed for small networks.
 - [nriley/Pester](https://github.com/nriley/Pester) - Simple, disposable alarms and timers for macOS.
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
@@ -5884,12 +5897,17 @@
 
 - [cloudflare/1.1.1.1](https://github.com/cloudflare/1.1.1.1) - Cloudflare DNS resolver website.
 
+## Puppet 
+
+- [goodrobots/maverick](https://github.com/goodrobots/maverick) - UAV Autonomous Systems Management
+
 ## PureBasic 
 
 - [neuralet/models](https://github.com/neuralet/models) - Neuralet edge deep learning models library. Neuralet is an open-source platform for edge deep learning models on GPU, TPU, and more.
 
 ## Python 
 
+- [nidhaloff/gpx-converter](https://github.com/nidhaloff/gpx-converter) - python package for manipulating gpx files and easily converting gpx to other different formats
 - [llvll/propagation-heatmap](https://github.com/llvll/propagation-heatmap) - Demo for plotting RF propagation heatmap using the two-dimensional signal strength data of 2.4 GHz Wi-Fi antenna.
 - [jimoconnell/GoogleSpeak](https://github.com/jimoconnell/GoogleSpeak) - 
 - [pytroll/satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
@@ -6199,6 +6217,7 @@
 - [simonw/datasette-graphql](https://github.com/simonw/datasette-graphql) - Datasette plugin providing an automatic GraphQL API for your SQLite databases
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
 - [swz30/MPRNet](https://github.com/swz30/MPRNet) - Official repository for "Multi-Stage Progressive Image Restoration" (CVPR 2021). SOTA results for image deblurring, deraining, and denoising.
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [andrewp-as-is/chrome-bookmarks.py](https://github.com/andrewp-as-is/chrome-bookmarks.py) - :link: Google Chrome bookmarks helper
 - [andrewp-as-is/applescript.py](https://github.com/andrewp-as-is/applescript.py) - :apple: :snake: run applescript
 - [youdroid/home-assistant-gitea](https://github.com/youdroid/home-assistant-gitea) - 🍵 Gitea component to follow your repositories
@@ -6680,7 +6699,7 @@
 - [madereddy/noisy](https://github.com/madereddy/noisy) - Simple random DNS, HTTP/S internet traffic noise generator in a Docker container
 - [vlall/Darksearch](https://github.com/vlall/Darksearch) - :mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
-- [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
+- [james04gr/TorCrawl.py](https://github.com/james04gr/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [dirtyfilthy/freshonions-torscraper](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion
 - [danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor) - An extendable tool to Collect, Crawl and Monitor onion sites on tor network and index collected information on Elasticsearch
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
@@ -6866,7 +6885,7 @@
 - [mister-monster/YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot written in Python3 that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel.
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [timescale/timescaledb-docker-ha](https://github.com/timescale/timescaledb-docker-ha) - Create Docker images containing TimescaleDB, Patroni to be used by developers and Kubernetes.
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
 - [truenas/iocage](https://github.com/truenas/iocage) - A FreeBSD jail manager written in Python 3
 - [j3ssie/Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
@@ -6912,7 +6931,7 @@
 - [lensacom/sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn = Sparkit-learn
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [dask/distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
-- [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark
+- [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
 - [bitsofinfo/testssl.sh-alerts](https://github.com/bitsofinfo/testssl.sh-alerts) - Alerting engine (slack etc) for testssl.sh JSON result output files
 - [TKCERT/pathfinder](https://github.com/TKCERT/pathfinder) - Generates a graph of the traceroute information in nmap XML files using graphviz.
@@ -7696,7 +7715,7 @@
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [shashanoid/Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -8025,7 +8044,6 @@
 - [tresacton/dspectrumgui](https://github.com/tresacton/dspectrumgui) - The goal of this app is to make it trivial to demodulate most basic RF transmission, and provide a digital worksheet for your reverse engineering efforts.
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
-- [goodrobots/maverick](https://github.com/goodrobots/maverick) - UAV Autonomous Systems Management
 - [zsh-users/zsh-apple-touchbar](https://github.com/zsh-users/zsh-apple-touchbar) - Make your touchbar more powerful.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [NREL/api-umbrella](https://github.com/NREL/api-umbrella) - Open source API management platform
@@ -8303,6 +8321,7 @@
 
 ## Shell 
 
+- [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [angela-d/autohosts](https://github.com/angela-d/autohosts) - Automate hosts file updates on Linux and MacOS.  Block Firefox telemetry, Google snooping and web trackers at the root.
 - [chuot/rdio-scanner-pi-setup](https://github.com/chuot/rdio-scanner-pi-setup) - A fully working police radio scanner on a Raspberry Pi with Trunk Recorder and Rdio Scanner
@@ -9707,6 +9726,7 @@
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [testimio/root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
+- [karlvr/homebridge-roomba2](https://github.com/karlvr/homebridge-roomba2) - Homebridge plugin to connect iRobot Roomba devices with Homebridge/HomeKit.
 - [itavero/homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
 - [Brandawg93/homebridge-nest-cam](https://github.com/Brandawg93/homebridge-nest-cam) - View your Nest cams in HomeKit using Homebridge.
 - [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
