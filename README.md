@@ -183,6 +183,7 @@
 
 ## C 
 
+- [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
 - [xenogenesi/task-spooler](https://github.com/xenogenesi/task-spooler) - fork of ts (task spooler by Lluís Batlle i Rossell) to add GNU/Autotools support, and some helper to generate packages
 - [libimobiledevice/libusbmuxd](https://github.com/libimobiledevice/libusbmuxd) - A client library to multiplex connections from and to iOS devices
 - [libimobiledevice/idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
@@ -785,6 +786,9 @@
 
 ## C++ 
 
+- [geolink/opentracker](https://github.com/geolink/opentracker) - OpenTracker - open source GPS/GLONASS hardware
+- [GPSBabel/gpsbabel](https://github.com/GPSBabel/gpsbabel) - GPSBabel: convert, manipulate, and transfer data from GPS programs or GPS receivers. Open Source and supported on MacOS, Windows, Linux, and more. Pointy clicky GUI or a command line version...
+- [jmcmellen/splat](https://github.com/jmcmellen/splat) - SPLAT! is an RF Signal Propagation, Loss, And Terrain analysis tool for the spectrum between 20 MHz and 20 GHz. This is a copy of the code written by John Magliacane
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [kunalkandekar/quicktrace](https://github.com/kunalkandekar/quicktrace) - Command-line utility and C++ class for running quick traceroutes, discovering intermediate hop IPs as quickly as possible, at the expense of less accurate per-hop RTTs.
@@ -1155,6 +1159,7 @@
 
 ## CoffeeScript 
 
+- [fw42/honeymap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map
 - [danielbayley/alfred-finder-new-item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 - [flosse/sloc](https://github.com/flosse/sloc) - simple tool to count SLOC (source lines of code)
 - [balena-os/balena-raspberrypi](https://github.com/balena-os/balena-raspberrypi) - Balena support for RaspberryPI boards
@@ -1408,6 +1413,8 @@
 
 ## Go 
 
+- [newtools/zsocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Golang
+- [barelyhuman/og-image](https://github.com/barelyhuman/og-image) - Open Graph Image Generator (CLI)
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 - [NiceGuyIT/smartctl_exporter](https://github.com/NiceGuyIT/smartctl_exporter) - Export smartctl statistics to prometheus
 - [docker-flow/docker-flow-swarm-listener](https://github.com/docker-flow/docker-flow-swarm-listener) - Docker Flow Swarm Listener
@@ -2884,6 +2891,7 @@
 
 ## HTML 
 
+- [f4goh/WSPR](https://github.com/f4goh/WSPR) - Weak Signal Propagation Reporter on a breadboard
 - [ChHarding/TouchTerrain_for_CAGEO](https://github.com/ChHarding/TouchTerrain_for_CAGEO) - Touch Terrain: A python app to create 3D printable terrain models (STL/OBJ) from only elevation data (via Google Earth Engine) or from a local geotiff. Has been used for CNC terrain models. Runs as a web app (http://touchterrain.org), as .py file (standalone.py) or as jupyter notebook. Docker image: https://github.com/ChHarding/TouchTerrain_jupyter_docker
 - [node-red/node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
 - [MycroftAI/mycroft-skills](https://github.com/MycroftAI/mycroft-skills) - A repository for sharing and collaboration for third-party Mycroft skills development.
@@ -3050,6 +3058,8 @@
 
 ## Java 
 
+- [google/gps-measurement-tools](https://github.com/google/gps-measurement-tools) - 
+- [opennetworkinglab/onos](https://github.com/opennetworkinglab/onos) - Open Network Operating System
 - [apache/guacamole-client](https://github.com/apache/guacamole-client) - Mirror of Apache Guacamole Client
 - [nmonvisualizer/nmonvisualizer](https://github.com/nmonvisualizer/nmonvisualizer) - A Java GUI tool for analyzing NMON and other system stats files
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -3227,6 +3237,8 @@
 
 ## JavaScript 
 
+- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
+- [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree
 - [joeyAghion/unique_tabs](https://github.com/joeyAghion/unique_tabs) - A Chrome extension that closes duplicate tabs when you open a new tab or navigate to a new page.
 - [ktr0731/excl](https://github.com/ktr0731/excl) - A Chrome extension for closing all tabs of duplicate URLs
@@ -3481,7 +3493,6 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
@@ -3560,7 +3571,7 @@
 - [sseemayer/OCRmyPDF-web](https://github.com/sseemayer/OCRmyPDF-web) - A tiny frontend for OCRing PDF files via the web.
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - An open-source no-code platform for building and deploying internal tools 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
 - [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
 - [custom-cards/bignumber-card](https://github.com/custom-cards/bignumber-card) - 
 - [custom-cards/circle-sensor-card](https://github.com/custom-cards/circle-sensor-card) - A custom component for displaying sensor values as cards or elements
@@ -4943,6 +4954,8 @@
 
 ## Others 
 
+- [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization) - A general framework for map-based visual localization. It contains 1) Map Generation which support traditional features or deeplearning features. 2) Hierarchical-Localizationvisual in visual(points or line) map. 3)Fusion framework with IMU, wheel odom and GPS sensors.
+- [sdnds-tw/awesome-sdn](https://github.com/sdnds-tw/awesome-sdn) - A awesome list about Software Defined Network (SDN)
 - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
 - [philippgaertner/awesome-earth-engine-apps](https://github.com/philippgaertner/awesome-earth-engine-apps) - A collection of all public Google Earth Engine Apps.
 - [bethanysciences/radio](https://github.com/bethanysciences/radio) - rf digital encoding and decoding applications
@@ -5654,6 +5667,7 @@
 
 ## PHP 
 
+- [dedalozzo/facebook-od](https://github.com/dedalozzo/facebook-od) - Facebook Open Graph Object Debugger Command-Line Interface (CLI).
 - [essence/essence](https://github.com/essence/essence) - Extracts information about web pages, like youtube videos, twitter statuses or blog articles.
 - [Znerox/wifimap](https://github.com/Znerox/wifimap) - WiFi- and Bluetooth devices overlayed on Google Maps. Sourced from WiGLE Android app / Aircrack-ng.
 - [magicbug/Cloudlog](https://github.com/magicbug/Cloudlog) - Web based amateur radio logging application built using PHP & MySQL supports general station logging tasks from HF to Microwave with supporting applications to support CAT control.
@@ -5911,6 +5925,10 @@
 
 ## Python 
 
+- [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library
+- [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
+- [nojronatron/NoiseFloorReporter](https://github.com/nojronatron/NoiseFloorReporter) - RF Noise Floor Mapping and Reporting Project
+- [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
 - [GISDev01/iSniff-GPS](https://github.com/GISDev01/iSniff-GPS) - Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices
 - [marcelmaatkamp/iSniff-GPS](https://github.com/marcelmaatkamp/iSniff-GPS) - Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices
@@ -6226,6 +6244,7 @@
 - [simonw/datasette-graphql](https://github.com/simonw/datasette-graphql) - Datasette plugin providing an automatic GraphQL API for your SQLite databases
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
 - [swz30/MPRNet](https://github.com/swz30/MPRNet) - Official repository for "Multi-Stage Progressive Image Restoration" (CVPR 2021). SOTA results for image deblurring, deraining, and denoising.
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [andrewp-as-is/chrome-bookmarks.py](https://github.com/andrewp-as-is/chrome-bookmarks.py) - :link: Google Chrome bookmarks helper
 - [andrewp-as-is/applescript.py](https://github.com/andrewp-as-is/applescript.py) - :apple: :snake: run applescript
 - [youdroid/home-assistant-gitea](https://github.com/youdroid/home-assistant-gitea) - 🍵 Gitea component to follow your repositories
@@ -6559,7 +6578,7 @@
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
 - [ChiefGokhlayeh/pluto-sdr-pr](https://github.com/ChiefGokhlayeh/pluto-sdr-pr) - Turning cheap(ish) Pluto-SDR receivers into passive radar sensors
-- [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping API for Mint.com
+- [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping "API" for Mint.com
 - [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites
 - [huntrar/scrape](https://github.com/huntrar/scrape) - a command-line web scraping tool
 - [keikoproj/minion-manager](https://github.com/keikoproj/minion-manager) - Intelligent use of Spot Instances in Kubernetes
@@ -6948,7 +6967,7 @@
 - [theonewolf/TermRecord](https://github.com/theonewolf/TermRecord) - Terminal session recorder that outputs self-contained HTML!
 - [varnav/dump1090-netdata](https://github.com/varnav/dump1090-netdata) - Netdata plugin for dump1090-fa
 - [nickdannenberg/netdata-jitsi-videobridge](https://github.com/nickdannenberg/netdata-jitsi-videobridge) - Netdata plugin for jitsi videobridge stats
-- [dandavison/chronologer](https://github.com/dandavison/chronologer) - Visualize changes in program timing over git commit history
+- [dandavison/chronologer](https://github.com/dandavison/chronologer) - Visualize performance benchmarks over git commit history
 - [tatsuhiro-t/apt-metalink](https://github.com/tatsuhiro-t/apt-metalink) - Make 'apt-get' faster by downloading Debian/Ubuntu packages from multiple servers concurrently.
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
@@ -7217,7 +7236,7 @@
 - [mit-acl/cadrl_ros](https://github.com/mit-acl/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 - [lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection) - Object detection project for real-time (webcam) and offline (video processing) application.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open Source Face Recognition AI NVR
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano
 - [BMW-InnovationLab/BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
 - [idealo/image-quality-assessment](https://github.com/idealo/image-quality-assessment) - Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
@@ -8066,6 +8085,8 @@
 
 ## Rust 
 
+- [LinkTed/doh-client](https://github.com/LinkTed/doh-client) - DNS over HTTPS client
+- [passcod/splash](https://github.com/passcod/splash) - 💦 RF Signal Propagation analysis tool (eventually). Learning project (currently)
 - [wisespace-io/nearby](https://github.com/wisespace-io/nearby) - Scans all nearby wifi networks and the devices connected to each network for Indoor positioning
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
@@ -8258,7 +8279,7 @@
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -8274,7 +8295,7 @@
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
-- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your cloudflare workers
+- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [dbohdan/jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -9357,6 +9378,7 @@
 
 ## Swift 
 
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [dingwilson/MultiPeer](https://github.com/dingwilson/MultiPeer) - 📱📲 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
 - [AXU9513/WiFi-Info-Recorder](https://github.com/AXU9513/WiFi-Info-Recorder) - A WiFi information recorder for macOS.
 - [Mortennn/Notarize](https://github.com/Mortennn/Notarize) - CLI to easily notarize a Mac app
@@ -9516,6 +9538,7 @@
 
 ## TeX 
 
+- [efidvir/CSE-Final-Project](https://github.com/efidvir/CSE-Final-Project) - WiFi Based Wireless Imaging and Positioning for WSN
 - [dimitriblock/gr-cheatsheet](https://github.com/dimitriblock/gr-cheatsheet) - Cheatsheet for gnuradio
 - [GerHobbelt/qiqqa-open-source](https://github.com/GerHobbelt/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows (a bleeding edge dev fork) ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・    ☞☞☞ File any issues you find in the main repo issue tracker at https://github.com/jimmejardine/qiqqa-open-source/issues
 - [jimmejardine/qiqqa-open-source](https://github.com/jimmejardine/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows
@@ -9743,7 +9766,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [FiretableProject/firetable](https://github.com/FiretableProject/firetable) - Unlock the full potential of Google Firestore with Excel/Google Sheets like UI.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Unlock the full potential of Google Firestore with Excel/Google Sheets like UI.
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
 - [AlexanderLevenskikh/network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
