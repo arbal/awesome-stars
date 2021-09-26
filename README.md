@@ -183,6 +183,9 @@
 
 ## C 
 
+- [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
+- [CocoaHeadsBrasil/MuteUnmuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
+- [yodaos-project/yodaos](https://github.com/yodaos-project/yodaos) - Yet another Linux distribution for voice-enabled IoT and embrace Web standards
 - [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
 - [xenogenesi/task-spooler](https://github.com/xenogenesi/task-spooler) - fork of ts (task spooler by Lluís Batlle i Rossell) to add GNU/Autotools support, and some helper to generate packages
 - [libimobiledevice/libusbmuxd](https://github.com/libimobiledevice/libusbmuxd) - A client library to multiplex connections from and to iOS devices
@@ -2551,7 +2554,6 @@
 - [syncfuture/keepa](https://github.com/syncfuture/keepa) - 
 - [JoshuaMart/PwnedPasswordsChecker](https://github.com/JoshuaMart/PwnedPasswordsChecker) - Search (offline) if your password (NTLM or SHA1 format) has been leaked (HIBP passwords list v7)
 - [dhogborg/rtl-gopow](https://github.com/dhogborg/rtl-gopow) - Render tables from rtl_power to a nice heat map
-- [UCCNetsoc/NaC](https://github.com/UCCNetsoc/NaC) - Netsoc-as-Code - Infrastructure-as-Code for UCC Netsoc. The Ansible playbooks that power all of  our backend
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [trevoro/sshauth](https://github.com/trevoro/sshauth) - SSH Authentication using the Github Teams API
 - [cloudposse/github-authorized-keys](https://github.com/cloudposse/github-authorized-keys) - Use GitHub teams to manage system user accounts and authorized_keys
@@ -3240,6 +3242,18 @@
 
 ## JavaScript 
 
+- [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
+- [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
+- [hanayik/CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
+- [silverwind/default-gateway](https://github.com/silverwind/default-gateway) - Get the default network gateway, cross-platform.
+- [sindresorhus/internal-ip-cli](https://github.com/sindresorhus/internal-ip-cli) - Get your internal IP address
+- [sindresorhus/internal-ip](https://github.com/sindresorhus/internal-ip) - Get your internal IP address
+- [sindresorhus/public-ip-cli](https://github.com/sindresorhus/public-ip-cli) - Get your public IP address
+- [sindresorhus/public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address - very fast!
+- [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
+- [sindresorhus/gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the given or current directory repo
+- [mafintosh/signalhub](https://github.com/mafintosh/signalhub) - Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
+- [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl) - Small microservice that unfurls a URL and returns the OpenGraph meta data
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree
@@ -3470,7 +3484,7 @@
 - [webtorrent/torrent-discovery](https://github.com/webtorrent/torrent-discovery) - Discover BitTorrent and WebTorrent peers
 - [webtorrent/magnet-uri](https://github.com/webtorrent/magnet-uri) - Parse a magnet URI and return an object of keys/values
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
-- [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A chrome extension for the Motrix Download Manager
+- [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
 - [rstacruz/psdinfo](https://github.com/rstacruz/psdinfo) - Inspect PSD files from the command line
 - [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 - [adobe-photoshop/generator-cli](https://github.com/adobe-photoshop/generator-cli) - Command line launcher for Photoshop Generator
@@ -4864,6 +4878,7 @@
 
 ## Objective-C 
 
+- [yonilevy/automute](https://github.com/yonilevy/automute) - A MacOS menu bar app that mutes the sound on headphones disconnect / awake from sleep
 - [colemancda/Wi-Fi-Crack](https://github.com/colemancda/Wi-Fi-Crack) - OS X GUI for Aircrack-NG
 - [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 - [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
@@ -4957,6 +4972,7 @@
 
 ## Others 
 
+- [yodaos-project/yoda-book](https://github.com/yodaos-project/yoda-book) - The book covers the application development and customization.
 - [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization) - A general framework for map-based visual localization. It contains 1) Map Generation which support traditional features or deeplearning features. 2) Hierarchical-Localizationvisual in visual(points or line) map. 3)Fusion framework with IMU, wheel odom and GPS sensors.
 - [sdnds-tw/awesome-sdn](https://github.com/sdnds-tw/awesome-sdn) - A awesome list about Software Defined Network (SDN)
 - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
@@ -5530,6 +5546,7 @@
 - [aspiers/lnav-formats](https://github.com/aspiers/lnav-formats) - Extra log file format descriptions for the lnav log file reader
 - [damiankloip/lnav-php](https://github.com/damiankloip/lnav-php) - LNAV PHP
 - [javierhz/lnav-logcat-Android](https://github.com/javierhz/lnav-logcat-Android) - logcat file description for lnav
+- [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
 - [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
@@ -6342,7 +6359,7 @@
 - [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor passively monitors BLE sensors (Xiaomi, Qingping, ATC, Brifit, Govee, Kegtron, Moat, iNode, Yeelight, RuuviTag, SensorPush, Teltonika and Thermoplus)
 - [lfasci/homeassistant-prometheus-query](https://github.com/lfasci/homeassistant-prometheus-query) - Inspired from homeassitant Command line Sensor this sensor take values from Prometheus metrics using PromQL query
 - [filipsPL/autowx2](https://github.com/filipsPL/autowx2) - The program for scheduling recordings and processing of the satellite and ground radio transmissions (like capturing of the weather APT images from NOAA satellites, voice messages from ISS, fixed time recordings of WeatherFaxes etc.) :earth_africa: :satellite:
-- [fossasia/open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events https://test.eventyay.com
+- [fossasia/open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events https://test-api.eventyay.com
 - [TheByteStuff/RemoteSyslog_Service](https://github.com/TheByteStuff/RemoteSyslog_Service) - Home Assistant Custom Component - send Syslog message to remote server.
 - [CGrassin/EMI_mapper](https://github.com/CGrassin/EMI_mapper) - A python script using RTL-SDR and OpenCV to create fast 2D electromagnetic maps.
 - [mverleun/RTL433-to-mqtt](https://github.com/mverleun/RTL433-to-mqtt) - Publish info from RTL433 receiver to MQTT broker
@@ -6688,7 +6705,7 @@
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) - Smart DNS proxy to watch Netflix
 - [EvaSeidlmayer/orcid-for-wikidata](https://github.com/EvaSeidlmayer/orcid-for-wikidata) - import information (affiliation, education) from ORCID database to Wikidata regarding authors of scientific papers
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily and manage data for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily manage data for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 200 universities.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -7239,7 +7256,7 @@
 - [mit-acl/cadrl_ros](https://github.com/mit-acl/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 - [lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection) - Object detection project for real-time (webcam) and offline (video processing) application.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - AI Face Recognition NVR. Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano
 - [BMW-InnovationLab/BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
 - [idealo/image-quality-assessment](https://github.com/idealo/image-quality-assessment) - Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
@@ -7479,6 +7496,7 @@
 - [xmikos/soapy_power](https://github.com/xmikos/soapy_power) - Obtain power spectrum from SoapySDR devices (RTL-SDR, Airspy, SDRplay, HackRF, bladeRF, USRP, LimeSDR, etc.)
 - [iocage/iocage](https://github.com/iocage/iocage) - A FreeBSD jail manager written in Python 3
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
+- [UCCNetsoc/NaC](https://github.com/UCCNetsoc/NaC) - Netsoc-as-Code - Infrastructure-as-Code for UCC Netsoc. The Ansible playbooks that power all of  our backend
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [matthewwall/weewx-sdr](https://github.com/matthewwall/weewx-sdr) - weewx driver for software-defined radio
@@ -7693,7 +7711,6 @@
 - [vesche/histstat](https://github.com/vesche/histstat) - history for netstat
 - [dbohdan/remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API.
-- [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
 - [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [alsmith/multicast-relay](https://github.com/alsmith/multicast-relay) - Relay multicast and broadcast packets between interfaces.
 - [nils-werner/zget](https://github.com/nils-werner/zget) - Filename based peer to peer file transfer
@@ -7940,7 +7957,7 @@
 - [slhck/homebrew-moreutils](https://github.com/slhck/homebrew-moreutils) - Moreutils for Homebrew with additional options
 - [dholm/homebrew-sdr](https://github.com/dholm/homebrew-sdr) - Homebrew formulas for software defined radio
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line tool
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility
 - [leejones/alfred-grafana-dashboards-workflow](https://github.com/leejones/alfred-grafana-dashboards-workflow) - An Alfred workflow to search your Grafana dashboards and open one
 - [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
 - [TransparencyToolkit/LookingGlass](https://github.com/TransparencyToolkit/LookingGlass) - Intuitive and configurable search interface for document archives.
@@ -8088,6 +8105,7 @@
 
 ## Rust 
 
+- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [LinkTed/doh-client](https://github.com/LinkTed/doh-client) - DNS over HTTPS client
 - [passcod/splash](https://github.com/passcod/splash) - 💦 RF Signal Propagation analysis tool (eventually). Learning project (currently)
 - [wisespace-io/nearby](https://github.com/wisespace-io/nearby) - Scans all nearby wifi networks and the devices connected to each network for Indoor positioning
@@ -8354,6 +8372,8 @@
 
 ## Shell 
 
+- [doekman/osagitfilter](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files
+- [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 - [AnonymousAt3/piracy](https://github.com/AnonymousAt3/piracy) - Automated WIFI Hacking Tool
 - [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
@@ -9236,7 +9256,7 @@
 - [trimstray/multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 - [JayBrown/frep](https://github.com/JayBrown/frep) - macOS File Report: shell script that outputs lots of Unix, FS, macOS, Finder, and Spotlight information on any file type
 - [PlqnK/truenas-useful-scripts](https://github.com/PlqnK/truenas-useful-scripts) - A collection of scripts for TrueNAS to display useful information, do some reporting by email and backup the TrueNAS config.
-- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native ZSH port of z.sh.
+- [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [petrkotek/chromecastize](https://github.com/petrkotek/chromecastize) - Bash script to convert video files into Google Chromecast supported format.
 - [Limych/addon-presence-monitor](https://github.com/Limych/addon-presence-monitor) - Hassio Add-on. Passive Bluetooth presence detection of beacons, cell phones, and other Bluetooth devices.
@@ -9381,6 +9401,10 @@
 
 ## Swift 
 
+- [zenangst/Syncalicious](https://github.com/zenangst/Syncalicious) - 🍫 Syncalicious
+- [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer 🎧
+- [fabiusBile/Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) - Implements a Widget for Spotify in the Notification Center of macOS  11.0 BigSur
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [dingwilson/MultiPeer](https://github.com/dingwilson/MultiPeer) - 📱📲 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
 - [AXU9513/WiFi-Info-Recorder](https://github.com/AXU9513/WiFi-Info-Recorder) - A WiFi information recorder for macOS.
@@ -9550,6 +9574,8 @@
 
 ## TypeScript 
 
+- [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - The browser prompter for macOS
+- [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [CorpGlory/grafana-data-exporter-panel](https://github.com/CorpGlory/grafana-data-exporter-panel) - Panel for exporting metrics from Grafana dashboards
 - [geeks-r-us/mqtt-panel](https://github.com/geeks-r-us/mqtt-panel) - Simple Grafana panel that allows to communicate with a mqtt server
@@ -9696,7 +9722,7 @@
 - [davidmerrique/homebridge-adguardhome](https://github.com/davidmerrique/homebridge-adguardhome) - AdGuard Home plugin for Homebridge
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
-- [nurikk/z2m-frontend](https://github.com/nurikk/z2m-frontend) - Zigbee2MQTT frontend
+- [nurikk/zigbee2mqtt-frontend](https://github.com/nurikk/zigbee2mqtt-frontend) - Zigbee2MQTT frontend
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3
@@ -9769,7 +9795,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform that allows you to manage Firestore data in a spreadsheet-like UI, write Cloud Functions in the browser, and connect to your favorite third-party platforms.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
 - [AlexanderLevenskikh/network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
