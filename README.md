@@ -790,6 +790,8 @@
 
 ## C++ 
 
+- [ggerganov/wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
+- [gr-vt/gr-signal_exciter](https://github.com/gr-vt/gr-signal_exciter) - A tool set for efficient generation of wideband populated spectrum. (As is: Working on 16.04 & 14.04; make sure to run 'pybombs recipes update')
 - [geolink/opentracker](https://github.com/geolink/opentracker) - OpenTracker - open source GPS/GLONASS hardware
 - [GPSBabel/gpsbabel](https://github.com/GPSBabel/gpsbabel) - GPSBabel: convert, manipulate, and transfer data from GPS programs or GPS receivers. Open Source and supported on MacOS, Windows, Linux, and more. Pointy clicky GUI or a command line version...
 - [jmcmellen/splat](https://github.com/jmcmellen/splat) - SPLAT! is an RF Signal Propagation, Loss, And Terrain analysis tool for the spectrum between 20 MHz and 20 GHz. This is a copy of the code written by John Magliacane
@@ -1075,7 +1077,7 @@
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [Ullaakut/RTSPAllTheThings](https://github.com/Ullaakut/RTSPAllTheThings) - Deprecated RTSP media server -- Use github.com/aler9/rtsp-simple-server instead.
 - [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
-- [csete/gqrx](https://github.com/csete/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
+- [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
@@ -1099,6 +1101,9 @@
 
 ## CMake 
 
+- [rftap/gr-rftap](https://github.com/rftap/gr-rftap) - RFtap Module for GNU Radio
+- [tkuester/gr-reveng](https://github.com/tkuester/gr-reveng) - Utilities to help with reverse engineering RF protocols.
+- [tkuester/gr-gotenna](https://github.com/tkuester/gr-gotenna) - Passive SDR analysis of goTenna packets with scapy
 - [daniestevez/gr-outernet](https://github.com/daniestevez/gr-outernet) - GNUradio OOT module for Outernet
 - [osh/gr-pcap](https://github.com/osh/gr-pcap) - 
 - [pothosware/PothosSDR](https://github.com/pothosware/PothosSDR) - Pothos SDR windows development environment
@@ -1202,6 +1207,7 @@
 
 ## Dockerfile 
 
+- [jumson/limesdr](https://github.com/jumson/limesdr) - Working area to develop working docker images that can be used with limesdr devices.
 - [kazazes/balena-tailscale](https://github.com/kazazes/balena-tailscale) - 
 - [balena-io/open-balena-registry](https://github.com/balena-io/open-balena-registry) - Docker image storage backend for openBalena
 - [atlassian/docker-chromium-xvfb](https://github.com/atlassian/docker-chromium-xvfb) - Docker image for running browser tests against headless Chromium
@@ -1417,6 +1423,12 @@
 
 ## Go 
 
+- [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - This is a CLI tool to execute Google Apps Script (GAS) at own terminal on local PC. Also this CLI tool can be used for managing files in Google Drive for OAuth2 and Service Account.
+- [google/oauth2l](https://github.com/google/oauth2l) - oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
+- [nikitavoloboev/alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
+- [nkcmr/alfred-apple-app-search](https://github.com/nkcmr/alfred-apple-app-search) - search the mac app store right in alfred
+- [nikitavoloboev/small-workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use
+- [deanishe/alfred-gcal](https://github.com/deanishe/alfred-gcal) - View Google Calendar events in Alfred
 - [RumbleDiscovery/rumble-tools](https://github.com/RumbleDiscovery/rumble-tools) - Open source tools, libraries, and datasets related to the Rumble Network Discovery product and associated research
 - [newtools/zsocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Golang
 - [barelyhuman/og-image](https://github.com/barelyhuman/og-image) - Open Graph Image Generator (CLI)
@@ -3242,6 +3254,10 @@
 
 ## JavaScript 
 
+- [andreasonny83/lighthouse-ci](https://github.com/andreasonny83/lighthouse-ci) - A useful wrapper around Google Lighthouse CLI
+- [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - Alfred workflows I use. Script to automatically export.
+- [jopemachine/alfred-chrome-workflow](https://github.com/jopemachine/alfred-chrome-workflow) - Chrome workflow for Alfred 4
+- [ccs-amsterdam/DigitalFootprintsLab](https://github.com/ccs-amsterdam/DigitalFootprintsLab) - React app for client side gathering, visualizing and exporting digital trace data
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
 - [hanayik/CAM](https://github.com/hanayik/CAM) - macOS camera recording using ffmpeg
@@ -4325,7 +4341,7 @@
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [bendem/cf-dyndns-worker](https://github.com/bendem/cf-dyndns-worker) - A CloudFlare worker that updates dns records
 - [silverwind/tcpie](https://github.com/silverwind/tcpie) - CLI tool to ping any TCP port
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [exoframejs/exoframe-server](https://github.com/exoframejs/exoframe-server) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
@@ -4627,6 +4643,7 @@
 
 ## Jupyter Notebook 
 
+- [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [google/earthengine-community](https://github.com/google/earthengine-community) - Tutorials and content created by Earth Engine users, for Earth Engine users
 - [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and read files from the NOAA GOES archive on AWS.
 - [HamedAlemo/visualize-goes16](https://github.com/HamedAlemo/visualize-goes16) - This is a sample code to visualize GOES16 data, reading them directly from AWS S3 storage
@@ -4803,6 +4820,7 @@
 
 ## Makefile 
 
+- [fniephaus/alfred-network](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands
 - [WICG/floc](https://github.com/WICG/floc) - FLoC
 - [nxhack/openwrt-node-packages](https://github.com/nxhack/openwrt-node-packages) - OpenWrt Project Node.js packages. v12.x LTS and v14.x LTS and v16.x Current
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
@@ -4878,6 +4896,8 @@
 
 ## Objective-C 
 
+- [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
+- [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer) - 💻 Ability to rename desktop spaces on macOS 10.10+ (DOES NOT CURRENTLY SUPPORT M1)
 - [yonilevy/automute](https://github.com/yonilevy/automute) - A MacOS menu bar app that mutes the sound on headphones disconnect / awake from sleep
 - [colemancda/Wi-Fi-Crack](https://github.com/colemancda/Wi-Fi-Crack) - OS X GUI for Aircrack-NG
 - [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
@@ -4972,6 +4992,10 @@
 
 ## Others 
 
+- [binga/cloud-gpus](https://github.com/binga/cloud-gpus) - This repository contains information about Cloud GPU offerings for Machine Learning practitioners.
+- [tanaikech/taking-advantage-of-google-apps-script](https://github.com/tanaikech/taking-advantage-of-google-apps-script) - Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my blog, Gists and GitHub are summarized.
+- [theonesean/alfred-link-filter](https://github.com/theonesean/alfred-link-filter) - An Alfred workflow that quickly finds links in pasted text.
+- [cn0xroot/RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) - RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools.无线通信协议相关的工具集，可借助SDR硬件+相关工具对无线通信进行研究。Collect with ♥ by HackSmith
 - [yodaos-project/yoda-book](https://github.com/yodaos-project/yoda-book) - The book covers the application development and customization.
 - [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization) - A general framework for map-based visual localization. It contains 1) Map Generation which support traditional features or deeplearning features. 2) Hierarchical-Localizationvisual in visual(points or line) map. 3)Fusion framework with IMU, wheel odom and GPS sensors.
 - [sdnds-tw/awesome-sdn](https://github.com/sdnds-tw/awesome-sdn) - A awesome list about Software Defined Network (SDN)
@@ -5687,6 +5711,7 @@
 
 ## PHP 
 
+- [slunak/abuseipdb-alfred-workflow](https://github.com/slunak/abuseipdb-alfred-workflow) - AbuseIPDB Workflow for Alfred
 - [dedalozzo/facebook-od](https://github.com/dedalozzo/facebook-od) - Facebook Open Graph Object Debugger Command-Line Interface (CLI).
 - [essence/essence](https://github.com/essence/essence) - Extracts information about web pages, like youtube videos, twitter statuses or blog articles.
 - [Znerox/wifimap](https://github.com/Znerox/wifimap) - WiFi- and Bluetooth devices overlayed on Google Maps. Sourced from WiGLE Android app / Aircrack-ng.
@@ -5739,7 +5764,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
+- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto.
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -5854,6 +5879,7 @@
 
 ## Perl 
 
+- [untoldwind/alfred2-layout](https://github.com/untoldwind/alfred2-layout) - Alfred 2 Layout workflow
 - [gryphonshafer/Geo-GoogleEarth-AutoTour](https://github.com/gryphonshafer/Geo-GoogleEarth-AutoTour) - Generate Google Earth Camera Tours from Tracks and Paths
 - [skarfacegc/FlowTrack](https://github.com/skarfacegc/FlowTrack) - An all in one netflow collector with a web front end.  Designed for small networks.
 - [nriley/Pester](https://github.com/nriley/Pester) - Simple, disposable alarms and timers for macOS.
@@ -5945,6 +5971,22 @@
 
 ## Python 
 
+- [aayush1205/Colab-Connect](https://github.com/aayush1205/Colab-Connect) - Links your local machine to Google Colab for hassle-free GPU enabled development.
+- [Akshay090/colab-cli](https://github.com/Akshay090/colab-cli) - ✨Experience better workflow with google colab, local jupyter notebooks and git
+- [Nekmo/gkeep](https://github.com/Nekmo/gkeep) - Google Keep Command Line Interface (CLI)
+- [metasmile/strsync](https://github.com/metasmile/strsync) - A CLI tool for localization resource management on Xcode. Built with Google Translator.
+- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [hoxu/gitstats](https://github.com/hoxu/gitstats) - git history statistics generator
+- [deanishe/alfred-errnum](https://github.com/deanishe/alfred-errnum) - Search macOS errors in Alfred 3
+- [s00500/Alfred-Home-assistant-workflow](https://github.com/s00500/Alfred-Home-assistant-workflow) - An integration between Alfred and Home Assistant
+- [skydiver/alfred-network-drives](https://github.com/skydiver/alfred-network-drives) - List your mounted network drives
+- [skydiver/alfred-chrome-profiles](https://github.com/skydiver/alfred-chrome-profiles) - Open your Google Chrome or Canary profiles from Alfred
+- [loris/alfred-producthunt-workflow](https://github.com/loris/alfred-producthunt-workflow) - Product Hunt Workflow for Alfred 2.0
+- [mwouts/sortpics](https://github.com/mwouts/sortpics) - Pictures from Google Photos, ICloud, or your Camera... all sorted!
+- [bevesce/unicode-symbols-search](https://github.com/bevesce/unicode-symbols-search) - find unicode symbols using alfred workflow
+- [xilopaint/alfred-pdf-tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
+- [owenwater/alfred-cal](https://github.com/owenwater/alfred-cal) - Displays a calendar with Alfred Workflow
+- [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [DanielTorres1/lanscanner](https://github.com/DanielTorres1/lanscanner) - Semi automatic pentesting tool for auditing LAN Networks
 - [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library
 - [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
@@ -7939,6 +7981,7 @@
 
 ## Ruby 
 
+- [bkuhlmann/pennyworth](https://github.com/bkuhlmann/pennyworth) - A command line interface that augments Alfred workflows.
 - [grpc/homebrew-grpc](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
 - [tresacton/dspectrum](https://github.com/tresacton/dspectrum) - Automated RF/SDR Signal Analysis [Reverse Engineering]
 - [janlelis/paint](https://github.com/janlelis/paint) - Ruby gem for ANSI terminal colors 🎨︎ VERY FAST
@@ -8372,6 +8415,8 @@
 
 ## Shell 
 
+- [micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus](https://github.com/micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus) - Prometheus node_exporter text_collector for S.M.A.R.T disk values
+- [epilande/alfred-wifi-password](https://github.com/epilande/alfred-wifi-password) - 🔐 Get Wi-Fi password from Keychain
 - [doekman/osagitfilter](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files
 - [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner) - Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 - [AnonymousAt3/piracy](https://github.com/AnonymousAt3/piracy) - Automated WIFI Hacking Tool
@@ -9401,6 +9446,7 @@
 
 ## Swift 
 
+- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites
 - [zenangst/Syncalicious](https://github.com/zenangst/Syncalicious) - 🍫 Syncalicious
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer 🎧
@@ -9795,7 +9841,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - ⚡️✨ Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
 - [AlexanderLevenskikh/network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
