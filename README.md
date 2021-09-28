@@ -2422,7 +2422,7 @@
 - [ehazlett/interlock](https://github.com/ehazlett/interlock) - Docker Event Driven Plugin System
 - [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 - [formerandroider/coredns-rreflector](https://github.com/formerandroider/coredns-rreflector) - 
-- [AutoSpotting/AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
+- [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [dikaeinstein/godl](https://github.com/dikaeinstein/godl) - Godl is a CLI tool used to download and install go binary releases on mac
 - [mafredri/macos-darkmode](https://github.com/mafredri/macos-darkmode) - Simple CLI for controlling macOS Dark Mode via Apples private API
 - [mafredri/macos-brightness](https://github.com/mafredri/macos-brightness) - Simple CLI for changing brightness on macOS
@@ -2946,6 +2946,7 @@
 - [datar/low-latency-system](https://github.com/datar/low-latency-system) - Everything about low latency system.
 - [maxvoltar/photo-stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream
 - [DiegoRBaquero/PeerFast](https://github.com/DiegoRBaquero/PeerFast) - ⚡️ P2P Fast.com Clone
+- [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [GoogleCloudPlatform/cloud-ops-sandbox](https://github.com/GoogleCloudPlatform/cloud-ops-sandbox) - Cloud Operations Sandbox is an open source tool that helps practitioners to learn Service Reliability Engineering practices from Google and apply them on their cloud services using Cloud Operations suite of tools.
@@ -3005,7 +3006,7 @@
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [darrow/balena-piaware](https://github.com/darrow/balena-piaware) - 
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [hassio-addons/addon-zwave2mqtt](https://github.com/hassio-addons/addon-zwave2mqtt) - Z-Wave to MQTT - Home Assistant Community Add-ons
 - [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT) - The complete Touch Bar UI replacement for BetterTouchTool
@@ -3254,6 +3255,13 @@
 
 ## JavaScript 
 
+- [sockethub/sockethub](https://github.com/sockethub/sockethub) - A multi-protocol gateway for the Web using ActivityStreams messages.
+- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
+- [internet4000/find](https://github.com/internet4000/find) - cli for the browser url bar
+- [Niek/playwright-addons](https://github.com/Niek/playwright-addons) - Add-ons for Playwright: adblocker, stealth mode
+- [ScrapingAnt/amazon_scraper](https://github.com/ScrapingAnt/amazon_scraper) - Amazon products scraper with using of rotating proxies and headless Chrome from ScrapingAnt
+- [Xmader/aria-ng-gui](https://github.com/Xmader/aria-ng-gui) - 一个 Aria2 图形界面客户端 | An Aria2 GUI for Windows & Linux & MacOS
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [andreasonny83/lighthouse-ci](https://github.com/andreasonny83/lighthouse-ci) - A useful wrapper around Google Lighthouse CLI
 - [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - Alfred workflows I use. Script to automatically export.
 - [jopemachine/alfred-chrome-workflow](https://github.com/jopemachine/alfred-chrome-workflow) - Chrome workflow for Alfred 4
@@ -3819,7 +3827,6 @@
 - [xxczaki/speedo-cli](https://github.com/xxczaki/speedo-cli) - ⌚️ Internet speed report in your terminal!
 - [branchard/fast-speedtest-api](https://github.com/branchard/fast-speedtest-api) - fast.com API / CLI tool
 - [roest01/docker-speedtest-analyser](https://github.com/roest01/docker-speedtest-analyser) - Automated docker speedtest analyser tool with included web interface to monitor your internet speed connection over time. Setup at home on your NAS (Synology, QNAP tested) and the container runs hourly speedtests. The speedtest results are displayed in an webinterface as line graph(s) over the day.
-- [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
@@ -4146,7 +4153,7 @@
 - [jakiestfu/himawari.js](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite
 - [troyharvey/jwt-cli](https://github.com/troyharvey/jwt-cli) - An npm package for decoding JSON Web Tokens (JWT)
 - [ianrenton/planesailing](https://github.com/ianrenton/planesailing) - Plane✈/Sailing⛵ - Completely unnecessary military situational awareness display for your home
-- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading a large number of keys.
+- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 - [muaz-khan/Chrome-Extensions](https://github.com/muaz-khan/Chrome-Extensions) - WebRTC chrome extensions for screen sharing, screen recording, file sharing, youtube+audio sharing, etc.
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) - Redis management tool written in node.js
@@ -5137,6 +5144,7 @@
 - [ladvoc/recognize-text-service](https://github.com/ladvoc/recognize-text-service) - A macOS service for processing PDF files with OCRmyPDF.
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [IgrikXD/rpitx-coax-pcb](https://github.com/IgrikXD/rpitx-coax-pcb) - Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment when working with the rpitx package.
+- [mikepqr/real-estate-scrape-eg](https://github.com/mikepqr/real-estate-scrape-eg) - A repository demonstrating the use of real-estate-scrape to store the estimated value of a property on Redfin and Zillow every night using Github Actions.
 - [mojiro/mikrops](https://github.com/mojiro/mikrops) - A management UI for MikroTik Routers based onto Django
 - [viasite-ansible/ansible-server](https://github.com/viasite-ansible/ansible-server) - Collection of Ansible playbooks for manage shared hosting servers
 - [phracker/MacOSX-SDKs](https://github.com/phracker/MacOSX-SDKs) - A collection of those pesky SDK folders: MacOSX10.1.5.sdk thru MacOSX11.3.sdk
@@ -5971,6 +5979,8 @@
 
 ## Python 
 
+- [truenas/py-SMART](https://github.com/truenas/py-SMART) - Wrapper for smartctl (smartmontools)
+- [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [aayush1205/Colab-Connect](https://github.com/aayush1205/Colab-Connect) - Links your local machine to Google Colab for hassle-free GPU enabled development.
 - [Akshay090/colab-cli](https://github.com/Akshay090/colab-cli) - ✨Experience better workflow with google colab, local jupyter notebooks and git
 - [Nekmo/gkeep](https://github.com/Nekmo/gkeep) - Google Keep Command Line Interface (CLI)
@@ -6470,7 +6480,6 @@
 - [jcontini/gphotos-export](https://github.com/jcontini/gphotos-export) - Export Google Photos from Takeout
 - [sec-edgar/sec-edgar](https://github.com/sec-edgar/sec-edgar) - Download all companies  periodic reports, filings and forms from EDGAR database.
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
-- [mikepqr/real-estate-scrape](https://github.com/mikepqr/real-estate-scrape) - Get the estimated value of an address from Redfin and Zillow every night and store the result
 - [SharpBit/zillow-deal-finder](https://github.com/SharpBit/zillow-deal-finder) - A program used to find low-priced homes relative to the Zestimate
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [elmotec/uniquepath](https://github.com/elmotec/uniquepath) - Simple tool to clean up the PATH (or other) environment variables.
@@ -6747,7 +6756,7 @@
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) - Smart DNS proxy to watch Netflix
 - [EvaSeidlmayer/orcid-for-wikidata](https://github.com/EvaSeidlmayer/orcid-for-wikidata) - import information (affiliation, education) from ORCID database to Wikidata regarding authors of scientific papers
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily manage data for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily build and manage datasets for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 200 universities.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -8148,6 +8157,9 @@
 
 ## Rust 
 
+- [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
+- [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [LinkTed/doh-client](https://github.com/LinkTed/doh-client) - DNS over HTTPS client
 - [passcod/splash](https://github.com/passcod/splash) - 💦 RF Signal Propagation analysis tool (eventually). Learning project (currently)
@@ -8156,7 +8168,7 @@
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [ctbur/async](https://github.com/ctbur/async) - A tool to parallelize shell commands.
 - [heepster/time-butler](https://github.com/heepster/time-butler) - A CLI tool for easy datetime conversions
-- [bbqsrc/cucumber-rust](https://github.com/bbqsrc/cucumber-rust) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
+- [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [badboy/mdbook-open-on-gh](https://github.com/badboy/mdbook-open-on-gh) - mdbook preprocessor to add a open-on-github link on every page
 - [extrawurst/ip2country](https://github.com/extrawurst/ip2country) - fast ip -&gt; country lookup using asn database
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
@@ -8245,7 +8257,7 @@
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [openethereum/openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
+- [igorbarinov/openethereum](https://github.com/igorbarinov/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
@@ -8415,6 +8427,7 @@
 
 ## Shell 
 
+- [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus](https://github.com/micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus) - Prometheus node_exporter text_collector for S.M.A.R.T disk values
 - [epilande/alfred-wifi-password](https://github.com/epilande/alfred-wifi-password) - 🔐 Get Wi-Fi password from Keychain
 - [doekman/osagitfilter](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files
@@ -8833,7 +8846,7 @@
 - [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
 - [mhinz/spotlight-cli](https://github.com/mhinz/spotlight-cli) -  Command-line tool for Spotlight.
 - [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
-- [MTecknology/script-helpers](https://github.com/MTecknology/script-helpers) - 
+- [MTecknology/script-helpers](https://github.com/MTecknology/script-helpers) - A simple set of helper functions to aid the development of scripts.
 - [freedomofkeima/github-profile-visualizer](https://github.com/freedomofkeima/github-profile-visualizer) - Visualize Github profile growth (followers, num repo, etc) with daily cron and Github Pages
 - [archivy/archivy-docker](https://github.com/archivy/archivy-docker) - 
 - [xinity/pxc_swarm](https://github.com/xinity/pxc_swarm) - a docker swarm Percona PXC setup
@@ -9461,7 +9474,7 @@
 - [njdehoog/Witness](https://github.com/njdehoog/Witness) - Monitor file system events using Swift
 - [mapbox/mapbox-speech-swift](https://github.com/mapbox/mapbox-speech-swift) - Natural-sounding text-to-speech in Swift or Objective-C on iOS, macOS, tvOS, and watchOS
 - [mapbox/mapbox-directions-swift](https://github.com/mapbox/mapbox-directions-swift) - Traffic-aware directions and map matching in Swift on iOS, macOS, tvOS, watchOS, and Linux
-- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync compiled for macOS Big Sur
+- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur
 - [lvsti/Cameo](https://github.com/lvsti/Cameo) - CMIO DAL plugin explorer
 - [nriley/Karabiner-Elements-App-Profiles](https://github.com/nriley/Karabiner-Elements-App-Profiles) - Workaround for lack of app-specific behavior in Karabiner-Elements
 - [yonaskolb/Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs executable Swift packages
@@ -9620,6 +9633,9 @@
 
 ## TypeScript 
 
+- [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+- [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via CouchDB or S3
+- [apify/browser-pool](https://github.com/apify/browser-pool) - A Node.js library to easily manage and rotate a pool of web browsers, using any of the popular browser automation libraries like Puppeteer, Playwright, or SecretAgent.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - The browser prompter for macOS
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
@@ -9841,7 +9857,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rowyio/rowy](https://github.com/rowyio/rowy) - ⚡️✨ Rowy is an open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open source platform to manage Firestore data in a spreadsheet-like UI, deploy Cloud Functions easily, and connect to your favorite third-party platforms.⚡️✨
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
 - [AlexanderLevenskikh/network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
