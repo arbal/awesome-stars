@@ -183,6 +183,7 @@
 
 ## C 
 
+- [unpaper/unpaper](https://github.com/unpaper/unpaper) - A post-processing tool for scanned sheets of paper.
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
 - [CocoaHeadsBrasil/MuteUnmuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 - [yodaos-project/yodaos](https://github.com/yodaos-project/yodaos) - Yet another Linux distribution for voice-enabled IoT and embrace Web standards
@@ -790,6 +791,8 @@
 
 ## C++ 
 
+- [rek7/mXtract](https://github.com/rek7/mXtract) - mXtract - Memory Extractor & Analyzer
+- [sakura-editor/sakura](https://github.com/sakura-editor/sakura) - SAKURA Editor (Japanese text editor for MS Windows)
 - [ggerganov/wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
 - [gr-vt/gr-signal_exciter](https://github.com/gr-vt/gr-signal_exciter) - A tool set for efficient generation of wideband populated spectrum. (As is: Working on 16.04 & 14.04; make sure to run 'pybombs recipes update')
 - [geolink/opentracker](https://github.com/geolink/opentracker) - OpenTracker - open source GPS/GLONASS hardware
@@ -1207,6 +1210,7 @@
 
 ## Dockerfile 
 
+- [mdegat01/promtail-journal](https://github.com/mdegat01/promtail-journal) - Promtail with journal support
 - [jumson/limesdr](https://github.com/jumson/limesdr) - Working area to develop working docker images that can be used with limesdr devices.
 - [kazazes/balena-tailscale](https://github.com/kazazes/balena-tailscale) - 
 - [balena-io/open-balena-registry](https://github.com/balena-io/open-balena-registry) - Docker image storage backend for openBalena
@@ -1240,6 +1244,7 @@
 - [jeffersonjhunt/shinysdr-docker](https://github.com/jeffersonjhunt/shinysdr-docker) - Docker build of debian, gnuradio and shinysdr with all plugins
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
+- [ten7/tractorbeam](https://github.com/ten7/tractorbeam) - Open source multi-tier website backups
 - [OPHoperHPO/hassio-addons](https://github.com/OPHoperHPO/hassio-addons) - :heavy_plus_sign: Docker add-ons for Hass.io
 - [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab) - JupyterLab Lite - Home Assistant Community Add-ons
 - [hassio-addons/addon-grafana](https://github.com/hassio-addons/addon-grafana) - Grafana - Home Assistant Community Add-ons
@@ -1423,6 +1428,8 @@
 
 ## Go 
 
+- [schollz/pluck](https://github.com/schollz/pluck) - Pluck text in a fast and intuitive way :rooster:
+- [dlclark/regexp2](https://github.com/dlclark/regexp2) - A full-featured regex engine in pure Go based on the .NET engine
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - This is a CLI tool to execute Google Apps Script (GAS) at own terminal on local PC. Also this CLI tool can be used for managing files in Google Drive for OAuth2 and Service Account.
 - [google/oauth2l](https://github.com/google/oauth2l) - oauth2l ("oauth tool") is a simple CLI for interacting with Google API authentication.
 - [nikitavoloboev/alfred-web-searches](https://github.com/nikitavoloboev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)
@@ -2777,6 +2784,7 @@
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [h2non/filetype](https://github.com/h2non/filetype) - Fast, dependency-free Go package to infer binary file types based on the magic numbers header signature
 - [aca/sgrep](https://github.com/aca/sgrep) - Simple grep. Extract url, ip address, email ... from stdin.
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [curusarn/resh](https://github.com/curusarn/resh) - Rich Enhanced Shell History - Contextual shell history for zsh and bash
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
@@ -3255,6 +3263,9 @@
 
 ## JavaScript 
 
+- [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [remotestorage/armadietto](https://github.com/remotestorage/armadietto) - RS server based on node.js
 - [sockethub/sockethub](https://github.com/sockethub/sockethub) - A multi-protocol gateway for the Web using ActivityStreams messages.
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [internet4000/find](https://github.com/internet4000/find) - cli for the browser url bar
@@ -4999,6 +5010,7 @@
 
 ## Others 
 
+- [0dataapp/awesome-0data](https://github.com/0dataapp/awesome-0data) - Resources around owning your data 100%
 - [binga/cloud-gpus](https://github.com/binga/cloud-gpus) - This repository contains information about Cloud GPU offerings for Machine Learning practitioners.
 - [tanaikech/taking-advantage-of-google-apps-script](https://github.com/tanaikech/taking-advantage-of-google-apps-script) - Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my blog, Gists and GitHub are summarized.
 - [theonesean/alfred-link-filter](https://github.com/theonesean/alfred-link-filter) - An Alfred workflow that quickly finds links in pasted text.
@@ -5633,7 +5645,7 @@
 - [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization
 - [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
-- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into https://shodan.io/ 👩‍💻
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [ciconia/awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [matiassingers/awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
@@ -5719,6 +5731,7 @@
 
 ## PHP 
 
+- [fkooman/php-remote-storage](https://github.com/fkooman/php-remote-storage) - remoteStorage server written in PHP
 - [slunak/abuseipdb-alfred-workflow](https://github.com/slunak/abuseipdb-alfred-workflow) - AbuseIPDB Workflow for Alfred
 - [dedalozzo/facebook-od](https://github.com/dedalozzo/facebook-od) - Facebook Open Graph Object Debugger Command-Line Interface (CLI).
 - [essence/essence](https://github.com/essence/essence) - Extracts information about web pages, like youtube videos, twitter statuses or blog articles.
@@ -5979,6 +5992,9 @@
 
 ## Python 
 
+- [trungdq88/logmine](https://github.com/trungdq88/logmine) - A log pattern analyzer CLI
+- [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
+- [atoy3731/adguard-sync](https://github.com/atoy3731/adguard-sync) - Sync tool for local Adguard Home DNS instances
 - [truenas/py-SMART](https://github.com/truenas/py-SMART) - Wrapper for smartctl (smartmontools)
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [aayush1205/Colab-Connect](https://github.com/aayush1205/Colab-Connect) - Links your local machine to Google Colab for hassle-free GPU enabled development.
@@ -7733,7 +7749,6 @@
 - [myaut/dtrace-stap-book](https://github.com/myaut/dtrace-stap-book) - Book about DTrace and SystemTap
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
-- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
 - [tribe29/checkmk](https://github.com/tribe29/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
@@ -8158,7 +8173,7 @@
 ## Rust 
 
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
-- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [LinkTed/doh-client](https://github.com/LinkTed/doh-client) - DNS over HTTPS client
@@ -8257,7 +8272,7 @@
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [igorbarinov/openethereum](https://github.com/igorbarinov/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
+- [openethereum/openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
@@ -8386,7 +8401,7 @@
 - [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+ and OSX
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 
 ## SCSS 
 
@@ -8427,6 +8442,10 @@
 
 ## Shell 
 
+- [learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) - Example based guide to mastering GNU grep and ripgrep
+- [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
+- [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail) - Promtail for Home Assistant
+- [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances.
 - [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus](https://github.com/micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus) - Prometheus node_exporter text_collector for S.M.A.R.T disk values
 - [epilande/alfred-wifi-password](https://github.com/epilande/alfred-wifi-password) - 🔐 Get Wi-Fi password from Keychain
@@ -8611,7 +8630,6 @@
 - [christianbaun/ossperf](https://github.com/christianbaun/ossperf) - A lightweight tool for analyzing the performance and data integrity of object-based storage services
 - [sparklespdx/limesdr-toolkit-docker](https://github.com/sparklespdx/limesdr-toolkit-docker) - GQRX and friends installed with LimeSuite in a docker container
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
-- [ten7/tractorbeam](https://github.com/ten7/tractorbeam) - Open source multi-tier website backups
 - [deflax/sysadmin](https://github.com/deflax/sysadmin) - scripts, howtos, etc. for various system administrative tasks
 - [oky2abbas/easyYoutubeDL](https://github.com/oky2abbas/easyYoutubeDL) - A manager for automating download lists based on youtube-dl
 - [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
@@ -8955,7 +8973,6 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 550+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [jumanjihouse/docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan) - Qualys sslabs-scan utility in a tiny docker image
-- [cisagov/cool-system](https://github.com/cisagov/cool-system) - The Cloud Optimized Operational Lab (COOL) system
 - [alerta/docker-alerta](https://github.com/alerta/docker-alerta) - Run alerta in a docker container
 - [bvis/docker-prometheus-swarm](https://github.com/bvis/docker-prometheus-swarm) - Sample prometheus that can be used as a sample to get Swarm cluster metrics
 - [MaibornWolff/Azure_Kinect_RTSP-Streamer](https://github.com/MaibornWolff/Azure_Kinect_RTSP-Streamer) - This Repository contains a dockerized RTSP-Streamer / Server for streaming the Kinects RGB- and Depth-Stream to network by merging them into one Video.
@@ -9633,6 +9650,7 @@
 
 ## TypeScript 
 
+- [areknawo/Rex](https://github.com/areknawo/Rex) - Your RegEx companion.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via CouchDB or S3
 - [apify/browser-pool](https://github.com/apify/browser-pool) - A Node.js library to easily manage and rotate a pool of web browsers, using any of the popular browser automation libraries like Puppeteer, Playwright, or SecretAgent.
