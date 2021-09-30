@@ -55,6 +55,7 @@
   - [Kotlin](#kotlin)
   - [LLVM](#llvm)
   - [Less](#less)
+  - [LiveScript](#livescript)
   - [Lua](#lua)
   - [M4](#m4)
   - [MATLAB](#matlab)
@@ -183,6 +184,7 @@
 
 ## C 
 
+- [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [unpaper/unpaper](https://github.com/unpaper/unpaper) - A post-processing tool for scanned sheets of paper.
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
 - [CocoaHeadsBrasil/MuteUnmuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
@@ -266,7 +268,7 @@
 - [eniac/Flightplan](https://github.com/eniac/Flightplan) - Flightplan is a toolchain for the flexible decomposition of P4 programs and their allocation to heterogeneous hardware to improve performance, reliability and utilisation of software-defined networks.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source 802.11 WiFi baseband chip/FPGA design
-- [mossmann/hackrf](https://github.com/mossmann/hackrf) - low cost software radio platform
+- [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
@@ -719,7 +721,7 @@
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [prometheus-net/tzsp_packetstream_exporter](https://github.com/prometheus-net/tzsp_packetstream_exporter) - Analyze a real-time IPv4 packet stream and export metrics about the data flows
 - [xmegz/MndpTray](https://github.com/xmegz/MndpTray) - MNDP Mikrotik Neighbor Discovery Protocol Tray Application
-- [MicrosoftTranslator/DocumentTranslator](https://github.com/MicrosoftTranslator/DocumentTranslator) - Microsoft Document Translator
+- [MicrosoftTranslator/DocumentTranslator](https://github.com/MicrosoftTranslator/DocumentTranslator) - Microsoft Document Translator (Archive) - Replaced by the MicrosoftTranslator/DocumentTranslation project in this repository.
 - [SamDel/ChromeCast-Desktop-Audio-Streamer](https://github.com/SamDel/ChromeCast-Desktop-Audio-Streamer) - Stream the sound of your desktop to your Chromecast Audio device
 - [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant!
 - [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
@@ -791,6 +793,7 @@
 
 ## C++ 
 
+- [karel/gr-adapt](https://github.com/karel/gr-adapt) - Adaptive filters for GNU Radio
 - [rek7/mXtract](https://github.com/rek7/mXtract) - mXtract - Memory Extractor & Analyzer
 - [sakura-editor/sakura](https://github.com/sakura-editor/sakura) - SAKURA Editor (Japanese text editor for MS Windows)
 - [ggerganov/wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound
@@ -847,6 +850,7 @@
 - [jacobagilbert/inspectrum](https://github.com/jacobagilbert/inspectrum) - Offline radio signal analyser
 - [mkiol/Jupii](https://github.com/mkiol/Jupii) - Play audio, video and images on UPnP/DLNA devices
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [finos/perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
 - [pothosware/PothosFlow](https://github.com/pothosware/PothosFlow) - GUI frontend and designer tool for the Pothos framework
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
 - [pothosware/PothosCore](https://github.com/pothosware/PothosCore) - The Pothos data-flow framework
@@ -1361,6 +1365,7 @@
 
 ## Elixir 
 
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - News and podcast for developers
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
 - [edgurgel/verk](https://github.com/edgurgel/verk) - A job processing system that just verks! 🧛‍
 - [koudelka/honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈
@@ -1428,6 +1433,12 @@
 
 ## Go 
 
+- [jafarlihi/rconn](https://github.com/jafarlihi/rconn) - rconn is a multiplatform program for creating generic reverse connections. Lets you consume services that are behind firewall or NAT without opening ports or port-forwarding.
+- [nwtgck/go-piping-server](https://github.com/nwtgck/go-piping-server) - Piping Server written in Go language (original: https://github.com/nwtgck/piping-server)
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - High level CLI utility for restic
+- [d6o/Gorganizer](https://github.com/d6o/Gorganizer) - Organize your folders into a beautiful classified folder structure with this perfect tool
+- [hugows/hf](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line
+- [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
 - [schollz/pluck](https://github.com/schollz/pluck) - Pluck text in a fast and intuitive way :rooster:
 - [dlclark/regexp2](https://github.com/dlclark/regexp2) - A full-featured regex engine in pure Go based on the .NET engine
 - [tanaikech/ggsrun](https://github.com/tanaikech/ggsrun) - This is a CLI tool to execute Google Apps Script (GAS) at own terminal on local PC. Also this CLI tool can be used for managing files in Google Drive for OAuth2 and Service Account.
@@ -2916,6 +2927,7 @@
 
 ## HTML 
 
+- [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [f4goh/WSPR](https://github.com/f4goh/WSPR) - Weak Signal Propagation Reporter on a breadboard
 - [ChHarding/TouchTerrain_for_CAGEO](https://github.com/ChHarding/TouchTerrain_for_CAGEO) - Touch Terrain: A python app to create 3D printable terrain models (STL/OBJ) from only elevation data (via Google Earth Engine) or from a local geotiff. Has been used for CNC terrain models. Runs as a web app (http://touchterrain.org), as .py file (standalone.py) or as jupyter notebook. Docker image: https://github.com/ChHarding/TouchTerrain_jupyter_docker
 - [node-red/node-red-dashboard](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED
@@ -3084,6 +3096,8 @@
 
 ## Java 
 
+- [gh0stkey/HaE](https://github.com/gh0stkey/HaE) - HaE - BurpSuite Highlighter and Extractor
+- [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hint about how the target regex should look like
 - [google/gps-measurement-tools](https://github.com/google/gps-measurement-tools) - 
 - [opennetworkinglab/onos](https://github.com/opennetworkinglab/onos) - Open Network Operating System
 - [apache/guacamole-client](https://github.com/apache/guacamole-client) - Mirror of Apache Guacamole Client
@@ -3263,6 +3277,28 @@
 
 ## JavaScript 
 
+- [nwtgck/piping-vnc-web](https://github.com/nwtgck/piping-vnc-web) - VNC over pure HTTPS via Piping Server on Web browser
+- [nwtgck/piping-ssh-web](https://github.com/nwtgck/piping-ssh-web) - SSH over HTTPS via Piping Server on Web browser
+- [ddopson/underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
+- [sindresorhus/parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
+- [sanity-io/groq-cli](https://github.com/sanity-io/groq-cli) - Run GROQ in your command line
+- [sindresorhus/file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin
+- [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+- [manrajgrover/organize-cli](https://github.com/manrajgrover/organize-cli) - 📋 Organize your files, imagine cleaning up your downloads in an instant
+- [sindresorhus/find-up-cli](https://github.com/sindresorhus/find-up-cli) - Find a file by walking up parent directories
+- [sindresorhus/sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇
+- [sindresorhus/detect-newline-cli](https://github.com/sindresorhus/detect-newline-cli) - Detect the dominant newline character
+- [sindresorhus/detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code
+- [sindresorhus/to-double-quotes-cli](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns =&gt; I "love" unicorns
+- [sindresorhus/to-single-quotes-cli](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns
+- [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
+- [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
+- [thierryc/Sketch-Find-And-Replace](https://github.com/thierryc/Sketch-Find-And-Replace) - Sketch plugin to do a find and replace on text within layers
+- [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
+- [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
+- [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.
+- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others!
+- [micromatch/anymatch](https://github.com/micromatch/anymatch) - :bangbang: Matches strings against configurable strings, globs, regular expressions, and/or functions
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [remotestorage/armadietto](https://github.com/remotestorage/armadietto) - RS server based on node.js
@@ -3456,7 +3492,6 @@
 - [SaraVieira/starter-book](https://github.com/SaraVieira/starter-book) - A book starter to kickstart your writing journey 🎉
 - [magicbookproject/magicbook](https://github.com/magicbookproject/magicbook) - The magic book project returns!
 - [DavidWells/analytics](https://github.com/DavidWells/analytics) - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors
-- [finos/perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
 - [jhackshaw/tspvis](https://github.com/jhackshaw/tspvis) - 🗺️   Visualize and control algorithms for the traveling salesman problem
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [zotero/translators](https://github.com/zotero/translators) - Zotero Translators
@@ -4775,6 +4810,7 @@
 
 ## Kotlin 
 
+- [noxone/regex-generator](https://github.com/noxone/regex-generator) - Generate regular expressions from sample texts.
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) - Cross-platform GUI gRPC debugging proxy
 - [dotStart/Beacon](https://github.com/dotStart/Beacon) - A simple UPnP Assistant that is capable of opening arbitrary ports.
 - [ingbyr/vdm](https://github.com/ingbyr/vdm) - GUI for command-line video downloader (youtube-dl annie)
@@ -4791,6 +4827,10 @@
 ## Less 
 
 - [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
+
+## LiveScript 
+
+- [raine/ramda-cli](https://github.com/raine/ramda-cli) - :ram: A CLI tool for processing data with functional pipelines
 
 ## Lua 
 
@@ -5440,7 +5480,7 @@
 - [UdelaRInterior/ansible-role-proxmox-create-lxc](https://github.com/UdelaRInterior/ansible-role-proxmox-create-lxc) - Ansible role to create an lxc container with network and several disks
 - [maxalbani/home-assistant-proxmox-management](https://github.com/maxalbani/home-assistant-proxmox-management) - A custom Proxmox console on Home Assistant to manage VM & LXC, made with Node-Red.
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
-- [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace: https://freerobotics.tools/
+- [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [norfair00/MyStack](https://github.com/norfair00/MyStack) - 
 - [vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
@@ -5992,6 +6032,12 @@
 
 ## Python 
 
+- [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
+- [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha) - Implements the special Tuya Home Assistant API.
+- [benedekrozemberczki/awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - A curated list of data mining papers about fraud detection.
+- [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
+- [patrickjahns/ansible-role-promtail](https://github.com/patrickjahns/ansible-role-promtail) - 🔧 Ansible role for deploying promtail
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [trungdq88/logmine](https://github.com/trungdq88/logmine) - A log pattern analyzer CLI
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
 - [atoy3731/adguard-sync](https://github.com/atoy3731/adguard-sync) - Sync tool for local Adguard Home DNS instances
@@ -6822,7 +6868,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Automate Web Testing with Selenium, Python, and pytest. 🦄
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Python's most reliable framework for browser automation and testing. 🐉
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -6946,7 +6992,7 @@
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-- [google/upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
+- [google/upvote_py2](https://github.com/google/upvote_py2) - A multi-platform binary whitelisting solution
 - [djmaze/apprise-microservice](https://github.com/djmaze/apprise-microservice) - A small JSON API server for delivering notifications using Apprise
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
@@ -8005,6 +8051,7 @@
 
 ## Ruby 
 
+- [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [bkuhlmann/pennyworth](https://github.com/bkuhlmann/pennyworth) - A command line interface that augments Alfred workflows.
 - [grpc/homebrew-grpc](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
 - [tresacton/dspectrum](https://github.com/tresacton/dspectrum) - Automated RF/SDR Signal Analysis [Reverse Engineering]
@@ -8172,6 +8219,8 @@
 
 ## Rust 
 
+- [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
+- [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
 - [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
@@ -8442,6 +8491,10 @@
 
 ## Shell 
 
+- [arbal/datacenter-speed-tests](https://github.com/arbal/datacenter-speed-tests) - ⚡ Test speed and pings to all DigitalOcean, Linode, AWS, GCP, and Vultr regions
+- [kylemanna/docker-bitcoind](https://github.com/kylemanna/docker-bitcoind) - 💰 Bitcoind Docker image that runs the Bitcoin node in a container for easy deployment
+- [nwtgck/piping-server-onion-service-docker-compose](https://github.com/nwtgck/piping-server-onion-service-docker-compose) - Piping Server as Onion Service
+- [nwtgck/piping-server-http2-docker-compose](https://github.com/nwtgck/piping-server-http2-docker-compose) - Docker Compose for Piping Server over HTTP/2 powered by nghttp
 - [learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) - Example based guide to mastering GNU grep and ripgrep
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail) - Promtail for Home Assistant
@@ -9650,6 +9703,7 @@
 
 ## TypeScript 
 
+- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [areknawo/Rex](https://github.com/areknawo/Rex) - Your RegEx companion.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via CouchDB or S3
@@ -10116,6 +10170,8 @@
 
 ## Vue 
 
+- [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
+- [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
 - [dernasherbrezon/r2cloud-ui](https://github.com/dernasherbrezon/r2cloud-ui) - Web UI for r2cloud (https://github.com/dernasherbrezon/r2cloud)
 - [jeliasson/dns-propagation-checker](https://github.com/jeliasson/dns-propagation-checker) - Check propagation of DNS records from one or many Name Servers. Useful for validating a DNS zone during migration.
