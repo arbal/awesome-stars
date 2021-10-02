@@ -184,6 +184,7 @@
 
 ## C 
 
+- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [acalatrava/openhaystack-firmware](https://github.com/acalatrava/openhaystack-firmware) - Alternative openhaystack firmware
 - [koenvervloesem/openhaystack-zephyr](https://github.com/koenvervloesem/openhaystack-zephyr) - Zephyr-based OpenHaystack firmware to track your personal Bluetooth devices via Apple's Find My network
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
@@ -951,7 +952,7 @@
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [facebook/bistro](https://github.com/facebook/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
 - [Kurento/kurento-media-server](https://github.com/Kurento/kurento-media-server) - Media Server responsible for media transmission, processing, loading and recording
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -1217,6 +1218,7 @@
 
 ## Dockerfile 
 
+- [t11z/haproxy-wi-docker-ubuntu](https://github.com/t11z/haproxy-wi-docker-ubuntu) - Dockerfile to create an Ubuntu 20.04 based HAProxy container with web based administration
 - [restorecommerce/pdf-rendering-srv](https://github.com/restorecommerce/pdf-rendering-srv) - HTML to PDF rendering Microservice based on Puppeteer/ Chrome. Self-hosted service for rendering PDFs
 - [mdegat01/promtail-journal](https://github.com/mdegat01/promtail-journal) - Promtail with journal support
 - [jumson/limesdr](https://github.com/jumson/limesdr) - Working area to develop working docker images that can be used with limesdr devices.
@@ -1437,12 +1439,15 @@
 
 ## Go 
 
+- [HuntSweet/cloudflarePing](https://github.com/HuntSweet/cloudflarePing) - Find the best cloudflare ip to your location.
+- [guaychou/MacToolsPing](https://github.com/guaychou/MacToolsPing) - The purpose of this tools is to monitoring ping latency to google.com / cloudflare
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [Trendyol/kink](https://github.com/Trendyol/kink) - KinK is a helper CLI that facilitates to manage KinD clusters as Kubernetes pods. Designed to ease clusters up for fast testing with batteries included in mind.
 - [henrylee2cn/pholcus](https://github.com/henrylee2cn/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 - [prometheus/exporter-toolkit](https://github.com/prometheus/exporter-toolkit) - Utility package to build exporters
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
 - [prometheus-community/PushProx](https://github.com/prometheus-community/PushProx) - Proxy to allow Prometheus to scrape through NAT etc.
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks. Netmaker makes networking easy, fast, and secure across all environments.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [jafarlihi/rconn](https://github.com/jafarlihi/rconn) - rconn is a multiplatform program for creating generic reverse connections. Lets you consume services that are behind firewall or NAT without opening ports or port-forwarding.
@@ -2939,6 +2944,7 @@
 
 ## HTML 
 
+- [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
 - [ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
@@ -3472,7 +3478,6 @@
 - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [DBa2016/power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex) - Lovelace pie chart card that displays current energy usage
 - [gurbyz/power-wheel-card](https://github.com/gurbyz/power-wheel-card) - An intuitive way to represent the power and energy that your home is consuming or producing. (A custom card for the Lovelace UI of Home Assistant.)
-- [binghe/acrobat-actions](https://github.com/binghe/acrobat-actions) - Custom Commands and Actions for Adobe Acrobat
 - [nyoungstudios/Adobe-Acrobat-PDF-Tools](https://github.com/nyoungstudios/Adobe-Acrobat-PDF-Tools) - 📄 Scripts to automate time consuming tasks in Adobe Acrobat using JavaScript.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots
 - [fraserxu/electron-pdf](https://github.com/fraserxu/electron-pdf) - 📄 A command line tool to generate PDF from URL, HTML or Markdown files.
@@ -5790,7 +5795,6 @@
 - [arbal/kumbaya-terminator](https://github.com/arbal/kumbaya-terminator) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -6071,6 +6075,9 @@
 
 ## Python 
 
+- [mxbi/tailscale-hostmap](https://github.com/mxbi/tailscale-hostmap) - Automatically map Tailscale hosts to DNS names locally
+- [andyjsmith/Vultr-Dynamic-DNS](https://github.com/andyjsmith/Vultr-Dynamic-DNS) - Dynamically update IP addresses in Vultr DNS without services like No-IP
+- [rootzoll/raspiblitz](https://github.com/rootzoll/raspiblitz) - Get your own Bitcoin & Lightning Node running - on a RaspberryPi with a nice LCD
 - [rivermont/spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
@@ -6734,7 +6741,7 @@
 - [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [project-koku/koku](https://github.com/project-koku/koku) - An open source solution for cost management of cloud and hybrid cloud environments.
-- [rtulke/rpen](https://github.com/rtulke/rpen) - rpen is a color highlighter based on egrep
+- [rtulke/rpen](https://github.com/rtulke/rpen) - rpen - red pencil, is a simple multicolor command-line tool to filter text and highlight the output.text.
 - [keenerd/rtlsdr-waterfall](https://github.com/keenerd/rtlsdr-waterfall) - A scrolling spectrum plot for RTLSDR.
 - [CGrassin/rtl_power_scripts](https://github.com/CGrassin/rtl_power_scripts) - Python scripts to use and visualize the output of rtl_power.
 - [evanmayer/effex](https://github.com/evanmayer/effex) - Software-defined radio complex correlator. FX architecture: Polyphase filterbank Fourier transform spectrometer and cross-correlation, powered by GPU-accelerated, concurrent processing.
@@ -6912,7 +6919,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 Python's most reliable framework for browser automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -8026,6 +8033,7 @@
 - [bahanonu/geoSatView](https://github.com/bahanonu/geoSatView) - geoSatView: Downloads satellite data, crop images, and makes animation video.
 - [ropensci/webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web
 - [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
+- [binghe/acrobat-actions](https://github.com/binghe/acrobat-actions) - Custom Commands and Actions for Adobe Acrobat
 - [sfirke/janitor](https://github.com/sfirke/janitor) - simple tools for data cleaning in R
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
@@ -9544,6 +9552,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [gretzky/n.zsh](https://github.com/gretzky/n.zsh) - zsh plugin for switching node versions automatically with n
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
