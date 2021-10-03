@@ -796,6 +796,9 @@
 
 ## C++ 
 
+- [TASVideos/fceux](https://github.com/TASVideos/fceux) - FCEUX, a NES Emulator
+- [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex) - Unified Executors
+- [0ldsk00l/nestopia](https://github.com/0ldsk00l/nestopia) - Cross-platform Nestopia emulator core with a GUI
 - [Genivia/RE-flex](https://github.com/Genivia/RE-flex) - The regex-centric, fast lexical analyzer generator for C++ with full Unicode support. Faster than Flex. Accepts Flex specifications. Generates reusable source code that is easy to understand. Introduces indent/dedent anchors, lazy quantifiers, functions for lex/syntax error reporting, and more. Seamlessly integrates with Bison and other parsers.
 - [karel/gr-adapt](https://github.com/karel/gr-adapt) - Adaptive filters for GNU Radio
 - [rek7/mXtract](https://github.com/rek7/mXtract) - mXtract - Memory Extractor & Analyzer
@@ -1179,6 +1182,7 @@
 
 ## CoffeeScript 
 
+- [stephenyeargin/hubot-grafana](https://github.com/stephenyeargin/hubot-grafana) - 📈🤖 Query Grafana dashboards
 - [fw42/honeymap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map
 - [danielbayley/alfred-finder-new-item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 - [flosse/sloc](https://github.com/flosse/sloc) - simple tool to count SLOC (source lines of code)
@@ -1218,6 +1222,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [t11z/haproxy-wi-docker-ubuntu](https://github.com/t11z/haproxy-wi-docker-ubuntu) - Dockerfile to create an Ubuntu 20.04 based HAProxy container with web based administration
 - [restorecommerce/pdf-rendering-srv](https://github.com/restorecommerce/pdf-rendering-srv) - HTML to PDF rendering Microservice based on Puppeteer/ Chrome. Self-hosted service for rendering PDFs
 - [mdegat01/promtail-journal](https://github.com/mdegat01/promtail-journal) - Promtail with journal support
@@ -1371,6 +1376,7 @@
 
 ## Elixir 
 
+- [elixir-crawly/crawly](https://github.com/elixir-crawly/crawly) - Crawly, a high-level web crawling & scraping framework for Elixir.
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - News and podcast for developers
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
 - [edgurgel/verk](https://github.com/edgurgel/verk) - A job processing system that just verks! 🧛‍
@@ -1417,7 +1423,7 @@
 - [processone/tsung](https://github.com/processone/tsung) - Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
 - [zeromq/chumak](https://github.com/zeromq/chumak) - Pure Erlang implementation of ZeroMQ Message Transport Protocol.
-- [vernemq/vmq_mzbench](https://github.com/vernemq/vmq_mzbench) - An MQTT loadtest and usage scenario tool
+- [vernemq/vmq_mzbench](https://github.com/vernemq/vmq_mzbench) - An MQTT loadtest and usage scenario tool for VerneMQ and other MQTT systems.
 - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.
 - [skythet/ejabberd-prometheus-exporter](https://github.com/skythet/ejabberd-prometheus-exporter) - Ejabberd metrics for prometheus
 - [emqx/ekka](https://github.com/emqx/ekka) - Autocluster and Autoheal for EMQ X Broker
@@ -1439,6 +1445,20 @@
 
 ## Go 
 
+- [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
+- [ofek/csi-gcs](https://github.com/ofek/csi-gcs) - Kubernetes CSI driver for Google Cloud Storage
+- [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
+- [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scraper in 5 minutes.
+- [yields/ant](https://github.com/yields/ant) - A web crawler for Go
+- [woojiahao/gmail-filter-organiser](https://github.com/woojiahao/gmail-filter-organiser) - CLI tool to organise your filters in Gmail
+- [tsiemens/gmail-tools](https://github.com/tsiemens/gmail-tools) - Cli Tools for Gmail filters
+- [plusworx/gmin](https://github.com/plusworx/gmin) - A friendly Google Workspace administration CLI (command line interface)
+- [hashicorp/terraform-provider-googleworkspace](https://github.com/hashicorp/terraform-provider-googleworkspace) - Terraform Provider for Google Workspace
+- [hanneshayashi/gsm](https://github.com/hanneshayashi/gsm) - GSM - Manage Google Workspace resources using a developer-friendly CLI written in Go.
+- [googleworkspace/go-samples](https://github.com/googleworkspace/go-samples) - Go samples for Google Workspace APIs
+- [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
+- [emicklei/gws](https://github.com/emicklei/gws) - command line tool for using the Google Workspace Admin (formerly GSuite)
+- [rendora/rendora](https://github.com/rendora/rendora) - dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [HuntSweet/cloudflarePing](https://github.com/HuntSweet/cloudflarePing) - Find the best cloudflare ip to your location.
 - [guaychou/MacToolsPing](https://github.com/guaychou/MacToolsPing) - The purpose of this tools is to monitoring ping latency to google.com / cloudflare
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
@@ -2944,6 +2964,9 @@
 
 ## HTML 
 
+- [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
+- [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
+- [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Documentation for Techno Tim YouTube Videos
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
@@ -3241,7 +3264,7 @@
 - [neerazz/FAANG](https://github.com/neerazz/FAANG) - Competitive programming questions.
 - [iipc/openwayback](https://github.com/iipc/openwayback) - The OpenWayback Development
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
-- [intuit/karate](https://github.com/intuit/karate) - Test Automation Made Simple
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [lightbody/browsermob-proxy](https://github.com/lightbody/browsermob-proxy) - A free utility to help web developers watch and manipulate network traffic from their AJAX applications.
 - [binjr/binjr](https://github.com/binjr/binjr) - A Time Series Data Browser
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
@@ -3299,6 +3322,16 @@
 
 ## JavaScript 
 
+- [moll/node-mitm](https://github.com/moll/node-mitm) - Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing. Intercepts and gives you a Net.Socket, Http.IncomingMessage and Http.ServerResponse to test and respond with. Super useful when testing code that hits remote servers.
+- [sallar/mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server) - Local RTMP Streaming Server
+- [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
+- [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.
+- [jdw353/google-workspace-apps-script-toolbox](https://github.com/jdw353/google-workspace-apps-script-toolbox) - Collection of Apps Script based tools for G Suite
+- [hjkimbrian/Google-Workspace](https://github.com/hjkimbrian/Google-Workspace) - Apps Scripts and Shell Scripts using GAMADV-XTD3, GYB, and rclone for G Suite Admins
+- [googleworkspace/solutions](https://github.com/googleworkspace/solutions) - Community contributed solutions for Google Workspace
+- [googleworkspace/node-samples](https://github.com/googleworkspace/node-samples) - Node samples for Google Workspace APIs.
+- [deislabs/example-bundles](https://github.com/deislabs/example-bundles) - CNAB bundles
+- [IonicaBizau/scrape-it-cli](https://github.com/IonicaBizau/scrape-it-cli) - :crystal_ball: CLI for scrape-it. A Node.js scraper for humans. :rocket:
 - [josdejong/workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser
 - [bfmatei/PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS Sierra
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
@@ -3478,6 +3511,7 @@
 - [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [DBa2016/power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex) - Lovelace pie chart card that displays current energy usage
 - [gurbyz/power-wheel-card](https://github.com/gurbyz/power-wheel-card) - An intuitive way to represent the power and energy that your home is consuming or producing. (A custom card for the Lovelace UI of Home Assistant.)
+- [binghe/acrobat-actions](https://github.com/binghe/acrobat-actions) - Custom Commands and Actions for Adobe Acrobat
 - [nyoungstudios/Adobe-Acrobat-PDF-Tools](https://github.com/nyoungstudios/Adobe-Acrobat-PDF-Tools) - 📄 Scripts to automate time consuming tasks in Adobe Acrobat using JavaScript.
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots
 - [fraserxu/electron-pdf](https://github.com/fraserxu/electron-pdf) - 📄 A command line tool to generate PDF from URL, HTML or Markdown files.
@@ -4787,7 +4821,7 @@
 - [KuntalP/10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
 - [chervonij/DFL-Colab](https://github.com/chervonij/DFL-Colab) - DeepFaceLab fork which provides IPython Notebook to use DFL with Google Colab
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 47 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [nareshkumar66675/Appomania](https://github.com/nareshkumar66675/Appomania) - Andoid and iOS App Store Analysis
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
@@ -4964,6 +4998,7 @@
 
 ## Mustache 
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -4995,6 +5030,7 @@
 
 ## Objective-C 
 
+- [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
 - [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer) - 💻 Ability to rename desktop spaces on macOS 10.10+ (DOES NOT CURRENTLY SUPPORT M1)
 - [yonilevy/automute](https://github.com/yonilevy/automute) - A MacOS menu bar app that mutes the sound on headphones disconnect / awake from sleep
@@ -5091,6 +5127,11 @@
 
 ## Others 
 
+- [arbal/haproxy-wi-docker-ubuntu](https://github.com/arbal/haproxy-wi-docker-ubuntu) - Dockerfile to create an Ubuntu 20.04 based HAProxy container with web based administration
+- [frostbits-security/MITM-cheatsheet](https://github.com/frostbits-security/MITM-cheatsheet) - All MITM attacks in one place.
+- [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
+- [my8100/files](https://github.com/my8100/files) - Docs and files for ScrapydWeb, Scrapyd, Scrapy, and other projects
+- [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [its-a-feature/offensive_macos](https://github.com/its-a-feature/offensive_macos) - Tracking of offensive macOS tooling, blogs, and related helpful information
 - [0dataapp/awesome-0data](https://github.com/0dataapp/awesome-0data) - Resources around owning your data 100%
 - [binga/cloud-gpus](https://github.com/binga/cloud-gpus) - This repository contains information about Cloud GPU offerings for Machine Learning practitioners.
@@ -5868,7 +5909,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto.
+- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by rodber.
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -6075,6 +6116,23 @@
 
 ## Python 
 
+- [grawity/code](https://github.com/grawity/code) - ~/code – tools distributed across all of my systems
+- [SySS-Research/Seth](https://github.com/SySS-Research/Seth) - Perform a MitM attack and extract clear text credentials from RDP connections
+- [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
+- [websploit/websploit](https://github.com/websploit/websploit) - Websploit is a high level MITM framework
+- [tooksoi/ScraXBRL](https://github.com/tooksoi/ScraXBRL) - SEC Edgar Scraper and XBRL Parser/Renderer
+- [mrichar1/exporter_proxy](https://github.com/mrichar1/exporter_proxy) - A small pure-python Reverse HTTP proxy for Prometheus exporters with TLS support.
+- [mdsecactivebreach/LinkedInt](https://github.com/mdsecactivebreach/LinkedInt) - LinkedInt: A LinkedIn scraper for reconnaissance during adversary simulation
+- [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically with Machine Learning
+- [jcpeterson/openwebtext](https://github.com/jcpeterson/openwebtext) - Open clone of OpenAI's unreleased WebText dataset scraper. This version uses pushshift.io files instead of the API for speed.
+- [google/create-service-account](https://github.com/google/create-service-account) - Scripts to automate the creation of service accounts for Google Workspace migration products
+- [ecprice/newsdiffs](https://github.com/ecprice/newsdiffs) - Automatic scraper that tracks changes in news articles over time.
+- [desko27/gcontacts-extractor](https://github.com/desko27/gcontacts-extractor) - :notebook: An admin CLI tool to get Google Contacts' mails from your Google Apps users.
+- [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
+- [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
+- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
+- [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [mxbi/tailscale-hostmap](https://github.com/mxbi/tailscale-hostmap) - Automatically map Tailscale hosts to DNS names locally
 - [andyjsmith/Vultr-Dynamic-DNS](https://github.com/andyjsmith/Vultr-Dynamic-DNS) - Dynamically update IP addresses in Vultr DNS without services like No-IP
 - [rootzoll/raspiblitz](https://github.com/rootzoll/raspiblitz) - Get your own Bitcoin & Lightning Node running - on a RaspberryPi with a nice LCD
@@ -6128,7 +6186,7 @@
 - [5olitude/earthengine-image-downloader](https://github.com/5olitude/earthengine-image-downloader) - A fast way to download satellite images by defining the location from google-earth-engine
 - [samapriya/Planet-GEE-Pipeline-CLI](https://github.com/samapriya/Planet-GEE-Pipeline-CLI) - Planet and Google Earth Engine Pipeline Command Line Interface Tool
 - [samapriya/geeup](https://github.com/samapriya/geeup) - Simple CLI for Google Earth Engine Uploads
-- [aazuspan/wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing weather and climate data
+- [aazuspan/wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing time series data
 - [endlessm/eos-boot-helper](https://github.com/endlessm/eos-boot-helper) - Endless OS services required for booting
 - [aaronzlim/rtlsdr-speca](https://github.com/aaronzlim/rtlsdr-speca) - RTL-SDR based spectrum analyzer.
 - [EarToEarOak/RF-Monitor](https://github.com/EarToEarOak/RF-Monitor) - RF signal monitor
@@ -6919,7 +6977,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ A Python framework for web automation and testing with Selenium and pytest. Includes a dashboard, a test recorder, and JS generators.
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -7925,7 +7983,7 @@
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [shashanoid/Gen2Kindle](https://github.com/shashanoid/Gen2Kindle) - Search, download, convert and send files directly to your kindle from Libgen in one place.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -8033,7 +8091,6 @@
 - [bahanonu/geoSatView](https://github.com/bahanonu/geoSatView) - geoSatView: Downloads satellite data, crop images, and makes animation video.
 - [ropensci/webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web
 - [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
-- [binghe/acrobat-actions](https://github.com/binghe/acrobat-actions) - Custom Commands and Actions for Adobe Acrobat
 - [sfirke/janitor](https://github.com/sfirke/janitor) - simple tools for data cleaning in R
 - [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
@@ -8103,6 +8160,8 @@
 
 ## Ruby 
 
+- [jmopr/job-hunter](https://github.com/jmopr/job-hunter) - Job scraper and applier for indeed.com
+- [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [bkuhlmann/pennyworth](https://github.com/bkuhlmann/pennyworth) - A command line interface that augments Alfred workflows.
 - [grpc/homebrew-grpc](https://github.com/grpc/homebrew-grpc) - gRPC formulae repo for Homebrew
@@ -8182,7 +8241,7 @@
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [piotrmurach/tty-logger](https://github.com/piotrmurach/tty-logger) - A readable, structured and beautiful logging for the terminal
 - [linjunpop/imessage](https://github.com/linjunpop/imessage) - 💬 Send iMessages from command-line
-- [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest. The most up to date documentation can be found on Cucumber.Pro (https://app.cucumber.pro/projects/aruba)
+- [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest.
 - [donmelton/video_transcoding](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 - [donmelton/other_video_transcoding](https://github.com/donmelton/other_video_transcoding) - Other tools to transcode videos.
 - [ipfs-shipyard/ipfs_dht_explorer](https://github.com/ipfs-shipyard/ipfs_dht_explorer) - Dashboard for exploring the public IPFS DHT
@@ -8506,6 +8565,7 @@
 
 ## SCSS 
 
+- [vapid/vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [edersonbrilhante/vilicus](https://github.com/edersonbrilhante/vilicus) - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
 - [racerxdl/sat4noobs](https://github.com/racerxdl/sat4noobs) - Satellite 4 Noobs - Powered by He4rt Devs
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
@@ -8608,7 +8668,7 @@
 - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
 - [jamf/jamfpro](https://github.com/jamf/jamfpro) - JamfPro Docker image
 - [smashism/jamfpro-scripts](https://github.com/smashism/jamfpro-scripts) - 💻 General scripts for Self Service policies and other parts of Jamf Pro.
-- [joeblau/apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - Apple iOS 14.0 Native App Bundle Identifiers
+- [joeblau/apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - Apple iOS 15.0 Native App Bundle Identifiers
 - [Darkomen78/automation](https://github.com/Darkomen78/automation) - Some tools for macOS administrators
 - [kennyb-222/AutoBrew](https://github.com/kennyb-222/AutoBrew) - AutoBrew: Homebrew deployments made easy
 - [tbridge/munki-in-a-cloud](https://github.com/tbridge/munki-in-a-cloud) - A bash script designed to setup a Munki repository, download items, and then prepare and sync an Amazon S3 + CloudFront distribution method.
@@ -9200,7 +9260,7 @@
 - [jakejarvis/datacenter-speed-tests](https://github.com/jakejarvis/datacenter-speed-tests) - ⚡ Test speed and pings to all DigitalOcean, Linode, AWS, GCP, and Vultr regions
 - [actions-hub/gcloud](https://github.com/actions-hub/gcloud) - GitHub Action for interacting with Google Cloud Platform (GCP)
 - [samrocketman/docker-compose-ha-consul-vault-ui](https://github.com/samrocketman/docker-compose-ha-consul-vault-ui) - A docker-compose example of HA Consul + Vault + Vault UI
-- [testdrivenio/vault-consul-swarm](https://github.com/testdrivenio/vault-consul-swarm) - 
+- [testdrivenio/vault-consul-swarm](https://github.com/testdrivenio/vault-consul-swarm) - Deploy Vault and Consul with Docker Swarm
 - [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
@@ -9768,6 +9828,12 @@
 
 ## TypeScript 
 
+- [kocyigitkim/lens-app-viewer](https://github.com/kocyigitkim/lens-app-viewer) - An extension for access services on Lens Ide easily.
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets.
+- [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
+- [samdenty/injectify](https://github.com/samdenty/injectify) - Perform advanced MiTM attacks on websites with ease 💉
+- [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [areknawo/Rex](https://github.com/areknawo/Rex) - Your RegEx companion.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
@@ -9833,7 +9899,7 @@
 - [balena-io-examples/meta-exporter](https://github.com/balena-io-examples/meta-exporter) - The People's Exporter
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [functionland/photos](https://github.com/functionland/photos) - This is a gallery app based on react native+typescript that gives you the same smoothness and features of Google Photos or Apple Photos, but it's free and open source! It connects to decentralized backends like "box" (a new form factor),  IPFS, Filecoin, or even any centralized cloud service provider like AWS, Azure or your own server.
+- [functionland/photos](https://github.com/functionland/photos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfinity", "Filecoin" and "Crust".
 - [wiseindy/timer-for-google-assistant](https://github.com/wiseindy/timer-for-google-assistant) - Allows you to send commands to Google Assistant that will execute after a certain time interval. Built using NodeJS.
 - [casanet/casanet-server](https://github.com/casanet/casanet-server) - Open-source server and dashboard to control IoT devices in a local home network
 - [balena-io/open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
