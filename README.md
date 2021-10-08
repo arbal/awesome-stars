@@ -2369,7 +2369,7 @@
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and data engineering
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - A declarative stream processor for lean data engineering
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [heistp/irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
@@ -2488,7 +2488,7 @@
 - [gotoz/runq](https://github.com/gotoz/runq) - run regular Docker images in KVM/Qemu
 - [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-- [TwinProduction/gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [gookit/gcli](https://github.com/gookit/gcli) - 🖥 Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. Go的命令行应用，工具库，运行CLI命令，支持命令行色彩，用户交互，进度显示，数据格式化显示，生成bash/zsh命令补全脚本
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
@@ -2636,7 +2636,6 @@
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [fardog/secureoperator](https://github.com/fardog/secureoperator) - A DNS-protocol proxy for DNS-over-HTTPS providers, such as Google and Cloudflare
 - [lox/alfred-github-jump](https://github.com/lox/alfred-github-jump) - An alfred plugin to quickly jump to a github repository page
-- [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [kelda/blimp](https://github.com/kelda/blimp) - Blimp: Develop with Docker Compose in the cloud
@@ -3127,7 +3126,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [magicCashew/keepaSDK](https://github.com/magicCashew/keepaSDK) - Various SDK's for Keepa.com API
 - [trishmapow/rf-jam-replay](https://github.com/trishmapow/rf-jam-replay) - Jam and replay attack on vehicle keyless entry systems.
-- [futurice/chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
+- [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [EliotAndres/kaggle-past-solutions](https://github.com/EliotAndres/kaggle-past-solutions) - A searchable compilation of Kaggle past solutions
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - JSON model discoverer
@@ -3357,6 +3356,7 @@
 
 ## JavaScript 
 
+- [mafintosh/ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) - A transform stream that diffs input buffers and outputs the diff as ANSI. If you pipe this to a terminal it will update the output with minimal changes
 - [vicanso/pike](https://github.com/vicanso/pike) - HTTP cache server, such as varnish
 - [unchartedsoftware/torflow](https://github.com/unchartedsoftware/torflow) - Data flow in the Tor network
 - [arbal/bulldohzer](https://github.com/arbal/bulldohzer) - 🚜 Bulldohzer is a performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
@@ -3513,7 +3513,7 @@
 - [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into in-browser HTML
 - [xpl/ololog](https://github.com/xpl/ololog) - A better console.log for the log-driven debugging junkies
 - [doowb/ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal. ansi-colors is the official ansi styling library for gulp, and is used by hundreds of other projects, including mocha and enquirer.
-- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - Easily set your terminal text color & styles.
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
@@ -5025,6 +5025,7 @@
 - [docker-science/cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [turnkeylinux-apps/core](https://github.com/turnkeylinux-apps/core) - TurnKey Core - Common Base for All Appliances
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
+- [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [manala/ansible-role-cloud_init](https://github.com/manala/ansible-role-cloud_init) - [READ-ONLY] Ansible role dealing with the setup of Cloud-init
 - [tomkins/cloud-init-vagrant](https://github.com/tomkins/cloud-init-vagrant) - Testing cloud-init with Vagrant
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -5192,6 +5193,7 @@
 
 ## Others 
 
+- [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [arbal/torflow](https://github.com/arbal/torflow) - Data flow in the Tor network
 - [hotio/restic](https://github.com/hotio/restic) - Restic docker container with rclone included.
 - [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac) - OCD's Guide to Setting up Mac
@@ -5875,7 +5877,7 @@
 - [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [yosriady/api-development-tools](https://github.com/yosriady/api-development-tools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
@@ -8676,6 +8678,7 @@
 
 ## Shell 
 
+- [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
 - [maisem/tailscale-on-k8s](https://github.com/maisem/tailscale-on-k8s) - 
 - [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) - Run a Tailscale agent/relay in a container
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -9301,7 +9304,7 @@
 - [djware27/benchmarking](https://github.com/djware27/benchmarking) - 
 - [fabianishere/pve-edge-kernel](https://github.com/fabianishere/pve-edge-kernel) - Newer Linux kernels for Proxmox VE 6
 - [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume) - Docker container with a data volume from s3.
-- [futurice/docker-volume-backup](https://github.com/futurice/docker-volume-backup) - Utility container for periodically backing up Docker volumes
+- [jareware/docker-volume-backup](https://github.com/jareware/docker-volume-backup) - Utility container for periodically backing up Docker volumes
 - [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
 - [adtac/borg-docker-volume](https://github.com/adtac/borg-docker-volume) - A script to backup a Docker volume's contents using Borg
