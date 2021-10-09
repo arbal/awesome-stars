@@ -25,6 +25,7 @@
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
   - [Crystal](#crystal)
+  - [Cython](#cython)
   - [D](#d)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
@@ -1218,6 +1219,10 @@
 - [veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
+## Cython 
+
+- [trezor/cython-hidapi](https://github.com/trezor/cython-hidapi) - :snake: Python wrapper for the HIDAPI
+
 ## D 
 
 - [zyedidia/Literate](https://github.com/zyedidia/Literate) - A literate programming tool for any language
@@ -1232,6 +1237,10 @@
 
 ## Dockerfile 
 
+- [chestnutprog/derper](https://github.com/chestnutprog/derper) - https://github.com/tailscale/tailscale/tree/main/derp
+- [fredliang44/derper-docker](https://github.com/fredliang44/derper-docker) - tailscale selfhosted derp-server docker image
+- [hojulian/tailscale-relay](https://github.com/hojulian/tailscale-relay) - Tailscale docker image in relay mode
+- [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [t11z/haproxy-wi-docker-ubuntu](https://github.com/t11z/haproxy-wi-docker-ubuntu) - Dockerfile to create an Ubuntu 20.04 based HAProxy container with web based administration
 - [restorecommerce/pdf-rendering-srv](https://github.com/restorecommerce/pdf-rendering-srv) - HTML to PDF rendering Microservice based on Puppeteer/ Chrome. Self-hosted service for rendering PDFs
@@ -3356,6 +3365,7 @@
 
 ## JavaScript 
 
+- [ken107/read-aloud](https://github.com/ken107/read-aloud) - An awesome browser extension that reads aloud webpage content with one click
 - [mafintosh/ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) - A transform stream that diffs input buffers and outputs the diff as ANSI. If you pipe this to a terminal it will update the output with minimal changes
 - [vicanso/pike](https://github.com/vicanso/pike) - HTTP cache server, such as varnish
 - [unchartedsoftware/torflow](https://github.com/unchartedsoftware/torflow) - Data flow in the Tor network
@@ -3597,7 +3607,7 @@
 - [hobbyquaker/mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts) - Node.js based script runner for use in MQTT based Smart Home environments
 - [hobbyquaker/mqtt-admin](https://github.com/hobbyquaker/mqtt-admin) - MQTT Web Frontend: Publish, Subscribe and see Topic Status in a comfortable UI
 - [tborychowski/unifi-event-monitor](https://github.com/tborychowski/unifi-event-monitor) - Monitors Unifi Controller events and push them as notifications to slack (or any other platform)
-- [bwp91/homebridge-wemo](https://github.com/bwp91/homebridge-wemo) - Homebridge plugin to control Wemo devices.
+- [bwp91/homebridge-wemo](https://github.com/bwp91/homebridge-wemo) - Homebridge plugin to integrate Wemo devices into HomeKit.
 - [daneroo/MomPhotoCompare](https://github.com/daneroo/MomPhotoCompare) - Comparing iCloud and GooglePhots Downloads, to hopefully consiladte them both, with no loss and no duplicates
 - [kalkih/forked-daapd-card](https://github.com/kalkih/forked-daapd-card) - forked daapd card for Home Assistant Lovelace UI
 - [LuisReinoso/git-history-browser-extension](https://github.com/LuisReinoso/git-history-browser-extension) - Agrega un botón a la interfáz de archivos de github para ver su historial / Add a button to the github file interface to see its history
@@ -3708,6 +3718,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
@@ -4765,6 +4776,7 @@
 
 ## Jinja 
 
+- [hassio-addons/repository-edge](https://github.com/hassio-addons/repository-edge) - EDGE - Home Assistant Community Add-ons
 - [forem/selfhost](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure 🎉
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
@@ -5193,6 +5205,9 @@
 
 ## Others 
 
+- [arbal/derper-docker](https://github.com/arbal/derper-docker) - tailscale selfhosted derp-server docker image
+- [arbal/derper](https://github.com/arbal/derper) - https://github.com/tailscale/tailscale/tree/main/derp
+- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [arbal/torflow](https://github.com/arbal/torflow) - Data flow in the Tor network
 - [hotio/restic](https://github.com/hotio/restic) - Restic docker container with rclone included.
@@ -5896,7 +5911,6 @@
 - [freenas/iocage-ports](https://github.com/freenas/iocage-ports) - Official iXsystems iocage ports tree used to make plugins for FreeNAS and TrueOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [adde88/openwrt-useful-tools](https://github.com/adde88/openwrt-useful-tools) - A repo containing different tools compiled specifically for the Hak5 WiFi Pineapple MK6 and MK7.
 - [zbeekman/launchctl-tasks](https://github.com/zbeekman/launchctl-tasks) - A set of short & sweet `launchctl` plists for automating boring tasks on macOS 🤖🍏
@@ -6079,6 +6093,7 @@
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [captn3m0/jqaas](https://github.com/captn3m0/jqaas) - jq as a service
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+- [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [geocoder-php/Geocoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP.
 
@@ -6563,7 +6578,6 @@
 - [simonw/datasette-graphql](https://github.com/simonw/datasette-graphql) - Datasette plugin providing an automatic GraphQL API for your SQLite databases
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
 - [swz30/MPRNet](https://github.com/swz30/MPRNet) - Official repository for "Multi-Stage Progressive Image Restoration" (CVPR 2021). SOTA results for image deblurring, deraining, and denoising.
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [andrewp-as-is/chrome-bookmarks.py](https://github.com/andrewp-as-is/chrome-bookmarks.py) - :link: Google Chrome bookmarks helper
 - [andrewp-as-is/applescript.py](https://github.com/andrewp-as-is/applescript.py) - :apple: :snake: run applescript
 - [youdroid/home-assistant-gitea](https://github.com/youdroid/home-assistant-gitea) - 🍵 Gitea component to follow your repositories
@@ -6907,7 +6921,7 @@
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) - A series of DAGs/Workflows to help maintain the operation of Airflow
 - [bonovoxly/coinmarketcap-exporter](https://github.com/bonovoxly/coinmarketcap-exporter) - coinmarketcap.com Prometheus Exporter
-- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -7899,7 +7913,7 @@
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
 - [isometry/alfred-pipe](https://github.com/isometry/alfred-pipe) - Alfred workflow to pass selected text or clipboard through arbitrary shell one-liners
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
-- [postlund/hass-atv-beta](https://github.com/postlund/hass-atv-beta) - Beta version of new Apple TV integration in Home Assistant supporting tvOS 13
+- [postlund/hass-atv-beta](https://github.com/postlund/hass-atv-beta) - Beta version of new Apple TV integration in Home Assistant supporting tvOS 15
 - [Contextualist/glare](https://github.com/Contextualist/glare) - gracefully download (latest) releases from GitHub
 - [laincode/shodan-seeker](https://github.com/laincode/shodan-seeker) - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
 - [Skakiz/Alfred-Home-assistant-workflow](https://github.com/Skakiz/Alfred-Home-assistant-workflow) - An integration between Alfred and Home Assistant
@@ -8678,6 +8692,9 @@
 
 ## Shell 
 
+- [marblenix/iocage-plugin-vault](https://github.com/marblenix/iocage-plugin-vault) - 
+- [dkorunic/hass-addons](https://github.com/dkorunic/hass-addons) - 
+- [tsujamin/hass-addons](https://github.com/tsujamin/hass-addons) - 
 - [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
 - [maisem/tailscale-on-k8s](https://github.com/maisem/tailscale-on-k8s) - 
 - [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) - Run a Tailscale agent/relay in a container
@@ -9509,7 +9526,7 @@
 - [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [mattermost/mattermost-docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production
 - [geerlingguy/ansible-role-certbot](https://github.com/geerlingguy/ansible-role-certbot) - Ansible Role - Certbot (for Let's Encrypt)
-- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker. Focus on security.
+- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [kmoore134/iocage-netdata](https://github.com/kmoore134/iocage-netdata) - Netdata Plugin for FreeNAS
 - [juju4/ansible-sift](https://github.com/juju4/ansible-sift) - SIFT deployment with ansible
 - [AlexandreLec/import-ova](https://github.com/AlexandreLec/import-ova) - Proxmox script to import OVA template and provision a VM automatically
@@ -9918,6 +9935,7 @@
 
 ## TypeScript 
 
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [snyk/vscode-extension](https://github.com/snyk/vscode-extension) - Snyk Code extension for Visual Studio Code
 - [returntocorp/semgrep-vscode](https://github.com/returntocorp/semgrep-vscode) - Semgrep extension for Visual Studio Code
@@ -10155,7 +10173,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source platform that brings an Airtable experience for your database and allows you to build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
 - [AlexanderLevenskikh/network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
