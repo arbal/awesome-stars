@@ -867,7 +867,7 @@
 - [jacobagilbert/inspectrum](https://github.com/jacobagilbert/inspectrum) - Offline radio signal analyser
 - [mkiol/Jupii](https://github.com/mkiol/Jupii) - Play audio, video and images on UPnP/DLNA devices
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
-- [finos/perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
+- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [pothosware/PothosFlow](https://github.com/pothosware/PothosFlow) - GUI frontend and designer tool for the Pothos framework
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - Multimode SDR transceiver for GNU radio
 - [pothosware/PothosCore](https://github.com/pothosware/PothosCore) - The Pothos data-flow framework
@@ -6910,7 +6910,7 @@
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
 - [ChiefGokhlayeh/pluto-sdr-pr](https://github.com/ChiefGokhlayeh/pluto-sdr-pr) - Turning cheap(ish) Pluto-SDR receivers into passive radar sensors
-- [mintapi/mintapi](https://github.com/mintapi/mintapi) - a screen-scraping "API" for Mint.com
+- [mintapi/mintapi](https://github.com/mintapi/mintapi) - an unofficial screen-scraping "API" for Mint.com
 - [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites
 - [huntrar/scrape](https://github.com/huntrar/scrape) - a command-line web scraping tool
 - [keikoproj/minion-manager](https://github.com/keikoproj/minion-manager) - Intelligent use of Spot Instances in Kubernetes
@@ -7019,7 +7019,7 @@
 - [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Easily build and manage datasets for machine and deep learning. Stream data real-time & version-control it. https://activeloop.ai
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 200 universities.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash) - 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration
@@ -7089,7 +7089,7 @@
 - [krsmanovic/mikrotik-distributed-ssh](https://github.com/krsmanovic/mikrotik-distributed-ssh) - Python script that connects to MikroTik routers via ssh and executes list of commands. Both inventory and command lists are loaded from external files. Create separate log entries for successful connections and errors.
 - [0x802/MikrotikSploit](https://github.com/0x802/MikrotikSploit) - MikrotikSploit is a script that searches for and exploits Mikrotik network vulnerabilities
 - [den1s/MNDP_sender](https://github.com/den1s/MNDP_sender) - MikroTik Neighbor Discovery Protocol (MNDP) sender
-- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary translation services.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [us/english-please](https://github.com/us/english-please) - Offer for repositories whose README are written in Chinese.
 - [arbal/HelloGitHub](https://github.com/arbal/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
