@@ -446,7 +446,6 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [k-five/rinp](https://github.com/k-five/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -1135,6 +1134,7 @@
 
 ## CSS 
 
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [t0xic0der/sysmon](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
 - [guillaumebriday/traefik-custom-error-pages](https://github.com/guillaumebriday/traefik-custom-error-pages) - Bunch of custom error pages for Traefik 2.x built with Jekyll
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2368,7 +2368,6 @@
 - [williamchanrico/planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server dependencies along with required bandwidth
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket[s]-FLV/TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify.
 - [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically log in users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -2379,7 +2378,7 @@
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - A declarative stream processor for lean data engineering
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [heistp/irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
@@ -3086,6 +3085,7 @@
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [fitbeard/awx-ha-cluster](https://github.com/fitbeard/awx-ha-cluster) - AWX clustering on Docker standalone installation
 - [prometheus/demo-site](https://github.com/prometheus/demo-site) - Demo site auto-deployed with Ansible and Travis CI.
 - [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
@@ -3366,6 +3366,7 @@
 
 ## JavaScript 
 
+- [denar90/sloth](https://github.com/denar90/sloth) - Sloth - an extension slowing down page loading to bring real user experience
 - [ken107/read-aloud](https://github.com/ken107/read-aloud) - An awesome browser extension that reads aloud webpage content with one click
 - [mafintosh/ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) - A transform stream that diffs input buffers and outputs the diff as ANSI. If you pipe this to a terminal it will update the output with minimal changes
 - [vicanso/pike](https://github.com/vicanso/pike) - HTTP cache server, such as varnish
@@ -6798,7 +6799,7 @@
 - [viadee/docker-hub-rate-limit-exporter](https://github.com/viadee/docker-hub-rate-limit-exporter) - Know your limits - Via Prometheus
 - [pimms/ggl](https://github.com/pimms/ggl) - Google Custom Search for the command line
 - [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
-- [rchac/LibreQoS](https://github.com/rchac/LibreQoS) - A Smart Queue Management system for ISPs leveraging fq_codel and CAKE to improve responsiveness, enforce customer plan bandwidth, and reduced bufferbloat.
+- [rchac/LibreQoS](https://github.com/rchac/LibreQoS) - A Smart Queue Management system for ISPs leveraging fq_codel and CAKE to improve responsiveness, enforce customer plan bandwidth, and reduce bufferbloat.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [hofstadter-io/self-driving-desktop](https://github.com/hofstadter-io/self-driving-desktop) - Desktop Automation Framework. Drive your mouse and keyboard with an easy to use language.
 - [httpie/httpcat](https://github.com/httpie/httpcat) - httpcat is a simple utility for constructing raw HTTP requests on the command line.
@@ -7192,6 +7193,7 @@
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [google/upvote_py2](https://github.com/google/upvote_py2) - A multi-platform binary whitelisting solution
 - [djmaze/apprise-microservice](https://github.com/djmaze/apprise-microservice) - A small JSON API server for delivering notifications using Apprise
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -8694,6 +8696,8 @@
 
 ## Shell 
 
+- [Hubbitus/shell.scripts](https://github.com/Hubbitus/shell.scripts) - Useful shell scripts, examples and snippets
+- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - SkiffOS: lightweight & robust cross-compiled Linux distribution optimized for hosting containers.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [marblenix/iocage-plugin-vault](https://github.com/marblenix/iocage-plugin-vault) - 
 - [dkorunic/hass-addons](https://github.com/dkorunic/hass-addons) - 
