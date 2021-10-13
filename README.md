@@ -129,6 +129,7 @@
 
 ## AppleScript 
 
+- [riley-martine/chrome-profile-launcher](https://github.com/riley-martine/chrome-profile-launcher) - Applescript that launches chrome, closes the active window, and opens a new window in the a specified profile. If a window is already open, it won't close it, but opens your specified profile on top.
 - [SaiWebApps/AppleScriptUtils](https://github.com/SaiWebApps/AppleScriptUtils) - Collection of useful AppleScripts to automate common workflows on my Mac.
 - [rtrouton/Payload-Free-Package-Creator](https://github.com/rtrouton/Payload-Free-Package-Creator) - 
 - [naefl/alfred-kitty](https://github.com/naefl/alfred-kitty) - Alfred workflow to work more seamlessly with TUIs using Kitty's remote control API
@@ -184,6 +185,8 @@
 
 ## C 
 
+- [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
+- [joyent/pivy](https://github.com/joyent/pivy) - Tools for using PIV tokens (like Yubikeys) as an SSH agent, for encrypting data at rest, and more
 - [akhilguliani/turbostat_ryzen](https://github.com/akhilguliani/turbostat_ryzen) - A modified version of the linux turbostat utility to do power measurements on Ryzen CPU's
 - [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
 - [gdnsd/gdnsd](https://github.com/gdnsd/gdnsd) - Authoritative DNS Server --
@@ -757,7 +760,7 @@
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 - [net-daemon/netdaemon](https://github.com/net-daemon/netdaemon) - An application daemon for Home Assistant written in .NET 5.0
 - [Zaczero/2Captcha](https://github.com/Zaczero/2Captcha) - 🍬 Simple API wrapper for https://2captcha.com
-- [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Export Open Hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb
+- [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb
 - [Corsinvest/cv4pve-diag](https://github.com/Corsinvest/cv4pve-diag) - Diagnostic tool for Proxmox VE
 - [OptiKey/OptiKey](https://github.com/OptiKey/OptiKey) - OptiKey - Full computer control and speech with your eyes
 - [yllibed/Zigbee2MqttAssistant](https://github.com/yllibed/Zigbee2MqttAssistant) - GUI for Zigbee2Mqtt running in docker and HASS.IO
@@ -800,6 +803,7 @@
 
 ## C++ 
 
+- [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
 - [facebook/mariana-trench](https://github.com/facebook/mariana-trench) - Our security focused static analysis tool for Android and Java applications.
 - [khrykin/StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - No-Fuss Time Management App
 - [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
@@ -1192,6 +1196,7 @@
 
 ## CoffeeScript 
 
+- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [louixs/tsushin](https://github.com/louixs/tsushin) - Übersicht widget : Dynamically updating line chart that shows total uploaded and downloaded data being transferred to your Mac in kB. Heavily inspired by the work of Dion Munk -  network-throughput
 - [stephenyeargin/hubot-grafana](https://github.com/stephenyeargin/hubot-grafana) - 📈🤖 Query Grafana dashboards
 - [fw42/honeymap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map
@@ -1465,6 +1470,8 @@
 
 ## Go 
 
+- [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
+- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [FilWisher/go-ansi-diff](https://github.com/FilWisher/go-ansi-diff) - a literal translation of https://github.com/mafintosh/ansi-diff-stream to go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [sjug/go-zenstates](https://github.com/sjug/go-zenstates) - Golang tool to modify Ryzen CPU p-state settings from Linux CLI
@@ -1657,7 +1664,7 @@
 - [netzkern/butler](https://github.com/netzkern/butler) - 🤵 Welcome to Butler, your personal assistent to scaffold new projects. Shipped with binaries for Mac, Win and Linux.
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) - Bitrise runner CLI - run your automations on your Mac or Linux machine -
 - [4thel00z/upnpctl](https://github.com/4thel00z/upnpctl) - Upnp utility for device discovery and scan (+ export as json)
-- [dadevel/alertmanager-signal-receiver](https://github.com/dadevel/alertmanager-signal-receiver) - Prometheus Alertmanager Webhook Receiver for Signal Messenger
+- [dadevel/alertmanager-signal-receiver](https://github.com/dadevel/alertmanager-signal-receiver) - Signal Messenger Support for Prometheus Alertmanager
 - [schlauerlauer/alertmanager-webhook-signal](https://github.com/schlauerlauer/alertmanager-webhook-signal) - This project creates a little (dockerized) REST API Endpoint for an Alertmanager and Grafana webhook receiver and maps it to the dockerized signal-cli.
 - [grepplabs/mqtt-proxy](https://github.com/grepplabs/mqtt-proxy) - MQTT Proxy allows MQTT clients to send messages to other messaging systems
 - [thought-machine/prometheus-cardinality-exporter](https://github.com/thought-machine/prometheus-cardinality-exporter) - Metric cardinality exporter for Prometheus
@@ -2374,7 +2381,6 @@
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [inlets/inletsctl](https://github.com/inlets/inletsctl) - Create inlets servers on the top cloud platforms
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
@@ -2765,7 +2771,7 @@
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [ggiamarchi/pxe-pilot](https://github.com/ggiamarchi/pxe-pilot) - API and CLI to manage PXE configurations
-- [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
+- [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
 - [giantswarm/mayu](https://github.com/giantswarm/mayu) - Mayu helps you to provision a cluster of bare metal machines with CoreOS Container Linux
 - [poseidon/matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
@@ -2784,7 +2790,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [likexian/stathub-go](https://github.com/likexian/stathub-go) - A smart Hub for holding server stat
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
 - [solo-io/packer-builder-arm-image](https://github.com/solo-io/packer-builder-arm-image) - Packer plugin for ARM images
@@ -3366,6 +3372,8 @@
 
 ## JavaScript 
 
+- [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
+- [internxt/complex](https://github.com/internxt/complex) - 
 - [denar90/sloth](https://github.com/denar90/sloth) - Sloth - an extension slowing down page loading to bring real user experience
 - [ken107/read-aloud](https://github.com/ken107/read-aloud) - An awesome browser extension that reads aloud webpage content with one click
 - [mafintosh/ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) - A transform stream that diffs input buffers and outputs the diff as ANSI. If you pipe this to a terminal it will update the output with minimal changes
@@ -3487,7 +3495,6 @@
 - [Integralist/Google-Home-GSuite-Calendar-Sync](https://github.com/Integralist/Google-Home-GSuite-Calendar-Sync) - Sync your G Suite Calendar to your personal Google account so you can access events via Google Home
 - [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library.
 - [fsn1995/Fun-with-Google-Earth-Engine](https://github.com/fsn1995/Fun-with-Google-Earth-Engine) - Google Earth Engine practice
-- [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows
 - [custom-cards/flex-table-card](https://github.com/custom-cards/flex-table-card) - Highly Flexible Lovelace Card - arbitrary contents/columns/rows, regex matched, perfect to show appdaemon created content and anything breaking out of the entity_id + attributes concept
 - [colloqi/pisignage-server](https://github.com/colloqi/pisignage-server) - Local Server to manage piSignage players based on node.js
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
@@ -4839,6 +4846,7 @@
 
 ## Jupyter Notebook 
 
+- [Seagate/cortx](https://github.com/Seagate/cortx) - CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [google/earthengine-community](https://github.com/google/earthengine-community) - Tutorials and content created by Earth Engine users, for Earth Engine users
@@ -4916,7 +4924,7 @@
 - [iot-salzburg/gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
 - [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
-- [datadesk/california-coronavirus-data](https://github.com/datadesk/california-coronavirus-data) - The Los Angeles Times' independent tally of coronavirus cases in California.
+- [datadesk/california-coronavirus-data](https://github.com/datadesk/california-coronavirus-data) - The Los Angeles Times' open-source archive of California coronavirus data
 - [CAIDA/submarine-cable-impact-analysis-public](https://github.com/CAIDA/submarine-cable-impact-analysis-public) - This repository contains tools implemented for the PAM 2020 paper "Unintended consequences: Effects of submarine cable deployment on Internet routing" to collect and analyze data depicting the impact of the South-Atlantic Cable System (SACS) launch on Internet routing. This codebase can be extended to other use-cases of cable launches, failures, etc.
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
@@ -4959,7 +4967,7 @@
 - [dotStart/Beacon](https://github.com/dotStart/Beacon) - A simple UPnP Assistant that is capable of opening arbitrary ports.
 - [ingbyr/vdm](https://github.com/ingbyr/vdm) - GUI for command-line video downloader (youtube-dl annie)
 - [serebit/wraith-master](https://github.com/serebit/wraith-master) - A native Linux RGB control application for the AMD Wraith Prism
-- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android inspired by Gpredict
+- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android, inspired by Gpredict
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [afollestad/nock-nock](https://github.com/afollestad/nock-nock) - 🚪 Monitor and validate your websites to maintain maximum uptime.
@@ -5586,6 +5594,7 @@
 - [peterlamar/networking-examples](https://github.com/peterlamar/networking-examples) - Collection of networking tool examples for ordinary developers
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫  Simple and clean Lovelace configuration
+- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [jitsi/jitsi-meet-release-notes](https://github.com/jitsi/jitsi-meet-release-notes) - Release notes for Jitsi Meet: the web frontend, mobile apps and mobile SDKs
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) - A list of awesome compiler projects and papers for tensor computation and deep learning.
@@ -6205,6 +6214,9 @@
 
 ## Python 
 
+- [MBRCTV/VultrFirewallDynamicDNS](https://github.com/MBRCTV/VultrFirewallDynamicDNS) - Dynamic IP Updater For Vultr Firewall API
+- [aviau/perkeepy](https://github.com/aviau/perkeepy) - Python utilities for Perkeep
+- [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [pinkywafer/Anniversaries](https://github.com/pinkywafer/Anniversaries) - Anniversary Countdown Sensor for Home Assistant
 - [r4m0n/ZenStates-Linux](https://github.com/r4m0n/ZenStates-Linux) - Dynamically edit AMD Ryzen processor P-States
 - [allegro/vaas](https://github.com/allegro/vaas) - VaaS - Varnish as a Service
@@ -8422,6 +8434,7 @@
 
 ## Rust 
 
+- [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
 - [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a fast and highly reliable distributed search engine designed from the ground up to index and query vast amounts of data with unmatched cost-efficiency.
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
@@ -9942,6 +9955,8 @@
 
 ## TypeScript 
 
+- [supabase/storage-api](https://github.com/supabase/storage-api) - A S3 compatible object storage service that integrates with Postgres and Gotrue
+- [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [snyk/vscode-extension](https://github.com/snyk/vscode-extension) - Snyk Code extension for Visual Studio Code
@@ -9966,6 +9981,7 @@
 - [geeks-r-us/mqtt-panel](https://github.com/geeks-r-us/mqtt-panel) - Simple Grafana panel that allows to communicate with a mqtt server
 - [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)
 - [MatheusR42/vtex-google-auth-cli](https://github.com/MatheusR42/vtex-google-auth-cli) - A tool to get VtexIdclientAutCookie Token by CLI
+- [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows
 - [testinggospels/camouflage](https://github.com/testinggospels/camouflage) - Camouflage is a backend mocking tool for HTTP, gRPC and Websockets protocols, which helps you carry out your front end prototyping, unit testing, functional/performance testing in silos, in absence of one or more Microservices/APIs.
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
