@@ -481,6 +481,7 @@
 - [hroptatyr/dateutils](https://github.com/hroptatyr/dateutils) - nifty command line date and time utilities; fast date calculations and conversion in the shell
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [johnsoga/DNS_Benchmark](https://github.com/johnsoga/DNS_Benchmark) - DNS Performance Tester
+- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [respeaker/seeed-voicecard](https://github.com/respeaker/seeed-voicecard) - 2 Mic Hat, 4 Mic Array, 6-Mic Circular Array Kit, and 4-Mic Linear Array Kit for Raspberry Pi
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
@@ -1470,6 +1471,7 @@
 
 ## Go 
 
+- [mewil/tproxy](https://github.com/mewil/tproxy) - Container-based HTTPS proxy for Tailscale
 - [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [FilWisher/go-ansi-diff](https://github.com/FilWisher/go-ansi-diff) - a literal translation of https://github.com/mafintosh/ansi-diff-stream to go
@@ -1682,7 +1684,7 @@
 - [emmanuelay/badger](https://github.com/emmanuelay/badger) - CLI tool to perform brute force lookup on domains
 - [zonedb/zonedb](https://github.com/zonedb/zonedb) - Public Zone Database
 - [ilyaglow/portmapping](https://github.com/ilyaglow/portmapping) - Gather available port mappings on UPnP device
-- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Go2TV lets you cast your videos to any  UPnP/DLNA MediaRenderer like Samsumg and LG TVs
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast your media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [huin/goupnp](https://github.com/huin/goupnp) - UPnP client library for Go (#golang)
 - [owenthereal/spotctl](https://github.com/owenthereal/spotctl) - A command-line interface to Spotify, written in Go
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI
@@ -1908,7 +1910,7 @@
 - [nsqio/go-diskqueue](https://github.com/nsqio/go-diskqueue) - A Go package providing a filesystem-backed FIFO queue
 - [beatlabs/harvester](https://github.com/beatlabs/harvester) - Harvest configuration, watch and notify subscriber
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [greenpau/caddy-auth-jwt](https://github.com/greenpau/caddy-auth-jwt) - JWT Authorization Plugin for Caddy v2
+- [greenpau/caddy-authorize](https://github.com/greenpau/caddy-authorize) - Authorization Plugin for Caddy v2 (JWT)
 - [tarent/loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
 - [andybrewer/mack](https://github.com/andybrewer/mack) - Mack — Golang wrapper for AppleScript
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
@@ -2213,6 +2215,7 @@
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [Shimmur/shipspotter](https://github.com/Shimmur/shipspotter) - Tool for tunneling a port forward into remote Docker containers over SSH 🚢
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [SuperQ/smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping
 - [cloudflare/gortr](https://github.com/cloudflare/gortr) - The RPKI-to-Router server used at Cloudflare
@@ -3001,7 +3004,6 @@
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [dopry/cloud-netbench](https://github.com/dopry/cloud-netbench) - 
 - [NickMRamirez/Proxy-Benchmarks](https://github.com/NickMRamirez/Proxy-Benchmarks) - Benchmarks for several proxies
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock) - Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
 - [pawalt/proxmox-k3s](https://github.com/pawalt/proxmox-k3s) - Zero-touch k3s deployment on Proxmox
 - [blz-ea/iac](https://github.com/blz-ea/iac) - Infrastructure as Code Starter Kit based on Terraform, Ansible, and Packer
@@ -3372,6 +3374,9 @@
 
 ## JavaScript 
 
+- [jaebradley/uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
+- [OutCast3k/coinbin](https://github.com/OutCast3k/coinbin) - Javascript Bitcoin Wallet. Supports Multisig, Stealth, HD, SegWit, Bech32, Time Locked Addresses, RBF and more!
+- [sindresorhus/get-urls-cli](https://github.com/sindresorhus/get-urls-cli) - Get all URLs in a text file or stdin
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [internxt/complex](https://github.com/internxt/complex) - 
 - [denar90/sloth](https://github.com/denar90/sloth) - Sloth - an extension slowing down page loading to bring real user experience
@@ -4417,7 +4422,6 @@
 - [iad-os/nightswatch](https://github.com/iad-os/nightswatch) - ⚔️Night's Watch, the OIDC Relying Party that guards the realms
 - [dwmkerr/wait-port](https://github.com/dwmkerr/wait-port) - Simple binary to wait for a port to open. Useful for docker-compose and general server side activities.
 - [kalisio/feathers-distributed](https://github.com/kalisio/feathers-distributed) - Distribute your Feathers services as microservices
-- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [chrisjshull/homebridge-nest](https://github.com/chrisjshull/homebridge-nest) - Nest plugin for HomeBridge
 - [medikoo/cli-color](https://github.com/medikoo/cli-color) - Colors and formatting for the console
 - [ceph/cbt](https://github.com/ceph/cbt) - The Ceph Benchmarking Tool
@@ -4908,7 +4912,7 @@
 - [datadesk/lapd-crime-classification-analysis](https://github.com/datadesk/lapd-crime-classification-analysis) - A Los Angeles Times analysis of serious assaults misclassified by LAPD
 - [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
-- [signals-dev/Orion](https://github.com/signals-dev/Orion) - A machine learning library for detecting anomalies in signals.
+- [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - A machine learning library for detecting anomalies in signals.
 - [jupyter/kernel_gateway_demos](https://github.com/jupyter/kernel_gateway_demos) - Demos associated with the kernel gateway incubator project
 - [jgoerner/data-science-stack-cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter) - 🐳📊🤓Cookiecutter template to launch an awesome dockerized Data Science toolstack (incl. Jupyster, Superset, Postgres, Minio, AirFlow & API Star)
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
@@ -6219,7 +6223,7 @@
 - [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [pinkywafer/Anniversaries](https://github.com/pinkywafer/Anniversaries) - Anniversary Countdown Sensor for Home Assistant
 - [r4m0n/ZenStates-Linux](https://github.com/r4m0n/ZenStates-Linux) - Dynamically edit AMD Ryzen processor P-States
-- [allegro/vaas](https://github.com/allegro/vaas) - VaaS - Varnish as a Service
+- [allegro/vaas](https://github.com/allegro/vaas) - VaaS
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [grawity/code](https://github.com/grawity/code) - ~/code – tools distributed across all of my systems
 - [SySS-Research/Seth](https://github.com/SySS-Research/Seth) - Perform a MitM attack and extract clear text credentials from RDP connections
@@ -6896,7 +6900,7 @@
 - [elemental-lf/benji](https://github.com/elemental-lf/benji) - Benji Backup: A  block based deduplicating backup software for Ceph RBD images, iSCSI targets, image files and block devices
 - [ivopetiz/crypto-exchange-cli](https://github.com/ivopetiz/crypto-exchange-cli) - CLI for Crypto Exchanges.
 - [thejeffreystone/hassio_addons](https://github.com/thejeffreystone/hassio_addons) - 
-- [paper-ai/Search4](https://github.com/paper-ai/Search4) - Search people on the Internet.
+- [yellowjunes/Search4](https://github.com/yellowjunes/Search4) - Search people on the Internet.
 - [donbowman/OpenCorsairLink-Netdata](https://github.com/donbowman/OpenCorsairLink-Netdata) - OpenCorsairLink integration to Netdata
 - [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
 - [peci1/mikrotik_swos_tools](https://github.com/peci1/mikrotik_swos_tools) - 
@@ -6936,7 +6940,7 @@
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) - A series of DAGs/Workflows to help maintain the operation of Airflow
 - [bonovoxly/coinmarketcap-exporter](https://github.com/bonovoxly/coinmarketcap-exporter) - coinmarketcap.com Prometheus Exporter
-- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -8257,7 +8261,6 @@
 
 - [komachi/apparmor-even-more-profiles](https://github.com/komachi/apparmor-even-more-profiles) - Collection of AppArmor profiles for hardering Debian Stable (currently buster).
 - [flexibeast/s6-man-pages](https://github.com/flexibeast/s6-man-pages) - mdoc versions of the documentation for the s6 supervision suite
-- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
 - [xorhash/fh](https://github.com/xorhash/fh) - file history with ed(1), diff(1), awk(1), sed(1) and sh(1)
 - [uschtwill/docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting.
@@ -8709,6 +8712,7 @@
 
 ## Shell 
 
+- [hslatman/tailscale-balena-block](https://github.com/hslatman/tailscale-balena-block) - 
 - [Hubbitus/shell.scripts](https://github.com/Hubbitus/shell.scripts) - Useful shell scripts, examples and snippets
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - SkiffOS: lightweight & robust cross-compiled Linux distribution optimized for hosting containers.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
@@ -10304,6 +10308,7 @@
 - [Thiht/smocker](https://github.com/Thiht/smocker) - Smocker is a simple and efficient HTTP mock server and proxy.
 - [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - 📊 📊 📊 Monitors the health and web traffic of servers, microservices, and containers with real-time data monitoring and receive automated notifications over Slack or email.
 - [nomic-io/lotion](https://github.com/nomic-io/lotion) - ✨ Smooth, easy blockchain apps ✨
+- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor) - Balena Supervisor: balena's agent on devices.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
