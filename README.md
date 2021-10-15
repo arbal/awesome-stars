@@ -81,6 +81,7 @@
   - [Puppet](#puppet)
   - [PureBasic](#purebasic)
   - [Python](#python)
+  - [QML](#qml)
   - [R](#r)
   - [RAML](#raml)
   - [Rascal](#rascal)
@@ -757,7 +758,7 @@
 - [antonpup/Aurora](https://github.com/antonpup/Aurora) - Unified lighting effects across multiple brands and various games.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [tmarquespt/HassBot](https://github.com/tmarquespt/HassBot) - Home Assistant Discord Bot CPHA.tech
-- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi!
+- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 - [net-daemon/netdaemon](https://github.com/net-daemon/netdaemon) - An application daemon for Home Assistant written in .NET 5.0
 - [Zaczero/2Captcha](https://github.com/Zaczero/2Captcha) - 🍬 Simple API wrapper for https://2captcha.com
@@ -1270,7 +1271,6 @@
 - [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
 - [mkorenkov/docker-perkeep](https://github.com/mkorenkov/docker-perkeep) - prebuilt docker image of perkeep (aka camlistore)
 - [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
-- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 🦎 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap)
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
@@ -1419,7 +1419,7 @@
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [kevinastone/requestbox](https://github.com/kevinastone/requestbox) - HTTP Request Logger Similar to RequestBin written in Elixir+Phoenix
-- [fredwu/crawler](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+- [fredwu/crawler](https://github.com/fredwu/crawler) - A high performance web crawler / scraper in Elixir.
 - [silicium14/peertube_index](https://github.com/silicium14/peertube_index) - A centralized search engine for PeerTube videos
 - [hez/rainforest-eagle](https://github.com/hez/rainforest-eagle) - Elixir Rainforest Eagle API
 - [hez/home-hub-logger](https://github.com/hez/home-hub-logger) - Elixir service to log sensor data to influxdb
@@ -1471,6 +1471,10 @@
 
 ## Go 
 
+- [crowdsecurity/hub](https://github.com/crowdsecurity/hub) - Main repository for crowdsec scenarios/parsers
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
+- [nishanths/lyft](https://github.com/nishanths/lyft) - Create and manage Lyft rides from the command line
+- [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
 - [mewil/tproxy](https://github.com/mewil/tproxy) - Container-based HTTPS proxy for Tailscale
 - [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
@@ -3745,7 +3749,7 @@
 - [zkat/cacache](https://github.com/zkat/cacache) - 💩💵 but for your data. If you've got the hash, we've got the cache ™ (moved)
 - [tes/compoxure](https://github.com/tes/compoxure) - Proxy middleware for express that enables composition of microservices.
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
-- [lukechilds/keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends
+- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [onticsoluciones/RFMap](https://github.com/onticsoluciones/RFMap) - RFMap - Radio Frequency Mapper
 - [Yevgenium/weather-chart-card](https://github.com/Yevgenium/weather-chart-card) - Custom weather card with charts
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -5301,6 +5305,7 @@
 - [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
+- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [arbal/speed-cloudflare-cli](https://github.com/arbal/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [arbal/archive-imessages](https://github.com/arbal/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - Information for developers that want to work with Pacmax
@@ -6218,6 +6223,8 @@
 
 ## Python 
 
+- [ait-aecid/logdata-anomaly-miner](https://github.com/ait-aecid/logdata-anomaly-miner) - This tool parses log data and allows to define analysis pipelines for anomaly detection. It was designed to run the analysis with limited resources and lowest possible permissions to make it suitable for production server use.
+- [corpnewt/OCConfigCompare](https://github.com/corpnewt/OCConfigCompare) - Python script to compare two plists and list missing keys in either.
 - [MBRCTV/VultrFirewallDynamicDNS](https://github.com/MBRCTV/VultrFirewallDynamicDNS) - Dynamic IP Updater For Vultr Firewall API
 - [aviau/perkeepy](https://github.com/aviau/perkeepy) - Python utilities for Perkeep
 - [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
@@ -8193,6 +8200,10 @@
 - [amperka/ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 - [phelixbtc/ncsc](https://github.com/phelixbtc/ncsc) - Namecoin Stock Control
 - [quick2wire/quick2wire-python-api](https://github.com/quick2wire/quick2wire-python-api) - Python API for controlling GPIO and I2C devices connected to the Raspberry Pi
+
+## QML 
+
+- [cross-platform/icloud-for-linux](https://github.com/cross-platform/icloud-for-linux) - Access all of your favourite iCloud apps from Linux
 
 ## R 
 
