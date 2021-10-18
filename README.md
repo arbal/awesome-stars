@@ -1473,6 +1473,7 @@
 
 ## Go 
 
+- [titpetric/docker-proxy-acl](https://github.com/titpetric/docker-proxy-acl) - A docker unix socket proxy which resticts endpoint usage to allowed sections
 - [crowdsecurity/hub](https://github.com/crowdsecurity/hub) - Main repository for crowdsec scenarios/parsers
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [nishanths/lyft](https://github.com/nishanths/lyft) - Create and manage Lyft rides from the command line
@@ -2802,7 +2803,7 @@
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [likexian/stathub-go](https://github.com/likexian/stathub-go) - A smart Hub for holding server stat
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
-- [solo-io/packer-builder-arm-image](https://github.com/solo-io/packer-builder-arm-image) - Packer plugin for ARM images
+- [solo-io/packer-plugin-arm-image](https://github.com/solo-io/packer-plugin-arm-image) - Packer plugin for ARM images
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider
 - [nbering/terraform-provider-ansible](https://github.com/nbering/terraform-provider-ansible) - "Logical" provider for integrating with an Ansible Dynamic Inventory script.
@@ -3196,6 +3197,7 @@
 
 ## Java 
 
+- [dCache/dcache](https://github.com/dCache/dcache) - dCache - a system for storing and retrieving huge amounts of data, distributed among a large number of heterogenous server nodes, under a single virtual filesystem tree with a variety of standard access methods
 - [arineng/rdap_bootstrap_server](https://github.com/arineng/rdap_bootstrap_server) - A bootstrap server to aid RDAP clients in the bootstrap process.
 - [Hakky54/certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
 - [rokstrnisa/unattach](https://github.com/rokstrnisa/unattach) - Unattach allows you to free your Google storage by easily downloading and/or removing Gmail attachments from many emails at once.
@@ -3380,6 +3382,7 @@
 
 ## JavaScript 
 
+- [afc163/exeq](https://github.com/afc163/exeq) - :twisted_rightwards_arrows: Excute shell commands in queue
 - [jaebradley/uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [OutCast3k/coinbin](https://github.com/OutCast3k/coinbin) - Javascript Bitcoin Wallet. Supports Multisig, Stealth, HD, SegWit, Bech32, Time Locked Addresses, RBF and more!
 - [sindresorhus/get-urls-cli](https://github.com/sindresorhus/get-urls-cli) - Get all URLs in a text file or stdin
@@ -3832,7 +3835,7 @@
 - [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [unep-grid/map-x-mgl](https://github.com/unep-grid/map-x-mgl) - MapX
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
@@ -4798,7 +4801,6 @@
 - [hassio-addons/repository-edge](https://github.com/hassio-addons/repository-edge) - EDGE - Home Assistant Community Add-ons
 - [forem/selfhost](https://github.com/forem/selfhost) - Selfhost your Forem Community on your own infrastructure 🎉
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
-- [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
 - [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
 - [hassio-addons/addon-portainer](https://github.com/hassio-addons/addon-portainer) - Portainer - Home Assistant Community Add-ons
@@ -6695,7 +6697,7 @@
 - [jseidl/hass-magic_areas](https://github.com/jseidl/hass-magic_areas) - Magic Areas custom_component for Home Assistant
 - [nielsfaber/scheduler-component](https://github.com/nielsfaber/scheduler-component) - Custom component for HA that enables the creation of scheduler entities
 - [custom-components/custom_updater](https://github.com/custom-components/custom_updater) - [DEPRECATED]📦 A component which allows you to track and update custom cards/components and python_scripts
-- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor passively monitors BLE sensors (Xiaomi, Qingping, ATC, Brifit, Govee, Kegtron, Moat, iNode, Yeelight, RuuviTag, SensorPush, Teltonika and Thermoplus)
+- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor passively monitors BLE sensors (Xiaomi, Qingping, ATC, BlueMaestro, Brifit, Govee, Kegtron, Moat, iNode, Yeelight, RuuviTag, SensorPush, Teltonika and Thermoplus)
 - [lfasci/homeassistant-prometheus-query](https://github.com/lfasci/homeassistant-prometheus-query) - Inspired from homeassitant Command line Sensor this sensor take values from Prometheus metrics using PromQL query
 - [filipsPL/autowx2](https://github.com/filipsPL/autowx2) - The program for scheduling recordings and processing of the satellite and ground radio transmissions (like capturing of the weather APT images from NOAA satellites, voice messages from ISS, fixed time recordings of WeatherFaxes etc.) :earth_africa: :satellite:
 - [fossasia/open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events https://test-api.eventyay.com
@@ -6936,7 +6938,6 @@
 - [mapbox/mapbox-cli-py](https://github.com/mapbox/mapbox-cli-py) - Command line interface to Mapbox Web Services
 - [chrieke/awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - :globe_with_meridians: List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 - [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
-- [ChiefGokhlayeh/pluto-sdr-pr](https://github.com/ChiefGokhlayeh/pluto-sdr-pr) - Turning cheap(ish) Pluto-SDR receivers into passive radar sensors
 - [mintapi/mintapi](https://github.com/mintapi/mintapi) - an unofficial screen-scraping "API" for Mint.com
 - [City-Bureau/city-scrapers](https://github.com/City-Bureau/city-scrapers) - Scrape, standardize and share public meetings from local government websites
 - [huntrar/scrape](https://github.com/huntrar/scrape) - a command-line web scraping tool
@@ -8724,6 +8725,7 @@
 
 ## Shell 
 
+- [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 - [hslatman/tailscale-balena-block](https://github.com/hslatman/tailscale-balena-block) - 
 - [Hubbitus/shell.scripts](https://github.com/Hubbitus/shell.scripts) - Useful shell scripts, examples and snippets
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - SkiffOS: lightweight & robust cross-compiled Linux distribution optimized for hosting containers.
@@ -8927,6 +8929,7 @@
 - [kvz/nsfailover](https://github.com/kvz/nsfailover) - Let's Make DNS Outage Suck Less
 - [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [anthonybudd/S4](https://github.com/anthonybudd/S4) - S4 is 100% S3 compatible storage, accessed through Tor and distributed using IPFS.
+- [ebrianne/k3s-at-home](https://github.com/ebrianne/k3s-at-home) - k3s-cluster files for homelab
 - [wolfv6/rclone_jobber](https://github.com/wolfv6/rclone_jobber) - An rclone script to perform backups
 - [christianbaun/ossperf](https://github.com/christianbaun/ossperf) - A lightweight tool for analyzing the performance and data integrity of object-based storage services
 - [sparklespdx/limesdr-toolkit-docker](https://github.com/sparklespdx/limesdr-toolkit-docker) - GQRX and friends installed with LimeSuite in a docker container
@@ -9965,6 +9968,7 @@
 
 - [efidvir/CSE-Final-Project](https://github.com/efidvir/CSE-Final-Project) - WiFi Based Wireless Imaging and Positioning for WSN
 - [dimitriblock/gr-cheatsheet](https://github.com/dimitriblock/gr-cheatsheet) - Cheatsheet for gnuradio
+- [ChiefGokhlayeh/pluto-sdr-pr](https://github.com/ChiefGokhlayeh/pluto-sdr-pr) - Turning cheap(ish) Pluto-SDR receivers into passive radar sensors
 - [GerHobbelt/qiqqa-open-source](https://github.com/GerHobbelt/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows (a bleeding edge dev fork) ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・    ☞☞☞ File any issues you find in the main repo issue tracker at https://github.com/jimmejardine/qiqqa-open-source/issues
 - [jimmejardine/qiqqa-open-source](https://github.com/jimmejardine/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
@@ -9972,6 +9976,7 @@
 
 ## TypeScript 
 
+- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [supabase/storage-api](https://github.com/supabase/storage-api) - A S3 compatible object storage service that integrates with Postgres and Gotrue
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
