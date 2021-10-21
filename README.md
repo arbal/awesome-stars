@@ -94,7 +94,6 @@
   - [SCSS](#scss)
   - [Sass](#sass)
   - [Scala](#scala)
-  - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [SourcePawn](#sourcepawn)
@@ -187,6 +186,11 @@
 
 ## C 
 
+- [chaos/diod](https://github.com/chaos/diod) - Distributed I/O Daemon - a 9P file server
+- [taviso/rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
+- [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
+- [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
+- [taviso/scanlimits](https://github.com/taviso/scanlimits) - Tool to examine the behaviour of setuid binaries under constrained limits.
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [openebs/libcstor](https://github.com/openebs/libcstor) - CAS Data Engine - Library to serve IOs on uZFS with synchronous replication, snapshots and clones
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
@@ -1338,7 +1342,6 @@
 - [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
 - [f4exb/sdrangel-docker](https://github.com/f4exb/sdrangel-docker) - Running SDRangel in a Docker container
 - [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
-- [apify/apify-actor-docker](https://github.com/apify/apify-actor-docker) - Base Docker images for Apify actors.
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [bradbeck/nexus-swarm](https://github.com/bradbeck/nexus-swarm) - Docker Swarm ready Sonatype Nexus Repository Manager 3
@@ -1475,6 +1478,11 @@
 
 ## Go 
 
+- [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [devanshbatham/Gorecon](https://github.com/devanshbatham/Gorecon) - Gorecon is a All in one Reconnaissance Tool , a.k.a swiss knife for Reconnaissance  , A tool that every pentester/bughunter might wanna consider into their arsenal
+- [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
+- [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [MatchbookLab/local-persist](https://github.com/MatchbookLab/local-persist) - Create named local volumes that persist in the location(s) you want
 - [titpetric/docker-proxy-acl](https://github.com/titpetric/docker-proxy-acl) - A docker unix socket proxy which resticts endpoint usage to allowed sections
@@ -1972,7 +1980,7 @@
 - [msoap/html2data](https://github.com/msoap/html2data) - Library and cli for extracting data from HTML via CSS selectors
 - [optix2000/nsd_exporter](https://github.com/optix2000/nsd_exporter) - Prometheus exporter for NSD (Name Server Daemon)
 - [fstab/grok_exporter](https://github.com/fstab/grok_exporter) - Export Prometheus metrics from arbitrary unstructured log data.
-- [timescale/promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics 🚀
+- [timescale/promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL 🚀
 - [timescale/prometheus-postgresql-adapter](https://github.com/timescale/prometheus-postgresql-adapter) - Use PostgreSQL as a remote storage database for Prometheus
 - [jarlefosen/alfred-gcloud-shortcuts](https://github.com/jarlefosen/alfred-gcloud-shortcuts) - Shortcuts for opening Google Cloud Platform products in the browser
 - [ncabatoff/zfs-exporter](https://github.com/ncabatoff/zfs-exporter) - Prometheus metrics exporter for ZFS
@@ -2389,6 +2397,7 @@
 - [williamchanrico/planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server dependencies along with required bandwidth
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket[s]-FLV/TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify.
 - [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically log in users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -3105,7 +3114,6 @@
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [CodeFreezr/awesome-graphviz](https://github.com/CodeFreezr/awesome-graphviz) - A curated list of GraphViz related resources
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [fitbeard/awx-ha-cluster](https://github.com/fitbeard/awx-ha-cluster) - AWX clustering on Docker standalone installation
 - [prometheus/demo-site](https://github.com/prometheus/demo-site) - Demo site auto-deployed with Ansible and Travis CI.
 - [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
@@ -3388,6 +3396,7 @@
 
 ## JavaScript 
 
+- [jhuckaby/pixl-server](https://github.com/jhuckaby/pixl-server) - A simple server daemon framework for Node.js.
 - [dgmid/nextcloud-bookmark-manager](https://github.com/dgmid/nextcloud-bookmark-manager) - A Mac app for Nextcloud bookmarks
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [ownbee/bootstrap-grid-card](https://github.com/ownbee/bootstrap-grid-card) - Bootstrap grid in Lovelace UI
@@ -4143,7 +4152,7 @@
 - [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️
 - [arbal/brave-control](https://github.com/arbal/brave-control) - Control Brave Browser from the command line. List, close, deduplicate and bring focus to open tabs. Also includes Alfred workflow integration.
 - [veniversum/git-visualizer](https://github.com/veniversum/git-visualizer) - 👁‍🗨:octocat:Visualizes directory structure of GitHub repos
-- [all-contributors/all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
+- [all-contributors/cli](https://github.com/all-contributors/cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
 - [mgechev/github-contributors-list](https://github.com/mgechev/github-contributors-list) - Node.js script, which outputs all the contributors for given open GitHub project
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
@@ -4398,6 +4407,7 @@
 - [VaclavRut/actor-amazon-crawler](https://github.com/VaclavRut/actor-amazon-crawler) - Amazon crawler - this configuration will extract items for a keywords that you will specify in the input, and it will automatically extract all pages for the given keyword. You can specify more keywords on the input for one run.
 - [drobnikj/crawler-google-places](https://github.com/drobnikj/crawler-google-places) - Scrape information about places from Google Maps. Gives you extra information that you can't get using the Google Places API.
 - [apify/apify-cli](https://github.com/apify/apify-cli) - Apify command-line interface helps you create, develop, build and run Apify actors, and manage the Apify cloud platform.
+- [apify/apify-actor-docker](https://github.com/apify/apify-actor-docker) - Base Docker images for Apify actors.
 - [webrecorder/webrecorder-desktop](https://github.com/webrecorder/webrecorder-desktop) - Webrecorder Desktop App!
 - [nullobject/bokeh](https://github.com/nullobject/bokeh) - Bokeh is a simple, scalable and blazing-fast task queue built on Node.js and ZeroMQ.
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
@@ -4958,6 +4968,7 @@
 - [betatim/openrefineder](https://github.com/betatim/openrefineder) - 💠 + 📚 OpenRefine on Binder!
 - [Earth-Observation/ml-workspace](https://github.com/Earth-Observation/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV](https://github.com/salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV) - A complete machine vision container that includes Jupyter notebooks with built-in code hinting, Anaconda, CUDA 11, TensorRT inference accelerator for Tensor cores, CuPy (GPU drop in replacement for Numpy), PyTorch, PyTorch geometric for Graph Neural Networks, TF2, Tensorboard, and OpenCV for accelerated workloads on NVIDIA Tensor cores and GPUs.
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -5236,6 +5247,8 @@
 
 ## Others 
 
+- [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
+- [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer) - Wineskin
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) - :satellite: A curated list of awesome Real Time Communications resources
 - [arbal/derper-docker](https://github.com/arbal/derper-docker) - tailscale selfhosted derp-server docker image
@@ -5337,7 +5350,6 @@
 - [arbal/CroniclePlugins](https://github.com/arbal/CroniclePlugins) - Plugins I have created to use with Cronicle (https://github.com/jhuckaby/Cronicle)
 - [arbal/coral-audio-analysis](https://github.com/arbal/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
 - [geerlingguy/ansible-role-awx](https://github.com/geerlingguy/ansible-role-awx) - DEPRECATED Ansible Role - AWX
-- [ahuacate/pve-homelab](https://github.com/ahuacate/pve-homelab) - LXC Homelab Container Builds
 - [myriadrf/LMS7002M-docs](https://github.com/myriadrf/LMS7002M-docs) - Documentation for the Lime Microsystems second generation transceiver IC
 - [bob-style/homebrew-moreutils](https://github.com/bob-style/homebrew-moreutils) - Moreutils for Homebrew with additional options
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -6031,7 +6043,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Community/Personal Image Hosting
+- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted Community/Personal Image Hosting
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
@@ -7110,7 +7122,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 🌟 Test any web app with Python. Easy onboarding. Scalable & reliable. Time-saving.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✔️ Fast and reliable end-to-end testing for modern web apps, with Python.
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -7591,6 +7603,7 @@
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
 - [eslam3kl/crtfinder](https://github.com/eslam3kl/crtfinder) - Fast tool to extract all subdomains from crt.sh website. Output will be up to sub.sub.sub.subdomain.com with standard and advanced search techniques
 - [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
+- [synesthesiam/opentts](https://github.com/synesthesiam/opentts) - Open Text to Speech Server
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [bslatkin/dpxdt](https://github.com/bslatkin/dpxdt) - Make continuous deployment safe by comparing before and after webpage screenshots for each release. Depicted shows when any visual, perceptual differences are found. This is the ultimate, automated end-to-end test.
 - [ClusterLabs/crmsh](https://github.com/ClusterLabs/crmsh) - Command-line interface for High-Availability cluster management on GNU/Linux systems.
@@ -7670,7 +7683,6 @@
 - [microsoft/lisa](https://github.com/microsoft/lisa) - LISA is developed and maintained by Microsoft, to empower Linux validation.
 - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [aim-uofa/AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -8296,6 +8308,7 @@
 
 ## Ruby 
 
+- [Gcenx/homebrew-wine](https://github.com/Gcenx/homebrew-wine) - 
 - [jmopr/job-hunter](https://github.com/jmopr/job-hunter) - Job scraper and applier for indeed.com
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
@@ -8466,6 +8479,7 @@
 
 ## Rust 
 
+- [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A server executing commands on webhook. Uses Pueue as executor backend
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
 - [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a fast and highly reliable distributed search engine designed from the ground up to index and query vast amounts of data with unmatched cost-efficiency.
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
@@ -8735,10 +8749,6 @@
 - [Netflix/atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 
-## Scheme 
-
-- [synesthesiam/opentts](https://github.com/synesthesiam/opentts) - Open Text to Speech Server
-
 ## Shell 
 
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
@@ -8916,6 +8926,7 @@
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [xoseperez/the-things-stack-balena](https://github.com/xoseperez/the-things-stack-balena) - Deploys the The Things Stack LoRaWAN Network Server Open Source Edition using Balena. Includes BasicStation Gateway Protocol support.
 - [Yaser-Amiri/netdata-ssh-module](https://github.com/Yaser-Amiri/netdata-ssh-module) - 
+- [ahuacate/pve-homelab](https://github.com/ahuacate/pve-homelab) - LXC Homelab Container Builds
 - [minio/minio-service](https://github.com/minio/minio-service) - Collection of MinIO server scripts for upstart, systemd, sysvinit, launchd.
 - [dominiklippl/simple-kubernetes](https://github.com/dominiklippl/simple-kubernetes) - This repository contains yaml files and shell scripts needed to create a bare metal kubernetes cluster within Proxmox in LXC containers.
 - [servisys/ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
@@ -9379,7 +9390,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [danfmihai/proxmox-create-template](https://github.com/danfmihai/proxmox-create-template) - 
 - [djware27/benchmarking](https://github.com/djware27/benchmarking) - 
-- [fabianishere/pve-edge-kernel](https://github.com/fabianishere/pve-edge-kernel) - Newer Linux kernels for Proxmox VE 6
+- [fabianishere/pve-edge-kernel](https://github.com/fabianishere/pve-edge-kernel) - Newer Linux kernels for Proxmox VE
 - [elementar/docker-s3-volume](https://github.com/elementar/docker-s3-volume) - Docker container with a data volume from s3.
 - [jareware/docker-volume-backup](https://github.com/jareware/docker-volume-backup) - Utility container for periodically backing up Docker volumes
 - [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
