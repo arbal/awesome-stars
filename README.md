@@ -1478,6 +1478,12 @@
 
 ## Go 
 
+- [clearcontainers/runtime](https://github.com/clearcontainers/runtime) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines
+- [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
+- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
+- [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+- [alibaba/pouch](https://github.com/alibaba/pouch) - An Efficient Enterprise-class Container Engine
+- [k1LoW/frgm](https://github.com/k1LoW/frgm) - frgm is a meta snippet (fragment) manager.
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [devanshbatham/Gorecon](https://github.com/devanshbatham/Gorecon) - Gorecon is a All in one Reconnaissance Tool , a.k.a swiss knife for Reconnaissance  , A tool that every pentester/bughunter might wanna consider into their arsenal
@@ -2449,7 +2455,7 @@
 - [genkiroid/cert](https://github.com/genkiroid/cert) - Cert is the Go tool to get TLS certificate information.
 - [square/certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
-- [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
+- [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [home-assistant/plugin-observer](https://github.com/home-assistant/plugin-observer) - Supervisor plugin observare to monitor host part of Supervisor
 - [tianon/gosleep](https://github.com/tianon/gosleep) - "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
@@ -3030,6 +3036,7 @@
 - [dsyorkd/HomeSwarmContainers](https://github.com/dsyorkd/HomeSwarmContainers) - My home swarm for fun stuff
 - [BretFisher/dogvscat](https://github.com/BretFisher/dogvscat) - Sample Docker Swarm cluster stack of tools
 - [in0rdr/tf-ansible-workflow](https://github.com/in0rdr/tf-ansible-workflow) - Terraform/Ansible Workflow for Proxmox VE (PVE) and Libvirt
+- [tylert/packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
 - [terraform-google-modules/terraform-google-gsuite-export](https://github.com/terraform-google-modules/terraform-google-gsuite-export) - The module will create a compute engine VM instance and set up a cronjob to export GSuite Admin SDK data to Stackdriver Logging on a schedule.
 - [mockingbirdconsulting/HashicorpAtHome](https://github.com/mockingbirdconsulting/HashicorpAtHome) - 
 
@@ -4015,7 +4022,7 @@
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
@@ -6158,6 +6165,7 @@
 
 ## Perl 
 
+- [pshved/timeout](https://github.com/pshved/timeout) - A script to measure and limit CPU time and memory consumption of black-box processes in Linux
 - [untoldwind/alfred2-layout](https://github.com/untoldwind/alfred2-layout) - Alfred 2 Layout workflow
 - [gryphonshafer/Geo-GoogleEarth-AutoTour](https://github.com/gryphonshafer/Geo-GoogleEarth-AutoTour) - Generate Google Earth Camera Tours from Tracks and Paths
 - [skarfacegc/FlowTrack](https://github.com/skarfacegc/FlowTrack) - An all in one netflow collector with a web front end.  Designed for small networks.
@@ -6250,6 +6258,7 @@
 
 ## Python 
 
+- [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [RickyCook/ssh-forward-unix-socket](https://github.com/RickyCook/ssh-forward-unix-socket) - Forward a Unix socket over SSH
 - [mango-tree/zsh-recall](https://github.com/mango-tree/zsh-recall) - zsh plugin for history UI
 - [koying/mqtt_discoverystream_ha](https://github.com/koying/mqtt_discoverystream_ha) - Extension of HA mqtt_statestream integration with discovery config publishing
@@ -7054,7 +7063,7 @@
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [johntruckenbrodt/pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
-- [mapbox/rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
+- [rasterio/rasterio](https://github.com/rasterio/rasterio) - Rasterio reads and writes geospatial raster datasets
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [milangritta/Pragmatic-Guide-to-Geoparsing-Evaluation](https://github.com/milangritta/Pragmatic-Guide-to-Geoparsing-Evaluation) - Full resources supporting the publication "A Pragmatic Guide to Geoparsing Evaluation."
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
@@ -7892,7 +7901,6 @@
 - [vladimircicovic/dns_benchmark](https://github.com/vladimircicovic/dns_benchmark) - use bash script and python to benchmark DNS round response time
 - [sofyan48/prox-cli](https://github.com/sofyan48/prox-cli) - Proxmox Orchestration
 - [ossobv/proxtop](https://github.com/ossobv/proxtop) - Proxmox resource monitor -- list top resource users of your proxmox VM platform
-- [tylert/packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
 - [cloudbase/cloudbase-init](https://github.com/cloudbase/cloudbase-init) - Cross-platform instance initialization
 - [tiredofit/docker-traefik-cloudflare-companion](https://github.com/tiredofit/docker-traefik-cloudflare-companion) - Automatically Create CNAME records for containers served by Traefik
 - [FireFart/network_info](https://github.com/FireFart/network_info) - Parse Network Info Databases (ARIN/APNIC/LACNIC/AfriNIC/RIPE)
@@ -8051,7 +8059,7 @@
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 CLI providing unifying interface to all package managers
+- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 📦 one CLI for all package managers
 - [tribe29/checkmk](https://github.com/tribe29/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
@@ -8468,7 +8476,7 @@
 - [zsh-users/zsh-apple-touchbar](https://github.com/zsh-users/zsh-apple-touchbar) - Make your touchbar more powerful.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [NREL/api-umbrella](https://github.com/NREL/api-umbrella) - Open source API management platform
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [molybdenum-99/reality](https://github.com/molybdenum-99/reality) - Comprehensive data proxy to knowledge about real world
 - [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
 - [arbal/homebrew-moreutils](https://github.com/arbal/homebrew-moreutils) - Moreutils for Homebrew with additional options (with oneliner to fix everything)
@@ -8751,6 +8759,8 @@
 
 ## Shell 
 
+- [mollifier/anyframe](https://github.com/mollifier/anyframe) - peco/percol/fzf wrapper plugin for zsh
+- [ma-karai/nginxproxymanagerGraf](https://github.com/ma-karai/nginxproxymanagerGraf) - A Python/Shell connector for Nginx Proxy Manager (Docker)
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
 - [xav-b/zsh-extend-history](https://github.com/xav-b/zsh-extend-history) - Zsh plugin to record command history with more context
 - [standardnotes/standalone](https://github.com/standardnotes/standalone) - Standard Notes standalone infrastructure for self-hosting your own encrypted note-taking server
@@ -9792,6 +9802,7 @@
 
 ## Smarty 
 
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik v2 helm chart
 - [kvaps/kubernetes-in-kubernetes](https://github.com/kvaps/kubernetes-in-kubernetes) - Deploy Kubernetes in Kubernetes using Helm
 - [truecharts/apps](https://github.com/truecharts/apps) - Community App Catalog for TrueNAS SCALE
 - [clayshek/ans-pve-win-templ](https://github.com/clayshek/ans-pve-win-templ) - Ansible playbook to create Proxmox Windows VM templates
@@ -10183,7 +10194,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
@@ -10371,7 +10382,7 @@
 - [hediet/vscode-rpc](https://github.com/hediet/vscode-rpc) - Provides an RPC interface to automate VSCode from other processes
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [mkloubert/vs-rest-api](https://github.com/mkloubert/vs-rest-api) - Visual Studio Code extension that provides a REST API to control your editor.
-- [playwright-community/jest-playwright](https://github.com/playwright-community/jest-playwright) - Running tests using Jest & Playwright 🚀
+- [playwright-community/jest-playwright](https://github.com/playwright-community/jest-playwright) - Running tests using Jest & Playwright
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [Kombustor/rss-fulltext-proxy](https://github.com/Kombustor/rss-fulltext-proxy) - Get full-text content for any RSS-feed.
 - [rafaelmaiolla/remote-vscode](https://github.com/rafaelmaiolla/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
