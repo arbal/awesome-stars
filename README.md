@@ -456,7 +456,7 @@
 - [semigodking/redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
-- [k-five/rinp](https://github.com/k-five/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
+- [shakibamoshiri/rinp](https://github.com/shakibamoshiri/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -1252,6 +1252,7 @@
 
 ## Dockerfile 
 
+- [k8s-at-home/container-images](https://github.com/k8s-at-home/container-images) - Kubernetes tailored container images for various applications
 - [D34DC3N73R/netdata-glibc](https://github.com/D34DC3N73R/netdata-glibc) - netdata with glibc package for use with nvidia-docker2
 - [chestnutprog/derper](https://github.com/chestnutprog/derper) - https://github.com/tailscale/tailscale/tree/main/derp
 - [fredliang44/derper-docker](https://github.com/fredliang44/derper-docker) - tailscale selfhosted derp-server docker image
@@ -1336,7 +1337,6 @@
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [LiveHelperChat/intent-deeppavlov](https://github.com/LiveHelperChat/intent-deeppavlov) - Simple intent recognition using DeepPavlov.ai
 - [QuantumObject/docker-xowa](https://github.com/QuantumObject/docker-xowa) - docker container for xowa (offline wikipedia)
-- [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) - 
 - [compujuckel/adsb-docker](https://github.com/compujuckel/adsb-docker) - dump1090-fa, piaware and fr24feed together with docker-compose
 - [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
@@ -1478,6 +1478,15 @@
 
 ## Go 
 
+- [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
+- [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads
+- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [kasvith/simplelb](https://github.com/kasvith/simplelb) - World's most dumbest Load Balancer
+- [kubesphere/openelb](https://github.com/kubesphere/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
+- [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public LoadBalancers on your local Kubernetes clusters
+- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
+- [kevburnsjr/microcache](https://github.com/kevburnsjr/microcache) - A non-standard HTTP cache implemented as Go middleware
 - [clearcontainers/runtime](https://github.com/clearcontainers/runtime) - OCI (Open Containers Initiative) compatible runtime using Virtual Machines
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
@@ -2349,7 +2358,7 @@
 - [arbourd/concourse-slack-alert-resource](https://github.com/arbourd/concourse-slack-alert-resource) - A structured Slack notification resource for Concourse
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [darxkies/k8s-tew](https://github.com/darxkies/k8s-tew) - Kubernetes - The Easier Way
-- [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority. Let's Encrypt is hiring! Work on Pebble with us.
+- [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 - [suyashkumar/ssl-proxy](https://github.com/suyashkumar/ssl-proxy) - :lock: Simple zero-config SSL reverse proxy with real autogenerated certificates (LetsEncrypt, self-signed, provided)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
@@ -3403,6 +3412,10 @@
 
 ## JavaScript 
 
+- [jhuckaby/performa](https://github.com/jhuckaby/performa) - A multi-server monitoring system with a web based UI.
+- [Xantios/nginx-proxy-manager-assistant](https://github.com/Xantios/nginx-proxy-manager-assistant) - Automagic routing for nginx-proxy-manager
+- [SDR4space/Examples](https://github.com/SDR4space/Examples) - Virtual Machine examples
+- [akhilrex/podgrab](https://github.com/akhilrex/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 - [jhuckaby/pixl-server](https://github.com/jhuckaby/pixl-server) - A simple server daemon framework for Node.js.
 - [dgmid/nextcloud-bookmark-manager](https://github.com/dgmid/nextcloud-bookmark-manager) - A Mac app for Nextcloud bookmarks
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -5254,6 +5267,9 @@
 
 ## Others 
 
+- [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
+- [haproxy/wiki](https://github.com/haproxy/wiki) - HAProxy's Wiki
+- [SDR4space/FreeVersion](https://github.com/SDR4space/FreeVersion) - A featured-limited version the SDR4.space embedded software, originally designed for embedded GPU systems.
 - [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
 - [Gcenx/WineskinServer](https://github.com/Gcenx/WineskinServer) - Wineskin
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
@@ -5648,6 +5664,7 @@
 - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+- [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card) - A Custom Lovelace card to pull together the mail and packages sensors.
 - [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
 - [GROG/ansible-role-reboot](https://github.com/GROG/ansible-role-reboot) - Ansible role for rebooting hosts.
@@ -6015,7 +6032,7 @@
 - [nZEDb/nZEDb](https://github.com/nZEDb/nZEDb) - nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - The new (and simple) admin generator for Symfony applications.
 - [LibreTime/libretime](https://github.com/LibreTime/libretime) - LibreTime: Radio Broadcast & Automation Platform
-- [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) - A small, indipendent wrapper to get pretty versions strings
+- [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) - A small, independent wrapper to get pretty versions strings
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [tedious/Stash](https://github.com/tedious/Stash) - The place to keep your cache.
@@ -6258,6 +6275,10 @@
 
 ## Python 
 
+- [marten-seemann/quic-interop-runner](https://github.com/marten-seemann/quic-interop-runner) - QUIC interop runner
+- [m4ll0k/BBTz](https://github.com/m4ll0k/BBTz) - BBT - Bug Bounty Tools
+- [miracle2k/k8s-snapshots](https://github.com/miracle2k/k8s-snapshots) - Automatic Volume Snapshots on Kubernetes.
+- [v55448330/lazy-balancer](https://github.com/v55448330/lazy-balancer) - nginx for balancer web ui
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [RickyCook/ssh-forward-unix-socket](https://github.com/RickyCook/ssh-forward-unix-socket) - Forward a Unix socket over SSH
 - [mango-tree/zsh-recall](https://github.com/mango-tree/zsh-recall) - zsh plugin for history UI
@@ -7114,7 +7135,7 @@
 - [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis.
 - [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 - [PyDann/TinyBridge](https://github.com/PyDann/TinyBridge) - Homebridge CLI Manager
-- [intrackeable/Deep-Inside](https://github.com/intrackeable/Deep-Inside) - Command line tool that allows you to explore IoT devices by using Shodan API.
+- [alechilczenko/Deep-Inside](https://github.com/alechilczenko/Deep-Inside) - Command line tool that allows you to explore IoT devices by using Shodan API.
 - [elasticluster/elasticluster](https://github.com/elasticluster/elasticluster) - Create clusters of VMs on the cloud and configure them with Ansible.
 - [facebookincubator/submitit](https://github.com/facebookincubator/submitit) - Python 3.6+ toolbox for submitting jobs to Slurm
 - [DataBiosphere/toil](https://github.com/DataBiosphere/toil) - A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.
@@ -7131,7 +7152,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✔️ Fast and reliable end-to-end testing for modern web apps, with Python.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast, easy, and reliable browser testing with Python.
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -7221,6 +7242,7 @@
 - [deanishe/alfred-fuzzy](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper for Alfred 3+ workflows
 - [andrewning/alfred-workflows-scientific](https://github.com/andrewning/alfred-workflows-scientific) - A collection of Alfred workflows targeting scientific applications
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, Hugging Face’s Hub, and much more!
+- [AndBobsYourUncle/hassio-addons](https://github.com/AndBobsYourUncle/hassio-addons) - 
 - [dmachard/dnstap-receiver](https://github.com/dmachard/dnstap-receiver) - Dnstap streams receiver in Python
 - [pudo/opensanctions](https://github.com/pudo/opensanctions) - An open database of international sanctions data, persons of interest and politically exposed persons
 - [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
@@ -8316,6 +8338,7 @@
 
 ## Ruby 
 
+- [compumike/hairpin-proxy](https://github.com/compumike/hairpin-proxy) - PROXY protocol support for internal-to-LoadBalancer traffic for Kubernetes Ingress users. If you've had problems with ingress-nginx, cert-manager, LetsEncrypt ACME HTTP01 self-check failures, and the PROXY protocol, read on.
 - [Gcenx/homebrew-wine](https://github.com/Gcenx/homebrew-wine) - 
 - [jmopr/job-hunter](https://github.com/jmopr/job-hunter) - Job scraper and applier for indeed.com
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
@@ -8379,7 +8402,6 @@
 - [chaps-io/gush](https://github.com/chaps-io/gush) - Fast and distributed workflow runner using ActiveJob and Redis
 - [textmate/rmate](https://github.com/textmate/rmate) - Edit files from an ssh session in TextMate
 - [cvincent/umessage](https://github.com/cvincent/umessage) - A web-based bridge for iMessage
-- [AndBobsYourUncle/hassio-addons](https://github.com/AndBobsYourUncle/hassio-addons) - 
 - [OSGeo/homebrew-osgeo4mac](https://github.com/OSGeo/homebrew-osgeo4mac) - Mac homebrew tap for maintaining a stable work environment for the OSGeo.org geospatial toolset
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 - [rayyansys/swarm-scheduler](https://github.com/rayyansys/swarm-scheduler) - A distributed scheduler for docker swarm mode using Compose and Cron
@@ -8487,6 +8509,8 @@
 
 ## Rust 
 
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A server executing commands on webhook. Uses Pueue as executor backend
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
 - [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a fast and highly reliable distributed search engine designed from the ground up to index and query vast amounts of data with unmatched cost-efficiency.
@@ -8585,6 +8609,7 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -8759,6 +8784,9 @@
 
 ## Shell 
 
+- [GiovanniBaccichet/DNCS-HTTP3](https://github.com/GiovanniBaccichet/DNCS-HTTP3) - Docker-based virtualized framework for analysing HTTP/3+QUIC performance and compare it to HTTP/2 and TCP.
+- [lpmi-13/kubernetes-the-hard-way-vultr](https://github.com/lpmi-13/kubernetes-the-hard-way-vultr) - setting up a bootstrapped kubernetes cluster on vultr
+- [funkypenguin/poor-mans-k8s-lb](https://github.com/funkypenguin/poor-mans-k8s-lb) - A simple loadbalancer design for running a loadbalancer _outside_ of a Kubernetes cluster, using NodePort services
 - [mollifier/anyframe](https://github.com/mollifier/anyframe) - peco/percol/fzf wrapper plugin for zsh
 - [ma-karai/nginxproxymanagerGraf](https://github.com/ma-karai/nginxproxymanagerGraf) - A Python/Shell connector for Nginx Proxy Manager (Docker)
 - [marlonrichert/zsh-hist](https://github.com/marlonrichert/zsh-hist) - 📝 Edit your Zsh history from the command line.
@@ -10019,6 +10047,7 @@
 
 ## TypeScript 
 
+- [idleberg/vscode-applescript](https://github.com/idleberg/vscode-applescript) - Language syntax and snippets for AppleScript
 - [ACE-IoT-Solutions/ace-svg-react](https://github.com/ACE-IoT-Solutions/ace-svg-react) - Grafana SVG Rendering Panel using the 7+ Plugin Framework
 - [standardnotes/syncing-server-js](https://github.com/standardnotes/syncing-server-js) - The Standard Notes server. For self-hosting, use https://github.com/standardnotes/standalone
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
@@ -10211,7 +10240,6 @@
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -10446,7 +10474,7 @@
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository | https://standardnotes.com
+- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
 - [ethanresnick/json-api](https://github.com/ethanresnick/json-api) - Turn your node app into a JSON API server (http://jsonapi.org/)
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [ChechaValerii/node-typescript-mongodb](https://github.com/ChechaValerii/node-typescript-mongodb) - node js typescript mongodb express generator yo
