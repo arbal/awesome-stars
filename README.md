@@ -1290,6 +1290,7 @@
 - [johanpi/docker-webmin](https://github.com/johanpi/docker-webmin) - Docker container running Webmin on Ubuntu 20.04 LTS
 - [bradsjm/balena-adsb](https://github.com/bradsjm/balena-adsb) - This repository provides a multi-container project for adsb receiving and submission to multiple websites optionally deployed using balenaCloud to Raspberry PI devices.
 - [solarkennedy/wine-x11-novnc-docker](https://github.com/solarkennedy/wine-x11-novnc-docker) - Base Docker image to run wine programs in a web browser via noVNC (html5 vnc viewer) + Xvfb + x11vnc
+- [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [Dezota/dockerfiles](https://github.com/Dezota/dockerfiles) - These are Dezota created docker images and compose files
 - [jeffersonjhunt/shinysdr-docker](https://github.com/jeffersonjhunt/shinysdr-docker) - Docker build of debian, gnuradio and shinysdr with all plugins
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
@@ -1478,6 +1479,7 @@
 
 ## Go 
 
+- [rrreeeyyy/exporter_proxy](https://github.com/rrreeeyyy/exporter_proxy) - Simple reverse proxy for prometheus exporters
 - [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
 - [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
@@ -4364,7 +4366,7 @@
 - [danyshaanan/osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - :package: A cli for managing wifi connections on OSX
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [microsoft/generator-docker](https://github.com/microsoft/generator-docker) - Yeoman generator for Docker
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [custom-cards/ext-weblink](https://github.com/custom-cards/ext-weblink) - Adds ext weblink with icon to picture-elements or entity cards
@@ -6619,7 +6621,6 @@
 - [josephdadams/CroniclePlugins](https://github.com/josephdadams/CroniclePlugins) - Plugins I have created to use with Cronicle (https://github.com/jhuckaby/Cronicle)
 - [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
 - [custom-components/sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) - 📺 Sonarr component to feed Upcoming Media Card.
-- [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [cytech/Home-Assistant-wundergroundpws](https://github.com/cytech/Home-Assistant-wundergroundpws) - Home Assistant custom component sensor for Weather Underground personal weather station users
 - [linouk23/youtube_uploader_selenium](https://github.com/linouk23/youtube_uploader_selenium) - Python script to upload videos on YouTube using Selenium
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
@@ -8509,6 +8510,7 @@
 
 ## Rust 
 
+- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search output
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A server executing commands on webhook. Uses Pueue as executor backend
@@ -9004,7 +9006,7 @@
 - [sparklespdx/limesdr-toolkit-docker](https://github.com/sparklespdx/limesdr-toolkit-docker) - GQRX and friends installed with LimeSuite in a docker container
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [deflax/sysadmin](https://github.com/deflax/sysadmin) - scripts, howtos, etc. for various system administrative tasks
-- [amirabbasna/easyYoutubeDL](https://github.com/amirabbasna/easyYoutubeDL) - A manager for automating download lists based on youtube-dl
+- [aaaamirabbas/easyYoutubeDL](https://github.com/aaaamirabbas/easyYoutubeDL) - A manager for automating download lists based on youtube-dl
 - [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
 - [uselibrary/Aria2Drive](https://github.com/uselibrary/Aria2Drive) - Script for oneindex, aria2, AriaNG and rclone to built remote cloud storage
 - [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
