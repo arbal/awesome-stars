@@ -1479,6 +1479,7 @@
 
 ## Go 
 
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
 - [rrreeeyyy/exporter_proxy](https://github.com/rrreeeyyy/exporter_proxy) - Simple reverse proxy for prometheus exporters
 - [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
 - [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads
@@ -1903,6 +1904,7 @@
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [deanishe/alfred-services](https://github.com/deanishe/alfred-services) - Run macOS services from Alfred
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
+- [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
 - [monitoring-mixins/mixtool](https://github.com/monitoring-mixins/mixtool) - mixtool is a helper for easily working with jsonnet mixins.
 - [bwplotka/mimic](https://github.com/bwplotka/mimic) - mimic: Define your Deployments, Infrastructure and Configuration as a Go Code 🚀
 - [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
@@ -3414,6 +3416,8 @@
 
 ## JavaScript 
 
+- [makingglitches/GooglePhotoDownload](https://github.com/makingglitches/GooglePhotoDownload) - Connects to Google Photos and downloads all content, keeping track of original data on disk and moving files only on the computer and already on server to  respective directories, and tries to download the entire collection and store size info for quicker startup as well as original file sizes of those on disk, downloading the files still on disk first so they can be freed up.  Supports multiple user accounts.
+- [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [jhuckaby/performa](https://github.com/jhuckaby/performa) - A multi-server monitoring system with a web based UI.
 - [Xantios/nginx-proxy-manager-assistant](https://github.com/Xantios/nginx-proxy-manager-assistant) - Automagic routing for nginx-proxy-manager
 - [SDR4space/Examples](https://github.com/SDR4space/Examples) - Virtual Machine examples
@@ -5269,6 +5273,7 @@
 
 ## Others 
 
+- [gofrp/plugin](https://github.com/gofrp/plugin) - Plugins for frp.
 - [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 - [haproxy/wiki](https://github.com/haproxy/wiki) - HAProxy's Wiki
 - [SDR4space/FreeVersion](https://github.com/SDR4space/FreeVersion) - A featured-limited version the SDR4.space embedded software, originally designed for embedded GPU systems.
@@ -5432,7 +5437,6 @@
 - [romsper/qa-automation-base](https://github.com/romsper/qa-automation-base) - There are basic projects for automation frameworks based on Kotlin/Java and TypeScript for the backend, frontend, and mobile.
 - [truenas/ports](https://github.com/truenas/ports) - FreeBSD ports tree
 - [WaterByWind/grafana-dashboards](https://github.com/WaterByWind/grafana-dashboards) - Grafana Dashboards
-- [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
 - [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
 - [ladvoc/recognize-text-service](https://github.com/ladvoc/recognize-text-service) - A macOS service for processing PDF files with OCRmyPDF.
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
@@ -7153,7 +7157,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast, easy, and reliable browser testing with Python.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 💡
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -7355,7 +7359,7 @@
 - [timkpaine/paperboy](https://github.com/timkpaine/paperboy) - A web frontend for scheduling Jupyter notebook reports
 - [jupyter/kernel_gateway](https://github.com/jupyter/kernel_gateway) - Jupyter Kernel Gateway
 - [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to be easy for use as stand alone package like matplotlib, but also to allow interoperation with existing libraries as VTK.
-- [lux-org/lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
+- [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [pbugnion/gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
 - [MentatInnovations/datastream.io](https://github.com/MentatInnovations/datastream.io) - An open-source framework for real-time anomaly detection using Python, ElasticSearch and Kibana
 - [giswqs/geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
@@ -8510,6 +8514,7 @@
 
 ## Rust 
 
+- [helium/gateway-rs](https://github.com/helium/gateway-rs) - The Helium Light Gateway
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search output
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
@@ -8786,6 +8791,7 @@
 
 ## Shell 
 
+- [nmarus/docker-haproxy-certbot](https://github.com/nmarus/docker-haproxy-certbot) - Docker Container with haproxy and certbot
 - [GiovanniBaccichet/DNCS-HTTP3](https://github.com/GiovanniBaccichet/DNCS-HTTP3) - Docker-based virtualized framework for analysing HTTP/3+QUIC performance and compare it to HTTP/2 and TCP.
 - [lpmi-13/kubernetes-the-hard-way-vultr](https://github.com/lpmi-13/kubernetes-the-hard-way-vultr) - setting up a bootstrapped kubernetes cluster on vultr
 - [funkypenguin/poor-mans-k8s-lb](https://github.com/funkypenguin/poor-mans-k8s-lb) - A simple loadbalancer design for running a loadbalancer _outside_ of a Kubernetes cluster, using NodePort services
