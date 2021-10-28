@@ -186,6 +186,7 @@
 
 ## C 
 
+- [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
 - [chaos/diod](https://github.com/chaos/diod) - Distributed I/O Daemon - a 9P file server
 - [taviso/rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
@@ -1482,6 +1483,8 @@
 
 ## Go 
 
+- [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager) - Start docker containers on requests and stop them after a timeout
+- [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, DoT, DoH, DoQ and ODoH.
 - [WingLim/caddy-webhook](https://github.com/WingLim/caddy-webhook) - Caddy v2 module for serving a webhook.
 - [pd/srvaddr](https://github.com/pd/srvaddr) - Simple SRV record querying from the CLI
 - [ahmetb/wagl](https://github.com/ahmetb/wagl) - :bee: DNS Service Discovery for Docker Swarm. Works out of the box. (NOW OBSOLETE, USE SWARM MODE)
@@ -2328,7 +2331,6 @@
 - [caffix/amass](https://github.com/caffix/amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate) - GeoIP update client code
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [mehrdadrad/tcpprobe](https://github.com/mehrdadrad/tcpprobe) - Modern TCP tool and service for network performance observability.
@@ -5182,6 +5184,7 @@
 
 ## Objective-C 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys
 - [jakob/TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for the Mac
@@ -5287,6 +5290,7 @@
 
 ## Others 
 
+- [jwilder/docker-register](https://github.com/jwilder/docker-register) - Service registration for docker containers
 - [krakenrf/heimdall_daq_fw](https://github.com/krakenrf/heimdall_daq_fw) - Coherent data acquisition signal processing chain for multichannel SDRs
 - [krakenrf/krakensdr_doa](https://github.com/krakenrf/krakensdr_doa) - 
 - [nickytonline/alfred-workflows](https://github.com/nickytonline/alfred-workflows) - Hopefully useful workflows for Alfred
@@ -6279,7 +6283,7 @@
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [leebaird/discover](https://github.com/leebaird/discover) - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
-- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## Processing 
 
@@ -6299,6 +6303,8 @@
 
 ## Python 
 
+- [carlospolop/legion](https://github.com/carlospolop/legion) - Automatic Enumeration Tool based in Open Source tools
+- [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
 - [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [guidowb/google-photos](https://github.com/guidowb/google-photos) - Use Google API to get Google Photos inventory
 - [marten-seemann/quic-interop-runner](https://github.com/marten-seemann/quic-interop-runner) - QUIC interop runner
@@ -7355,6 +7361,7 @@
 - [menahishayan/HomeScript](https://github.com/menahishayan/HomeScript) - Python script for command line control of HomeBridge (HomeKit)
 - [mister-monster/YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot written in Python3 that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel.
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [timescale/timescaledb-docker-ha](https://github.com/timescale/timescaledb-docker-ha) - Create Docker images containing TimescaleDB, Patroni to be used by developers and Kubernetes.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
@@ -8310,7 +8317,7 @@
 - [grabear/awesome-rshiny](https://github.com/grabear/awesome-rshiny) - An awesome R-shiny list!
 - [cosmoduende/r-google-search-history-analysis](https://github.com/cosmoduende/r-google-search-history-analysis) - Explore your activity on Google with R: How to Analyze and Visualize Your Personal Data Search History. Find out how and how much you have used the most popular search engine in the world, using a copy of your personal data.
 - [flow-r/flowr](https://github.com/flow-r/flowr) - Robust and efficient workflows using a simple language agnostic approach
-- [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `ggplot2` plots with statistical analysis 📊🎨📣
+- [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `{ggplot2}` plots with statistical analysis 📊🎨📣
 - [njtierney/naniar](https://github.com/njtierney/naniar) - Tidy data structures, summaries, and visualisations for missing data
 - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
@@ -8539,7 +8546,7 @@
 ## Rust 
 
 - [helium/gateway-rs](https://github.com/helium/gateway-rs) - The Helium Light Gateway
-- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search output
+- [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A server executing commands on webhook. Uses Pueue as executor backend
@@ -8815,6 +8822,7 @@
 
 ## Shell 
 
+- [marshki/about_dis_mac](https://github.com/marshki/about_dis_mac) - Bash script to mimic the "About This Mac" feature in macOS from a command-line interface (CLI).
 - [Justintime50/srvinfra](https://github.com/Justintime50/srvinfra) - srvinfra is a tool to deploy and update services and websites on a server hosted by Docker.
 - [sayem314/Caddy-Web-Server-Installer](https://github.com/sayem314/Caddy-Web-Server-Installer) - Script to manage Caddy web server
 - [nmarus/docker-haproxy-certbot](https://github.com/nmarus/docker-haproxy-certbot) - Docker Container with haproxy and certbot
@@ -9884,6 +9892,7 @@
 
 ## Swift 
 
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [Clipy/KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
 - [arjunkomath/netdata-ios](https://github.com/arjunkomath/netdata-ios) - Unofficial Netdata client for iOS, iPadOS & macOS
 - [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 📋 Inspect the system pasteboards on macOS
@@ -10081,6 +10090,7 @@
 
 ## TypeScript 
 
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
