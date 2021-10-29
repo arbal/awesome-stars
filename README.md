@@ -186,6 +186,7 @@
 
 ## C 
 
+- [paullouisageneau/violet](https://github.com/paullouisageneau/violet) - Lightweight STUN/TURN server
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
 - [chaos/diod](https://github.com/chaos/diod) - Distributed I/O Daemon - a 9P file server
@@ -1483,6 +1484,8 @@
 
 ## Go 
 
+- [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
+- [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
 - [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager) - Start docker containers on requests and stop them after a timeout
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, DoT, DoH, DoQ and ODoH.
 - [WingLim/caddy-webhook](https://github.com/WingLim/caddy-webhook) - Caddy v2 module for serving a webhook.
@@ -3427,6 +3430,8 @@
 
 ## JavaScript 
 
+- [Atlantis-Software/node-turn](https://github.com/Atlantis-Software/node-turn) - Node-turn is a STUN/TURN server for Node.JS
+- [arbal/btc-rpc-explorer](https://github.com/arbal/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [SamVerschueren/alfred-config](https://github.com/SamVerschueren/alfred-config) - Allow easy user configurations for your Alfred workflows
 - [seanlaff/simple-streaming-datasource](https://github.com/seanlaff/simple-streaming-datasource) - End-to-end Grafana streaming datasource example
 - [oncework/codeexpander](https://github.com/oncework/codeexpander) - A cross-platform cloud synchronization development tool for developers that includes input enhancement, code snippet management, and Markdown. (专为开发者开发的一个集输入增强、代码片段管理(支持 Markdown)为一体跨平台云同步的开发工具。)
@@ -4289,7 +4294,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +900 social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1k social media \ websites (Detections are updated regularly by automated systems)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -4425,7 +4430,7 @@
 - [muaz-khan/Chrome-Extensions](https://github.com/muaz-khan/Chrome-Extensions) - WebRTC chrome extensions for screen sharing, screen recording, file sharing, youtube+audio sharing, etc.
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [joeferner/redis-commander](https://github.com/joeferner/redis-commander) - Redis management tool written in node.js
-- [thezeroqueue/zeroqueue](https://github.com/thezeroqueue/zeroqueue) - ⏰ A low-code queue management system ⏰
+- [hazim-j/zeroqueue](https://github.com/hazim-j/zeroqueue) - ⏰ A low-code queue management system ⏰
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [vervallsweg/cast-web-api](https://github.com/vervallsweg/cast-web-api) - Quick and dirty web API for Google Cast enabled devices.
@@ -5039,7 +5044,7 @@
 - [dotStart/Beacon](https://github.com/dotStart/Beacon) - A simple UPnP Assistant that is capable of opening arbitrary ports.
 - [ingbyr/vdm](https://github.com/ingbyr/vdm) - GUI for command-line video downloader (youtube-dl annie)
 - [serebit/wraith-master](https://github.com/serebit/wraith-master) - A native Linux RGB control application for the AMD Wraith Prism
-- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Amateur radio and weather satellite tracker and passes predictor for Android, inspired by Gpredict
+- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source radio satellite tracker and pass predictor for Android, inspired by Gpredict
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [afollestad/nock-nock](https://github.com/afollestad/nock-nock) - 🚪 Monitor and validate your websites to maintain maximum uptime.
@@ -5103,6 +5108,7 @@
 
 ## Makefile 
 
+- [instrumentisto/coturn-docker-image](https://github.com/instrumentisto/coturn-docker-image) - [Closed] Coturn TURN server Docker image
 - [fniephaus/alfred-network](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands
 - [WICG/floc](https://github.com/WICG/floc) - FLoC
 - [nxhack/openwrt-node-packages](https://github.com/nxhack/openwrt-node-packages) - OpenWrt Project Node.js packages. v12.x LTS and v14.x LTS and v16.x Current
@@ -6303,6 +6309,7 @@
 
 ## Python 
 
+- [unixsurfer/anycast_healthchecker](https://github.com/unixsurfer/anycast_healthchecker) - A healthchecker for Anycasted services
 - [carlospolop/legion](https://github.com/carlospolop/legion) - Automatic Enumeration Tool based in Open Source tools
 - [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
 - [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
@@ -7212,7 +7219,7 @@
 - [us/english-please](https://github.com/us/english-please) - Offer for repositories whose README are written in Chinese.
 - [arbal/HelloGitHub](https://github.com/arbal/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [arbal/starred](https://github.com/arbal/starred) - creating your own Awesome List by GitHub stars!
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [forensenellanebbia/geotag2kml](https://github.com/forensenellanebbia/geotag2kml) - Creates a Google Earth .KML file from geotagged photos/videos
 - [RhetTbull/PhotoScript](https://github.com/RhetTbull/PhotoScript) - Automate Apple / MacOS Photos app with python. Wraps applescript calls in python to allow automation of Photos from python code.
@@ -7410,7 +7417,7 @@
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [dask/distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
 - [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [bitsofinfo/testssl.sh-alerts](https://github.com/bitsofinfo/testssl.sh-alerts) - Alerting engine (slack etc) for testssl.sh JSON result output files
 - [TKCERT/pathfinder](https://github.com/TKCERT/pathfinder) - Generates a graph of the traceroute information in nmap XML files using graphviz.
 - [TKCERT/testssl.sh-webfrontend](https://github.com/TKCERT/testssl.sh-webfrontend) - Web Frontend for testssl.sh
@@ -7919,7 +7926,6 @@
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
 - [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
@@ -8009,7 +8015,7 @@
 - [Pack3tL0ss/ConsolePi](https://github.com/Pack3tL0ss/ConsolePi) - Raspberry Pi Based Serial Console Server, with PushBullet Notification of IP changes, Automatic VPN termination, custom menu, Power Outlet Control, and a lot more
 - [ansible-collections/ansible.netcommon](https://github.com/ansible-collections/ansible.netcommon) - Ansible Network Collection for Common Code
 - [s3ql/s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 6.x/7.x clusters.
 - [LordGaav/proxmox-deploy](https://github.com/LordGaav/proxmox-deploy) - A cli-based deployment tool for Proxmox
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -8545,6 +8551,7 @@
 
 ## Rust 
 
+- [mycrl/mystery](https://github.com/mycrl/mystery) - WebRTC Server implemented by ❤️ Rust + Node.js.
 - [helium/gateway-rs](https://github.com/helium/gateway-rs) - The Helium Light Gateway
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -8570,7 +8577,7 @@
 - [extrawurst/ip2country](https://github.com/extrawurst/ip2country) - fast ip -&gt; country lookup using asn database
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
-- [DSLAM-UMD/Squirtle](https://github.com/DSLAM-UMD/Squirtle) - Flock: A Practical Serverless Streaming Query Engine
+- [DSLAM-UMD/Flock](https://github.com/DSLAM-UMD/Flock) - Flock: A Practical Serverless Streaming Query Engine
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
@@ -10485,6 +10492,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF converter via Chrome/Chromium
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [NikolaiT/Crawling-Infrastructure](https://github.com/NikolaiT/Crawling-Infrastructure) - Distributed crawling infrastructure running on top of severless computation, cloud storage (such as S3) and sophisticated queues.
 - [tlaverdure/laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server) - Socket.io server for Laravel Echo
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
