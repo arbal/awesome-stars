@@ -129,6 +129,7 @@
 
 ## AppleScript 
 
+- [heartshapedbox/macos-tweaks](https://github.com/heartshapedbox/macos-tweaks) - Useful tweaks via Automator (Folder Action, Workflow, Service) for MacOS.
 - [vrunt/facetime-auto-answer](https://github.com/vrunt/facetime-auto-answer) - Automatically answer FaceTime calls on OSX
 - [riley-martine/chrome-profile-launcher](https://github.com/riley-martine/chrome-profile-launcher) - Applescript that launches chrome, closes the active window, and opens a new window in the a specified profile. If a window is already open, it won't close it, but opens your specified profile on top.
 - [SaiWebApps/AppleScriptUtils](https://github.com/SaiWebApps/AppleScriptUtils) - Collection of useful AppleScripts to automate common workflows on my Mac.
@@ -428,7 +429,7 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [sickill/stderred](https://github.com/sickill/stderred) - stderr in red
 - [nfultz/hilite](https://github.com/nfultz/hilite) - mirror from sourceforge
-- [justanhduc/task-spooler](https://github.com/justanhduc/task-spooler) - A SLURM alternative/job scheduler for a single simulation machine
+- [justanhduc/task-spooler](https://github.com/justanhduc/task-spooler) - A scheduler for GPU/CPU tasks
 - [Celtoys/Remotery](https://github.com/Celtoys/Remotery) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [getdnsapi/getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
@@ -934,7 +935,7 @@
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
 - [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor is a network observability agent that facilitates business intelligence at the edge
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
 - [DNS-OARC/flamethrower](https://github.com/DNS-OARC/flamethrower) - a DNS performance and functional testing utility supporting UDP, TCP, DoT and DoH (by @ns1labs)
@@ -1573,7 +1574,7 @@
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [jafarlihi/rconn](https://github.com/jafarlihi/rconn) - rconn is a multiplatform program for creating generic reverse connections. Lets you consume services that are behind firewall or NAT without opening ports or port-forwarding.
 - [nwtgck/go-piping-server](https://github.com/nwtgck/go-piping-server) - Piping Server written in Go language (original: https://github.com/nwtgck/piping-server)
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - High level CLI utility for restic
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [d6o/Gorganizer](https://github.com/d6o/Gorganizer) - Organize your folders into a beautiful classified folder structure with this perfect tool
 - [hugows/hf](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line
 - [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more!
@@ -2312,7 +2313,7 @@
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
 - [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [mdouchement/standardfile](https://github.com/mdouchement/standardfile) - Yet Another Standardfile (standardnotes server) Implementation written in Golang
-- [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used
+- [redirect2me/which-dns](https://github.com/redirect2me/which-dns) - Detects which DNS server is being used - https://which.nameserve.rs/
 - [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) - MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
 - [semihalev/sdns](https://github.com/semihalev/sdns) - Privacy important, fast, recursive dns resolver server with dnssec support
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) - A Prometheus exporter for PI-Hole's Raspberry PI ad blocker
@@ -3429,6 +3430,8 @@
 
 ## JavaScript 
 
+- [pm2877/Spot-Notify](https://github.com/pm2877/Spot-Notify) - Notifications for Spotify App on Mac OS
+- [on2-dev/nasc-vscode-mac-touchbar](https://github.com/on2-dev/nasc-vscode-mac-touchbar) - A customization for your the macbook pro touch bar buttons with features for VSCode.
 - [Medium/sus](https://github.com/Medium/sus) - simple data-uri stylesheet generator
 - [smallstep/hello-mtls](https://github.com/smallstep/hello-mtls) - :wave: Docs demonstrating mutual TLS configurations in various technologies
 - [Atlantis-Software/node-turn](https://github.com/Atlantis-Software/node-turn) - Node-turn is a STUN/TURN server for Node.JS
@@ -4295,7 +4298,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1k social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - Analyze & find profiles across +1k social media \ websites (SFW & NSFW Detections are updated regularly by automated systems)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5191,6 +5194,7 @@
 
 ## Objective-C 
 
+- [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys
@@ -5297,6 +5301,7 @@
 
 ## Others 
 
+- [nevali/Baird](https://github.com/nevali/Baird) - Project Baird specifications
 - [jwilder/docker-register](https://github.com/jwilder/docker-register) - Service registration for docker containers
 - [krakenrf/heimdall_daq_fw](https://github.com/krakenrf/heimdall_daq_fw) - Coherent data acquisition signal processing chain for multichannel SDRs
 - [krakenrf/krakensdr_doa](https://github.com/krakenrf/krakensdr_doa) - 
@@ -5454,7 +5459,7 @@
 - [maxmacstn/HA-ePaper-Display](https://github.com/maxmacstn/HA-ePaper-Display) - E-Paper display for viewing sensor data from Home Assistant.
 - [0x90/sdr-arsenal](https://github.com/0x90/sdr-arsenal) - SDR tools and scripts
 - [linuxhw/DevicePopulation](https://github.com/linuxhw/DevicePopulation) - Population of PCI devices in the world
-- [linuxhw/LsPCI](https://github.com/linuxhw/LsPCI) - Most popular PCI devices and lspci reports
+- [linuxhw/LsPCI](https://github.com/linuxhw/LsPCI) - Collect lspci reports and find most popular PCI devices
 - [defcon24bit/record-and-replay-RF-remote](https://github.com/defcon24bit/record-and-replay-RF-remote) - record & replay RF signal with Raspberry Pi & RTL-SDR dongle (optional) integrate with Home Assistant, Alexa and Google Home
 - [ntimo/gitea-docker-swarm](https://github.com/ntimo/gitea-docker-swarm) - Use Gitea in a Docker Swarm in the Hetzner Cloud
 - [jeremywillans/lovelace-roomba-vacuum-card](https://github.com/jeremywillans/lovelace-roomba-vacuum-card) - HA Lovelace Card for iRobot Roomba Vacuum Cleaner leveraging the rest980 Docker Image
@@ -5791,7 +5796,7 @@
 - [jackchuka/alfred-workflow-ghq](https://github.com/jackchuka/alfred-workflow-ghq) - Alfred workflow for ghq lovers
 - [peter-evans/docker-compose-healthcheck](https://github.com/peter-evans/docker-compose-healthcheck) - How to wait for container X before starting Y using docker-compose healthcheck
 - [jturgasen/my-links](https://github.com/jturgasen/my-links) - Knowledge seeks no man
-- [linuxhw/LsUSB](https://github.com/linuxhw/LsUSB) - Most popular USB devices and lsusb reports
+- [linuxhw/LsUSB](https://github.com/linuxhw/LsUSB) - Collect lsusb reports and find most popular USB devices
 - [arbal/Linux_script](https://github.com/arbal/Linux_script) - 
 - [robvdalen/monitoring](https://github.com/robvdalen/monitoring) - 
 - [infOpen-Deployments/compose-monitoring-core](https://github.com/infOpen-Deployments/compose-monitoring-core) - Docker compose project to deploy a server side monitoring stack (Prometheus, Grafana, ...)
@@ -6309,6 +6314,7 @@
 
 ## Python 
 
+- [thenickdude/OSX-KVM](https://github.com/thenickdude/OSX-KVM) - Personal fork for testing
 - [unixsurfer/anycast_healthchecker](https://github.com/unixsurfer/anycast_healthchecker) - A healthchecker for Anycasted services
 - [carlospolop/legion](https://github.com/carlospolop/legion) - Automatic Enumeration Tool based in Open Source tools
 - [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
@@ -6384,7 +6390,7 @@
 - [xilopaint/alfred-pdf-tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [owenwater/alfred-cal](https://github.com/owenwater/alfred-cal) - Displays a calendar with Alfred Workflow
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
-- [DanielTorres1/lanscanner](https://github.com/DanielTorres1/lanscanner) - Semi automatic pentesting tool for auditing LAN Networks
+- [DanielTorres1/lanscanner-backup](https://github.com/DanielTorres1/lanscanner-backup) - Semi automatic pentesting tool for auditing LAN Networks
 - [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library
 - [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
 - [nojronatron/NoiseFloorReporter](https://github.com/nojronatron/NoiseFloorReporter) - RF Noise Floor Mapping and Reporting Project
@@ -7902,7 +7908,7 @@
 - [redlogo/RPi-Stream](https://github.com/redlogo/RPi-Stream) - High FPS live stream Raspberry Pi cam with object detection by Google Coral EdgeTPU
 - [etemesi-ke/ISearch](https://github.com/etemesi-ke/ISearch) - Bring the power of Search Engines into the command line. Search using Google, Bing and DuckDuckGo straight from the command line
 - [neuralet/neuralet](https://github.com/neuralet/neuralet) - Neuralet is an open-source platform for edge deep learning models on edge TPU, Jetson Nano, and more.
-- [HTian1997/getarticle](https://github.com/HTian1997/getarticle) - getarticle is a package based on SciHub and Google Scholar that can download articles given DOI, website address or keywords.
+- [htian97/getarticle](https://github.com/htian97/getarticle) - getarticle is a package based on SciHub and Google Scholar that can download articles given DOI, website address or keywords.
 - [edwardhdlu/q-trader](https://github.com/edwardhdlu/q-trader) - Deep Q-learning driven stock trader bot
 - [APirchner/gsvi](https://github.com/APirchner/gsvi) - Interface for Google Trends time series
 - [SleepyGinger/google_trends](https://github.com/SleepyGinger/google_trends) - grabs google's daily search trends using python's selenium
@@ -8279,7 +8285,7 @@
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 - [jay0lee/got-your-back](https://github.com/jay0lee/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [stevenleeg/geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [pkpio/fitbit-googlefit](https://github.com/pkpio/fitbit-googlefit) - Export Fitbit data to Google Fit. Unlike the alternatives such as fitnessyncer.com, this offers very fine intraday granularity (every minute/second data).
@@ -9969,7 +9975,7 @@
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [wise-emotions/mocka](https://github.com/wise-emotions/mocka) - Mocka — A Mock Server Made for Developers by Developers, made in Swift ❤️
 - [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
-- [amebalabs/TRex](https://github.com/amebalabs/TRex) - Easy to use text extraction tool for macOS
+- [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy the Uncopyable
 - [okdana/chicon](https://github.com/okdana/chicon) - A command-line utility for modifying Finder thumb-nail icons
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter) - Dynamically changes status bar style depending on content behind it
