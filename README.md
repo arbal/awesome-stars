@@ -66,6 +66,7 @@
   - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
@@ -778,7 +779,6 @@
 - [yllibed/Zigbee2MqttAssistant](https://github.com/yllibed/Zigbee2MqttAssistant) - GUI for Zigbee2Mqtt running in docker and HASS.IO
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [Corsinvest/cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshot tool for Proxmox VE
-- [integralfx/MemTestHelper](https://github.com/integralfx/MemTestHelper) - C# WPF to automate HCI MemTest
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [git-tfs/git-tfs](https://github.com/git-tfs/git-tfs) - A Git/TFS bridge, similar to git-svn
@@ -1319,7 +1319,6 @@
 - [giovtorres/slurm-docker-cluster](https://github.com/giovtorres/slurm-docker-cluster) - A Slurm cluster using docker-compose
 - [dorjik/docker-xmrig](https://github.com/dorjik/docker-xmrig) - 
 - [magicdude4eva/docker-smokeping](https://github.com/magicdude4eva/docker-smokeping) - Smokeping Docker with latest version of Smokeping, speedtest-cli and PhantomJS
-- [pbkhrv/rtl_433-hass-addons](https://github.com/pbkhrv/rtl_433-hass-addons) - Collection of Home Assistant add-ons that use rtl_433
 - [hivemq/hivemq4-docker-images](https://github.com/hivemq/hivemq4-docker-images) - Official Docker Images for the Enterprise MQTT Broker HiveMQ
 - [Apipa169/Assistant-Relay-for-Hassio](https://github.com/Apipa169/Assistant-Relay-for-Hassio) - Send commands (including broadcasts) to the Google Assistant via Home Assistant
 - [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) - 
@@ -1483,6 +1482,8 @@
 
 ## Go 
 
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。
+- [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
 - [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
@@ -1962,7 +1963,7 @@
 - [nsqio/go-diskqueue](https://github.com/nsqio/go-diskqueue) - A Go package providing a filesystem-backed FIFO queue
 - [beatlabs/harvester](https://github.com/beatlabs/harvester) - Harvest configuration, watch and notify subscriber
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [greenpau/caddy-authorize](https://github.com/greenpau/caddy-authorize) - Authorization Plugin for Caddy v2 (JWT, working on PASETO)
+- [greenpau/caddy-authorize](https://github.com/greenpau/caddy-authorize) - Authorization Plugin for Caddy v2 (JWT/PASETO)
 - [tarent/loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
 - [andybrewer/mack](https://github.com/andybrewer/mack) - Mack — Golang wrapper for AppleScript
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
@@ -3430,6 +3431,7 @@
 
 ## JavaScript 
 
+- [efstajas/gql-iterate](https://github.com/efstajas/gql-iterate) - 🔁📃🪐 A CL tool for running the same GQL query repeatedly with variable values from a CSV.
 - [pm2877/Spot-Notify](https://github.com/pm2877/Spot-Notify) - Notifications for Spotify App on Mac OS
 - [on2-dev/nasc-vscode-mac-touchbar](https://github.com/on2-dev/nasc-vscode-mac-touchbar) - A customization for your the macbook pro touch bar buttons with features for VSCode.
 - [Medium/sus](https://github.com/Medium/sus) - simple data-uri stylesheet generator
@@ -4298,7 +4300,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - Analyze & find profiles across +1k social media \ websites (SFW & NSFW Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5181,6 +5183,10 @@
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [whacked/setup](https://github.com/whacked/setup) - box building with ansible + nixops
 
+## Nunjucks 
+
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+
 ## OCaml 
 
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
@@ -5897,6 +5903,7 @@
 - [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources
 - [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) - A collection of awesome resources in Human Pose estimation.
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- [integralfx/MemTestHelper](https://github.com/integralfx/MemTestHelper) - C# WPF to automate HCI MemTest
 - [markwk/awesome-biomarkers](https://github.com/markwk/awesome-biomarkers) - Curated List of Biomarkers, Blood Tests, and Blood Tracking
 - [drmonkeyninja/test-payment-cards](https://github.com/drmonkeyninja/test-payment-cards) - Cheatsheet of test payment cards for various payment gateways
 - [opensatelliteproject/OpenSatelliteProject](https://github.com/opensatelliteproject/OpenSatelliteProject) - Open Satellite Project Information
@@ -6050,7 +6057,6 @@
 
 ## PHP 
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 - [fkooman/php-remote-storage](https://github.com/fkooman/php-remote-storage) - remoteStorage server written in PHP
 - [slunak/abuseipdb-alfred-workflow](https://github.com/slunak/abuseipdb-alfred-workflow) - AbuseIPDB Workflow for Alfred
@@ -6314,6 +6320,8 @@
 
 ## Python 
 
+- [gtkpad/downdetector_scrapper](https://github.com/gtkpad/downdetector_scrapper) - 
+- [aaryanrr/DownDetector-CLI](https://github.com/aaryanrr/DownDetector-CLI) - CLI Client for DownDetector.com
 - [thenickdude/OSX-KVM](https://github.com/thenickdude/OSX-KVM) - Personal fork for testing
 - [unixsurfer/anycast_healthchecker](https://github.com/unixsurfer/anycast_healthchecker) - A healthchecker for Anycasted services
 - [carlospolop/legion](https://github.com/carlospolop/legion) - Automatic Enumeration Tool based in Open Source tools
@@ -8955,7 +8963,7 @@
 - [Othernet-Project/orx-rpi](https://github.com/Othernet-Project/orx-rpi) - ORx build for Raspberry Pi
 - [7sDream/certbot-dns-challenge-cloudflare-hooks](https://github.com/7sDream/certbot-dns-challenge-cloudflare-hooks) - Simple scripts I use to auto renew my Let's encrypt wildcard SSL cert.
 - [arbal/addon-sponsorblockcast](https://github.com/arbal/addon-sponsorblockcast) - 
-- [MrYadro/addon-sponsorblockcast](https://github.com/MrYadro/addon-sponsorblockcast) - 
+- [MrYadro/addon-sponsorblockcast](https://github.com/MrYadro/addon-sponsorblockcast) - A shell script that skips sponsored Youtube content on all local Chromecasts as HomeAssistant addon
 - [chvancooten/homeassistant-googletokenretriever](https://github.com/chvancooten/homeassistant-googletokenretriever) - A script for automatically retrieving Google Home API keys into Home Assistant
 - [maddox/mac-api](https://github.com/maddox/mac-api) - Command your Mac from afar
 - [lukdiekm/alfred-shortcuts](https://github.com/lukdiekm/alfred-shortcuts) - 
@@ -9226,6 +9234,7 @@
 - [cec/wait-for-endpoint](https://github.com/cec/wait-for-endpoint) - bash script waiting until a given endpoint returns 200 or until timeout threshold is reached
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [HenrikBengtsson/speedtest-cli-extras](https://github.com/HenrikBengtsson/speedtest-cli-extras) - :signal_strength: Tools to enhance the speedtest-cli network tools
+- [pbkhrv/rtl_433-hass-addons](https://github.com/pbkhrv/rtl_433-hass-addons) - Collection of Home Assistant add-ons that use rtl_433
 - [emqx/emqx-rel](https://github.com/emqx/emqx-rel) - Release Project for EMQ X Broker prior to 4.3. Newer releases are built here: https://github.com/emqx/emqx
 - [padelt/vzdump-plugin-b2](https://github.com/padelt/vzdump-plugin-b2) - Encrypted off-site backup of Proxmox VE vzdump images for $5/month/TB
 - [lobaro/restic-backup-docker](https://github.com/lobaro/restic-backup-docker) - A docker container to automate backups with restic
@@ -9905,6 +9914,8 @@
 
 ## Swift 
 
+- [slashlos/He3](https://github.com/slashlos/He3) - He3 aka Helium 3, a multi-window, floating  browser,
+- [JadenGeller/Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [Clipy/KeyHolder](https://github.com/Clipy/KeyHolder) - Record shortcuts in macOS, like Alfred.app.
 - [arjunkomath/netdata-ios](https://github.com/arjunkomath/netdata-ios) - Unofficial Netdata client for iOS, iPadOS & macOS
@@ -10103,6 +10114,8 @@
 
 ## TypeScript 
 
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
+- [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [data-uri/datauri](https://github.com/data-uri/datauri) - Generate Data-URI scheme via terminal or node.js
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [matthewpi/vscode-caddyfile-support](https://github.com/matthewpi/vscode-caddyfile-support) - Rich Caddyfile support for Visual Studio Code
