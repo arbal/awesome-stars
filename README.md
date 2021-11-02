@@ -188,6 +188,7 @@
 
 ## C 
 
+- [jd/sysrqd](https://github.com/jd/sysrqd) - Linux SysRQ daemon
 - [paullouisageneau/violet](https://github.com/paullouisageneau/violet) - Lightweight STUN/TURN server
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
@@ -1025,7 +1026,7 @@
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [apache/trafficserver](https://github.com/apache/trafficserver) - Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
-- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [rigtorp/udpreplay](https://github.com/rigtorp/udpreplay) - Replay UDP packets from a pcap file
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [ldn-softdev/jtc](https://github.com/ldn-softdev/jtc) - JSON processing utility
@@ -2006,7 +2007,6 @@
 - [wendigo/chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy) - Chrome DevTools Protocol Proxy - intelligent proxy for debugging purposes
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus
 - [fihuer/ioping_exporter](https://github.com/fihuer/ioping_exporter) - A prometheus exporter that uses ioping to measure IO latency
-- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [mafredri/cdp](https://github.com/mafredri/cdp) - Package cdp provides type-safe bindings for the Chrome DevTools Protocol (CDP), written in the Go programming language.
 - [vulcand/vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd
 - [chuabingquan/pxy](https://github.com/chuabingquan/pxy) - 🎥 Proxy livestreams from websockets to external RTMP endpoints.
@@ -3431,6 +3431,7 @@
 
 ## JavaScript 
 
+- [shengyou/vscode-handler](https://github.com/shengyou/vscode-handler) - Maps vscode:// URL schemes to Visual Studio Code
 - [efstajas/gql-iterate](https://github.com/efstajas/gql-iterate) - 🔁📃🪐 A CL tool for running the same GQL query repeatedly with variable values from a CSV.
 - [pm2877/Spot-Notify](https://github.com/pm2877/Spot-Notify) - Notifications for Spotify App on Mac OS
 - [on2-dev/nasc-vscode-mac-touchbar](https://github.com/on2-dev/nasc-vscode-mac-touchbar) - A customization for your the macbook pro touch bar buttons with features for VSCode.
@@ -3961,6 +3962,7 @@
 - [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
+- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [GoogleChromeLabs/pptraas.com](https://github.com/GoogleChromeLabs/pptraas.com) - Puppeteer as a service
 - [danhumphrey/page-modeller](https://github.com/danhumphrey/page-modeller) - ⚙️ Browser DevTools extension for modelling web pages for automation.
 - [hipache/hipache](https://github.com/hipache/hipache) - Hipache: a distributed HTTP and websocket proxy
@@ -5307,6 +5309,8 @@
 
 ## Others 
 
+- [zmiguel/docker-compose](https://github.com/zmiguel/docker-compose) - My collection of docker-compose files
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [nevali/Baird](https://github.com/nevali/Baird) - Project Baird specifications
 - [jwilder/docker-register](https://github.com/jwilder/docker-register) - Service registration for docker containers
 - [krakenrf/heimdall_daq_fw](https://github.com/krakenrf/heimdall_daq_fw) - Coherent data acquisition signal processing chain for multichannel SDRs
@@ -5862,7 +5866,7 @@
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [Dilden/Ansible-Proxmox-Automation](https://github.com/Dilden/Ansible-Proxmox-Automation) - For use with automating my homelab
 - [helperkeys/lxc-guac-setup](https://github.com/helperkeys/lxc-guac-setup) - Proxmox - Debian 10 LXC Apache Guacamole
-- [esdscom/sdscom-xml](https://github.com/esdscom/sdscom-xml) - Schema definition and other specification documents of SDScom, the standard for exlectronic exchange of Safety Data Sheets across Europe and now USA and Canada (other regions will follow). Please read the wiki for more info. All work is licensed under CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/legalcode)
+- [esdscom/sdscom-xml](https://github.com/esdscom/sdscom-xml) - Schema definition and other specification documents of eSDScom (formerly SDScom and ESCom), the standard for electronic exchange of Safety Data Sheets in a structured, processible way across Europe and other regions. Please read the wiki for more info. All work is licensed under CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/legalcode)
 - [zflamig/ondas-pds](https://github.com/zflamig/ondas-pds) - 
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
@@ -6057,6 +6061,7 @@
 
 ## PHP 
 
+- [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX, Screencloud support and more
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 - [fkooman/php-remote-storage](https://github.com/fkooman/php-remote-storage) - remoteStorage server written in PHP
 - [slunak/abuseipdb-alfred-workflow](https://github.com/slunak/abuseipdb-alfred-workflow) - AbuseIPDB Workflow for Alfred
@@ -8392,6 +8397,7 @@
 
 ## Ruby 
 
+- [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
 - [sandro/specjour](https://github.com/sandro/specjour) - distributed rspec & cucumber via bonjour
 - [core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow) - Alfred Workflow to update apps via MacUpdater
 - [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit's FUSE tap
@@ -8594,7 +8600,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [DSLAM-UMD/Flock](https://github.com/DSLAM-UMD/Flock) - Flock: A Practical Serverless Streaming Query Engine
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Automate and relate multiple processes.
@@ -8845,6 +8851,7 @@
 
 ## Shell 
 
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
 - [marshki/about_dis_mac](https://github.com/marshki/about_dis_mac) - Bash script to mimic the "About This Mac" feature in macOS from a command-line interface (CLI).
 - [Justintime50/srvinfra](https://github.com/Justintime50/srvinfra) - srvinfra is a tool to deploy and update services and websites on a server hosted by Docker.
 - [sayem314/Caddy-Web-Server-Installer](https://github.com/sayem314/Caddy-Web-Server-Installer) - Script to manage Caddy web server
@@ -9914,6 +9921,7 @@
 
 ## Swift 
 
+- [efremidze/Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering 📍
 - [slashlos/He3](https://github.com/slashlos/He3) - He3 aka Helium 3, a multi-window, floating  browser,
 - [JadenGeller/Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -10114,6 +10122,8 @@
 
 ## TypeScript 
 
+- [shqld/tish](https://github.com/shqld/tish) - A replacement of shell script with TypeScript, for those who love TypeScript and tired of writing shell script, aiming to emulate shell script in TypeScript.
+- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [data-uri/datauri](https://github.com/data-uri/datauri) - Generate Data-URI scheme via terminal or node.js
