@@ -1483,6 +1483,15 @@
 
 ## Go 
 
+- [bahlo/mapdns](https://github.com/bahlo/mapdns) - A simple, static DNS server.
+- [icpz/open-snell](https://github.com/icpz/open-snell) - This is an unofficial open source port of https://github.com/surge-networks/snell
+- [teamnsrg/mida](https://github.com/teamnsrg/mida) - MIDA: A Tool for Measuring the Internet
+- [adhocore/fast](https://github.com/adhocore/fast) - Check your internet speed right from your terminal. Built on GOlang using chromedp
+- [j3ssie/goverview](https://github.com/j3ssie/goverview) - goverview - Get an overview of the list of URLs
+- [micheleriva/gauguin](https://github.com/micheleriva/gauguin) - 🎨  High performances Golang server for generating social share images dynamically.
+- [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
+- [rusq/chromedl](https://github.com/rusq/chromedl) - Go library for scraping or downloading files bypassing Cloudflare protection and browser checks
+- [haroflow/chromedp-requests-logger](https://github.com/haroflow/chromedp-requests-logger) - Logs the requests from a webpage, printing accessed domains and URLs.
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
@@ -3431,6 +3440,7 @@
 
 ## JavaScript 
 
+- [ShinningFinger/surge-alfred-workflow](https://github.com/ShinningFinger/surge-alfred-workflow) - 
 - [shengyou/vscode-handler](https://github.com/shengyou/vscode-handler) - Maps vscode:// URL schemes to Visual Studio Code
 - [efstajas/gql-iterate](https://github.com/efstajas/gql-iterate) - 🔁📃🪐 A CL tool for running the same GQL query repeatedly with variable values from a CSV.
 - [pm2877/Spot-Notify](https://github.com/pm2877/Spot-Notify) - Notifications for Spotify App on Mac OS
@@ -3959,7 +3969,7 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer. Works well with WorldBrain/Memex to give you full-text search.
+- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile, SingleFileZ, and WebMemex, but gooderer. Full text search coming soon
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 - [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -5202,6 +5212,7 @@
 
 ## Objective-C 
 
+- [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
 - [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
@@ -5309,6 +5320,7 @@
 
 ## Others 
 
+- [surge-networks/snell](https://github.com/surge-networks/snell) - An encrypted proxy service program
 - [zmiguel/docker-compose](https://github.com/zmiguel/docker-compose) - My collection of docker-compose files
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [nevali/Baird](https://github.com/nevali/Baird) - Project Baird specifications
@@ -6325,6 +6337,7 @@
 
 ## Python 
 
+- [chadmiller/zpool-iostat-viz](https://github.com/chadmiller/zpool-iostat-viz) - "zpool iostats" for humans; find the slow parts of your ZFS pool
 - [gtkpad/downdetector_scrapper](https://github.com/gtkpad/downdetector_scrapper) - 
 - [aaryanrr/DownDetector-CLI](https://github.com/aaryanrr/DownDetector-CLI) - CLI Client for DownDetector.com
 - [thenickdude/OSX-KVM](https://github.com/thenickdude/OSX-KVM) - Personal fork for testing
@@ -8298,7 +8311,7 @@
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 - [jay0lee/got-your-back](https://github.com/jay0lee/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [stevenleeg/geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [pkpio/fitbit-googlefit](https://github.com/pkpio/fitbit-googlefit) - Export Fitbit data to Google Fit. Unlike the alternatives such as fitnessyncer.com, this offers very fine intraday granularity (every minute/second data).
@@ -8397,6 +8410,7 @@
 
 ## Ruby 
 
+- [jcsalterego/jqq](https://github.com/jcsalterego/jqq) - jq Querier: an interactive wrapper around jq
 - [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
 - [sandro/specjour](https://github.com/sandro/specjour) - distributed rspec & cucumber via bonjour
 - [core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow) - Alfred Workflow to update apps via MacUpdater
@@ -8439,7 +8453,7 @@
 - [skycocker/chromebrew](https://github.com/skycocker/chromebrew) - Package manager for Chrome OS
 - [danielbayley/homebrew-alfred](https://github.com/danielbayley/homebrew-alfred) - Manage Alfred with @Homebrew.
 - [etewiah/property_web_builder](https://github.com/etewiah/property_web_builder) - The ultimate Ruby on Rails engine for creating real estate websites ⛺
-- [bibendi/dip](https://github.com/bibendi/dip) - CLI gives the "native" interaction with applications configured with Docker Compose.
+- [bibendi/dip](https://github.com/bibendi/dip) - CLI tool that gives you the native-like interaction with applications through Docker in a development environment
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [fastlane-community/security](https://github.com/fastlane-community/security) - A Ruby library for interacting with the macOS Keychain
 - [gousiosg/github-mirror](https://github.com/gousiosg/github-mirror) - Scripts to mirror Github in a cloudy fashion
@@ -8573,6 +8587,7 @@
 
 ## Rust 
 
+- [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [mycrl/mystery](https://github.com/mycrl/mystery) - WebRTC Server implemented by ❤️ Rust + Node.js.
 - [helium/gateway-rs](https://github.com/helium/gateway-rs) - The Helium Light Gateway
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
@@ -8851,6 +8866,8 @@
 
 ## Shell 
 
+- [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
+- [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
 - [marshki/about_dis_mac](https://github.com/marshki/about_dis_mac) - Bash script to mimic the "About This Mac" feature in macOS from a command-line interface (CLI).
 - [Justintime50/srvinfra](https://github.com/Justintime50/srvinfra) - srvinfra is a tool to deploy and update services and websites on a server hosted by Docker.
@@ -10122,6 +10139,7 @@
 
 ## TypeScript 
 
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 💌 产品的开源通知基础设施。轻松创建通知中心，多渠道向客户发送消息 | Notification Infrastructure
 - [shqld/tish](https://github.com/shqld/tish) - A replacement of shell script with TypeScript, for those who love TypeScript and tired of writing shell script, aiming to emulate shell script in TypeScript.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
@@ -10454,7 +10472,7 @@
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊A lightweight alternative to Grafana, also datav is a modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
+- [savecost/datav](https://github.com/savecost/datav) - 📊A modern APM for metrics,traces and logs, also datav is a lightweight alternative to Grafana, . It has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rlivings39/vscode-fzf-quick-open](https://github.com/rlivings39/vscode-fzf-quick-open) - vscode extension providing quick file/folder open and searching using fzf
@@ -10619,6 +10637,7 @@
 
 ## Vue 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
