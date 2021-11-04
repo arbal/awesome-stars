@@ -703,6 +703,7 @@
 
 ## C# # 
 
+- [unfrl/dug](https://github.com/unfrl/dug) - A global DNS progagation checker that gives pretty output. Written in dotnet core
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [cryptoprofitswitcher/CryptoProfitSwitcher](https://github.com/cryptoprofitswitcher/CryptoProfitSwitcher) - Extensible profit switcher for crypto coins and algorithms
@@ -1104,7 +1105,7 @@
 - [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools) - Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 - [pothosware/SoapyRemote](https://github.com/pothosware/SoapyRemote) - Use any Soapy SDR remotely
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
 - [pietern/goestools](https://github.com/pietern/goestools) - Tools to work with signals and files from GOES satellites
@@ -1483,6 +1484,8 @@
 
 ## Go 
 
+- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
+- [docker-flow/docker-flow-monitor](https://github.com/docker-flow/docker-flow-monitor) - 
 - [bahlo/mapdns](https://github.com/bahlo/mapdns) - A simple, static DNS server.
 - [icpz/open-snell](https://github.com/icpz/open-snell) - This is an unofficial open source port of https://github.com/surge-networks/snell
 - [teamnsrg/mida](https://github.com/teamnsrg/mida) - MIDA: A Tool for Measuring the Internet
@@ -2344,6 +2347,7 @@
 - [caffix/amass](https://github.com/caffix/amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate) - GeoIP update client code
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [mehrdadrad/tcpprobe](https://github.com/mehrdadrad/tcpprobe) - Modern TCP tool and service for network performance observability.
@@ -3078,6 +3082,7 @@
 
 ## HTML 
 
+- [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [snyk/actions](https://github.com/snyk/actions) - A set of GitHub actions for checking your projects for vulnerabilities
 - [Porco-Rosso/Ubersicht-Netdata](https://github.com/Porco-Rosso/Ubersicht-Netdata) - Netdata widget for Übersicht.
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
@@ -3440,6 +3445,7 @@
 
 ## JavaScript 
 
+- [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [ShinningFinger/surge-alfred-workflow](https://github.com/ShinningFinger/surge-alfred-workflow) - 
 - [shengyou/vscode-handler](https://github.com/shengyou/vscode-handler) - Maps vscode:// URL schemes to Visual Studio Code
 - [efstajas/gql-iterate](https://github.com/efstajas/gql-iterate) - 🔁📃🪐 A CL tool for running the same GQL query repeatedly with variable values from a CSV.
@@ -4724,6 +4730,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
 - [sindresorhus/uti-cli](https://github.com/sindresorhus/uti-cli) - Get the UTI (Uniform Type Identifier) of a file on macOS
+- [sindresorhus/uti-cli](https://github.com/sindresorhus/uti-cli) - Get the UTI (Uniform Type Identifier) of a file on macOS
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [samber/grafana-flamegraph-panel](https://github.com/samber/grafana-flamegraph-panel) - 📊 Flame graph panels for Grafana
 - [thlorenz/cpuprofilify](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the .cpuprofile format so it can be loaded into Chrome DevTools.
@@ -4761,7 +4768,6 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [moeiscool/Shinobi](https://github.com/moeiscool/Shinobi) - :peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer
-- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [thevoltagesource/eagle-mqtt-bridge](https://github.com/thevoltagesource/eagle-mqtt-bridge) - Rainforest Eagle to MQTT Bridge
 - [antonmedv/eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
@@ -4838,7 +4844,7 @@
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ Standard Tooling for Vue.js Development
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [sequelize/cli](https://github.com/sequelize/cli) - The Sequelize CLI
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [feathersjs-ecosystem/authentication](https://github.com/feathersjs-ecosystem/authentication) - [MOVED] Feathers local, token, and OAuth authentication over REST and Websockets using JSON Web Tokens (JWT) with PassportJS.
 - [feathersjs-ecosystem/feathers-permissions](https://github.com/feathersjs-ecosystem/feathers-permissions) - Simple role and service method permissions for Feathers
@@ -7401,7 +7407,6 @@
 - [menahishayan/HomeScript](https://github.com/menahishayan/HomeScript) - Python script for command line control of HomeBridge (HomeKit)
 - [mister-monster/YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - A bot written in Python3 that mirrors YouTube channels to PeerTube channels as videos are released in a YouTube channel.
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [timescale/timescaledb-docker-ha](https://github.com/timescale/timescaledb-docker-ha) - Create Docker images containing TimescaleDB, Patroni to be used by developers and Kubernetes.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
@@ -8410,6 +8415,7 @@
 
 ## Ruby 
 
+- [tobi/clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
 - [jcsalterego/jqq](https://github.com/jcsalterego/jqq) - jq Querier: an interactive wrapper around jq
 - [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
 - [sandro/specjour](https://github.com/sandro/specjour) - distributed rspec & cucumber via bonjour
@@ -8453,7 +8459,7 @@
 - [skycocker/chromebrew](https://github.com/skycocker/chromebrew) - Package manager for Chrome OS
 - [danielbayley/homebrew-alfred](https://github.com/danielbayley/homebrew-alfred) - Manage Alfred with @Homebrew.
 - [etewiah/property_web_builder](https://github.com/etewiah/property_web_builder) - The ultimate Ruby on Rails engine for creating real estate websites ⛺
-- [bibendi/dip](https://github.com/bibendi/dip) - CLI tool that gives you the native-like interaction with applications through Docker in a development environment
+- [bibendi/dip](https://github.com/bibendi/dip) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [fastlane-community/security](https://github.com/fastlane-community/security) - A Ruby library for interacting with the macOS Keychain
 - [gousiosg/github-mirror](https://github.com/gousiosg/github-mirror) - Scripts to mirror Github in a cloudy fashion
@@ -8691,7 +8697,7 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -9968,7 +9974,7 @@
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites
 - [zenangst/Syncalicious](https://github.com/zenangst/Syncalicious) - 🍫 Syncalicious
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
-- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer 🎧
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer🎧
 - [fabiusBile/Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) - Implements a Widget for Spotify in the Notification Center of macOS  11.0 BigSur
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [dingwilson/MultiPeer](https://github.com/dingwilson/MultiPeer) - 📱📲 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
@@ -10139,7 +10145,7 @@
 
 ## TypeScript 
 
-- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 💌 产品的开源通知基础设施。轻松创建通知中心，多渠道向客户发送消息 | Notification Infrastructure
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [shqld/tish](https://github.com/shqld/tish) - A replacement of shell script with TypeScript, for those who love TypeScript and tired of writing shell script, aiming to emulate shell script in TypeScript.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
@@ -10580,6 +10586,7 @@
 - [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
 - [ethanresnick/json-api](https://github.com/ethanresnick/json-api) - Turn your node app into a JSON API server (http://jsonapi.org/)
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [ChechaValerii/node-typescript-mongodb](https://github.com/ChechaValerii/node-typescript-mongodb) - node js typescript mongodb express generator yo
 - [ChechaValerii/node-typescript-mongodb](https://github.com/ChechaValerii/node-typescript-mongodb) - node js typescript mongodb express generator yo
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
