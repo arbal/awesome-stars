@@ -566,7 +566,6 @@
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [unispeech/unimrcp](https://github.com/unispeech/unimrcp) - Open source cross-platform implementation of MRCP protocol
 - [festvox/flite](https://github.com/festvox/flite) - A small fast portable speech synthesis system
 - [mptre/pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
@@ -817,6 +816,7 @@
 
 ## C++ 
 
+- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
 - [facebook/mariana-trench](https://github.com/facebook/mariana-trench) - Our security focused static analysis tool for Android and Java applications.
 - [khrykin/StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - No-Fuss Time Management App
@@ -1257,6 +1257,7 @@
 
 ## Dockerfile 
 
+- [salrashid123/squid_proxy](https://github.com/salrashid123/squid_proxy) - Multi-mode Squid Proxy container running SSL intercept
 - [arbal/caddy-cloudflaredns](https://github.com/arbal/caddy-cloudflaredns) - Caddy v2 Dockerfile with Cloudflare DNS module (caddy-dns/cloudflare)
 - [linuxserver/docker-scrutiny](https://github.com/linuxserver/docker-scrutiny) - 
 - [k8s-at-home/container-images](https://github.com/k8s-at-home/container-images) - Kubernetes tailored container images for various applications
@@ -1484,6 +1485,9 @@
 
 ## Go 
 
+- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
+- [k8spin/loki-multi-tenant-proxy](https://github.com/k8spin/loki-multi-tenant-proxy) - Grafana Loki multi-tenant Proxy. Needed to deploy Grafana Loki in a multi-tenant way
+- [jpbede/loki-auth-proxy](https://github.com/jpbede/loki-auth-proxy) - Stateless Grafana Loki multi tenant authentication proxy
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [docker-flow/docker-flow-monitor](https://github.com/docker-flow/docker-flow-monitor) - 
 - [bahlo/mapdns](https://github.com/bahlo/mapdns) - A simple, static DNS server.
@@ -2633,6 +2637,7 @@
 - [esimov/diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [skaji/remote-pbcopy-iterm2](https://github.com/skaji/remote-pbcopy-iterm2) - remote pbcopy for iTerm2
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
@@ -3445,6 +3450,15 @@
 
 ## JavaScript 
 
+- [spirosbax/to-sci-hub](https://github.com/spirosbax/to-sci-hub) - Search for a DOI (Digital Object Identifier) in Sci-Hub immediately after selecting it
+- [aMarcireau/origami](https://github.com/aMarcireau/origami) - An application to visualize scholar articles as an interactive graph
+- [NCEAS/metacatui](https://github.com/NCEAS/metacatui) - MetacatUI: A client-side web interface for DataONE data repositories
+- [binux/yaaw](https://github.com/binux/yaaw) - Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
+- [luciopaiva/witchcraft](https://github.com/luciopaiva/witchcraft) - Inject Javascript and CSS right from your file system. Think GreaseMonkey for more advanced users.
+- [chocolateboy/userscripts](https://github.com/chocolateboy/userscripts) - Userscripts for Greasemonkey, Tampermonkey etc.
+- [jerone/UserScripts](https://github.com/jerone/UserScripts) - 🐵 My UserScripts
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [ShinningFinger/surge-alfred-workflow](https://github.com/ShinningFinger/surge-alfred-workflow) - 
 - [shengyou/vscode-handler](https://github.com/shengyou/vscode-handler) - Maps vscode:// URL schemes to Visual Studio Code
@@ -4061,7 +4075,7 @@
 - [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue and/or deCONZ
 - [itsmepetrov/homebridge-zigbee](https://github.com/itsmepetrov/homebridge-zigbee) - ZigBee Platform plugin for HomeBridge
 - [mpbzh/homebridge-plex](https://github.com/mpbzh/homebridge-plex) - Plex plugin for homebridge: https://github.com/nfarina/homebridge
-- [SeydX/homebridge-bravia-tv](https://github.com/SeydX/homebridge-bravia-tv) - Homebridge dynamic platform plugin for Sony Bravia Android TVs
+- [seydx/homebridge-bravia-tv](https://github.com/seydx/homebridge-bravia-tv) - Homebridge dynamic platform plugin for Sony Bravia Android TVs
 - [Djelibeybi/homebridge-button-platform](https://github.com/Djelibeybi/homebridge-button-platform) - A Homebridge platform plugin to create virtual buttons that respond to HTTP requests from things like Flic buttons or an Elgato Stream Deck.
 - [ztalbot2000/homebridge-cmd4](https://github.com/ztalbot2000/homebridge-cmd4) - CMD4 Plugin for Homebridge - Supports ~All Accessory Types & now all Characteristics too
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -4507,7 +4521,7 @@
 - [pponce/homebridge-script2](https://github.com/pponce/homebridge-script2) - Execute custom scripts via HomeKit apps
 - [sahilchaddha/homebridge-http-is-it-down](https://github.com/sahilchaddha/homebridge-http-is-it-down) - Homebridge Plugin to alert occupancy whenever Target goes down/up
 - [peh/node-i2cssh](https://github.com/peh/node-i2cssh) - i2cssh with the support of osascript and node
-- [SeydX/homebridge-camera-ui](https://github.com/SeydX/homebridge-camera-ui) - Homebridge plugin for RTSP Cameras with motion detection support, Image Rekognition, Web UI to manage/watch streams and WebApp support
+- [seydx/homebridge-camera-ui](https://github.com/seydx/homebridge-camera-ui) - Homebridge plugin for RTSP Cameras with motion detection support, Image Rekognition, Web UI to manage/watch streams and WebApp support
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
@@ -4715,7 +4729,7 @@
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [AMoo-Miki/homebridge-tuya-lan](https://github.com/AMoo-Miki/homebridge-tuya-lan) - Homebridge plugin for IoT devices that use Tuya Smart's platform
-- [SeydX/homebridge-sonybravia-platform](https://github.com/SeydX/homebridge-sonybravia-platform) - Sony Android TV Platform for Homebridge
+- [seydx/homebridge-sonybravia-platform](https://github.com/seydx/homebridge-sonybravia-platform) - Sony Android TV Platform for Homebridge
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [sindresorhus/term-size-cli](https://github.com/sindresorhus/term-size-cli) - Reliably get the terminal window size - cross-platform
 - [enesser/vCards-js](https://github.com/enesser/vCards-js) - Create vCards to import contacts into Outlook, iOS, Mac OS, and Android devices from your website or application.
@@ -4729,7 +4743,6 @@
 - [sindresorhus/is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
-- [sindresorhus/uti-cli](https://github.com/sindresorhus/uti-cli) - Get the UTI (Uniform Type Identifier) of a file on macOS
 - [sindresorhus/uti-cli](https://github.com/sindresorhus/uti-cli) - Get the UTI (Uniform Type Identifier) of a file on macOS
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [samber/grafana-flamegraph-panel](https://github.com/samber/grafana-flamegraph-panel) - 📊 Flame graph panels for Grafana
@@ -4768,6 +4781,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [moeiscool/Shinobi](https://github.com/moeiscool/Shinobi) - :peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer
+- [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [thevoltagesource/eagle-mqtt-bridge](https://github.com/thevoltagesource/eagle-mqtt-bridge) - Rainforest Eagle to MQTT Bridge
 - [antonmedv/eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
@@ -5138,6 +5152,7 @@
 - [nxhack/openwrt-node-packages](https://github.com/nxhack/openwrt-node-packages) - OpenWrt Project Node.js packages. v12.x LTS and v14.x LTS and v16.x Current
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 - [r-pufky/digikam](https://github.com/r-pufky/digikam) - Digikam docker build repository
+- [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [proxmox/dab-pve-appliances](https://github.com/proxmox/dab-pve-appliances) - DAB examples
 - [cloudposse/build-harness](https://github.com/cloudposse/build-harness) - 🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more
@@ -5157,6 +5172,7 @@
 - [davidnewhall/secspy](https://github.com/davidnewhall/secspy) - SecuritySpy Command Line Interface
 - [Jack12816/docker-mdns](https://github.com/Jack12816/docker-mdns) - Simple mDNS/ZeroConf demonstration of a nginx container, acessible at http://nginx.local
 - [hectorm/docker-caddy2](https://github.com/hectorm/docker-caddy2) - A Docker image for Caddy 2.
+- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [edmBernard/DockerFiles](https://github.com/edmBernard/DockerFiles) - Some useful dockerfiles for DeepLearning and Computer Vision
@@ -5326,6 +5342,7 @@
 
 ## Others 
 
+- [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [surge-networks/snell](https://github.com/surge-networks/snell) - An encrypted proxy service program
 - [zmiguel/docker-compose](https://github.com/zmiguel/docker-compose) - My collection of docker-compose files
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
@@ -6343,6 +6360,9 @@
 
 ## Python 
 
+- [bibcure/bibcure](https://github.com/bibcure/bibcure) - Bibcure helps in boring tasks by keeping your bibfile up to date and normalized...also allows you to easily download all papers inside your bibtex
+- [metachris/pdfx](https://github.com/metachris/pdfx) - Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
+- [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [chadmiller/zpool-iostat-viz](https://github.com/chadmiller/zpool-iostat-viz) - "zpool iostats" for humans; find the slow parts of your ZFS pool
 - [gtkpad/downdetector_scrapper](https://github.com/gtkpad/downdetector_scrapper) - 
 - [aaryanrr/DownDetector-CLI](https://github.com/aaryanrr/DownDetector-CLI) - CLI Client for DownDetector.com
@@ -7234,7 +7254,7 @@
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
-- [GoogleCloudPlatform/cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples) - Cloud ML Engine is now a part of AI Platform
+- [GoogleCloudPlatform/cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples) - Cloud ML Engine repo. Please visit the new Vertex AI samples repo at https://github.com/GoogleCloudPlatform/vertex-ai-samples
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr) - A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
 - [nurdtechie98/drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
@@ -8872,6 +8892,7 @@
 
 ## Shell 
 
+- [diladele/squid-ubuntu](https://github.com/diladele/squid-ubuntu) - Latest version of Squid proxy recompiled with support for HTTPS filtering and SSL inspection on Ubuntu 20.04 LTS. Used in Web Safety web filter for Squid.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
@@ -9099,7 +9120,6 @@
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [deflax/sysadmin](https://github.com/deflax/sysadmin) - scripts, howtos, etc. for various system administrative tasks
 - [aaaamirabbas/easyYoutubeDL](https://github.com/aaaamirabbas/easyYoutubeDL) - A manager for automating download lists based on youtube-dl
-- [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
 - [uselibrary/Aria2Drive](https://github.com/uselibrary/Aria2Drive) - Script for oneindex, aria2, AriaNG and rclone to built remote cloud storage
 - [lux4rd0/grafana-loki-syslog-aio](https://github.com/lux4rd0/grafana-loki-syslog-aio) - Grafana Loki Syslog All In One Syslog Deployable Stack
 - [unguiculus/loki-minio-demo](https://github.com/unguiculus/loki-minio-demo) - Demo setup for Grafana Loki in microservices mode using MinIO as storage backend
@@ -9762,7 +9782,6 @@
 - [Jarli01/xenorchestra_updater](https://github.com/Jarli01/xenorchestra_updater) - Xen Orchestra Update Script, used to keep current with the XO program developed by Olivier Lambert
 - [flaviostutz/rtsp-relay](https://github.com/flaviostutz/rtsp-relay) - RTSP server for ffmpeg sources
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [Jarli01/xenorchestra_installer](https://github.com/Jarli01/xenorchestra_installer) - A simple install script for Xen Orchestra
 - [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [grzi/changelog-and-tag-action](https://github.com/grzi/changelog-and-tag-action) - A cool github action to generate an awesome changelog from commit messages
@@ -10145,6 +10164,7 @@
 
 ## TypeScript 
 
+- [SanderRonde/CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - A browser extension to add links and run scripts/stylesheets all from your right-click menu
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [shqld/tish](https://github.com/shqld/tish) - A replacement of shell script with TypeScript, for those who love TypeScript and tired of writing shell script, aiming to emulate shell script in TypeScript.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -10587,7 +10607,6 @@
 - [ethanresnick/json-api](https://github.com/ethanresnick/json-api) - Turn your node app into a JSON API server (http://jsonapi.org/)
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [ChechaValerii/node-typescript-mongodb](https://github.com/ChechaValerii/node-typescript-mongodb) - node js typescript mongodb express generator yo
-- [ChechaValerii/node-typescript-mongodb](https://github.com/ChechaValerii/node-typescript-mongodb) - node js typescript mongodb express generator yo
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
@@ -10647,7 +10666,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A dashboard for your homelab
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A is self-hosted startpage for your server. Easy to use visual editor, status checking, themes and more!
 - [dernasherbrezon/r2cloud-ui](https://github.com/dernasherbrezon/r2cloud-ui) - Web UI for r2cloud (https://github.com/dernasherbrezon/r2cloud)
 - [jeliasson/dns-propagation-checker](https://github.com/jeliasson/dns-propagation-checker) - Check propagation of DNS records from one or many Name Servers. Useful for validating a DNS zone during migration.
 - [robertsLando/Mqtt2Mqtt](https://github.com/robertsLando/Mqtt2Mqtt) - Customize MQTT messages between two brokers
