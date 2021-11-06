@@ -816,6 +816,7 @@
 
 ## C++ 
 
+- [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
 - [facebook/mariana-trench](https://github.com/facebook/mariana-trench) - Our security focused static analysis tool for Android and Java applications.
@@ -1152,6 +1153,8 @@
 
 ## CSS 
 
+- [evnix/boltdbweb](https://github.com/evnix/boltdbweb) - A web based GUI for BoltDB files
+- [Qoraiche/VultrDash](https://github.com/Qoraiche/VultrDash) - Vultr self-hosted dashboard.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [t0xic0der/sysmon](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.
 - [guillaumebriday/traefik-custom-error-pages](https://github.com/guillaumebriday/traefik-custom-error-pages) - Bunch of custom error pages for Traefik 2.x built with Jekyll
@@ -1280,7 +1283,7 @@
 - [visibilityspots/dockerfile-cloudflared](https://github.com/visibilityspots/dockerfile-cloudflared) - run the cloudflared proxy-dns on port 54 using the DNS over HTTPS feature from cloudflare.
 - [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
-- [IronicBadger/pms-wiki](https://github.com/IronicBadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
+- [ironicbadger/pms-wiki](https://github.com/ironicbadger/pms-wiki) - The aim is to share knowledge and information about building an open-source media server.
 - [arbal/dockerfiles](https://github.com/arbal/dockerfiles) - For use with the other major hub
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [rycus86/docker-prometheus-node-exporter](https://github.com/rycus86/docker-prometheus-node-exporter) - Exporter for machine metrics https://prometheus.io/ (on ARM)
@@ -1485,6 +1488,15 @@
 
 ## Go 
 
+- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin is a web interface for running Linux shell commands.
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
+- [vultr/packer-plugin-vultr](https://github.com/vultr/packer-plugin-vultr) - Packer Builder plugin for Vultr snapshots
+- [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+- [mosn/mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
+- [chris-wood/odoh-client](https://github.com/chris-wood/odoh-client) - Oblivious DoH client
+- [cloudflare/odoh-client-go](https://github.com/cloudflare/odoh-client-go) - Oblivious DoH client
+- [cloudflare/odoh-server-go](https://github.com/cloudflare/odoh-server-go) - Oblivious DoH server in Go
+- [janeczku/docker-machine-vultr](https://github.com/janeczku/docker-machine-vultr) - :m: Docker Machine driver for Vultr Cloud
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [k8spin/loki-multi-tenant-proxy](https://github.com/k8spin/loki-multi-tenant-proxy) - Grafana Loki multi-tenant Proxy. Needed to deploy Grafana Loki in a multi-tenant way
 - [jpbede/loki-auth-proxy](https://github.com/jpbede/loki-auth-proxy) - Stateless Grafana Loki multi tenant authentication proxy
@@ -3022,7 +3034,7 @@
 - [square/certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [ccremer/clustercode](https://github.com/ccremer/clustercode) - Distribute your video encoding tasks across a cluster of nodes!
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open Source Photos App powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [caltechlibrary/datatools](https://github.com/caltechlibrary/datatools) - A set of tools for working with JSON, CSV and Excel workbooks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -3450,6 +3462,10 @@
 
 ## JavaScript 
 
+- [vultr/vultr-node](https://github.com/vultr/vultr-node) - Vultr Node API client
+- [sindresorhus/urls-md](https://github.com/sindresorhus/urls-md) - Convert URLs to Markdown links: Extracts URLs from text → Gets their article title → Creates Markdown links
+- [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
+- [furier/websync](https://github.com/furier/websync) - websync is intended to be an rsync manager, where rsync tasks can be added, scheduled and maintained in a sane manner.
 - [spirosbax/to-sci-hub](https://github.com/spirosbax/to-sci-hub) - Search for a DOI (Digital Object Identifier) in Sci-Hub immediately after selecting it
 - [aMarcireau/origami](https://github.com/aMarcireau/origami) - An application to visualize scholar articles as an interactive graph
 - [NCEAS/metacatui](https://github.com/NCEAS/metacatui) - MetacatUI: A client-side web interface for DataONE data repositories
@@ -4915,7 +4931,7 @@
 - [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast) - AirCast - Home Assistant Community Add-ons
 - [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) - UniFi Controller - Home Assistant Community Add-ons
 - [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖
-- [IronicBadger/infra](https://github.com/IronicBadger/infra) - 99.9% less leaked credentials
+- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
@@ -5323,7 +5339,7 @@
 - [billziss-gh/EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
 - [dsward2/LocalRadio](https://github.com/dsward2/LocalRadio) - 📻 LocalRadio is "Radio for Cord-Cutters" – a Software-Defined Radio (SDR) app for your Mac and mobile devices.  With an inexpensive RTL-SDR USB device, LocalRadio provides a casual, home-based radio listening experience for your favorite local frequencies - FM broadcasts/free music/news/sports/weather/public safety & aviation scanner/etc.
 - [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
-- [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelbick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
+- [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
 - [radiant-player/radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) - :notes: Turn Google Play Music into a separate, beautiful application that integrates with your Mac.
 
 ## Objective-C++ 
@@ -5342,6 +5358,7 @@
 
 ## Others 
 
+- [juliarougier/oblivious_dns](https://github.com/juliarougier/oblivious_dns) - 
 - [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [surge-networks/snell](https://github.com/surge-networks/snell) - An encrypted proxy service program
 - [zmiguel/docker-compose](https://github.com/zmiguel/docker-compose) - My collection of docker-compose files
@@ -6360,6 +6377,13 @@
 
 ## Python 
 
+- [mza921/Plex-Auto-Collections](https://github.com/mza921/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
+- [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for movies, shows, and collections as well as automatically build collections.
+- [neurogeek/haproxyctl](https://github.com/neurogeek/haproxyctl) - HAProxy control tool
+- [mmagnus/pubmex](https://github.com/mmagnus/pubmex) - get full paper names for downloaded publications automatically
+- [tfawcett/rename_papers](https://github.com/tfawcett/rename_papers) - rename_papers is a simple program to extract the title from a PDF file, manipulate it, and rename the file.
+- [snipsco/snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
+- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [bibcure/bibcure](https://github.com/bibcure/bibcure) - Bibcure helps in boring tasks by keeping your bibfile up to date and normalized...also allows you to easily download all papers inside your bibtex
 - [metachris/pdfx](https://github.com/metachris/pdfx) - Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
@@ -7739,7 +7763,7 @@
 - [ClusterLabs/fence-agents](https://github.com/ClusterLabs/fence-agents) - Fence agents
 - [mayan-edms/Mayan-EDMS](https://github.com/mayan-edms/Mayan-EDMS) - Free Open Source Document Management System (mirror, no pull request or issues)
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception capable proxy server focused on Network monitoring, controls & Application development, testing, debugging
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception, DNS-over-HTTPS capable, Reverse & Forward Proxy Server focused on Network auditing, monitoring & Application development, testing, debugging
 - [isometry/alfred-ssh](https://github.com/isometry/alfred-ssh) - SSH workflow for Alfred for Mac with powerful hostname expansion/completion
 - [internetarchive/brozzler](https://github.com/internetarchive/brozzler) - brozzler - distributed browser-based web crawler
 - [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
@@ -8435,6 +8459,7 @@
 
 ## Ruby 
 
+- [ninthwalker/NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
 - [tobi/clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
 - [jcsalterego/jqq](https://github.com/jcsalterego/jqq) - jq Querier: an interactive wrapper around jq
 - [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
@@ -8872,6 +8897,7 @@
 
 ## Scala 
 
+- [allenai/pdffigures2](https://github.com/allenai/pdffigures2) - Given a scholarly PDF, extract figures, tables, captions, and section titles.
 - [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [phiSgr/gatling-grpc](https://github.com/phiSgr/gatling-grpc) - A Gatling load test plugin for gRPC
 - [eikek/chee](https://github.com/eikek/chee) - A command line tool for managing photos.
@@ -8892,6 +8918,8 @@
 
 ## Shell 
 
+- [vultr/vultr-marketplace](https://github.com/vultr/vultr-marketplace) - 
+- [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-configs) - 80+ HAProxy Configs for Hadoop, Big Data, NoSQL, Docker, Kubernetes, Elasticsearch, SolrCloud, HBase, MySQL, PostgreSQL, Apache Drill, Hive, Presto, Impala, Hue, ZooKeeper, SSH, RabbitMQ, Redis, Riak, Cloudera, OpenTSDB, InfluxDB, Prometheus, Kibana, Graphite, Rancher etc.
 - [diladele/squid-ubuntu](https://github.com/diladele/squid-ubuntu) - Latest version of Squid proxy recompiled with support for HTTPS filtering and SSL inspection on Ubuntu 20.04 LTS. Used in Web Safety web filter for Squid.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
@@ -9963,6 +9991,7 @@
 
 ## Swift 
 
+- [hyperoslo/Cache](https://github.com/hyperoslo/Cache) - :package: Nothing but Cache.
 - [efremidze/Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering 📍
 - [slashlos/He3](https://github.com/slashlos/He3) - He3 aka Helium 3, a multi-window, floating  browser,
 - [JadenGeller/Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X
@@ -10164,6 +10193,7 @@
 
 ## TypeScript 
 
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
 - [SanderRonde/CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - A browser extension to add links and run scripts/stylesheets all from your right-click menu
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [shqld/tish](https://github.com/shqld/tish) - A replacement of shell script with TypeScript, for those who love TypeScript and tired of writing shell script, aiming to emulate shell script in TypeScript.
@@ -10207,7 +10237,7 @@
 - [MatheusR42/vtex-google-auth-cli](https://github.com/MatheusR42/vtex-google-auth-cli) - A tool to get VtexIdclientAutCookie Token by CLI
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows
 - [testinggospels/camouflage](https://github.com/testinggospels/camouflage) - Camouflage is a backend mocking tool for HTTP, gRPC and Websockets protocols, which helps you carry out your front end prototyping, unit testing, functional/performance testing in silos, in absence of one or more Microservices/APIs.
-- [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
+- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
 - [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [Blaarkies/ksp-visual-calculator](https://github.com/Blaarkies/ksp-visual-calculator) - Online tool for Kerbal Space Program that helps to determine what type of comms dishes a certain satellite requires.
