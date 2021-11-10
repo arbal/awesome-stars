@@ -188,6 +188,7 @@
 
 ## C 
 
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [abbbi/nullfsvfs](https://github.com/abbbi/nullfsvfs) - a virtual black hole file system that behaves like /dev/null
 - [jd/sysrqd](https://github.com/jd/sysrqd) - Linux SysRQ daemon
 - [paullouisageneau/violet](https://github.com/paullouisageneau/violet) - Lightweight STUN/TURN server
@@ -441,7 +442,7 @@
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM) - Quicklook plugin for Github Flavored Markdown
 - [madhouse/ccze](https://github.com/madhouse/ccze) - A robust, modular log coloriser
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [GNOME/gtk-mac-integration](https://github.com/GNOME/gtk-mac-integration) - Read-only mirror of https://gitlab.gnome.org/GNOME/gtk-mac-integration
 - [varnish/hitch](https://github.com/varnish/hitch) - A scalable TLS proxy by Varnish Software.
@@ -820,6 +821,7 @@
 
 ## C++ 
 
+- [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
@@ -1129,7 +1131,7 @@
 - [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [astrolabsgit/libseek-thermal](https://github.com/astrolabsgit/libseek-thermal) - SEEK thermal compact camera driver supporting the thermal compact and thermal compact pro
-- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON® (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
+- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [OpenThermal/libseek-thermal](https://github.com/OpenThermal/libseek-thermal) - SEEK thermal compact camera driver supporting the thermal Compact, thermal CompactXR and and thermal CompactPRO
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [BjornVT/Masterproef](https://github.com/BjornVT/Masterproef) - Master thesis using LWIR camera with a normal camera to improve human detection in bad weather conditions.
@@ -1195,6 +1197,7 @@
 
 ## Clojure 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [jsa-aerial/saite](https://github.com/jsa-aerial/saite) - Interactive document creation for exploratory graphics and visualizations. 咲いて (in bloom). Built on top of hanami vega/vega-lite library with CodeMirror and self hosted ClojureScript
 - [alexvaut/OpenTracingDiagram](https://github.com/alexvaut/OpenTracingDiagram) - Use traces to describe micro-services architecture.
 - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
@@ -1493,6 +1496,9 @@
 
 ## Go 
 
+- [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+- [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
+- [go-graphite/carbonapi](https://github.com/go-graphite/carbonapi) - Implementation of graphite API (graphite-web) in golang
 - [simnalamburt/macos-totp-cli](https://github.com/simnalamburt/macos-totp-cli) - simple TOTP CLI, powered by keychain of macOS
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [inuits/mqttgateway](https://github.com/inuits/mqttgateway) - Prometheus meets the Internet of Things
@@ -3475,6 +3481,16 @@
 
 ## JavaScript 
 
+- [violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript) - A yeoman generator to create a userscript project rapidly
+- [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
+- [remix-run/history](https://github.com/remix-run/history) - Manage session history with JavaScript
+- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
+- [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [mojaloop/documentation](https://github.com/mojaloop/documentation) - Repo that contains documentation for the Mojaloop project.
 - [mojaloop/central-event-processor](https://github.com/mojaloop/central-event-processor) - Standalone service that process events based on set of rules. Currently used to monitor the notification topic and create various notifications (e.g. email, etc).
 - [vinzdeveloper/json-rule-editor](https://github.com/vinzdeveloper/json-rule-editor) - Json rule editor
@@ -5086,6 +5102,7 @@
 - [betatim/openrefineder](https://github.com/betatim/openrefineder) - 💠 + 📚 OpenRefine on Binder!
 - [Earth-Observation/ml-workspace](https://github.com/Earth-Observation/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV](https://github.com/salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV) - A complete machine vision container that includes Jupyter notebooks with built-in code hinting, Anaconda, CUDA 11, TensorRT inference accelerator for Tensor cores, CuPy (GPU drop in replacement for Numpy), PyTorch, PyTorch geometric for Graph Neural Networks, TF2, Tensorboard, and OpenCV for accelerated workloads on NVIDIA Tensor cores and GPUs.
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -6397,6 +6414,9 @@
 
 ## Python 
 
+- [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
+- [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
+- [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System
 - [DanielTorres1/lanscanner](https://github.com/DanielTorres1/lanscanner) - 
 - [gistart/prometheus-push-client](https://github.com/gistart/prometheus-push-client) - Push Prometheus metrics to VictoriaMetrics or other exporters
 - [percona/pmm-server](https://github.com/percona/pmm-server) - PMM Server
@@ -7860,7 +7880,6 @@
 - [microsoft/lisa](https://github.com/microsoft/lisa) - LISA is developed and maintained by Microsoft, to empower Linux validation.
 - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [aim-uofa/AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -8477,7 +8496,7 @@
 ## Roff 
 
 - [komachi/apparmor-even-more-profiles](https://github.com/komachi/apparmor-even-more-profiles) - Collection of AppArmor profiles for hardering Debian Stable (currently buster).
-- [flexibeast/s6-man-pages](https://github.com/flexibeast/s6-man-pages) - mdoc versions of the documentation for the s6 supervision suite
+- [flexibeast/s6-man-pages](https://github.com/flexibeast/s6-man-pages) - mdoc(7) versions of the documentation for the s6 supervision suite
 - [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
 - [xorhash/fh](https://github.com/xorhash/fh) - file history with ed(1), diff(1), awk(1), sed(1) and sh(1)
 - [uschtwill/docker_monitoring_logging_alerting](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting.
@@ -8943,6 +8962,10 @@
 
 ## Shell 
 
+- [theniwo/clonezilla](https://github.com/theniwo/clonezilla) - Backup and restore drives with clonezilla
+- [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
+- [execriez/ShowSCutilRecords](https://github.com/execriez/ShowSCutilRecords) - List SCutil records as a big human readable list
+- [frigi83/traefik-examples](https://github.com/frigi83/traefik-examples) - docker-compose configurations examples for traefik
 - [rm1984/Scripts](https://github.com/rm1984/Scripts) - A collection of personal useful scripts (in Bash and Python) for Unix and GNU/Linux systems
 - [swarmstack/victoria-metrics](https://github.com/swarmstack/victoria-metrics) - Docker compose for VictoriaMetrics: fast, cost-effective and scalable time series database
 - [vultr/vultr-marketplace](https://github.com/vultr/vultr-marketplace) - 
@@ -9420,7 +9443,6 @@
 - [Dezeter/mt](https://github.com/Dezeter/mt) - Create multiple TOR instances with a load-balancing.
 - [quortex/cloudbench](https://github.com/quortex/cloudbench) - A project to bench ffmpeg performances and price for the major cloud providers
 - [cdzombak/osx-automation](https://github.com/cdzombak/osx-automation) - scripts, services, and small utilities which make life on macOS easier
-- [sulu5890/searx-traefik-docker](https://github.com/sulu5890/searx-traefik-docker) - Create a searx instance using traefik and Docker. Created for a comment on r/searx. Not maintained and has flaws, use for reference only.
 - [fresh2dev/ShinyStudio](https://github.com/fresh2dev/ShinyStudio) - A fully Dockerized, self-hosted development environment for teams. Develop where you serve.
 - [alexei-led/nsenter](https://github.com/alexei-led/nsenter) - Slim nsenter Docker image - enter into Docker container/host namespaces
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
@@ -10219,6 +10241,9 @@
 
 ## TypeScript 
 
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
+- [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [Netflix/metaflow-ui](https://github.com/Netflix/metaflow-ui) - :art: UI for monitoring your Metaflow executions!
 - [hieunmce/express-typescript-boilerplate](https://github.com/hieunmce/express-typescript-boilerplate) - 
 - [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
@@ -10624,7 +10649,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF converter via Chrome/Chromium
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [NikolaiT/Crawling-Infrastructure](https://github.com/NikolaiT/Crawling-Infrastructure) - Distributed crawling infrastructure running on top of severless computation, cloud storage (such as S3) and sophisticated queues.
 - [tlaverdure/laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server) - Socket.io server for Laravel Echo
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
