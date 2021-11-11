@@ -188,6 +188,7 @@
 
 ## C 
 
+- [brandt/symlinks](https://github.com/brandt/symlinks) - symbolic link maintenance utility
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [abbbi/nullfsvfs](https://github.com/abbbi/nullfsvfs) - a virtual black hole file system that behaves like /dev/null
 - [jd/sysrqd](https://github.com/jd/sysrqd) - Linux SysRQ daemon
@@ -442,7 +443,7 @@
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM) - Quicklook plugin for Github Flavored Markdown
 - [madhouse/ccze](https://github.com/madhouse/ccze) - A robust, modular log coloriser
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [GNOME/gtk-mac-integration](https://github.com/GNOME/gtk-mac-integration) - Read-only mirror of https://gitlab.gnome.org/GNOME/gtk-mac-integration
 - [varnish/hitch](https://github.com/varnish/hitch) - A scalable TLS proxy by Varnish Software.
@@ -821,6 +822,7 @@
 
 ## C++ 
 
+- [dd-center/obs-streamlink](https://github.com/dd-center/obs-streamlink) - OBS source plugin to receive stream using streamlink.
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
@@ -1496,6 +1498,9 @@
 
 ## Go 
 
+- [mgoltzsche/ctnr](https://github.com/mgoltzsche/ctnr) - rootless runc-based container engine - deprecated in favour of podman
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image
+- [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [go-graphite/carbonapi](https://github.com/go-graphite/carbonapi) - Implementation of graphite API (graphite-web) in golang
@@ -3481,6 +3486,8 @@
 
 ## JavaScript 
 
+- [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
+- [Morikko/sync-tab-groups](https://github.com/Morikko/sync-tab-groups) - Sync Tab Groups is an easy way to manage all your tabs. You organize them depending on a topic by group. Groups can be closed and reopend without caring about your session. Moreover, you can esily search, active, move, save and remove your groups and tabs.
 - [violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript) - A yeoman generator to create a userscript project rapidly
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [remix-run/history](https://github.com/remix-run/history) - Manage session history with JavaScript
@@ -5012,6 +5019,7 @@
 
 ## Jupyter Notebook 
 
+- [adaptive/pops](https://github.com/adaptive/pops) - PoPs geolocation derived from IATA airport codes
 - [AICoE/log-anomaly-detector](https://github.com/AICoE/log-anomaly-detector) - Log Anomaly Detection - Machine learning to detect abnormal events logs
 - [Seagate/cortx](https://github.com/Seagate/cortx) - CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
@@ -5152,6 +5160,8 @@
 
 ## Lua 
 
+- [haproxytech/haproxy-lua-http](https://github.com/haproxytech/haproxy-lua-http) - Simple Lua HTTP helper && client for use with HAProxy.
+- [hellracer/cs-haproxy-bouncer](https://github.com/hellracer/cs-haproxy-bouncer) - a minimalist bouncer for haproxy
 - [minoplhy/DNSserver](https://github.com/minoplhy/DNSserver) - My Personal Configuration for DNSserver using Haproxy or NGINX
 - [CommandPost/CommandPost](https://github.com/CommandPost/CommandPost) - Workflow Enhancements for Creatives
 - [ntop/nProbe](https://github.com/ntop/nProbe) - Open source components and extensions for nProbe
@@ -6414,6 +6424,7 @@
 
 ## Python 
 
+- [vycontrol/vycontrol](https://github.com/vycontrol/vycontrol) - vyos frontend
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
 - [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System
@@ -8941,6 +8952,7 @@
 
 ## Scala 
 
+- [cjww-development/gatekeeper](https://github.com/cjww-development/gatekeeper) - Implementation of OIDC and OAuth2
 - [allenai/pdffigures2](https://github.com/allenai/pdffigures2) - Given a scholarly PDF, extract figures, tables, captions, and section titles.
 - [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [phiSgr/gatling-grpc](https://github.com/phiSgr/gatling-grpc) - A Gatling load test plugin for gRPC
@@ -8962,6 +8974,8 @@
 
 ## Shell 
 
+- [mdegat01/addon-loki](https://github.com/mdegat01/addon-loki) - Loki for Home Assistant
+- [ravens/vyos-nfv](https://github.com/ravens/vyos-nfv) - Tools to generate a cloud-ready VyOS image
 - [theniwo/clonezilla](https://github.com/theniwo/clonezilla) - Backup and restore drives with clonezilla
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [execriez/ShowSCutilRecords](https://github.com/execriez/ShowSCutilRecords) - List SCutil records as a big human readable list
@@ -9628,7 +9642,7 @@
 - [adtac/borg-docker-volume](https://github.com/adtac/borg-docker-volume) - A script to backup a Docker volume's contents using Borg
 - [ricardobranco777/docker-volumes.sh](https://github.com/ricardobranco777/docker-volumes.sh) - The docker-export and docker-commit commands do not save the container volumes. Use this script to save and load the container volumes.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside containers.
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [sudo-bmitch/docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - Wait for a docker stack deploy to complete
 - [corneliusweig/kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container
@@ -10746,7 +10760,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more!
