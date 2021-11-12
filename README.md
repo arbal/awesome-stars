@@ -1318,7 +1318,6 @@
 - [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
 - [ten7/tractorbeam](https://github.com/ten7/tractorbeam) - Open source multi-tier website backups
 - [OPHoperHPO/hassio-addons](https://github.com/OPHoperHPO/hassio-addons) - :heavy_plus_sign: Docker add-ons for Hass.io
-- [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab) - JupyterLab Lite - Home Assistant Community Add-ons
 - [hassio-addons/addon-grafana](https://github.com/hassio-addons/addon-grafana) - Grafana - Home Assistant Community Add-ons
 - [balena-io/open-balena-s3](https://github.com/balena-io/open-balena-s3) - Amazon S3-compatible storage backend for openBalena
 - [reichley/hass-addons](https://github.com/reichley/hass-addons) - Home Assistant Add-Ons (currently only rtl433_to_mqtt)
@@ -1498,6 +1497,7 @@
 
 ## Go 
 
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp video archival manager for Niconico, Bilibili, and Youtube
 - [mgoltzsche/ctnr](https://github.com/mgoltzsche/ctnr) - rootless runc-based container engine - deprecated in favour of podman
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
@@ -3486,6 +3486,10 @@
 
 ## JavaScript 
 
+- [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
+- [iobio/minion](https://github.com/iobio/minion) - Server wrapper that turns command line tools into web services
+- [urlint/urlint](https://github.com/urlint/urlint) - Checking the availability of links from your CLI
+- [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [Morikko/sync-tab-groups](https://github.com/Morikko/sync-tab-groups) - Sync Tab Groups is an easy way to manage all your tabs. You organize them depending on a topic by group. Groups can be closed and reopend without caring about your session. Moreover, you can esily search, active, move, save and remove your groups and tabs.
 - [violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript) - A yeoman generator to create a userscript project rapidly
@@ -4969,7 +4973,7 @@
 - [hassio-addons/addon-zerotier](https://github.com/hassio-addons/addon-zerotier) - ZeroTier One - Home Assistant Community Add-ons
 - [hassio-addons/addon-spotify-connect](https://github.com/hassio-addons/addon-spotify-connect) - Spotify Connect - Home Assistant Community Add-ons
 - [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast) - AirCast - Home Assistant Community Add-ons
-- [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) - UniFi Controller - Home Assistant Community Add-ons
+- [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) - UniFi Network Application - Home Assistant Community Add-ons
 - [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖
 - [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
@@ -5066,6 +5070,7 @@
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [palewire/cpi](https://github.com/palewire/cpi) - Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [KuntalP/10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
@@ -5403,6 +5408,7 @@
 
 ## Others 
 
+- [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 - [arbal/dns-resolver-infra](https://github.com/arbal/dns-resolver-infra) - Privacy DNS infrastructure
 - [VictoriaMetrics/vmctl](https://github.com/VictoriaMetrics/vmctl) - Victoria Metrics command line tool
 - [juliarougier/oblivious_dns](https://github.com/juliarougier/oblivious_dns) - 
@@ -6331,6 +6337,7 @@
 
 ## Perl 
 
+- [curl/h2c](https://github.com/curl/h2c) - headers 2 curl. Provided a set of HTTP request headers, output the curl command line for generating that set. Try the converter online at
 - [pshved/timeout](https://github.com/pshved/timeout) - A script to measure and limit CPU time and memory consumption of black-box processes in Linux
 - [untoldwind/alfred2-layout](https://github.com/untoldwind/alfred2-layout) - Alfred 2 Layout workflow
 - [gryphonshafer/Geo-GoogleEarth-AutoTour](https://github.com/gryphonshafer/Geo-GoogleEarth-AutoTour) - Generate Google Earth Camera Tours from Tracks and Paths
@@ -6424,6 +6431,9 @@
 
 ## Python 
 
+- [proycon/clam](https://github.com/proycon/clam) - Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
+- [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
+- [un-def/dl-plus](https://github.com/un-def/dl-plus) - A youtube-dl extension with pluggable extractors
 - [vycontrol/vycontrol](https://github.com/vycontrol/vycontrol) - vyos frontend
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
@@ -6520,7 +6530,6 @@
 - [xilopaint/alfred-pdf-tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [owenwater/alfred-cal](https://github.com/owenwater/alfred-cal) - Displays a calendar with Alfred Workflow
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
-- [DanielTorres1/lanscanner-backup](https://github.com/DanielTorres1/lanscanner-backup) - Semi automatic pentesting tool for auditing LAN Networks
 - [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library
 - [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
 - [nojronatron/NoiseFloorReporter](https://github.com/nojronatron/NoiseFloorReporter) - RF Noise Floor Mapping and Reporting Project
@@ -7318,7 +7327,6 @@
 - [k4m4/kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [ivanvza/arpy](https://github.com/ivanvza/arpy) - Mac OSX ARP spoof (MiTM) tool that can also plug into Gource
 - [madereddy/noisy](https://github.com/madereddy/noisy) - Simple random DNS, HTTP/S internet traffic noise generator in a Docker container
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [vlall/Darksearch](https://github.com/vlall/Darksearch) - :mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [james04gr/TorCrawl.py](https://github.com/james04gr/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
@@ -8693,6 +8701,7 @@
 
 ## Rust 
 
+- [mbround18/valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
 - [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [mycrl/mystery](https://github.com/mycrl/mystery) - WebRTC Server implemented by ❤️ Rust + Node.js.
 - [helium/gateway-rs](https://github.com/helium/gateway-rs) - The Helium Light Gateway
@@ -8867,7 +8876,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [Eonm/refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -8974,6 +8983,9 @@
 
 ## Shell 
 
+- [adamdehaven/fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file.
+- [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
+- [aysiu/Mac-Scripts-and-Profiles](https://github.com/aysiu/Mac-Scripts-and-Profiles) - Scripts that modify system preferences on Mac OS X
 - [mdegat01/addon-loki](https://github.com/mdegat01/addon-loki) - Loki for Home Assistant
 - [ravens/vyos-nfv](https://github.com/ravens/vyos-nfv) - Tools to generate a cloud-ready VyOS image
 - [theniwo/clonezilla](https://github.com/theniwo/clonezilla) - Backup and restore drives with clonezilla
@@ -9221,6 +9233,7 @@
 - [VHSgunzo/tor2tun](https://github.com/VHSgunzo/tor2tun) - tor2tun
 - [Trigus42/Private-LAN](https://github.com/Trigus42/Private-LAN) - Route traffic trough a VPN, filter DNS queries with Pi-Hole and encrypt them with DNS-Crypt or use Unbound as a local DNS resolver.
 - [sparanoid/live-dl](https://github.com/sparanoid/live-dl) - Monitor and download live streams from YouTube
+- [hassio-addons/addon-jupyterlab](https://github.com/hassio-addons/addon-jupyterlab) - JupyterLab Lite - Home Assistant Community Add-ons
 - [hassio-addons/addon-mqtt](https://github.com/hassio-addons/addon-mqtt) - MQTT Server & Web client - Home Assistant Community Add-ons
 - [hassio-addons/bashio](https://github.com/hassio-addons/bashio) - Bashio - Home Assistant Community Add-ons
 - [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
@@ -10084,7 +10097,7 @@
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites
 - [zenangst/Syncalicious](https://github.com/zenangst/Syncalicious) - 🍫 Syncalicious
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
-- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer🎧
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [fabiusBile/Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) - Implements a Widget for Spotify in the Notification Center of macOS  11.0 BigSur
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [dingwilson/MultiPeer](https://github.com/dingwilson/MultiPeer) - 📱📲 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
@@ -10760,7 +10773,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more!
