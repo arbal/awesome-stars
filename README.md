@@ -188,6 +188,8 @@
 
 ## C 
 
+- [jitsi/robotjs](https://github.com/jitsi/robotjs) - Node.js Desktop Automation.
+- [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [brandt/symlinks](https://github.com/brandt/symlinks) - symbolic link maintenance utility
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [abbbi/nullfsvfs](https://github.com/abbbi/nullfsvfs) - a virtual black hole file system that behaves like /dev/null
@@ -1361,6 +1363,7 @@
 - [compujuckel/adsb-docker](https://github.com/compujuckel/adsb-docker) - dump1090-fa, piaware and fr24feed together with docker-compose
 - [f4exb/sdrangel-docker](https://github.com/f4exb/sdrangel-docker) - Running SDRangel in a Docker container
 - [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
+- [apify/apify-actor-docker](https://github.com/apify/apify-actor-docker) - Base Docker images for Apify actors.
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [bradbeck/nexus-swarm](https://github.com/bradbeck/nexus-swarm) - Docker Swarm ready Sonatype Nexus Repository Manager 3
@@ -2553,7 +2556,7 @@
 - [SCHKN/systemd-monitoring](https://github.com/SCHKN/systemd-monitoring) - a simple way to monitor systemd services using go, influxdb and chronograf
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
+- [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [shuza/mqtt-cli](https://github.com/shuza/mqtt-cli) - A cli application written in Go to provide terminal interaction with EMQ
 - [golift/securityspy](https://github.com/golift/securityspy) - Full Featured Go Library for SecuritySpy
@@ -2672,7 +2675,6 @@
 - [blacs30/bitwarden-alfred-workflow](https://github.com/blacs30/bitwarden-alfred-workflow) - Simple Bitwarden Workflow for Alfred
 - [esimov/diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [skaji/remote-pbcopy-iterm2](https://github.com/skaji/remote-pbcopy-iterm2) - remote pbcopy for iTerm2
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -3094,6 +3096,7 @@
 
 ## Groovy 
 
+- [geb/geb](https://github.com/geb/geb) - Very Groovy Browser Automation
 - [atcol/docker-registry-ui](https://github.com/atcol/docker-registry-ui) - A web frontend/UI for easy private/local Docker Registry integration
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
@@ -3285,6 +3288,7 @@
 - [diogob/postgres-websockets](https://github.com/diogob/postgres-websockets) - PostgreSQL + Websockets
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [mryndzionek/composable-sdr](https://github.com/mryndzionek/composable-sdr) - SDR DSP utilities embedded in Haskell
 - [inguardians/VaporTrail](https://github.com/inguardians/VaporTrail) - Written by InGuardians' Faith Alderson and Larry Pesce, VaporTrail is a tool for data transmission over FM, using RPITX to transmit from an out-of-the-box Raspberry Pi, and an RTL-SDR to receive.  Twitter handles:  @unknownloner, @haxorthematrix, @inguardians
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
@@ -3300,6 +3304,7 @@
 
 ## Java 
 
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [oschina/kooder](https://github.com/oschina/kooder) - 🔍An open source GitLab/Gitee/Gitea code search tool. Kooder 是一个为 Gitee/GitLab 开发的开源代码搜索工具，这是一个镜像仓库，主仓库在 Gitee。
 - [dCache/dcache](https://github.com/dCache/dcache) - dCache - a system for storing and retrieving huge amounts of data, distributed among a large number of heterogenous server nodes, under a single virtual filesystem tree with a variety of standard access methods
 - [arineng/rdap_bootstrap_server](https://github.com/arineng/rdap_bootstrap_server) - A bootstrap server to aid RDAP clients in the bootstrap process.
@@ -3486,6 +3491,8 @@
 
 ## JavaScript 
 
+- [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
+- [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
 - [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [iobio/minion](https://github.com/iobio/minion) - Server wrapper that turns command line tools into web services
 - [urlint/urlint](https://github.com/urlint/urlint) - Checking the availability of links from your CLI
@@ -4551,7 +4558,6 @@
 - [VaclavRut/actor-amazon-crawler](https://github.com/VaclavRut/actor-amazon-crawler) - Amazon crawler - this configuration will extract items for a keywords that you will specify in the input, and it will automatically extract all pages for the given keyword. You can specify more keywords on the input for one run.
 - [drobnikj/crawler-google-places](https://github.com/drobnikj/crawler-google-places) - Scrape information about places from Google Maps. Gives you extra information that you can't get using the Google Places API.
 - [apify/apify-cli](https://github.com/apify/apify-cli) - Apify command-line interface helps you create, develop, build and run Apify actors, and manage the Apify cloud platform.
-- [apify/apify-actor-docker](https://github.com/apify/apify-actor-docker) - Base Docker images for Apify actors.
 - [webrecorder/webrecorder-desktop](https://github.com/webrecorder/webrecorder-desktop) - Webrecorder Desktop App!
 - [nullobject/bokeh](https://github.com/nullobject/bokeh) - Bokeh is a simple, scalable and blazing-fast task queue built on Node.js and ZeroMQ.
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
@@ -5767,7 +5773,7 @@
 - [thefinn93/ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
 - [zeek/packages](https://github.com/zeek/packages) - The default package source of the Zeek Package Manager
 - [linuxhw/SMART](https://github.com/linuxhw/SMART) - Estimate reliability of desktop-class HDD/SSD drives
-- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [nefilim/pinger](https://github.com/nefilim/pinger) - simple network latency and packet loss monitor using Grafana and Prometheus
@@ -6166,6 +6172,7 @@
 
 ## PHP 
 
+- [tchapi/davis](https://github.com/tchapi/davis) - 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal.
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX, Screencloud support and more
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 - [fkooman/php-remote-storage](https://github.com/fkooman/php-remote-storage) - remoteStorage server written in PHP
@@ -7826,7 +7833,7 @@
 - [ClusterLabs/fence-agents](https://github.com/ClusterLabs/fence-agents) - Fence agents
 - [mayan-edms/Mayan-EDMS](https://github.com/mayan-edms/Mayan-EDMS) - Free Open Source Document Management System (mirror, no pull request or issues)
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • Multi-process ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework. Focused on Network auditing, monitoring & Application development, testing, debugging.
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [isometry/alfred-ssh](https://github.com/isometry/alfred-ssh) - SSH workflow for Alfred for Mac with powerful hostname expansion/completion
 - [internetarchive/brozzler](https://github.com/internetarchive/brozzler) - brozzler - distributed browser-based web crawler
 - [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
@@ -8983,6 +8990,8 @@
 
 ## Shell 
 
+- [librenms/packer-builds](https://github.com/librenms/packer-builds) - This repo is where virtual images are created and stored
+- [shazChaudhry/docker-swarm-mode](https://github.com/shazChaudhry/docker-swarm-mode) - Setting up a Docker based CI environment. Tools include GitLap, Jenkins, Sonarqube and Nexus
 - [adamdehaven/fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file.
 - [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
 - [aysiu/Mac-Scripts-and-Profiles](https://github.com/aysiu/Mac-Scripts-and-Profiles) - Scripts that modify system preferences on Mac OS X
@@ -10066,6 +10075,7 @@
 
 ## Swift 
 
+- [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
 - [hyperoslo/Cache](https://github.com/hyperoslo/Cache) - :package: Nothing but Cache.
 - [efremidze/Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering 📍
 - [slashlos/He3](https://github.com/slashlos/He3) - He3 aka Helium 3, a multi-window, floating  browser,
@@ -10268,6 +10278,8 @@
 
 ## TypeScript 
 
+- [apandhi/Autumn](https://github.com/apandhi/Autumn) - A macOS window manager for JavaScript hackers
+- [mrWh1te/Botmation](https://github.com/mrWh1te/Botmation) - A simple TypeScript framework for declaratively composing bots with Puppeteer
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
@@ -10293,7 +10305,7 @@
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-- [snyk/vscode-extension](https://github.com/snyk/vscode-extension) - Snyk Code extension for Visual Studio Code
+- [snyk/vscode-extension](https://github.com/snyk/vscode-extension) - Snyk extension for Visual Studio Code
 - [returntocorp/semgrep-vscode](https://github.com/returntocorp/semgrep-vscode) - Semgrep extension for Visual Studio Code
 - [pashevskii/debug-pods-lens-extension](https://github.com/pashevskii/debug-pods-lens-extension) - Lens extension, which helps to debug pods
 - [jroehl/google-sheet-cli](https://github.com/jroehl/google-sheet-cli) - A simple helper cli to interact with google sheets.
