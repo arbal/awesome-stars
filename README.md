@@ -824,6 +824,7 @@
 
 ## C++ 
 
+- [six-ddc/httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
 - [dd-center/obs-streamlink](https://github.com/dd-center/obs-streamlink) - OBS source plugin to receive stream using streamlink.
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
@@ -1500,6 +1501,7 @@
 
 ## Go 
 
+- [TekWizely/run](https://github.com/TekWizely/run) - Easily manage and invoke small scripts and wrappers
 - [influxdata/inch](https://github.com/influxdata/inch) - An InfluxDB benchmarking tool.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp video archival manager for Niconico, Bilibili, and Youtube
 - [mgoltzsche/ctnr](https://github.com/mgoltzsche/ctnr) - rootless runc-based container engine - deprecated in favour of podman
@@ -3120,7 +3122,7 @@
 - [blz-ea/iac](https://github.com/blz-ea/iac) - Infrastructure as Code Starter Kit based on Terraform, Ansible, and Packer
 - [dsyorkd/HomeSwarmContainers](https://github.com/dsyorkd/HomeSwarmContainers) - My home swarm for fun stuff
 - [BretFisher/dogvscat](https://github.com/BretFisher/dogvscat) - Sample Docker Swarm cluster stack of tools
-- [in0rdr/tf-ansible-workflow](https://github.com/in0rdr/tf-ansible-workflow) - Terraform/Ansible Workflow for Proxmox VE (PVE) and Libvirt
+- [in0rdr/tf-ansible-workflow](https://github.com/in0rdr/tf-ansible-workflow) - Terraform/Ansible Workflow for Libvirt
 - [tylert/packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
 - [terraform-google-modules/terraform-google-gsuite-export](https://github.com/terraform-google-modules/terraform-google-gsuite-export) - The module will create a compute engine VM instance and set up a cronjob to export GSuite Admin SDK data to Stackdriver Logging on a schedule.
 - [mockingbirdconsulting/HashicorpAtHome](https://github.com/mockingbirdconsulting/HashicorpAtHome) - 
@@ -3492,6 +3494,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
 - [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
@@ -5163,7 +5166,7 @@
 
 ## Less 
 
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
 
 ## LiveScript 
@@ -5415,6 +5418,7 @@
 
 ## Others 
 
+- [onmyway133/awesome-voip](https://github.com/onmyway133/awesome-voip) - 🤙Learning VoIP, RTP, pjsip and SIP
 - [mafredri/phoenix-typings](https://github.com/mafredri/phoenix-typings) - TypeScript typings for Phoenix (kasper/phoenix)
 - [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 - [arbal/dns-resolver-infra](https://github.com/arbal/dns-resolver-infra) - Privacy DNS infrastructure
@@ -6439,6 +6443,7 @@
 
 ## Python 
 
+- [tobiasmcnulty/amzscraper](https://github.com/tobiasmcnulty/amzscraper) - Simple Python-based scraper for Amazon order receipts
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [N-Multifibra/netbox-proxbox](https://github.com/N-Multifibra/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
 - [proycon/clam](https://github.com/proycon/clam) - Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
@@ -8750,7 +8755,7 @@
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
 - [CanalTP/mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data)
 - [waltzofpearls/belt](https://github.com/waltzofpearls/belt) - A CLI app to show your time from a list of selected time zones, and a rust lib to parse dates in string formats that are commonly used.
-- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [woubuc/sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds
 - [whitfin/detox](https://github.com/whitfin/detox) - Quickly clean up your development directories before backups
 - [vmchale/tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space
@@ -8993,6 +8998,8 @@
 
 ## Shell 
 
+- [RaymiiOrg/bash-http-monitoring](https://github.com/RaymiiOrg/bash-http-monitoring) - HTTP(s) monitoring webpage via shell script
+- [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
 - [librenms/packer-builds](https://github.com/librenms/packer-builds) - This repo is where virtual images are created and stored
 - [shazChaudhry/docker-swarm-mode](https://github.com/shazChaudhry/docker-swarm-mode) - Setting up a Docker based CI environment. Tools include GitLap, Jenkins, Sonarqube and Nexus
 - [adamdehaven/fetchurls](https://github.com/adamdehaven/fetchurls) - A bash script to spider a site, follow links, and fetch urls (with built-in filtering) into a generated text file.
@@ -10079,6 +10086,8 @@
 
 ## Swift 
 
+- [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
+- [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
 - [hyperoslo/Cache](https://github.com/hyperoslo/Cache) - :package: Nothing but Cache.
 - [efremidze/Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering 📍
@@ -10282,6 +10291,7 @@
 
 ## TypeScript 
 
+- [bytedance/debugtron](https://github.com/bytedance/debugtron) - Debug in-production Electron based app
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) - Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [apandhi/Autumn](https://github.com/apandhi/Autumn) - A macOS window manager for JavaScript hackers
 - [mrWh1te/Botmation](https://github.com/mrWh1te/Botmation) - A simple TypeScript framework for declaratively composing bots with Puppeteer
@@ -10579,6 +10589,7 @@
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [macadev/Gibbon-Tabs](https://github.com/macadev/Gibbon-Tabs) - The Chrome tab manager you always wanted.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
+- [badsgahhl/pihole-browser-extension](https://github.com/badsgahhl/pihole-browser-extension) - Browser extension to control your pi-hole
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -10809,7 +10820,6 @@
 - [Zibbp/Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
 - [RasaHQ/rasa-voice-interface](https://github.com/RasaHQ/rasa-voice-interface) - :microphone: A simple web interface for building voice assistants with Rasa
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
-- [badsgahhl/pihole-browser-extension](https://github.com/badsgahhl/pihole-browser-extension) - Browser extension to control your pi-hole
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
