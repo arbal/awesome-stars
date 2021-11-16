@@ -776,7 +776,7 @@
 - [structurizr/dotnet](https://github.com/structurizr/dotnet) - Structurizr for .NET
 - [todbot/blink1](https://github.com/todbot/blink1) - Official software for blink(1) USB RGB LED by ThingM
 - [antonpup/Aurora](https://github.com/antonpup/Aurora) - Unified lighting effects across multiple brands and various games.
-- [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+- [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [tmarquespt/HassBot](https://github.com/tmarquespt/HassBot) - Home Assistant Discord Bot CPHA.tech
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
@@ -824,6 +824,7 @@
 
 ## C++ 
 
+- [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
 - [six-ddc/httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
 - [dd-center/obs-streamlink](https://github.com/dd-center/obs-streamlink) - OBS source plugin to receive stream using streamlink.
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
@@ -948,7 +949,7 @@
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
-- [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor is a network observability agent that facilitates business intelligence at the edge
+- [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor is a network observability agent that analyzes at the edge. part of the getorb.io ecosystem.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
@@ -1271,6 +1272,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-baseimage-rdesktop-web](https://github.com/linuxserver/docker-baseimage-rdesktop-web) - Custom all in one container for running GUI apps from a web browser
 - [maaad/hassio-addons](https://github.com/maaad/hassio-addons) - Repository for hass.io addons
 - [Exceptionfault/hassio-victoriametrics](https://github.com/Exceptionfault/hassio-victoriametrics) - Custom Addon for HomeAssistant to run VictoriaMetrics as TSDB.
 - [salrashid123/squid_proxy](https://github.com/salrashid123/squid_proxy) - Multi-mode Squid Proxy container running SSL intercept
@@ -1501,6 +1503,8 @@
 
 ## Go 
 
+- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network.
+- [bzz/scholar-alert-digest](https://github.com/bzz/scholar-alert-digest) - Aggregate unread emails from Google Scholar alerts
 - [TekWizely/run](https://github.com/TekWizely/run) - Easily manage and invoke small scripts and wrappers
 - [influxdata/inch](https://github.com/influxdata/inch) - An InfluxDB benchmarking tool.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp video archival manager for Niconico, Bilibili, and Youtube
@@ -2951,7 +2955,7 @@
 - [cloud66-oss/starter](https://github.com/cloud66-oss/starter) - Helping you get started with containerized apps.
 - [aldor007/mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [smartrecruiters/docker-bakery](https://github.com/smartrecruiters/docker-bakery) - Dockerfile hierarchy management tool with automatic rebuilding of dependent images when parent changes
 - [werf/werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [lucapette/fakedata](https://github.com/lucapette/fakedata) - CLI utility for fake data generation
@@ -3494,6 +3498,10 @@
 
 ## JavaScript 
 
+- [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
+- [spacedeck/spacedeck-open](https://github.com/spacedeck/spacedeck-open) - Spacedeck, a web based, real time, collaborative whiteboard application with rich media support
+- [RemoteDebug/remotedebug-gateway](https://github.com/RemoteDebug/remotedebug-gateway) - A gateway for RemoteDebug (Chrome Remote Debugging) connections, that allows you to connect a client to multiple browsers at once
+- [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
@@ -5779,7 +5787,6 @@
 - [thefinn93/ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
 - [zeek/packages](https://github.com/zeek/packages) - The default package source of the Zeek Package Manager
 - [linuxhw/SMART](https://github.com/linuxhw/SMART) - Estimate reliability of desktop-class HDD/SSD drives
-- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [nefilim/pinger](https://github.com/nefilim/pinger) - simple network latency and packet loss monitor using Grafana and Prometheus
@@ -6443,6 +6450,8 @@
 
 ## Python 
 
+- [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions) - Add-on actions and API Docs for Dropzone 4
+- [recite/autosum](https://github.com/recite/autosum) - Summarize Publications Automatically
 - [tobiasmcnulty/amzscraper](https://github.com/tobiasmcnulty/amzscraper) - Simple Python-based scraper for Amazon order receipts
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [N-Multifibra/netbox-proxbox](https://github.com/N-Multifibra/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
@@ -7628,6 +7637,7 @@
 - [ejwa/gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
 - [aidengilmartin/speedtest-to-influxdb](https://github.com/aidengilmartin/speedtest-to-influxdb) - Script to periodically run the Speedtest CLI application by Ookla and post results to InfluxDB.
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [christabor/flask_jsondash](https://github.com/christabor/flask_jsondash) - :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.
 - [SciTools/iris](https://github.com/SciTools/iris) - A powerful, format-agnostic, and community-driven Python package for analysing and visualising Earth science data
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
@@ -7665,7 +7675,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
