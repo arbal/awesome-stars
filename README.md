@@ -408,6 +408,7 @@
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [ARMmbed/mbedtls](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library
+- [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
@@ -984,7 +985,6 @@
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility, SMS & LORA.
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
 - [fireice-uk/xmr-stak](https://github.com/fireice-uk/xmr-stak) - Free Monero RandomX Miner and unified CryptoNight miner
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -1503,6 +1503,7 @@
 
 ## Go 
 
+- [vwxyzjn/portwarden](https://github.com/vwxyzjn/portwarden) - Create Encrypted Backups of Your Bitwarden Vault with Attachments
 - [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network.
 - [bzz/scholar-alert-digest](https://github.com/bzz/scholar-alert-digest) - Aggregate unread emails from Google Scholar alerts
 - [TekWizely/run](https://github.com/TekWizely/run) - Easily manage and invoke small scripts and wrappers
@@ -1989,7 +1990,7 @@
 - [adejoux/grafanaclient](https://github.com/adejoux/grafanaclient) - simple API to manage Grafana 2.0 DataSources and Dashboards in Go
 - [grafana/metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
-- [netsage-project/grafana-dashboard-manager](https://github.com/netsage-project/grafana-dashboard-manager) - Grafana Dashboard Manager
+- [netsage-project/gdg](https://github.com/netsage-project/gdg) - Grafana Dashboard Manager
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [mrparkers/terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider for Keycloak
@@ -3920,7 +3921,6 @@
 - [imnik11/Google-Photos-Unlimited-Storage](https://github.com/imnik11/Google-Photos-Unlimited-Storage) - As google provides with the facility of unlimited data storage on google photos we can easily store any file with the help of this repo.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
@@ -4178,7 +4178,7 @@
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
@@ -4237,7 +4237,7 @@
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [breakdance/breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
-- [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
+- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [jojoee/add2calendar](https://github.com/jojoee/add2calendar) - :calendar: Allow you to add event to calendar easier
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
@@ -8579,7 +8579,7 @@
 - [slhck/homebrew-moreutils](https://github.com/slhck/homebrew-moreutils) - Moreutils for Homebrew with additional options
 - [dholm/homebrew-sdr](https://github.com/dholm/homebrew-sdr) - Homebrew formulas for software defined radio
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility (needs to be updated)
 - [leejones/alfred-grafana-dashboards-workflow](https://github.com/leejones/alfred-grafana-dashboards-workflow) - An Alfred workflow to search your Grafana dashboards and open one
 - [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
 - [TransparencyToolkit/LookingGlass](https://github.com/TransparencyToolkit/LookingGlass) - Intuitive and configurable search interface for document archives.
@@ -9297,7 +9297,7 @@
 - [MalteHillmann/iocage-plugin-grafana](https://github.com/MalteHillmann/iocage-plugin-grafana) - 
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Google Drive and rclone
+- [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
 - [mrako/wait-for](https://github.com/mrako/wait-for) - 
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
@@ -9685,7 +9685,7 @@
 - [adtac/borg-docker-volume](https://github.com/adtac/borg-docker-volume) - A script to backup a Docker volume's contents using Borg
 - [ricardobranco777/docker-volumes.sh](https://github.com/ricardobranco777/docker-volumes.sh) - The docker-export and docker-commit commands do not save the container volumes. Use this script to save and load the container volumes.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside containers.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [sudo-bmitch/docker-stack-wait](https://github.com/sudo-bmitch/docker-stack-wait) - Wait for a docker stack deploy to complete
 - [corneliusweig/kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container
@@ -10218,7 +10218,7 @@
 - [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader) - CLI for downloading iCloud file
@@ -10301,6 +10301,7 @@
 
 ## TypeScript 
 
+- [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) - Debug in-production Electron based app
 - [tjhorner/archivebox-exporter](https://github.com/tjhorner/archivebox-exporter) - Automatically or manually send pages from your browser to your ArchiveBox for archival.
 - [apandhi/Autumn](https://github.com/apandhi/Autumn) - A macOS window manager for JavaScript hackers
@@ -10423,6 +10424,7 @@
 - [balenalabs/wifi-repeater](https://github.com/balenalabs/wifi-repeater) - Easily create a WiFi Access Point or WiFi repeater with balenaOS
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
 - [balenalabs/balena-sound](https://github.com/balenalabs/balena-sound) - Build a single or multi-room streamer for an existing audio device using a Raspberry Pi! Supports Bluetooth, Airplay and Spotify Connect
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
