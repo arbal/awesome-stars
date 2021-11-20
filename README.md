@@ -1508,6 +1508,11 @@
 
 ## Go 
 
+- [aymericbeaumet/pimp](https://github.com/aymericbeaumet/pimp) - :rosette: Command expander and task runner with pattern matching, templating and scripting capabilities
+- [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
+- [openfaas/faas-provider](https://github.com/openfaas/faas-provider) - A backend provider interface for OpenFaaS
+- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud-native and easy-to-use application management platform | 云原生且易用的应用管理平台
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [arbal/prometheus-json-exporter](https://github.com/arbal/prometheus-json-exporter) - 
@@ -1539,7 +1544,7 @@
 - [hikhvar/mqtt2prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway
 - [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang
 - [faceair/VictoriaLogs](https://github.com/faceair/VictoriaLogs) - Loki On VictoriaMetrics
-- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin is a web interface for running Linux shell commands.
+- [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [vultr/packer-plugin-vultr](https://github.com/vultr/packer-plugin-vultr) - Packer Builder plugin for Vultr snapshots
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
@@ -3517,6 +3522,7 @@
 
 ## JavaScript 
 
+- [aui/art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats) - Prettify vmstats in your browser
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -4214,7 +4220,6 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -4376,7 +4381,7 @@
 - [jc21/docker-registry-ui](https://github.com/jc21/docker-registry-ui) - 😎 A nice web interface for managing your Docker Registry images
 - [alexlafroscia/tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) - Alfred workflow for TLDR
 - [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize) - A node utility utilizing ffmpeg to encode videos with the hevc codec.
-- [aunefyren/Plex-Wrapped](https://github.com/aunefyren/Plex-Wrapped) - Website and API that collects Plex statistics using Tautulli and displays it. Similar to the Spotify Wrapped concept.
+- [aunefyren/plex-wrapped](https://github.com/aunefyren/plex-wrapped) - Website and API that collects Plex statistics using Tautulli and displays it. Similar to the Spotify Wrapped concept.
 - [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A basic, free tool that shows information about Plex Media Server content
 - [plexinc/webhooks-slack](https://github.com/plexinc/webhooks-slack) - Use Plex webhooks to push media notifications into Slack
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
@@ -4840,7 +4845,7 @@
 - [pomber/covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sindresorhus/is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -5157,7 +5162,6 @@
 - [betatim/openrefineder](https://github.com/betatim/openrefineder) - 💠 + 📚 OpenRefine on Binder!
 - [Earth-Observation/ml-workspace](https://github.com/Earth-Observation/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV](https://github.com/salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV) - A complete machine vision container that includes Jupyter notebooks with built-in code hinting, Anaconda, CUDA 11, TensorRT inference accelerator for Tensor cores, CuPy (GPU drop in replacement for Numpy), PyTorch, PyTorch geometric for Graph Neural Networks, TF2, Tensorboard, and OpenCV for accelerated workloads on NVIDIA Tensor cores and GPUs.
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -5449,6 +5453,7 @@
 
 ## Others 
 
+- [mozilla/minion](https://github.com/mozilla/minion) - Minion
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [onmyway133/awesome-voip](https://github.com/onmyway133/awesome-voip) - 🤙Learning VoIP, RTP, pjsip and SIP
 - [mafredri/phoenix-typings](https://github.com/mafredri/phoenix-typings) - TypeScript typings for Phoenix (kasper/phoenix)
@@ -5860,7 +5865,7 @@
 - [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - :file_folder: #AISecurity
 - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021.
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card) - A Custom Lovelace card to pull together the mail and packages sensors.
 - [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
@@ -6475,6 +6480,7 @@
 
 ## Python 
 
+- [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [antonplagemann/GoogleMonicaSync](https://github.com/antonplagemann/GoogleMonicaSync) - Script for syncing Google contacts to Monica.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
 - [throwaway-4736528/apple-obsidian](https://github.com/throwaway-4736528/apple-obsidian) - Scripts to help migrate notes from Apple notes to Obsidian
@@ -7953,6 +7959,7 @@
 - [microsoft/lisa](https://github.com/microsoft/lisa) - LISA is developed and maintained by Microsoft, to empower Linux validation.
 - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [aim-uofa/AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -8874,6 +8881,7 @@
 - [openethereum/openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [femiagbabiaka/shodan-rust](https://github.com/femiagbabiaka/shodan-rust) - rusty shodan
@@ -8933,7 +8941,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [Eonm/refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -9040,6 +9048,12 @@
 
 ## Shell 
 
+- [fadado/jqt](https://github.com/fadado/jqt) - jqt · The jq template engine
+- [icy/genvsub](https://github.com/icy/genvsub) - Another way to substitute environment variables in shell format strings ${FOO}, designed for k8s stuff
+- [vorakl/FakeTpl](https://github.com/vorakl/FakeTpl) - A fake template engine for different Shells
+- [TekWizely/bash-tpl](https://github.com/TekWizely/bash-tpl) - A smart, lightweight shell script templating engine, written in Bash
+- [jirutka/esh](https://github.com/jirutka/esh) - Simple templating engine based on shell.
+- [lavoiesl/bash-templater](https://github.com/lavoiesl/bash-templater) - Very simple templating system that replace {{VAR}} by $VAR environment value, supports defines
 - [monicahq/docker](https://github.com/monicahq/docker) - docker image of Monica
 - [pfidr34/docker-rclone](https://github.com/pfidr34/docker-rclone) - Docker image to use rclone to run cron sync with monitoring
 - [bcardiff/docker-rclone](https://github.com/bcardiff/docker-rclone) - Docker image to use rclone to run cron sync with monitoring
@@ -10709,7 +10723,7 @@
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [savecost/datav](https://github.com/savecost/datav) - 📊A modern APM for metrics,traces and logs, also datav is a lightweight alternative to Grafana, . It has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
+- [savecost/datav](https://github.com/savecost/datav) - 📊Visualization for metrics,traces and logs etc, datav is a lightweight but better alternative to Grafana. You can use datav as a standalone service like grafana, but it's better to use it with Insight for apm purposes.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rlivings39/vscode-fzf-quick-open](https://github.com/rlivings39/vscode-fzf-quick-open) - vscode extension providing quick file/folder open and searching using fzf
