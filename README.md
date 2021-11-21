@@ -299,7 +299,7 @@
 - [pupnp/pupnp](https://github.com/pupnp/pupnp) - libupnp: Build UPnP-compliant control points, devices, and bridges on several operating systems.
 - [eniac/Flightplan](https://github.com/eniac/Flightplan) - Flightplan is a toolchain for the flexible decomposition of P4 programs and their allocation to heterogeneous hardware to improve performance, reliability and utilisation of software-defined networks.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
-- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source 802.11 WiFi baseband chip/FPGA design
+- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
@@ -825,6 +825,7 @@
 
 ## C++ 
 
+- [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
 - [six-ddc/httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
@@ -1283,6 +1284,7 @@
 - [linuxserver/docker-scrutiny](https://github.com/linuxserver/docker-scrutiny) - 
 - [k8s-at-home/container-images](https://github.com/k8s-at-home/container-images) - Kubernetes tailored container images for various applications
 - [D34DC3N73R/netdata-glibc](https://github.com/D34DC3N73R/netdata-glibc) - netdata with glibc package for use with nvidia-docker2
+- [arbal/derper](https://github.com/arbal/derper) - https://github.com/tailscale/tailscale/tree/main/derp
 - [chestnutprog/derper](https://github.com/chestnutprog/derper) - https://github.com/tailscale/tailscale/tree/main/derp
 - [fredliang44/derper-docker](https://github.com/fredliang44/derper-docker) - tailscale selfhosted derp-server docker image
 - [hojulian/tailscale-relay](https://github.com/hojulian/tailscale-relay) - Tailscale docker image in relay mode
@@ -1508,6 +1510,8 @@
 
 ## Go 
 
+- [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [aymericbeaumet/pimp](https://github.com/aymericbeaumet/pimp) - :rosette: Command expander and task runner with pattern matching, templating and scripting capabilities
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [openfaas/faas-provider](https://github.com/openfaas/faas-provider) - A backend provider interface for OpenFaaS
@@ -2604,7 +2608,7 @@
 - [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
 - [vernemq/vmq-operator](https://github.com/vernemq/vmq-operator) - VerneMQ Operator creates/configures/manages VerneMQ clusters atop Kubernetes
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers
-- [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation and stress testing tool for containers
+- [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [suyashkumar/getbin](https://github.com/suyashkumar/getbin) - 💻 Easily fetch latest GitHub release binaries (for your OS/arch) using just wget or curl
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
@@ -3522,6 +3526,11 @@
 
 ## JavaScript 
 
+- [CacherApp/alfred-cacher](https://github.com/CacherApp/alfred-cacher) - Alfred workflow for finding a Cacher snippet.
+- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
+- [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
+- [sdras/vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
+- [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [aui/art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats) - Prettify vmstats in your browser
@@ -5345,6 +5354,7 @@
 
 ## Objective-C 
 
+- [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
 - [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
 - [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture) - Global mouse gestures for macOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -5453,6 +5463,7 @@
 
 ## Others 
 
+- [contributorpw/google-apps-script-awesome-list](https://github.com/contributorpw/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [mozilla/minion](https://github.com/mozilla/minion) - Minion
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [onmyway133/awesome-voip](https://github.com/onmyway133/awesome-voip) - 🤙Learning VoIP, RTP, pjsip and SIP
@@ -5480,7 +5491,6 @@
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) - :satellite: A curated list of awesome Real Time Communications resources
 - [arbal/derper-docker](https://github.com/arbal/derper-docker) - tailscale selfhosted derp-server docker image
-- [arbal/derper](https://github.com/arbal/derper) - https://github.com/tailscale/tailscale/tree/main/derp
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [arbal/torflow](https://github.com/arbal/torflow) - Data flow in the Tor network
@@ -5865,7 +5875,7 @@
 - [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - :file_folder: #AISecurity
 - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021. Pull requests welcome.
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card) - A Custom Lovelace card to pull together the mail and packages sensors.
 - [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
@@ -6480,6 +6490,7 @@
 
 ## Python 
 
+- [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [antonplagemann/GoogleMonicaSync](https://github.com/antonplagemann/GoogleMonicaSync) - Script for syncing Google contacts to Monica.
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
@@ -8584,6 +8595,7 @@
 
 ## Ruby 
 
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [ninthwalker/NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
 - [tobi/clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
 - [jcsalterego/jqq](https://github.com/jcsalterego/jqq) - jq Querier: an interactive wrapper around jq
@@ -8763,6 +8775,8 @@
 
 ## Rust 
 
+- [Nukesor/pueue-lib](https://github.com/Nukesor/pueue-lib) - A library to interact with Pueue
+- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [matze/iridium](https://github.com/matze/iridium) - Standard Notes client written in Rust and GTK
 - [mbround18/valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
@@ -9838,7 +9852,7 @@
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
 - [polynimbus/polynimbus](https://github.com/polynimbus/polynimbus) - Multi-cloud infrastructure inventory and management tool, supporting AWS, Google Cloud, Azure, Oracle Cloud, Rackspace Cloud, Hetzner Cloud, Alibaba Cloud, e24cloud.com, Linode, Cloudflare, GoDaddy and Backblaze B2.
 - [puckel/docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
 - [conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose) - docker compose files to create a fully working kafka stack
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
@@ -10148,6 +10162,7 @@
 
 ## Swift 
 
+- [Pictarine/macos-snippets](https://github.com/Pictarine/macos-snippets) - Snip is a lightweight snippets manager app for macOS
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
@@ -10353,6 +10368,10 @@
 
 ## TypeScript 
 
+- [airdcpp-web/airdcpp-webui](https://github.com/airdcpp-web/airdcpp-webui) - Web User Interface for AirDC++ Web API
+- [CacherApp/cacher-run-server](https://github.com/CacherApp/cacher-run-server) - Run WebSocket requests as Bash commands.
+- [CacherApp/cacher-cli](https://github.com/CacherApp/cacher-cli) - The command line interface to Cacher.
+- [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [nwtgck/http-knocking](https://github.com/nwtgck/http-knocking) - 🚪HTTP-Knocking hides a Web server and open it by knocking sequence: Hide Web server until your knocks
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
@@ -10723,7 +10742,7 @@
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [savecost/datav](https://github.com/savecost/datav) - 📊Visualization for metrics,traces and logs etc, datav is a lightweight but better alternative to Grafana. You can use datav as a standalone service like grafana, but it's better to use it with Insight for apm purposes.
+- [savecost/datav](https://github.com/savecost/datav) - 📊https://datav.io is a lightweight but better alternative to Grafana, providen visualization for metrics,traces and logs etc,  You can use datav as a standalone service like grafana, but it's better to use it with ai-apm for apm purposes.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rlivings39/vscode-fzf-quick-open](https://github.com/rlivings39/vscode-fzf-quick-open) - vscode extension providing quick file/folder open and searching using fzf
@@ -10866,7 +10885,7 @@
 
 ## Verilog 
 
-- [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - FPGA/hardware design of openwifi
+- [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - FPGA (chip) design of openwifi (IEEE 802.11)
 - [myriadrf/LimeSDR-USB_GW](https://github.com/myriadrf/LimeSDR-USB_GW) - Altera Cyclone IV FPGA project for the USB 3.0 LimeSDR board
 
 ## Vim script 
@@ -10888,6 +10907,8 @@
 
 ## Vue 
 
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
