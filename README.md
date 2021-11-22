@@ -1357,7 +1357,7 @@
 - [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
 - [flashspys/docker-nginx-static](https://github.com/flashspys/docker-nginx-static) - Super Lightweight Nginx Image
 - [mdouchement/standardnotes](https://github.com/mdouchement/standardnotes) - Dockerization of Standard File server. Used for running your own Standard Notes server
-- [AtomGraph/saxon-docker](https://github.com/AtomGraph/saxon-docker) - Dockerized Saxon-HE 9.9.1-2 (XSLT 3.0 processor)
+- [AtomGraph/saxon-docker](https://github.com/AtomGraph/saxon-docker) - Dockerized Saxon-HE (XSLT 3.0 processor)
 - [mablanco/docker-osmedeus](https://github.com/mablanco/docker-osmedeus) - Docker image for Osmedeus, a fully automated offensive security tool for reconnaissance and vulnerability scanning
 - [timescale/timescaledb-docker](https://github.com/timescale/timescaledb-docker) - Release Docker builds of TimescaleDB
 - [Technosoft2000/docker-calibre-web](https://github.com/Technosoft2000/docker-calibre-web) - Docker image for Calibre Web https://github.com/janeczku/calibre-web/, based on docker image of Alpine
@@ -3526,6 +3526,9 @@
 
 ## JavaScript 
 
+- [justjavac/ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - :mag: Sniff web framework and javascript libraries run on browsing website.
+- [redvanworkshop/accessibility-tester](https://github.com/redvanworkshop/accessibility-tester) - Automated Accessibility Tester for Client Websites
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
 - [CacherApp/alfred-cacher](https://github.com/CacherApp/alfred-cacher) - Alfred workflow for finding a Cacher snippet.
 - [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
 - [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
@@ -4437,6 +4440,7 @@
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [webtorrent/instant.io](https://github.com/webtorrent/instant.io) - 🚀 Streaming file transfer over WebTorrent (torrents on the web)
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
@@ -5195,6 +5199,7 @@
 
 ## Kotlin 
 
+- [jitsi/jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure
 - [noxone/regex-generator](https://github.com/noxone/regex-generator) - Generate regular expressions from sample texts.
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) - Cross-platform GUI gRPC debugging proxy
 - [dotStart/Beacon](https://github.com/dotStart/Beacon) - A simple UPnP Assistant that is capable of opening arbitrary ports.
@@ -5211,7 +5216,6 @@
 
 ## Less 
 
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
 
 ## LiveScript 
@@ -5463,6 +5467,8 @@
 
 ## Others 
 
+- [openassistive/awesome-assistivetech](https://github.com/openassistive/awesome-assistivetech) - A curated list of 😎 awesome assistive-technology frameworks to help you develop your AT tool/system
+- [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y :wheelchair:
 - [contributorpw/google-apps-script-awesome-list](https://github.com/contributorpw/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [mozilla/minion](https://github.com/mozilla/minion) - Minion
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
@@ -6426,7 +6432,7 @@
 - [tonydm/smokeping-OpenSSHMikrotikRouterOSPing](https://github.com/tonydm/smokeping-OpenSSHMikrotikRouterOSPing) - Smokeping SSH Probe for Mikrotik RouterOS
 - [rackerlabs/useful-scripts](https://github.com/rackerlabs/useful-scripts) - A collections of useful Linux investigation tools
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
-- [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
+- [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
 - [herrbischoff/calomel.org](https://github.com/herrbischoff/calomel.org) - Calomel.org FreeBSD recommendations version controlled.
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice
@@ -6490,6 +6496,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [antonplagemann/GoogleMonicaSync](https://github.com/antonplagemann/GoogleMonicaSync) - Script for syncing Google contacts to Monica.
@@ -9062,6 +9069,7 @@
 
 ## Shell 
 
+- [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [fadado/jqt](https://github.com/fadado/jqt) - jqt · The jq template engine
 - [icy/genvsub](https://github.com/icy/genvsub) - Another way to substitute environment variables in shell format strings ${FOO}, designed for k8s stuff
 - [vorakl/FakeTpl](https://github.com/vorakl/FakeTpl) - A fake template engine for different Shells
@@ -10368,6 +10376,8 @@
 
 ## TypeScript 
 
+- [musienkoyuriy/enabler](https://github.com/musienkoyuriy/enabler) - ✋ Accessibility analyzer for your frontend.
+- [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [airdcpp-web/airdcpp-webui](https://github.com/airdcpp-web/airdcpp-webui) - Web User Interface for AirDC++ Web API
 - [CacherApp/cacher-run-server](https://github.com/CacherApp/cacher-run-server) - Run WebSocket requests as Bash commands.
 - [CacherApp/cacher-cli](https://github.com/CacherApp/cacher-cli) - The command line interface to Cacher.
