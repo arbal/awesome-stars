@@ -708,6 +708,7 @@
 
 ## C# # 
 
+- [confused-Techie/Tabby](https://github.com/confused-Techie/Tabby) - Tabby, a Self Hosted way to save and manage Bookmarks
 - [alexreich/RulesEngineEditor](https://github.com/alexreich/RulesEngineEditor) - Editor for Microsoft RulesEngine - Blazor UI library intended for integration in Web or Desktop
 - [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
 - [bridgedotnet/Bridge](https://github.com/bridgedotnet/Bridge) - :spades: C# to JavaScript compiler. Write modern mobile and web apps in C#. Run anywhere with Bridge.NET.
@@ -1510,6 +1511,7 @@
 
 ## Go 
 
+- [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query.
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [aymericbeaumet/pimp](https://github.com/aymericbeaumet/pimp) - :rosette: Command expander and task runner with pattern matching, templating and scripting capabilities
@@ -1735,7 +1737,7 @@
 - [sj14/epoch](https://github.com/sj14/epoch) - 🕗 Easily convert epoch timestamps to human-readable formats and vice versa.
 - [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts & similar environments
 - [ksonnet/ksonnet](https://github.com/ksonnet/ksonnet) - A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [rhaidiz/broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
 - [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) - Time based rotating file writer
 - [rigado/ble](https://github.com/rigado/ble) - Bluetooth Low Energy for Linux / macOS
@@ -3159,6 +3161,7 @@
 
 ## HTML 
 
+- [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [proabiral/inception](https://github.com/proabiral/inception) - A highly configurable Framework for easy automated web scanning
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
@@ -3526,6 +3529,7 @@
 
 ## JavaScript 
 
+- [HaveAGitGat/Tdarr_Plugins](https://github.com/HaveAGitGat/Tdarr_Plugins) - Tdarr Plugins
 - [justjavac/ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - :mag: Sniff web framework and javascript libraries run on browsing website.
 - [redvanworkshop/accessibility-tester](https://github.com/redvanworkshop/accessibility-tester) - Automated Accessibility Tester for Client Websites
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
@@ -6925,7 +6929,7 @@
 - [rytilahti/homeassistant-upnp-availability](https://github.com/rytilahti/homeassistant-upnp-availability) - UPnP Availability sensor for Home Assistant
 - [simonw/datasette-graphql](https://github.com/simonw/datasette-graphql) - Datasette plugin providing an automatic GraphQL API for your SQLite databases
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
-- [swz30/MPRNet](https://github.com/swz30/MPRNet) - Official repository for "Multi-Stage Progressive Image Restoration" (CVPR 2021). SOTA results for image deblurring, deraining, and denoising.
+- [swz30/MPRNet](https://github.com/swz30/MPRNet) - Official repository for "Multi-Stage Progressive Image Restoration" (CVPR 2021). SOTA results for Image deblurring, deraining, and denoising.
 - [andrewp-as-is/chrome-bookmarks.py](https://github.com/andrewp-as-is/chrome-bookmarks.py) - :link: Google Chrome bookmarks helper
 - [andrewp-as-is/applescript.py](https://github.com/andrewp-as-is/applescript.py) - :apple: :snake: run applescript
 - [youdroid/home-assistant-gitea](https://github.com/youdroid/home-assistant-gitea) - 🍵 Gitea component to follow your repositories
@@ -8795,7 +8799,7 @@
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A server executing commands on webhook. Uses Pueue as executor backend
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
-- [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a fast and highly reliable distributed search engine designed from the ground up to index and query vast amounts of data with unmatched cost-efficiency.
+- [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a fast and cost-efficient distributed search engine for immutable data.
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
@@ -9861,7 +9865,7 @@
 - [polynimbus/polynimbus](https://github.com/polynimbus/polynimbus) - Multi-cloud infrastructure inventory and management tool, supporting AWS, Google Cloud, Azure, Oracle Cloud, Rackspace Cloud, Hetzner Cloud, Alibaba Cloud, e24cloud.com, Linode, Cloudflare, GoDaddy and Backblaze B2.
 - [puckel/docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
 - [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
-- [getsentry/onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
+- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept 👍
 - [conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose) - docker compose files to create a fully working kafka stack
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
