@@ -302,7 +302,7 @@
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
-- [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
+- [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
 - [cornet/ccze](https://github.com/cornet/ccze) - ccze
 - [bareboat-necessities/my-bareboat](https://github.com/bareboat-necessities/my-bareboat) - Opensource hardware and software solutions for sailing and sailboats
@@ -6290,7 +6290,7 @@
 - [getminera/minera](https://github.com/getminera/minera) - Minera is a web interface to monitor and manage mining devices
 - [MPOS/php-mpos](https://github.com/MPOS/php-mpos) - MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.
 - [zotero/dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
-- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted Community/Personal Image Hosting
+- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted Image Hosting solution. Start your own Flickr/imgur alternative with your own rules.
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [alexandermarston/vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [spatie/dns](https://github.com/spatie/dns) - Retrieve DNS records
