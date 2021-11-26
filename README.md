@@ -1827,7 +1827,7 @@
 - [emmanuelay/badger](https://github.com/emmanuelay/badger) - CLI tool to perform brute force lookup on domains
 - [zonedb/zonedb](https://github.com/zonedb/zonedb) - Public Zone Database
 - [ilyaglow/portmapping](https://github.com/ilyaglow/portmapping) - Gather available port mappings on UPnP device
-- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast your media files to UPnP/DLNA Media Renderers and Smart TVs.
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast videos and music to UPnP/DLNA Media Renderers and Smart TVs.
 - [huin/goupnp](https://github.com/huin/goupnp) - UPnP client library for Go (#golang)
 - [owenthereal/spotctl](https://github.com/owenthereal/spotctl) - A command-line interface to Spotify, written in Go
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI
@@ -3141,6 +3141,7 @@
 
 ## HCL 
 
+- [mojaloop/documentation](https://github.com/mojaloop/documentation) - Repo that contains documentation for the Mojaloop project.
 - [kingsoftgames/certbot-lambda](https://github.com/kingsoftgames/certbot-lambda) - Running Certbot on AWS Lambda.
 - [vultr/terraform-vultr-condor](https://github.com/vultr/terraform-vultr-condor) - Kubernetes Deployment Tool for Vultr
 - [vivami/proxmox-automation](https://github.com/vivami/proxmox-automation) - Terraform and Ansible for VM and CT deployment and provisioning on Proxmox
@@ -3568,7 +3569,6 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
-- [mojaloop/documentation](https://github.com/mojaloop/documentation) - Repo that contains documentation for the Mojaloop project.
 - [mojaloop/central-event-processor](https://github.com/mojaloop/central-event-processor) - Standalone service that process events based on set of rules. Currently used to monitor the notification topic and create various notifications (e.g. email, etc).
 - [vinzdeveloper/json-rule-editor](https://github.com/vinzdeveloper/json-rule-editor) - Json rule editor
 - [CacheControl/json-rules-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
@@ -4062,7 +4062,6 @@
 - [unep-grid/map-x-mgl](https://github.com/unep-grid/map-x-mgl) - MapX
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [Shmakov/Honeypot](https://github.com/Shmakov/Honeypot) - Low interaction honeypot that displays real time attacks
@@ -5008,7 +5007,6 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [andrew-templeton/cfn-api-gateway-restapi](https://github.com/andrew-templeton/cfn-api-gateway-restapi) - Custom::ApiGatewayRestApi | AWS CloudFormation Custom Lambda Resource | API Gateway RestApi
 - [agnat/node_mdns](https://github.com/agnat/node_mdns) - mdns/zeroconf/bonjour service discovery add-on for node.js
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -6338,7 +6336,7 @@
 - [successtar/cachet-manager](https://github.com/successtar/cachet-manager) - PHP script to Manage Updates on the Cachet Status Page. The script serve as an agent to update status of components and Metrics on cachet status page when the host is inactive and when it is active
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
-- [ZE3kr/Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - Cloudflare Partner Panel
+- [ZE3kr/Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - 
 - [mccreath/isitup-for-slack](https://github.com/mccreath/isitup-for-slack) - Custom slash command to use isitup.org to check if a site is up from within Slack
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [LycheeOrg/Lychee-v3](https://github.com/LycheeOrg/Lychee-v3) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
@@ -9073,6 +9071,7 @@
 
 ## Shell 
 
+- [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby
 - [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [fadado/jqt](https://github.com/fadado/jqt) - jqt · The jq template engine
 - [icy/genvsub](https://github.com/icy/genvsub) - Another way to substitute environment variables in shell format strings ${FOO}, designed for k8s stuff
@@ -9380,6 +9379,7 @@
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy) - Automated WPA/WPA2 PSK attack tool.
 - [marlonrichert/zsh-edit](https://github.com/marlonrichert/zsh-edit) - 🛠 Better command line editing tools for Zsh
@@ -10878,6 +10878,7 @@
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 
 ## V 
 
