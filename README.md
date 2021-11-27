@@ -55,7 +55,6 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [LLVM](#llvm)
-  - [Less](#less)
   - [LiveScript](#livescript)
   - [Lua](#lua)
   - [M4](#m4)
@@ -433,6 +432,7 @@
 - [scaleway/natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
 - [open-mesh-mirror/batman-adv](https://github.com/open-mesh-mirror/batman-adv) - batman-adv
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
 - [facebookarchive/flashcache](https://github.com/facebookarchive/flashcache) - A general purpose, write-back block cache for Linux.
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [sickill/stderred](https://github.com/sickill/stderred) - stderr in red
@@ -1002,7 +1002,6 @@
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [xmrig/xmrig-cuda](https://github.com/xmrig/xmrig-cuda) - NVIDIA CUDA plugin for XMRig miner
-- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
 - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
@@ -1573,7 +1572,7 @@
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [rusq/chromedl](https://github.com/rusq/chromedl) - Go library for scraping or downloading files bypassing Cloudflare protection and browser checks
 - [haroflow/chromedp-requests-logger](https://github.com/haroflow/chromedp-requests-logger) - Logs the requests from a webpage, printing accessed domains and URLs.
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
@@ -4521,6 +4520,7 @@
 - [Fusl/intrace](https://github.com/Fusl/intrace) - Multi-probe looking glass with simple but powerful configuration for probes and lookup types (BIRD, MTR, Ping & Traceroute pre-configured)
 - [pierky/ripeatlastracepath](https://github.com/pierky/ripeatlastracepath) - A JavaScript/Python web-app which reads results from RIPE Atlas traceroute measurements (both IPv4 and IPv6) and shows the Autonomous Systems and Internet Exchange Points that probes traverse to reach the target.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
+- [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
 - [yaronn/wopr](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics
@@ -5215,10 +5215,6 @@
 ## LLVM 
 
 - [llvm-mirror/llvm](https://github.com/llvm-mirror/llvm) - Project moved to: https://github.com/llvm/llvm-project
-
-## Less 
-
-- [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
 
 ## LiveScript 
 
@@ -7536,7 +7532,6 @@
 - [briancaffey/sec-filings-app](https://github.com/briancaffey/sec-filings-app) - This repo contains code for a web application that allows users to view SEC Filing data.
 - [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
@@ -10707,6 +10702,7 @@
 - [dvelasquez/lighthouse-plugin-crux](https://github.com/dvelasquez/lighthouse-plugin-crux) - A Lighthouse plugin that gathers field data from the Chrome User eXperience Report
 - [kesne/HostyHosting](https://github.com/kesne/HostyHosting) - A platform to easily manage and deploy your applications.
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [macadev/Gibbon-Tabs](https://github.com/macadev/Gibbon-Tabs) - The Chrome tab manager you always wanted.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [badsgahhl/pihole-browser-extension](https://github.com/badsgahhl/pihole-browser-extension) - Browser extension to control your pi-hole
