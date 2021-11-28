@@ -187,6 +187,7 @@
 
 ## C 
 
+- [loretoparisi/kakasi](https://github.com/loretoparisi/kakasi) - KAKASI - Kanji Kana Simple Inverter (code mirror)
 - [jitsi/robotjs](https://github.com/jitsi/robotjs) - Node.js Desktop Automation.
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [brandt/symlinks](https://github.com/brandt/symlinks) - symbolic link maintenance utility
@@ -1275,6 +1276,7 @@
 
 ## Dockerfile 
 
+- [mchlwong/derp](https://github.com/mchlwong/derp) - Tailscale custom DERP server Dockerfile and configs.
 - [niiv0832/TorrentMonitor_Dockerfile](https://github.com/niiv0832/TorrentMonitor_Dockerfile) - Docker with TorrentMonitor, Rclone, Http-knocking
 - [linuxserver/docker-baseimage-rdesktop-web](https://github.com/linuxserver/docker-baseimage-rdesktop-web) - Custom all in one container for running GUI apps from a web browser
 - [maaad/hassio-addons](https://github.com/maaad/hassio-addons) - Repository for hass.io addons
@@ -1316,7 +1318,7 @@
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap)
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
-- [BytesCo/docker-ncdu](https://github.com/BytesCo/docker-ncdu) - 
+- [BytesCo/docker-ncdu](https://github.com/BytesCo/docker-ncdu) - A no-frills Alpine ncdu container
 - [klutchell/balena-pihole](https://github.com/klutchell/balena-pihole) - Pi-hole is a Linux network-level advertisement and Internet tracker blocking application.
 - [toby1991/minio-rclone-webdav-server](https://github.com/toby1991/minio-rclone-webdav-server) - A @rclone served WebDAV server with @minio as the s3 storage backend docker example
 - [johanpi/docker-webmin](https://github.com/johanpi/docker-webmin) - Docker container running Webmin on Ubuntu 20.04 LTS
@@ -1510,6 +1512,7 @@
 
 ## Go 
 
+- [function61/tailscale-discovery](https://github.com/function61/tailscale-discovery) - An readonly API that returns only hostnames and IP addresses for the devices.
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query.
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -3529,6 +3532,12 @@
 
 ## JavaScript 
 
+- [remy/jsonbin](https://github.com/remy/jsonbin) - A personal JSON store as a RESTful service
+- [fabasoad/jsonbin-action](https://github.com/fabasoad/jsonbin-action) - This GitHub action generates custom HTTP responses using JSONbin service.
+- [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
+- [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+- [samoylenkodmitry/vscodeghosttext](https://github.com/samoylenkodmitry/vscodeghosttext) - GhostText plugin for VSCode. Edit text in browser from IDE (VSCode)
+- [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [HaveAGitGat/Tdarr_Plugins](https://github.com/HaveAGitGat/Tdarr_Plugins) - Tdarr Plugins
 - [justjavac/ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - :mag: Sniff web framework and javascript libraries run on browsing website.
 - [redvanworkshop/accessibility-tester](https://github.com/redvanworkshop/accessibility-tester) - Automated Accessibility Tester for Client Websites
@@ -3552,7 +3561,7 @@
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
-- [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos
 - [iobio/minion](https://github.com/iobio/minion) - Server wrapper that turns command line tools into web services
 - [urlint/urlint](https://github.com/urlint/urlint) - Checking the availability of links from your CLI
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -4354,7 +4363,7 @@
 - [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
 - [fwextensions/QuicKey](https://github.com/fwextensions/QuicKey) - Jump between recent tabs in Chrome via keyboard shortcuts or a most recently used (MRU) menu.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
 - [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️
 - [arbal/brave-control](https://github.com/arbal/brave-control) - Control Brave Browser from the command line. List, close, deduplicate and bring focus to open tabs. Also includes Alfred workflow integration.
 - [veniversum/git-visualizer](https://github.com/veniversum/git-visualizer) - 👁‍🗨:octocat:Visualizes directory structure of GitHub repos
@@ -5465,6 +5474,9 @@
 
 ## Others 
 
+- [arbal/notes](https://github.com/arbal/notes) - Collection of random notes, mostly transcribed from paper and mostly old. I take no responsibility for content!
+- [CNG/notes](https://github.com/CNG/notes) - Collection of random notes, mostly transcribed from paper and mostly old. I take no responsibility for content!
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [openassistive/awesome-assistivetech](https://github.com/openassistive/awesome-assistivetech) - A curated list of 😎 awesome assistive-technology frameworks to help you develop your AT tool/system
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y :wheelchair:
 - [contributorpw/google-apps-script-awesome-list](https://github.com/contributorpw/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
@@ -6494,6 +6506,7 @@
 
 ## Python 
 
+- [bsolomon1124/demoji](https://github.com/bsolomon1124/demoji) - Accurately find/replace/remove emojis in text strings
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
@@ -6747,7 +6760,6 @@
 - [hongquan/CurliPie](https://github.com/hongquan/CurliPie) - Convert cURL command to HTTPie
 - [alexander0042/pirate-weather-ha](https://github.com/alexander0042/pirate-weather-ha) - Replacement for the default Dark Sky Home Assistant integration using Pirate Weather
 - [damianolombardo/noisy](https://github.com/damianolombardo/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
-- [DShield-ISC/dshield](https://github.com/DShield-ISC/dshield) - DShield Raspberry Pi Sensor
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [inishantgrover/Shodmon](https://github.com/inishantgrover/Shodmon) - The Shodan monitoring tools allows you to monitor shodan listed servers basis on the filter you provided
 - [Yelp/docker-custodian](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy
@@ -8779,6 +8791,7 @@
 
 ## Rust 
 
+- [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
 - [Nukesor/pueue-lib](https://github.com/Nukesor/pueue-lib) - A library to interact with Pueue
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
@@ -8811,7 +8824,7 @@
 - [extrawurst/ip2country](https://github.com/extrawurst/ip2country) - fast ip -&gt; country lookup using asn database
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
-- [DSLAM-UMD/Flock](https://github.com/DSLAM-UMD/Flock) - Flock: A Practical Serverless Streaming Query Engine
+- [flock-lab/flock](https://github.com/flock-lab/flock) - Flock: A Practical Serverless Streaming Query Engine
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
@@ -9211,6 +9224,7 @@
 - [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [Rajeeban-A/SearX_easy_Installer](https://github.com/Rajeeban-A/SearX_easy_Installer) - Search without being tracked-(Your Own Private Search Engine )
 - [AlmirKadric-Published/docker-tuntap-osx](https://github.com/AlmirKadric-Published/docker-tuntap-osx) - A tuntap shim installer for "Docker for Mac"
+- [DShield-ISC/dshield](https://github.com/DShield-ISC/dshield) - DShield Raspberry Pi Sensor
 - [utensils/essex](https://github.com/utensils/essex) - Essex - Boilerplate for Docker Based Projects
 - [mr-pennyworth/tesseract-app](https://github.com/mr-pennyworth/tesseract-app) - Tesseract-ocr from homebrew packaged as a standalone app
 - [alex00x6/mqtt-monitoring](https://github.com/alex00x6/mqtt-monitoring) - 
@@ -10041,7 +10055,7 @@
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
 - [gantsign/ansible-role-oh-my-zsh](https://github.com/gantsign/ansible-role-oh-my-zsh) - Ansible role for installing and configuring oh-my-zsh
-- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins.
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [tarjoilija/zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [kerl/kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances
@@ -10375,6 +10389,7 @@
 
 ## TypeScript 
 
+- [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
 - [musienkoyuriy/enabler](https://github.com/musienkoyuriy/enabler) - ✋ Accessibility analyzer for your frontend.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [airdcpp-web/airdcpp-webui](https://github.com/airdcpp-web/airdcpp-webui) - Web User Interface for AirDC++ Web API
