@@ -3164,6 +3164,7 @@
 
 ## HTML 
 
+- [acgeospatial/awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [proabiral/inception](https://github.com/proabiral/inception) - A highly configurable Framework for easy automated web scanning
@@ -3317,6 +3318,7 @@
 
 ## Haskell 
 
+- [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
 - [simonmar/async](https://github.com/simonmar/async) - Run IO operations asynchronously and wait for their results
@@ -3532,6 +3534,7 @@
 
 ## JavaScript 
 
+- [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [remy/jsonbin](https://github.com/remy/jsonbin) - A personal JSON store as a RESTful service
 - [fabasoad/jsonbin-action](https://github.com/fabasoad/jsonbin-action) - This GitHub action generates custom HTTP responses using JSONbin service.
 - [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
@@ -5094,6 +5097,7 @@
 
 ## Jupyter Notebook 
 
+- [davemlz/eemont](https://github.com/davemlz/eemont) - A python package that extends Google Earth Engine.
 - [adaptive/pops](https://github.com/adaptive/pops) - PoPs geolocation derived from IATA airport codes
 - [AICoE/log-anomaly-detector](https://github.com/AICoE/log-anomaly-detector) - Log Anomaly Detection - Machine learning to detect abnormal events logs
 - [Seagate/cortx](https://github.com/Seagate/cortx) - CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.
@@ -5682,7 +5686,6 @@
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [AnarchoTechNYC/ansible-role-dnscrypt-proxy](https://github.com/AnarchoTechNYC/ansible-role-dnscrypt-proxy) - :lock::postal_horn: Spin up a(n optionally Torified) DNS, DNSCrypt v2, DNS-over-TLS, and/or DNS-over-HTTPS proxy server.
 - [arbal/docker-swarm-keepalived](https://github.com/arbal/docker-swarm-keepalived) - Operator for keepalived on docker swarm
-- [rsoper/richardsoper.me](https://github.com/rsoper/richardsoper.me) - My Traefik V2 stack.
 - [rxy/OoklaServer-speedtest.net-daemon](https://github.com/rxy/OoklaServer-speedtest.net-daemon) - https://support.ookla.com/hc/en-us/articles/234578528-OoklaServer-Installation-Linux-Unix
 - [awesometic/hackintosh-gigabyte-x570-aorus-elite](https://github.com/awesometic/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh.
 - [chris1111/Wireless-USB-OC-Big-Sur-Adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter) - Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters. Packages for macOS Hackintosh PC or Laptop
@@ -6010,7 +6013,6 @@
 - [gopala-kr/summary](https://github.com/gopala-kr/summary) - summaries of all the papers I read
 - [gopala-kr/trending-repos](https://github.com/gopala-kr/trending-repos) - trending repositories and news related to AI
 - [maskpx/CookBook](https://github.com/maskpx/CookBook) - Personal Dockerswarm Cookbook
-- [fritzlabs/Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
 - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) - Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 - [gkoerk/docker-swarm-cookbook](https://github.com/gkoerk/docker-swarm-cookbook) - A large collection of recipes for a complete, self-hosted Docker Swarm stack including Traefik v2 and SSO/Auth
@@ -6506,6 +6508,7 @@
 
 ## Python 
 
+- [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [bsolomon1124/demoji](https://github.com/bsolomon1124/demoji) - Accurately find/replace/remove emojis in text strings
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
@@ -8653,6 +8656,7 @@
 - [openware/peatio](https://github.com/openware/peatio) - Open-source crypto currency exchange software (https://openware.com)
 - [peatio/peatio](https://github.com/peatio/peatio) - An open-source assets exchange.
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
+- [rsoper/richardsoper.me](https://github.com/rsoper/richardsoper.me) - My Traefik V2 stack.
 - [desktoppr/wbench](https://github.com/desktoppr/wbench) - It benchmarks websites, YO!
 - [skycocker/chromebrew](https://github.com/skycocker/chromebrew) - Package manager for Chrome OS
 - [danielbayley/homebrew-alfred](https://github.com/danielbayley/homebrew-alfred) - Manage Alfred with @Homebrew.
@@ -9079,6 +9083,8 @@
 
 ## Shell 
 
+- [lancachenet/sniproxy](https://github.com/lancachenet/sniproxy) - SNI Proxy for HTTPS Pass-through
+- [willfarrell/alfred-debugger](https://github.com/willfarrell/alfred-debugger) - A little script to help you write your Alfred Workflows.
 - [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby
 - [xwiki-labs/cryptpad-docker](https://github.com/xwiki-labs/cryptpad-docker) - 
 - [fadado/jqt](https://github.com/fadado/jqt) - jqt · The jq template engine
@@ -10389,6 +10395,7 @@
 
 ## TypeScript 
 
+- [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
 - [musienkoyuriy/enabler](https://github.com/musienkoyuriy/enabler) - ✋ Accessibility analyzer for your frontend.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
