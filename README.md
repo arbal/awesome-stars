@@ -187,6 +187,7 @@
 
 ## C 
 
+- [berkayunal/haproxy-geoip-iprange](https://github.com/berkayunal/haproxy-geoip-iprange) - IP Ranges for Haproxy
 - [loretoparisi/kakasi](https://github.com/loretoparisi/kakasi) - KAKASI - Kanji Kana Simple Inverter (code mirror)
 - [jitsi/robotjs](https://github.com/jitsi/robotjs) - Node.js Desktop Automation.
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
@@ -709,6 +710,7 @@
 
 ## C# # 
 
+- [isabellaalstrom/home-assistant-config](https://github.com/isabellaalstrom/home-assistant-config) - My configuration for Home Assistant on Hass.io
 - [confused-Techie/Tabby](https://github.com/confused-Techie/Tabby) - Tabby, a Self Hosted way to save and manage Bookmarks
 - [alexreich/RulesEngineEditor](https://github.com/alexreich/RulesEngineEditor) - Editor for Microsoft RulesEngine - Blazor UI library intended for integration in Web or Desktop
 - [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
@@ -783,7 +785,7 @@
 - [tmarquespt/HassBot](https://github.com/tmarquespt/HassBot) - Home Assistant Discord Bot CPHA.tech
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
-- [net-daemon/netdaemon](https://github.com/net-daemon/netdaemon) - An application daemon for Home Assistant written in .NET 5.0
+- [net-daemon/netdaemon](https://github.com/net-daemon/netdaemon) - An application daemon for Home Assistant written in .NET
 - [Zaczero/2Captcha](https://github.com/Zaczero/2Captcha) - 🍬 Simple API wrapper for https://2captcha.com
 - [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb
 - [Corsinvest/cv4pve-diag](https://github.com/Corsinvest/cv4pve-diag) - Diagnostic tool for Proxmox VE
@@ -827,6 +829,9 @@
 
 ## C++ 
 
+- [Pacmanfan/SpectralRF](https://github.com/Pacmanfan/SpectralRF) - An SDR application that scans and identifies signals.
+- [Xerbo/LeanHRPT-Decode](https://github.com/Xerbo/LeanHRPT-Decode) - An easy to use HRPT decoder.
+- [Xerbo/LeanHRPT-Demod](https://github.com/Xerbo/LeanHRPT-Demod) - An easy to use HRPT demodulator
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [drawpile/Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
@@ -941,7 +946,7 @@
 - [ghostop14/gr-clenabled](https://github.com/ghostop14/gr-clenabled) - OpenCL/GPU-enabled common blocks for GNURadio
 - [jtplatt99/gr-osmosdr-kerberos](https://github.com/jtplatt99/gr-osmosdr-kerberos) - Modified gr-osmosdr libraries adding support for the common noise source on the KerberosSDR. This should allow the KerberosSDR to be more easily used in GNU Radio.
 - [rflament/loggedfs](https://github.com/rflament/loggedfs) - LoggedFS - Filesystem monitoring with Fuse
-- [nschlia/ffmpegfs](https://github.com/nschlia/ffmpegfs) - FUSE-based transcoding filesystem with video support from many formats to MP4, WebM, OGG, MP3, OPUS, MOV, ProRes or WAV.
+- [nschlia/ffmpegfs](https://github.com/nschlia/ffmpegfs) - FUSE-based transcoding filesystem with video support from many formats to FLAC, MP4, MP3, WebM, OGG, MP3, OPUS, MOV, ProRes, AIFF or WAV.
 - [netheril96/securefs](https://github.com/netheril96/securefs) - Filesystem in userspace (FUSE) with transparent authenticated encryption
 - [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -1217,7 +1222,7 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [metasoarous/oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [yetibot/yetibot](https://github.com/yetibot/yetibot) - 🤖 Extreme chatops bot for Slack and IRC 🔧 New contributors welcome 🏗
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -1276,6 +1281,7 @@
 
 ## Dockerfile 
 
+- [signalkraft/photoprism-syncthing-indexer](https://github.com/signalkraft/photoprism-syncthing-indexer) - 
 - [mchlwong/derp](https://github.com/mchlwong/derp) - Tailscale custom DERP server Dockerfile and configs.
 - [niiv0832/TorrentMonitor_Dockerfile](https://github.com/niiv0832/TorrentMonitor_Dockerfile) - Docker with TorrentMonitor, Rclone, Http-knocking
 - [linuxserver/docker-baseimage-rdesktop-web](https://github.com/linuxserver/docker-baseimage-rdesktop-web) - Custom all in one container for running GUI apps from a web browser
@@ -1512,6 +1518,12 @@
 
 ## Go 
 
+- [caarlos0/watchub](https://github.com/caarlos0/watchub) - Be notified of people who followed/unfollowed you and starred/unstarred your repositories
+- [astrophena/tsid](https://github.com/astrophena/tsid) - Tailscale integration for Caddy
+- [hasnat/docker-events-notifier](https://github.com/hasnat/docker-events-notifier) - Docker events notifier
+- [zyylhn/zscan](https://github.com/zyylhn/zscan) - Zscan a scan blasting tool set
+- [andyjack/geoip2-haproxy-ranges](https://github.com/andyjack/geoip2-haproxy-ranges) - 
+- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
 - [function61/tailscale-discovery](https://github.com/function61/tailscale-discovery) - An readonly API that returns only hostnames and IP addresses for the devices.
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query.
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
@@ -3506,7 +3518,7 @@
 - [theopolisme/react-native-stripe-terminal](https://github.com/theopolisme/react-native-stripe-terminal) - React Native bindings for the Stripe Terminal SDK. (Unofficial)
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline and dbus interface for signalapp/libsignal-service-java
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
-- [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or server.
+- [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [stkenny/Refine-NER-Extension](https://github.com/stkenny/Refine-NER-Extension) - Named-Entity Recognition extension for Google Refine / OpenRefine
 - [dernasherbrezon/r2cloud](https://github.com/dernasherbrezon/r2cloud) - Decode satellite signals on Raspberry PI or any other 64-bit CPU.
 - [bshannon/savenotes](https://github.com/bshannon/savenotes) - Save the contents of Apple Notes
@@ -3534,6 +3546,11 @@
 
 ## JavaScript 
 
+- [RichardLitt/watch-gh-repos](https://github.com/RichardLitt/watch-gh-repos) - Watch, unwatch, or ignore GitHub repositories
+- [balena-io-modules/node-loki-grpc-client](https://github.com/balena-io-modules/node-loki-grpc-client) - Loki node.js GRPC clients compiled from "logproto" schema
+- [apocas/docker-modem](https://github.com/apocas/docker-modem) - Docker Remote API network stack driver.
+- [terminalnetwork/syncthing-hooks](https://github.com/terminalnetwork/syncthing-hooks) - Runs shell scripts when syncthing folders get updated. 🦉🕗
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [remy/jsonbin](https://github.com/remy/jsonbin) - A personal JSON store as a RESTful service
 - [fabasoad/jsonbin-action](https://github.com/fabasoad/jsonbin-action) - This GitHub action generates custom HTTP responses using JSONbin service.
@@ -5282,6 +5299,8 @@
 
 ## Makefile 
 
+- [arbal/docker-nicinfo](https://github.com/arbal/docker-nicinfo) - Query RDAP with nicinfo
+- [nicwaller/docker-nicinfo](https://github.com/nicwaller/docker-nicinfo) - Query RDAP with nicinfo
 - [instrumentisto/coturn-docker-image](https://github.com/instrumentisto/coturn-docker-image) - [Closed] Coturn TURN server Docker image
 - [fniephaus/alfred-network](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands
 - [WICG/floc](https://github.com/WICG/floc) - FLoC
@@ -5478,6 +5497,10 @@
 
 ## Others 
 
+- [arbal/uri-handler](https://github.com/arbal/uri-handler) - A uri protocol router for macOS that allows protocols to be handled by simple scripts.
+- [arbal/haproxy-geoip-iprange](https://github.com/arbal/haproxy-geoip-iprange) - IP Ranges for Haproxy
+- [arbal/geoip2-haproxy-ranges](https://github.com/arbal/geoip2-haproxy-ranges) - 
+- [arbal/tailscale-cloudflare-dnssync](https://github.com/arbal/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [arbal/notes](https://github.com/arbal/notes) - Collection of random notes, mostly transcribed from paper and mostly old. I take no responsibility for content!
 - [CNG/notes](https://github.com/CNG/notes) - Collection of random notes, mostly transcribed from paper and mostly old. I take no responsibility for content!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -6508,6 +6531,10 @@
 
 ## Python 
 
+- [jone/github-watchlist](https://github.com/jone/github-watchlist) - Manage your watched GitHub repositories per script
+- [ryanvolz/radioconda](https://github.com/ryanvolz/radioconda) - Software radio distribution and installer for conda
+- [fooqri/uri-handler](https://github.com/fooqri/uri-handler) - A uri protocol router for macOS that allows protocols to be handled by simple scripts.
+- [semi-technologies/semantic-search-through-wikipedia-with-weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate) - Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [bsolomon1124/demoji](https://github.com/bsolomon1124/demoji) - Accurately find/replace/remove emojis in text strings
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
@@ -8457,7 +8484,7 @@
 - [sarah314/SpyPi](https://github.com/sarah314/SpyPi) - An (un-)ethical hacking-station based on Raspberry Pi and Python
 - [SvenVD/rpisurv](https://github.com/SvenVD/rpisurv) - Raspberry Pi surveillance
 - [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [thomasloven/hass-lovelace_gen](https://github.com/thomasloven/hass-lovelace_gen) - 🔹 Improve the lovelace yaml parser for Home Assistant
 - [custom-components/sensor.personalcapital](https://github.com/custom-components/sensor.personalcapital) - 💵 Personal Capital Integration for Bank Account Monitoring
 - [checkymander/iMessagesBackdoor](https://github.com/checkymander/iMessagesBackdoor) - A script to help set up an event handler in order to install a persistent backdoor that can be activated by sending a message.
@@ -8614,6 +8641,7 @@
 
 ## Ruby 
 
+- [oscardelben/github-trends](https://github.com/oscardelben/github-trends) - Provides a RSS Feed for most watched and most forked repos on Github
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [ninthwalker/NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
 - [tobi/clarity](https://github.com/tobi/clarity) - Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk
@@ -8933,7 +8961,7 @@
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [crisidev/lnx](https://github.com/crisidev/lnx) - Utility to map lines in stdin unto command arguments to be executed
-- [rust-bitcoin/rust-lightning](https://github.com/rust-bitcoin/rust-lightning) - A highly modular Bitcoin Lightning library written in Rust. Its Rust-Lightning, not Rusty's Lightning!
+- [lightningdevkit/rust-lightning](https://github.com/lightningdevkit/rust-lightning) - A highly modular Bitcoin Lightning library written in Rust. Its Rust-Lightning, not Rusty's Lightning!
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [ZenGo-X/multi-party-eddsa](https://github.com/ZenGo-X/multi-party-eddsa) - Rust implementation of multi party Ed25519 signature scheme.
 - [jedisct1/rsign2](https://github.com/jedisct1/rsign2) - A command-line tool to sign files and verify signatures in pure Rust.
@@ -9083,6 +9111,10 @@
 
 ## Shell 
 
+- [kolbasa/git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
+- [cusspvz/autotune.docker](https://github.com/cusspvz/autotune.docker) - :wrench: autotune is a MUST HAVE (2MB) system tuner for ALL your docker hosts
+- [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
+- [Hypernova-Oy/geoip2-haproxy-acl](https://github.com/Hypernova-Oy/geoip2-haproxy-acl) - 
 - [lancachenet/sniproxy](https://github.com/lancachenet/sniproxy) - SNI Proxy for HTTPS Pass-through
 - [willfarrell/alfred-debugger](https://github.com/willfarrell/alfred-debugger) - A little script to help you write your Alfred Workflows.
 - [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby
@@ -10395,6 +10427,7 @@
 
 ## TypeScript 
 
+- [calebj0seph/spectro](https://github.com/calebj0seph/spectro) - 🎶 Real-time audio spectrogram generator for the web
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
 - [musienkoyuriy/enabler](https://github.com/musienkoyuriy/enabler) - ✋ Accessibility analyzer for your frontend.
@@ -10519,6 +10552,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [EricAndrechek/nest-cam-rtsp](https://github.com/EricAndrechek/nest-cam-rtsp) - 
 - [littledivy/voicecontroljs](https://github.com/littledivy/voicecontroljs) - Voice-driven desktop automation. :rocket:
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [any-json/any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON
 - [ruedap/alfred-bootstrap-icons-workflow](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - 🎩 Bootstrap Icons workflow for Alfred
@@ -10940,6 +10974,7 @@
 
 ## Vue 
 
+- [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
@@ -10949,7 +10984,6 @@
 - [dernasherbrezon/r2cloud-ui](https://github.com/dernasherbrezon/r2cloud-ui) - Web UI for r2cloud (https://github.com/dernasherbrezon/r2cloud)
 - [jeliasson/dns-propagation-checker](https://github.com/jeliasson/dns-propagation-checker) - Check propagation of DNS records from one or many Name Servers. Useful for validating a DNS zone during migration.
 - [robertsLando/Mqtt2Mqtt](https://github.com/robertsLando/Mqtt2Mqtt) - Customize MQTT messages between two brokers
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
 - [Razikus/open-balena-dashboard](https://github.com/Razikus/open-balena-dashboard) - 
 - [flespi-software/MQTT-Tiles](https://github.com/flespi-software/MQTT-Tiles) - Open-source MQTT-based IoT dashboard visualization tool. Has full MQTT 5.0 support. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.
 - [Uploadarr/Uploadarr](https://github.com/Uploadarr/Uploadarr) - Read the concept for this project here:
