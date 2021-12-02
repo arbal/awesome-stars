@@ -27,6 +27,7 @@
   - [Crystal](#crystal)
   - [Cython](#cython)
   - [D](#d)
+  - [DIGITAL Command Language](#digital-command-language)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
@@ -829,6 +830,8 @@
 
 ## C++ 
 
+- [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
+- [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [Pacmanfan/SpectralRF](https://github.com/Pacmanfan/SpectralRF) - An SDR application that scans and identifies signals.
 - [Xerbo/LeanHRPT-Decode](https://github.com/Xerbo/LeanHRPT-Decode) - An easy to use HRPT decoder.
 - [Xerbo/LeanHRPT-Demod](https://github.com/Xerbo/LeanHRPT-Demod) - An easy to use HRPT demodulator
@@ -1010,7 +1013,6 @@
 - [xmrig/xmrig-cuda](https://github.com/xmrig/xmrig-cuda) - NVIDIA CUDA plugin for XMRig miner
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files on macOS Catalina and Big Sur.
 - [cnr-isti-vclab/PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
@@ -1271,6 +1273,10 @@
 
 - [zyedidia/Literate](https://github.com/zyedidia/Literate) - A literate programming tool for any language
 
+## DIGITAL Command Language 
+
+- [azrikahar/docker-reverse-proxies](https://github.com/azrikahar/docker-reverse-proxies) - Sample usage for various reverse proxies in Docker setups
+
 ## Dart 
 
 - [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
@@ -1281,6 +1287,7 @@
 
 ## Dockerfile 
 
+- [netdisco/netdisco-docker](https://github.com/netdisco/netdisco-docker) - Docker images for App::Netdisco
 - [arbal/docker-multitor](https://github.com/arbal/docker-multitor) - 
 - [loganmarchione/hassos-addons](https://github.com/loganmarchione/hassos-addons) - Home Assistant Add-ons
 - [signalkraft/photoprism-syncthing-indexer](https://github.com/signalkraft/photoprism-syncthing-indexer) - 
@@ -1519,6 +1526,9 @@
 
 ## Go 
 
+- [arbal/gphotos-cdp](https://github.com/arbal/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
+- [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Performing TCP handshake without ACK in Go, useful for health checking, that is SYN, SYN-ACK, RST.
+- [pires/go-proxyproto](https://github.com/pires/go-proxyproto) - A Go library implementation of the PROXY protocol, versions 1 and 2.
 - [barnardb/cookies](https://github.com/barnardb/cookies) - Command-line tool for extracting cookies from the user's web browser
 - [crowdsecurity/cs-custom-bouncer](https://github.com/crowdsecurity/cs-custom-bouncer) - CrowdSec bouncer to use custom scripts
 - [caarlos0/watchub](https://github.com/caarlos0/watchub) - Be notified of people who followed/unfollowed you and starred/unstarred your repositories
@@ -1576,7 +1586,7 @@
 - [cloudflare/odoh-client-go](https://github.com/cloudflare/odoh-client-go) - Oblivious DoH client
 - [cloudflare/odoh-server-go](https://github.com/cloudflare/odoh-server-go) - Oblivious DoH server in Go
 - [janeczku/docker-machine-vultr](https://github.com/janeczku/docker-machine-vultr) - :m: Docker Machine driver for Vultr Cloud
-- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [k8spin/loki-multi-tenant-proxy](https://github.com/k8spin/loki-multi-tenant-proxy) - Grafana Loki multi-tenant Proxy. Needed to deploy Grafana Loki in a multi-tenant way
 - [jpbede/loki-auth-proxy](https://github.com/jpbede/loki-auth-proxy) - Stateless Grafana Loki multi tenant authentication proxy
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
@@ -2279,6 +2289,7 @@
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [mdbraber/acmeproxy](https://github.com/mdbraber/acmeproxy) - Proxy server for ACME DNS challenges written in Go
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
@@ -3550,6 +3561,12 @@
 
 ## JavaScript 
 
+- [jackpinetech/haproxy-sdk](https://github.com/jackpinetech/haproxy-sdk) - Promise-based Javascript SDK for HAProxy management
+- [jackpinetech/haproxy-api](https://github.com/jackpinetech/haproxy-api) - ReSTful, Promise-based Javascript API server for HAProxy management
+- [rustygeldmacher/haproxy-ssl-example](https://github.com/rustygeldmacher/haproxy-ssl-example) - Example setup for SSL termination and re-encryption
+- [gaplo917/load-balancer-benchmark](https://github.com/gaplo917/load-balancer-benchmark) - Apache Httpd vs Nginx vs Traefik vs HAProxy
+- [observing/haproxy](https://github.com/observing/haproxy) - HAProxy management and orchestration
+- [jmakila/SavePinned](https://github.com/jmakila/SavePinned) - A Chrome extension to save pinned tabs
 - [ddosgrid/ddosgrid-v2](https://github.com/ddosgrid/ddosgrid-v2) - 
 - [jhuckaby/pixl-server-storage](https://github.com/jhuckaby/pixl-server-storage) - A key/value/list/hash storage component for the pixl-server framework.
 - [RichardLitt/watch-gh-repos](https://github.com/RichardLitt/watch-gh-repos) - Watch, unwatch, or ignore GitHub repositories
@@ -3587,7 +3604,7 @@
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos www.star-history.com
 - [iobio/minion](https://github.com/iobio/minion) - Server wrapper that turns command line tools into web services
 - [urlint/urlint](https://github.com/urlint/urlint) - Checking the availability of links from your CLI
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -5504,6 +5521,12 @@
 
 ## Others 
 
+- [vortextangent/gphotos-cdp](https://github.com/vortextangent/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
+- [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus
+- [klausagnoletti/crowdsec-honeypot](https://github.com/klausagnoletti/crowdsec-honeypot) - Contains docker-compose and config files for running a crowdsec-based honeyput using various helper containers.
+- [arbal/load-balancer-benchmark](https://github.com/arbal/load-balancer-benchmark) - Apache Httpd vs Nginx vs Traefik vs HAProxy
+- [arbal/SavePinned](https://github.com/arbal/SavePinned) - A Chrome extension to save pinned tabs
+- [arbal/alfred-tunnelblick](https://github.com/arbal/alfred-tunnelblick) - Work with Tunnelblick directly from Alfredapp.
 - [arbal/uri-handler](https://github.com/arbal/uri-handler) - A uri protocol router for macOS that allows protocols to be handled by simple scripts.
 - [arbal/haproxy-geoip-iprange](https://github.com/arbal/haproxy-geoip-iprange) - IP Ranges for Haproxy
 - [arbal/geoip2-haproxy-ranges](https://github.com/arbal/geoip2-haproxy-ranges) - 
@@ -6445,6 +6468,7 @@
 
 ## Perl 
 
+- [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
 - [atomia/atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [curl/h2c](https://github.com/curl/h2c) - headers 2 curl. Provided a set of HTTP request headers, output the curl command line for generating that set. Try the converter online at
 - [pshved/timeout](https://github.com/pshved/timeout) - A script to measure and limit CPU time and memory consumption of black-box processes in Linux
@@ -6540,6 +6564,9 @@
 
 ## Python 
 
+- [yeti-platform/yeti](https://github.com/yeti-platform/yeti) - Your Everyday Threat Intelligence
+- [9b/netinfo](https://github.com/9b/netinfo) - Simple IP enrichment service and API wrapping PyASN and MaxMind GeoIP.
+- [apprell/proxmox-autosnap](https://github.com/apprell/proxmox-autosnap) - ZFS automatic snapshot script for Proxmox VE 5
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
 - [cmehay/docker-tor-hidden-service](https://github.com/cmehay/docker-tor-hidden-service) - 
 - [attardi/wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
@@ -6908,7 +6935,7 @@
 - [simonhq/accu_allergies](https://github.com/simonhq/accu_allergies) - HA allergy sensors from AccuWeather
 - [mrkarezina/awesome-search](https://github.com/mrkarezina/awesome-search) - Search community curated awesome list resources directly from Raycast or your CLI!
 - [claws/dump1090-exporter](https://github.com/claws/dump1090-exporter) - A Prometheus metrics exporter for the dump1090 Mode S decoder for RTLSDR
-- [pangeo-data/climpred](https://github.com/pangeo-data/climpred) - :earth_americas: Verification of weather and climate forecasts. :earth_africa:
+- [pangeo-data/climpred](https://github.com/pangeo-data/climpred) - :earth_americas: Verification of weather and climate forecasts :earth_africa:
 - [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [nallamuthu/Ascan](https://github.com/nallamuthu/Ascan) - Python script to perform nmap, header, ssl, cipher, certificate scan
@@ -7254,7 +7281,7 @@
 - [lilydjwg/pssh](https://github.com/lilydjwg/pssh) - Parallel SSH Tools
 - [catarinaacsilva/gitlab](https://github.com/catarinaacsilva/gitlab) - GitLab Scaling and High Availability
 - [jbms/finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
-- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object detection and instance segmentation toolkit based on PaddlePaddle.
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [openzim/zimfarm](https://github.com/openzim/zimfarm) - Farm operated by bots to grow and harvest new zim files
 - [oduwsdl/archivenow](https://github.com/oduwsdl/archivenow) - A Tool To Push Web Resources Into Web Archives
 - [cloud-bulldozer/benchmark-wrapper](https://github.com/cloud-bulldozer/benchmark-wrapper) - Python Library to run benchmarks
@@ -8686,7 +8713,7 @@
 - [slhck/homebrew-moreutils](https://github.com/slhck/homebrew-moreutils) - Moreutils for Homebrew with additional options
 - [dholm/homebrew-sdr](https://github.com/dholm/homebrew-sdr) - Homebrew formulas for software defined radio
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
-- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line utility (needs to be updated)
+- [specious/facebook-cli](https://github.com/specious/facebook-cli) - :computer: Facebook command line client (needs to be updated)
 - [leejones/alfred-grafana-dashboards-workflow](https://github.com/leejones/alfred-grafana-dashboards-workflow) - An Alfred workflow to search your Grafana dashboards and open one
 - [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
 - [TransparencyToolkit/LookingGlass](https://github.com/TransparencyToolkit/LookingGlass) - Intuitive and configurable search interface for document archives.
@@ -8710,7 +8737,7 @@
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk) - AdoptOpenJDK HomeBrew Tap
-- [alan-ai/alan-sdk-flutter](https://github.com/alan-ai/alan-sdk-flutter) - Alan AI Flutter SDK adds a voice assistant or chatbot to your app.
+- [alan-ai/alan-sdk-flutter](https://github.com/alan-ai/alan-sdk-flutter) - Voice assistant SDK for Flutter by Alan AI lets you quickly build a voice assistant or chatbot for your app.
 - [omniauth/omniauth](https://github.com/omniauth/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware.
 - [worlddb/world.db](https://github.com/worlddb/world.db) - world.db - open world database (world.db) command line tool and libraries
 - [ninoseki/securitytrails](https://github.com/ninoseki/securitytrails) - SecurityTrails API wrapper for Ruby
@@ -8834,6 +8861,7 @@
 
 ## Rust 
 
+- [benwebber/tunnelblickctl](https://github.com/benwebber/tunnelblickctl) - :lock: Command-line interface for Tunnelblick
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
 - [Nukesor/pueue-lib](https://github.com/Nukesor/pueue-lib) - A library to interact with Pueue
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
@@ -9121,6 +9149,9 @@
 
 ## Shell 
 
+- [haproxytech/haproxy](https://github.com/haproxytech/haproxy) - HAProxy related stuff: scripts, configs, etc...
+- [janeczku/haproxy-acme-validation-plugin](https://github.com/janeczku/haproxy-acme-validation-plugin) - :four_leaf_clover: Zero-downtime ACME / Let's Encrypt certificate issuing for HAProxy
+- [phpfunk/alfred-tunnelblick](https://github.com/phpfunk/alfred-tunnelblick) - Work with Tunnelblick directly from Alfredapp.
 - [SixArm/uri-parser](https://github.com/SixArm/uri-parser) - Parse a URI or URL to its scheme, host, path, query, fragment, etc.
 - [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
 - [liberodark/crowdsec-dashboard](https://github.com/liberodark/crowdsec-dashboard) - 
@@ -10619,7 +10650,7 @@
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
-- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web, Windows, and Linux
+- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web and Windows
 - [DBuit/thermostat-popup-card](https://github.com/DBuit/thermostat-popup-card) - Lovelace card to use as custom pop-up for thermostat in homekit style
 - [DBuit/light-popup-card](https://github.com/DBuit/light-popup-card) - Lovelace card to use as custom pop-up for light in homekit style
 - [dylandoamaral/uptime-card](https://github.com/dylandoamaral/uptime-card) - Minimalistic uptime card for Home Assistant Lovelace UI
@@ -10669,12 +10700,12 @@
 - [GoogleChrome/chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
 - [davidmerrique/homebridge-adguardhome](https://github.com/davidmerrique/homebridge-adguardhome) - AdGuard Home plugin for Homebridge
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [nurikk/zigbee2mqtt-frontend](https://github.com/nurikk/zigbee2mqtt-frontend) - Zigbee2MQTT frontend
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
