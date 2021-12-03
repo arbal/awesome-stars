@@ -188,6 +188,7 @@
 
 ## C 
 
+- [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
 - [berkayunal/haproxy-geoip-iprange](https://github.com/berkayunal/haproxy-geoip-iprange) - IP Ranges for Haproxy
 - [loretoparisi/kakasi](https://github.com/loretoparisi/kakasi) - KAKASI - Kanji Kana Simple Inverter (code mirror)
 - [jitsi/robotjs](https://github.com/jitsi/robotjs) - Node.js Desktop Automation.
@@ -1526,6 +1527,11 @@
 
 ## Go 
 
+- [ledongthuc/gohowmuch](https://github.com/ledongthuc/gohowmuch) - Cryptocurrencies prices and graph on the terminal
+- [cristim/ec2-instances-info](https://github.com/cristim/ec2-instances-info) - Golang library for specs and pricing information about AWS EC2 instances based on the data from www.ec2instances.info
+- [trustwallet/watchmarket](https://github.com/trustwallet/watchmarket) - Watchmarket is an aggregation and caching service for blockchain market information
+- [cybozu-go/usocksd](https://github.com/cybozu-go/usocksd) - SOCKS4/5 server library and command in Go
+- [cybozu-go/transocks](https://github.com/cybozu-go/transocks) - Transparent SOCKS5 / HTTP proxy in Go
 - [arbal/gphotos-cdp](https://github.com/arbal/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Performing TCP handshake without ACK in Go, useful for health checking, that is SYN, SYN-ACK, RST.
 - [pires/go-proxyproto](https://github.com/pires/go-proxyproto) - A Go library implementation of the PROXY protocol, versions 1 and 2.
@@ -3561,6 +3567,8 @@
 
 ## JavaScript 
 
+- [coinranking/exchanges](https://github.com/coinranking/exchanges) - An open source JavaScript library for fetching tickers from cryptocurrency exchanges
+- [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
 - [jackpinetech/haproxy-sdk](https://github.com/jackpinetech/haproxy-sdk) - Promise-based Javascript SDK for HAProxy management
 - [jackpinetech/haproxy-api](https://github.com/jackpinetech/haproxy-api) - ReSTful, Promise-based Javascript API server for HAProxy management
 - [rustygeldmacher/haproxy-ssl-example](https://github.com/rustygeldmacher/haproxy-ssl-example) - Example setup for SSL termination and re-encryption
@@ -3604,7 +3612,7 @@
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos www.star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
 - [iobio/minion](https://github.com/iobio/minion) - Server wrapper that turns command line tools into web services
 - [urlint/urlint](https://github.com/urlint/urlint) - Checking the availability of links from your CLI
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -4613,7 +4621,7 @@
 - [danielfm/prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
@@ -5521,6 +5529,8 @@
 
 ## Others 
 
+- [arbal/alfred-speedtest](https://github.com/arbal/alfred-speedtest) - This workflow checks your internet speed using a quick 30 second CLI tool. It outputs the speed as a notification, displaying both the upload and download speeds.
+- [mmroczka/alfred-speedtest](https://github.com/mmroczka/alfred-speedtest) - This workflow checks your internet speed using a quick 30 second CLI tool. It outputs the speed as a notification, displaying both the upload and download speeds.
 - [vortextangent/gphotos-cdp](https://github.com/vortextangent/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [crowdsecurity/grafana-dashboards](https://github.com/crowdsecurity/grafana-dashboards) - Grafana dashboards for Crowdsec monitoring using Prometheus
 - [klausagnoletti/crowdsec-honeypot](https://github.com/klausagnoletti/crowdsec-honeypot) - Contains docker-compose and config files for running a crowdsec-based honeyput using various helper containers.
@@ -6061,7 +6071,6 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 - [gopala-kr/summary](https://github.com/gopala-kr/summary) - summaries of all the papers I read
 - [gopala-kr/trending-repos](https://github.com/gopala-kr/trending-repos) - trending repositories and news related to AI
@@ -6564,6 +6573,11 @@
 
 ## Python 
 
+- [Crinibus/scraper](https://github.com/Crinibus/scraper) - For scraping and tracking prices of products.
+- [adrijano/crypto-watcher](https://github.com/adrijano/crypto-watcher) - Real-time cryptocurrencies prices.
+- [Corfucinas/crypto-candlesticks](https://github.com/Corfucinas/crypto-candlesticks) - Download candlestick data fast & easy for analysis
+- [achyutjoshi/Flight-Prices-Scraper](https://github.com/achyutjoshi/Flight-Prices-Scraper) - Automated Script to scrape flight prices from any website into a csv format
+- [GurpreetKang/BitwardenDecrypt](https://github.com/GurpreetKang/BitwardenDecrypt) - Decrypts an encrypted Bitwarden data.json file.
 - [yeti-platform/yeti](https://github.com/yeti-platform/yeti) - Your Everyday Threat Intelligence
 - [9b/netinfo](https://github.com/9b/netinfo) - Simple IP enrichment service and API wrapping PyASN and MaxMind GeoIP.
 - [apprell/proxmox-autosnap](https://github.com/apprell/proxmox-autosnap) - ZFS automatic snapshot script for Proxmox VE 5
@@ -8861,6 +8875,7 @@
 
 ## Rust 
 
+- [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [benwebber/tunnelblickctl](https://github.com/benwebber/tunnelblickctl) - :lock: Command-line interface for Tunnelblick
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
 - [Nukesor/pueue-lib](https://github.com/Nukesor/pueue-lib) - A library to interact with Pueue
@@ -9149,6 +9164,8 @@
 
 ## Shell 
 
+- [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥
+- [maximbaz/dmenu-term](https://github.com/maximbaz/dmenu-term) - dmenu as a terminal with fuzzy filter
 - [haproxytech/haproxy](https://github.com/haproxytech/haproxy) - HAProxy related stuff: scripts, configs, etc...
 - [janeczku/haproxy-acme-validation-plugin](https://github.com/janeczku/haproxy-acme-validation-plugin) - :four_leaf_clover: Zero-downtime ACME / Let's Encrypt certificate issuing for HAProxy
 - [phpfunk/alfred-tunnelblick](https://github.com/phpfunk/alfred-tunnelblick) - Work with Tunnelblick directly from Alfredapp.
@@ -10915,6 +10932,7 @@
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) - A Wake on Lan plugin for Homebridge
 - [theodo/falco](https://github.com/theodo/falco) - Falco helps you monitor, analyze, and optimize your websites.
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [PinkyJie/google-actions-github-bot](https://github.com/PinkyJie/google-actions-github-bot) - A Google Assistant Action (with an invocation name of "Github Trending") which tells you the trending repositories on Github and more.
