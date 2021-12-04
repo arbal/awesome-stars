@@ -2624,7 +2624,7 @@
 - [influxdata/kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data
 - [SCHKN/systemd-monitoring](https://github.com/SCHKN/systemd-monitoring) - a simple way to monitor systemd services using go, influxdb and chronograf
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [shuza/mqtt-cli](https://github.com/shuza/mqtt-cli) - A cli application written in Go to provide terminal interaction with EMQ
@@ -5336,7 +5336,7 @@
 - [instrumentisto/coturn-docker-image](https://github.com/instrumentisto/coturn-docker-image) - [Closed] Coturn TURN server Docker image
 - [fniephaus/alfred-network](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands
 - [WICG/floc](https://github.com/WICG/floc) - FLoC
-- [nxhack/openwrt-node-packages](https://github.com/nxhack/openwrt-node-packages) - OpenWrt Project Node.js packages. v12.x LTS and v14.x LTS and v16.x Current
+- [nxhack/openwrt-node-packages](https://github.com/nxhack/openwrt-node-packages) - OpenWrt Project Node.js packages. v12.x LTS and v14.x LTS and v16.x LTS
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 - [r-pufky/digikam](https://github.com/r-pufky/digikam) - Digikam docker build repository
 - [motion-ai/addons](https://github.com/motion-ai/addons) - Home-Assistant add-ons
@@ -5490,7 +5490,6 @@
 - [whomwah/qlstephen](https://github.com/whomwah/qlstephen) - A QuickLook plugin that lets you view plain text files without a file extension
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
 - [kerma/defaultbrowser](https://github.com/kerma/defaultbrowser) - Command line tool for getting and setting a default browser (HTTP handler) in Mac OS X
-- [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) - Add new abilities to the macOS keep-awake utility, Amphetamine.
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [trufae/Therm](https://github.com/trufae/Therm) - Therm is an iTerm2 fork that aims to have good defaults and minimum features
@@ -5977,7 +5976,6 @@
 - [linuxenko/awesome-smarttv](https://github.com/linuxenko/awesome-smarttv) - A curated list of smart :tv: frameworks, libraries, software and resources.
 - [allisonburtch/micjammer](https://github.com/allisonburtch/micjammer) - Schematic for an ultrasonic jammer that produces noise at 20kHz, around the range of the iPhone MEMS microphone. It's a way to non-invasively mute your microphones.
 - [rob-med/awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - List of tools & datasets for anomaly detection on time-series data.
-- [ntop/docker-ntop](https://github.com/ntop/docker-ntop) - A collection of Dockerfile for running ntop applications on Docker
 - [brasilikum/alfred-siri](https://github.com/brasilikum/alfred-siri) - Alfred Workflow to query Siri by keyword or as a fallback
 - [mmatuska/zfs-stats](https://github.com/mmatuska/zfs-stats) - ZFS statistics tool
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
@@ -8509,7 +8507,7 @@
 - [adolfosilva/libgen.py](https://github.com/adolfosilva/libgen.py) - Download books from gen.lib.rus.ec, libgen.io, libgen.pw, b-ok.org and bookfi.net
 - [luka1199/geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -8798,6 +8796,7 @@
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [alerta/docker-alerta](https://github.com/alerta/docker-alerta) - Run alerta in a docker container
 - [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [pothosware/homebrew-pothos](https://github.com/pothosware/homebrew-pothos) - Homebrew formulas for Pothos and SoapySDR
@@ -8949,7 +8948,7 @@
 - [valeriansaliou/bloom](https://github.com/valeriansaliou/bloom) - :cherry_blossom: HTTP REST API caching middleware, to be used between load balancers and REST API workers.
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, resource-friendly link checker written in Rust. Finds broken hyperlinks and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [darrenldl/blockyarchive](https://github.com/darrenldl/blockyarchive) - Blocky archive - multithreaded archiver offering bit rot protection and sector level recoverability
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [maelstrom-rs/maelstrom](https://github.com/maelstrom-rs/maelstrom) - High performance Matrix Home Server in rust.
@@ -9778,7 +9777,6 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 600+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [jumanjihouse/docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan) - Qualys sslabs-scan utility in a tiny docker image
-- [alerta/docker-alerta](https://github.com/alerta/docker-alerta) - Run alerta in a docker container
 - [bvis/docker-prometheus-swarm](https://github.com/bvis/docker-prometheus-swarm) - Sample prometheus that can be used as a sample to get Swarm cluster metrics
 - [MaibornWolff/Azure_Kinect_RTSP-Streamer](https://github.com/MaibornWolff/Azure_Kinect_RTSP-Streamer) - This Repository contains a dockerized RTSP-Streamer / Server for streaming the Kinects RGB- and Depth-Stream to network by merging them into one Video.
 - [mstinaff/PMS_Updater](https://github.com/mstinaff/PMS_Updater) - Shell script for updating the Plex Media Server inside the FreeNAS Plex plugin
@@ -9811,6 +9809,7 @@
 - [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
 - [iminehard/gpunoise](https://github.com/iminehard/gpunoise) - evaluating the spurious RF emissions from open air crypto currency mining "rigs"
 - [farfalleflickan/Myflix](https://github.com/farfalleflickan/Myflix) - Myflix, a Netflix clone!
+- [ntop/docker-ntop](https://github.com/ntop/docker-ntop) - A collection of Dockerfile for running ntop applications on Docker
 - [rasschaert/xargs-ssh](https://github.com/rasschaert/xargs-ssh) - Run ssh in parallel using xargs
 - [autotyed/autotyed](https://github.com/autotyed/autotyed) - Code and Ideas for tying all your apps into a single web interface
 - [dfaust/mkv-bash-tools](https://github.com/dfaust/mkv-bash-tools) - A collection of BASH scripts for processing mkv files
@@ -10424,6 +10423,7 @@
 - [BenziAhamed/Menu-Bar-Search](https://github.com/BenziAhamed/Menu-Bar-Search) - Quickly search through menu options of the front-most application - Alfred Workflow
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 - [kiwix/apple](https://github.com/kiwix/apple) - Kiwix for offline access on iOS and macOS
+- [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [samuelmeuli/glance](https://github.com/samuelmeuli/glance) - 🔎 All-in-one Quick Look plugin
 - [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
 - [onevcat/Hedwig](https://github.com/onevcat/Hedwig) - Send email to any SMTP server like a boss, in Swift and cross-platform
