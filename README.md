@@ -879,6 +879,7 @@
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [AmokHuginnsson/replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints and Windows and is BSD licensed.
+- [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [webcamoid/akvirtualcamera](https://github.com/webcamoid/akvirtualcamera) - akvirtualcamera, virtual camera for Mac and Windows
 - [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -1288,6 +1289,7 @@
 
 ## Dockerfile 
 
+- [kriation/docker-ethminer](https://github.com/kriation/docker-ethminer) - A docker container with a CUDA enabled build of ethminer
 - [netdisco/netdisco-docker](https://github.com/netdisco/netdisco-docker) - Docker images for App::Netdisco
 - [arbal/docker-multitor](https://github.com/arbal/docker-multitor) - 
 - [loganmarchione/hassos-addons](https://github.com/loganmarchione/hassos-addons) - Home Assistant Add-ons
@@ -1759,7 +1761,6 @@
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [maxwo/snmp_notifier](https://github.com/maxwo/snmp_notifier) - A webhook to relay Prometheus alerts as SNMP traps, because sometimes, you have to deal with legacy
 - [tomtom-international/alertmanager-webhook-logger](https://github.com/tomtom-international/alertmanager-webhook-logger) - Generates (structured) log messages from Prometheus AlertManager webhook notifier.
-- [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges.
 - [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -3567,6 +3568,7 @@
 
 ## JavaScript 
 
+- [HumanExposure/factotum](https://github.com/HumanExposure/factotum) - general purpose curation of exposure science data
 - [coinranking/exchanges](https://github.com/coinranking/exchanges) - An open source JavaScript library for fetching tickers from cryptocurrency exchanges
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
 - [jackpinetech/haproxy-sdk](https://github.com/jackpinetech/haproxy-sdk) - Promise-based Javascript SDK for HAProxy management
@@ -3612,7 +3614,7 @@
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos. Visit https://star-history.com.
 - [iobio/minion](https://github.com/iobio/minion) - Server wrapper that turns command line tools into web services
 - [urlint/urlint](https://github.com/urlint/urlint) - Checking the availability of links from your CLI
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -5528,6 +5530,8 @@
 
 ## Others 
 
+- [arbal/data_mgmt_scripts](https://github.com/arbal/data_mgmt_scripts) - Repository for storage of data management scripts, such as scripts used to download new data, or scripts used to extract data
+- [arbal/docker-ethminer](https://github.com/arbal/docker-ethminer) - A docker container with a CUDA enabled build of ethminer
 - [arbal/alfred-speedtest](https://github.com/arbal/alfred-speedtest) - This workflow checks your internet speed using a quick 30 second CLI tool. It outputs the speed as a notification, displaying both the upload and download speeds.
 - [mmroczka/alfred-speedtest](https://github.com/mmroczka/alfred-speedtest) - This workflow checks your internet speed using a quick 30 second CLI tool. It outputs the speed as a notification, displaying both the upload and download speeds.
 - [vortextangent/gphotos-cdp](https://github.com/vortextangent/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
@@ -6571,6 +6575,7 @@
 
 ## Python 
 
+- [HumanExposure/data_mgmt_scripts](https://github.com/HumanExposure/data_mgmt_scripts) - Repository for storage of data management scripts, such as scripts used to download new data, or scripts used to extract data
 - [Crinibus/scraper](https://github.com/Crinibus/scraper) - For scraping and tracking prices of products.
 - [adrijano/crypto-watcher](https://github.com/adrijano/crypto-watcher) - Real-time cryptocurrencies prices.
 - [Corfucinas/crypto-candlesticks](https://github.com/Corfucinas/crypto-candlesticks) - Download candlestick data fast & easy for analysis
@@ -9056,7 +9061,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [Eonm/refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -9163,6 +9168,8 @@
 
 ## Shell 
 
+- [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) - An X11 server and client libraries for macOS
+- [dariusbakunas/truenas-go-sdk](https://github.com/dariusbakunas/truenas-go-sdk) - Go SDK for interacting with TrueNAS APIs (generated by Openapi Generator)
 - [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥
 - [maximbaz/dmenu-term](https://github.com/maximbaz/dmenu-term) - dmenu as a terminal with fuzzy filter
 - [haproxytech/haproxy](https://github.com/haproxytech/haproxy) - HAProxy related stuff: scripts, configs, etc...
