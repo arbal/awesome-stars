@@ -188,6 +188,7 @@
 
 ## C 
 
+- [ericmandel/xpa](https://github.com/ericmandel/xpa) - seamless communication between many kinds of Unix programs, including X programs and Tcl/Tk programs.
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
 - [berkayunal/haproxy-geoip-iprange](https://github.com/berkayunal/haproxy-geoip-iprange) - IP Ranges for Haproxy
 - [loretoparisi/kakasi](https://github.com/loretoparisi/kakasi) - KAKASI - Kanji Kana Simple Inverter (code mirror)
@@ -1490,6 +1491,7 @@
 
 ## Elm 
 
+- [eikek/sharry](https://github.com/eikek/sharry) - Sharry is a self-hosted file sharing web application.
 - [gingko/client](https://github.com/gingko/client) - Gingko Writer. Tree-based writing software, written in Elm.
 - [gicentre/elm-vega](https://github.com/gicentre/elm-vega) - Elm - Vega Integration for functional declarative visualization
 - [charypar/swarm-dashboard](https://github.com/charypar/swarm-dashboard) - A simple monitoring dashboard for Docker in Swarm Mode.
@@ -1776,7 +1778,7 @@
 - [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) - Time based rotating file writer
 - [rigado/ble](https://github.com/rigado/ble) - Bluetooth Low Energy for Linux / macOS
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
-- [ricardbejarano/dnsmasq_exporter](https://github.com/ricardbejarano/dnsmasq_exporter) - Prometheus metrics for Dnsmasq
+- [ricardbejarano/dnsmasq_exporter](https://github.com/ricardbejarano/dnsmasq_exporter) - Prometheus exporter for Dnsmasq
 - [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter) - dnsmasq exporter for Prometheus
 - [ncabatoff/sensor-exporter](https://github.com/ncabatoff/sensor-exporter) - Prometheus exporter for sensor data like temperature and fan speed
 - [andmarios/sensor_exporter](https://github.com/andmarios/sensor_exporter) - A simple sensor_exporter for prometheus. Currently supporting coretemp on linux, hddtemp daemon, NUT's upsd.
@@ -3568,6 +3570,7 @@
 
 ## JavaScript 
 
+- [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [HumanExposure/factotum](https://github.com/HumanExposure/factotum) - general purpose curation of exposure science data
 - [coinranking/exchanges](https://github.com/coinranking/exchanges) - An open source JavaScript library for fetching tickers from cryptocurrency exchanges
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
@@ -3614,7 +3617,7 @@
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos. Visit https://star-history.com.
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [iobio/minion](https://github.com/iobio/minion) - Server wrapper that turns command line tools into web services
 - [urlint/urlint](https://github.com/urlint/urlint) - Checking the availability of links from your CLI
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -5785,7 +5788,6 @@
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [evilsocket/bettercap](https://github.com/evilsocket/bettercap) - DEPRECATED, bettercap developement moved here: https://github.com/bettercap/bettercap
 - [oziee/photoprism-places](https://github.com/oziee/photoprism-places) - Reverse Geocoding API
-- [abhineet123/Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) - Collection of papers, datasets, code and other resources for object tracking and detection using deep learning
 - [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc) - Documentation for Crossref's REST API. Issues moved to https://gitlab.com/crossref/issues
@@ -6575,6 +6577,7 @@
 
 ## Python 
 
+- [jertel/vuegraf](https://github.com/jertel/vuegraf) - Populate metrics from your Emporia Vue energy monitoring devices into an InfluxDB
 - [HumanExposure/data_mgmt_scripts](https://github.com/HumanExposure/data_mgmt_scripts) - Repository for storage of data management scripts, such as scripts used to download new data, or scripts used to extract data
 - [Crinibus/scraper](https://github.com/Crinibus/scraper) - For scraping and tracking prices of products.
 - [adrijano/crypto-watcher](https://github.com/adrijano/crypto-watcher) - Real-time cryptocurrencies prices.
@@ -8662,7 +8665,7 @@
 ## Rascal 
 
 - [svlsResearch/ha-mikrotik](https://github.com/svlsResearch/ha-mikrotik) - High availability code for Mikrotik routers
-- [jmind-systems/wanhealththing](https://github.com/jmind-systems/wanhealththing) - RouterOS advanced WAN health monitoring
+- [olkovin/wanhealththing](https://github.com/olkovin/wanhealththing) - RouterOS advanced WAN health monitoring
 - [Lennuj420/mikrotik-config](https://github.com/Lennuj420/mikrotik-config) - My mikrotik configuration files
 - [maxslug/mikrotik_maxslug](https://github.com/maxslug/mikrotik_maxslug) - Mikrotik configuration files for a moderately complex home network with managed access points, FTTH with authentication, multiple ISPs with failover, secure DNS, and VLANs.
 - [elmaxid/vrrp_with_sync_mikrotik](https://github.com/elmaxid/vrrp_with_sync_mikrotik) - Script for VRRP with sync config for MikroTik RouterOS
@@ -9168,6 +9171,7 @@
 
 ## Shell 
 
+- [mdegat01/addon-sharry](https://github.com/mdegat01/addon-sharry) - Sharry for Home Assistant
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) - An X11 server and client libraries for macOS
 - [dariusbakunas/truenas-go-sdk](https://github.com/dariusbakunas/truenas-go-sdk) - Go SDK for interacting with TrueNAS APIs (generated by Openapi Generator)
 - [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥
@@ -9607,6 +9611,7 @@
 - [inthreedee/photoprism-transfer-album](https://github.com/inthreedee/photoprism-transfer-album) - Transfer a Google Photos album to a new Photoprism album
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [cec/wait-for-endpoint](https://github.com/cec/wait-for-endpoint) - bash script waiting until a given endpoint returns 200 or until timeout threshold is reached
+- [abhineet123/Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) - Collection of papers, datasets, code and other resources for object tracking and detection using deep learning
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [HenrikBengtsson/speedtest-cli-extras](https://github.com/HenrikBengtsson/speedtest-cli-extras) - :signal_strength: Tools to enhance the speedtest-cli network tools
 - [emqx/emqx-rel](https://github.com/emqx/emqx-rel) - Release Project for EMQ X Broker prior to 4.3. Newer releases are built here: https://github.com/emqx/emqx
@@ -10495,6 +10500,7 @@
 
 ## TypeScript 
 
+- [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [pranshuchittora/autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from 📁 node_modules
 - [calebj0seph/spectro](https://github.com/calebj0seph/spectro) - 🎶 Real-time audio spectrogram generator for the web
