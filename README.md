@@ -188,6 +188,10 @@
 
 ## C 
 
+- [keenerd/jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
+- [jpmens/msoak](https://github.com/jpmens/msoak) - MQTT subscribe to mutliple servers /  topics simultaneously
+- [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [ericmandel/xpa](https://github.com/ericmandel/xpa) - seamless communication between many kinds of Unix programs, including X programs and Tcl/Tk programs.
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
 - [berkayunal/haproxy-geoip-iprange](https://github.com/berkayunal/haproxy-geoip-iprange) - IP Ranges for Haproxy
@@ -1290,6 +1294,9 @@
 
 ## Dockerfile 
 
+- [haproxytech/haproxy-docker-alpine](https://github.com/haproxytech/haproxy-docker-alpine) - HAProxy CE Docker Alpine image
+- [ricardbejarano/haproxy](https://github.com/ricardbejarano/haproxy) - 🏎  Built-from-source container image of the HAProxy load balancer
+- [ricardbejarano/snmp_exporter](https://github.com/ricardbejarano/snmp_exporter) - 🧯 Built-from-source container image of Prometheus' SNMP exporter
 - [kriation/docker-ethminer](https://github.com/kriation/docker-ethminer) - A docker container with a CUDA enabled build of ethminer
 - [netdisco/netdisco-docker](https://github.com/netdisco/netdisco-docker) - Docker images for App::Netdisco
 - [arbal/docker-multitor](https://github.com/arbal/docker-multitor) - 
@@ -1531,6 +1538,11 @@
 
 ## Go 
 
+- [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [grafana/cortex-tools](https://github.com/grafana/cortex-tools) - A set of powerful command line tools for interacting with cortex and friends.
+- [deref/exo](https://github.com/deref/exo) - A process manager & log viewer for dev
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [ledongthuc/gohowmuch](https://github.com/ledongthuc/gohowmuch) - Cryptocurrencies prices and graph on the terminal
 - [cristim/ec2-instances-info](https://github.com/cristim/ec2-instances-info) - Golang library for specs and pricing information about AWS EC2 instances based on the data from www.ec2instances.info
 - [trustwallet/watchmarket](https://github.com/trustwallet/watchmarket) - Watchmarket is an aggregation and caching service for blockchain market information
@@ -3199,6 +3211,7 @@
 
 ## HTML 
 
+- [kennytm/grafana-export](https://github.com/kennytm/grafana-export) - Export Grafana dashboard snapshots as local JSON files
 - [acgeospatial/awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
@@ -3570,6 +3583,11 @@
 
 ## JavaScript 
 
+- [Khauri/Turtus](https://github.com/Khauri/Turtus) - A self hosted rabb.it clone.
+- [sanity-io/groq-js](https://github.com/sanity-io/groq-js) - JavaScript implementation of GROQ, the query language for JSON
+- [Yord/pxi](https://github.com/Yord/pxi) - 🧚 pxi (pixie) is a small, fast, and magical command-line data processor similar to jq, mlr, and awk.
+- [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
+- [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [HumanExposure/factotum](https://github.com/HumanExposure/factotum) - general purpose curation of exposure science data
 - [coinranking/exchanges](https://github.com/coinranking/exchanges) - An open source JavaScript library for fetching tickers from cryptocurrency exchanges
@@ -4275,7 +4293,6 @@
 - [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
 - [IonicaBizau/image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) - :floppy_disk: A Node.js module that converts images to ASCII art.
-- [Yord/pxi](https://github.com/Yord/pxi) - 🧚 pxi (pixie) is a small, fast, and magical command-line data processor similar to jq, mlr, and awk.
 - [kaktus40/Cesium-GeoserverTerrainProvider](https://github.com/kaktus40/Cesium-GeoserverTerrainProvider) - plug in to use geoserver as terrain provider
 - [NASAWorldWind/WorldWindServerKit](https://github.com/NASAWorldWind/WorldWindServerKit) - The NASA WorldWind Server Kit (WWSK) is an open source Java project that assembles GeoServer for easy distribution and implementation.
 - [NASAWorldWind/WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) - The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
@@ -5118,7 +5135,7 @@
 - [hassio-addons/addon-bitwarden](https://github.com/hassio-addons/addon-bitwarden) - Bitwarden (Vaultwarden) - Home Assistant Community Add-ons
 - [ooni/sysadmin](https://github.com/ooni/sysadmin) - System administration tools
 - [softasap/sa-prometheus-exporters](https://github.com/softasap/sa-prometheus-exporters) - Collection of the preselected prometheus exporters to be installed on a target nodes
-- [icancclearynow/ansible-role-zsh](https://github.com/icancclearynow/ansible-role-zsh) - Ansible role to install ZSH, with the ohmyzshplugin manager
+- [iancleary/ansible-role-zsh](https://github.com/iancleary/ansible-role-zsh) - Ansible role to install ZSH, with the ohmyzshplugin manager
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [homielabs/ansible](https://github.com/homielabs/ansible) - Speedy config time
 - [Akipe/ansible_system_recipes](https://github.com/Akipe/ansible_system_recipes) - Personal Ansible recipes for manage my computers & servers.
@@ -5533,6 +5550,11 @@
 
 ## Others 
 
+- [promlabs/promlens-public](https://github.com/promlabs/promlens-public) - Public repository for PromLens documentation, issues, bugs, and feature requests
+- [arbal/WebMap](https://github.com/arbal/WebMap) - WebMap-Nmap Web Dashboard and Reporting
+- [arbal/vscode-highlight-bad-chars](https://github.com/arbal/vscode-highlight-bad-chars) - Extension to highlight bad characters such as No-break space ( ) and the Greek question mark (;) in your source files.
+- [form3tech-oss/haproxy-data-plane-api-client](https://github.com/form3tech-oss/haproxy-data-plane-api-client) - Golang client for the HAProxy Data Plane API.
+- [arbal/snmp_exporter](https://github.com/arbal/snmp_exporter) - 🧯 Built-from-source container image of Prometheus' SNMP exporter
 - [arbal/data_mgmt_scripts](https://github.com/arbal/data_mgmt_scripts) - Repository for storage of data management scripts, such as scripts used to download new data, or scripts used to extract data
 - [arbal/docker-ethminer](https://github.com/arbal/docker-ethminer) - A docker container with a CUDA enabled build of ethminer
 - [arbal/alfred-speedtest](https://github.com/arbal/alfred-speedtest) - This workflow checks your internet speed using a quick 30 second CLI tool. It outputs the speed as a notification, displaying both the upload and download speeds.
@@ -6577,6 +6599,7 @@
 
 ## Python 
 
+- [takala-jp/zabbix-proxmox](https://github.com/takala-jp/zabbix-proxmox) - Monitor a Proxmox cluster with Zabbix
 - [jertel/vuegraf](https://github.com/jertel/vuegraf) - Populate metrics from your Emporia Vue energy monitoring devices into an InfluxDB
 - [HumanExposure/data_mgmt_scripts](https://github.com/HumanExposure/data_mgmt_scripts) - Repository for storage of data management scripts, such as scripts used to download new data, or scripts used to extract data
 - [Crinibus/scraper](https://github.com/Crinibus/scraper) - For scraping and tracking prices of products.
@@ -8246,7 +8269,7 @@
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
 - [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
@@ -8699,6 +8722,7 @@
 
 ## Ruby 
 
+- [defunkt/repl](https://github.com/defunkt/repl) - Sometimes you need a REPL. Unmaintained, sorry.
 - [oscardelben/github-trends](https://github.com/oscardelben/github-trends) - Provides a RSS Feed for most watched and most forked repos on Github
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [ninthwalker/NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
@@ -9171,6 +9195,10 @@
 
 ## Shell 
 
+- [xTITUSMAXIMUSX/iocage-plugin-zabbix5-server](https://github.com/xTITUSMAXIMUSX/iocage-plugin-zabbix5-server) - 
+- [kristopolous/TickTick](https://github.com/kristopolous/TickTick) - JSON in your Bash scripts
+- [n27051538/grafana-import-export](https://github.com/n27051538/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
+- [IgorKha/Grafana-Mikrotik](https://github.com/IgorKha/Grafana-Mikrotik) - Grafana dashboard for Mikrotik/routerOS. Prometheus/SNMP
 - [mdegat01/addon-sharry](https://github.com/mdegat01/addon-sharry) - Sharry for Home Assistant
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) - An X11 server and client libraries for macOS
 - [dariusbakunas/truenas-go-sdk](https://github.com/dariusbakunas/truenas-go-sdk) - Go SDK for interacting with TrueNAS APIs (generated by Openapi Generator)
@@ -10500,6 +10528,8 @@
 
 ## TypeScript 
 
+- [memoryhole/jjo](https://github.com/memoryhole/jjo) - a small utility to create JSON objects, written for Node.js
+- [WengerK/vscode-highlight-bad-chars](https://github.com/WengerK/vscode-highlight-bad-chars) - Extension to highlight bad characters such as No-break space ( ) and the Greek question mark (;) in your source files.
 - [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [pranshuchittora/autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from 📁 node_modules
