@@ -478,7 +478,7 @@
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [shakibamoshiri/rinp](https://github.com/shakibamoshiri/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
-- [coinfoundry/miningcore](https://github.com/coinfoundry/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows.
+- [oliverw/miningcore](https://github.com/oliverw/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
 - [introlab/odas](https://github.com/introlab/odas) - ODAS: Open embeddeD Audition System
@@ -640,7 +640,6 @@
 - [nsacyber/simon-speck-supercop](https://github.com/nsacyber/simon-speck-supercop) - Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit. #nsacyber
 - [linux-apfs/apfsprogs](https://github.com/linux-apfs/apfsprogs) - Experimental APFS tools for linux
 - [dosfstools/dosfstools](https://github.com/dosfstools/dosfstools) - dosfstools consists of the programs mkfs.fat, fsck.fat and fatlabel to create, check and label file systems of the FAT family.
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [ChrisJohnsen/tmux-MacOSX-pasteboard](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [trailofbits/osquery-extensions](https://github.com/trailofbits/osquery-extensions) - osquery extensions by Trail of Bits
@@ -721,7 +720,6 @@
 - [confused-Techie/Tabby](https://github.com/confused-Techie/Tabby) - Tabby, a Self Hosted way to save and manage Bookmarks
 - [alexreich/RulesEngineEditor](https://github.com/alexreich/RulesEngineEditor) - Editor for Microsoft RulesEngine - Blazor UI library intended for integration in Web or Desktop
 - [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
-- [bridgedotnet/Bridge](https://github.com/bridgedotnet/Bridge) - :spades: C# to JavaScript compiler. Write modern mobile and web apps in C#. Run anywhere with Bridge.NET.
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
@@ -836,6 +834,7 @@
 
 ## C++ 
 
+- [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [Pacmanfan/SpectralRF](https://github.com/Pacmanfan/SpectralRF) - An SDR application that scans and identifies signals.
@@ -1375,6 +1374,7 @@
 - [hivemq/hivemq4-docker-images](https://github.com/hivemq/hivemq4-docker-images) - Official Docker Images for the Enterprise MQTT Broker HiveMQ
 - [Apipa169/Assistant-Relay-for-Hassio](https://github.com/Apipa169/Assistant-Relay-for-Hassio) - Send commands (including broadcasts) to the Google Assistant via Home Assistant
 - [linuxserver/docker-sonarr](https://github.com/linuxserver/docker-sonarr) - 
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [4km3/docker-dnsmasq](https://github.com/4km3/docker-dnsmasq) - My dnsmasq brings all the boys to the yard, and they're like, it's smaller than yours! -- @andyshinn
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker(🤏 10MB) image as 🧅 Tor SOCKS5 proxy 🛡
 - [sqawasmi/trafficserver-docker](https://github.com/sqawasmi/trafficserver-docker) - Docker build for Apache TrafficServer
@@ -2578,7 +2578,7 @@
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [inlets/inletsctl](https://github.com/inlets/inletsctl) - Create inlets servers on the top cloud platforms
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 - [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
@@ -2983,6 +2983,7 @@
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [lnxbil/docker-machine-driver-proxmox-ve](https://github.com/lnxbil/docker-machine-driver-proxmox-ve) - Docker Machine driver for Proxmox VE
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -3242,7 +3243,6 @@
 - [HyperCable/hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with  timescaledb openresty  redis and rails.
 - [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
 - [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
-- [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [bowood/KerberosSDR_finder](https://github.com/bowood/KerberosSDR_finder) - KerberosSDR Integration into a Google Maps API
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [qJake/HADotNet.CommandCenter](https://github.com/qJake/HADotNet.CommandCenter) - 📱 A web-based, wall-mountable command center for Home Assistant.
@@ -3583,6 +3583,10 @@
 
 ## JavaScript 
 
+- [45Drives/cockpit-autotier-status](https://github.com/45Drives/cockpit-autotier-status) - A module for cockpit to display the status of autotier.
+- [45Drives/cockpit-file-sharing](https://github.com/45Drives/cockpit-file-sharing) - A Cockpit plugin to easily manage samba and NFS file sharing.
+- [45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator) - A Featureful File Browser for Cockpit
+- [sindresorhus/strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [Khauri/Turtus](https://github.com/Khauri/Turtus) - A self hosted rabb.it clone.
 - [sanity-io/groq-js](https://github.com/sanity-io/groq-js) - JavaScript implementation of GROQ, the query language for JSON
 - [Yord/pxi](https://github.com/Yord/pxi) - 🧚 pxi (pixie) is a small, fast, and magical command-line data processor similar to jq, mlr, and awk.
@@ -4081,6 +4085,7 @@
 - [SpaceK33z/plex2netflix](https://github.com/SpaceK33z/plex2netflix) - See how much of your media from Plex is available on Netflix.
 - [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read) - A customizable read mode web extension.
 - [KorySchneider/wikit](https://github.com/KorySchneider/wikit) - Wikipedia summaries from the command line
+- [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [ahvlima/rcloneMon](https://github.com/ahvlima/rcloneMon) - Web based remote monitor for rclone jobs
 - [blgm/jfq](https://github.com/blgm/jfq) - JSONata on the command line
 - [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
@@ -4302,7 +4307,6 @@
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [manuelbieh/geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
-- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
@@ -5159,6 +5163,8 @@
 
 ## Julia 
 
+- [JuliaHealth/PubChemCrawler.jl](https://github.com/JuliaHealth/PubChemCrawler.jl) - Utilities to programmatically query the PubChem database
+- [longemen3000/ChemicalIdentifiers.jl](https://github.com/longemen3000/ChemicalIdentifiers.jl) - chemical identifiers (CAS, PubChemID, SMILES,InChI, InChI keys, names) from text search
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaSpace/SatelliteToolbox.jl](https://github.com/JuliaSpace/SatelliteToolbox.jl) - A toolbox for satellite analysis written in julia language.
 - [JunoLab/Weave.jl](https://github.com/JunoLab/Weave.jl) - Scientific reports/literate programming for Julia
@@ -5550,6 +5556,7 @@
 
 ## Others 
 
+- [arbal/netshoot](https://github.com/arbal/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [promlabs/promlens-public](https://github.com/promlabs/promlens-public) - Public repository for PromLens documentation, issues, bugs, and feature requests
 - [arbal/WebMap](https://github.com/arbal/WebMap) - WebMap-Nmap Web Dashboard and Reporting
 - [arbal/vscode-highlight-bad-chars](https://github.com/arbal/vscode-highlight-bad-chars) - Extension to highlight bad characters such as No-break space ( ) and the Greek question mark (;) in your source files.
@@ -6366,7 +6373,7 @@
 - [RealEnder/dwpa](https://github.com/RealEnder/dwpa) - Distributed WPA PSK auditor
 - [rlerdorf/opcache-status](https://github.com/rlerdorf/opcache-status) - A one-page opcache status page
 - [mhujer/yaml-sort-checker](https://github.com/mhujer/yaml-sort-checker) - Tool for checking if the YAML config files are alphabetically sorted
-- [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Open Source Appointment Scheduler
+- [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Online Appointment Scheduling
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
 - [firefly-iii/csv-importer](https://github.com/firefly-iii/csv-importer) - Tool repository: A Firefly III tool to import CSV files into Firefly III.
 - [dan-da/hd-wallet-addrs](https://github.com/dan-da/hd-wallet-addrs) - A command-line tool that performs Bitcoin wallet address discovery.
@@ -6599,6 +6606,11 @@
 
 ## Python 
 
+- [45Drives/autotier_exporter](https://github.com/45Drives/autotier_exporter) - Prometheus metrics exporter for autotier.
+- [shmcgrath/PyCloudTabs](https://github.com/shmcgrath/PyCloudTabs) - Python script that reads the iCloud tab database on macOS and pulls open tabs into an HTML Bookmark file.
+- [gorgitko/molminer](https://github.com/gorgitko/molminer) - Python library and command-line tool for extracting compounds from scientific literature. Written in Python.
+- [mcs07/PubChemPy](https://github.com/mcs07/PubChemPy) - Python wrapper for the PubChem PUG REST API.
+- [jingweikang/pubchemscrape](https://github.com/jingweikang/pubchemscrape) - Python script to scrape PubChem for chemical uses.
 - [takala-jp/zabbix-proxmox](https://github.com/takala-jp/zabbix-proxmox) - Monitor a Proxmox cluster with Zabbix
 - [jertel/vuegraf](https://github.com/jertel/vuegraf) - Populate metrics from your Emporia Vue energy monitoring devices into an InfluxDB
 - [HumanExposure/data_mgmt_scripts](https://github.com/HumanExposure/data_mgmt_scripts) - Repository for storage of data management scripts, such as scripts used to download new data, or scripts used to extract data
@@ -8722,6 +8734,7 @@
 
 ## Ruby 
 
+- [busyloop/vj](https://github.com/busyloop/vj) - vj - JSON Humanizer
 - [defunkt/repl](https://github.com/defunkt/repl) - Sometimes you need a REPL. Unmaintained, sorry.
 - [oscardelben/github-trends](https://github.com/oscardelben/github-trends) - Provides a RSS Feed for most watched and most forked repos on Github
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
@@ -8906,9 +8919,11 @@
 
 ## Rust 
 
+- [icewind1991/prometheus-mdns-rs](https://github.com/icewind1991/prometheus-mdns-rs) - mDNS service discovery for prometherus
+- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [benwebber/tunnelblickctl](https://github.com/benwebber/tunnelblickctl) - :lock: Command-line interface for Tunnelblick
-- [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker
+- [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [Nukesor/pueue-lib](https://github.com/Nukesor/pueue-lib) - A library to interact with Pueue
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
