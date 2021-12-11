@@ -190,6 +190,9 @@
 
 ## C 
 
+- [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
+- [uNetworking/uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
+- [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [keenerd/jshon](https://github.com/keenerd/jshon) - Jshon is a JSON parser designed for maximum convenience within the shell.
 - [jpmens/msoak](https://github.com/jpmens/msoak) - MQTT subscribe to mutliple servers /  topics simultaneously
@@ -1545,6 +1548,10 @@
 
 ## Go 
 
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+- [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
+- [pete911/certinfo](https://github.com/pete911/certinfo) - print x509 certificate info
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) - Supporting your devops by shortening your strings using common abbreviations and clever guesswork
@@ -3198,7 +3205,7 @@
 - [geb/geb](https://github.com/geb/geb) - Very Groovy Browser Automation
 - [atcol/docker-registry-ui](https://github.com/atcol/docker-registry-ui) - A web frontend/UI for easy private/local Docker Registry integration
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
 - [brendonanderson/wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [8x8Cloud/swagger2raml](https://github.com/8x8Cloud/swagger2raml) - A utility to generate RAML documentation from Swagger JSON
@@ -3236,7 +3243,7 @@
 - [Porco-Rosso/Ubersicht-Netdata](https://github.com/Porco-Rosso/Ubersicht-Netdata) - Netdata widget for Übersicht.
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
 - [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
-- [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Documentation for Techno Tim YouTube Videos
+- [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
@@ -3347,7 +3354,6 @@
 - [guillaumebriday/traefik-docker-ansible](https://github.com/guillaumebriday/traefik-docker-ansible) - 🐳 🐹  This is an Ansible playbook to install multiple Web applications on a single Ubuntu server with Docker and Traefik.
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
-- [viasite-ansible/ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [papis/papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
@@ -3598,6 +3604,8 @@
 
 ## JavaScript 
 
+- [smollweide/node-mock-server](https://github.com/smollweide/node-mock-server) - File based Node REST API mock server
+- [Dexus/pem](https://github.com/Dexus/pem) - Create private keys and certificates with node.js
 - [sindresorhus/alfred-npms](https://github.com/sindresorhus/alfred-npms) - Alfred 3 workflow to search for npm packages with npms.io
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core) - A JavaScript library for linkification stuff. Used by linkify-plus-plus.
@@ -5167,6 +5175,7 @@
 - [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
 - [Oefenweb/ansible-locales](https://github.com/Oefenweb/ansible-locales) - Ansible role to set up locales in Debian-like systems
+- [viasite-ansible/ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
 - [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata) - An Ansible role to install/configure Netdata
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [nodiscc/xsrv](https://github.com/nodiscc/xsrv) - [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
@@ -5582,6 +5591,9 @@
 
 ## Others 
 
+- [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite list of awesome :octocat: secrets.
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [arbal/chromium-hist-bookmarks](https://github.com/arbal/chromium-hist-bookmarks) - Search in Chromium History and Bookmarks
 - [arbal/nikto](https://github.com/arbal/nikto) - Nikto web server scanner
 - [arbal/netshoot](https://github.com/arbal/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [promlabs/promlens-public](https://github.com/promlabs/promlens-public) - Public repository for PromLens documentation, issues, bugs, and feature requests
@@ -6622,6 +6634,7 @@
 
 ## Pug 
 
+- [prism-break/prism-break](https://github.com/prism-break/prism-break) - Privacy/security-oriented software recommendations (mirrored from GitLab)
 - [cloudflare/1.1.1.1](https://github.com/cloudflare/1.1.1.1) - Cloudflare DNS resolver website.
 
 ## Puppet 
@@ -6634,6 +6647,11 @@
 
 ## Python 
 
+- [seanbreckenridge/oh-my-stars](https://github.com/seanbreckenridge/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
+- [alshapton/TinyMP](https://github.com/alshapton/TinyMP) - A MessagePack-based storage extension to tinydb using the http://msgpack.org
+- [msiemens/tinydb-smartcache](https://github.com/msiemens/tinydb-smartcache) - A smarter cache for TinyDB
+- [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
+- [libreops/doh-cli](https://github.com/libreops/doh-cli) - a simple DNS over HTTPS client
 - [moononournation/google-photos-object-aware-osd](https://github.com/moononournation/google-photos-object-aware-osd) - Google Photos photo frame server with ImageAI object aware OSD
 - [ohyicong/Google-Image-Scraper](https://github.com/ohyicong/Google-Image-Scraper) - A library to scrap google images
 - [45Drives/autotier_exporter](https://github.com/45Drives/autotier_exporter) - Prometheus metrics exporter for autotier.
@@ -8950,6 +8968,7 @@
 
 ## Rust 
 
+- [breard-r/acmed](https://github.com/breard-r/acmed) - ACME (RFC 8555) client daemon
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
 - [icewind1991/prometheus-mdns-rs](https://github.com/icewind1991/prometheus-mdns-rs) - mDNS service discovery for prometherus
@@ -9243,6 +9262,9 @@
 
 ## Shell 
 
+- [samrocketman/gitlab-mirrors](https://github.com/samrocketman/gitlab-mirrors) - A set of scripts adding the ability of managing remote mirrors to GitLab.
+- [dakshshah96/local-cert-generator](https://github.com/dakshshah96/local-cert-generator) - 🚀 A set of scripts to quickly generate a HTTPS certificate for your local development environment.
+- [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [Shopify/hookbook](https://github.com/Shopify/hookbook) - Hookbook provides a way to register multiple "DEBUG" hooks in bash, and their equivalents in zsh.
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
@@ -10673,7 +10695,7 @@
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
 - [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api) - The core API of openBalena
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
-- [Blaarkies/ksp-visual-calculator](https://github.com/Blaarkies/ksp-visual-calculator) - Online tool for Kerbal Space Program that helps to determine what type of comms dishes a certain satellite requires.
+- [Blaarkies/ksp-visual-calculator](https://github.com/Blaarkies/ksp-visual-calculator) - Online tool for Kerbal Space Program that helps players determine delta-v requirements for a mission, and what type of comms dishes a certain satellite requires.
 - [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
 - [agektmr/ProjectTabManager](https://github.com/agektmr/ProjectTabManager) - Have too many tabs opened on Chrome? This extension helps you organize your tabs on windows per projects.
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
@@ -10906,7 +10928,7 @@
 - [dhleong/babbling](https://github.com/dhleong/babbling) - Cast Streaming service videos to Chromecast
 - [CouchBuddy/couch-buddy](https://github.com/CouchBuddy/couch-buddy) - A Media Center with Cast support that belongs to this millennium
 - [pedromsilvapt/unicast](https://github.com/pedromsilvapt/unicast) - A node server that serves as a middleware for casting videos and other media to chromecast, and controlling the playthrough
-- [DevSnowflake/youtube-sr](https://github.com/DevSnowflake/youtube-sr) - Simple package for Node & Deno to make YouTube search easily
+- [DevAndromeda/youtube-sr](https://github.com/DevAndromeda/youtube-sr) - Simple package for Node & Deno to make YouTube search easily
 - [poulainv/tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [bespoken/bst](https://github.com/bespoken/bst) - :wrench: Bespoken Tools - Tools for making voice apps faster and better
@@ -11132,6 +11154,7 @@
 
 ## Vue 
 
+- [lvxianchao/the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [luke-feng/MAP](https://github.com/luke-feng/MAP) - This is a master project takes place in CSG at UZH.
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
