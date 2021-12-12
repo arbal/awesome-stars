@@ -1299,6 +1299,8 @@
 
 ## Dockerfile 
 
+- [arbal/flent-docker](https://github.com/arbal/flent-docker) - Dockerized flent app for RRUL Network test
+- [cdeex/flent-docker](https://github.com/cdeex/flent-docker) - Dockerized flent app for RRUL Network test
 - [haproxytech/haproxy-docker-alpine](https://github.com/haproxytech/haproxy-docker-alpine) - HAProxy CE Docker Alpine image
 - [ricardbejarano/haproxy](https://github.com/ricardbejarano/haproxy) - 🏎  Built-from-source container image of the HAProxy load balancer
 - [ricardbejarano/snmp_exporter](https://github.com/ricardbejarano/snmp_exporter) - 🧯 Built-from-source container image of Prometheus' SNMP exporter
@@ -1511,6 +1513,7 @@
 
 ## Emacs Lisp 
 
+- [manateelazycat/color-rg](https://github.com/manateelazycat/color-rg) - Search and refactoring tool based on ripgrep.
 - [tmalsburg/helm-bibtex](https://github.com/tmalsburg/helm-bibtex) - Search and manage bibliographies in Emacs
 
 ## Erlang 
@@ -2500,7 +2503,7 @@
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [mehrdadrad/tcpprobe](https://github.com/mehrdadrad/tcpprobe) - Modern TCP tool and service for network performance observability.
 - [projectdiscovery/dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
-- [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
+- [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website.
 - [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -3604,6 +3607,7 @@
 
 ## JavaScript 
 
+- [alexellis/gh-latest-release](https://github.com/alexellis/gh-latest-release) - Finds the latest release of a GitHub project without using up your rate-limit.
 - [smollweide/node-mock-server](https://github.com/smollweide/node-mock-server) - File based Node REST API mock server
 - [Dexus/pem](https://github.com/Dexus/pem) - Create private keys and certificates with node.js
 - [sindresorhus/alfred-npms](https://github.com/sindresorhus/alfred-npms) - Alfred 3 workflow to search for npm packages with npms.io
@@ -5153,6 +5157,7 @@
 - [hassio-addons/addon-unifi](https://github.com/hassio-addons/addon-unifi) - UniFi Network Application - Home Assistant Community Add-ons
 - [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖
 - [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
+- [go-training/drone-tutorial](https://github.com/go-training/drone-tutorial) - Drone Continuous Delivery Documentation using docker-compose
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
@@ -5406,7 +5411,6 @@
 - [proxmox/dab-pve-appliances](https://github.com/proxmox/dab-pve-appliances) - DAB examples
 - [cloudposse/build-harness](https://github.com/cloudposse/build-harness) - 🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more
 - [thenickdude/KVM-Opencore](https://github.com/thenickdude/KVM-Opencore) - OpenCore disk image for running macOS VMs on Proxmox/QEMU
-- [go-training/drone-tutorial](https://github.com/go-training/drone-tutorial) - Drone Continuous Delivery Documentation using docker-compose
 - [KROSF/cloud](https://github.com/KROSF/cloud) - Self Hosted :cloud:
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [kangaechu/aws-vault-alfred-workflow](https://github.com/kangaechu/aws-vault-alfred-workflow) - Alfred workflow to Open AWS in your browser via aws-vault
@@ -5980,7 +5984,7 @@
 - [thefinn93/ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
 - [zeek/packages](https://github.com/zeek/packages) - The default package source of the Zeek Package Manager
 - [linuxhw/SMART](https://github.com/linuxhw/SMART) - Estimate reliability of desktop-class HDD/SSD drives
-- [fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 - [nefilim/pinger](https://github.com/nefilim/pinger) - simple network latency and packet loss monitor using Grafana and Prometheus
 - [KeyboardInterrupt/awesome-ansible](https://github.com/KeyboardInterrupt/awesome-ansible) - Awesome Ansible List
@@ -6647,6 +6651,7 @@
 
 ## Python 
 
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [seanbreckenridge/oh-my-stars](https://github.com/seanbreckenridge/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
 - [alshapton/TinyMP](https://github.com/alshapton/TinyMP) - A MessagePack-based storage extension to tinydb using the http://msgpack.org
 - [msiemens/tinydb-smartcache](https://github.com/msiemens/tinydb-smartcache) - A smarter cache for TinyDB
@@ -8140,7 +8145,7 @@
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [themoosman/mlapi](https://github.com/themoosman/mlapi) - An easy to use/extend object recognition API you can locally install. NGINX + Gunicorn + Flask. Containerized. Also works with ZMES!
-- [angelotc/MacroDAG](https://github.com/angelotc/MacroDAG) - An Airflow ETL pipeline that processes macroeconomic indicators from the Federal Reserve.
+- [angelotc/MacroDAG](https://github.com/angelotc/MacroDAG) - An dockerized Airflow ETL pipeline that processes macroeconomic indicators from the Federal Reserve.
 - [ooni/pipeline](https://github.com/ooni/pipeline) - OONI data processing pipeline
 - [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -8261,7 +8266,7 @@
 - [jinhucheung/letscertbot](https://github.com/jinhucheung/letscertbot) - Let's Certbot is a tool builds automated scripts base on Certbot for obtaining, renewing, deploying SSL certificates.
 - [franccesco/getaltname](https://github.com/franccesco/getaltname) - Extract subdomains from SSL certificates in HTTPS sites.
 - [anchore/anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification
-- [ufoym/deepo](https://github.com/ufoym/deepo) - Set up deep learning environment in a single command line.
+- [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [gdraheim/docker-copyedit](https://github.com/gdraheim/docker-copyedit) - edit docker image metadata (including remove docker volumes)
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -8319,7 +8324,7 @@
 - [morpheus65535/oscarr](https://github.com/morpheus65535/oscarr) - Oscarr is a dashboard application for users of Plex, Emby, Sonarr, Radarr and Bazarr. It gives you and overview of your media management software.
 - [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox) - Ansible role to provision containers in Proxmox VE virtualization
 - [JonathanVusich/pcpartpicker](https://github.com/JonathanVusich/pcpartpicker) - This is an unofficial API for the website pcpartpicker.com.
-- [ngoduykhanh/PowerDNS-Admin](https://github.com/ngoduykhanh/PowerDNS-Admin) - A PowerDNS web interface with advanced features
+- [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin) - A PowerDNS web interface with advanced features
 - [west-wind/LAR](https://github.com/west-wind/LAR) - Light Armoured Recon is a python script designed to automate passive recon. It automates execution of TheHarvester, whois, Robtex.com, Builtwith.com, DNSrecon, metagoofil, & knockpy.
 - [philipperemy/stock-volatility-google-trends](https://github.com/philipperemy/stock-volatility-google-trends) - Deep Learning Stock Volatility with Google Domestic Trends: https://arxiv.org/pdf/1512.04916.pdf
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -8968,6 +8973,7 @@
 
 ## Rust 
 
+- [spamwax/rmate-rs](https://github.com/spamwax/rmate-rs) - rmate ♥ Rust
 - [breard-r/acmed](https://github.com/breard-r/acmed) - ACME (RFC 8555) client daemon
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
@@ -9025,7 +9031,7 @@
 - [vmchale/tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [aethylia/upnp_scanner](https://github.com/aethylia/upnp_scanner) - Scans the local network for UPNP root devices.
+- [Fydrenak/upnp_scanner](https://github.com/Fydrenak/upnp_scanner) - Scans the local network for UPNP root devices.
 - [yuvadm/slingr](https://github.com/yuvadm/slingr) - A simple CLI for UPnP media file streaming
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [smudge/nightlight](https://github.com/smudge/nightlight) - A CLI for configuring "Night Shift" on macOS 🌕🌖🌗🌘🌑
@@ -10600,6 +10606,7 @@
 
 ## TypeScript 
 
+- [arbal/remote-vscode](https://github.com/arbal/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
 - [redhat-developer/vscode-promql](https://github.com/redhat-developer/vscode-promql) - This is supposed to become a PromQL extension for vs code.
 - [memoryhole/jjo](https://github.com/memoryhole/jjo) - a small utility to create JSON objects, written for Node.js
 - [WengerK/vscode-highlight-bad-chars](https://github.com/WengerK/vscode-highlight-bad-chars) - Extension to highlight bad characters such as No-break space ( ) and the Greek question mark (;) in your source files.
@@ -11048,7 +11055,7 @@
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) - A Wake on Lan plugin for Homebridge
 - [theodo/falco](https://github.com/theodo/falco) - Falco helps you monitor, analyze, and optimize your websites.
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [PinkyJie/google-actions-github-bot](https://github.com/PinkyJie/google-actions-github-bot) - A Google Assistant Action (with an invocation name of "Github Trending") which tells you the trending repositories on Github and more.
