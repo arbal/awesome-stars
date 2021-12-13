@@ -190,6 +190,7 @@
 
 ## C 
 
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
@@ -840,6 +841,7 @@
 
 ## C++ 
 
+- [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -1551,6 +1553,8 @@
 
 ## Go 
 
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
+- [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [pete911/certinfo](https://github.com/pete911/certinfo) - print x509 certificate info
@@ -1788,6 +1792,7 @@
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
 - [knipferrc/fm](https://github.com/knipferrc/fm) - A terminal based file manager
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
+- [dh1tw/remoteRotator](https://github.com/dh1tw/remoteRotator) - remoteRotator lets you expose a local antenna rotator (azimuth / elevation) to the network
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
 - [cfunkhouser/kasa](https://github.com/cfunkhouser/kasa) - Library and CLI utility for interacting with tp-link Kasa devices on the local network
 - [flaviostutz/perfstat](https://github.com/flaviostutz/perfstat) - Analyze and show tips about possible bottlenecks in Linux systems regarding to diskio, networking, cpu, swapping, memory etc
@@ -3607,7 +3612,9 @@
 
 ## JavaScript 
 
-- [alexellis/gh-latest-release](https://github.com/alexellis/gh-latest-release) - Finds the latest release of a GitHub project without using up your rate-limit.
+- [reminiflux/reminiflux](https://github.com/reminiflux/reminiflux) - Alternative web frontend for miniflux. http://reminiflux.github.io
+- [youurayy/gfms](https://github.com/youurayy/gfms) - Github Flavored Markdown Server (GFMS)
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [smollweide/node-mock-server](https://github.com/smollweide/node-mock-server) - File based Node REST API mock server
 - [Dexus/pem](https://github.com/Dexus/pem) - Create private keys and certificates with node.js
 - [sindresorhus/alfred-npms](https://github.com/sindresorhus/alfred-npms) - Alfred 3 workflow to search for npm packages with npms.io
@@ -3871,7 +3878,6 @@
 - [vadimpronin/guacamole-lite](https://github.com/vadimpronin/guacamole-lite) - NodeJS replacement for guacamole-client (server-side Java servlet). Guacamole is a RDP/VNC client for HTML5 browsers.
 - [google/blockly-samples](https://github.com/google/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
 - [jmoenig/Snap](https://github.com/jmoenig/Snap) - a visual programming language inspired by Scratch
-- [dh1tw/remoteRotator](https://github.com/dh1tw/remoteRotator) - remoteRotator lets you expose a local antenna rotator (azimuth / elevation) to the network
 - [GlobalNOC/globalnoc-networkmap-panel](https://github.com/GlobalNOC/globalnoc-networkmap-panel) - A network map panel for Grafana
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [thetacom/signalserver_gui](https://github.com/thetacom/signalserver_gui) - Signal Server GUI is designed as a companion to Signal Server. Signal Server GUI provides a simple and intuitive interface to manage the many configuration options available within Signal Server.
@@ -4514,7 +4520,6 @@
 - [jc21/docker-registry-ui](https://github.com/jc21/docker-registry-ui) - 😎 A nice web interface for managing your Docker Registry images
 - [alexlafroscia/tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) - Alfred workflow for TLDR
 - [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize) - A node utility utilizing ffmpeg to encode videos with the hevc codec.
-- [aunefyren/plex-wrapped](https://github.com/aunefyren/plex-wrapped) - Website and API that collects Plex statistics using Tautulli and displays it. Similar to the Spotify Wrapped concept.
 - [Drewpeifer/medialytics](https://github.com/Drewpeifer/medialytics) - A basic, free tool that shows information about Plex Media Server content
 - [plexinc/webhooks-slack](https://github.com/plexinc/webhooks-slack) - Use Plex webhooks to push media notifications into Slack
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
@@ -6377,6 +6382,7 @@
 
 ## PHP 
 
+- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [kalcaddle/kodbox](https://github.com/kalcaddle/kodbox) - kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run kodbox either online or locally,on Linux, Windows or Mac based platforms
 - [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
@@ -6464,6 +6470,7 @@
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [spatie/geocoder](https://github.com/spatie/geocoder) - Geocode addresses to coordinates
 - [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
+- [aunefyren/plex-wrapped](https://github.com/aunefyren/plex-wrapped) - Website and API that collects Plex statistics using Tautulli and displays it. Similar to the Spotify Wrapped concept.
 - [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [paragonie/halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by libsodium
@@ -6651,6 +6658,7 @@
 
 ## Python 
 
+- [open-io/oio-sds](https://github.com/open-io/oio-sds) - High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [seanbreckenridge/oh-my-stars](https://github.com/seanbreckenridge/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
 - [alshapton/TinyMP](https://github.com/alshapton/TinyMP) - A MessagePack-based storage extension to tinydb using the http://msgpack.org
@@ -8226,7 +8234,7 @@
 - [deanishe/alfred-fakeum](https://github.com/deanishe/alfred-fakeum) - Generate fake test data in Alfred
 - [coraxx/netdata_nv_plugin](https://github.com/coraxx/netdata_nv_plugin) - NetData plugin for Nvidia GPU stats
 - [remyers/txtenna-python](https://github.com/remyers/txtenna-python) - Python based version of txtenna that can send and receive Bitcoin transactions via a local txtenna-server
-- [jbarlow83/OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Netbox agent to run on your infrastructure's servers
 - [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
@@ -8788,6 +8796,8 @@
 
 ## Ruby 
 
+- [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
+- [swanson/stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
 - [busyloop/vj](https://github.com/busyloop/vj) - vj - JSON Humanizer
 - [defunkt/repl](https://github.com/defunkt/repl) - Sometimes you need a REPL. Unmaintained, sorry.
 - [oscardelben/github-trends](https://github.com/oscardelben/github-trends) - Provides a RSS Feed for most watched and most forked repos on Github
@@ -9268,6 +9278,7 @@
 
 ## Shell 
 
+- [devilbox/watcherd](https://github.com/devilbox/watcherd) - A shell daemon that will listen for directory changes and execute custom commands for each event.
 - [samrocketman/gitlab-mirrors](https://github.com/samrocketman/gitlab-mirrors) - A set of scripts adding the ability of managing remote mirrors to GitLab.
 - [dakshshah96/local-cert-generator](https://github.com/dakshshah96/local-cert-generator) - 🚀 A set of scripts to quickly generate a HTTPS certificate for your local development environment.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
