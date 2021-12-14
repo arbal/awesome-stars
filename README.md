@@ -190,6 +190,7 @@
 
 ## C 
 
+- [andreyvit/find-fsevents-bugs](https://github.com/andreyvit/find-fsevents-bugs) - 
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
@@ -437,7 +438,6 @@
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [GenericMappingTools/gmt](https://github.com/GenericMappingTools/gmt) - The Generic Mapping Tools
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
-- [ssec/polar2grid](https://github.com/ssec/polar2grid) - Tools for reading, remapping, and writing satellite instrument data.
 - [MapServer/MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
 - [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner
@@ -1553,6 +1553,10 @@
 
 ## Go 
 
+- [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Extract pieces of info from a web page's Wayback Machine history
+- [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
+- [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [b4b4r07/zsh-history](https://github.com/b4b4r07/zsh-history) - A plugin for zsh history extended by golang, dealing it like SQL
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
@@ -1631,7 +1635,7 @@
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [vultr/packer-plugin-vultr](https://github.com/vultr/packer-plugin-vultr) - Packer Builder plugin for Vultr snapshots
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-- [mosn/mosn](https://github.com/mosn/mosn) - MOSN is a cloud native proxy for edge or service mesh. https://mosn.io
+- [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform.
 - [chris-wood/odoh-client](https://github.com/chris-wood/odoh-client) - Oblivious DoH client
 - [cloudflare/odoh-client-go](https://github.com/cloudflare/odoh-client-go) - Oblivious DoH client
 - [cloudflare/odoh-server-go](https://github.com/cloudflare/odoh-server-go) - Oblivious DoH server in Go
@@ -1669,7 +1673,7 @@
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kasvith/simplelb](https://github.com/kasvith/simplelb) - World's most dumbest Load Balancer
-- [kubesphere/openelb](https://github.com/kubesphere/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
+- [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public LoadBalancers on your local Kubernetes clusters
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [kevburnsjr/microcache](https://github.com/kevburnsjr/microcache) - A non-standard HTTP cache implemented as Go middleware
@@ -2436,7 +2440,7 @@
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [Shimmur/shipspotter](https://github.com/Shimmur/shipspotter) - Tool for tunneling a port forward into remote Docker containers over SSH 🚢
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities and attack paths in running containers, images, hosts and repositories.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [SuperQ/smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping
 - [cloudflare/gortr](https://github.com/cloudflare/gortr) - The RPKI-to-Router server used at Cloudflare
@@ -3424,6 +3428,7 @@
 
 ## Java 
 
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
 - [machanic/CronHub](https://github.com/machanic/CronHub) - CronHub is a better crontab, it is a web application which can schedule, monitor and control the crontabs of multiple machines from the web page.
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [oschina/kooder](https://github.com/oschina/kooder) - 🔍An open source GitLab/Gitee/Gitea code search tool. Kooder 是一个为 Gitee/GitLab 开发的开源代码搜索工具，这是一个镜像仓库，主仓库在 Gitee。
@@ -4172,7 +4177,7 @@
 - [sseemayer/OCRmyPDF-web](https://github.com/sseemayer/OCRmyPDF-web) - A tiny frontend for OCRing PDF files via the web.
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
 - [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
 - [custom-cards/bignumber-card](https://github.com/custom-cards/bignumber-card) - 
 - [custom-cards/circle-sensor-card](https://github.com/custom-cards/circle-sensor-card) - A custom component for displaying sensor values as cards or elements
@@ -4685,7 +4690,6 @@
 - [danielfm/prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [NexClipper/exporterhub.io](https://github.com/NexClipper/exporterhub.io) - A Curated List of Prometheus Exporters
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
 - [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
 - [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
@@ -6382,6 +6386,8 @@
 
 ## PHP 
 
+- [phpipam/phpipam-api-clients](https://github.com/phpipam/phpipam-api-clients) - Collection of API clients for phpipam API
+- [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [kalcaddle/kodbox](https://github.com/kalcaddle/kodbox) - kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run kodbox either online or locally,on Linux, Windows or Mac based platforms
@@ -6470,7 +6476,7 @@
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [spatie/geocoder](https://github.com/spatie/geocoder) - Geocode addresses to coordinates
 - [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
-- [aunefyren/plex-wrapped](https://github.com/aunefyren/plex-wrapped) - Website and API that collects Plex statistics using Tautulli and displays it. Similar to the Spotify Wrapped concept.
+- [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website and API that collects Plex statistics using Tautulli and displays it. Similar to the Spotify Wrapped concept.
 - [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [paragonie/halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by libsodium
@@ -6658,6 +6664,16 @@
 
 ## Python 
 
+- [internetarchive/fatcat-scholar](https://github.com/internetarchive/fatcat-scholar) - search interface for scholarly works
+- [internetarchive/fatcat](https://github.com/internetarchive/fatcat) - Perpetual Access To The Scholarly Record
+- [postgrespro/pg_probackup](https://github.com/postgrespro/pg_probackup) - Backup and recovery manager for PostgreSQL
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [peterk/warcworker](https://github.com/peterk/warcworker) - A dockerized, queued high fidelity web archiver based on Squidwarc
+- [internetarchive/liveweb](https://github.com/internetarchive/liveweb) - Liveweb proxy of the Wayback Machine project
+- [sangaline/wayback-machine-scraper](https://github.com/sangaline/wayback-machine-scraper) - A command-line utility and Scrapy middleware for scraping time series data from Archive.org's Wayback Machine.
+- [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
+- [rendicott/php-ipam-cli](https://github.com/rendicott/php-ipam-cli) - CLI interface to phpIpam
+- [rshkv/alfred-wikipedia](https://github.com/rshkv/alfred-wikipedia) - Alfred workflow for Wikipedia
 - [open-io/oio-sds](https://github.com/open-io/oio-sds) - High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [seanbreckenridge/oh-my-stars](https://github.com/seanbreckenridge/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
@@ -7182,7 +7198,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [yaph/programming-languages-influence](https://github.com/yaph/programming-languages-influence) - Code to retrieve data for the programming languages influence visualizations from Freebase
 - [benedekrozemberczki/awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, Passive DNS service and more.
 - [seevik2580/tor-ip-changer](https://github.com/seevik2580/tor-ip-changer) - request new identity every X seconds interval using TOR client
 - [Jiramew/spoon](https://github.com/Jiramew/spoon) - 🥄 A package for building  specific Proxy Pool for different Sites.
 - [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
@@ -7540,6 +7556,7 @@
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
 - [johntruckenbrodt/pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing
+- [ssec/polar2grid](https://github.com/ssec/polar2grid) - Tools for reading, remapping, and writing satellite instrument data.
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 - [rasterio/rasterio](https://github.com/rasterio/rasterio) - Rasterio reads and writes geospatial raster datasets
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
@@ -8983,6 +9000,8 @@
 
 ## Rust 
 
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [spamwax/rmate-rs](https://github.com/spamwax/rmate-rs) - rmate ♥ Rust
 - [breard-r/acmed](https://github.com/breard-r/acmed) - ACME (RFC 8555) client daemon
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
@@ -9393,7 +9412,7 @@
 - [chrislim2888/IP2Location-C-Library](https://github.com/chrislim2888/IP2Location-C-Library) - IP2Location C library enables the user to find the country, region, city, coordinates, zip code, time zone, ISP, domain name, connection type, area code, weather station code, weather station name, mobile, usage types, etc that any IP address or hostname originates from.
 - [pigmonkey/goesimage](https://github.com/pigmonkey/goesimage) - Download the latest image from a NOAA Geostationary Operational Environment Satellite and set it as the desktop background
 - [klutchell/balena-wireguard](https://github.com/klutchell/balena-wireguard) - wireguard stack for balenacloud
-- [dominiksalvet/asus-fan-control](https://github.com/dominiksalvet/asus-fan-control) - 🌀 Fan control for ASUS devices running Linux.
+- [dominiksalvet/asus-fan-control](https://github.com/dominiksalvet/asus-fan-control) - Fan control for ASUS devices running Linux
 - [jaredallard-home/wireguard-balena-rpi](https://github.com/jaredallard-home/wireguard-balena-rpi) - Example project for building an OOT kernel module in resin
 - [docker-archive/dockerlite](https://github.com/docker-archive/dockerlite) - Lightweight virtualization system based on LXC and BTRFS. See dotcloud/docker.
 - [mk-fg/apparmor-profiles](https://github.com/mk-fg/apparmor-profiles) - My local apparmor profiles for binary or dangerous apps
@@ -10085,7 +10104,7 @@
 - [PlqnK/docker-home-services-host](https://github.com/PlqnK/docker-home-services-host) - My personal home services host config.
 - [bucherfa/server-setup](https://github.com/bucherfa/server-setup) - Home Server Setup
 - [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks) - Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks.
-- [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, TeamCity and DevOps tools built on the major Linux distros: Alpine, CentOS, Debian, Fedora, Ubuntu
+- [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak
 - [softonic/portainer-endpoint](https://github.com/softonic/portainer-endpoint) - Docker image to auto register all the swarm nodes in portainer
 - [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [lukaszlach/docker-tc](https://github.com/lukaszlach/docker-tc) - :whale: :vertical_traffic_light: Docker Traffic Control - network rate limiting, emulating delays, losses, duplicates, corrupts and reorders of network packets using only container labels or a command-line interface.
@@ -11005,6 +11024,7 @@
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [savecost/datav](https://github.com/savecost/datav) - 📊https://datav.io is a lightweight but better alternative to Grafana, providen visualization for metrics,traces and logs etc,  You can use datav as a standalone service like grafana, but it's better to use it with ai-apm for apm purposes.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
