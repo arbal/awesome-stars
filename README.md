@@ -190,6 +190,7 @@
 
 ## C 
 
+- [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [andreyvit/find-fsevents-bugs](https://github.com/andreyvit/find-fsevents-bugs) - 
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
@@ -265,7 +266,7 @@
 - [hessu/aprsc](https://github.com/hessu/aprsc) - aprsc, a core APRS-IS server
 - [ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using the Raspberry Pi's PWM
 - [abstrakraft/lxc-android-lxc](https://github.com/abstrakraft/lxc-android-lxc) - 
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A custom macOS statusbar with shell plugin, interaction and graph support
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [discoteq/flock](https://github.com/discoteq/flock) - flock(1) locks files
 - [projecthorus/radiosonde_auto_rx](https://github.com/projecthorus/radiosonde_auto_rx) - Automatically Track Radiosonde Launches using RTLSDR
 - [OpenATS/OpenATS](https://github.com/OpenATS/OpenATS) - Open Auto Tracking System for satellite tracking or target tracking.
@@ -475,7 +476,6 @@
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [OSGeo/grass](https://github.com/OSGeo/grass) - GRASS GIS - free and open source Geographic Information System (GIS)
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
-- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - A 3D Mapping Engine & SDK for OpenSceneGraph.
 - [davidramiro/ffmpeg-nvenc-debian](https://github.com/davidramiro/ffmpeg-nvenc-debian) - FFmpeg for Debian with NVENC support
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
 - [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
@@ -1043,6 +1043,7 @@
 - [dresden-elektronik/deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [OSGeo/PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
+- [gwaldron/osgearth](https://github.com/gwaldron/osgearth) - A 3D Mapping Engine & SDK for OpenSceneGraph.
 - [meta-toolkit/meta](https://github.com/meta-toolkit/meta) - A Modern C++ Data Sciences Toolkit
 - [RedisLabs/memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool.
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
@@ -1476,6 +1477,7 @@
 
 ## Elixir 
 
+- [Anonyfox/elixir-scrape](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease!
 - [elixir-crawly/crawly](https://github.com/elixir-crawly/crawly) - Crawly, a high-level web crawling & scraping framework for Elixir.
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform.
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
@@ -2875,7 +2877,7 @@
 - [okkur/torproxy](https://github.com/okkur/torproxy) - Caddy plugin to enable easy web to tor proxying
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [bengadbois/pewpew](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [cuigh/swirl](https://github.com/cuigh/swirl) - A web UI for Docker, focused on swarm cluster.
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [fardog/secureoperator](https://github.com/fardog/secureoperator) - A DNS-protocol proxy for DNS-over-HTTPS providers, such as Google and Cloudflare
@@ -3245,6 +3247,11 @@
 
 ## HTML 
 
+- [fb55/readabilitySAX](https://github.com/fb55/readabilitySAX) - a fast and platform independent readability port (JS)
+- [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
+- [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
+- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
+- [DevonHess/FreshRSS-Extensions](https://github.com/DevonHess/FreshRSS-Extensions) - 
 - [kennytm/grafana-export](https://github.com/kennytm/grafana-export) - Export Grafana dashboard snapshots as local JSON files
 - [acgeospatial/awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
@@ -3617,6 +3624,10 @@
 
 ## JavaScript 
 
+- [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
+- [NightMachinary/readability-cli](https://github.com/NightMachinary/readability-cli) - A CLI for Mozilla Readability. Get clean, uncluttered, ready-to-read HTML from any webpage!
+- [syntax-tree/hast-util-reading-time](https://github.com/syntax-tree/hast-util-reading-time) - utility to estimate the reading time
+- [pouyakary/Orchestra](https://github.com/pouyakary/Orchestra) - One language to be RegExp's Successor. Visually readable and rich, technically safe and extended, naturally scalable, advanced, and optimized
 - [reminiflux/reminiflux](https://github.com/reminiflux/reminiflux) - Alternative web frontend for miniflux. http://reminiflux.github.io
 - [youurayy/gfms](https://github.com/youurayy/gfms) - Github Flavored Markdown Server (GFMS)
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
@@ -3633,7 +3644,6 @@
 - [45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator) - A Featureful File Browser for Cockpit
 - [sindresorhus/strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [Khauri/Turtus](https://github.com/Khauri/Turtus) - A self hosted rabb.it clone.
-- [sanity-io/groq-js](https://github.com/sanity-io/groq-js) - JavaScript implementation of GROQ, the query language for JSON
 - [Yord/pxi](https://github.com/Yord/pxi) - 🧚 pxi (pixie) is a small, fast, and magical command-line data processor similar to jq, mlr, and awk.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
@@ -4584,7 +4594,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly by automated systems)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5167,6 +5177,7 @@
 - [ansible/awx-operator](https://github.com/ansible/awx-operator) - An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. 🤖
 - [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
 - [go-training/drone-tutorial](https://github.com/go-training/drone-tutorial) - Drone Continuous Delivery Documentation using docker-compose
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [hassio-addons/addon-zwavejs2mqtt](https://github.com/hassio-addons/addon-zwavejs2mqtt) - Z-Wave JS to MQTT - Home Assistant Community Add-ons
 - [weareinteractive/ansible-apt](https://github.com/weareinteractive/ansible-apt) - Ansible role that configures apt & installs/updates packages.
 - [jnv/ansible-role-unattended-upgrades](https://github.com/jnv/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
@@ -6386,6 +6397,7 @@
 
 ## PHP 
 
+- [HenryQW/mercury_fulltext](https://github.com/HenryQW/mercury_fulltext) - 📖 Enjoy full text for tt-rss.
 - [phpipam/phpipam-api-clients](https://github.com/phpipam/phpipam-api-clients) - Collection of API clients for phpipam API
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
@@ -6567,6 +6579,7 @@
 
 ## Perl 
 
+- [bagder/dns2doh](https://github.com/bagder/dns2doh) - DNS to DoH
 - [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
 - [atomia/atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [curl/h2c](https://github.com/curl/h2c) - headers 2 curl. Provided a set of HTTP request headers, output the curl command line for generating that set. Try the converter online at
@@ -7198,7 +7211,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [yaph/programming-languages-influence](https://github.com/yaph/programming-languages-influence) - Code to retrieve data for the programming languages influence visualizations from Freebase
 - [benedekrozemberczki/awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection research papers with implementations.
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, Passive DNS service and more.
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
 - [seevik2580/tor-ip-changer](https://github.com/seevik2580/tor-ip-changer) - request new identity every X seconds interval using TOR client
 - [Jiramew/spoon](https://github.com/Jiramew/spoon) - 🥄 A package for building  specific Proxy Pool for different Sites.
 - [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
@@ -7347,7 +7360,7 @@
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) - IP lookup by favicon using Shodan
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [AlanCoding/Ansible-inventory-file-examples](https://github.com/AlanCoding/Ansible-inventory-file-examples) - Examples and counter-examples of Ansible inventory files
-- [trailofbits/polyfile](https://github.com/trailofbits/polyfile) - A utility for mapping the file formats embedded within a single file
+- [trailofbits/polyfile](https://github.com/trailofbits/polyfile) - A pure Python cleanroom implementation of libmagic, with instrumented parsing from Kaitai struct and an interactive hex viewer
 - [mr-pennyworth/alfred-history-search](https://github.com/mr-pennyworth/alfred-history-search) - Alfred workflow to search through query history, and execute queries from history.
 - [mr-pennyworth/alfred-clipboard-ocr](https://github.com/mr-pennyworth/alfred-clipboard-ocr) - Make images in Alfred's clipboard history searchable by their text content
 - [rcbops/rpc-perf-scripts](https://github.com/rcbops/rpc-perf-scripts) - Scripts and automation around performance tools for testing of RPC
@@ -7589,7 +7602,6 @@
 - [thomas-krenn/TKperf](https://github.com/thomas-krenn/TKperf) - Performance test tool for SSDs, HDDs and RAID devices
 - [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [hardillb/nginx-proxy-avahi-helper](https://github.com/hardillb/nginx-proxy-avahi-helper) - A container to generate matching mDNS CNAMEs for the virtual hosts used by jwilder/nginx-proxy
 - [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [goberoi/faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
@@ -8451,7 +8463,7 @@
 - [Pack3tL0ss/ConsolePi](https://github.com/Pack3tL0ss/ConsolePi) - Raspberry Pi Based Serial Console Server, with PushBullet Notification of IP changes, Automatic VPN termination, custom menu, Power Outlet Control, and a lot more
 - [ansible-collections/ansible.netcommon](https://github.com/ansible-collections/ansible.netcommon) - Ansible Network Collection for Common Code
 - [s3ql/s3ql](https://github.com/s3ql/s3ql) - a full featured file system for online data storage
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 6.x/7.x clusters.
 - [LordGaav/proxmox-deploy](https://github.com/LordGaav/proxmox-deploy) - A cli-based deployment tool for Proxmox
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -9000,6 +9012,7 @@
 
 ## Rust 
 
+- [hipstermojo/paperoni](https://github.com/hipstermojo/paperoni) - An article extractor in Rust
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [spamwax/rmate-rs](https://github.com/spamwax/rmate-rs) - rmate ♥ Rust
@@ -9178,7 +9191,7 @@
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust  inspired by Ansible syntax
+- [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
 - [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [j2ghz/sdr-heatmap](https://github.com/j2ghz/sdr-heatmap) - Visualizes wireless spectrum scans generated by rtl_power
@@ -9297,6 +9310,8 @@
 
 ## Shell 
 
+- [satishweb/docker-doh](https://github.com/satishweb/docker-doh) - DNS Over HTTP Docker Image
+- [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (Server Edition).
 - [devilbox/watcherd](https://github.com/devilbox/watcherd) - A shell daemon that will listen for directory changes and execute custom commands for each event.
 - [samrocketman/gitlab-mirrors](https://github.com/samrocketman/gitlab-mirrors) - A set of scripts adding the ability of managing remote mirrors to GitLab.
 - [dakshshah96/local-cert-generator](https://github.com/dakshshah96/local-cert-generator) - 🚀 A set of scripts to quickly generate a HTTPS certificate for your local development environment.
@@ -10636,8 +10651,10 @@
 
 ## TypeScript 
 
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [arbal/remote-vscode](https://github.com/arbal/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
 - [redhat-developer/vscode-promql](https://github.com/redhat-developer/vscode-promql) - This is supposed to become a PromQL extension for vs code.
+- [sanity-io/groq-js](https://github.com/sanity-io/groq-js) - JavaScript implementation of GROQ, the query language for JSON
 - [memoryhole/jjo](https://github.com/memoryhole/jjo) - a small utility to create JSON objects, written for Node.js
 - [WengerK/vscode-highlight-bad-chars](https://github.com/WengerK/vscode-highlight-bad-chars) - Extension to highlight bad characters such as No-break space ( ) and the Greek question mark (;) in your source files.
 - [hertzg/tesseract-server](https://github.com/hertzg/tesseract-server) - A small lightweight HTTP server that converts photos, images and scanned documents to text using optical character recognition by utilizing the power of Google Tesseract.
@@ -11192,6 +11209,8 @@
 
 ## Vue 
 
+- [OpenDyslexic/opendyslexic-chrome](https://github.com/OpenDyslexic/opendyslexic-chrome) - Offical OpenDyslexic chrome extension
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [lvxianchao/the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [luke-feng/MAP](https://github.com/luke-feng/MAP) - This is a master project takes place in CSG at UZH.
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web)
