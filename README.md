@@ -191,6 +191,9 @@
 
 ## C 
 
+- [pc/tsocks](https://github.com/pc/tsocks) - &lt;p&gt;A GPL-licensed program for transparent SOCKS proxying. E.g.:&lt;/p&gt;&lt;p&gt;&lt;tt&gt;tsocks curl whatismyip.org&lt;/tt&gt;&lt;/p&gt;&lt;p&gt;Will display the IP of the SOCKS proxy configured in /etc/tsocks.conf, without curl having to know anything about it.&lt;/p&gt;
+- [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks) - A tun2socks implementation written in Go.
+- [ambrop72/badvpn](https://github.com/ambrop72/badvpn) - NCD scripting language, tun2socks proxifier, P2P VPN
 - [MediaArea/MediaConch_SourceCode](https://github.com/MediaArea/MediaConch_SourceCode) - Media conformance checker
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [andreyvit/find-fsevents-bugs](https://github.com/andreyvit/find-fsevents-bugs) - 
@@ -1557,6 +1560,8 @@
 
 ## Go 
 
+- [eahydra/socks](https://github.com/eahydra/socks) - socks -- a proxy server.
+- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 - [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Extract pieces of info from a web page's Wayback Machine history
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
@@ -1783,7 +1788,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale
 - [morgangallant/ipn](https://github.com/morgangallant/ipn) - Automatic peer discovery within a @Tailscale network.
-- [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (comments and trailing commas)
+- [tailscale/hujson](https://github.com/tailscale/hujson) - HuJSON: JSON for Humans (JWCC: JSON w/ comments and trailing commas)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [mark-ignacio/tailscale2cloudflare](https://github.com/mark-ignacio/tailscale2cloudflare) - Don't want to use MagicDNS? Put all of those DNS entries in Cloudflare instead.
 - [markpash/tailscale-sidecar](https://github.com/markpash/tailscale-sidecar) - A TCP proxy used to expose services onto a tailscale network without root. Ideal for container environments.
@@ -2281,7 +2286,7 @@
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [sapcc/ntp_exporter](https://github.com/sapcc/ntp_exporter) - Prometheus exporter for NTP offset/stratum of a client
 - [timescale/timescaledb-tune](https://github.com/timescale/timescaledb-tune) - A tool for tuning TimescaleDB for better performance by adjusting settings to match your system's CPU and memory resources.
-- [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [bradfitz/embiggen-disk](https://github.com/bradfitz/embiggen-disk) - embiggden-disk live-resizes a filesystem after first live-resizing any necessary layers below it: an optional LVM LV and PV, and an MBR or GPT partition table
@@ -3186,7 +3191,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [caltechlibrary/datatools](https://github.com/caltechlibrary/datatools) - A set of tools for working with JSON, CSV and Excel workbooks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [cdr/sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
+- [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [Gandem/bonjour-reflector](https://github.com/Gandem/bonjour-reflector) - A reflector that forwards mdns packets between VLANs - like avahi-reflector but with fine-grained control !
 - [grandcat/zeroconf](https://github.com/grandcat/zeroconf) - mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -3283,6 +3288,7 @@
 - [openspeedtest/iocage-plugin-OpenSpeedTest-Server](https://github.com/openspeedtest/iocage-plugin-OpenSpeedTest-Server) - OpenSpeedTest-Server Plugin for FreeNAS | HTML5 Network Performance Estimation Tool.
 - [HyperCable/hypercable](https://github.com/HyperCable/hypercable) - Hypercable Analytics is a fully featured high performance scalable alternative to Google Analytics, build with  timescaledb openresty  redis and rails.
 - [kutyla-philipp/simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice!
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [ArchiveTeam/wpull](https://github.com/ArchiveTeam/wpull) - Wget-compatible web downloader and crawler.
 - [bowood/KerberosSDR_finder](https://github.com/bowood/KerberosSDR_finder) - KerberosSDR Integration into a Google Maps API
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
@@ -5231,14 +5237,13 @@
 
 ## Jupyter Notebook 
 
-- [davemlz/eemont](https://github.com/davemlz/eemont) - A python package that extends Google Earth Engine.
 - [adaptive/pops](https://github.com/adaptive/pops) - PoPs geolocation derived from IATA airport codes
 - [AICoE/log-anomaly-detector](https://github.com/AICoE/log-anomaly-detector) - Log Anomaly Detection - Machine learning to detect abnormal events logs
 - [Seagate/cortx](https://github.com/Seagate/cortx) - CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [google/earthengine-community](https://github.com/google/earthengine-community) - Tutorials and content created by Earth Engine users, for Earth Engine users
-- [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and read files from the NOAA GOES archive on AWS.
+- [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
 - [HamedAlemo/visualize-goes16](https://github.com/HamedAlemo/visualize-goes16) - This is a sample code to visualize GOES16 data, reading them directly from AWS S3 storage
 - [neurotechuoft/MindType](https://github.com/neurotechuoft/MindType) - Mind-controlled keyboard
 - [philzook58/philzook58.github.io](https://github.com/philzook58/philzook58.github.io) - My Blog
@@ -6682,6 +6687,8 @@
 
 ## Python 
 
+- [sensepost/reGeorg](https://github.com/sensepost/reGeorg) - The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.
+- [kbandla/dpkt](https://github.com/kbandla/dpkt) - fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [internetarchive/fatcat-scholar](https://github.com/internetarchive/fatcat-scholar) - search interface for scholarly works
 - [internetarchive/fatcat](https://github.com/internetarchive/fatcat) - Perpetual Access To The Scholarly Record
@@ -6726,6 +6733,7 @@
 - [fooqri/uri-handler](https://github.com/fooqri/uri-handler) - A uri protocol router for macOS that allows protocols to be handled by simple scripts.
 - [semi-technologies/semantic-search-through-wikipedia-with-weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate) - Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone
+- [davemlz/eemont](https://github.com/davemlz/eemont) - A python package that extends Google Earth Engine.
 - [bsolomon1124/demoji](https://github.com/bsolomon1124/demoji) - Accurately find/replace/remove emojis in text strings
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
@@ -7346,8 +7354,8 @@
 - [chrippa/livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
 - [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
-- [neuml/paperai](https://github.com/neuml/paperai) - AI-powered literature discovery and review engine for medical/scientific papers
-- [neuml/txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications
+- [neuml/paperai](https://github.com/neuml/paperai) - 📄 🤖 AI-powered literature discovery and review engine for medical/scientific papers
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
@@ -9102,7 +9110,6 @@
 - [valeriansaliou/bloom](https://github.com/valeriansaliou/bloom) - :cherry_blossom: HTTP REST API caching middleware, to be used between load balancers and REST API workers.
 - [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) - A rust binding for the zstd compression library.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [darrenldl/blockyarchive](https://github.com/darrenldl/blockyarchive) - Blocky archive - multithreaded archiver offering bit rot protection and sector level recoverability
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [maelstrom-rs/maelstrom](https://github.com/maelstrom-rs/maelstrom) - High performance Matrix Home Server in rust.
@@ -11083,7 +11090,7 @@
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [marian42/partdesigner](https://github.com/marian42/partdesigner) - Create custom LEGO® Technic compatible construction parts for 3D printing
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [hediet/vscode-rpc](https://github.com/hediet/vscode-rpc) - Provides an RPC interface to automate VSCode from other processes
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
