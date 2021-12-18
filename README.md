@@ -191,6 +191,7 @@
 
 ## C 
 
+- [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook) - Mac OS X QuickLook plugin for WebP image files
 - [pc/tsocks](https://github.com/pc/tsocks) - &lt;p&gt;A GPL-licensed program for transparent SOCKS proxying. E.g.:&lt;/p&gt;&lt;p&gt;&lt;tt&gt;tsocks curl whatismyip.org&lt;/tt&gt;&lt;/p&gt;&lt;p&gt;Will display the IP of the SOCKS proxy configured in /etc/tsocks.conf, without curl having to know anything about it.&lt;/p&gt;
 - [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks) - A tun2socks implementation written in Go.
 - [ambrop72/badvpn](https://github.com/ambrop72/badvpn) - NCD scripting language, tun2socks proxifier, P2P VPN
@@ -981,7 +982,7 @@
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
-- [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor is a network observability agent that analyzes at the edge. part of the getorb.io ecosystem.
+- [ns1labs/pktvisor](https://github.com/ns1labs/pktvisor) - pktvisor is a network observability agent that analyzes at the edge
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
@@ -2345,7 +2346,7 @@
 - [schweikert/fping-exporter](https://github.com/schweikert/fping-exporter) - prometheus exporter to measure network latency
 - [moov-io/ach](https://github.com/moov-io/ach) - ACH implements a reader, writer, and validator for Automated Clearing House (ACH) files. The HTTP server is available in a Docker image and the Go package is available.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [distribyted/distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
+- [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with on-demand file downloading as a filesystem.
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [eschizoid/flixctl](https://github.com/eschizoid/flixctl) - A toolkit for controlling the infrastructure necessary for a true MaSaS (Movies and Shows as a Service) architecture.
 - [adityaxdiwakar/macro-ctl](https://github.com/adityaxdiwakar/macro-ctl) - macro-ctl is a control center system to allow for interaction between a client computer and a Google Home
@@ -5514,6 +5515,7 @@
 
 ## Objective-C 
 
+- [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
 - [growl/growl](https://github.com/growl/growl) - 
 - [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
 - [jcsalterego/pngpaste](https://github.com/jcsalterego/pngpaste) - Paste PNG into files, much like pbpaste does for text.
@@ -6488,7 +6490,7 @@
 - [Cacti/plugin_mikrotik](https://github.com/Cacti/plugin_mikrotik) - Mikrotik Plugin for Cacti
 - [Stichoza/google-translate-php](https://github.com/Stichoza/google-translate-php) - 🌐 Free Google Translate API PHP Package. Translates totally free of charge.
 - [acalcutt/WifiDB](https://github.com/acalcutt/WifiDB) - Vistumbler WifiDB - A set of scripts and tools to manage Wireless Access Points gathered with Vistumber. (Forked from our original project https://github.com/RIEI/WiFiDB)
-- [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
+- [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities
 - [MarceauKa/shaark](https://github.com/MarceauKa/shaark) - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures.
@@ -7294,7 +7296,7 @@
 - [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation) - Home Assistant Presence Simulation
 - [sandialabs/dr_robot](https://github.com/sandialabs/dr_robot) - This tool can be used to enumerate the subdomains associated with a company by aggregating the results of multiple OSINT (Open Source Intelligence) tools.
 - [zilliztech/phantoscope](https://github.com/zilliztech/phantoscope) - Open Source, Cloud Native, RESTful Search Engine Powered by Neural Networks
-- [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multi-cloud management platform
+- [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
 - [johnjones4/Doomsday-Machine](https://github.com/johnjones4/Doomsday-Machine) - Doomsday Machine is a tool for backing up cloud services to a local machine.
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments)
@@ -9027,6 +9029,7 @@
 
 ## Rust 
 
+- [maidsafe-archive/system_uri](https://github.com/maidsafe-archive/system_uri) - Desktop System App URI registration handler
 - [hipstermojo/paperoni](https://github.com/hipstermojo/paperoni) - An article extractor in Rust
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
@@ -10414,7 +10417,7 @@
 - [freenas/iocage-ix-plugins](https://github.com/freenas/iocage-ix-plugins) - Official iXSystems iocage plugins for FreeNAS and TrueOS
 - [warrentc3/postprocessing](https://github.com/warrentc3/postprocessing) - Automatic commercial removal and mp4 encoding on FreeNAS 11
 - [tprelog/iocage-homeassistant](https://github.com/tprelog/iocage-homeassistant) - Home Assistant Core - TrueNAS CORE Community Plugin
-- [danb35/freenas-iocage-nextcloud](https://github.com/danb35/freenas-iocage-nextcloud) - Script to create an iocage jail on FreeNAS for the latest Nextcloud 20 release, including Caddy, MariaDB or PostgreSQL, and Let's Encrypt
+- [danb35/freenas-iocage-nextcloud](https://github.com/danb35/freenas-iocage-nextcloud) - Script to create an iocage jail on FreeNAS for the latest Nextcloud 23 release, including Caddy, MariaDB or PostgreSQL, and Let's Encrypt
 - [b-rad-NDi/Ubuntu-media-tree-kernel-builder](https://github.com/b-rad-NDi/Ubuntu-media-tree-kernel-builder) - Slip stream the latest LinuxTV.org media drivers into an installable Ubuntu kernel package
 - [brock/node-reinstall](https://github.com/brock/node-reinstall) - Complete Node Reinstall for OSX and Linux
 - [Geczy/galeforce](https://github.com/Geczy/galeforce) - GaleForce is a project to customise the Google Wifi router
@@ -10664,6 +10667,7 @@
 
 ## TypeScript 
 
+- [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [arbal/remote-vscode](https://github.com/arbal/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
 - [redhat-developer/vscode-promql](https://github.com/redhat-developer/vscode-promql) - This is supposed to become a PromQL extension for vs code.
@@ -10918,7 +10922,7 @@
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
