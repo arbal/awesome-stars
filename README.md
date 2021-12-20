@@ -76,6 +76,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
+  - [POV-Ray SDL](#pov-ray-sdl)
   - [Pascal](#pascal)
   - [Perl](#perl)
   - [PowerShell](#powershell)
@@ -283,7 +284,6 @@
 - [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
 - [iscsi-osx/iSCSIInitiator](https://github.com/iscsi-osx/iSCSIInitiator) - iSCSI Initiator for macOS
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
-- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 - [ntop/PF_RING](https://github.com/ntop/PF_RING) - High-speed packet processing framework
 - [luigifcruz/kimera](https://github.com/luigifcruz/kimera) - Low-latency hardware accelerated codec based video streaming utility.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -455,7 +455,7 @@
 - [scaleway/natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
 - [open-mesh-mirror/batman-adv](https://github.com/open-mesh-mirror/batman-adv) - batman-adv
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [facebookarchive/flashcache](https://github.com/facebookarchive/flashcache) - A general purpose, write-back block cache for Linux.
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [sickill/stderred](https://github.com/sickill/stderred) - stderr in red
@@ -1562,6 +1562,7 @@
 
 ## Go 
 
+- [s3ththompson/earthdown](https://github.com/s3ththompson/earthdown) - 🌎 simple CLI to download images from Google Earth View
 - [letsencrypt/unbound_exporter](https://github.com/letsencrypt/unbound_exporter) - A Prometheus exporter for Unbound.
 - [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [l3uddz/crop](https://github.com/l3uddz/crop) - CLI tool to harvest your media crop and plow the cloud with it
@@ -3637,6 +3638,7 @@
 
 ## JavaScript 
 
+- [evertdespiegeleer/PrettyEarth](https://github.com/evertdespiegeleer/PrettyEarth) - A minimal macOS application allowing the use of Google Earth View images as your wallpaper.
 - [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout
 - [surmon-china/vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
 - [user234683/youtube-local](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance
@@ -3846,8 +3848,8 @@
 - [thierryc/Sketch-Find-And-Replace](https://github.com/thierryc/Sketch-Find-And-Replace) - Sketch plugin to do a find and replace on text within layers
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
-- [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.
-- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others!
+- [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, imba, ava, docusaurus, fast-glob, globby, chokidar, anymatch, cloudflare/miniflare, pts, and more than 5 million projects! Please follow picomatch's author: https://github.com/jonschlinkert
+- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others! Please follow micromatch's author: https://github.com/jonschlinkert
 - [micromatch/anymatch](https://github.com/micromatch/anymatch) - :bangbang: Matches strings against configurable strings, globs, regular expressions, and/or functions
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -4613,7 +4615,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -4645,7 +4647,7 @@
 - [bichenkk/coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -5698,7 +5700,7 @@
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [arbal/torflow](https://github.com/arbal/torflow) - Data flow in the Tor network
-- [hotio/restic](https://github.com/hotio/restic) - Restic docker container with rclone included.
+- [hotio/restic](https://github.com/hotio/restic) - 
 - [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac) - OCD's Guide to Setting up Mac
 - [fffaraz/awesome-selfhosted-aws](https://github.com/fffaraz/awesome-selfhosted-aws) - A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)
 - [cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) - Collaborative list of awesome helm charts and resources. PRs are welcome!
@@ -6595,6 +6597,10 @@
 - [postgis/postgis](https://github.com/postgis/postgis) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [openmaptiles/openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
+
+## POV-Ray SDL 
+
+- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 
 ## Pascal 
 
