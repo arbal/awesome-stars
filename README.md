@@ -1562,6 +1562,7 @@
 
 ## Go 
 
+- [bdd/runitor](https://github.com/bdd/runitor) - A command runner with healthchecks.io integration
 - [deanishe/alfred-unicode](https://github.com/deanishe/alfred-unicode) - Preview Unicode characters and emoji in Alfred
 - [deanishe/alfred-ssh](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections from Alfred 3+
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
@@ -2832,7 +2833,7 @@
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [yeasy/docker-compose-files](https://github.com/yeasy/docker-compose-files) - Some typical docker compose templates.
-- [reconquest/orgalorg](https://github.com/reconquest/orgalorg) - Parallel SSH commands executioner and file synchronization tool
+- [reconquest/orgalorg](https://github.com/reconquest/orgalorg) - Parallel SSH commands runner and file synchronization tool
 - [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
 - [foomo/pagespeed_exporter](https://github.com/foomo/pagespeed_exporter) - Prometheus pagespeed exporter
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
@@ -3148,7 +3149,7 @@
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
 - [msiebuhr/prometheus-mdns-sd](https://github.com/msiebuhr/prometheus-mdns-sd) - mDNS/ZeroConf/Bonjour service discovery for Prometheus
-- [Akagi201/lancaster](https://github.com/Akagi201/lancaster) - UDP multicast to exchange information.
+- [Akagi201/lancaster](https://github.com/Akagi201/lancaster) - UDP multicast LAN IP as a device finder service
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [weaveworks/mesh](https://github.com/weaveworks/mesh) - A tool for building distributed applications.
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -3642,6 +3643,7 @@
 
 ## JavaScript 
 
+- [tuananh/reader](https://github.com/tuananh/reader) - get a reader mode sharable url for any url - built with cloudflare workers https://reader.tuananh.net
 - [evertdespiegeleer/PrettyEarth](https://github.com/evertdespiegeleer/PrettyEarth) - A minimal macOS application allowing the use of Google Earth View images as your wallpaper.
 - [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout
 - [surmon-china/vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
@@ -5640,6 +5642,7 @@
 
 ## Others 
 
+- [arbal/reader](https://github.com/arbal/reader) - get a reader mode sharable url for any url - built with cloudflare workers https://reader.tuananh.net
 - [jianershi/unbound-config](https://github.com/jianershi/unbound-config) - run unbound dns with grafana dashboard on raspberry pi
 - [Thefrank/jellyfin-server-freebsd](https://github.com/Thefrank/jellyfin-server-freebsd) - jellyfin-server component for freebsd
 - [Thefrank/freebsd-port-sooners](https://github.com/Thefrank/freebsd-port-sooners) - FreeBSD ports-built binary packages
@@ -6715,6 +6718,8 @@
 
 ## Python 
 
+- [AgriVision/rpi_rtlsdr_weather_station](https://github.com/AgriVision/rpi_rtlsdr_weather_station) - python code to show weather data from a wireless weather station to a web page
+- [healthchecks/hchk](https://github.com/healthchecks/hchk) - A CLI interface to healthchecks.io
 - [deanishe/alfred-fuzzyfolders](https://github.com/deanishe/alfred-fuzzyfolders) - Fuzzy search across folder subdirectories
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like other selenium based solutions do!
@@ -7760,7 +7765,6 @@
 - [nohum/chromecast-mqtt-connector](https://github.com/nohum/chromecast-mqtt-connector) - Make your Chromecast devices discoverable and controllable via MQTT.
 - [ur1katz/casttube](https://github.com/ur1katz/casttube) - YouTube Chromecast API
 - [davidkrantz/Colorfy](https://github.com/davidkrantz/Colorfy) - Finds a suitable background color to the artwork of the current Spotify playback and sets it to a LED-strip using a Raspberry Pi
-- [tildeclub/ttrv](https://github.com/tildeclub/ttrv) - Tilde Terminal Reddit Viewer
 - [w-henderson/Unlimited-YouTube-Search](https://github.com/w-henderson/Unlimited-YouTube-Search) - 🔍 Search YouTube without the YouTube Data API.
 - [madeyoga/ytpy](https://github.com/madeyoga/ytpy) - Python asynchronous wrapper for searching for youtube videos.
 - [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
@@ -9062,6 +9066,7 @@
 
 ## Rust 
 
+- [dimo414/task-mon](https://github.com/dimo414/task-mon) - CLI to execute commands and log results to healthchecks.io
 - [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver
 - [maidsafe-archive/system_uri](https://github.com/maidsafe-archive/system_uri) - Desktop System App URI registration handler
 - [hipstermojo/paperoni](https://github.com/hipstermojo/paperoni) - An article extractor in Rust
@@ -9361,6 +9366,7 @@
 
 ## Shell 
 
+- [tronyx/tronitor](https://github.com/tronyx/tronitor) - Bash script to work with UptimeRobot, StatusCake,  HealthChecks.io, & Upptime monitoring providers
 - [ruudud/devdns](https://github.com/ruudud/devdns) - Automagic Docker DNS for local development
 - [SumGuyV5/iocage-plugin-prowlarr](https://github.com/SumGuyV5/iocage-plugin-prowlarr) - 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
@@ -10497,6 +10503,7 @@
 
 ## Swift 
 
+- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [Pictarine/macos-snippets](https://github.com/Pictarine/macos-snippets) - Snip is a lightweight snippets manager app for macOS
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [mxcl/swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
@@ -10704,6 +10711,7 @@
 
 ## TypeScript 
 
+- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - PRELEASE of V2 - 🤠 wrangle your Cloudflare Workers
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [arbal/remote-vscode](https://github.com/arbal/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
