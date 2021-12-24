@@ -1309,6 +1309,7 @@
 
 ## Dockerfile 
 
+- [jnsgruk/flypi](https://github.com/jnsgruk/flypi) - A collection of tools for tracking planes/helicopters/UFOs/whatever with ADS-B. Packaged in OCI-compliant containers and orchestrated with docker-compose.
 - [arbal/flent-docker](https://github.com/arbal/flent-docker) - Dockerized flent app for RRUL Network test
 - [cdeex/flent-docker](https://github.com/cdeex/flent-docker) - Dockerized flent app for RRUL Network test
 - [haproxytech/haproxy-docker-alpine](https://github.com/haproxytech/haproxy-docker-alpine) - HAProxy CE Docker Alpine image
@@ -1562,6 +1563,8 @@
 
 ## Go 
 
+- [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
+- [JamesClonk/vultr](https://github.com/JamesClonk/vultr) - :penguin: Vultr CLI and API client library
 - [bdd/runitor](https://github.com/bdd/runitor) - A command runner with healthchecks.io integration
 - [deanishe/alfred-unicode](https://github.com/deanishe/alfred-unicode) - Preview Unicode characters and emoji in Alfred
 - [deanishe/alfred-ssh](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections from Alfred 3+
@@ -2620,7 +2623,7 @@
 - [insomniacslk/dublin-traceroute](https://github.com/insomniacslk/dublin-traceroute) - Dublin Traceroute is a NAT-aware multipath tracerouting tool
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
-- [williamchanrico/planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server dependencies along with required bandwidth
+- [williamchanrico/planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server network dependencies along with required bandwidth
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -2915,7 +2918,7 @@
 - [vrothberg/vgrep](https://github.com/vrothberg/vgrep) - vgrep - a user-friendly pager for grep
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [syncfuture/keepa](https://github.com/syncfuture/keepa) - 
-- [JoshuaMart/PwnedPasswordsChecker](https://github.com/JoshuaMart/PwnedPasswordsChecker) - Search (offline) if your password (NTLM or SHA1 format) has been leaked (HIBP passwords list v7)
+- [JoshuaMart/PwnedPasswordsChecker](https://github.com/JoshuaMart/PwnedPasswordsChecker) - Search (offline) if your password (NTLM or SHA1 format) has been leaked (HIBP passwords list v8)
 - [dhogborg/rtl-gopow](https://github.com/dhogborg/rtl-gopow) - Render tables from rtl_power to a nice heat map
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [trevoro/sshauth](https://github.com/trevoro/sshauth) - SSH Authentication using the Github Teams API
@@ -3265,6 +3268,7 @@
 
 ## HTML 
 
+- [healthchecks/dashboard](https://github.com/healthchecks/dashboard) - A standalone dashboard page showing the status of the checks in your Healthchecks.io account.
 - [YePpHa/YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.
 - [fb55/readabilitySAX](https://github.com/fb55/readabilitySAX) - a fast and platform independent readability port (JS)
 - [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
@@ -3315,7 +3319,7 @@
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [katalon-studio/katalon-recorder-samples](https://github.com/katalon-studio/katalon-recorder-samples) - Samples for Katalon Recorder
 - [Tysonpower/DC4-emulator](https://github.com/Tysonpower/DC4-emulator) - Run the Dreamcatcher 4 UI on any Webserver
-- [visualblind/Scripts-collection](https://github.com/visualblind/Scripts-collection) - Collection of all my scripts
+- [visualblind/Scripts-collection](https://github.com/visualblind/Scripts-collection) - Collection of all my scripts over a 10+ year time period. Languages included: bash/shell, html, js, sql, perl, php, python, cmd/batch, docker/docker-compose conf, nginx conf.
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
 - [datadesk/california-topojson-atlas](https://github.com/datadesk/california-topojson-atlas) - Simple maps of California's 58 counties
 - [FlyOrBoom/mercator](https://github.com/FlyOrBoom/mercator) - Mercator Studio is a script that applies basic camera effects for Google Meet. (no longer actively developed)
@@ -3424,6 +3428,7 @@
 
 ## Haskell 
 
+- [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - decentralized chat with a focus on users’ privacy - doesn't use global user identities - now with groups and sending files!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
@@ -3441,7 +3446,6 @@
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [mryndzionek/composable-sdr](https://github.com/mryndzionek/composable-sdr) - SDR DSP utilities embedded in Haskell
 - [inguardians/VaporTrail](https://github.com/inguardians/VaporTrail) - Written by InGuardians' Faith Alderson and Larry Pesce, VaporTrail is a tool for data transmission over FM, using RPITX to transmit from an out-of-the-box Raspberry Pi, and an RTL-SDR to receive.  Twitter handles:  @unknownloner, @haxorthematrix, @inguardians
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [chrisdone/jl](https://github.com/chrisdone/jl) - Functional sed for JSON
 
 ## Haxe 
@@ -3643,6 +3647,7 @@
 
 ## JavaScript 
 
+- [nicoandrade/healthchecks-front](https://github.com/nicoandrade/healthchecks-front) - Beautiful dashboard to use with Healthchecks.io
 - [tuananh/reader](https://github.com/tuananh/reader) - get a reader mode sharable url for any url - built with cloudflare workers https://reader.tuananh.net
 - [evertdespiegeleer/PrettyEarth](https://github.com/evertdespiegeleer/PrettyEarth) - A minimal macOS application allowing the use of Google Earth View images as your wallpaper.
 - [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout
@@ -4621,7 +4626,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5642,6 +5647,7 @@
 
 ## Others 
 
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [arbal/reader](https://github.com/arbal/reader) - get a reader mode sharable url for any url - built with cloudflare workers https://reader.tuananh.net
 - [jianershi/unbound-config](https://github.com/jianershi/unbound-config) - run unbound dns with grafana dashboard on raspberry pi
 - [Thefrank/jellyfin-server-freebsd](https://github.com/Thefrank/jellyfin-server-freebsd) - jellyfin-server component for freebsd
@@ -5945,6 +5951,7 @@
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
@@ -6718,6 +6725,7 @@
 
 ## Python 
 
+- [grahambell/crab](https://github.com/grahambell/crab) - Cron alert board
 - [AgriVision/rpi_rtlsdr_weather_station](https://github.com/AgriVision/rpi_rtlsdr_weather_station) - python code to show weather data from a wireless weather station to a web page
 - [healthchecks/hchk](https://github.com/healthchecks/hchk) - A CLI interface to healthchecks.io
 - [deanishe/alfred-fuzzyfolders](https://github.com/deanishe/alfred-fuzzyfolders) - Fuzzy search across folder subdirectories
@@ -7668,7 +7676,6 @@
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [DocSystem/tccutil](https://github.com/DocSystem/tccutil) - A macOS Permissions manager
 - [rand-net/khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
-- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [nateGeorge/slurm_gpu_ubuntu](https://github.com/nateGeorge/slurm_gpu_ubuntu) - Instructions for setting up a SLURM cluster using Ubuntu 18.04.3 with GPUs.
@@ -8530,6 +8537,7 @@
 - [gtalarico/pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
 - [UniversityRadioYork/jail-devops](https://github.com/UniversityRadioYork/jail-devops) - who needs docker?
 - [fractalcells/ansible-iocage](https://github.com/fractalcells/ansible-iocage) - 
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [pnlng/alfred-url-actions](https://github.com/pnlng/alfred-url-actions) - An Alfred workflow that fetches the URL and title of your browser's current tab, and does things with them.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
@@ -9066,6 +9074,9 @@
 
 ## Rust 
 
+- [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
+- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
+- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [dimo414/task-mon](https://github.com/dimo414/task-mon) - CLI to execute commands and log results to healthchecks.io
 - [svartalf/unbound-telemetry](https://github.com/svartalf/unbound-telemetry) - Prometheus exporter for Unbound DNS resolver
 - [maidsafe-archive/system_uri](https://github.com/maidsafe-archive/system_uri) - Desktop System App URI registration handler
@@ -9366,6 +9377,7 @@
 
 ## Shell 
 
+- [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
 - [tronyx/tronitor](https://github.com/tronyx/tronitor) - Bash script to work with UptimeRobot, StatusCake,  HealthChecks.io, & Upptime monitoring providers
 - [ruudud/devdns](https://github.com/ruudud/devdns) - Automagic Docker DNS for local development
 - [SumGuyV5/iocage-plugin-prowlarr](https://github.com/SumGuyV5/iocage-plugin-prowlarr) - 
@@ -9997,7 +10009,7 @@
 - [ahuacate/pve-medialab](https://github.com/ahuacate/pve-medialab) - LXC Media Container Builds - Qotom & NAS Build
 - [ReSearchITEng/kubeadm-playbook](https://github.com/ReSearchITEng/kubeadm-playbook) - Fully fledged (HA) Kubernetes Cluster using official kubeadm, ansible and helm. Tested on RHEL/CentOS/Ubuntu with support of http_proxy, dashboard installed, ingress controller, heapster - using official helm charts
 - [bbugyi200/cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 600+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 700+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [jumanjihouse/docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan) - Qualys sslabs-scan utility in a tiny docker image
 - [bvis/docker-prometheus-swarm](https://github.com/bvis/docker-prometheus-swarm) - Sample prometheus that can be used as a sample to get Swarm cluster metrics
