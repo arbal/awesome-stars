@@ -3429,7 +3429,7 @@
 ## Haskell 
 
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - decentralized chat with a focus on users’ privacy - doesn't use global user identities - now with groups and sending files!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with groups and sending files!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -4338,7 +4338,7 @@
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [mostfamiliar/elevation-cli](https://github.com/mostfamiliar/elevation-cli) - Mapbox elevation query CLI
-- [mikesteele/dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube, Netflix & Disney+
+- [mikesteele/dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube & Netflix
 - [watson/ipp-printer](https://github.com/watson/ipp-printer) - An IPP printer written in Node.js
 - [mafintosh/dns-discovery](https://github.com/mafintosh/dns-discovery) - Discovery peers in a distributed system using regular dns and multicast dns.
 - [mafintosh/airswarm](https://github.com/mafintosh/airswarm) - Network swarm that automagically discovers other peers on the network using multicast dns
@@ -6725,6 +6725,8 @@
 
 ## Python 
 
+- [arbal/docker2mqtt](https://github.com/arbal/docker2mqtt) - Send status information about docker containers to mqtt.
+- [bitsofinfo/swarm-traefik-state-analyzer](https://github.com/bitsofinfo/swarm-traefik-state-analyzer) - Tool to aid in the analysis of Docker Swarm services that are proxied by Traefik
 - [grahambell/crab](https://github.com/grahambell/crab) - Cron alert board
 - [AgriVision/rpi_rtlsdr_weather_station](https://github.com/AgriVision/rpi_rtlsdr_weather_station) - python code to show weather data from a wireless weather station to a web page
 - [healthchecks/hchk](https://github.com/healthchecks/hchk) - A CLI interface to healthchecks.io
@@ -8888,7 +8890,7 @@
 
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
-- [swanson/stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+- [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 - [busyloop/vj](https://github.com/busyloop/vj) - vj - JSON Humanizer
 - [defunkt/repl](https://github.com/defunkt/repl) - Sometimes you need a REPL. Unmaintained, sorry.
 - [oscardelben/github-trends](https://github.com/oscardelben/github-trends) - Provides a RSS Feed for most watched and most forked repos on Github
@@ -9463,7 +9465,7 @@
 - [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 - [hslatman/tailscale-balena-block](https://github.com/hslatman/tailscale-balena-block) - 
 - [Hubbitus/shell.scripts](https://github.com/Hubbitus/shell.scripts) - Useful shell scripts, examples and snippets
-- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - SkiffOS: lightweight & robust cross-compiled Linux distribution optimized for hosting containers.
+- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - SkiffOS: Lightweight cross-compiled Linux distribution optimized for hosting containers on unreliable devices.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [marblenix/iocage-plugin-vault](https://github.com/marblenix/iocage-plugin-vault) - 
 - [tsujamin/hass-addons](https://github.com/tsujamin/hass-addons) - 
@@ -9592,7 +9594,7 @@
 - [adept/paperless-ocrmypdf](https://github.com/adept/paperless-ocrmypdf) - Docker compose recipe for The Paperless Project + OCRmyPDF
 - [morrownr/7612u](https://github.com/morrownr/7612u) - Linux Support for USB WiFi Adapters that are based on the MT7612U Chipset
 - [offlinehacker/docker-ap](https://github.com/offlinehacker/docker-ap) - WIFI access point running in docker
-- [Tommrodrigues/ProbeOSX](https://github.com/Tommrodrigues/ProbeOSX) - Capture and interpret probe requests with macOS
+- [phenotypic/ProbeOSX](https://github.com/phenotypic/ProbeOSX) - Capture and interpret probe requests with macOS
 - [ar18-linux/libstderred](https://github.com/ar18-linux/libstderred) - 
 - [bash-suite/gh-latest](https://github.com/bash-suite/gh-latest) - Simple utility to get the latest release version from GitHub repository
 - [tjluoma/pkginstall](https://github.com/tjluoma/pkginstall) - shell script for installing packages via Mac OS X's `installer` program instead of GUI
@@ -10952,7 +10954,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [playwright-community/playwright-jest-examples](https://github.com/playwright-community/playwright-jest-examples) - Demonstrates the usage of Playwright (cross-browser automation library in Node.js) in combination with Jest on GitHub Actions to test various setups.
