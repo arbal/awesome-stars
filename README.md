@@ -4081,7 +4081,6 @@
 - [jamesbarnett91/tplink-energy-monitor](https://github.com/jamesbarnett91/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
-- [MM2-0/Dialogflow2MQTT](https://github.com/MM2-0/Dialogflow2MQTT) - A webhook for Dialogflow that forwards incoming requests to an MQTT server
 - [DIYgod/download-webhook](https://github.com/DIYgod/download-webhook) - 🍰 Download files through webhook
 - [negative0/rclone-terminal](https://github.com/negative0/rclone-terminal) - Terminal extension for rclone webui react.
 - [negative0/rclone-file-viewer](https://github.com/negative0/rclone-file-viewer) - An official rclone plugin for viewing files like csv etc
@@ -6437,6 +6436,7 @@
 
 ## PHP 
 
+- [kiler129/mikrotik-auto-wireguard](https://github.com/kiler129/mikrotik-auto-wireguard) - 
 - [laazyj/Alfred.Plex](https://github.com/laazyj/Alfred.Plex) - Alfred 2 Workflow for Plex
 - [opennetadmin/ona](https://github.com/opennetadmin/ona) - OpenNetAdmin IP Address Management (IPAM) system
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
@@ -6766,7 +6766,7 @@
 - [takala-jp/zabbix-proxmox](https://github.com/takala-jp/zabbix-proxmox) - Monitor a Proxmox cluster with Zabbix
 - [jertel/vuegraf](https://github.com/jertel/vuegraf) - Populate metrics from your Emporia Vue energy monitoring devices into an InfluxDB
 - [HumanExposure/data_mgmt_scripts](https://github.com/HumanExposure/data_mgmt_scripts) - Repository for storage of data management scripts, such as scripts used to download new data, or scripts used to extract data
-- [Crinibus/scraper](https://github.com/Crinibus/scraper) - For scraping and tracking prices of products.
+- [Crinibus/scraper](https://github.com/Crinibus/scraper) - For scraping and tracking prices of products on various websites.
 - [adrijano/crypto-watcher](https://github.com/adrijano/crypto-watcher) - Real-time cryptocurrencies prices.
 - [Corfucinas/crypto-candlesticks](https://github.com/Corfucinas/crypto-candlesticks) - Download candlestick data fast & easy for analysis
 - [achyutjoshi/Flight-Prices-Scraper](https://github.com/achyutjoshi/Flight-Prices-Scraper) - Automated Script to scrape flight prices from any website into a csv format
@@ -6916,7 +6916,6 @@
 - [endlessm/eos-boot-helper](https://github.com/endlessm/eos-boot-helper) - Endless OS services required for booting
 - [aaronzlim/rtlsdr-speca](https://github.com/aaronzlim/rtlsdr-speca) - RTL-SDR based spectrum analyzer.
 - [EarToEarOak/RF-Monitor](https://github.com/EarToEarOak/RF-Monitor) - RF signal monitor
-- [uav-profile/rtlsdr-spectrum](https://github.com/uav-profile/rtlsdr-spectrum) - Using RTL-SDR Dongle to watching spectrum, some DSP...
 - [CdeMills/RTLSDR-Scanner](https://github.com/CdeMills/RTLSDR-Scanner) - A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library
 - [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa) - 🏠🤖 Python API for TP-Link Kasa Smarthome products
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
