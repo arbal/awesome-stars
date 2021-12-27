@@ -1309,6 +1309,7 @@
 
 ## Dockerfile 
 
+- [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [jnsgruk/flypi](https://github.com/jnsgruk/flypi) - A collection of tools for tracking planes/helicopters/UFOs/whatever with ADS-B. Packaged in OCI-compliant containers and orchestrated with docker-compose.
 - [arbal/flent-docker](https://github.com/arbal/flent-docker) - Dockerized flent app for RRUL Network test
 - [cdeex/flent-docker](https://github.com/cdeex/flent-docker) - Dockerized flent app for RRUL Network test
@@ -1563,6 +1564,7 @@
 
 ## Go 
 
+- [pgpool/pgpool2_exporter](https://github.com/pgpool/pgpool2_exporter) - Prometheus exporter for Pgpool-II.
 - [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
 - [JamesClonk/vultr](https://github.com/JamesClonk/vultr) - :penguin: Vultr CLI and API client library
 - [bdd/runitor](https://github.com/bdd/runitor) - A command runner with healthchecks.io integration
@@ -2456,7 +2458,7 @@
 - [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
 - [retroplasma/flyover-reverse-engineering](https://github.com/retroplasma/flyover-reverse-engineering) - Reversing Apple's 3D satellite mode
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
-- [ossrs/go-oryx](https://github.com/ossrs/go-oryx) - The go-oryx is a toolkit for SRS.
+- [ossrs/go-oryx](https://github.com/ossrs/go-oryx) - A HTTP/HTTPS API proxy for SRS.
 - [JoshuaMart/HIBP_PasswordList_Slimmer](https://github.com/JoshuaMart/HIBP_PasswordList_Slimmer) - Converted the text list to binary to save space
 - [sfproductlabs/roo](https://github.com/sfproductlabs/roo) - Setup and run your own clusters on your own infrastructure in minutes (Eg. ECS or EKS). Roo is a zero config distributed ingress, edge-router & reverse-proxy (supporting multiple letsencrypt/https hosts) using Docker Swarm. No dependencies.
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) - High-Performance MQTT Server
@@ -2581,7 +2583,7 @@
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
-- [profclems/glab](https://github.com/profclems/glab) - An open-source GitLab command line tool bringing GitLab's cool features to your command line
+- [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [spolu/warp](https://github.com/spolu/warp) - Secure and simple terminal sharing
@@ -3647,6 +3649,9 @@
 
 ## JavaScript 
 
+- [cyrilbois/Web-GUI-for-SQLite](https://github.com/cyrilbois/Web-GUI-for-SQLite) - Web GUI for SQLite is a web-based SQLite browser written in JavaScript
+- [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
+- [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [nicoandrade/healthchecks-front](https://github.com/nicoandrade/healthchecks-front) - Beautiful dashboard to use with Healthchecks.io
 - [tuananh/reader](https://github.com/tuananh/reader) - get a reader mode sharable url for any url - built with cloudflare workers https://reader.tuananh.net
 - [evertdespiegeleer/PrettyEarth](https://github.com/evertdespiegeleer/PrettyEarth) - A minimal macOS application allowing the use of Google Earth View images as your wallpaper.
@@ -4378,7 +4383,6 @@
 - [taeukme/google-home-push](https://github.com/taeukme/google-home-push) - Send Push Notifications to your Google Home device
 - [danistefanovic/hooka](https://github.com/danistefanovic/hooka) - 😎 A webhook server with zero coding
 - [terafin/mqtt-rainforest-bridge](https://github.com/terafin/mqtt-rainforest-bridge) - Simple docker container that locally polls the rainforest energy bridge, and sends the results to an MQTT broker
-- [xgenecloud/xgenecloud](https://github.com/xgenecloud/xgenecloud) - XgeneCloud is now https://github.com/nocodb/nocodb
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Trino, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
 - [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
@@ -5646,6 +5650,7 @@
 
 ## Others 
 
+- [planetopendata/awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) - A collection of awesome sqlite tools, scripts, books, etc
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [arbal/reader](https://github.com/arbal/reader) - get a reader mode sharable url for any url - built with cloudflare workers https://reader.tuananh.net
 - [jianershi/unbound-config](https://github.com/jianershi/unbound-config) - run unbound dns with grafana dashboard on raspberry pi
@@ -6725,6 +6730,9 @@
 
 ## Python 
 
+- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
+- [deibit/cansina](https://github.com/deibit/cansina) - Web Content Discovery Tool
+- [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - [arbal/docker2mqtt](https://github.com/arbal/docker2mqtt) - Send status information about docker containers to mqtt.
 - [bitsofinfo/swarm-traefik-state-analyzer](https://github.com/bitsofinfo/swarm-traefik-state-analyzer) - Tool to aid in the analysis of Docker Swarm services that are proxied by Traefik
 - [grahambell/crab](https://github.com/grahambell/crab) - Cron alert board
@@ -9378,6 +9386,9 @@
 
 ## Shell 
 
+- [redraw/gh-install](https://github.com/redraw/gh-install) - install GitHub release binaries from the CLI
+- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
+- [9to5IT/Alfred-Project-Launcher](https://github.com/9to5IT/Alfred-Project-Launcher) - Alfred workflow to launch apps, folders, files, etc that relate to a specific project or task.
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
 - [tronyx/tronitor](https://github.com/tronyx/tronitor) - Bash script to work with UptimeRobot, StatusCake,  HealthChecks.io, & Upptime monitoring providers
 - [ruudud/devdns](https://github.com/ruudud/devdns) - Automagic Docker DNS for local development
@@ -10516,6 +10527,7 @@
 
 ## Swift 
 
+- [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [Pictarine/macos-snippets](https://github.com/Pictarine/macos-snippets) - Snip is a lightweight snippets manager app for macOS
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
@@ -10724,6 +10736,9 @@
 
 ## TypeScript 
 
+- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
+- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - PRELEASE of V2 - 🤠 wrangle your Cloudflare Workers
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
