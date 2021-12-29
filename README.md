@@ -4798,7 +4798,7 @@
 - [microsoft/pai](https://github.com/microsoft/pai) - Resource scheduling and cluster management for AI
 - [netdata/dashboard](https://github.com/netdata/dashboard) - UI for Netdata Agent
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
-- [Dreamseer/alfred-http](https://github.com/Dreamseer/alfred-http) - 💡 An Alfred workflow to quickly lookup HTTP status codes.
+- [mrcgrtz/alfred-http](https://github.com/mrcgrtz/alfred-http) - 💡 An Alfred workflow to quickly lookup HTTP status codes.
 - [grafana/worldmap-panel](https://github.com/grafana/worldmap-panel) - Worldmap panel plugin for Grafana 3.0 that can be overlaid with circles for data points.
 - [todbot/Blink1Control2](https://github.com/todbot/Blink1Control2) - Blink1Control GUI to control blink(1) USB RGB LED devices.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -5129,7 +5129,7 @@
 - [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
 - [FormidableLabs/nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [afaqurk/linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
-- [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -5649,6 +5649,7 @@
 
 ## Others 
 
+- [tenseoverflow/swarm](https://github.com/tenseoverflow/swarm) - Docker Swarm files for my server
 - [planetopendata/awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) - A collection of awesome sqlite tools, scripts, books, etc
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [arbal/reader](https://github.com/arbal/reader) - get a reader mode sharable url for any url - built with cloudflare workers https://reader.tuananh.net
@@ -9385,6 +9386,8 @@
 
 ## Shell 
 
+- [AdamGoldsmith/docker_swarm](https://github.com/AdamGoldsmith/docker_swarm) - Provision infrastructure and Deploy Docker Swarm
+- [ariselseng/mergerfs-rebalancer](https://github.com/ariselseng/mergerfs-rebalancer) - A simple script to move files from one folder to another. Made with mergerfs in mind.
 - [redraw/gh-install](https://github.com/redraw/gh-install) - install GitHub release binaries from the CLI
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 - [9to5IT/Alfred-Project-Launcher](https://github.com/9to5IT/Alfred-Project-Launcher) - Alfred workflow to launch apps, folders, files, etc that relate to a specific project or task.
@@ -11249,7 +11252,7 @@
 - [arlophoenix/ts-toolkit](https://github.com/arlophoenix/ts-toolkit) - Get a project up and running with Typescript. Includes Typescript, Babel, Jest, ESLint, Prettier, CircleCI, VSCode config and more.
 - [TooTallNate/node-agent-base](https://github.com/TooTallNate/node-agent-base) - Turn a function into an `http.Agent` instance
 - [home-assistant/home-assistant-js-websocket](https://github.com/home-assistant/home-assistant-js-websocket) - :aerial_tramway: JavaScript websocket client for Home Assistant
-- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [feathersjs-ecosystem/feathers-vuex](https://github.com/feathersjs-ecosystem/feathers-vuex) - Integration of FeathersJS, Vue, and Nuxt for the artisan developer
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
@@ -11352,7 +11355,7 @@
 ## YAML 
 
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
-- [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for most of my services.
+- [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for all of my services.
 
 ## sed 
 
