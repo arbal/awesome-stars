@@ -192,6 +192,7 @@
 
 ## C 
 
+- [jumanjiman/hangwatch](https://github.com/jumanjiman/hangwatch) - Triggers a system action if a user-defined loadavg is exceeded
 - [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook) - Mac OS X QuickLook plugin for WebP image files
 - [pc/tsocks](https://github.com/pc/tsocks) - &lt;p&gt;A GPL-licensed program for transparent SOCKS proxying. E.g.:&lt;/p&gt;&lt;p&gt;&lt;tt&gt;tsocks curl whatismyip.org&lt;/tt&gt;&lt;/p&gt;&lt;p&gt;Will display the IP of the SOCKS proxy configured in /etc/tsocks.conf, without curl having to know anything about it.&lt;/p&gt;
 - [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks) - A tun2socks implementation written in Go.
@@ -1309,6 +1310,7 @@
 
 ## Dockerfile 
 
+- [kurmanovd/tailscale-derper](https://github.com/kurmanovd/tailscale-derper) - DERP for Tailscale in Docker
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [jnsgruk/flypi](https://github.com/jnsgruk/flypi) - A collection of tools for tracking planes/helicopters/UFOs/whatever with ADS-B. Packaged in OCI-compliant containers and orchestrated with docker-compose.
 - [arbal/flent-docker](https://github.com/arbal/flent-docker) - Dockerized flent app for RRUL Network test
@@ -1563,6 +1565,7 @@
 
 ## Go 
 
+- [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [pgpool/pgpool2_exporter](https://github.com/pgpool/pgpool2_exporter) - Prometheus exporter for Pgpool-II.
 - [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
 - [JamesClonk/vultr](https://github.com/JamesClonk/vultr) - :penguin: Vultr CLI and API client library
@@ -3264,6 +3267,7 @@
 - [BretFisher/dogvscat](https://github.com/BretFisher/dogvscat) - Sample Docker Swarm cluster stack of tools
 - [in0rdr/tf-ansible-workflow](https://github.com/in0rdr/tf-ansible-workflow) - Terraform/Ansible Workflow for Libvirt
 - [tylert/packer-build](https://github.com/tylert/packer-build) - Packer Automated VM Image and Vagrant Box Builds
+- [Aaron-K-T-Berry/packer-ubuntu-proxmox-template](https://github.com/Aaron-K-T-Berry/packer-ubuntu-proxmox-template) - This packer template will create an ubuntu 18.04 cloud init enabled proxmox template
 - [terraform-google-modules/terraform-google-gsuite-export](https://github.com/terraform-google-modules/terraform-google-gsuite-export) - The module will create a compute engine VM instance and set up a cronjob to export GSuite Admin SDK data to Stackdriver Logging on a schedule.
 - [mockingbirdconsulting/HashicorpAtHome](https://github.com/mockingbirdconsulting/HashicorpAtHome) - 
 
@@ -3516,7 +3520,7 @@
 - [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.
 - [repeats/Repeat](https://github.com/repeats/Repeat) - Cross-platform mouse/keyboard record/replay and automation hotkeys/macros creation, and more advanced automation features.
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Build criterion and ecosystem above multi-model databases
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Building a Standard Layer & Ecosystem Above Heterogeneous Databases
 - [Rantzur1992/parallel-cucumber](https://github.com/Rantzur1992/parallel-cucumber) - Example Tests with parallel execution on Docker using TestProject Java SDK and Docker
 - [BenjaminFavre/keycloak-apple-social-identity-provider](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider) - Apple Social Identity Provider for Keycloak
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -3648,6 +3652,7 @@
 
 ## JavaScript 
 
+- [screwdriver-cd/screwdriver](https://github.com/screwdriver-cd/screwdriver) - An open source build platform designed for continuous delivery.
 - [cyrilbois/Web-GUI-for-SQLite](https://github.com/cyrilbois/Web-GUI-for-SQLite) - Web GUI for SQLite is a web-based SQLite browser written in JavaScript
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
@@ -3730,7 +3735,6 @@
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [jshttp/type-is](https://github.com/jshttp/type-is) - Infer the content-type of a request.
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [iobio/minion](https://github.com/iobio/minion) - Server wrapper that turns command line tools into web services
 - [urlint/urlint](https://github.com/urlint/urlint) - Checking the availability of links from your CLI
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -6260,7 +6264,6 @@
 - [mikrotik-ansible/mikrotik-firewall](https://github.com/mikrotik-ansible/mikrotik-firewall) - 
 - [Madnessy/ansible-mikrotik](https://github.com/Madnessy/ansible-mikrotik) - Manage mikrotik devices
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
-- [Aaron-K-T-Berry/packer-ubuntu-proxmox-template](https://github.com/Aaron-K-T-Berry/packer-ubuntu-proxmox-template) - This packer template will create an ubuntu 18.04 cloud init enabled proxmox template
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - Everything awesome related to npm scripts and using npm as a build tool.
@@ -7682,7 +7685,7 @@
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [POSTECH-CVLab/PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
-- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
+- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
 - [DocSystem/tccutil](https://github.com/DocSystem/tccutil) - A macOS Permissions manager
 - [rand-net/khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -10465,7 +10468,7 @@
 - [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - Spotify Connect client for the Raspberry Pi that Just Works™
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
 - [vdesabou/alfred-mac-osx-sharing](https://github.com/vdesabou/alfred-mac-osx-sharing) - Alfred workflow to use Mac OS X sharing services
@@ -11310,10 +11313,11 @@
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [dernasherbrezon/r2cloud-ui](https://github.com/dernasherbrezon/r2cloud-ui) - Web UI for r2cloud (https://github.com/dernasherbrezon/r2cloud)
 - [jeliasson/dns-propagation-checker](https://github.com/jeliasson/dns-propagation-checker) - Check propagation of DNS records from one or many Name Servers. Useful for validating a DNS zone during migration.
 - [robertsLando/Mqtt2Mqtt](https://github.com/robertsLando/Mqtt2Mqtt) - Customize MQTT messages between two brokers
