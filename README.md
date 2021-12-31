@@ -1303,13 +1303,14 @@
 ## Dart 
 
 - [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
-- [photoprism/photoprism-mobile](https://github.com/photoprism/photoprism-mobile) - PhotoPrism Mobile App
+- [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) - Flutter App for PhotoPrism
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [CometTools/LunaSea](https://github.com/CometTools/LunaSea) - A self-hosted controller for mobile and macOS built using the Flutter framework.
 - [jogboms/flutter_offline](https://github.com/jogboms/flutter_offline) - ✈️ A tidy utility to handle offline/online connectivity like a Boss
 
 ## Dockerfile 
 
+- [ricardbejarano/haproxy_exporter](https://github.com/ricardbejarano/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
 - [kurmanovd/tailscale-derper](https://github.com/kurmanovd/tailscale-derper) - DERP for Tailscale in Docker
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [jnsgruk/flypi](https://github.com/jnsgruk/flypi) - A collection of tools for tracking planes/helicopters/UFOs/whatever with ADS-B. Packaged in OCI-compliant containers and orchestrated with docker-compose.
@@ -1677,7 +1678,7 @@
 - [teamnsrg/mida](https://github.com/teamnsrg/mida) - MIDA: A Tool for Measuring the Internet
 - [adhocore/fast](https://github.com/adhocore/fast) - Check your internet speed right from your terminal. Built on GOlang using chromedp
 - [j3ssie/goverview](https://github.com/j3ssie/goverview) - goverview - Get an overview of the list of URLs
-- [micheleriva/gauguin](https://github.com/micheleriva/gauguin) - 🎨  High performances Golang server for generating social share images dynamically.
+- [micheleriva/gauguin](https://github.com/micheleriva/gauguin) - 🎨  High performances Golang server for generating social share images dynamically (beta).
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [rusq/chromedl](https://github.com/rusq/chromedl) - Go library for scraping or downloading files bypassing Cloudflare protection and browser checks
 - [haroflow/chromedp-requests-logger](https://github.com/haroflow/chromedp-requests-logger) - Logs the requests from a webpage, printing accessed domains and URLs.
@@ -2960,7 +2961,7 @@
 - [agorf/dyndns53](https://github.com/agorf/dyndns53) - Run your own dynamic DNS service with Amazon Route 53
 - [skibish/ddns](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
 - [pboehm/ddns](https://github.com/pboehm/ddns) - A self-hosted Dynamic DNS solution similar to DynDNS or NO-IP
-- [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [evanphx/schain](https://github.com/evanphx/schain) - An alternative to envchain that is cross platform
 - [andrewhamon/pcmd](https://github.com/andrewhamon/pcmd) - Get creative with your SSH ProxyCommands
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -4293,7 +4294,7 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile, SingleFileZ, and WebMemex, but gooderer. Full text search coming soon
+- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - welcome to the diskernet. An internet on your disk.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 - [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -5892,6 +5893,7 @@
 - [dbohdan/embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [AnarchoTechNYC/ansible-role-dnscrypt-proxy](https://github.com/AnarchoTechNYC/ansible-role-dnscrypt-proxy) - :lock::postal_horn: Spin up a(n optionally Torified) DNS, DNSCrypt v2, DNS-over-TLS, and/or DNS-over-HTTPS proxy server.
+- [firefly-iii/csv-importer](https://github.com/firefly-iii/csv-importer) - Tool repository: A Firefly III tool to import CSV files into Firefly III.
 - [arbal/docker-swarm-keepalived](https://github.com/arbal/docker-swarm-keepalived) - Operator for keepalived on docker swarm
 - [rxy/OoklaServer-speedtest.net-daemon](https://github.com/rxy/OoklaServer-speedtest.net-daemon) - https://support.ookla.com/hc/en-us/articles/234578528-OoklaServer-Installation-Linux-Unix
 - [awesometic/hackintosh-gigabyte-x570-aorus-elite](https://github.com/awesometic/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh.
@@ -6494,7 +6496,6 @@
 - [mhujer/yaml-sort-checker](https://github.com/mhujer/yaml-sort-checker) - Tool for checking if the YAML config files are alphabetically sorted
 - [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Self Hosted Appointment Scheduler
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
-- [firefly-iii/csv-importer](https://github.com/firefly-iii/csv-importer) - Tool repository: A Firefly III tool to import CSV files into Firefly III.
 - [dan-da/hd-wallet-addrs](https://github.com/dan-da/hd-wallet-addrs) - A command-line tool that performs Bitcoin wallet address discovery.
 - [gugoan/economizzer](https://github.com/gugoan/economizzer) - Open Source Personal Finance Manager
 - [joshp23/ttrss-to-Sci-Hub](https://github.com/joshp23/ttrss-to-Sci-Hub) - Convert DOI and other links to Sci-Hub links in TT-Rss
@@ -8634,7 +8635,6 @@
 - [jketterl/openwebrx](https://github.com/jketterl/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [mkoskar/dotfiles](https://github.com/mkoskar/dotfiles) - My $HOME files
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
-- [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
 - [scivision/findssh](https://github.com/scivision/findssh) - Asyncio concurrent Python finds SSH servers (or other services with open ports) on an IPv4 subnet, WITHOUT NMAP
 - [myaut/dtrace-stap-book](https://github.com/myaut/dtrace-stap-book) - Book about DTrace and SystemTap
@@ -9104,7 +9104,6 @@
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [benwebber/tunnelblickctl](https://github.com/benwebber/tunnelblickctl) - :lock: Command-line interface for Tunnelblick
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
-- [Nukesor/pueue-lib](https://github.com/Nukesor/pueue-lib) - A library to interact with Pueue
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [matze/iridium](https://github.com/matze/iridium) - Standard Notes client written in Rust and GTK
@@ -11348,7 +11347,7 @@
 - [moshe/elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 - [sphqxe/NATS-WebUI](https://github.com/sphqxe/NATS-WebUI) - A WebUI for NATS Server
 - [keitetran/BroadlinkIRTools](https://github.com/keitetran/BroadlinkIRTools) - Broadlink learn command helper.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
 - [bsa-git/feathers-plus-admin](https://github.com/bsa-git/feathers-plus-admin) - Project feathers-plus-admin
 
 ## XSLT 
