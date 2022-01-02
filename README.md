@@ -1310,6 +1310,7 @@
 
 ## Dockerfile 
 
+- [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized ASN Lookup Tool and Traceroute Server (nitefood/asn)
 - [ricardbejarano/haproxy_exporter](https://github.com/ricardbejarano/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
 - [kurmanovd/tailscale-derper](https://github.com/kurmanovd/tailscale-derper) - DERP for Tailscale in Docker
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
@@ -1463,7 +1464,7 @@
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [gramaziokohler/ros_docker](https://github.com/gramaziokohler/ros_docker) - Docker images for ROS master, bridge and nodes
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command.
 - [MojaX2/docker-ros-noetic](https://github.com/MojaX2/docker-ros-noetic) - 
 - [mglukhovsky/caddy2](https://github.com/mglukhovsky/caddy2) - Caddy 2 with Cloudflare modules
 - [nklmilojevic/caddy2-custom](https://github.com/nklmilojevic/caddy2-custom) - Caddy 2 with Cloudflare docker repo
@@ -2540,6 +2541,7 @@
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [mehrdadrad/tcpprobe](https://github.com/mehrdadrad/tcpprobe) - Modern TCP tool and service for network performance observability.
 - [projectdiscovery/dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website.
 - [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -2934,7 +2936,6 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [nmaupu/freenas-provisioner](https://github.com/nmaupu/freenas-provisioner) - Kubernetes external provisioner using Freenas as backend
 - [travisghansen/freenas-iscsi-provisioner](https://github.com/travisghansen/freenas-iscsi-provisioner) - FreeNAS iscsi provisioner
-- [56quarters/await](https://github.com/56quarters/await) - Wait for a file to be created/deleted/modified while blocking
 - [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X is a cli tool to wait for everything! It can be wait for a port to open or enter to rquested state.
 - [antelman107/net-wait-go](https://github.com/antelman107/net-wait-go) - Utility and GO library that helps wait for network port to open on server side
 - [ph4r5h4d/wait4it](https://github.com/ph4r5h4d/wait4it) - A simple go application to test whether a port or a service is ready or not
@@ -4299,7 +4300,7 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - welcome to the diskernet. An internet on your disk.
+- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - welcome to the diskernet. An internet on your disk. Disconnect with DiskerNet. An internet for the apocalypse.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 - [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -7898,7 +7899,6 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
 - [truenas/iocage](https://github.com/truenas/iocage) - A FreeBSD jail manager written in Python 3
-- [j3ssie/Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [freol35241/ltss](https://github.com/freol35241/ltss) - Long time state storage (LTSS) custom component for Home Assistant using Timescale DB
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
@@ -9395,6 +9395,7 @@
 
 ## Shell 
 
+- [arbal/asn](https://github.com/arbal/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
 - [AdamGoldsmith/docker_swarm](https://github.com/AdamGoldsmith/docker_swarm) - Provision infrastructure and Deploy Docker Swarm
 - [ariselseng/mergerfs-rebalancer](https://github.com/ariselseng/mergerfs-rebalancer) - A simple script to move files from one folder to another. Made with mergerfs in mind.
@@ -11209,7 +11210,7 @@
 - [AlexGustafsson/homebridge-wol](https://github.com/AlexGustafsson/homebridge-wol) - A Wake on Lan plugin for Homebridge
 - [theodo/falco](https://github.com/theodo/falco) - Falco helps you monitor, analyze, and optimize your websites.
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [PinkyJie/google-actions-github-bot](https://github.com/PinkyJie/google-actions-github-bot) - A Google Assistant Action (with an invocation name of "Github Trending") which tells you the trending repositories on Github and more.
