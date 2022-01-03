@@ -1310,7 +1310,7 @@
 
 ## Dockerfile 
 
-- [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized ASN Lookup Tool and Traceroute Server (nitefood/asn)
+- [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized nitefood/asn ASN Lookup Tool and Traceroute Server
 - [ricardbejarano/haproxy_exporter](https://github.com/ricardbejarano/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
 - [kurmanovd/tailscale-derper](https://github.com/kurmanovd/tailscale-derper) - DERP for Tailscale in Docker
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
@@ -1567,6 +1567,8 @@
 
 ## Go 
 
+- [akerouanton/swarm-tasks-exporter](https://github.com/akerouanton/swarm-tasks-exporter) - 
+- [kwanhur/ipvs-exporter](https://github.com/kwanhur/ipvs-exporter) - Simple server that scrapes Linux kernel module ip_vs stats and exports them via HTTP for Prometheus consumption
 - [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
 - [pgpool/pgpool2_exporter](https://github.com/pgpool/pgpool2_exporter) - Prometheus exporter for Pgpool-II.
 - [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
@@ -3654,6 +3656,7 @@
 
 ## JavaScript 
 
+- [JupiterOne/security-policy-templates](https://github.com/JupiterOne/security-policy-templates) - A set of policies, standards and control procedures with mapping to HIPAA, NIST CSF, PCI DSS, SOC2, FedRAMP, CIS Controls, and more.
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR
 - [retorquere/zotero-pmcid-fetcher](https://github.com/retorquere/zotero-pmcid-fetcher) - 
@@ -4300,7 +4303,7 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - welcome to the diskernet. An internet on your disk. Disconnect with DiskerNet. An internet for the apocalypse.
+- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - full text search archive from your browsing and bookmarks. Welcome, Weclome!--to "the diskernet": an internet on yer disk. Disconnect with DiskerNet, an internet for the post-online apocalypse.
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 - [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -6366,7 +6369,7 @@
 - [vsouza/awesome-gists](https://github.com/vsouza/awesome-gists) - A collection of amazing gists
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
 - [kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
-- [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization
+- [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization & SSO & IAM
 - [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
@@ -6741,6 +6744,7 @@
 
 ## Python 
 
+- [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) - A GitHub Action for advanced repository traffic analysis and reporting.
 - [github-tooling/ghtopdep](https://github.com/github-tooling/ghtopdep) - :star: CLI tool for sorting dependents repo by stars
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [deibit/cansina](https://github.com/deibit/cansina) - Web Content Discovery Tool
@@ -9093,6 +9097,7 @@
 
 ## Rust 
 
+- [tomwhoiscontrary/isots](https://github.com/tomwhoiscontrary/isots) - a program to replace plausible UNIX timestamps with ISO 8601 datetimes
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -9395,6 +9400,8 @@
 
 ## Shell 
 
+- [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
+- [lancachenet/generic](https://github.com/lancachenet/generic) - Generic LAN Download Content Cache
 - [arbal/asn](https://github.com/arbal/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
 - [AdamGoldsmith/docker_swarm](https://github.com/AdamGoldsmith/docker_swarm) - Provision infrastructure and Deploy Docker Swarm
