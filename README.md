@@ -192,6 +192,7 @@
 
 ## C 
 
+- [arbal/aha](https://github.com/arbal/aha) - Ansi HTML Adapter
 - [jumanjiman/hangwatch](https://github.com/jumanjiman/hangwatch) - Triggers a system action if a user-defined loadavg is exceeded
 - [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook) - Mac OS X QuickLook plugin for WebP image files
 - [pc/tsocks](https://github.com/pc/tsocks) - &lt;p&gt;A GPL-licensed program for transparent SOCKS proxying. E.g.:&lt;/p&gt;&lt;p&gt;&lt;tt&gt;tsocks curl whatismyip.org&lt;/tt&gt;&lt;/p&gt;&lt;p&gt;Will display the IP of the SOCKS proxy configured in /etc/tsocks.conf, without curl having to know anything about it.&lt;/p&gt;
@@ -847,6 +848,8 @@
 
 ## C++ 
 
+- [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
+- [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [fraunhoferhhi/vvenc](https://github.com/fraunhoferhhi/vvenc) - Fraunhofer Versatile Video Encoder (VVenC)
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
@@ -1091,7 +1094,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [cosmoscout/cosmoscout-vr](https://github.com/cosmoscout/cosmoscout-vr) - :milky_way: A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
 - [BrewNinja/RadonEye-ESP32](https://github.com/BrewNinja/RadonEye-ESP32) - 
-- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
+- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis
 - [szpajder/RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 - [BatchDrake/SigDigger](https://github.com/BatchDrake/SigDigger) - Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library
@@ -1310,6 +1313,7 @@
 
 ## Dockerfile 
 
+- [evait-security/docker-multitor](https://github.com/evait-security/docker-multitor) - 
 - [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized nitefood/asn ASN Lookup Tool and Traceroute Server
 - [ricardbejarano/haproxy_exporter](https://github.com/ricardbejarano/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
 - [kurmanovd/tailscale-derper](https://github.com/kurmanovd/tailscale-derper) - DERP for Tailscale in Docker
@@ -1567,6 +1571,9 @@
 
 ## Go 
 
+- [maximbaz/yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
+- [hockeypuck/hockeypuck](https://github.com/hockeypuck/hockeypuck) - OpenPGP Key Server
+- [arbal/tailscale2cloudflare](https://github.com/arbal/tailscale2cloudflare) - Don't want to use MagicDNS? Put all of those DNS entries in Cloudflare instead.
 - [akerouanton/swarm-tasks-exporter](https://github.com/akerouanton/swarm-tasks-exporter) - 
 - [kwanhur/ipvs-exporter](https://github.com/kwanhur/ipvs-exporter) - Simple server that scrapes Linux kernel module ip_vs stats and exports them via HTTP for Prometheus consumption
 - [notaryproject/notary](https://github.com/notaryproject/notary) - Notary is a project that allows anyone to have trust over arbitrary collections of data
@@ -3656,6 +3663,11 @@
 
 ## JavaScript 
 
+- [arbal/bypass-paywalls-chrome](https://github.com/arbal/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [arbal/diving](https://github.com/arbal/diving) - Exploring each layer in a docker image
+- [arbal/active-forks](https://github.com/arbal/active-forks) - Find active github forks of a repo https://git.io/vSnrC
+- [arbal/alfred-httpstat](https://github.com/arbal/alfred-httpstat) - httpstat in alfred workflow
+- [arbal/eagle-mqtt-bridge](https://github.com/arbal/eagle-mqtt-bridge) - Rainforest Eagle to MQTT Bridge
 - [JupiterOne/security-policy-templates](https://github.com/JupiterOne/security-policy-templates) - A set of policies, standards and control procedures with mapping to HIPAA, NIST CSF, PCI DSS, SOC2, FedRAMP, CIS Controls, and more.
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR
@@ -5663,6 +5675,9 @@
 
 ## Others 
 
+- [arbal/haproxy_exporter](https://github.com/arbal/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
+- [arbal/factotum](https://github.com/arbal/factotum) - general purpose curation of exposure science data
+- [arbal/scrutiny](https://github.com/arbal/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [opds-community/awesome-opds](https://github.com/opds-community/awesome-opds) - A list of awesome resources for OPDS users and developers
 - [tenseoverflow/swarm](https://github.com/tenseoverflow/swarm) - Docker Swarm files for my server
 - [planetopendata/awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) - A collection of awesome sqlite tools, scripts, books, etc
@@ -5671,7 +5686,7 @@
 - [jianershi/unbound-config](https://github.com/jianershi/unbound-config) - run unbound dns with grafana dashboard on raspberry pi
 - [Thefrank/jellyfin-server-freebsd](https://github.com/Thefrank/jellyfin-server-freebsd) - jellyfin-server component for freebsd
 - [Thefrank/freebsd-port-sooners](https://github.com/Thefrank/freebsd-port-sooners) - FreeBSD ports-built binary packages
-- [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+- [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2022 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 - [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite list of awesome :octocat: secrets.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [arbal/chromium-hist-bookmarks](https://github.com/arbal/chromium-hist-bookmarks) - Search in Chromium History and Bookmarks
@@ -6744,6 +6759,10 @@
 
 ## Python 
 
+- [fdw/rofi-rbw](https://github.com/fdw/rofi-rbw) - Rofi frontend for Bitwarden
+- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [arbal/tailscale-hostmap](https://github.com/arbal/tailscale-hostmap) - Automatically map Tailscale hosts to DNS names locally
+- [arbal/ConsolePi](https://github.com/arbal/ConsolePi) - Raspberry Pi Based Serial Console Server, with PushBullet Notification of IP changes, Automatic VPN termination, custom menu, and a lot more
 - [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) - A GitHub Action for advanced repository traffic analysis and reporting.
 - [github-tooling/ghtopdep](https://github.com/github-tooling/ghtopdep) - :star: CLI tool for sorting dependents repo by stars
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
@@ -9097,6 +9116,8 @@
 
 ## Rust 
 
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [tomwhoiscontrary/isots](https://github.com/tomwhoiscontrary/isots) - a program to replace plausible UNIX timestamps with ISO 8601 datetimes
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
@@ -9400,6 +9421,7 @@
 
 ## Shell 
 
+- [HackingPheasant/bwfzf](https://github.com/HackingPheasant/bwfzf) - bitwarden + fzf: A nice command line front end to bitwarden
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [lancachenet/generic](https://github.com/lancachenet/generic) - Generic LAN Download Content Cache
 - [arbal/asn](https://github.com/arbal/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server
