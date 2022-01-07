@@ -192,6 +192,13 @@
 
 ## C 
 
+- [dequis/purple-facebook](https://github.com/dequis/purple-facebook) - Facebook protocol plugin for libpurple (moved from jgeboski/purple-facebook)
+- [Junker/purple-xmpp-http-upload](https://github.com/Junker/purple-xmpp-http-upload) - HTTP File Upload plugin for libpurple (XMPP Protocol)
+- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
+- [dylex/slack-libpurple](https://github.com/dylex/slack-libpurple) - Slack module for libpurple
+- [gkdr/lurch](https://github.com/gkdr/lurch) - XEP-0384: OMEMO Encryption for libpurple.
+- [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
+- [hoehermann/libpurple-signald](https://github.com/hoehermann/libpurple-signald) - Pidgin libpurple bridge to signald.
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [arbal/aha](https://github.com/arbal/aha) - Ansi HTML Adapter
 - [jumanjiman/hangwatch](https://github.com/jumanjiman/hangwatch) - Triggers a system action if a user-defined loadavg is exceeded
@@ -555,7 +562,6 @@
 - [BatchDrake/suscan](https://github.com/BatchDrake/suscan) - Channel scanner based on sigutils library
 - [pipelinedb/pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.
 - [dnsdb/dnsdbq](https://github.com/dnsdb/dnsdbq) - DNSDB API Client, C Version
 - [leahneukirchen/xe](https://github.com/leahneukirchen/xe) - simple xargs and apply replacement
@@ -731,6 +737,7 @@
 
 ## C# # 
 
+- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [isabellaalstrom/home-assistant-config](https://github.com/isabellaalstrom/home-assistant-config) - My configuration for Home Assistant on Hass.io
 - [confused-Techie/Tabby](https://github.com/confused-Techie/Tabby) - Tabby, a Self Hosted way to save and manage Bookmarks
 - [alexreich/RulesEngineEditor](https://github.com/alexreich/RulesEngineEditor) - Editor for Microsoft RulesEngine - Blazor UI library intended for integration in Web or Desktop
@@ -849,6 +856,7 @@
 
 ## C++ 
 
+- [hoehermann/purple-signal](https://github.com/hoehermann/purple-signal) - Pidgin/libpurple plugin for signal using libsignal-service-java (and parts of signal-cli).
 - [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
 - [fraunhoferhhi/vvenc](https://github.com/fraunhoferhhi/vvenc) - Fraunhofer Versatile Video Encoder (VVenC)
@@ -1572,6 +1580,8 @@
 
 ## Go 
 
+- [samuelkarp/purple-docker](https://github.com/samuelkarp/purple-docker) - purple-docker: A libpurple protocol plugin for your Docker containers
+- [dgl/alertmanager-webhook-signald](https://github.com/dgl/alertmanager-webhook-signald) - Alertmanager webhook server for Signald
 - [maximbaz/yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
 - [hockeypuck/hockeypuck](https://github.com/hockeypuck/hockeypuck) - OpenPGP Key Server
 - [arbal/tailscale2cloudflare](https://github.com/arbal/tailscale2cloudflare) - Don't want to use MagicDNS? Put all of those DNS entries in Cloudflare instead.
@@ -3664,6 +3674,8 @@
 
 ## JavaScript 
 
+- [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [alexhua/Aria2-for-chrome](https://github.com/alexhua/Aria2-for-chrome) - A aria2 download task management extension for chromium based browser
 - [acgotaku/YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome) - Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt Powered by Chrome
 - [arbal/bypass-paywalls-chrome](https://github.com/arbal/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -4938,7 +4950,7 @@
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [rstudio/shiny-examples](https://github.com/rstudio/shiny-examples) - 
 - [transitive-bullshit/captcha-solver](https://github.com/transitive-bullshit/captcha-solver) - Library and CLI for automating captcha verification across multiple providers.
-- [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer
+- [danielgatis/puppeteer-recaptcha-solver](https://github.com/danielgatis/puppeteer-recaptcha-solver) - Recaptcha solver for puppeteer.
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [OnetapInc/chromy](https://github.com/OnetapInc/chromy) - Chromy is a library for operating headless chrome. 🍺🍺🍺
@@ -6731,6 +6743,7 @@
 
 ## PowerShell 
 
+- [SlothCroissant/caddy-cloudflaredns](https://github.com/SlothCroissant/caddy-cloudflaredns) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go. caddy-cloudflaredns adds Cloudflare LetsEncrypt support to the base image.
 - [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - Various scripts
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
@@ -6759,6 +6772,7 @@
 
 ## Python 
 
+- [signalstickers/Adhesive](https://github.com/signalstickers/Adhesive) - A chatbot serving as your glue between Telegram and Signal sticker packs
 - [fdw/rofi-rbw](https://github.com/fdw/rofi-rbw) - Rofi frontend for Bitwarden
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [arbal/tailscale-hostmap](https://github.com/arbal/tailscale-hostmap) - Automatically map Tailscale hosts to DNS names locally
@@ -7010,7 +7024,7 @@
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [ibmcb/cbtool](https://github.com/ibmcb/cbtool) - Cloud Rapid Experimentation and Analysis Toolkit
 - [mld-0/dtscan](https://github.com/mld-0/dtscan) - Python cli utility, identify/convert/analyse datetimes in text.
-- [yankeexe/timezones-cli](https://github.com/yankeexe/timezones-cli) - Get local datetime from multiple timezones.
+- [yankeexe/timezones-cli](https://github.com/yankeexe/timezones-cli) - CLI toolkit for timezones :zap:
 - [bear/parsedatetime](https://github.com/bear/parsedatetime) - Parse human-readable date/time strings
 - [simonw/datasette-render-binary](https://github.com/simonw/datasette-render-binary) - Datasette plugin for rendering binary data
 - [devanshbatham/CertEagle](https://github.com/devanshbatham/CertEagle) - Weaponizing Live CT logs for automated monitoring of assets
@@ -8187,6 +8201,7 @@
 - [ContextLab/hypertools](https://github.com/ContextLab/hypertools) - A Python toolbox for gaining geometric insights into high-dimensional data
 - [microsoft/forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [evanrich/py-eagle-mqtt](https://github.com/evanrich/py-eagle-mqtt) - Python based Docker for Eagle to MQTT reader
 - [google-coral/pycoral](https://github.com/google-coral/pycoral) - Python API for ML inferencing and transfer-learning on Coral devices
@@ -9421,6 +9436,7 @@
 
 ## Shell 
 
+- [oleduc/searx-docker-portainer](https://github.com/oleduc/searx-docker-portainer) - Create a searx instance using Docker
 - [twang817/zsh-gnubin](https://github.com/twang817/zsh-gnubin) - 
 - [tronyx/HealthChecks-Linux](https://github.com/tronyx/HealthChecks-Linux) - Script to test various application reverse proxies, as well as their internal pages, and report to their respective Healthchecks.io checks
 - [HackingPheasant/bwfzf](https://github.com/HackingPheasant/bwfzf) - bitwarden + fzf: A nice command line front end to bitwarden
@@ -10022,7 +10038,6 @@
 - [utensils/Envisaged](https://github.com/utensils/Envisaged) - Envisaged - Effortless Gource Visualizations with Docker
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [hassio-addons/addon-bookstack](https://github.com/hassio-addons/addon-bookstack) - Bookstack - Home Assistant Community Add-ons
-- [lethexa/graphtraceroute](https://github.com/lethexa/graphtraceroute) - Shell script to visualize traceroutes as dot graph.
 - [sameersbn/docker-apt-cacher-ng](https://github.com/sameersbn/docker-apt-cacher-ng) - Dockerfile to create a Docker container image for Apt-Cacher NG
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [jaygooby/ttfb.sh](https://github.com/jaygooby/ttfb.sh) - Measures time-to-first-byte in seconds, for single or multiple URLs. Can calculate fastest, slowest & median TTFB values, and optionally log all response headers. Uses curl and the calculation `%{time_starttransfer} - %{time_appconnect}` which doesn't include any connection overhead, to better approximate devtool’s TTFB figure.
@@ -10572,6 +10587,7 @@
 
 ## Swift 
 
+- [Agalin/pidgin_macos_integration](https://github.com/Agalin/pidgin_macos_integration) - Pidgin plugin adding macOS shell integration
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [Pictarine/macos-snippets](https://github.com/Pictarine/macos-snippets) - Snip is a lightweight snippets manager app for macOS
@@ -11359,7 +11375,7 @@
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
