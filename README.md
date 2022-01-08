@@ -1580,6 +1580,7 @@
 
 ## Go 
 
+- [raintank/dur](https://github.com/raintank/dur) - 
 - [samuelkarp/purple-docker](https://github.com/samuelkarp/purple-docker) - purple-docker: A libpurple protocol plugin for your Docker containers
 - [dgl/alertmanager-webhook-signald](https://github.com/dgl/alertmanager-webhook-signald) - Alertmanager webhook server for Signald
 - [maximbaz/yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
@@ -2002,7 +2003,6 @@
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [arso8/gphotos-cdp](https://github.com/arso8/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [HuwSy/gphotos-cdp](https://github.com/HuwSy/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
-- [minio/ming](https://github.com/minio/ming) - Object Storage Gateway for Hybrid Cloud
 - [totoval/mindav](https://github.com/totoval/mindav) - A self-hosted file backup server which bridges WebDAV protocol with @Minio written in @Totoval. Webdav ❤️ Minio
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [dennis-tra/pcp](https://github.com/dennis-tra/pcp) - 📦 Command line peer-to-peer data transfer tool based on libp2p.
@@ -2439,7 +2439,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
-- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @nginx and @apache
+- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @labstack, @gin-gonic, @nginx and @apache
 - [acouvreur/traefik-ondemand-service](https://github.com/acouvreur/traefik-ondemand-service) - Traefik ondemand service for the traefik ondemand plugin
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [gophertuts/reminders-cli](https://github.com/gophertuts/reminders-cli) - Reminders CLI app in Go
@@ -3529,7 +3529,7 @@
 - [xipki/xipki](https://github.com/xipki/xipki) - Highly scalable and high-performance open source PKI (CA and OCSP responder). Minimal dependencies.
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
-- [airmessage/airmessage-server](https://github.com/airmessage/airmessage-server) - AirMessage's message relay server for Mac
+- [airmessage/airmessage-server-legacy](https://github.com/airmessage/airmessage-server-legacy) - AirMessage's message relay server for Mac
 - [voldemort/voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo.
 - [mulesoft-labs/keycloak-duo-spi](https://github.com/mulesoft-labs/keycloak-duo-spi) - Keycloak integration for Duo Security MFA
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -5418,6 +5418,7 @@
 
 ## Kotlin 
 
+- [pambrose/prometheus-proxy](https://github.com/pambrose/prometheus-proxy) - Prometheus Proxy
 - [jitsi/jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure
 - [noxone/regex-generator](https://github.com/noxone/regex-generator) - Generate regular expressions from sample texts.
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) - Cross-platform GUI gRPC debugging proxy
@@ -6772,6 +6773,8 @@
 
 ## Python 
 
+- [yaoxinghuo/alfred-jumpdesktop-workflow](https://github.com/yaoxinghuo/alfred-jumpdesktop-workflow) - Open a connection specified in Jump Desktop
+- [magico13/ha-emporia-vue](https://github.com/magico13/ha-emporia-vue) - Home Assistant Integration for Emporia Vue Energy Monitor
 - [signalstickers/Adhesive](https://github.com/signalstickers/Adhesive) - A chatbot serving as your glue between Telegram and Signal sticker packs
 - [fdw/rofi-rbw](https://github.com/fdw/rofi-rbw) - Rofi frontend for Bitwarden
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
@@ -9002,7 +9005,7 @@
 - [gousiosg/github-mirror](https://github.com/gousiosg/github-mirror) - Scripts to mirror Github in a cloudy fashion
 - [alouche/dns-check](https://github.com/alouche/dns-check) - CLI based tool for global dns [propagation] check
 - [ManageIQ/manageiq](https://github.com/ManageIQ/manageiq) - ManageIQ Open-Source Management Platform
-- [hendotcat/ppl](https://github.com/hendotcat/ppl) - The command line address book
+- [henrycatalinismith/ppl](https://github.com/henrycatalinismith/ppl) - The command line address book
 - [postmodern/spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk) - AdoptOpenJDK HomeBrew Tap
@@ -9436,6 +9439,7 @@
 
 ## Shell 
 
+- [orojina/grafana-cli](https://github.com/orojina/grafana-cli) - 
 - [oleduc/searx-docker-portainer](https://github.com/oleduc/searx-docker-portainer) - Create a searx instance using Docker
 - [twang817/zsh-gnubin](https://github.com/twang817/zsh-gnubin) - 
 - [tronyx/HealthChecks-Linux](https://github.com/tronyx/HealthChecks-Linux) - Script to test various application reverse proxies, as well as their internal pages, and report to their respective Healthchecks.io checks
