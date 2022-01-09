@@ -192,6 +192,7 @@
 
 ## C 
 
+- [Psychtoolbox-3/Psychtoolbox-3](https://github.com/Psychtoolbox-3/Psychtoolbox-3) - Psychophysics Toolbox Version 3 (PTB-3) is a free set of Matlab and GNU Octave functions for vision and neuroscience research.
 - [dequis/purple-facebook](https://github.com/dequis/purple-facebook) - Facebook protocol plugin for libpurple (moved from jgeboski/purple-facebook)
 - [Junker/purple-xmpp-http-upload](https://github.com/Junker/purple-xmpp-http-upload) - HTTP File Upload plugin for libpurple (XMPP Protocol)
 - [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
@@ -1357,6 +1358,7 @@
 - [t11z/haproxy-wi-docker-ubuntu](https://github.com/t11z/haproxy-wi-docker-ubuntu) - Dockerfile to create an Ubuntu 20.04 based HAProxy container with web based administration
 - [restorecommerce/pdf-rendering-srv](https://github.com/restorecommerce/pdf-rendering-srv) - HTML to PDF rendering Microservice based on Puppeteer/ Chrome. Self-hosted service for rendering PDFs
 - [mdegat01/promtail-journal](https://github.com/mdegat01/promtail-journal) - Promtail with journal support
+- [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [jumson/limesdr](https://github.com/jumson/limesdr) - Working area to develop working docker images that can be used with limesdr devices.
 - [kazazes/balena-tailscale](https://github.com/kazazes/balena-tailscale) - 
 - [balena-io/open-balena-registry](https://github.com/balena-io/open-balena-registry) - Docker image storage backend for openBalena
@@ -1580,6 +1582,12 @@
 
 ## Go 
 
+- [jmalloc/echo-server](https://github.com/jmalloc/echo-server) - An HTTP and WebSocket "echo" server for testing proxies and HTTP clients.
+- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
+- [tailscale/mkctr](https://github.com/tailscale/mkctr) - mkctr: cross platform container builder for go
+- [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
+- [cobratbq/httpRelay](https://github.com/cobratbq/httpRelay) - HTTP Proxy Relay is a tool to create an HTTP proxy that connects to and relays all requests through a SOCKS proxy.
+- [domosekai/turnout](https://github.com/domosekai/turnout) - Transparent and HTTP proxy with smart routing solution. Automatic selection between direct route and SOCKS proxies, without the need to maintain any list.
 - [raintank/dur](https://github.com/raintank/dur) - 
 - [samuelkarp/purple-docker](https://github.com/samuelkarp/purple-docker) - purple-docker: A libpurple protocol plugin for your Docker containers
 - [dgl/alertmanager-webhook-signald](https://github.com/dgl/alertmanager-webhook-signald) - Alertmanager webhook server for Signald
@@ -3674,6 +3682,7 @@
 
 ## JavaScript 
 
+- [peez80/http-proxy-to-socks](https://github.com/peez80/http-proxy-to-socks) - hpts(http-proxy-to-socks) is a nodejs client to convert socks proxy into http proxy
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [alexhua/Aria2-for-chrome](https://github.com/alexhua/Aria2-for-chrome) - A aria2 download task management extension for chromium based browser
@@ -3999,7 +4008,7 @@
 - [sindresorhus/open-editor](https://github.com/sindresorhus/open-editor) - Open files in your editor at a specific line and column
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [Reactive-Resume/Reactive-Resume](https://github.com/Reactive-Resume/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [HubSpot/humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane. #hubspot-open-source
 - [sindresorhus/pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
@@ -6773,6 +6782,8 @@
 
 ## Python 
 
+- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+- [n1nj4sec/pr0cks](https://github.com/n1nj4sec/pr0cks) - python script setting up a transparent proxy to forward all TCP and DNS traffic through a SOCKS / SOCKS5 or HTTP(CONNECT) proxy using iptables -j REDIRECT target
 - [yaoxinghuo/alfred-jumpdesktop-workflow](https://github.com/yaoxinghuo/alfred-jumpdesktop-workflow) - Open a connection specified in Jump Desktop
 - [magico13/ha-emporia-vue](https://github.com/magico13/ha-emporia-vue) - Home Assistant Integration for Emporia Vue Energy Monitor
 - [signalstickers/Adhesive](https://github.com/signalstickers/Adhesive) - A chatbot serving as your glue between Telegram and Signal sticker packs
@@ -8946,6 +8957,7 @@
 
 ## Ruby 
 
+- [oesmith/puffing-billy](https://github.com/oesmith/puffing-billy) - A rewriting web proxy for testing interactions between your browser and external sites.  Works with ruby + rspec.
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
@@ -9560,7 +9572,6 @@
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail) - Promtail for Home Assistant
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances.
-- [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus](https://github.com/micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus) - Prometheus node_exporter text_collector for S.M.A.R.T disk values
 - [epilande/alfred-wifi-password](https://github.com/epilande/alfred-wifi-password) - 🔐 Get Wi-Fi password from Keychain
 - [doekman/osagitfilter](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files
