@@ -4337,7 +4337,7 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - Your preferred backup solution. It's like you're still online! Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet: an internet on yer disk. Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename) ;P ;) xx;p
+- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
 - [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -7374,7 +7374,7 @@
 - [jseidl/hass-magic_areas](https://github.com/jseidl/hass-magic_areas) - Magic Areas custom_component for Home Assistant
 - [nielsfaber/scheduler-component](https://github.com/nielsfaber/scheduler-component) - Custom component for HA that enables the creation of scheduler entities
 - [custom-components/custom_updater](https://github.com/custom-components/custom_updater) - [DEPRECATED]📦 A component which allows you to track and update custom cards/components and python_scripts
-- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor passively monitors BLE sensors (Xiaomi, Qingping, ATC, BlueMaestro, Brifit, Govee, Kegtron, Moat, iNode, Yeelight, RuuviTag, SensorPush, Teltonika and Thermoplus)
+- [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor passively monitors BLE sensors (Xiaomi, Qingping, ATC, BlueMaestro, Brifit, Govee, Kegtron, Moat, Inkbird, iNode, Yeelight, RuuviTag, SensorPush, Teltonika and Thermoplus)
 - [lfasci/homeassistant-prometheus-query](https://github.com/lfasci/homeassistant-prometheus-query) - Inspired from homeassitant Command line Sensor this sensor take values from Prometheus metrics using PromQL query
 - [filipsPL/autowx2](https://github.com/filipsPL/autowx2) - The program for scheduling recordings and processing of the satellite and ground radio transmissions (like capturing of the weather APT images from NOAA satellites, voice messages from ISS, fixed time recordings of WeatherFaxes etc.) :earth_africa: :satellite:
 - [fossasia/open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events https://test-api.eventyay.com
@@ -8949,6 +8949,7 @@
 
 ## Roff 
 
+- [Lozy/danted](https://github.com/Lozy/danted) - Fast script for installing & configing Danted--Socks5 Proxy Server.
 - [komachi/apparmor-even-more-profiles](https://github.com/komachi/apparmor-even-more-profiles) - Collection of AppArmor profiles for hardering Debian Stable (currently buster).
 - [flexibeast/s6-man-pages](https://github.com/flexibeast/s6-man-pages) - mdoc(7) versions of the documentation for the s6 supervision suite
 - [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
@@ -9451,6 +9452,7 @@
 
 ## Shell 
 
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
 - [orojina/grafana-cli](https://github.com/orojina/grafana-cli) - 
 - [oleduc/searx-docker-portainer](https://github.com/oleduc/searx-docker-portainer) - Create a searx instance using Docker
 - [twang817/zsh-gnubin](https://github.com/twang817/zsh-gnubin) - 
