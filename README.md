@@ -5500,6 +5500,7 @@
 
 ## Makefile 
 
+- [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [arbal/docker-nicinfo](https://github.com/arbal/docker-nicinfo) - Query RDAP with nicinfo
 - [nicwaller/docker-nicinfo](https://github.com/nicwaller/docker-nicinfo) - Query RDAP with nicinfo
 - [instrumentisto/coturn-docker-image](https://github.com/instrumentisto/coturn-docker-image) - [Closed] Coturn TURN server Docker image
@@ -5697,6 +5698,7 @@
 
 ## Others 
 
+- [arbal/turnout](https://github.com/arbal/turnout) - Transparent and HTTP proxy with smart routing solution. Automatic selection between direct route and SOCKS proxies, without the need to maintain any list.
 - [arbal/haproxy_exporter](https://github.com/arbal/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
 - [arbal/factotum](https://github.com/arbal/factotum) - general purpose curation of exposure science data
 - [arbal/scrutiny](https://github.com/arbal/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -6782,6 +6784,7 @@
 
 ## Python 
 
+- [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [n1nj4sec/pr0cks](https://github.com/n1nj4sec/pr0cks) - python script setting up a transparent proxy to forward all TCP and DNS traffic through a SOCKS / SOCKS5 or HTTP(CONNECT) proxy using iptables -j REDIRECT target
 - [yaoxinghuo/alfred-jumpdesktop-workflow](https://github.com/yaoxinghuo/alfred-jumpdesktop-workflow) - Open a connection specified in Jump Desktop
@@ -7908,7 +7911,7 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [freakshock88/hass-populartimes](https://github.com/freakshock88/hass-populartimes) - Custom component for Home Assistant which generates a sensor to show popularity for a google maps place.
-- [MikeGawi/ePiframe](https://github.com/MikeGawi/ePiframe) - ePiframe is an e-Paper Raspberry Pi Photo Frame with Google Photos
+- [MikeGawi/ePiframe](https://github.com/MikeGawi/ePiframe) - ePiframe is an e-Paper Raspberry Pi Photo Frame with Google Photos and more
 - [luisten/macos-photos-video-fixer](https://github.com/luisten/macos-photos-video-fixer) - Some video formats aren't recognised properly by MacOS Photos. This lightweight tool helps to fix that.
 - [gl636474/google-photos-sync-mac](https://github.com/gl636474/google-photos-sync-mac) - Downloads new photos from Google Photos and imports them into OS X Photos application
 - [dermesser/photosync](https://github.com/dermesser/photosync) - Now that Google deprecated the Photos&lt;-&gt;Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
@@ -9048,7 +9051,7 @@
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [bachue/dashlinuxman](https://github.com/bachue/dashlinuxman) - Export linux manpages via ssh to specified directory
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [mozilla/ssh_scan](https://github.com/mozilla/ssh_scan) - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
+- [mozilla/ssh_scan](https://github.com/mozilla/ssh_scan) - DEPRECATED - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
 - [mozilla/ssh_scan_api](https://github.com/mozilla/ssh_scan_api) - An API for ssh_scan (https://github.com/mozilla/ssh_scan) and the backend API service for the Mozilla SSH Observatory (https://observatory.mozilla.org/)
 - [kostya/eye](https://github.com/kostya/eye) - Process monitoring tool. Inspired from Bluepill and God.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -9452,6 +9455,7 @@
 
 ## Shell 
 
+- [pedroamador/pvebackup](https://github.com/pedroamador/pvebackup) - Proxmox backup script
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
 - [orojina/grafana-cli](https://github.com/orojina/grafana-cli) - 
 - [oleduc/searx-docker-portainer](https://github.com/oleduc/searx-docker-portainer) - Create a searx instance using Docker
