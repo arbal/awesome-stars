@@ -976,7 +976,7 @@
 - [myriadrf/ExtIO_LimeSDR](https://github.com/myriadrf/ExtIO_LimeSDR) - LimeSDR ExtIO Plugin for HDSDR
 - [samyk/dingdong](https://github.com/samyk/dingdong) - Digital Ding Dong Ditch -- RTL-SDR + Arduino + GSM/SMS/FONA + RF + GQRX to hack a wireless doorbell from a text message
 - [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
-- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS. CurveBS supports VM on qemu and baremetal with nbd. CurveFS supports POSIX based on Fuse, store data on CurveBS and object storage, and will support cold and hot data separation in future.
+- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS. CurveBS provides block devices based on Raft. CurveFS supports POSIX based on Fuse, store data on CurveBS and object storage.
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [hiveco/conntrack_exporter](https://github.com/hiveco/conntrack_exporter) - Prometheus exporter for tracking network connections
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
@@ -1582,6 +1582,9 @@
 
 ## Go 
 
+- [arbal/geoip-service](https://github.com/arbal/geoip-service) - A fast in-memory http microservice for looking up MaxMind GeoIP2 and GeoLite2 database
+- [fgeller/jsonify](https://github.com/fgeller/jsonify) - cli app to create JSON objects
+- [filex/echo-json](https://github.com/filex/echo-json) - echo-json is a cli program to create a JSON object from simple shell arguments
 - [jmalloc/echo-server](https://github.com/jmalloc/echo-server) - An HTTP and WebSocket "echo" server for testing proxies and HTTP clients.
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [tailscale/mkctr](https://github.com/tailscale/mkctr) - mkctr: cross platform container builder for go
@@ -2632,7 +2635,7 @@
 - [minio/sidekick](https://github.com/minio/sidekick) - High Performance HTTP Sidecar Load Balancer
 - [rycus86/podlike](https://github.com/rycus86/podlike) - Co-located containers as Docker Swarm services (like Kubernetes pods)
 - [dropbox/llama](https://github.com/dropbox/llama) - Library for testing and measuring network loss and latency between distributed endpoints.
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [skydive-project/skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [moul/ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
@@ -6323,7 +6326,6 @@
 - [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
 - [xeric/alfred-find2kill](https://github.com/xeric/alfred-find2kill) - An Alfred Workflow provides ability to search and kill process by Port and Process Name
 - [Artemmkin/infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
-- [vercel/awesome-zeit](https://github.com/vercel/awesome-zeit) - The best resources related to ZEIT
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
@@ -8364,7 +8366,7 @@
 - [furushchev/respeaker_ros](https://github.com/furushchev/respeaker_ros) - A ROS Package for Respeaker Mic Array
 - [atx/prometheus-tor_exporter](https://github.com/atx/prometheus-tor_exporter) - Prometheus exporter for the TOR daemon
 - [jvstein/bitcoin-prometheus-exporter](https://github.com/jvstein/bitcoin-prometheus-exporter) - Prometheus exporter for Bitcoin Core nodes
-- [someengineering/cloudkeeper](https://github.com/someengineering/cloudkeeper) - Cloudkeeper - Housekeeping for Clouds
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto - Housekeeping for Clouds
 - [suryasev/unofficial-google-trends-api](https://github.com/suryasev/unofficial-google-trends-api) - Python-based API that uses the http site to download Google Trends data
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
@@ -9151,6 +9153,7 @@
 
 ## Rust 
 
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [tomwhoiscontrary/isots](https://github.com/tomwhoiscontrary/isots) - a program to replace plausible UNIX timestamps with ISO 8601 datetimes
@@ -9543,7 +9546,7 @@
 - [diladele/squid-ubuntu](https://github.com/diladele/squid-ubuntu) - Latest version of Squid proxy recompiled with support for HTTPS filtering and SSL inspection on Ubuntu 20.04 LTS. Used in Web Safety web filter for Squid.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
-- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive zsh
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
 - [marshki/about_dis_mac](https://github.com/marshki/about_dis_mac) - Bash script to mimic the "About This Mac" feature in macOS from a command-line interface (CLI).
 - [Justintime50/srvinfra](https://github.com/Justintime50/srvinfra) - srvinfra is a tool to deploy, update, and maintain services and websites on a server hosted by Docker.
 - [sayem314/Caddy-Web-Server-Installer](https://github.com/sayem314/Caddy-Web-Server-Installer) - Script to manage Caddy web server
