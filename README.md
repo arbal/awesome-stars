@@ -1230,6 +1230,7 @@
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 - [datameet/maps](https://github.com/datameet/maps) - Repository for all spatial data.
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [MichaelBarney/LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [deajan/traceroute_history](https://github.com/deajan/traceroute_history) - Keep traceroute histroy, make diffs. Use as standalone / smokeping companion
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -1315,6 +1316,7 @@
 
 ## Dart 
 
+- [aguilaair/filesize](https://github.com/aguilaair/filesize) - Humanize file sizes
 - [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) - Flutter App for PhotoPrism
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1582,6 +1584,9 @@
 
 ## Go 
 
+- [mdouchement/hr](https://github.com/mdouchement/hr) - Simple binary aimed to humanize the sizes
+- [alexanderGugel/wsd](https://github.com/alexanderGugel/wsd) - :facepunch: cURL for WebSocket Servers
+- [maodijim/sense-api](https://github.com/maodijim/sense-api) - Sense Energy Monitor Go Api
 - [arbal/geoip-service](https://github.com/arbal/geoip-service) - A fast in-memory http microservice for looking up MaxMind GeoIP2 and GeoLite2 database
 - [fgeller/jsonify](https://github.com/fgeller/jsonify) - cli app to create JSON objects
 - [filex/echo-json](https://github.com/filex/echo-json) - echo-json is a cli program to create a JSON object from simple shell arguments
@@ -3466,6 +3471,7 @@
 
 ## Haskell 
 
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with groups and sending files!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
@@ -3685,6 +3691,10 @@
 
 ## JavaScript 
 
+- [pippinlee/filesize-cli](https://github.com/pippinlee/filesize-cli) - A tiny module to that returns the size of your files, to be used with npm scripts
+- [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
+- [sindresorhus/prepend-http](https://github.com/sindresorhus/prepend-http) - Prepend `https://` to humanized URLs like `sindresorhus.com` and `localhost`
+- [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [peez80/http-proxy-to-socks](https://github.com/peez80/http-proxy-to-socks) - hpts(http-proxy-to-socks) is a nodejs client to convert socks proxy into http proxy
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -4457,7 +4467,6 @@
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -5702,6 +5711,7 @@
 
 ## Others 
 
+- [arbal/embiggen-disk](https://github.com/arbal/embiggen-disk) - embiggden-disk live-resizes a filesystem after first live-resizing any necessary layers below it: an optional LVM LV and PV, and an MBR or GPT partition table
 - [arbal/turnout](https://github.com/arbal/turnout) - Transparent and HTTP proxy with smart routing solution. Automatic selection between direct route and SOCKS proxies, without the need to maintain any list.
 - [arbal/haproxy_exporter](https://github.com/arbal/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
 - [arbal/factotum](https://github.com/arbal/factotum) - general purpose curation of exposure science data
@@ -6702,7 +6712,7 @@
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [henyxia/proxmox2netbox](https://github.com/henyxia/proxmox2netbox) - Promox information exporter
 - [oasys/mkrdns](https://github.com/oasys/mkrdns) - An automatic reverse DNS zone generator.
-- [proxmox/pve-container](https://github.com/proxmox/pve-container) - 
+- [proxmox/pve-container](https://github.com/proxmox/pve-container) - Proxmox VE container manager & runtime - read-only mirror
 - [marchyman/GeoTag](https://github.com/marchyman/GeoTag) - Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==&gt;
 - [stuartcryan/advanced-google-maps-alfred-workflow](https://github.com/stuartcryan/advanced-google-maps-alfred-workflow) - Advanced Google Maps and Apple Maps Workflow for Alfred
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.
@@ -6734,7 +6744,7 @@
 - [cited/Certbot-Webmin-Module](https://github.com/cited/Certbot-Webmin-Module) - Certbot Module for Webmin
 - [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [elmar/aptitude-robot](https://github.com/elmar/aptitude-robot) - 
-- [proxmox/pve-common](https://github.com/proxmox/pve-common) - Common code
+- [proxmox/pve-common](https://github.com/proxmox/pve-common) - Proxmox Project's Common Perl Code
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
 - [turnkeylinux-apps/fileserver](https://github.com/turnkeylinux-apps/fileserver) - File Server - Simple Network Attached Storage
 - [proxmox/dab](https://github.com/proxmox/dab) - Debian Appliance Builder
@@ -6786,6 +6796,7 @@
 
 ## Python 
 
+- [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
 - [samarpan-rai/healthchecks_wrapper](https://github.com/samarpan-rai/healthchecks_wrapper) - 
 - [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
@@ -7785,7 +7796,7 @@
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr) - A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
 - [nurdtechie98/drive-cli](https://github.com/nurdtechie98/drive-cli) - A command line interface for accessing google drive
-- [jay0lee/GAM](https://github.com/jay0lee/GAM) - command line management for Google Workspace
+- [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [acetheultimate/linkedin-Scrapper](https://github.com/acetheultimate/linkedin-Scrapper) - To get the data out of linkedin contacts and save it in a more comfortable and offline way. (Excel or TXT)
 - [Mrnt/OctoPrint-FlashForge](https://github.com/Mrnt/OctoPrint-FlashForge) - OctoPrint plugin to support closed source printers from FlashForge, PowerSpec, Dremel
 - [sangonzal/repository-traffic-action](https://github.com/sangonzal/repository-traffic-action) - GitHub action to save GitHub repository insights past the default 2 week period
@@ -8964,6 +8975,7 @@
 
 ## Ruby 
 
+- [making-sense/unofficial_sense_api](https://github.com/making-sense/unofficial_sense_api) - Access your Sense data. It's yours.
 - [oesmith/puffing-billy](https://github.com/oesmith/puffing-billy) - A rewriting web proxy for testing interactions between your browser and external sites.  Works with ruby + rspec.
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
@@ -9153,6 +9165,9 @@
 
 ## Rust 
 
+- [LeopoldArkham/humansize](https://github.com/LeopoldArkham/humansize) - Humansize - A flexible crate for humanizing file sizes
+- [jeffjose/timeago-cli](https://github.com/jeffjose/timeago-cli) - A dead-simple CLI to convert RFC232 to short humanized strings
+- [lucawen/repoch](https://github.com/lucawen/repoch) - Humanize epoch conversions
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
@@ -9293,7 +9308,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [openethereum/openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
@@ -9326,7 +9341,7 @@
 - [signalapp/libsignal-client](https://github.com/signalapp/libsignal-client) - 
 - [flxo/rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
 - [greymd/teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
-- [tbillington/kondo](https://github.com/tbillington/kondo) - Save disk space by cleaning non-essential files from software projects.
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -9460,6 +9475,10 @@
 
 ## Shell 
 
+- [EugenMayer/parted-auto-resize](https://github.com/EugenMayer/parted-auto-resize) - Automatically or non-interactive resize a partition to its maximum, e.g. for LVM pv resizing when using a partition as PV
+- [bike-barn/hermit](https://github.com/bike-barn/hermit) - A home directory configuration management assistant
+- [RadicalZephyr/hermit](https://github.com/RadicalZephyr/hermit) - A home directory configuration management assistant
+- [lux4rd0/sense-collector](https://github.com/lux4rd0/sense-collector) - Sense Collector provides a way of collecting real-time data from the Sense Energy Monitor. Includes Grafana dashboards for visualizations of detected devices and smart plugs and their wattage, voltage, and amp utilization.
 - [plattrap/healthchecks-wrapper](https://github.com/plattrap/healthchecks-wrapper) - crontab wrapper for healthchecks.io reporting
 - [pedroamador/pvebackup](https://github.com/pedroamador/pvebackup) - Proxmox backup script
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
@@ -10825,6 +10844,7 @@
 
 ## TypeScript 
 
+- [coolxv/live-streams-datasource](https://github.com/coolxv/live-streams-datasource) - grafana datasource live streams
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
 - [PubPeerFoundation/pubpeer_zotero_plugin](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) - Plugin to show if references in Zotero have PubPeer comments
