@@ -1584,6 +1584,8 @@
 
 ## Go 
 
+- [damomurf/tailscale-exporter](https://github.com/damomurf/tailscale-exporter) - Prometheus Exporter for Tailscale metrics and metadata
+- [mgumz/mtr-exporter](https://github.com/mgumz/mtr-exporter) - A Prometheus exporter for mtr metrics
 - [mdouchement/hr](https://github.com/mdouchement/hr) - Simple binary aimed to humanize the sizes
 - [alexanderGugel/wsd](https://github.com/alexanderGugel/wsd) - :facepunch: cURL for WebSocket Servers
 - [maodijim/sense-api](https://github.com/maodijim/sense-api) - Sense Energy Monitor Go Api
@@ -2512,7 +2514,7 @@
 - [cloudflare/gortr](https://github.com/cloudflare/gortr) - The RPKI-to-Router server used at Cloudflare
 - [WeBankPartners/open-monitor](https://github.com/WeBankPartners/open-monitor) - Distributed monitoring system based on Prometheus
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
-- [squzy/squzy](https://github.com/squzy/squzy) - Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.
+- [squzy/squzy](https://github.com/squzy/squzy) - Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love. Welcome to free SRE
 - [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [710leo/urlooker](https://github.com/710leo/urlooker) - enterprise-level websites monitoring system
 - [yolossn/Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
@@ -5711,6 +5713,7 @@
 
 ## Others 
 
+- [arbal/tailscale-exporter](https://github.com/arbal/tailscale-exporter) - Prometheus Exporter for Tailscale metrics and metadata
 - [arbal/embiggen-disk](https://github.com/arbal/embiggen-disk) - embiggden-disk live-resizes a filesystem after first live-resizing any necessary layers below it: an optional LVM LV and PV, and an MBR or GPT partition table
 - [arbal/turnout](https://github.com/arbal/turnout) - Transparent and HTTP proxy with smart routing solution. Automatic selection between direct route and SOCKS proxies, without the need to maintain any list.
 - [arbal/haproxy_exporter](https://github.com/arbal/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
@@ -6166,7 +6169,7 @@
 - [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - :file_folder: #AISecurity
 - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2022. Pull requests welcome.
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card) - A Custom Lovelace card to pull together the mail and packages sensors.
 - [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
@@ -7484,7 +7487,7 @@
 - [rjsears/chia_plot_manager](https://github.com/rjsears/chia_plot_manager) - Python scripts to manage Chia plots and drive space, providing full reports. Also monitors the number of chia coins you have. Auto Drive helps to automate the addition of new hard drives to your system and to the chia config.
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [linode/linode-cli](https://github.com/linode/linode-cli) - The Linode CLI
-- [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud drive
+- [mandarons/icloud-drive-docker](https://github.com/mandarons/icloud-drive-docker) - Dockerized iCloud (drive and photos)
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [chrippa/livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
@@ -9475,6 +9478,7 @@
 
 ## Shell 
 
+- [tzneal/iocage-plugin-tailscale](https://github.com/tzneal/iocage-plugin-tailscale) - WIP TrueNAS tailscale plugin
 - [EugenMayer/parted-auto-resize](https://github.com/EugenMayer/parted-auto-resize) - Automatically or non-interactive resize a partition to its maximum, e.g. for LVM pv resizing when using a partition as PV
 - [bike-barn/hermit](https://github.com/bike-barn/hermit) - A home directory configuration management assistant
 - [RadicalZephyr/hermit](https://github.com/RadicalZephyr/hermit) - A home directory configuration management assistant
