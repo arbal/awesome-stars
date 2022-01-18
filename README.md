@@ -3287,7 +3287,6 @@
 - [geb/geb](https://github.com/geb/geb) - Very Groovy Browser Automation
 - [atcol/docker-registry-ui](https://github.com/atcol/docker-registry-ui) - A web frontend/UI for easy private/local Docker Registry integration
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
 - [brendonanderson/wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [8x8Cloud/swagger2raml](https://github.com/8x8Cloud/swagger2raml) - A utility to generate RAML documentation from Swagger JSON
@@ -6513,6 +6512,9 @@
 
 ## PHP 
 
+- [bisqwit/lvm2defrag](https://github.com/bisqwit/lvm2defrag) - 
+- [pydio/pydio-core](https://github.com/pydio/pydio-core) - Pydio 8 official repository
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [tighten/takeout](https://github.com/tighten/takeout) - Docker-based development-only dependency manager. macOS, Linux, and WSL2-only and installs via PHP's Composer... for now.
 - [kiler129/mikrotik-auto-wireguard](https://github.com/kiler129/mikrotik-auto-wireguard) - 
 - [laazyj/Alfred.Plex](https://github.com/laazyj/Alfred.Plex) - Alfred 2 Workflow for Plex
@@ -6743,6 +6745,7 @@
 - [miyagawa/Carmel](https://github.com/miyagawa/Carmel) - CPAN Artifact Repository Manager
 - [skaji/cpm](https://github.com/skaji/cpm) - fast CPAN client
 - [nephri/FreeNas-DiskList](https://github.com/nephri/FreeNas-DiskList) - FreeNas "Disklist" script for report informations about installed hard drives, volumes and partitions
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
 - [manuelkasper/AS-Stats](https://github.com/manuelkasper/AS-Stats) - A simple tool to generate per-AS traffic graphs from NetFlow/sFlow records
 - [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 - [OWASP/O-Saft](https://github.com/OWASP/O-Saft) - O-Saft  - OWASP SSL advanced forensic tool
@@ -7931,7 +7934,7 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [freakshock88/hass-populartimes](https://github.com/freakshock88/hass-populartimes) - Custom component for Home Assistant which generates a sensor to show popularity for a google maps place.
-- [MikeGawi/ePiframe](https://github.com/MikeGawi/ePiframe) - ePiframe is an e-Paper Raspberry Pi Photo Frame with Google Photos and more
+- [MikeGawi/ePiframe](https://github.com/MikeGawi/ePiframe) - ePiframe is an e-Paper (or HDMI, Composite display) Raspberry Pi Photo Frame with Google Photos and more
 - [luisten/macos-photos-video-fixer](https://github.com/luisten/macos-photos-video-fixer) - Some video formats aren't recognised properly by MacOS Photos. This lightweight tool helps to fix that.
 - [gl636474/google-photos-sync-mac](https://github.com/gl636474/google-photos-sync-mac) - Downloads new photos from Google Photos and imports them into OS X Photos application
 - [dermesser/photosync](https://github.com/dermesser/photosync) - Now that Google deprecated the Photos&lt;-&gt;Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
@@ -8000,7 +8003,7 @@
 - [jupyter/nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
-- [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - Parallel Scripting Library
+- [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -11104,7 +11107,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
@@ -11317,7 +11320,7 @@
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [PinkyJie/google-actions-github-bot](https://github.com/PinkyJie/google-actions-github-bot) - A Google Assistant Action (with an invocation name of "Github Trending") which tells you the trending repositories on Github and more.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
