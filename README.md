@@ -1586,6 +1586,7 @@
 
 ## Go 
 
+- [virtualzone/compose-updater](https://github.com/virtualzone/compose-updater) - Automatically update your Docker Compose containers.
 - [damomurf/tailscale-exporter](https://github.com/damomurf/tailscale-exporter) - Prometheus Exporter for Tailscale metrics and metadata
 - [mgumz/mtr-exporter](https://github.com/mgumz/mtr-exporter) - A Prometheus exporter for mtr metrics
 - [mdouchement/hr](https://github.com/mdouchement/hr) - Simple binary aimed to humanize the sizes
@@ -4130,7 +4131,7 @@
 - [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Adapted Custom-ui for HA 110+ / HA 2021.6
 - [FlatFilers/csvjson-csv2json](https://github.com/FlatFilers/csvjson-csv2json) - Converts CSV to JSON. Powers the most used online tool CSVJSON. Used by thousands everyday.
 - [cryptocat/cryptocat](https://github.com/cryptocat/cryptocat) - Secure chat software for your computer.
-- [Theodo-UK/sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - Dev Tools for the Serverless World - Issues, PRs and ⭐️welcome!
+- [aleios-cloud/sls-dev-tools](https://github.com/aleios-cloud/sls-dev-tools) - Dev Tools for the Serverless World - Issues, PRs and ⭐️welcome!
 - [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [giangvo/alfred-workflow-nodejs](https://github.com/giangvo/alfred-workflow-nodejs) - A small library providing helpers to create Alfred Workflow
@@ -5214,7 +5215,7 @@
 - [adrianovalente/feathersjs-serverless](https://github.com/adrianovalente/feathersjs-serverless) - This is a feathersjs connector to the Serverless Framework ⚡️
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ Standard Tooling for Vue.js Development
+- [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [sequelize/cli](https://github.com/sequelize/cli) - The Sequelize CLI
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
@@ -6805,6 +6806,7 @@
 
 ## Python 
 
+- [robdmc/switchenv](https://github.com/robdmc/switchenv) - :twisted_rightwards_arrows: A command-line tool for loading different bash environment profiles
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
 - [samarpan-rai/healthchecks_wrapper](https://github.com/samarpan-rai/healthchecks_wrapper) - 
 - [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl) - Automated yt-dlp Docker image
@@ -9377,7 +9379,7 @@
 - [pop-os/tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [Eonm/refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -9484,6 +9486,8 @@
 
 ## Shell 
 
+- [F-Hauri/bashProfiler](https://github.com/F-Hauri/bashProfiler) - bash profiler function
+- [matstc/shell-profiler](https://github.com/matstc/shell-profiler) - Profiler for shell scripts
 - [tzneal/iocage-plugin-tailscale](https://github.com/tzneal/iocage-plugin-tailscale) - WIP TrueNAS tailscale plugin
 - [EugenMayer/parted-auto-resize](https://github.com/EugenMayer/parted-auto-resize) - Automatically or non-interactive resize a partition to its maximum, e.g. for LVM pv resizing when using a partition as PV
 - [bike-barn/hermit](https://github.com/bike-barn/hermit) - A home directory configuration management assistant
