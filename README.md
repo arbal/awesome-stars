@@ -2159,7 +2159,7 @@
 - [danesparza/influx-annotate](https://github.com/danesparza/influx-annotate) - Command line tool to add annotations to an InfluxDB database
 - [acornies/faas-grafana-annotate](https://github.com/acornies/faas-grafana-annotate) - An OpenFaaS function to create annotations in Grafana (&gt;= v4.6).
 - [quackduck/tii](https://github.com/quackduck/tii) - Command not found? Install it right there!
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [deanishe/alfred-services](https://github.com/deanishe/alfred-services) - Run macOS services from Alfred
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
@@ -4025,7 +4025,7 @@
 - [sindresorhus/open-editor](https://github.com/sindresorhus/open-editor) - Open files in your editor at a specific line and column
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [Reactive-Resume/Reactive-Resume](https://github.com/Reactive-Resume/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [Reactive-Resume/app](https://github.com/Reactive-Resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [HubSpot/humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane. #hubspot-open-source
 - [sindresorhus/pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
@@ -5539,6 +5539,7 @@
 - [turnkeylinux-apps/core](https://github.com/turnkeylinux-apps/core) - TurnKey Core - Common Base for All Appliances
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [manala/ansible-role-cloud_init](https://github.com/manala/ansible-role-cloud_init) - [READ-ONLY] Ansible role dealing with the setup of Cloud-init
 - [tomkins/cloud-init-vagrant](https://github.com/tomkins/cloud-init-vagrant) - Testing cloud-init with Vagrant
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -5715,6 +5716,7 @@
 
 ## Others 
 
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [arbal/tailscale-exporter](https://github.com/arbal/tailscale-exporter) - Prometheus Exporter for Tailscale metrics and metadata
 - [arbal/embiggen-disk](https://github.com/arbal/embiggen-disk) - embiggden-disk live-resizes a filesystem after first live-resizing any necessary layers below it: an optional LVM LV and PV, and an MBR or GPT partition table
@@ -6172,7 +6174,7 @@
 - [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - :file_folder: #AISecurity
 - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2022. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to try out machine learning with Python and Jupyter Notebook. Free/open-source resources, notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome.
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card) - A Custom Lovelace card to pull together the mail and packages sensors.
 - [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
@@ -6806,6 +6808,7 @@
 
 ## Python 
 
+- [stanford-rc/sasutils](https://github.com/stanford-rc/sasutils) - Serial Attached SCSI (SAS) Linux utilities and Python library
 - [robdmc/switchenv](https://github.com/robdmc/switchenv) - :twisted_rightwards_arrows: A command-line tool for loading different bash environment profiles
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
 - [samarpan-rai/healthchecks_wrapper](https://github.com/samarpan-rai/healthchecks_wrapper) - 
@@ -8482,6 +8485,7 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [deanishe/alfred-reddit](https://github.com/deanishe/alfred-reddit) - Browse Reddit from Alfred
 - [micw/docker-lxc](https://github.com/micw/docker-lxc) - Run stateful lxc containers managed by docker
 - [pochemuto/alfred-help-workflow](https://github.com/pochemuto/alfred-help-workflow) - Helps to remember workflow keywords
@@ -9176,6 +9180,12 @@
 
 ## Rust 
 
+- [brycx/checkpwn](https://github.com/brycx/checkpwn) - Check Have I Been Pwned and see if it's time for you to change passwords.
+- [imager-io/imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
+- [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
+- [BinChengZhao/delicate](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）
+- [uptech/alt](https://github.com/uptech/alt) - Command line tool to find alternate files
+- [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [LeopoldArkham/humansize](https://github.com/LeopoldArkham/humansize) - Humansize - A flexible crate for humanizing file sizes
 - [jeffjose/timeago-cli](https://github.com/jeffjose/timeago-cli) - A dead-simple CLI to convert RFC232 to short humanized strings
 - [lucawen/repoch](https://github.com/lucawen/repoch) - Humanize epoch conversions
@@ -9217,7 +9227,7 @@
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
-- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
+- [DataDog/glommio](https://github.com/DataDog/glommio) - Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [LinkTed/doh-client](https://github.com/LinkTed/doh-client) - DNS over HTTPS client
@@ -10337,7 +10347,6 @@
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
 - [puckel/docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose) - docker compose files to create a fully working kafka stack
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
@@ -10365,7 +10374,6 @@
 - [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 - [haakco/haakco-deploy-stack](https://github.com/haakco/haakco-deploy-stack) - custd-docker-stack
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server) - a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
 - [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
 - [sdt/docker-raspberry-pi-cross-compiler](https://github.com/sdt/docker-raspberry-pi-cross-compiler) - Raspberry Pi cross-compiler and sysroot in a Docker container.
