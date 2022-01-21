@@ -84,6 +84,7 @@
   - [Pug](#pug)
   - [Puppet](#puppet)
   - [PureBasic](#purebasic)
+  - [PureScript](#purescript)
   - [Python](#python)
   - [QML](#qml)
   - [R](#r)
@@ -193,6 +194,8 @@
 
 ## C 
 
+- [Seagate/openSeaChest](https://github.com/Seagate/openSeaChest) - Cross platform utilities useful for performing various operations on SATA, SAS, NVMe, and USB storage devices.
+- [johnramsden/zectl](https://github.com/johnramsden/zectl) - ZFS Boot Environment manager for Linux
 - [Psychtoolbox-3/Psychtoolbox-3](https://github.com/Psychtoolbox-3/Psychtoolbox-3) - Psychophysics Toolbox Version 3 (PTB-3) is a free set of Matlab and GNU Octave functions for vision and neuroscience research.
 - [dequis/purple-facebook](https://github.com/dequis/purple-facebook) - Facebook protocol plugin for libpurple (moved from jgeboski/purple-facebook)
 - [Junker/purple-xmpp-http-upload](https://github.com/Junker/purple-xmpp-http-upload) - HTTP File Upload plugin for libpurple (XMPP Protocol)
@@ -311,7 +314,7 @@
 - [ip2location/ip2location-traceroute](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database.
 - [cloudflare/mmproxy](https://github.com/cloudflare/mmproxy) - mmproxy, the magical PROXY protocol gateway
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
-- [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open-source DDoS protection system
+- [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - The first open-source DDoS protection system
 - [DasSidG/limesdr_rfid](https://github.com/DasSidG/limesdr_rfid) - A repo containing LimeSuite drivers and GNU Radio code to use the LimeSDR as an RFID reader
 - [oresat/uniclogs-hardware](https://github.com/oresat/uniclogs-hardware) - University Class Open Ground Station Hardware
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
@@ -1586,6 +1589,8 @@
 
 ## Go 
 
+- [TrilliumIT/docker-zfs-plugin](https://github.com/TrilliumIT/docker-zfs-plugin) - Docker volume plugin for creating persistent volumes as a dedicated zfs dataset.
+- [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon
 - [virtualzone/compose-updater](https://github.com/virtualzone/compose-updater) - Automatically update your Docker Compose containers.
 - [damomurf/tailscale-exporter](https://github.com/damomurf/tailscale-exporter) - Prometheus Exporter for Tailscale metrics and metadata
 - [mgumz/mtr-exporter](https://github.com/mgumz/mtr-exporter) - A Prometheus exporter for mtr metrics
@@ -3695,6 +3700,7 @@
 
 ## JavaScript 
 
+- [optimans/cockpit-zfs-manager](https://github.com/optimans/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 - [pippinlee/filesize-cli](https://github.com/pippinlee/filesize-cli) - A tiny module to that returns the size of your files, to be used with npm scripts
 - [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
 - [sindresorhus/prepend-http](https://github.com/sindresorhus/prepend-http) - Prepend `https://` to humanized URLs like `sindresorhus.com` and `localhost`
@@ -6174,7 +6180,7 @@
 - [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - :file_folder: #AISecurity
 - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to try out machine learning with Python and Jupyter Notebook. Free/open-source resources, notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome!
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card) - A Custom Lovelace card to pull together the mail and packages sensors.
 - [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
@@ -6708,6 +6714,7 @@
 
 ## Perl 
 
+- [jonmatifa/zfsmanager](https://github.com/jonmatifa/zfsmanager) - ZFS administration tool for Webmin
 - [bagder/dns2doh](https://github.com/bagder/dns2doh) - DNS to DoH
 - [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
 - [atomia/atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
@@ -6806,8 +6813,14 @@
 
 - [neuralet/models](https://github.com/neuralet/models) - Neuralet edge deep learning models library. Neuralet is an open-source platform for edge deep learning models on GPU, TPU, and more.
 
+## PureScript 
+
+- [j-keck/zfs-snap-diff](https://github.com/j-keck/zfs-snap-diff) - helps you with your zfs snapshots
+
 ## Python 
 
+- [aparrish/pronouncingpy](https://github.com/aparrish/pronouncingpy) - A simple interface for the CMU pronouncing dictionary
+- [mphilli/English-to-IPA](https://github.com/mphilli/English-to-IPA) - Converts English text to IPA notation
 - [stanford-rc/sasutils](https://github.com/stanford-rc/sasutils) - Serial Attached SCSI (SAS) Linux utilities and Python library
 - [robdmc/switchenv](https://github.com/robdmc/switchenv) - :twisted_rightwards_arrows: A command-line tool for loading different bash environment profiles
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
@@ -11225,7 +11238,7 @@
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [blockstack/gaia](https://github.com/blockstack/gaia) - A decentralized high-performance storage system
+- [stacks-network/gaia](https://github.com/stacks-network/gaia) - A decentralized high-performance storage system
 - [blenderskool/color-pop](https://github.com/blenderskool/color-pop) - 🌈 Automatic Color Pop effect on any image inspired by Google Photos
 - [mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
 - [runk/node-maxmind](https://github.com/runk/node-maxmind) - Maxmind GEO Lookup
