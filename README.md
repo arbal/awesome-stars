@@ -808,7 +808,6 @@
 - [Sina-Soltani/Parbad](https://github.com/Sina-Soltani/Parbad) - A free, open-source, integrated and extensible library which connects your web applications to online payment gateways. Gateways can be added or developed by you.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-- [mganss/XmlSchemaClassGenerator](https://github.com/mganss/XmlSchemaClassGenerator) - Generate C# classes from XML Schema files
 - [sjh37/EntityFramework-Reverse-POCO-Code-First-Generator](https://github.com/sjh37/EntityFramework-Reverse-POCO-Code-First-Generator) - EntityFramework Reverse POCO Code First Generator - Beautifully generated code that is fully customisable. This generator creates code as if you reverse engineered a database and lovingly created the code by hand. It is free to academics (you need a .edu or a .ac email address), not free for commercial use. Obtain your licence from
 - [cezarypiatek/MappingGenerator](https://github.com/cezarypiatek/MappingGenerator) - :arrows_counterclockwise: "AutoMapper" like, Roslyn based, code fix provider that allows to generate mapping code in design time.
 - [structurizr/dotnet](https://github.com/structurizr/dotnet) - Structurizr for .NET
@@ -846,6 +845,7 @@
 - [zzzprojects/GraphDiff](https://github.com/zzzprojects/GraphDiff) - GraphDiff is a library that allows the automatic update of a detached graph using Entity Framework code first.
 - [jbakic/Shielded](https://github.com/jbakic/Shielded) - A strict and mostly lock-free Software Transactional Memory (STM) for .NET
 - [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
+- [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
 - [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
 - [destructurama/json-net](https://github.com/destructurama/json-net) - Adds support for logging JSON.NET dynamic types as structured data with Serilog
 - [timabell/ef-enum-to-lookup](https://github.com/timabell/ef-enum-to-lookup) - Generates lookup tables from enum references in Microsoft Entity Framework 6.1
@@ -1330,6 +1330,7 @@
 
 ## Dockerfile 
 
+- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
 - [evait-security/docker-multitor](https://github.com/evait-security/docker-multitor) - 
 - [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized nitefood/asn ASN Lookup Tool and Traceroute Server
 - [ricardbejarano/haproxy_exporter](https://github.com/ricardbejarano/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
@@ -1442,6 +1443,7 @@
 - [QuantumObject/docker-xowa](https://github.com/QuantumObject/docker-xowa) - docker container for xowa (offline wikipedia)
 - [linuxserver/docker-tautulli](https://github.com/linuxserver/docker-tautulli) - 
 - [compujuckel/adsb-docker](https://github.com/compujuckel/adsb-docker) - dump1090-fa, piaware and fr24feed together with docker-compose
+- [docker/distribution-library-image](https://github.com/docker/distribution-library-image) - 
 - [f4exb/sdrangel-docker](https://github.com/f4exb/sdrangel-docker) - Running SDRangel in a Docker container
 - [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
 - [apify/apify-actor-docker](https://github.com/apify/apify-actor-docker) - Base Docker images for Apify actors.
@@ -1589,6 +1591,7 @@
 
 ## Go 
 
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [TrilliumIT/docker-zfs-plugin](https://github.com/TrilliumIT/docker-zfs-plugin) - Docker volume plugin for creating persistent volumes as a dedicated zfs dataset.
 - [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon
 - [virtualzone/compose-updater](https://github.com/virtualzone/compose-updater) - Automatically update your Docker Compose containers.
@@ -3414,6 +3417,7 @@
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
 - [fitbeard/awx-ha-cluster](https://github.com/fitbeard/awx-ha-cluster) - AWX clustering on Docker standalone installation
 - [prometheus/demo-site](https://github.com/prometheus/demo-site) - Demo site auto-deployed with Ansible and Travis CI.
+- [mganss/XmlSchemaClassGenerator](https://github.com/mganss/XmlSchemaClassGenerator) - Generate C# classes from XML Schema files
 - [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
 - [cagov/covid19](https://github.com/cagov/covid19) - This is the official COVID19 response website for the state of California.
 - [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website) - The Best Motherfucking Website
@@ -3482,7 +3486,7 @@
 
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with groups and sending files!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -3974,7 +3978,7 @@
 - [zecojls/tagee](https://github.com/zecojls/tagee) - Terrain Analysis in Google Earth Engine
 - [geohackweek/GoogleEarthEngine](https://github.com/geohackweek/GoogleEarthEngine) - Google Earth Engine Tutorial
 - [gee-community/ee-runner](https://github.com/gee-community/ee-runner) - Command-line runner for Google Earth Engine Playground scripts
-- [rhodey/radiowitness](https://github.com/rhodey/radiowitness) - P25 public safety radio archive with a web application and support for cryptographically authenticated mirrors through Dat Protocol.
+- [rhodey/radiowitness](https://github.com/rhodey/radiowitness) - P25 public safety radio archive with Dat Protocol authenticated mirrors.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [satellogic/grafana-3d-globe-panel](https://github.com/satellogic/grafana-3d-globe-panel) - A cesium based 3d globe panel plugin for grafana
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - A modern web interface for OpenWrt implemented in vue.js and Lua.
@@ -5234,7 +5238,6 @@
 - [anryko/grafana-influx-dashboard](https://github.com/anryko/grafana-influx-dashboard) - Grafana InfluxDB scripted dashboard
 - [GoshPosh/grafana-meta-queries](https://github.com/GoshPosh/grafana-meta-queries) - Grafana plugin for calculating time period metrics like week over week, month over month and year over year etc.
 - [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
-- [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
 - [sibartlett/homebridge-wink3](https://github.com/sibartlett/homebridge-wink3) - Homebridge plugin for wink.com
 - [brockallen/IdentityServerAndApi](https://github.com/brockallen/IdentityServerAndApi) - 
 - [colinbate/api-mocking-proxy](https://github.com/colinbate/api-mocking-proxy) - An (HTTP) API proxy server that stores and replays captured responses.
@@ -8552,7 +8555,7 @@
 - [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
 - [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
 - [iXsystems/cinder](https://github.com/iXsystems/cinder) - 
 - [garyt72/sensor.acuparse](https://github.com/garyt72/sensor.acuparse) - Acuparse sensor component for Home Assistant
@@ -8902,7 +8905,7 @@
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
-- [jay0lee/got-your-back](https://github.com/jay0lee/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
+- [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [stevenleeg/geemusic](https://github.com/stevenleeg/geemusic) - A bridge between Google Music and Amazon's Alexa
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -9487,6 +9490,7 @@
 
 ## Scala 
 
+- [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [cjww-development/gatekeeper](https://github.com/cjww-development/gatekeeper) - Implementation of OIDC and OAuth2
 - [allenai/pdffigures2](https://github.com/allenai/pdffigures2) - Given a scholarly PDF, extract figures, tables, captions, and section titles.
 - [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
@@ -10188,7 +10192,6 @@
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [pierpo/fzf-docker](https://github.com/pierpo/fzf-docker) - 🐳 Docker completion in zsh using fzf 🌸
-- [docker/distribution-library-image](https://github.com/docker/distribution-library-image) - 
 - [bbtsoftware/docker-swarm-monitor](https://github.com/bbtsoftware/docker-swarm-monitor) - Docker image for monitoring a Docker Swarm.
 - [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the closed sourced Raspberry Pi 4 EEPROMs
 - [jprochazka/adsb-receiver](https://github.com/jprochazka/adsb-receiver) - Create your own ADS-B receiver and web portal.
