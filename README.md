@@ -1591,6 +1591,7 @@
 
 ## Go 
 
+- [marianogappa/sql](https://github.com/marianogappa/sql) - MySQL & PostgreSQL pipe
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [TrilliumIT/docker-zfs-plugin](https://github.com/TrilliumIT/docker-zfs-plugin) - Docker volume plugin for creating persistent volumes as a dedicated zfs dataset.
 - [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon
@@ -3704,6 +3705,7 @@
 
 ## JavaScript 
 
+- [caseyWebb/vultr-pingtest](https://github.com/caseyWebb/vultr-pingtest) - :watch: Test Latency from all Vultr VPS Locations
 - [optimans/cockpit-zfs-manager](https://github.com/optimans/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 - [pippinlee/filesize-cli](https://github.com/pippinlee/filesize-cli) - A tiny module to that returns the size of your files, to be used with npm scripts
 - [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
@@ -4035,7 +4037,7 @@
 - [sindresorhus/open-editor](https://github.com/sindresorhus/open-editor) - Open files in your editor at a specific line and column
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [Reactive-Resume/app](https://github.com/Reactive-Resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [HubSpot/humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane. #hubspot-open-source
 - [sindresorhus/pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
@@ -6822,6 +6824,7 @@
 
 ## Python 
 
+- [cssnr/vultrvpn](https://github.com/cssnr/vultrvpn) - Create an on-demand VPN for less than $0.01 per hour...
 - [aparrish/pronouncingpy](https://github.com/aparrish/pronouncingpy) - A simple interface for the CMU pronouncing dictionary
 - [mphilli/English-to-IPA](https://github.com/mphilli/English-to-IPA) - Converts English text to IPA notation
 - [stanford-rc/sasutils](https://github.com/stanford-rc/sasutils) - Serial Attached SCSI (SAS) Linux utilities and Python library
@@ -10882,6 +10885,7 @@
 
 ## TypeScript 
 
+- [joereynolds/sql-lint](https://github.com/joereynolds/sql-lint) - An SQL linter
 - [coolxv/live-streams-datasource](https://github.com/coolxv/live-streams-datasource) - grafana datasource live streams
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [retorquere/zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
