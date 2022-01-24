@@ -1216,6 +1216,7 @@
 
 ## CSS 
 
+- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [evnix/boltdbweb](https://github.com/evnix/boltdbweb) - A web based GUI for BoltDB files
 - [Qoraiche/VultrDash](https://github.com/Qoraiche/VultrDash) - Vultr self-hosted dashboard.
@@ -1591,6 +1592,7 @@
 
 ## Go 
 
+- [mainflux/mproxy](https://github.com/mainflux/mproxy) - mProxy is an MQTT proxy
 - [marianogappa/sql](https://github.com/marianogappa/sql) - MySQL & PostgreSQL pipe
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [TrilliumIT/docker-zfs-plugin](https://github.com/TrilliumIT/docker-zfs-plugin) - Docker volume plugin for creating persistent volumes as a dedicated zfs dataset.
@@ -3705,6 +3707,7 @@
 
 ## JavaScript 
 
+- [brozeph/simple-socks](https://github.com/brozeph/simple-socks) - Simple SOCKS5 proxy server
 - [caseyWebb/vultr-pingtest](https://github.com/caseyWebb/vultr-pingtest) - :watch: Test Latency from all Vultr VPS Locations
 - [optimans/cockpit-zfs-manager](https://github.com/optimans/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 - [pippinlee/filesize-cli](https://github.com/pippinlee/filesize-cli) - A tiny module to that returns the size of your files, to be used with npm scripts
@@ -5294,6 +5297,7 @@
 - [geerlingguy/ansible-role-fluentd](https://github.com/geerlingguy/ansible-role-fluentd) - Ansible role - Fluentd (td-agent)
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [papanito/ansible-role-cloudflared](https://github.com/papanito/ansible-role-cloudflared) - This ansible role does download and install cloudflared on the host and optionally installs the argo-tunnel as a service.
+- [cloudalchemy/ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [kairen/kubeadm-ansible](https://github.com/kairen/kubeadm-ansible) - Build a Kubernetes cluster using kubeadm via Ansible.
 - [enys/traefik_prometheus_dashboard](https://github.com/enys/traefik_prometheus_dashboard) - Graphana dashboard for prometheus metrics from Traefik v2
 - [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp) - Ansible Role - NTP
@@ -6824,6 +6828,7 @@
 
 ## Python 
 
+- [akamai-threat-research/mqtt-pwn](https://github.com/akamai-threat-research/mqtt-pwn) - MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations.
 - [cssnr/vultrvpn](https://github.com/cssnr/vultrvpn) - Create an on-demand VPN for less than $0.01 per hour...
 - [aparrish/pronouncingpy](https://github.com/aparrish/pronouncingpy) - A simple interface for the CMU pronouncing dictionary
 - [mphilli/English-to-IPA](https://github.com/mphilli/English-to-IPA) - Converts English text to IPA notation
@@ -8156,7 +8161,6 @@
 - [pawamoy/shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts!
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser
-- [cloudalchemy/ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -9516,6 +9520,7 @@
 
 ## Shell 
 
+- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [F-Hauri/bashProfiler](https://github.com/F-Hauri/bashProfiler) - bash profiler function
 - [matstc/shell-profiler](https://github.com/matstc/shell-profiler) - Profiler for shell scripts
 - [tzneal/iocage-plugin-tailscale](https://github.com/tzneal/iocage-plugin-tailscale) - WIP TrueNAS tailscale plugin
