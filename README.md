@@ -1778,7 +1778,7 @@
 - [nishanths/lyft](https://github.com/nishanths/lyft) - Create and manage Lyft rides from the command line
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
 - [mewil/tproxy](https://github.com/mewil/tproxy) - Container-based HTTPS proxy for Tailscale
-- [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
+- [cubeFS/chubaofs](https://github.com/cubeFS/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [FilWisher/go-ansi-diff](https://github.com/FilWisher/go-ansi-diff) - a literal translation of https://github.com/mafintosh/ansi-diff-stream to go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -2399,7 +2399,6 @@
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -5424,6 +5423,7 @@
 - [datadesk/california-coronavirus-data](https://github.com/datadesk/california-coronavirus-data) - The Los Angeles Times' open-source archive of California coronavirus data
 - [CAIDA/submarine-cable-impact-analysis-public](https://github.com/CAIDA/submarine-cable-impact-analysis-public) - This repository contains tools implemented for the PAM 2020 paper "Unintended consequences: Effects of submarine cable deployment on Internet routing" to collect and analyze data depicting the impact of the South-Atlantic Cable System (SACS) launch on Internet routing. This codebase can be extended to other use-cases of cable launches, failures, etc.
 - [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [dolongbien/HumanBehaviorBKU](https://github.com/dolongbien/HumanBehaviorBKU) - Abnormal Human Behaviors Detection/ Road Accident Detection From Surveillance Videos/ Real-World Anomaly Detection in Surveillance Videos/ C3D Feature Extraction
 - [aqibsaeed/Human-Activity-Recognition-using-CNN](https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN) - Convolutional Neural Network for Human Activity Recognition in Tensorflow
@@ -6828,6 +6828,9 @@
 
 ## Python 
 
+- [winklevos/Speedtest-for-InfluxDB-and-Grafana](https://github.com/winklevos/Speedtest-for-InfluxDB-and-Grafana) - A tool to run periodic speedtests and save them in InfluxDB for graphing in Grafana
+- [desty2k/noisy-mqtt](https://github.com/desty2k/noisy-mqtt) - Simple random DNS, HTTP/S internet traffic noise generator with MQTT support
+- [PiotrMachowski/Home-Assistant-custom-components-Saver](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Saver) - This custom component allows you to save current state of any entity and use its data later to restore it.
 - [akamai-threat-research/mqtt-pwn](https://github.com/akamai-threat-research/mqtt-pwn) - MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations.
 - [cssnr/vultrvpn](https://github.com/cssnr/vultrvpn) - Create an on-demand VPN for less than $0.01 per hour...
 - [aparrish/pronouncingpy](https://github.com/aparrish/pronouncingpy) - A simple interface for the CMU pronouncing dictionary
@@ -8261,7 +8264,6 @@
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [alankbi/detecto](https://github.com/alankbi/detecto) - Build fully-functioning computer vision models with PyTorch
 - [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml) - [UNMAINTAINED] Automated machine learning for analytics & production
-- [h1st-ai/h1st](https://github.com/h1st-ai/h1st) - Power Tools for AI Engineers With Deadlines
 - [chickenbestlover/RNN-Time-series-Anomaly-Detection](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection) - RNN based Time-series Anomaly detector model implemented in Pytorch.
 - [kizniche/Mycodo](https://github.com/kizniche/Mycodo) - An environmental monitoring and regulation system
 - [Kismuz/btgym](https://github.com/Kismuz/btgym) - Scalable, event-driven, deep-learning-friendly backtesting library
@@ -9520,6 +9522,7 @@
 
 ## Shell 
 
+- [flesueur/mi-lxc](https://github.com/flesueur/mi-lxc) - Mini-Internet using LXC for practical works
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [F-Hauri/bashProfiler](https://github.com/F-Hauri/bashProfiler) - bash profiler function
 - [matstc/shell-profiler](https://github.com/matstc/shell-profiler) - Profiler for shell scripts
@@ -9631,7 +9634,7 @@
 - [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 - [hslatman/tailscale-balena-block](https://github.com/hslatman/tailscale-balena-block) - 
 - [Hubbitus/shell.scripts](https://github.com/Hubbitus/shell.scripts) - Useful shell scripts, examples and snippets
-- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - SkiffOS: Lightweight cross-compiled Linux distribution optimized for hosting containers on unreliable devices.
+- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - SkiffOS: Lightweight cross-compiled Linux distribution optimized for hosting containers on embedded devices.
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [marblenix/iocage-plugin-vault](https://github.com/marblenix/iocage-plugin-vault) - 
 - [tsujamin/hass-addons](https://github.com/tsujamin/hass-addons) - 
@@ -10044,7 +10047,7 @@
 - [n-st/nench](https://github.com/n-st/nench) - VPS benchmark script — based on the popular bench.sh, plus CPU and ioping tests, and dual-stack IPv4 and v6 speedtests by default
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
-- [toniblyx/prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.
 - [Whonix/Whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP. https://www.whonix.org
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [zaherg/letsencrypt-for-local-development](https://github.com/zaherg/letsencrypt-for-local-development) - Docker Compose + Traefik TLS Proxy + Let's encrypt Wildcard Cert
@@ -10679,6 +10682,7 @@
 
 ## Swift 
 
+- [scriptingosx/diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [Agalin/pidgin_macos_integration](https://github.com/Agalin/pidgin_macos_integration) - Pidgin plugin adding macOS shell integration
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
@@ -11144,7 +11148,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
 - [alibaba/formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [NRCHKB/node-red-contrib-homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
@@ -11198,6 +11202,7 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [nevalla/lens-resource-map-extension](https://github.com/nevalla/lens-resource-map-extension) - Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.
 - [influxdata/vsflux](https://github.com/influxdata/vsflux) - Flux language extension for VSCode
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
