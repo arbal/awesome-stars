@@ -194,6 +194,7 @@
 
 ## C 
 
+- [Yubico/yubico-piv-tool](https://github.com/Yubico/yubico-piv-tool) - Command line tool for the YubiKey PIV application
 - [Seagate/openSeaChest](https://github.com/Seagate/openSeaChest) - Cross platform utilities useful for performing various operations on SATA, SAS, NVMe, and USB storage devices.
 - [johnramsden/zectl](https://github.com/johnramsden/zectl) - ZFS Boot Environment manager for Linux
 - [Psychtoolbox-3/Psychtoolbox-3](https://github.com/Psychtoolbox-3/Psychtoolbox-3) - Psychophysics Toolbox Version 3 (PTB-3) is a free set of Matlab and GNU Octave functions for vision and neuroscience research.
@@ -862,6 +863,8 @@
 
 ## C++ 
 
+- [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+- [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
 - [hoehermann/purple-signal](https://github.com/hoehermann/purple-signal) - Pidgin/libpurple plugin for signal using libsignal-service-java (and parts of signal-cli).
 - [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
 - [stealth/opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
@@ -1280,6 +1283,7 @@
 
 ## CoffeeScript 
 
+- [joelvh/json2json](https://github.com/joelvh/json2json) - Transform (reformat) JSON structures from one to another using JavaScript
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [louixs/tsushin](https://github.com/louixs/tsushin) - Übersicht widget : Dynamically updating line chart that shows total uploaded and downloaded data being transferred to your Mac in kB. Heavily inspired by the work of Dion Munk -  network-throughput
 - [stephenyeargin/hubot-grafana](https://github.com/stephenyeargin/hubot-grafana) - 📈🤖 Query Grafana dashboards
@@ -1592,6 +1596,8 @@
 
 ## Go 
 
+- [antonmedv/gofx](https://github.com/antonmedv/gofx) - 🐾 fx-like command-line JSON processing tool
+- [shaj13/go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication.
 - [mainflux/mproxy](https://github.com/mainflux/mproxy) - mProxy is an MQTT proxy
 - [marianogappa/sql](https://github.com/marianogappa/sql) - MySQL & PostgreSQL pipe
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
@@ -1778,7 +1784,7 @@
 - [nishanths/lyft](https://github.com/nishanths/lyft) - Create and manage Lyft rides from the command line
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
 - [mewil/tproxy](https://github.com/mewil/tproxy) - Container-based HTTPS proxy for Tailscale
-- [cubeFS/chubaofs](https://github.com/cubeFS/chubaofs) - ChubaoFS (abbrev. CBFS) is a cloud native distributed file system and object store.
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS (abbrev. CBFS) is a cloud native distributed file system and object store.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [FilWisher/go-ansi-diff](https://github.com/FilWisher/go-ansi-diff) - a literal translation of https://github.com/mafintosh/ansi-diff-stream to go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -3706,6 +3712,8 @@
 
 ## JavaScript 
 
+- [niradler/json-cli-tool](https://github.com/niradler/json-cli-tool) - Extract map and filter JSON output. (lightweight jq alternative)
+- [jsonata-js/jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org
 - [brozeph/simple-socks](https://github.com/brozeph/simple-socks) - Simple SOCKS5 proxy server
 - [caseyWebb/vultr-pingtest](https://github.com/caseyWebb/vultr-pingtest) - :watch: Test Latency from all Vultr VPS Locations
 - [optimans/cockpit-zfs-manager](https://github.com/optimans/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
@@ -5584,7 +5592,7 @@
 ## Mustache 
 
 - [mvisonneau/helm-charts](https://github.com/mvisonneau/helm-charts) - Personal Helm charts repository
-- [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) - Helm chart for HAProxy kubernetes ingress controller
+- [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) - Helm chart for HAProxy Kubernetes Ingress Controller
 - [vultr/helm-charts](https://github.com/vultr/helm-charts) - Helm charts for Vultr
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
@@ -5731,6 +5739,8 @@
 
 ## Others 
 
+- [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
+- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [arbal/tailscale-exporter](https://github.com/arbal/tailscale-exporter) - Prometheus Exporter for Tailscale metrics and metadata
@@ -6828,6 +6838,7 @@
 
 ## Python 
 
+- [google/nsscache](https://github.com/google/nsscache) - asynchronously synchronise local NSS databases with remote directory services
 - [winklevos/Speedtest-for-InfluxDB-and-Grafana](https://github.com/winklevos/Speedtest-for-InfluxDB-and-Grafana) - A tool to run periodic speedtests and save them in InfluxDB for graphing in Grafana
 - [desty2k/noisy-mqtt](https://github.com/desty2k/noisy-mqtt) - Simple random DNS, HTTP/S internet traffic noise generator with MQTT support
 - [PiotrMachowski/Home-Assistant-custom-components-Saver](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Saver) - This custom component allows you to save current state of any entity and use its data later to restore it.
@@ -6927,7 +6938,7 @@
 - [N-Multifibra/netbox-proxbox](https://github.com/N-Multifibra/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
 - [proycon/clam](https://github.com/proycon/clam) - Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
-- [un-def/dl-plus](https://github.com/un-def/dl-plus) - A youtube-dl extension with pluggable extractors
+- [un-def/dl-plus](https://github.com/un-def/dl-plus) - An youtube-dl extension with pluggable extractors
 - [vycontrol/vycontrol](https://github.com/vycontrol/vycontrol) - vyos frontend
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
@@ -7680,7 +7691,7 @@
 - [mariostoev/finviz](https://github.com/mariostoev/finviz) - Unofficial API for finviz.com
 - [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
 - [scrapinghub/scrapyrt](https://github.com/scrapinghub/scrapyrt) - HTTP API for Scrapy spiders
-- [alberanid/imdbpy](https://github.com/alberanid/imdbpy) - IMDbPY is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies
+- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) - A series of DAGs/Workflows to help maintain the operation of Airflow
 - [bonovoxly/coinmarketcap-exporter](https://github.com/bonovoxly/coinmarketcap-exporter) - coinmarketcap.com Prometheus Exporter
@@ -9015,6 +9026,7 @@
 
 ## Ruby 
 
+- [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [making-sense/unofficial_sense_api](https://github.com/making-sense/unofficial_sense_api) - Access your Sense data. It's yours.
 - [oesmith/puffing-billy](https://github.com/oesmith/puffing-billy) - A rewriting web proxy for testing interactions between your browser and external sites.  Works with ruby + rspec.
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
@@ -9205,6 +9217,8 @@
 
 ## Rust 
 
+- [proxmox/proxmox-backup](https://github.com/proxmox/proxmox-backup) - Proxmox Backup Server and Client - read only mirror
+- [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
 - [brycx/checkpwn](https://github.com/brycx/checkpwn) - Check Have I Been Pwned and see if it's time for you to change passwords.
 - [imager-io/imager](https://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
@@ -9522,6 +9536,9 @@
 
 ## Shell 
 
+- [jedisct1/dnscrypt-server-docker](https://github.com/jedisct1/dnscrypt-server-docker) - A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
+- [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
+- [gordonpn/server-services-configs](https://github.com/gordonpn/server-services-configs) - How I set up services on my home server with Docker Compose
 - [flesueur/mi-lxc](https://github.com/flesueur/mi-lxc) - Mini-Internet using LXC for practical works
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [F-Hauri/bashProfiler](https://github.com/F-Hauri/bashProfiler) - bash profiler function
@@ -9888,7 +9905,7 @@
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
 - [mrako/wait-for](https://github.com/mrako/wait-for) - 
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 15+ Git scenarios. Powered by FZF
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
@@ -11412,7 +11429,7 @@
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
-- [krzkaczor/ts-essentials](https://github.com/krzkaczor/ts-essentials) - All basic TypeScript types in one place 🤙
+- [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
 - [arlophoenix/ts-toolkit](https://github.com/arlophoenix/ts-toolkit) - Get a project up and running with Typescript. Includes Typescript, Babel, Jest, ESLint, Prettier, CircleCI, VSCode config and more.
 - [TooTallNate/node-agent-base](https://github.com/TooTallNate/node-agent-base) - Turn a function into an `http.Agent` instance
 - [home-assistant/home-assistant-js-websocket](https://github.com/home-assistant/home-assistant-js-websocket) - :aerial_tramway: JavaScript websocket client for Home Assistant
