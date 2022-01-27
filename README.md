@@ -467,6 +467,7 @@
 - [olivierlevon/Bonjour](https://github.com/olivierlevon/Bonjour) - Yet another unofficial mDNSResponder mirror http://developer.apple.com/bonjour
 - [mjansson/mdns](https://github.com/mjansson/mdns) - Public domain mDNS/DNS-SD library in C
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [DPDK/dpdk](https://github.com/DPDK/dpdk) - Data Plane Development Kit
 - [scaleway/natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
 - [open-mesh-mirror/batman-adv](https://github.com/open-mesh-mirror/batman-adv) - batman-adv
@@ -2477,7 +2478,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
-- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @labstack, @gin-gonic, @nginx and @apache
+- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @labstack, @gin-gonic, @zalando, @nginx and @apache
 - [acouvreur/traefik-ondemand-service](https://github.com/acouvreur/traefik-ondemand-service) - Traefik ondemand service for the traefik ondemand plugin
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [gophertuts/reminders-cli](https://github.com/gophertuts/reminders-cli) - Reminders CLI app in Go
@@ -4379,7 +4380,7 @@
 - [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
 - [N0taN3rd/Squidwarc](https://github.com/N0taN3rd/Squidwarc) - Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head
-- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [GoogleChromeLabs/pptraas.com](https://github.com/GoogleChromeLabs/pptraas.com) - Puppeteer as a service
 - [danhumphrey/page-modeller](https://github.com/danhumphrey/page-modeller) - ⚙️ Browser DevTools extension for modelling web pages for automation.
 - [hipache/hipache](https://github.com/hipache/hipache) - Hipache: a distributed HTTP and websocket proxy
@@ -5739,6 +5740,7 @@
 
 ## Others 
 
+- [arbal/noisy](https://github.com/arbal/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -7792,7 +7794,6 @@
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) - Smart DNS proxy to watch Netflix
 - [EvaSeidlmayer/orcid-for-wikidata](https://github.com/EvaSeidlmayer/orcid-for-wikidata) - import information (affiliation, education) from ORCID database to Wikidata regarding authors of scientific papers
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -7947,7 +7948,7 @@
 - [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg) - A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video
 - [TenPennyTV/worker-ffmpeg](https://github.com/TenPennyTV/worker-ffmpeg) - Worker that is used to transcode video to supported formats and resolutions
 - [juancarlospaco/pyvoicechanger](https://github.com/juancarlospaco/pyvoicechanger) - Real Time Microphone Voice Changer Python 3.6+ App. Works with On-Line Games and VideoConferences!
-- [NationalSecurityAgency/qgis-latlontools-plugin](https://github.com/NationalSecurityAgency/qgis-latlontools-plugin) - QGIS tools to capture and zoom to coordinates using decimal, DMS, WKT, GeoJSON, MGRS, UTM, UPS, GEOREF, and Plus Codes notation. Provides external map support, MGRS & Plus Codes conversion and point digitizing tools.
+- [NationalSecurityAgency/qgis-latlontools-plugin](https://github.com/NationalSecurityAgency/qgis-latlontools-plugin) - QGIS tools to capture and zoom to coordinates using decimal, DMS, WKT, GeoJSON, MGRS, UTM, UPS, GEOREF, ECEF, and Plus Codes notation. Provides external map support, MGRS & Plus Codes conversion and point digitizing tools.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [signalfx/maestro-ng](https://github.com/signalfx/maestro-ng) - Orchestration of Docker-based, multi-host environments
 - [pixincreate/Automeet](https://github.com/pixincreate/Automeet) - Google Meet meetings Automation is Automeet! Automeet with a click!
@@ -9477,7 +9478,7 @@
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [coord-e/magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
 - [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) - 🤠   wrangle your Cloudflare Workers
@@ -9520,7 +9521,7 @@
 - [phiSgr/gatling-grpc](https://github.com/phiSgr/gatling-grpc) - A Gatling load test plugin for gRPC
 - [eikek/chee](https://github.com/eikek/chee) - A command line tool for managing photos.
 - [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
-- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [zaratsian/network_topology_analysis](https://github.com/zaratsian/network_topology_analysis) - Code to collect and analyze traceroute data within a network topology
 - [mesos/chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
@@ -9758,7 +9759,7 @@
 - [maddox/mac-api](https://github.com/maddox/mac-api) - Command your Mac from afar
 - [lukdiekm/alfred-shortcuts](https://github.com/lukdiekm/alfred-shortcuts) - 
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
-- [bAndie91/cloudflare-cli](https://github.com/bAndie91/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
+- [jordantrizz/cloudflare-cli](https://github.com/jordantrizz/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
 - [mmontes11/photoprism-auto-index](https://github.com/mmontes11/photoprism-auto-index) - Photoprism supercharged with originals folder auto indexing
 - [steerio/dotfiles](https://github.com/steerio/dotfiles) - Dotfiles for zsh-based environments on OS X, Linux and OpenBSD
 - [scriptingosx/mac-zsh-completions](https://github.com/scriptingosx/mac-zsh-completions) - macOS specific additional completion definitions for Zsh.
