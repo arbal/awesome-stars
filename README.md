@@ -864,6 +864,7 @@
 
 ## C++ 
 
+- [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
 - [hoehermann/purple-signal](https://github.com/hoehermann/purple-signal) - Pidgin/libpurple plugin for signal using libsignal-service-java (and parts of signal-cli).
@@ -1146,7 +1147,7 @@
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.6: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents and more. A faster, user-friendly and compatible grep replacement.
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.7: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents and more. A faster, user-friendly and compatible grep replacement.
 - [Namburger/edgetpu-detection-camera](https://github.com/Namburger/edgetpu-detection-camera) - Detection Camera with EdgeTpu
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [google-coral/edgetpu](https://github.com/google-coral/edgetpu) - Coral issue tracker (and legacy Edge TPU API source)
@@ -1597,6 +1598,7 @@
 
 ## Go 
 
+- [trustwallet/blockatlas](https://github.com/trustwallet/blockatlas) - Clean and lightweight cross-chain transaction API
 - [antonmedv/gofx](https://github.com/antonmedv/gofx) - 🐾 fx-like command-line JSON processing tool
 - [shaj13/go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication.
 - [mainflux/mproxy](https://github.com/mainflux/mproxy) - mProxy is an MQTT proxy
@@ -2413,7 +2415,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [submariner-io/lighthouse](https://github.com/submariner-io/lighthouse) - Controller to facilitate DNS discovery between clusters
 - [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
-- [UKHomeOffice-attic/repo-security-scanner](https://github.com/UKHomeOffice-attic/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [mastercactapus/caddy2-proxyprotocol](https://github.com/mastercactapus/caddy2-proxyprotocol) - 
 - [chukmunnlee/caddy-openapi](https://github.com/chukmunnlee/caddy-openapi) - A Caddy module to validate HTTP request and response against a OpenAPI spec (V3) file
 - [abiosoft/caddy-exec](https://github.com/abiosoft/caddy-exec) - Caddy v2 module for running one-off commands
@@ -3333,6 +3335,7 @@
 
 ## HTML 
 
+- [daxeel/blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
 - [healthchecks/dashboard](https://github.com/healthchecks/dashboard) - A standalone dashboard page showing the status of the checks in your Healthchecks.io account.
 - [YePpHa/YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.
 - [fb55/readabilitySAX](https://github.com/fb55/readabilitySAX) - a fast and platform independent readability port (JS)
@@ -5630,6 +5633,7 @@
 
 ## Objective-C 
 
+- [nbonamy/EnergyBar](https://github.com/nbonamy/EnergyBar) - Supercharge your Mac's Touch Bar.
 - [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
 - [growl/growl](https://github.com/growl/growl) - 
 - [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
@@ -6840,6 +6844,7 @@
 
 ## Python 
 
+- [rautesamtr/thermal_comfort_icons](https://github.com/rautesamtr/thermal_comfort_icons) - Thermal Comfort custom icons for Home Assistant to accompany the MDI icons
 - [google/nsscache](https://github.com/google/nsscache) - asynchronously synchronise local NSS databases with remote directory services
 - [winklevos/Speedtest-for-InfluxDB-and-Grafana](https://github.com/winklevos/Speedtest-for-InfluxDB-and-Grafana) - A tool to run periodic speedtests and save them in InfluxDB for graphing in Grafana
 - [desty2k/noisy-mqtt](https://github.com/desty2k/noisy-mqtt) - Simple random DNS, HTTP/S internet traffic noise generator with MQTT support
@@ -7178,6 +7183,7 @@
 - [hongquan/CurliPie](https://github.com/hongquan/CurliPie) - Convert cURL command to HTTPie
 - [alexander0042/pirate-weather-ha](https://github.com/alexander0042/pirate-weather-ha) - Replacement for the default Dark Sky Home Assistant integration using Pirate Weather
 - [damianolombardo/noisy](https://github.com/damianolombardo/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
+- [DShield-ISC/dshield](https://github.com/DShield-ISC/dshield) - DShield Raspberry Pi Sensor
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [inishantgrover/Shodmon](https://github.com/inishantgrover/Shodmon) - The Shodan monitoring tools allows you to monitor shodan listed servers basis on the filter you provided
 - [Yelp/docker-custodian](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy
@@ -7693,7 +7699,7 @@
 - [mariostoev/finviz](https://github.com/mariostoev/finviz) - Unofficial API for finviz.com
 - [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
 - [scrapinghub/scrapyrt](https://github.com/scrapinghub/scrapyrt) - HTTP API for Scrapy spiders
-- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
+- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) - A series of DAGs/Workflows to help maintain the operation of Airflow
 - [bonovoxly/coinmarketcap-exporter](https://github.com/bonovoxly/coinmarketcap-exporter) - coinmarketcap.com Prometheus Exporter
@@ -9218,6 +9224,7 @@
 
 ## Rust 
 
+- [comit-network/xmr-btc-swap](https://github.com/comit-network/xmr-btc-swap) - Bitcoin–Monero Cross-chain Atomic Swap
 - [proxmox/proxmox-backup](https://github.com/proxmox/proxmox-backup) - Proxmox Backup Server and Client - read only mirror
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
 - [brycx/checkpwn](https://github.com/brycx/checkpwn) - Check Have I Been Pwned and see if it's time for you to change passwords.
@@ -9263,7 +9270,7 @@
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A server executing commands on webhook. Uses Pueue as executor backend
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
-- [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) - Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
@@ -9463,7 +9470,7 @@
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-- [quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -9537,6 +9544,7 @@
 
 ## Shell 
 
+- [equalitie/mias](https://github.com/equalitie/mias) - A simple docker swarm stack for passive "push-based" monitoring/metrics
 - [jedisct1/dnscrypt-server-docker](https://github.com/jedisct1/dnscrypt-server-docker) - A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 - [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
 - [gordonpn/server-services-configs](https://github.com/gordonpn/server-services-configs) - How I set up services on my home server with Docker Compose
@@ -9746,7 +9754,6 @@
 - [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [Rajeeban-A/SearX_easy_Installer](https://github.com/Rajeeban-A/SearX_easy_Installer) - Search without being tracked-(Your Own Private Search Engine )
 - [AlmirKadric-Published/docker-tuntap-osx](https://github.com/AlmirKadric-Published/docker-tuntap-osx) - A tuntap shim installer for "Docker for Mac"
-- [DShield-ISC/dshield](https://github.com/DShield-ISC/dshield) - DShield Raspberry Pi Sensor
 - [utensils/essex](https://github.com/utensils/essex) - Essex - Boilerplate for Docker Based Projects
 - [mr-pennyworth/tesseract-app](https://github.com/mr-pennyworth/tesseract-app) - Tesseract-ocr from homebrew packaged as a standalone app
 - [alex00x6/mqtt-monitoring](https://github.com/alex00x6/mqtt-monitoring) - 
