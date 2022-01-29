@@ -194,6 +194,9 @@
 
 ## C 
 
+- [praetorian-inc/PortBender](https://github.com/praetorian-inc/PortBender) - TCP Port Redirection Utility
+- [samhocevar/rinetd](https://github.com/samhocevar/rinetd) - 📡 TCP/UDP port redirector
+- [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + lightweight)
 - [Yubico/yubico-piv-tool](https://github.com/Yubico/yubico-piv-tool) - Command line tool for the YubiKey PIV application
 - [Seagate/openSeaChest](https://github.com/Seagate/openSeaChest) - Cross platform utilities useful for performing various operations on SATA, SAS, NVMe, and USB storage devices.
 - [johnramsden/zectl](https://github.com/johnramsden/zectl) - ZFS Boot Environment manager for Linux
@@ -800,7 +803,7 @@
 - [AlbertMN/AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant!
 - [LimerBoy/Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [yuzd/Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob) - httpjob for Hangfire,restful api for Hangfire,job调度与业务分离
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
@@ -1147,7 +1150,7 @@
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.7: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents and more. A faster, user-friendly and compatible grep replacement.
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.7: ultra fast grep with interactive query UI, fuzzy search, boolean queries, and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents etc. A faster, user-friendly and compatible grep replacement.
 - [Namburger/edgetpu-detection-camera](https://github.com/Namburger/edgetpu-detection-camera) - Detection Camera with EdgeTpu
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [google-coral/edgetpu](https://github.com/google-coral/edgetpu) - Coral issue tracker (and legacy Edge TPU API source)
@@ -1520,6 +1523,7 @@
 
 ## Elixir 
 
+- [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [Anonyfox/elixir-scrape](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease!
 - [elixir-crawly/crawly](https://github.com/elixir-crawly/crawly) - Crawly, a high-level web crawling & scraping framework for Elixir.
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform.
@@ -1598,6 +1602,8 @@
 
 ## Go 
 
+- [dcb9/curl2httpie](https://github.com/dcb9/curl2httpie) - covert command arguments between cURL and HTTPie
+- [vultr/govultr](https://github.com/vultr/govultr) - Vultr Go API client
 - [trustwallet/blockatlas](https://github.com/trustwallet/blockatlas) - Clean and lightweight cross-chain transaction API
 - [antonmedv/gofx](https://github.com/antonmedv/gofx) - 🐾 fx-like command-line JSON processing tool
 - [shaj13/go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication.
@@ -3584,7 +3590,7 @@
 - [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.
 - [repeats/Repeat](https://github.com/repeats/Repeat) - Cross-platform mouse/keyboard record/replay and automation hotkeys/macros creation, and more advanced automation features.
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Building a Standard Layer & Ecosystem Above Heterogeneous Databases
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
 - [Rantzur1992/parallel-cucumber](https://github.com/Rantzur1992/parallel-cucumber) - Example Tests with parallel execution on Docker using TestProject Java SDK and Docker
 - [BenjaminFavre/keycloak-apple-social-identity-provider](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider) - Apple Social Identity Provider for Keycloak
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -3716,6 +3722,8 @@
 
 ## JavaScript 
 
+- [mntn-dev/t.js](https://github.com/mntn-dev/t.js) - ⌨️ Lightweight $.Hypertext.Typewriter
+- [botgram/shell-bot](https://github.com/botgram/shell-bot) - :robot: Telegram bot that executes commands and sends the live output
 - [niradler/json-cli-tool](https://github.com/niradler/json-cli-tool) - Extract map and filter JSON output. (lightweight jq alternative)
 - [jsonata-js/jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org
 - [brozeph/simple-socks](https://github.com/brozeph/simple-socks) - Simple SOCKS5 proxy server
@@ -6739,6 +6747,7 @@
 
 ## Perl 
 
+- [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
 - [jonmatifa/zfsmanager](https://github.com/jonmatifa/zfsmanager) - ZFS administration tool for Webmin
 - [bagder/dns2doh](https://github.com/bagder/dns2doh) - DNS to DoH
 - [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
@@ -6844,6 +6853,9 @@
 
 ## Python 
 
+- [httpie/httpie-unixsocket](https://github.com/httpie/httpie-unixsocket) - A UNIX socket plugin for HTTPie
+- [teracyhq/httpie-jwt-auth](https://github.com/teracyhq/httpie-jwt-auth) - JWTAuth (JSON Web Tokens) auth plugin for HTTPie
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [rautesamtr/thermal_comfort_icons](https://github.com/rautesamtr/thermal_comfort_icons) - Thermal Comfort custom icons for Home Assistant to accompany the MDI icons
 - [google/nsscache](https://github.com/google/nsscache) - asynchronously synchronise local NSS databases with remote directory services
 - [winklevos/Speedtest-for-InfluxDB-and-Grafana](https://github.com/winklevos/Speedtest-for-InfluxDB-and-Grafana) - A tool to run periodic speedtests and save them in InfluxDB for graphing in Grafana
@@ -9224,6 +9236,8 @@
 
 ## Rust 
 
+- [zhxie/pcap2socks](https://github.com/zhxie/pcap2socks) - Redirect traffic to SOCKS proxy with pcap.
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [comit-network/xmr-btc-swap](https://github.com/comit-network/xmr-btc-swap) - Bitcoin–Monero Cross-chain Atomic Swap
 - [proxmox/proxmox-backup](https://github.com/proxmox/proxmox-backup) - Proxmox Backup Server and Client - read only mirror
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
@@ -9544,6 +9558,8 @@
 
 ## Shell 
 
+- [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
+- [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv support for shell and POSIX-compliant .env syntax specification
 - [equalitie/mias](https://github.com/equalitie/mias) - A simple docker swarm stack for passive "push-based" monitoring/metrics
 - [jedisct1/dnscrypt-server-docker](https://github.com/jedisct1/dnscrypt-server-docker) - A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 - [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
@@ -10072,7 +10088,7 @@
 - [n-st/nench](https://github.com/n-st/nench) - VPS benchmark script — based on the popular bench.sh, plus CPU and ioping tests, and dual-stack IPv4 and v6 speedtests by default
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 - [Whonix/Whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP. https://www.whonix.org
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [zaherg/letsencrypt-for-local-development](https://github.com/zaherg/letsencrypt-for-local-development) - Docker Compose + Traefik TLS Proxy + Let's encrypt Wildcard Cert
@@ -10129,7 +10145,7 @@
 - [wolveix/plexus](https://github.com/wolveix/plexus) - A suite of tools to help manage your media collection.
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [whiskerz007/proxmox_lxc_create](https://github.com/whiskerz007/proxmox_lxc_create) - 
-- [omer-dogan/kali-whoami](https://github.com/omer-dogan/kali-whoami) - Whoami is a privacy tool developed to keep you anonymous on Kali Linux at the highest level.
+- [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami project provides enhanced anonymity for Debian and Arch based linux distributions
 - [vitorgalvao/lowchime](https://github.com/vitorgalvao/lowchime) - Lower the volume of macOS’s startup chime
 - [vitorgalvao/tiny-alfred-scripts](https://github.com/vitorgalvao/tiny-alfred-scripts) - Collection of small scripts to manage my Alfred Workflows
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
