@@ -76,7 +76,6 @@
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
-  - [POV-Ray SDL](#pov-ray-sdl)
   - [Pascal](#pascal)
   - [Perl](#perl)
   - [PowerShell](#powershell)
@@ -303,6 +302,7 @@
 - [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
 - [iscsi-osx/iSCSIInitiator](https://github.com/iscsi-osx/iSCSIInitiator) - iSCSI Initiator for macOS
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
+- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 - [ntop/PF_RING](https://github.com/ntop/PF_RING) - High-speed packet processing framework
 - [luigifcruz/kimera](https://github.com/luigifcruz/kimera) - Low-latency hardware accelerated codec based video streaming utility.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -988,7 +988,7 @@
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [myriadrf/ExtIO_LimeSDR](https://github.com/myriadrf/ExtIO_LimeSDR) - LimeSDR ExtIO Plugin for HDSDR
 - [samyk/dingdong](https://github.com/samyk/dingdong) - Digital Ding Dong Ditch -- RTL-SDR + Arduino + GSM/SMS/FONA + RF + GQRX to hack a wireless doorbell from a text message
-- [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
+- [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS. CurveBS provides block devices based on Raft. CurveFS supports POSIX based on Fuse, store data on CurveBS and object storage.
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [hiveco/conntrack_exporter](https://github.com/hiveco/conntrack_exporter) - Prometheus exporter for tracking network connections
@@ -1602,6 +1602,8 @@
 
 ## Go 
 
+- [mike182uk/snpt](https://github.com/mike182uk/snpt) - A gist powered CLI snippet retriever
+- [mike182uk/snpt-alfred-workflow](https://github.com/mike182uk/snpt-alfred-workflow) - An Alfred workflow for Snpt
 - [dcb9/curl2httpie](https://github.com/dcb9/curl2httpie) - covert command arguments between cURL and HTTPie
 - [vultr/govultr](https://github.com/vultr/govultr) - Vultr Go API client
 - [trustwallet/blockatlas](https://github.com/trustwallet/blockatlas) - Clean and lightweight cross-chain transaction API
@@ -5682,7 +5684,7 @@
 - [aburgh/Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures.
 - [nriley/launch](https://github.com/nriley/launch) - A command-line launcher for macOS in the spirit of open(1).
 - [jslegendre/tccplus](https://github.com/jslegendre/tccplus) - tccutil with extended capabilities.  Grant/remove accessibility permissions to any app.
-- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads an .ichat binary plist file and writes newline-separated JSON to STDOUT
 - [yangshun1029/aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
 - [linkedin/cassette](https://github.com/linkedin/cassette) - An efficient, file-based FIFO Queue for iOS and macOS.
@@ -5752,6 +5754,7 @@
 
 ## Others 
 
+- [arbal/swarm-dashboard](https://github.com/arbal/swarm-dashboard) - A simple monitoring dashboard for Docker in Swarm Mode.
 - [arbal/noisy](https://github.com/arbal/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more
@@ -6733,10 +6736,6 @@
 - [postgis/postgis](https://github.com/postgis/postgis) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [openmaptiles/openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
-
-## POV-Ray SDL 
-
-- [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 
 ## Pascal 
 
@@ -10145,7 +10144,7 @@
 - [wolveix/plexus](https://github.com/wolveix/plexus) - A suite of tools to help manage your media collection.
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [whiskerz007/proxmox_lxc_create](https://github.com/whiskerz007/proxmox_lxc_create) - 
-- [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami project provides enhanced anonymity for Debian and Arch based linux distributions
+- [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami project provides enhanced privacy, anonymity for Debian and Arch based linux distributions
 - [vitorgalvao/lowchime](https://github.com/vitorgalvao/lowchime) - Lower the volume of macOS’s startup chime
 - [vitorgalvao/tiny-alfred-scripts](https://github.com/vitorgalvao/tiny-alfred-scripts) - Collection of small scripts to manage my Alfred Workflows
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
