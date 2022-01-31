@@ -341,7 +341,7 @@
 - [pupnp/pupnp](https://github.com/pupnp/pupnp) - libupnp: Build UPnP-compliant control points, devices, and bridges on several operating systems.
 - [eniac/Flightplan](https://github.com/eniac/Flightplan) - Flightplan is a toolchain for the flexible decomposition of P4 programs and their allocation to heterogeneous hardware to improve performance, reliability and utilisation of software-defined networks.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
-- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design
+- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
@@ -747,6 +747,7 @@
 
 ## C# # 
 
+- [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [leonardodino/wc3proxy](https://github.com/leonardodino/wc3proxy) - ⚔️ proxy for playing Warcraft III LAN games remotely
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [isabellaalstrom/home-assistant-config](https://github.com/isabellaalstrom/home-assistant-config) - My configuration for Home Assistant on Hass.io
@@ -3005,7 +3006,7 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [nmaupu/freenas-provisioner](https://github.com/nmaupu/freenas-provisioner) - Kubernetes external provisioner using Freenas as backend
 - [travisghansen/freenas-iscsi-provisioner](https://github.com/travisghansen/freenas-iscsi-provisioner) - FreeNAS iscsi provisioner
-- [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X is a cli tool to wait for everything! It can be wait for a port to open or enter to rquested state.
+- [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [antelman107/net-wait-go](https://github.com/antelman107/net-wait-go) - Utility and GO library that helps wait for network port to open on server side
 - [ph4r5h4d/wait4it](https://github.com/ph4r5h4d/wait4it) - A simple go application to test whether a port or a service is ready or not
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
@@ -3535,6 +3536,7 @@
 
 ## Java 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
 - [machanic/CronHub](https://github.com/machanic/CronHub) - CronHub is a better crontab, it is a web application which can schedule, monitor and control the crontabs of multiple machines from the web page.
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
@@ -3724,6 +3726,8 @@
 
 ## JavaScript 
 
+- [plopjs/awesome-plop](https://github.com/plopjs/awesome-plop) - A collection of awesome Plop libraries, tools, and examples
+- [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
 - [mntn-dev/t.js](https://github.com/mntn-dev/t.js) - ⌨️ Lightweight $.Hypertext.Typewriter
 - [botgram/shell-bot](https://github.com/botgram/shell-bot) - :robot: Telegram bot that executes commands and sends the live output
 - [niradler/json-cli-tool](https://github.com/niradler/json-cli-tool) - Extract map and filter JSON output. (lightweight jq alternative)
@@ -9044,6 +9048,7 @@
 
 ## Ruby 
 
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [making-sense/unofficial_sense_api](https://github.com/making-sense/unofficial_sense_api) - Access your Sense data. It's yours.
 - [oesmith/puffing-billy](https://github.com/oesmith/puffing-billy) - A rewriting web proxy for testing interactions between your browser and external sites.  Works with ruby + rspec.
@@ -9235,6 +9240,8 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [zhxie/pcap2socks](https://github.com/zhxie/pcap2socks) - Redirect traffic to SOCKS proxy with pcap.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [comit-network/xmr-btc-swap](https://github.com/comit-network/xmr-btc-swap) - Bitcoin–Monero Cross-chain Atomic Swap
@@ -9281,7 +9288,7 @@
 - [rhysd/hgrep](https://github.com/rhysd/hgrep) - Grep with human-friendly search results
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
-- [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A server executing commands on webhook. Uses Pueue as executor backend
+- [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A webhook server that schedules commands on request. Uses Pueue as executor backend.
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
@@ -10934,6 +10941,10 @@
 
 ## TypeScript 
 
+- [zce/caz](https://github.com/zce/caz) - A simple yet powerful template-based Scaffolding tools.
+- [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
+- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
+- [actions-on-google/smart-home-nodejs](https://github.com/actions-on-google/smart-home-nodejs) - A sample of the Smart Home device control APIs in Actions on Google
 - [joereynolds/sql-lint](https://github.com/joereynolds/sql-lint) - An SQL linter
 - [coolxv/live-streams-datasource](https://github.com/coolxv/live-streams-datasource) - grafana datasource live streams
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
@@ -11484,7 +11495,7 @@
 
 ## Verilog 
 
-- [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - FPGA (chip) design of openwifi (IEEE 802.11)
+- [open-sdr/openwifi-hw](https://github.com/open-sdr/openwifi-hw) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware
 - [myriadrf/LimeSDR-USB_GW](https://github.com/myriadrf/LimeSDR-USB_GW) - Altera Cyclone IV FPGA project for the USB 3.0 LimeSDR board
 
 ## Vim script 
