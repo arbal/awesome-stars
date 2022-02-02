@@ -133,6 +133,7 @@
 
 ## AppleScript 
 
+- [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts) - My collection of AppleScripts I've developed or acquired over the years.
 - [superawesome/Force-Paste](https://github.com/superawesome/Force-Paste) - Paste text even when not allowed (password dialogs etc) in macOS
 - [heartshapedbox/macos-tweaks](https://github.com/heartshapedbox/macos-tweaks) - Useful tweaks via Automator (Folder Action, Workflow, Service) for MacOS.
 - [vrunt/facetime-auto-answer](https://github.com/vrunt/facetime-auto-answer) - Automatically answer FaceTime calls on OSX
@@ -1409,7 +1410,6 @@
 - [johanpi/docker-webmin](https://github.com/johanpi/docker-webmin) - Docker container running Webmin on Ubuntu 20.04 LTS
 - [solarkennedy/wine-x11-novnc-docker](https://github.com/solarkennedy/wine-x11-novnc-docker) - Base Docker image to run wine programs in a web browser via noVNC (html5 vnc viewer) + Xvfb + x11vnc
 - [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
-- [Dezota/dockerfiles](https://github.com/Dezota/dockerfiles) - These are Dezota created docker images and compose files
 - [jeffersonjhunt/shinysdr-docker](https://github.com/jeffersonjhunt/shinysdr-docker) - Docker build of debian, gnuradio and shinysdr with all plugins
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
@@ -3223,7 +3223,7 @@
 - [aykamko/tag](https://github.com/aykamko/tag) - Instantly jump to your ag or ripgrep matches.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [vmware-tanzu/carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt) - YAML templating tool that works on YAML structure instead of text
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
@@ -3729,6 +3729,8 @@
 
 ## JavaScript 
 
+- [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
+- [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
 - [plopjs/awesome-plop](https://github.com/plopjs/awesome-plop) - A collection of awesome Plop libraries, tools, and examples
 - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
 - [mntn-dev/t.js](https://github.com/mntn-dev/t.js) - ⌨️ Lightweight $.Hypertext.Typewriter
@@ -5759,6 +5761,11 @@
 
 ## Others 
 
+- [dagware/DanThomas](https://github.com/dagware/DanThomas) - Dan Thomas' stuff
+- [realliyifei/alfred-browser-tab-organizor](https://github.com/realliyifei/alfred-browser-tab-organizor) - Re-organize tabs in Safari and Chrome: close, move, duplicate, convert, etc.
+- [monfresh/Keyboard-Maestro-Macros](https://github.com/monfresh/Keyboard-Maestro-Macros) - A collection of useful Keyboard Maestro macros for maximum efficiency and productivity on your Mac.
+- [jayqizone/Surge-AppleScript](https://github.com/jayqizone/Surge-AppleScript) - 用 AppleScript 操纵 Surge 菜单，提供 Keyboard Maestro 宏样例
+- [BlackwinMin/keyboard-maestro-gallery](https://github.com/BlackwinMin/keyboard-maestro-gallery) - Original macOS Keyboard Maestro actions by Minja.
 - [arbal/swarm-dashboard](https://github.com/arbal/swarm-dashboard) - A simple monitoring dashboard for Docker in Swarm Mode.
 - [arbal/noisy](https://github.com/arbal/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
@@ -6857,6 +6864,8 @@
 
 ## Python 
 
+- [emraher/workflow](https://github.com/emraher/workflow) - Scripts, codes, extensions, macros, etc. that I use on MacOS
+- [kevin-funderburg/alfred-search-keyboard-maestro-vars](https://github.com/kevin-funderburg/alfred-search-keyboard-maestro-vars) - Search all Keyboard Maestro variables and clipboards to view or edit their values.
 - [D4-project/passive-ssh](https://github.com/D4-project/passive-ssh) - A Passive SSH back-end and scanner.
 - [httpie/httpie-unixsocket](https://github.com/httpie/httpie-unixsocket) - A UNIX socket plugin for HTTPie
 - [teracyhq/httpie-jwt-auth](https://github.com/teracyhq/httpie-jwt-auth) - JWTAuth (JSON Web Tokens) auth plugin for HTTPie
@@ -8451,7 +8460,7 @@
 - [furushchev/respeaker_ros](https://github.com/furushchev/respeaker_ros) - A ROS Package for Respeaker Mic Array
 - [atx/prometheus-tor_exporter](https://github.com/atx/prometheus-tor_exporter) - Prometheus exporter for the TOR daemon
 - [jvstein/bitcoin-prometheus-exporter](https://github.com/jvstein/bitcoin-prometheus-exporter) - Prometheus exporter for Bitcoin Core nodes
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto - Housekeeping for Clouds
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto - Find leaky resources, manage quota limits, detect drift, and clean up!
 - [suryasev/unofficial-google-trends-api](https://github.com/suryasev/unofficial-google-trends-api) - Python-based API that uses the http site to download Google Trends data
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
@@ -9566,6 +9575,9 @@
 
 ## Shell 
 
+- [ClockworkNet/cmc](https://github.com/ClockworkNet/cmc) - ControlMaster Controller - Eases management of SSH ControlMaster connections
+- [2qU24Tlb/balena](https://github.com/2qU24Tlb/balena) - 
+- [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [arbal/docker-gphotos-sync](https://github.com/arbal/docker-gphotos-sync) - A Docker image for synchronizing your original-quality Google Photos
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv support for shell and POSIX-compliant .env syntax specification
@@ -10732,6 +10744,7 @@
 
 ## Swift 
 
+- [Nosrac/KeyboardMaestroCLI](https://github.com/Nosrac/KeyboardMaestroCLI) - An unofficial command line utility for interfacing with Keyboard Maestro
 - [scriptingosx/diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [Agalin/pidgin_macos_integration](https://github.com/Agalin/pidgin_macos_integration) - Pidgin plugin adding macOS shell integration
@@ -10944,6 +10957,9 @@
 
 ## TypeScript 
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) - A Raycast/Alfred/Spotlight alternative
+- [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
+- [caroso1222/node-reminders](https://github.com/caroso1222/node-reminders) - 🐝A NodeJS and TypeScript wrapper for macOS Reminders
 - [zce/caz](https://github.com/zce/caz) - A simple yet powerful template-based Scaffolding tools.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
