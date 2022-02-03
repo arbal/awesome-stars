@@ -751,6 +751,7 @@
 
 ## C# # 
 
+- [aaru-dps/Aaru](https://github.com/aaru-dps/Aaru) - Aaru Data Preservation Suite
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [leonardodino/wc3proxy](https://github.com/leonardodino/wc3proxy) - ⚔️ proxy for playing Warcraft III LAN games remotely
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -1155,7 +1156,7 @@
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.7: ultra fast grep with interactive query UI, fuzzy search, boolean queries, and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents etc. A faster, user-friendly and compatible grep replacement.
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.7: ultra fast grep with interactive query TUI, fuzzy search, boolean queries, and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents etc. A faster, user-friendly and compatible grep replacement.
 - [Namburger/edgetpu-detection-camera](https://github.com/Namburger/edgetpu-detection-camera) - Detection Camera with EdgeTpu
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [google-coral/edgetpu](https://github.com/google-coral/edgetpu) - Coral issue tracker (and legacy Edge TPU API source)
@@ -3142,7 +3143,7 @@
 - [brentp/gargs](https://github.com/brentp/gargs) - better(?) xargs in go
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 - [sower-proxy/sower](https://github.com/sower-proxy/sower) - Sower is a cross-platform intelligent transparent proxy solution.
-- [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -3360,6 +3361,7 @@
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [proabiral/inception](https://github.com/proabiral/inception) - A highly configurable Framework for easy automated web scanning
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
+- [nevali/Baird](https://github.com/nevali/Baird) - Project Baird specifications
 - [snyk/actions](https://github.com/snyk/actions) - A set of GitHub actions for checking your projects for vulnerabilities
 - [Porco-Rosso/Ubersicht-Netdata](https://github.com/Porco-Rosso/Ubersicht-Netdata) - Netdata widget for Übersicht.
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
@@ -3729,6 +3731,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
 - [plopjs/awesome-plop](https://github.com/plopjs/awesome-plop) - A collection of awesome Plop libraries, tools, and examples
@@ -5513,6 +5516,7 @@
 
 ## Lua 
 
+- [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [haproxytech/haproxy-lua-http](https://github.com/haproxytech/haproxy-lua-http) - Simple Lua HTTP helper && client for use with HAProxy.
 - [hellracer/cs-haproxy-bouncer](https://github.com/hellracer/cs-haproxy-bouncer) - a minimalist bouncer for haproxy
@@ -5829,7 +5833,6 @@
 - [surge-networks/snell](https://github.com/surge-networks/snell) - An encrypted proxy service program
 - [zmiguel/docker-compose](https://github.com/zmiguel/docker-compose) - My collection of docker-compose files
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
-- [nevali/Baird](https://github.com/nevali/Baird) - Project Baird specifications
 - [jwilder/docker-register](https://github.com/jwilder/docker-register) - Service registration for docker containers
 - [krakenrf/heimdall_daq_fw](https://github.com/krakenrf/heimdall_daq_fw) - Coherent data acquisition signal processing chain for multichannel SDRs
 - [krakenrf/krakensdr_doa](https://github.com/krakenrf/krakensdr_doa) - 
@@ -6228,7 +6231,7 @@
 - [DeepSpaceHarbor/Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - :file_folder: #AISecurity
 - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016. Pull requests welcome!
 - [cowrie/docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card) - A Custom Lovelace card to pull together the mail and packages sensors.
 - [haberda/hassio_addons](https://github.com/haberda/hassio_addons) - hopefully useful hassio addons
@@ -6864,6 +6867,7 @@
 
 ## Python 
 
+- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2020, WikiTeam has preserved more than 250,000 wikis.
 - [emraher/workflow](https://github.com/emraher/workflow) - Scripts, codes, extensions, macros, etc. that I use on MacOS
 - [kevin-funderburg/alfred-search-keyboard-maestro-vars](https://github.com/kevin-funderburg/alfred-search-keyboard-maestro-vars) - Search all Keyboard Maestro variables and clipboards to view or edit their values.
 - [D4-project/passive-ssh](https://github.com/D4-project/passive-ssh) - A Passive SSH back-end and scanner.
@@ -9251,6 +9255,7 @@
 
 ## Rust 
 
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [zhxie/pcap2socks](https://github.com/zhxie/pcap2socks) - Redirect traffic to SOCKS proxy with pcap.
@@ -9575,6 +9580,7 @@
 
 ## Shell 
 
+- [CCA-Public/cca-tools](https://github.com/CCA-Public/cca-tools) - Digital archives triage, arrangement, and description tools for BitCurator
 - [ClockworkNet/cmc](https://github.com/ClockworkNet/cmc) - ControlMaster Controller - Eases management of SSH ControlMaster connections
 - [2qU24Tlb/balena](https://github.com/2qU24Tlb/balena) - 
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
@@ -9634,7 +9640,6 @@
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) - An X11 server and client libraries for macOS
 - [dariusbakunas/truenas-go-sdk](https://github.com/dariusbakunas/truenas-go-sdk) - Go SDK for interacting with TrueNAS APIs (generated by Openapi Generator)
 - [8go/coinbash](https://github.com/8go/coinbash) - 💰 A bash script (CLI) for displaying crypto currencies market data in a terminal 🖥
-- [maximbaz/dmenu-term](https://github.com/maximbaz/dmenu-term) - dmenu as a terminal with fuzzy filter
 - [haproxytech/haproxy](https://github.com/haproxytech/haproxy) - HAProxy related stuff: scripts, configs, etc...
 - [janeczku/haproxy-acme-validation-plugin](https://github.com/janeczku/haproxy-acme-validation-plugin) - :four_leaf_clover: Zero-downtime ACME / Let's Encrypt certificate issuing for HAProxy
 - [phpfunk/alfred-tunnelblick](https://github.com/phpfunk/alfred-tunnelblick) - Work with Tunnelblick directly from Alfredapp.
