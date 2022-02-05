@@ -442,7 +442,7 @@
 - [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
 - [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 - [aristanetworks/bst](https://github.com/aristanetworks/bst) - A one-stop shop for process isolation
-- [rootless-containers/subuidless](https://github.com/rootless-containers/subuidless) - Rootless Containers without `/etc/subuid` and `/etc/subgid`
+- [rootless-containers/subuidless](https://github.com/rootless-containers/subuidless) - [POC] Rootless Containers without `/etc/subuid` and `/etc/subgid`
 - [cbassa/sattools](https://github.com/cbassa/sattools) - Satellite Tracking Toolkit
 - [csete/gpredict](https://github.com/csete/gpredict) - Gpredict satellite tracking application
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
@@ -750,6 +750,7 @@
 
 ## C# # 
 
+- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 - [aaru-dps/Aaru](https://github.com/aaru-dps/Aaru) - Aaru Data Preservation Suite
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [leonardodino/wc3proxy](https://github.com/leonardodino/wc3proxy) - ⚔️ proxy for playing Warcraft III LAN games remotely
@@ -872,6 +873,7 @@
 
 ## C++ 
 
+- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open-source file sync.
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [randombit/botan](https://github.com/randombit/botan) - Cryptography Toolkit
@@ -1229,6 +1231,7 @@
 
 ## CSS 
 
+- [kenhub/giraffe](https://github.com/kenhub/giraffe) - Giraffe - a graphite dashboard with a long neck
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [evnix/boltdbweb](https://github.com/evnix/boltdbweb) - A web based GUI for BoltDB files
@@ -1607,6 +1610,10 @@
 
 ## Go 
 
+- [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider
+- [grafana/grafana-kiosk](https://github.com/grafana/grafana-kiosk) - Kiosk Utility for Grafana
+- [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
+- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [mike182uk/snpt](https://github.com/mike182uk/snpt) - A gist powered CLI snippet retriever
 - [mike182uk/snpt-alfred-workflow](https://github.com/mike182uk/snpt-alfred-workflow) - An Alfred workflow for Snpt
 - [dcb9/curl2httpie](https://github.com/dcb9/curl2httpie) - covert command arguments between cURL and HTTPie
@@ -3543,6 +3550,7 @@
 
 ## Java 
 
+- [stephenh/mirror](https://github.com/stephenh/mirror) - A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
 - [machanic/CronHub](https://github.com/machanic/CronHub) - CronHub is a better crontab, it is a web application which can schedule, monitor and control the crontabs of multiple machines from the web page.
@@ -4401,7 +4409,7 @@
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [i5ik/Diskernet](https://github.com/i5ik/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [laurentj/slimerjs](https://github.com/laurentj/slimerjs) - A scriptable browser like PhantomJS, based on Firefox
@@ -4741,7 +4749,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5305,6 +5313,7 @@
 
 ## Jinja 
 
+- [grofers/legend](https://github.com/grofers/legend) - Legend builds and publishes Grafana dashboards for your services with prefilled metrics and alerts for your services.
 - [arbal/ansible-role-zsh](https://github.com/arbal/ansible-role-zsh) - antigen with oh-my-zsh, powerlevel9k theme, fzf, autosuggestions, syntax-highlighting
 - [mdegat01/hassio-addons](https://github.com/mdegat01/hassio-addons) - Home Assistant addons
 - [hassio-addons/repository-edge](https://github.com/hassio-addons/repository-edge) - EDGE - Home Assistant Community Add-ons
@@ -5492,6 +5501,7 @@
 
 ## Kotlin 
 
+- [yoomoney/grafana-dashboard-dsl](https://github.com/yoomoney/grafana-dashboard-dsl) - DSL for generating Grafana dashboards
 - [pambrose/prometheus-proxy](https://github.com/pambrose/prometheus-proxy) - Prometheus Proxy
 - [jitsi/jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure
 - [noxone/regex-generator](https://github.com/noxone/regex-generator) - Generate regular expressions from sample texts.
@@ -5518,6 +5528,7 @@
 
 ## Lua 
 
+- [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 - [haproxytech/haproxy-lua-http](https://github.com/haproxytech/haproxy-lua-http) - Simple Lua HTTP helper && client for use with HAProxy.
@@ -6763,6 +6774,7 @@
 
 ## Perl 
 
+- [LINBIT/linstor-proxmox](https://github.com/LINBIT/linstor-proxmox) - Integration pluging bridging LINSTOR to Proxmox VE
 - [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
 - [jonmatifa/zfsmanager](https://github.com/jonmatifa/zfsmanager) - ZFS administration tool for Webmin
 - [bagder/dns2doh](https://github.com/bagder/dns2doh) - DNS to DoH
@@ -6869,6 +6881,10 @@
 
 ## Python 
 
+- [l3uddz/plex_dupefinder](https://github.com/l3uddz/plex_dupefinder) - Find and delete duplicate files in Plex
+- [ossobv/planb-pvesync](https://github.com/ossobv/planb-pvesync) - ZFS ZVOL backup helper for Proxmox VE VMs (standalone and PlanB plugin)
+- [ossobv/planb](https://github.com/ossobv/planb) - PlanB - automating remote backups and snapshots with zfs/rsync
+- [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [sodadata/soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
 - [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2020, WikiTeam has preserved more than 250,000 wikis.
@@ -9584,6 +9600,9 @@
 
 ## Shell 
 
+- [fdeschenes/drone-grafana-annotation](https://github.com/fdeschenes/drone-grafana-annotation) - Drone plugin to create an annotation in Grafana.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
 - [CCA-Public/cca-tools](https://github.com/CCA-Public/cca-tools) - Digital archives triage, arrangement, and description tools for BitCurator
 - [ClockworkNet/cmc](https://github.com/ClockworkNet/cmc) - ControlMaster Controller - Eases management of SSH ControlMaster connections
 - [2qU24Tlb/balena](https://github.com/2qU24Tlb/balena) - 
@@ -10965,6 +10984,8 @@
 
 ## TypeScript 
 
+- [yesoreyeram/grafana-infinity-datasource](https://github.com/yesoreyeram/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [mtanda/grafana-google-calendar-datasource](https://github.com/mtanda/grafana-google-calendar-datasource) - 
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A Raycast/Alfred/Spotlight alternative
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
 - [caroso1222/node-reminders](https://github.com/caroso1222/node-reminders) - 🐝A NodeJS and TypeScript wrapper for macOS Reminders
