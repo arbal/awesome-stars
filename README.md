@@ -1610,6 +1610,9 @@
 
 ## Go 
 
+- [fritchie/fio_benchmark_exporter](https://github.com/fritchie/fio_benchmark_exporter) - Prometheus exporter for fio benchmarks.
+- [litl/shuttle](https://github.com/litl/shuttle) - Dynamic HTTP/TCP/UDP Proxy
+- [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider
 - [grafana/grafana-kiosk](https://github.com/grafana/grafana-kiosk) - Kiosk Utility for Grafana
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
@@ -3550,6 +3553,7 @@
 
 ## Java 
 
+- [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
 - [stephenh/mirror](https://github.com/stephenh/mirror) - A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
@@ -6881,6 +6885,10 @@
 
 ## Python 
 
+- [r3vn/badKarma](https://github.com/r3vn/badKarma) - network reconnaissance toolkit
+- [cldrn/rainmap-lite](https://github.com/cldrn/rainmap-lite) - Rainmap Lite - Responsive web based interface that allows users to launch Nmap scans from their mobiles/tablets/web browsers!
+- [opsdisk/scantron](https://github.com/opsdisk/scantron) - A distributed nmap / masscan scanning framework complete with scan scheduling, engine pooling, subsequent scan port diff-ing, and an API client for automation workflows.
+- [jwilder/docker-discover](https://github.com/jwilder/docker-discover) - Service discovery for docker container
 - [l3uddz/plex_dupefinder](https://github.com/l3uddz/plex_dupefinder) - Find and delete duplicate files in Plex
 - [ossobv/planb-pvesync](https://github.com/ossobv/planb-pvesync) - ZFS ZVOL backup helper for Proxmox VE VMs (standalone and PlanB plugin)
 - [ossobv/planb](https://github.com/ossobv/planb) - PlanB - automating remote backups and snapshots with zfs/rsync
@@ -9083,6 +9091,7 @@
 
 ## Ruby 
 
+- [airbnb/synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [making-sense/unofficial_sense_api](https://github.com/making-sense/unofficial_sense_api) - Access your Sense data. It's yours.
@@ -9600,6 +9609,7 @@
 
 ## Shell 
 
+- [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [fdeschenes/drone-grafana-annotation](https://github.com/fdeschenes/drone-grafana-annotation) - Drone plugin to create an annotation in Grafana.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
@@ -10984,6 +10994,7 @@
 
 ## TypeScript 
 
+- [httptoolkit/mockttp](https://github.com/httptoolkit/mockttp) - Powerful friendly HTTP mock server & proxy
 - [yesoreyeram/grafana-infinity-datasource](https://github.com/yesoreyeram/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [mtanda/grafana-google-calendar-datasource](https://github.com/mtanda/grafana-google-calendar-datasource) - 
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A Raycast/Alfred/Spotlight alternative
