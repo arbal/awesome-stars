@@ -194,6 +194,7 @@
 
 ## C 
 
+- [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [vgropp/bwm-ng](https://github.com/vgropp/bwm-ng) - Bandwidth Monitor NG is a small and simple console-based live network and disk io bandwidth monitor for Linux, BSD, Solaris, Mac OS X and others.
 - [abrasive/shairport](https://github.com/abrasive/shairport) - Airtunes emulator! Shairport is no longer maintained.
 - [juhovh/shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server
@@ -1348,6 +1349,8 @@
 
 ## Dockerfile 
 
+- [dhutchison/container-images](https://github.com/dhutchison/container-images) - 
+- [bitnami/bitnami-docker-redis-exporter](https://github.com/bitnami/bitnami-docker-redis-exporter) - 
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
 - [evait-security/docker-multitor](https://github.com/evait-security/docker-multitor) - 
 - [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized nitefood/asn ASN Lookup Tool and Traceroute Server
@@ -1610,6 +1613,7 @@
 
 ## Go 
 
+- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary
 - [fritchie/fio_benchmark_exporter](https://github.com/fritchie/fio_benchmark_exporter) - Prometheus exporter for fio benchmarks.
 - [litl/shuttle](https://github.com/litl/shuttle) - Dynamic HTTP/TCP/UDP Proxy
 - [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
@@ -5782,6 +5786,7 @@
 
 ## Others 
 
+- [psykon/rtsp-ss-docker](https://github.com/psykon/rtsp-ss-docker) - Docker compose for rtsp simple server
 - [dagware/DanThomas](https://github.com/dagware/DanThomas) - Dan Thomas' stuff
 - [realliyifei/alfred-browser-tab-organizor](https://github.com/realliyifei/alfred-browser-tab-organizor) - Re-organize tabs in Safari and Chrome: close, move, duplicate, convert, etc.
 - [monfresh/Keyboard-Maestro-Macros](https://github.com/monfresh/Keyboard-Maestro-Macros) - A collection of useful Keyboard Maestro macros for maximum efficiency and productivity on your Mac.
@@ -6106,7 +6111,7 @@
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [dothq/browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 The privacy-centric, modern web browser that fights for your privacy when browsing the internet.
 - [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
@@ -9091,6 +9096,7 @@
 
 ## Ruby 
 
+- [ankane/searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
 - [airbnb/synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
@@ -9319,7 +9325,7 @@
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
 - [icewind1991/prometheus-mdns-rs](https://github.com/icewind1991/prometheus-mdns-rs) - mDNS service discovery for prometherus
-- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [benwebber/tunnelblickctl](https://github.com/benwebber/tunnelblickctl) - :lock: Command-line interface for Tunnelblick
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
@@ -10865,7 +10871,7 @@
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [wise-emotions/mocka](https://github.com/wise-emotions/mocka) - Mocka — A Mock Server Made for Developers by Developers, made in Swift ❤️
 - [macmade/QEMU-Manager](https://github.com/macmade/QEMU-Manager) - macOS graphical frontend to QEMU
-- [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy the Uncopyable
+- [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [okdana/chicon](https://github.com/okdana/chicon) - A command-line utility for modifying Finder thumb-nail icons
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [MaximKotliar/Bartinter](https://github.com/MaximKotliar/Bartinter) - Dynamically changes status bar style depending on content behind it
