@@ -996,7 +996,7 @@
 - [myriadrf/ExtIO_LimeSDR](https://github.com/myriadrf/ExtIO_LimeSDR) - LimeSDR ExtIO Plugin for HDSDR
 - [samyk/dingdong](https://github.com/samyk/dingdong) - Digital Ding Dong Ditch -- RTL-SDR + Arduino + GSM/SMS/FONA + RF + GQRX to hack a wireless doorbell from a text message
 - [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2
-- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS. CurveBS provides block devices based on Raft. CurveFS supports POSIX based on Fuse, store data on CurveBS and object storage.
+- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS based on Raft.
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [hiveco/conntrack_exporter](https://github.com/hiveco/conntrack_exporter) - Prometheus exporter for tracking network connections
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
@@ -1348,6 +1348,8 @@
 
 ## Dockerfile 
 
+- [arbal/fio-docker](https://github.com/arbal/fio-docker) - fio docker image
+- [Rajpratik71/fio-docker](https://github.com/Rajpratik71/fio-docker) - fio docker image
 - [dhutchison/container-images](https://github.com/dhutchison/container-images) - 
 - [bitnami/bitnami-docker-redis-exporter](https://github.com/bitnami/bitnami-docker-redis-exporter) - 
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
@@ -1503,7 +1505,7 @@
 - [asmirnou/watsor-hassio-addons](https://github.com/asmirnou/watsor-hassio-addons) - Watsor add-ons for Home Assistant
 - [tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker) - Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
-- [jgoerzen/docker-weewx](https://github.com/jgoerzen/docker-weewx) - WeeWX weather station in Docker
+- [jgoerzen/docker-weewx](https://github.com/jgoerzen/docker-weewx) - [read-only mirror] WeeWX weather station in Docker
 - [femtopixel/docker-google-lighthouse-puppeteer](https://github.com/femtopixel/docker-google-lighthouse-puppeteer) - Google Lighthouse + Puppeteer / Docker Image
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
@@ -5785,6 +5787,7 @@
 
 ## Others 
 
+- [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) - Monitor your network and internet speed with Docker & Prometheus
 - [psykon/rtsp-ss-docker](https://github.com/psykon/rtsp-ss-docker) - Docker compose for rtsp simple server
 - [dagware/DanThomas](https://github.com/dagware/DanThomas) - Dan Thomas' stuff
 - [realliyifei/alfred-browser-tab-organizor](https://github.com/realliyifei/alfred-browser-tab-organizor) - Re-organize tabs in Safari and Chrome: close, move, duplicate, convert, etc.
@@ -9615,6 +9618,7 @@
 
 ## Shell 
 
+- [ruanbekker/loki-alerts-docker](https://github.com/ruanbekker/loki-alerts-docker) - Alerting with Loki v2 on Docker Example
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [fdeschenes/drone-grafana-annotation](https://github.com/fdeschenes/drone-grafana-annotation) - Drone plugin to create an annotation in Grafana.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -9778,7 +9782,7 @@
 - [pigmonkey/goesimage](https://github.com/pigmonkey/goesimage) - Download the latest image from a NOAA Geostationary Operational Environment Satellite and set it as the desktop background
 - [klutchell/balena-wireguard](https://github.com/klutchell/balena-wireguard) - wireguard stack for balenacloud
 - [dominiksalvet/asus-fan-control](https://github.com/dominiksalvet/asus-fan-control) - Fan control for ASUS devices running Linux
-- [jaredallard-home/wireguard-balena-rpi](https://github.com/jaredallard-home/wireguard-balena-rpi) - Example project for building an OOT kernel module in resin
+- [rgst-io/wireguard-balena-rpi](https://github.com/rgst-io/wireguard-balena-rpi) - Example project for building an OOT kernel module in resin
 - [docker-archive/dockerlite](https://github.com/docker-archive/dockerlite) - Lightweight virtualization system based on LXC and BTRFS. See dotcloud/docker.
 - [mk-fg/apparmor-profiles](https://github.com/mk-fg/apparmor-profiles) - My local apparmor profiles for binary or dangerous apps
 - [Whonix/apparmor-profile-everything](https://github.com/Whonix/apparmor-profile-everything) - AppArmor for everything. APT, systemd, init, all systemd units, all applications. Mandatory Access Control. Security Hardening.
@@ -11000,6 +11004,8 @@
 
 ## TypeScript 
 
+- [marcusolsson/grafana-dynamictext-panel](https://github.com/marcusolsson/grafana-dynamictext-panel) - A panel plugin for Grafana for dynamic, data-driven text.
+- [marcusolsson/grafana-json-datasource](https://github.com/marcusolsson/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
 - [httptoolkit/mockttp](https://github.com/httptoolkit/mockttp) - Powerful friendly HTTP mock server & proxy
 - [yesoreyeram/grafana-infinity-datasource](https://github.com/yesoreyeram/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [mtanda/grafana-google-calendar-datasource](https://github.com/mtanda/grafana-google-calendar-datasource) - 
