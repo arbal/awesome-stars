@@ -194,6 +194,9 @@
 
 ## C 
 
+- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.0 (2021-10-12)
+- [raas/mbw](https://github.com/raas/mbw) - Memory Bandwidth Benchmark
+- [acooks/jittertrap](https://github.com/acooks/jittertrap) - JitterTrap is a measurement and impairment tool for developers of latency-sensitive applications and devices.
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [vgropp/bwm-ng](https://github.com/vgropp/bwm-ng) - Bandwidth Monitor NG is a small and simple console-based live network and disk io bandwidth monitor for Linux, BSD, Solaris, Mac OS X and others.
 - [abrasive/shairport](https://github.com/abrasive/shairport) - Airtunes emulator! Shairport is no longer maintained.
@@ -501,7 +504,7 @@
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [mattrajca/sudo-touchid](https://github.com/mattrajca/sudo-touchid) - A fork of `sudo` with Touch ID support.
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [OSGeo/grass](https://github.com/OSGeo/grass) - GRASS GIS - free and open source Geographic Information System (GIS)
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
@@ -670,6 +673,7 @@
 - [schweikert/fping](https://github.com/schweikert/fping) - High performance ping tool
 - [groeck/k10temp](https://github.com/groeck/k10temp) - Temperature sensor driver for AMD Family 10h and later
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [nsacyber/Hardware-and-Firmware-Security-Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber
 - [nsacyber/Hardware-and-Firmware-Security-Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber
 - [nsacyber/simon-speck-supercop](https://github.com/nsacyber/simon-speck-supercop) - Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit. #nsacyber
 - [linux-apfs/apfsprogs](https://github.com/linux-apfs/apfsprogs) - Experimental APFS tools for linux
@@ -1244,7 +1248,6 @@
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [balenalabs-incubator/coral-audio-analysis](https://github.com/balenalabs-incubator/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
-- [Koala633/hostbase](https://github.com/Koala633/hostbase) - A Ruby GUI based on advanced rogue AP attack
 - [SOM-Research/gila](https://github.com/SOM-Research/gila) - Label analysis of GitHub projects
 - [mr-pennyworth/alfred-better-dictionaries](https://github.com/mr-pennyworth/alfred-better-dictionaries) - 
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
@@ -1348,6 +1351,7 @@
 
 ## Dockerfile 
 
+- [mrbuk/goben-docker](https://github.com/mrbuk/goben-docker) - 
 - [arbal/fio-docker](https://github.com/arbal/fio-docker) - fio docker image
 - [Rajpratik71/fio-docker](https://github.com/Rajpratik71/fio-docker) - fio docker image
 - [dhutchison/container-images](https://github.com/dhutchison/container-images) - 
@@ -1614,6 +1618,8 @@
 
 ## Go 
 
+- [porech/engarde](https://github.com/porech/engarde) - A go network utility to create a reliable IP tunnel over multiple connections
+- [udhos/goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary
 - [fritchie/fio_benchmark_exporter](https://github.com/fritchie/fio_benchmark_exporter) - Prometheus exporter for fio benchmarks.
 - [litl/shuttle](https://github.com/litl/shuttle) - Dynamic HTTP/TCP/UDP Proxy
@@ -2737,6 +2743,7 @@
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [heistp/irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
+- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
 - [gnormal/gnorm](https://github.com/gnormal/gnorm) - A database-first code generator for any language
 - [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces
@@ -3364,6 +3371,8 @@
 
 ## HTML 
 
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
+- [snuids/trafficlights-panel](https://github.com/snuids/trafficlights-panel) - A Grafana version of the Kibana Traffic Lights Panel
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
 - [daxeel/blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
 - [healthchecks/dashboard](https://github.com/healthchecks/dashboard) - A standalone dashboard page showing the status of the checks in your Healthchecks.io account.
@@ -3527,6 +3536,7 @@
 
 ## Haskell 
 
+- [coinmetrics/haskell-tools](https://github.com/coinmetrics/haskell-tools) - Tools for exporting blockchain data to analytical databases
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!
@@ -3750,6 +3760,9 @@
 
 ## JavaScript 
 
+- [ayastreb/bandwidth-hero-proxy](https://github.com/ayastreb/bandwidth-hero-proxy) - :zap: Proxy that compresses images to low-resolution
+- [home-assistant/developers.home-assistant](https://github.com/home-assistant/developers.home-assistant) - Developers website for Home Assistant.
+- [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.
@@ -5787,6 +5800,8 @@
 
 ## Others 
 
+- [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
+- [MarkWattTech/Tuya-v2-Supported-Devices](https://github.com/MarkWattTech/Tuya-v2-Supported-Devices) - A collection of all of the known working Tuya v2 Devices
 - [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) - Monitor your network and internet speed with Docker & Prometheus
 - [psykon/rtsp-ss-docker](https://github.com/psykon/rtsp-ss-docker) - Docker compose for rtsp simple server
 - [dagware/DanThomas](https://github.com/dagware/DanThomas) - Dan Thomas' stuff
@@ -6785,6 +6800,7 @@
 
 ## Perl 
 
+- [vergoh/vnstat-docker](https://github.com/vergoh/vnstat-docker) - vnStat in a container with image output via http
 - [LINBIT/linstor-proxmox](https://github.com/LINBIT/linstor-proxmox) - Integration pluging bridging LINSTOR to Proxmox VE
 - [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
 - [jonmatifa/zfsmanager](https://github.com/jonmatifa/zfsmanager) - ZFS administration tool for Webmin
@@ -6892,6 +6908,7 @@
 
 ## Python 
 
+- [mdeweerd/zha-toolkit](https://github.com/mdeweerd/zha-toolkit) - 🧰 Zigbee Home Assistant Toolkit - service for "rare" Zigbee operations using ZHA on Home Assistant
 - [r3vn/badKarma](https://github.com/r3vn/badKarma) - network reconnaissance toolkit
 - [cldrn/rainmap-lite](https://github.com/cldrn/rainmap-lite) - Rainmap Lite - Responsive web based interface that allows users to launch Nmap scans from their mobiles/tablets/web browsers!
 - [opsdisk/scantron](https://github.com/opsdisk/scantron) - A distributed nmap / masscan scanning framework complete with scan scheduling, engine pooling, subsequent scan port diff-ing, and an API client for automation workflows.
@@ -9152,6 +9169,7 @@
 - [openware/barong](https://github.com/openware/barong) - Barong auth server
 - [openware/peatio](https://github.com/openware/peatio) - Open-source crypto currency exchange software (https://openware.com)
 - [peatio/peatio](https://github.com/peatio/peatio) - An open-source assets exchange.
+- [Koala633/hostbase](https://github.com/Koala633/hostbase) - A Ruby GUI based on advanced rogue AP attack
 - [ddollar/foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 - [rsoper/richardsoper.me](https://github.com/rsoper/richardsoper.me) - My Traefik V2 stack.
 - [desktoppr/wbench](https://github.com/desktoppr/wbench) - It benchmarks websites, YO!
@@ -9293,6 +9311,7 @@
 
 ## Rust 
 
+- [doyoubi/undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -9618,6 +9637,8 @@
 
 ## Shell 
 
+- [mkorthof/traflimit](https://github.com/mkorthof/traflimit) - Traffic Limit - limits amount of bandwidth that can be used by your Host/VPS/VM
+- [mueslo/openwrt_hass_devicetracker](https://github.com/mueslo/openwrt_hass_devicetracker) - Simple OpenWRT package which forwards device connection changes to a HomeAssistant instance
 - [ruanbekker/loki-alerts-docker](https://github.com/ruanbekker/loki-alerts-docker) - Alerting with Loki v2 on Docker Example
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [fdeschenes/drone-grafana-annotation](https://github.com/fdeschenes/drone-grafana-annotation) - Drone plugin to create an annotation in Grafana.
@@ -10440,6 +10461,7 @@
 - [sourcegraph/deploy-sourcegraph-docker](https://github.com/sourcegraph/deploy-sourcegraph-docker) - Sourcegraph with Docker Compose deployment reference
 - [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay!
+- [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay!
 - [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [nicolargo/docker-influxdb-grafana](https://github.com/nicolargo/docker-influxdb-grafana) - Docker-compose files for a simple InfluxDB + Grafana stack
@@ -10954,6 +10976,7 @@
 - [codechimp-org/ha-menu](https://github.com/codechimp-org/ha-menu) - A Mac OS Menu Bar app to perform common Home Assistant functions
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [zero-sh/zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
+- [zero-sh/zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 - [Farfetch/mockingbird](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete or is unstable or just to reproduce planned/edge cases.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
@@ -11004,6 +11027,8 @@
 
 ## TypeScript 
 
+- [dermotduffy/frigate-hass-card](https://github.com/dermotduffy/frigate-hass-card) - A Lovelace card for Frigate in Home Assistant
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
 - [marcusolsson/grafana-dynamictext-panel](https://github.com/marcusolsson/grafana-dynamictext-panel) - A panel plugin for Grafana for dynamic, data-driven text.
 - [marcusolsson/grafana-json-datasource](https://github.com/marcusolsson/grafana-json-datasource) - A data source plugin for loading JSON APIs into Grafana.
 - [httptoolkit/mockttp](https://github.com/httptoolkit/mockttp) - Powerful friendly HTTP mock server & proxy
@@ -11418,7 +11443,6 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [gnawhleinad/setup-cloudflared-ssh](https://github.com/gnawhleinad/setup-cloudflared-ssh) - setup ~/.ssh using cloudflared access service token
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
-- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
