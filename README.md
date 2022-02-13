@@ -3763,6 +3763,7 @@
 
 ## JavaScript 
 
+- [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -5509,6 +5510,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
+- [nityansuman/tensorhub](https://github.com/nityansuman/tensorhub) - TensorHub is a library built on top of TensorFlow 2.0 to provide simple, modular and repeatable abstractions to accelerate deep learning research.
 - [nathanrooy/rpi-urban-mobility-tracker](https://github.com/nathanrooy/rpi-urban-mobility-tracker) - The easiest way to count pedestrians, cyclists, and vehicles on edge computing devices or live video feeds.
 - [dcmartin/motion-ai](https://github.com/dcmartin/motion-ai) - AI assisted motion detection for Home Assistant
 - [duffjay/camera-api](https://github.com/duffjay/camera-api) - RESTful API for Amcrest cameras
@@ -5806,6 +5808,7 @@
 
 ## Others 
 
+- [geerlingguy/ansible-role-raspberry-pi](https://github.com/geerlingguy/ansible-role-raspberry-pi) - Configures a Raspberry Pi (running Raspbian).
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [MarkWattTech/Tuya-v2-Supported-Devices](https://github.com/MarkWattTech/Tuya-v2-Supported-Devices) - A collection of all of the known working Tuya v2 Devices
 - [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) - Monitor your network and internet speed with Docker & Prometheus
@@ -6133,7 +6136,7 @@
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [dothq/browser](https://github.com/dothq/browser) - 🌍 The privacy-centric, modern web browser that fights for your privacy when browsing the internet.
+- [dothq/browser](https://github.com/dothq/browser) - 🌍 The browser that fights for your privacy.
 - [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
@@ -8501,7 +8504,6 @@
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
-- [nityansuman/tensorhub](https://github.com/nityansuman/tensorhub) - TensorHub is a library built on top of TensorFlow 2.0 to provide simple, modular and repeatable abstractions to accelerate deep learning research.
 - [Ultimaker/Uranium](https://github.com/Ultimaker/Uranium) - A Python framework for building Desktop applications.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [DavidWAbrahams/wenestmo](https://github.com/DavidWAbrahams/wenestmo) - Lightweight Python module to discover and control WeMo devices.
@@ -9505,7 +9507,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - Heads up Display for every day life
-- [signalapp/libsignal-client](https://github.com/signalapp/libsignal-client) - 
+- [signalapp/libsignal-client](https://github.com/signalapp/libsignal-client) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [flxo/rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
 - [greymd/teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
