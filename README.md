@@ -755,6 +755,7 @@
 
 ## C# # 
 
+- [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 - [aaru-dps/Aaru](https://github.com/aaru-dps/Aaru) - Aaru Data Preservation Suite
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
@@ -1354,6 +1355,7 @@
 
 ## Dockerfile 
 
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux
 - [mrbuk/goben-docker](https://github.com/mrbuk/goben-docker) - 
 - [arbal/fio-docker](https://github.com/arbal/fio-docker) - fio docker image
 - [Rajpratik71/fio-docker](https://github.com/Rajpratik71/fio-docker) - fio docker image
@@ -1374,7 +1376,6 @@
 - [kriation/docker-ethminer](https://github.com/kriation/docker-ethminer) - A docker container with a CUDA enabled build of ethminer
 - [netdisco/netdisco-docker](https://github.com/netdisco/netdisco-docker) - Docker images for App::Netdisco
 - [arbal/docker-multitor](https://github.com/arbal/docker-multitor) - 
-- [loganmarchione/hassos-addons](https://github.com/loganmarchione/hassos-addons) - Home Assistant Add-ons
 - [signalkraft/photoprism-syncthing-indexer](https://github.com/signalkraft/photoprism-syncthing-indexer) - 
 - [mchlwong/derp](https://github.com/mchlwong/derp) - Tailscale custom DERP server Dockerfile and configs.
 - [niiv0832/TorrentMonitor_Dockerfile](https://github.com/niiv0832/TorrentMonitor_Dockerfile) - Docker with TorrentMonitor, Rclone, Http-knocking
@@ -1425,6 +1426,7 @@
 - [solarkennedy/wine-x11-novnc-docker](https://github.com/solarkennedy/wine-x11-novnc-docker) - Base Docker image to run wine programs in a web browser via noVNC (html5 vnc viewer) + Xvfb + x11vnc
 - [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [jeffersonjhunt/shinysdr-docker](https://github.com/jeffersonjhunt/shinysdr-docker) - Docker build of debian, gnuradio and shinysdr with all plugins
+- [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
 - [balenalabs-incubator/balena-homeassistant](https://github.com/balenalabs-incubator/balena-homeassistant) - Raspberry Pi + Home Assistant + balenaSense
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
@@ -2039,7 +2041,7 @@
 - [emmanuelay/badger](https://github.com/emmanuelay/badger) - CLI tool to perform brute force lookup on domains
 - [zonedb/zonedb](https://github.com/zonedb/zonedb) - Public Zone Database
 - [ilyaglow/portmapping](https://github.com/ilyaglow/portmapping) - Gather available port mappings on UPnP device
-- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast videos and music to UPnP/DLNA Media Renderers and Smart TVs.
+- [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [huin/goupnp](https://github.com/huin/goupnp) - UPnP client library for Go (#golang)
 - [owenthereal/spotctl](https://github.com/owenthereal/spotctl) - A command-line interface to Spotify, written in Go
 - [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI
@@ -3763,6 +3765,7 @@
 
 ## JavaScript 
 
+- [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
@@ -5392,6 +5395,8 @@
 
 ## Jsonnet 
 
+- [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
+- [jsonnet-libs/k8s](https://github.com/jsonnet-libs/k8s) - Code generator for Jsonnet Kubernetes libraries.
 - [adamwg/grafana-dashboards](https://github.com/adamwg/grafana-dashboards) - Grafana dashboard management demo for PromCon 2019
 - [grafana/tns](https://github.com/grafana/tns) - Observability Demo App
 - [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
@@ -5677,6 +5682,7 @@
 
 ## Nix 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [whacked/setup](https://github.com/whacked/setup) - box building with ansible + nixops
 
@@ -5707,7 +5713,7 @@
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [mjolnirapp/AppGrid](https://github.com/mjolnirapp/AppGrid) - macOS window manager with Vim–like hotkeys
 - [jakob/TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for the Mac
-- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript
+- [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
@@ -5808,6 +5814,7 @@
 
 ## Others 
 
+- [grafana/grafana-plugin-examples](https://github.com/grafana/grafana-plugin-examples) - 
 - [geerlingguy/ansible-role-raspberry-pi](https://github.com/geerlingguy/ansible-role-raspberry-pi) - Configures a Raspberry Pi (running Raspbian).
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [MarkWattTech/Tuya-v2-Supported-Devices](https://github.com/MarkWattTech/Tuya-v2-Supported-Devices) - A collection of all of the known working Tuya v2 Devices
@@ -6918,6 +6925,9 @@
 
 ## Python 
 
+- [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - Dashboard Icons for your selfhosted services.
+- [custom-components/sensor.trakt](https://github.com/custom-components/sensor.trakt) - 📺 Trakt Integration for Upcoming Media Card
+- [custom-components/sensor.radarr_upcoming_media](https://github.com/custom-components/sensor.radarr_upcoming_media) - 🎬 Radarr component to feed Upcoming Media Card.
 - [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
 - [mdeweerd/zha-toolkit](https://github.com/mdeweerd/zha-toolkit) - 🧰 Zigbee Home Assistant Toolkit - service for "rare" Zigbee operations using ZHA on Home Assistant
 - [r3vn/badKarma](https://github.com/r3vn/badKarma) - network reconnaissance toolkit
@@ -9124,6 +9134,7 @@
 
 ## Ruby 
 
+- [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor) - A curated list of Vapor-related awesome projects.
 - [ankane/searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
 - [airbnb/synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA
@@ -9718,6 +9729,7 @@
 - [janeczku/haproxy-acme-validation-plugin](https://github.com/janeczku/haproxy-acme-validation-plugin) - :four_leaf_clover: Zero-downtime ACME / Let's Encrypt certificate issuing for HAProxy
 - [phpfunk/alfred-tunnelblick](https://github.com/phpfunk/alfred-tunnelblick) - Work with Tunnelblick directly from Alfredapp.
 - [SixArm/uri-parser](https://github.com/SixArm/uri-parser) - Parse a URI or URL to its scheme, host, path, query, fragment, etc.
+- [loganmarchione/hassos-addons](https://github.com/loganmarchione/hassos-addons) - Home Assistant Add-ons
 - [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
 - [liberodark/crowdsec-dashboard](https://github.com/liberodark/crowdsec-dashboard) - 
 - [kolbasa/git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
@@ -9953,7 +9965,6 @@
 - [hassiweb/docker-openairinterface-enb](https://github.com/hassiweb/docker-openairinterface-enb) - A Docker recipe of OpenAirInterface eNB
 - [pierrickrouxel/iocage-plugin-rtorrent-flood](https://github.com/pierrickrouxel/iocage-plugin-rtorrent-flood) - Artifact file(s) for rTorrent Flood iocage plugin
 - [qgis/homebrew-qgisdev](https://github.com/qgis/homebrew-qgisdev) - Homebrew recipes for QGIS and MacOS
-- [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
 - [DanielDent/git-annex-remote-rclone](https://github.com/DanielDent/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
 - [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal.
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
@@ -10823,6 +10834,7 @@
 
 ## Swift 
 
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [Nosrac/KeyboardMaestroCLI](https://github.com/Nosrac/KeyboardMaestroCLI) - An unofficial command line utility for interfacing with Keyboard Maestro
 - [scriptingosx/diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes
@@ -11037,6 +11049,7 @@
 
 ## TypeScript 
 
+- [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
 - [dermotduffy/frigate-hass-card](https://github.com/dermotduffy/frigate-hass-card) - A Lovelace card for Frigate in Home Assistant
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
@@ -11608,6 +11621,7 @@
 
 ## Vim script 
 
+- [zackhsi/fzf-tags](https://github.com/zackhsi/fzf-tags) - :cherry_blossom: :microscope:
 - [lawrencesystems/dotfiles](https://github.com/lawrencesystems/dotfiles) - Lawrence Systems Dot Files
 - [bastibl/instant-gnuradio](https://github.com/bastibl/instant-gnuradio) - Customizable GNU Radio Environment for Live Images and VMs
 - [stsewd/fzf-checkout.vim](https://github.com/stsewd/fzf-checkout.vim) - Manage branches and tags with fzf
