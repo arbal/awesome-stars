@@ -3105,7 +3105,7 @@
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [docker-flow/docker-flow-proxy](https://github.com/docker-flow/docker-flow-proxy) - Docker Flow Proxy
 - [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
-- [rancher/k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
+- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [timatooth/gofit](https://github.com/timatooth/gofit) - Fitbit API data export to InfluxDB
@@ -3544,7 +3544,7 @@
 - [coinmetrics/haskell-tools](https://github.com/coinmetrics/haskell-tools) - Tools for exporting blockchain data to analytical databases
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - private and secure chat and applications platform - join our iOS public beta 📱!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -6925,6 +6925,7 @@
 
 ## Python 
 
+- [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - Dashboard Icons for your selfhosted services.
 - [custom-components/sensor.trakt](https://github.com/custom-components/sensor.trakt) - 📺 Trakt Integration for Upcoming Media Card
 - [custom-components/sensor.radarr_upcoming_media](https://github.com/custom-components/sensor.radarr_upcoming_media) - 🎬 Radarr component to feed Upcoming Media Card.
