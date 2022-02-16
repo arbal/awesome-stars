@@ -194,8 +194,9 @@
 
 ## C 
 
+- [mdlayher/wifi](https://github.com/mdlayher/wifi) - Package wifi provides access to IEEE 802.11 WiFi device actions and statistics.  MIT Licensed.
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
-- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.0 (2021-10-12)
+- [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.1 (2022-02-15)
 - [raas/mbw](https://github.com/raas/mbw) - Memory Bandwidth Benchmark
 - [acooks/jittertrap](https://github.com/acooks/jittertrap) - JitterTrap is a measurement and impairment tool for developers of latency-sensitive applications and devices.
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
@@ -1355,6 +1356,8 @@
 
 ## Dockerfile 
 
+- [konstruktoid/AptCacherNG_Build](https://github.com/konstruktoid/AptCacherNG_Build) - Apt-Cacher NG
+- [brndnmtthws/nginx-echo-headers](https://github.com/brndnmtthws/nginx-echo-headers) - Have nginx return request headers to the client
 - [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux
 - [mrbuk/goben-docker](https://github.com/mrbuk/goben-docker) - 
 - [arbal/fio-docker](https://github.com/arbal/fio-docker) - fio docker image
@@ -2786,7 +2789,7 @@
 - [prometheus-community/prometheus-playground](https://github.com/prometheus-community/prometheus-playground) - Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases
 - [genkiroid/cert](https://github.com/genkiroid/cert) - Cert is the Go tool to get TLS certificate information.
 - [square/certigo](https://github.com/square/certigo) - A utility to examine and validate certificates in a variety of formats
-- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - The Complete MLOps Stack
 - [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [home-assistant/plugin-observer](https://github.com/home-assistant/plugin-observer) - Supervisor plugin observare to monitor host part of Supervisor
@@ -3544,7 +3547,7 @@
 - [coinmetrics/haskell-tools](https://github.com/coinmetrics/haskell-tools) - Tools for exporting blockchain data to analytical databases
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - private and secure chat and applications platform - join our iOS public beta 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the most private and secure chat and applications platform - join our iOS public beta 📱!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -3736,7 +3739,7 @@
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
 - [theopolisme/react-native-stripe-terminal](https://github.com/theopolisme/react-native-stripe-terminal) - React Native bindings for the Stripe Terminal SDK. (Unofficial)
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline and dbus interface for signalapp/libsignal-service-java
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Built-in CI/CD
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [stkenny/Refine-NER-Extension](https://github.com/stkenny/Refine-NER-Extension) - Named-Entity Recognition extension for Google Refine / OpenRefine
 - [dernasherbrezon/r2cloud](https://github.com/dernasherbrezon/r2cloud) - Decode satellite signals on Raspberry PI or any other 64-bit CPU.
@@ -6892,6 +6895,7 @@
 
 ## PowerShell 
 
+- [SlothCroissant/portainer](https://github.com/SlothCroissant/portainer) - 
 - [SlothCroissant/caddy-cloudflaredns](https://github.com/SlothCroissant/caddy-cloudflaredns) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go. caddy-cloudflaredns adds Cloudflare LetsEncrypt support to the base image.
 - [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - Various scripts
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
@@ -9634,6 +9638,7 @@
 
 ## Scala 
 
+- [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [cjww-development/gatekeeper](https://github.com/cjww-development/gatekeeper) - Implementation of OIDC and OAuth2
 - [allenai/pdffigures2](https://github.com/allenai/pdffigures2) - Given a scholarly PDF, extract figures, tables, captions, and section titles.
@@ -9657,6 +9662,7 @@
 
 ## Shell 
 
+- [tianon/docker-qemu](https://github.com/tianon/docker-qemu) - Dockerization of supported QEMU releases
 - [technorabilia/docker-bits](https://github.com/technorabilia/docker-bits) - Various Docker bits
 - [mwarning/zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt) - A OpenWrt package for ZeroTier One - Pull requests are welcome!
 - [mkorthof/traflimit](https://github.com/mkorthof/traflimit) - Traffic Limit - limits amount of bandwidth that can be used by your Host/VPS/VM
@@ -9672,7 +9678,7 @@
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [arbal/docker-gphotos-sync](https://github.com/arbal/docker-gphotos-sync) - A Docker image for synchronizing your original-quality Google Photos
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
-- [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv support for shell and POSIX-compliant .env syntax specification
+- [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env syntax
 - [equalitie/mias](https://github.com/equalitie/mias) - A simple docker swarm stack for passive "push-based" monitoring/metrics
 - [jedisct1/dnscrypt-server-docker](https://github.com/jedisct1/dnscrypt-server-docker) - A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 - [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
