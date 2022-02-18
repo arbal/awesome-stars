@@ -194,6 +194,7 @@
 
 ## C 
 
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [mdlayher/wifi](https://github.com/mdlayher/wifi) - Package wifi provides access to IEEE 802.11 WiFi device actions and statistics.  MIT Licensed.
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres) - latest version 5.3.1 (2022-02-15)
@@ -744,7 +745,7 @@
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
-- [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/omnirom/android_bootable_recovery/
+- [TeamWin/Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/
 - [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
 - [Hexxeh/rpi-firmware](https://github.com/Hexxeh/rpi-firmware) - Firmware files for the Raspberry Pi
 - [WiringPi/WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi (Unofficial Mirror for WiringPi bindings)
@@ -1626,6 +1627,8 @@
 
 ## Go 
 
+- [influxdata/influx-cli](https://github.com/influxdata/influx-cli) - CLI for managing resources in InfluxDB v2
+- [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [codesoap/osmf](https://github.com/codesoap/osmf) - OpenStreetMap find - A simple command line tool to explore osm data
 - [porech/engarde](https://github.com/porech/engarde) - A go network utility to create a reliable IP tunnel over multiple connections
 - [udhos/goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
@@ -3176,7 +3179,7 @@
 - [sower-proxy/sower](https://github.com/sower-proxy/sower) - Sower is a cross-platform intelligent transparent proxy solution.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
-- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -3768,6 +3771,8 @@
 
 ## JavaScript 
 
+- [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
+- [b1f6c1c4/hub-sync](https://github.com/b1f6c1c4/hub-sync) - Sync your github forks without git.
 - [Humpheh/nest-observe](https://github.com/Humpheh/nest-observe) - Unofficial API for observing Google Nest devices which works with Google authentication
 - [sychen52/nest-camera-site](https://github.com/sychen52/nest-camera-site) - Capture images from a nest camera and host in a local server
 - [friedrith/node-wifi-cli](https://github.com/friedrith/node-wifi-cli) - A command line interface for node-wifi
@@ -5517,7 +5522,6 @@
 - [betatim/openrefineder](https://github.com/betatim/openrefineder) - 💠 + 📚 OpenRefine on Binder!
 - [Earth-Observation/ml-workspace](https://github.com/Earth-Observation/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV](https://github.com/salinaaaaaa/NVIDIA-GPU-Tensor-Core-Accelerator-PyTorch-OpenCV) - A complete machine vision container that includes Jupyter notebooks with built-in code hinting, Anaconda, CUDA 11, TensorRT inference accelerator for Tensor cores, CuPy (GPU drop in replacement for Numpy), PyTorch, PyTorch geometric for Graph Neural Networks, TF2, Tensorboard, and OpenCV for accelerated workloads on NVIDIA Tensor cores and GPUs.
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -6899,6 +6903,7 @@
 
 ## PowerShell 
 
+- [neobepmat/docker-script](https://github.com/neobepmat/docker-script) - Script for CLA docker containers
 - [SlothCroissant/portainer](https://github.com/SlothCroissant/portainer) - 
 - [SlothCroissant/caddy-cloudflaredns](https://github.com/SlothCroissant/caddy-cloudflaredns) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go. caddy-cloudflaredns adds Cloudflare LetsEncrypt support to the base image.
 - [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - Various scripts
@@ -6933,6 +6938,7 @@
 
 ## Python 
 
+- [spreaker/prometheus-pgbouncer-exporter](https://github.com/spreaker/prometheus-pgbouncer-exporter) - Prometheus exporter for PgBouncer
 - [pywemo/pywemo](https://github.com/pywemo/pywemo) - Python module to discover and control WeMo devices.
 - [vadimkantorov/wemosetup](https://github.com/vadimkantorov/wemosetup) - A simple Python script to set up WeMo devices
 - [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
@@ -8520,6 +8526,7 @@
 - [microsoft/lisa](https://github.com/microsoft/lisa) - LISA is developed and maintained by Microsoft, to empower Linux validation.
 - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [aim-uofa/AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -9341,6 +9348,7 @@
 
 ## Rust 
 
+- [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
 - [doyoubi/undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -9668,6 +9676,9 @@
 
 ## Shell 
 
+- [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) - Script for installing Guacamole on Ubuntu
+- [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
+- [emqx/emqx-docker](https://github.com/emqx/emqx-docker) - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
 - [tianon/docker-qemu](https://github.com/tianon/docker-qemu) - Dockerization of supported QEMU releases
 - [technorabilia/docker-bits](https://github.com/technorabilia/docker-bits) - Various Docker bits
 - [mwarning/zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt) - A OpenWrt package for ZeroTier One - Pull requests are welcome!
