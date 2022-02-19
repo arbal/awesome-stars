@@ -1594,6 +1594,7 @@
 
 ## Erlang 
 
+- [emqx/emqtt-bench](https://github.com/emqx/emqtt-bench) - Erlang MQTT v5.0 Benchmark Tool
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
 - [emqx/emqx-bridge-mqtt](https://github.com/emqx/emqx-bridge-mqtt) - Bridge of MQTT
 - [emqx/emqx-web-hook](https://github.com/emqx/emqx-web-hook) - EMQ X Webhook Plugin
@@ -1627,6 +1628,7 @@
 
 ## Go 
 
+- [shirou/mqttcli](https://github.com/shirou/mqttcli) - MQTT client
 - [influxdata/influx-cli](https://github.com/influxdata/influx-cli) - CLI for managing resources in InfluxDB v2
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [codesoap/osmf](https://github.com/codesoap/osmf) - OpenStreetMap find - A simple command line tool to explore osm data
@@ -3771,6 +3773,8 @@
 
 ## JavaScript 
 
+- [iaincollins/docker-deploy-webhook](https://github.com/iaincollins/docker-deploy-webhook) - A Docker Service for Continuous Deployment (Git Hub -&gt; Docker Hub -&gt; Docker Swarm)
+- [lydell/source-map-resolve](https://github.com/lydell/source-map-resolve) - [DEPRECATED] Resolve the source map and/or sources for a generated file.
 - [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
 - [b1f6c1c4/hub-sync](https://github.com/b1f6c1c4/hub-sync) - Sync your github forks without git.
 - [Humpheh/nest-observe](https://github.com/Humpheh/nest-observe) - Unofficial API for observing Google Nest devices which works with Google authentication
@@ -9676,6 +9680,7 @@
 
 ## Shell 
 
+- [sashimi3/web-socket-test](https://github.com/sashimi3/web-socket-test) - Dockerfile for WebSocket connectivity test.
 - [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) - Script for installing Guacamole on Ubuntu
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [emqx/emqx-docker](https://github.com/emqx/emqx-docker) - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
@@ -10064,7 +10069,7 @@
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
 - [mrako/wait-for](https://github.com/mrako/wait-for) - 
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 15+ Git scenarios. Powered by FZF
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 17+ git scenarios.
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
