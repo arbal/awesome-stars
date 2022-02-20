@@ -1253,7 +1253,7 @@
 - [VectorLogoZone/logosearch](https://github.com/VectorLogoZone/logosearch) - LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.
 - [davesteele/comitup](https://github.com/davesteele/comitup) - Bootstrap Wifi support over Wifi
 - [balenalabs-incubator/coral-audio-analysis](https://github.com/balenalabs-incubator/coral-audio-analysis) - Coral Edge TPU project for analyzing noise pollution
-- [Koala633/hostbase](https://github.com/Koala633/hostbase) - A Ruby GUI based on advanced rogue AP attack
+- [Koala633/hostbase](https://github.com/Koala633/hostbase) - A Ruby GUI based on advanced rogue AP attack using the WPS
 - [SOM-Research/gila](https://github.com/SOM-Research/gila) - Label analysis of GitHub projects
 - [mr-pennyworth/alfred-better-dictionaries](https://github.com/mr-pennyworth/alfred-better-dictionaries) - 
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
@@ -1663,6 +1663,7 @@
 - [arbal/geoip-service](https://github.com/arbal/geoip-service) - A fast in-memory http microservice for looking up MaxMind GeoIP2 and GeoLite2 database
 - [fgeller/jsonify](https://github.com/fgeller/jsonify) - cli app to create JSON objects
 - [filex/echo-json](https://github.com/filex/echo-json) - echo-json is a cli program to create a JSON object from simple shell arguments
+- [arbal/turnout](https://github.com/arbal/turnout) - Transparent and HTTP proxy with smart routing solution. Automatic selection between direct route and SOCKS proxies, without the need to maintain any list.
 - [jmalloc/echo-server](https://github.com/jmalloc/echo-server) - An HTTP and WebSocket "echo" server for testing proxies and HTTP clients.
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [tailscale/mkctr](https://github.com/tailscale/mkctr) - mkctr: cross platform container builder for go
@@ -3487,7 +3488,7 @@
 - [cagov/covid19](https://github.com/cagov/covid19) - This is the official COVID19 response website for the state of California.
 - [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website) - The Best Motherfucking Website
 - [virtualmin/virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
-- [virtualmin/authentic-theme](https://github.com/virtualmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
+- [authentic-theme/authentic-theme](https://github.com/authentic-theme/authentic-theme) - Official theme for the best server management panel of the 21st Century
 - [leggett/simplify](https://github.com/leggett/simplify) - Issue tracker for Simplify Gmail, a browser extension to simplify Gmail's interface
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
@@ -3773,6 +3774,7 @@
 
 ## JavaScript 
 
+- [danhab99/interactive-websocket-cli](https://github.com/danhab99/interactive-websocket-cli) - An interactive websocket client for cli
 - [iaincollins/docker-deploy-webhook](https://github.com/iaincollins/docker-deploy-webhook) - A Docker Service for Continuous Deployment (Git Hub -&gt; Docker Hub -&gt; Docker Swarm)
 - [lydell/source-map-resolve](https://github.com/lydell/source-map-resolve) - [DEPRECATED] Resolve the source map and/or sources for a generated file.
 - [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
@@ -5200,7 +5202,7 @@
 - [pomber/covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sindresorhus/is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -5829,6 +5831,7 @@
 
 ## Others 
 
+- [try2codesecure/grafana_dashboards](https://github.com/try2codesecure/grafana_dashboards) - collection of grafana dashboards
 - [grafana/grafana-plugin-examples](https://github.com/grafana/grafana-plugin-examples) - 
 - [geerlingguy/ansible-role-raspberry-pi](https://github.com/geerlingguy/ansible-role-raspberry-pi) - Configures a Raspberry Pi (running Raspbian).
 - [Clivern/Gauntlet](https://github.com/Clivern/Gauntlet) - 🔖 Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
@@ -5848,7 +5851,6 @@
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
 - [arbal/tailscale-exporter](https://github.com/arbal/tailscale-exporter) - Prometheus Exporter for Tailscale metrics and metadata
 - [arbal/embiggen-disk](https://github.com/arbal/embiggen-disk) - embiggden-disk live-resizes a filesystem after first live-resizing any necessary layers below it: an optional LVM LV and PV, and an MBR or GPT partition table
-- [arbal/turnout](https://github.com/arbal/turnout) - Transparent and HTTP proxy with smart routing solution. Automatic selection between direct route and SOCKS proxies, without the need to maintain any list.
 - [arbal/haproxy_exporter](https://github.com/arbal/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
 - [arbal/factotum](https://github.com/arbal/factotum) - general purpose curation of exposure science data
 - [arbal/scrutiny](https://github.com/arbal/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -7767,7 +7769,7 @@
 - [cloud-bulldozer/benchmark-wrapper](https://github.com/cloud-bulldozer/benchmark-wrapper) - Python Library to run benchmarks
 - [jsommerville-untangle/sdwan_performance_testing](https://github.com/jsommerville-untangle/sdwan_performance_testing) - 
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
-- [psy0rz/zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. Easy to use and the most reliable.
+- [psy0rz/zfs_autobackup](https://github.com/psy0rz/zfs_autobackup) - ZFS autobackup is used to periodicly backup ZFS filesystems to other locations. Easy to use and very reliable.
 - [presslabs/z3](https://github.com/presslabs/z3) - Backup your ZFS snapshots to S3.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
@@ -7850,7 +7852,6 @@
 - [pawlaczyk/sarenka](https://github.com/pawlaczyk/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
 - [ipburger/speedtest.mini.php](https://github.com/ipburger/speedtest.mini.php) - Speedtest.net mini/legacy-http light server. Works with speedtest cli
 - [ChrisRegado/streamdeck-googlemeet](https://github.com/ChrisRegado/streamdeck-googlemeet) - A Stream Deck plugin to manage your Google Meet microphone and camera.
-- [pbkhrv/rtl_433-hass-addons](https://github.com/pbkhrv/rtl_433-hass-addons) - Collection of Home Assistant add-ons that use rtl_433
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [ParadoxAlarmInterface/pai](https://github.com/ParadoxAlarmInterface/pai) - Paradox Magellan, Spectra and EVO, with MQTT, Signal, Pushbullet, Pushover and others
 - [mravanelli/pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) - pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
@@ -8808,7 +8809,7 @@
 - [gtalarico/pipenv-pipes](https://github.com/gtalarico/pipenv-pipes) - A PipEnv Environment Switcher
 - [UniversityRadioYork/jail-devops](https://github.com/UniversityRadioYork/jail-devops) - who needs docker?
 - [fractalcells/ansible-iocage](https://github.com/fractalcells/ansible-iocage) - 
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [pnlng/alfred-url-actions](https://github.com/pnlng/alfred-url-actions) - An Alfred workflow that fetches the URL and title of your browser's current tab, and does things with them.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
@@ -9728,7 +9729,7 @@
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
 - [AdamGoldsmith/docker_swarm](https://github.com/AdamGoldsmith/docker_swarm) - Provision infrastructure and Deploy Docker Swarm
 - [ariselseng/mergerfs-rebalancer](https://github.com/ariselseng/mergerfs-rebalancer) - A simple script to move files from one folder to another. Made with mergerfs in mind.
-- [redraw/gh-install](https://github.com/redraw/gh-install) - install GitHub release binaries from the CLI
+- [redraw/gh-install](https://github.com/redraw/gh-install) - install GitHub release binaries from the CLI interactively
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
 - [9to5IT/Alfred-Project-Launcher](https://github.com/9to5IT/Alfred-Project-Launcher) - Alfred workflow to launch apps, folders, files, etc that relate to a specific project or task.
 - [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
@@ -10189,6 +10190,7 @@
 - [abhineet123/Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) - Collection of papers, datasets, code and other resources for object tracking and detection using deep learning
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [HenrikBengtsson/speedtest-cli-extras](https://github.com/HenrikBengtsson/speedtest-cli-extras) - :signal_strength: Tools to enhance the speedtest-cli network tools
+- [pbkhrv/rtl_433-hass-addons](https://github.com/pbkhrv/rtl_433-hass-addons) - Collection of Home Assistant add-ons that use rtl_433
 - [emqx/emqx-rel](https://github.com/emqx/emqx-rel) - Release Project for EMQ X Broker prior to 4.3. Newer releases are built here: https://github.com/emqx/emqx
 - [padelt/vzdump-plugin-b2](https://github.com/padelt/vzdump-plugin-b2) - Encrypted off-site backup of Proxmox VE vzdump images for $5/month/TB
 - [lobaro/restic-backup-docker](https://github.com/lobaro/restic-backup-docker) - A docker container to automate backups with restic
@@ -11079,6 +11081,7 @@
 
 ## TypeScript 
 
+- [NatelEnergy/grafana-plotly-panel](https://github.com/NatelEnergy/grafana-plotly-panel) - Show plotly graph in grafana panel
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
 - [dermotduffy/frigate-hass-card](https://github.com/dermotduffy/frigate-hass-card) - A Lovelace card for Frigate in Home Assistant
