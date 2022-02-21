@@ -881,6 +881,7 @@
 
 ## C++ 
 
+- [akumuli/Akumuli](https://github.com/akumuli/Akumuli) - Time-series database
 - [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open-source file sync.
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
@@ -3774,6 +3775,7 @@
 
 ## JavaScript 
 
+- [BretFisher/docker-swarm-visualizer](https://github.com/BretFisher/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [danhab99/interactive-websocket-cli](https://github.com/danhab99/interactive-websocket-cli) - An interactive websocket client for cli
 - [iaincollins/docker-deploy-webhook](https://github.com/iaincollins/docker-deploy-webhook) - A Docker Service for Continuous Deployment (Git Hub -&gt; Docker Hub -&gt; Docker Swarm)
 - [lydell/source-map-resolve](https://github.com/lydell/source-map-resolve) - [DEPRECATED] Resolve the source map and/or sources for a generated file.
@@ -4394,7 +4396,7 @@
 - [sseemayer/OCRmyPDF-web](https://github.com/sseemayer/OCRmyPDF-web) - A tiny frontend for OCRing PDF files via the web.
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [progrium/topframe](https://github.com/progrium/topframe) - Local webpage screen overlay for customizing your computing experience
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
 - [custom-cards/bignumber-card](https://github.com/custom-cards/bignumber-card) - 
 - [custom-cards/circle-sensor-card](https://github.com/custom-cards/circle-sensor-card) - A custom component for displaying sensor values as cards or elements
@@ -5206,7 +5208,7 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [sindresorhus/is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)
 - [sindresorhus/uti-cli](https://github.com/sindresorhus/uti-cli) - Get the UTI (Uniform Type Identifier) of a file on macOS
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [samber/grafana-flamegraph-panel](https://github.com/samber/grafana-flamegraph-panel) - 📊 Flame graph panels for Grafana
@@ -8326,7 +8328,7 @@
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [crmne/cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience) - Start a data science project with modern tools
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [n0fate/chainbreaker](https://github.com/n0fate/chainbreaker) - Mac OS X Keychain Forensic Tool
 - [ljmerza/ha-email-sensor](https://github.com/ljmerza/ha-email-sensor) - Email Sensor for collecting tracking numbers from over 25 providers.
 - [custom-components/sensor.plex_recently_added](https://github.com/custom-components/sensor.plex_recently_added) - ▶️ Plex component to feed Upcoming Media Card.
@@ -9681,6 +9683,7 @@
 
 ## Shell 
 
+- [awesome-openwrt/openwrt-packages](https://github.com/awesome-openwrt/openwrt-packages) - 🥱 Awesome OpenWrt Packages
 - [sashimi3/web-socket-test](https://github.com/sashimi3/web-socket-test) - Dockerfile for WebSocket connectivity test.
 - [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) - Script for installing Guacamole on Ubuntu
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
@@ -10115,7 +10118,7 @@
 - [hwhw/batman-adv-testbed](https://github.com/hwhw/batman-adv-testbed) - Build scripts that build a KVM/qemu ready version of kernel/userland with focus on batman-adv(-legacy) development
 - [jekhokie/raspberry-noaa-v2](https://github.com/jekhokie/raspberry-noaa-v2) - V2 of the fantastic Raspberry Pi NOAA setup
 - [andif888/workfromhome-with-docker](https://github.com/andif888/workfromhome-with-docker) - HTML5 based remote desktop gateway using Apache Guacamole and Traefik Reverse Proxy including AD authentication and 2-FA
-- [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - Automatically download pdfs of articles from Sci-Hub (website automatically found) based either on their title, http address, authors, year of publication, or DOI.
+- [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - scitopdf quickly fetches, downloads and opens scientific papers from Sci-Hub's database.
 - [seren/freenas-temperature-graphing](https://github.com/seren/freenas-temperature-graphing) - Scripts to graph FreeNAS CPU and drive temperatures
 - [patrickwoolf/paper-downloader](https://github.com/patrickwoolf/paper-downloader) - Download papers with PMID from PMC and ones with DOI from sci-hub
 - [popstas/zsh-command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh
