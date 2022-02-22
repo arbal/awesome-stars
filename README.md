@@ -881,6 +881,7 @@
 
 ## C++ 
 
+- [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [akumuli/Akumuli](https://github.com/akumuli/Akumuli) - Time-series database
 - [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open-source file sync.
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
@@ -1358,6 +1359,7 @@
 
 ## Dockerfile 
 
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
 - [konstruktoid/AptCacherNG_Build](https://github.com/konstruktoid/AptCacherNG_Build) - Apt-Cacher NG
 - [brndnmtthws/nginx-echo-headers](https://github.com/brndnmtthws/nginx-echo-headers) - Have nginx return request headers to the client
 - [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux
@@ -1629,6 +1631,8 @@
 
 ## Go 
 
+- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+- [grafana-tools/sdk](https://github.com/grafana-tools/sdk) - Library for using Grafana' structures in Go programs and client for Grafana REST API.
 - [shirou/mqttcli](https://github.com/shirou/mqttcli) - MQTT client
 - [influxdata/influx-cli](https://github.com/influxdata/influx-cli) - CLI for managing resources in InfluxDB v2
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
@@ -3775,6 +3779,7 @@
 
 ## JavaScript 
 
+- [heckenmann/docker-swarm-dashboard](https://github.com/heckenmann/docker-swarm-dashboard) - Dashboard for Docker Swarm Cluster
 - [BretFisher/docker-swarm-visualizer](https://github.com/BretFisher/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [danhab99/interactive-websocket-cli](https://github.com/danhab99/interactive-websocket-cli) - An interactive websocket client for cli
 - [iaincollins/docker-deploy-webhook](https://github.com/iaincollins/docker-deploy-webhook) - A Docker Service for Continuous Deployment (Git Hub -&gt; Docker Hub -&gt; Docker Swarm)
@@ -5833,6 +5838,7 @@
 
 ## Others 
 
+- [myugan/awesome-docker-security](https://github.com/myugan/awesome-docker-security) - 📚 A curated list of awesome Docker security resources
 - [try2codesecure/grafana_dashboards](https://github.com/try2codesecure/grafana_dashboards) - collection of grafana dashboards
 - [grafana/grafana-plugin-examples](https://github.com/grafana/grafana-plugin-examples) - 
 - [geerlingguy/ansible-role-raspberry-pi](https://github.com/geerlingguy/ansible-role-raspberry-pi) - Configures a Raspberry Pi (running Raspbian).
@@ -6912,7 +6918,6 @@
 ## PowerShell 
 
 - [neobepmat/docker-script](https://github.com/neobepmat/docker-script) - Script for CLA docker containers
-- [SlothCroissant/portainer](https://github.com/SlothCroissant/portainer) - 
 - [SlothCroissant/caddy-cloudflaredns](https://github.com/SlothCroissant/caddy-cloudflaredns) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go. caddy-cloudflaredns adds Cloudflare LetsEncrypt support to the base image.
 - [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - Various scripts
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
@@ -6946,6 +6951,8 @@
 
 ## Python 
 
+- [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
+- [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [spreaker/prometheus-pgbouncer-exporter](https://github.com/spreaker/prometheus-pgbouncer-exporter) - Prometheus exporter for PgBouncer
 - [pywemo/pywemo](https://github.com/pywemo/pywemo) - Python module to discover and control WeMo devices.
 - [vadimkantorov/wemosetup](https://github.com/vadimkantorov/wemosetup) - A simple Python script to set up WeMo devices
