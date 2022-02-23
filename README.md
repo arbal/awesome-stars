@@ -194,6 +194,7 @@
 
 ## C 
 
+- [jelmd/nvmex](https://github.com/jelmd/nvmex) - Metrics exporter for Nvidia GPUs (Prometheus exposition format)
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [mdlayher/wifi](https://github.com/mdlayher/wifi) - Package wifi provides access to IEEE 802.11 WiFi device actions and statistics.  MIT Licensed.
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
@@ -1631,6 +1632,8 @@
 
 ## Go 
 
+- [tedpearson/ForecastMetrics](https://github.com/tedpearson/ForecastMetrics) - Get weather forecasts and write them into VictoriaMetrics (or InfluxDB), for use with Grafana dashboards. Currently supports the National Weather Service (NWS) and VisualCrossing forecast APIs.
+- [balena-os/balena-engine](https://github.com/balena-os/balena-engine) - Moby-based Container Engine for Embedded, IoT, and Edge uses
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [grafana-tools/sdk](https://github.com/grafana-tools/sdk) - Library for using Grafana' structures in Go programs and client for Grafana REST API.
 - [shirou/mqttcli](https://github.com/shirou/mqttcli) - MQTT client
@@ -3750,7 +3753,7 @@
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
 - [theopolisme/react-native-stripe-terminal](https://github.com/theopolisme/react-native-stripe-terminal) - React Native bindings for the Stripe Terminal SDK. (Unofficial)
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline and dbus interface for signalapp/libsignal-service-java
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Built-in CI/CD
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [stkenny/Refine-NER-Extension](https://github.com/stkenny/Refine-NER-Extension) - Named-Entity Recognition extension for Google Refine / OpenRefine
 - [dernasherbrezon/r2cloud](https://github.com/dernasherbrezon/r2cloud) - Decode satellite signals on Raspberry PI or any other 64-bit CPU.
@@ -4312,7 +4315,7 @@
 - [Alamantus/GooglePhotosExportOrganizer](https://github.com/Alamantus/GooglePhotosExportOrganizer) - A tool for merging and organizing exported Google Photos backups. Built with React and Electron!
 - [timescale/examples](https://github.com/timescale/examples) - Collection of example applications and tools to help you get familiar with TimescaleDB
 - [stevelacey/wifi-cli-macos](https://github.com/stevelacey/wifi-cli-macos) - 📡️ Wi-Fi CLI MacOS is a command line utility for managing network connections on MacOS
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [pubkey/broadcast-channel](https://github.com/pubkey/broadcast-channel) - :satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels
 - [ljmerza/travel-time-card](https://github.com/ljmerza/travel-time-card) - show travel times for you travel time sensors
 - [nepeee/limeSNA](https://github.com/nepeee/limeSNA) - Scalar Network Analyser for the LimeSDR mini
@@ -6951,6 +6954,7 @@
 
 ## Python 
 
+- [fgjeci/mqttbench_docker](https://github.com/fgjeci/mqttbench_docker) - 
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [spreaker/prometheus-pgbouncer-exporter](https://github.com/spreaker/prometheus-pgbouncer-exporter) - Prometheus exporter for PgBouncer
@@ -8521,7 +8525,6 @@
 - [targendaz2/Mac-Set-Default-Apps](https://github.com/targendaz2/Mac-Set-Default-Apps) - A utility to change default applications in macOS
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
-- [themoosman/mlapi](https://github.com/themoosman/mlapi) - An easy to use/extend object recognition API you can locally install. NGINX + Gunicorn + Flask. Containerized. Also works with ZMES!
 - [angelotc/MacroDAG](https://github.com/angelotc/MacroDAG) - An dockerized Airflow ETL pipeline that processes macroeconomic indicators from the Federal Reserve.
 - [ooni/pipeline](https://github.com/ooni/pipeline) - OONI data processing pipeline
 - [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
@@ -9690,6 +9693,7 @@
 
 ## Shell 
 
+- [weaveworks/prom-aggregation-gateway](https://github.com/weaveworks/prom-aggregation-gateway) - An aggregating push gateway for Prometheus
 - [awesome-openwrt/openwrt-packages](https://github.com/awesome-openwrt/openwrt-packages) - 🥱 Awesome OpenWrt Packages
 - [sashimi3/web-socket-test](https://github.com/sashimi3/web-socket-test) - Dockerfile for WebSocket connectivity test.
 - [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) - Script for installing Guacamole on Ubuntu
@@ -11091,6 +11095,7 @@
 
 ## TypeScript 
 
+- [balena-io/balena-mdns-publisher](https://github.com/balena-io/balena-mdns-publisher) - MDNS address publisher for balena services
 - [NatelEnergy/grafana-plotly-panel](https://github.com/NatelEnergy/grafana-plotly-panel) - Show plotly graph in grafana panel
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
