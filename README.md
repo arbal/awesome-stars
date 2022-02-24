@@ -39,6 +39,7 @@
   - [F#](#f#)
   - [FreeMarker](#freemarker)
   - [G-code](#g-code)
+  - [GLSL](#glsl)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groff](#groff)
@@ -194,6 +195,7 @@
 
 ## C 
 
+- [LeeBrotherston/tls-fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting) - TLS Fingerprinting
 - [jelmd/nvmex](https://github.com/jelmd/nvmex) - Metrics exporter for Nvidia GPUs (Prometheus exposition format)
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [mdlayher/wifi](https://github.com/mdlayher/wifi) - Package wifi provides access to IEEE 802.11 WiFi device actions and statistics.  MIT Licensed.
@@ -685,7 +687,7 @@
 - [ChrisJohnsen/tmux-MacOSX-pasteboard](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [trailofbits/osquery-extensions](https://github.com/trailofbits/osquery-extensions) - osquery extensions by Trail of Bits
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [six-ddc/hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [catalinii/minisatip](https://github.com/catalinii/minisatip) - minisatip is an SATIP server for linux using local DVB-S2, DVB-C, DVB-T or ATSC cards
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -1360,7 +1362,6 @@
 
 ## Dockerfile 
 
-- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
 - [konstruktoid/AptCacherNG_Build](https://github.com/konstruktoid/AptCacherNG_Build) - Apt-Cacher NG
 - [brndnmtthws/nginx-echo-headers](https://github.com/brndnmtthws/nginx-echo-headers) - Have nginx return request headers to the client
 - [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux
@@ -1626,12 +1627,21 @@
 
 - [MKme/Roomba](https://github.com/MKme/Roomba) - Romba Virtual Wall and Any Other Mods I figure Out
 
+## GLSL 
+
+- [WestpointLtd/tls_prober](https://github.com/WestpointLtd/tls_prober) - A tool to fingerprint SSL/TLS servers
+
 ## Gherkin 
 
 - [xyteam/AutoBDD-example](https://github.com/xyteam/AutoBDD-example) - Cucumber E2E Automation Example
 
 ## Go 
 
+- [qdm12/docker-proxy-acl-alpine](https://github.com/qdm12/docker-proxy-acl-alpine) - A lightweight docker Unix socket proxy which restricts endpoint usage to allowed sections
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Web based CI/CD Platform for Kubernetes
+- [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Fix Burp Suite's horrible TLS stack & spoof any browser fingerprint
+- [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
+- [Carcraftz/TLS-Fingerprint-API](https://github.com/Carcraftz/TLS-Fingerprint-API) - Privacy protection for the 21st century. Modern websites like Facebook can track details about your HTTP client even if you prevent sending a User Agent! This repo proxies your requests using a fork of go’s networking library (fhttp) and my fork of cclient (TLS fingerprint mimicry library) to prevent detection at the TLS stack level.
 - [tedpearson/ForecastMetrics](https://github.com/tedpearson/ForecastMetrics) - Get weather forecasts and write them into VictoriaMetrics (or InfluxDB), for use with Grafana dashboards. Currently supports the National Weather Service (NWS) and VisualCrossing forecast APIs.
 - [balena-os/balena-engine](https://github.com/balena-os/balena-engine) - Moby-based Container Engine for Embedded, IoT, and Edge uses
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
@@ -1766,7 +1776,7 @@
 - [influxdata/inch](https://github.com/influxdata/inch) - An InfluxDB benchmarking tool.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp video archival manager for Niconico, Bilibili, and Youtube
 - [mgoltzsche/ctnr](https://github.com/mgoltzsche/ctnr) - rootless runc-based container engine - deprecated in favour of podman
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
@@ -3393,6 +3403,7 @@
 
 ## HTML 
 
+- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [snuids/trafficlights-panel](https://github.com/snuids/trafficlights-panel) - A Grafana version of the Kibana Traffic Lights Panel
 - [re-data/re-data](https://github.com/re-data/re-data) - re_data - fix data issues before your users & CEO would discover them 😊
@@ -3590,6 +3601,7 @@
 
 ## Java 
 
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
 - [stephenh/mirror](https://github.com/stephenh/mirror) - A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -3782,6 +3794,10 @@
 
 ## JavaScript 
 
+- [jsdom/whatwg-url](https://github.com/jsdom/whatwg-url) - An implementation of the WHATWG URL Standard in JavaScript
+- [derhuerst/query-string-cli](https://github.com/derhuerst/query-string-cli) - Decode & encode URL query strings in the command line.
+- [derhuerst/url-decode-encode-cli](https://github.com/derhuerst/url-decode-encode-cli) - Command line utility for URL decoding & encoding.
+- [derhuerst/parse-url-cli](https://github.com/derhuerst/parse-url-cli) - Parse a URL, get one or all components pretty-printed or as JSON.
 - [heckenmann/docker-swarm-dashboard](https://github.com/heckenmann/docker-swarm-dashboard) - Dashboard for Docker Swarm Cluster
 - [BretFisher/docker-swarm-visualizer](https://github.com/BretFisher/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [danhab99/interactive-websocket-cli](https://github.com/danhab99/interactive-websocket-cli) - An interactive websocket client for cli
@@ -5841,6 +5857,8 @@
 
 ## Others 
 
+- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider
+- [alphaSeclab/awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) - Awesome Burp Suite Resources. 400+ open source Burp plugins, 400+ posts and videos.
 - [myugan/awesome-docker-security](https://github.com/myugan/awesome-docker-security) - 📚 A curated list of awesome Docker security resources
 - [try2codesecure/grafana_dashboards](https://github.com/try2codesecure/grafana_dashboards) - collection of grafana dashboards
 - [grafana/grafana-plugin-examples](https://github.com/grafana/grafana-plugin-examples) - 
@@ -6957,6 +6975,7 @@
 - [fgjeci/mqttbench_docker](https://github.com/fgjeci/mqttbench_docker) - 
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
 - [spreaker/prometheus-pgbouncer-exporter](https://github.com/spreaker/prometheus-pgbouncer-exporter) - Prometheus exporter for PgBouncer
 - [pywemo/pywemo](https://github.com/pywemo/pywemo) - Python module to discover and control WeMo devices.
 - [vadimkantorov/wemosetup](https://github.com/vadimkantorov/wemosetup) - A simple Python script to set up WeMo devices
@@ -8455,7 +8474,7 @@
 - [ArchiveTeam/WebArchiver](https://github.com/ArchiveTeam/WebArchiver) - Decentralized web archiving
 - [webrecorder/autobrowser](https://github.com/webrecorder/autobrowser) - 
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed
-- [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix: Containerized High-Fidelity Browser-Based Automated Crawling + Behavior System
+- [webrecorder/browsertrix-old](https://github.com/webrecorder/browsertrix-old) - Browsertrix: Containerized High-Fidelity Browser-Based Automated Crawling + Behavior System
 - [arquivo/BrozzlerAdmin](https://github.com/arquivo/BrozzlerAdmin) - Simple UI Interface to launch Brozzler Jobs internally
 - [Rovanion/iozone-results-comparator](https://github.com/Rovanion/iozone-results-comparator) - Tool for comparing outputs of iozone to each other
 - [zeromq/pyzmq](https://github.com/zeromq/pyzmq) - PyZMQ:  Python bindings for zeromq
@@ -9169,6 +9188,7 @@
 
 ## Ruby 
 
+- [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor) - A curated list of Vapor-related awesome projects.
 - [ankane/searchkick](https://github.com/ankane/searchkick) - Intelligent search made easy
@@ -10129,7 +10149,7 @@
 - [hwhw/batman-adv-testbed](https://github.com/hwhw/batman-adv-testbed) - Build scripts that build a KVM/qemu ready version of kernel/userland with focus on batman-adv(-legacy) development
 - [jekhokie/raspberry-noaa-v2](https://github.com/jekhokie/raspberry-noaa-v2) - V2 of the fantastic Raspberry Pi NOAA setup
 - [andif888/workfromhome-with-docker](https://github.com/andif888/workfromhome-with-docker) - HTML5 based remote desktop gateway using Apache Guacamole and Traefik Reverse Proxy including AD authentication and 2-FA
-- [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - scitopdf quickly fetches, downloads and opens scientific papers from Sci-Hub's database.
+- [dougy147/scitopdf](https://github.com/dougy147/scitopdf) - bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
 - [seren/freenas-temperature-graphing](https://github.com/seren/freenas-temperature-graphing) - Scripts to graph FreeNAS CPU and drive temperatures
 - [patrickwoolf/paper-downloader](https://github.com/patrickwoolf/paper-downloader) - Download papers with PMID from PMC and ones with DOI from sci-hub
 - [popstas/zsh-command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh
@@ -10179,7 +10199,7 @@
 - [edgarsuit/FreeNAS-Report](https://github.com/edgarsuit/FreeNAS-Report) - SMART & ZPool Status Report for FreeNAS
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to build and manage your own vpn under a minute.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [cardi/qemu-windows-10](https://github.com/cardi/qemu-windows-10) - running a windows 10 guest on a linux host with pci passthrough
@@ -11095,6 +11115,7 @@
 
 ## TypeScript 
 
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [balena-io/balena-mdns-publisher](https://github.com/balena-io/balena-mdns-publisher) - MDNS address publisher for balena services
 - [NatelEnergy/grafana-plotly-panel](https://github.com/NatelEnergy/grafana-plotly-panel) - Show plotly graph in grafana panel
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
