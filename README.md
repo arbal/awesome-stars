@@ -521,6 +521,7 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [shakibamoshiri/rinp](https://github.com/shakibamoshiri/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
+- [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [oliverw/miningcore](https://github.com/oliverw/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows.
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -584,7 +585,7 @@
 - [BatchDrake/suscan](https://github.com/BatchDrake/suscan) - Channel scanner based on sigutils library
 - [pipelinedb/pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.
 - [dnsdb/dnsdbq](https://github.com/dnsdb/dnsdbq) - DNSDB API Client, C Version
 - [leahneukirchen/xe](https://github.com/leahneukirchen/xe) - simple xargs and apply replacement
@@ -1486,6 +1487,7 @@
 - [docker/distribution-library-image](https://github.com/docker/distribution-library-image) - 
 - [f4exb/sdrangel-docker](https://github.com/f4exb/sdrangel-docker) - Running SDRangel in a Docker container
 - [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
+- [home-assistant/addons-development](https://github.com/home-assistant/addons-development) - Add-on Repository for Development
 - [apify/apify-actor-docker](https://github.com/apify/apify-actor-docker) - Base Docker images for Apify actors.
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
@@ -1637,6 +1639,7 @@
 
 ## Go 
 
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [qdm12/docker-proxy-acl-alpine](https://github.com/qdm12/docker-proxy-acl-alpine) - A lightweight docker Unix socket proxy which restricts endpoint usage to allowed sections
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Web based CI/CD Platform for Kubernetes
 - [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) - Fix Burp Suite's horrible TLS stack & spoof any browser fingerprint
@@ -5467,7 +5470,6 @@
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [google/earthengine-community](https://github.com/google/earthengine-community) - Tutorials and content created by Earth Engine users, for Earth Engine users
-- [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
 - [HamedAlemo/visualize-goes16](https://github.com/HamedAlemo/visualize-goes16) - This is a sample code to visualize GOES16 data, reading them directly from AWS S3 storage
 - [neurotechuoft/MindType](https://github.com/neurotechuoft/MindType) - Mind-controlled keyboard
 - [philzook58/philzook58.github.io](https://github.com/philzook58/philzook58.github.io) - My Blog
@@ -5857,6 +5859,7 @@
 
 ## Others 
 
+- [qiujie8092916/alfred_remote_IINA_Controller](https://github.com/qiujie8092916/alfred_remote_IINA_Controller) - ⌨️📲🕹alfred3 iina播放器远程控制器
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - application centric Kubernetes UI and continuous assurance provider
 - [alphaSeclab/awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) - Awesome Burp Suite Resources. 400+ open source Burp plugins, 400+ posts and videos.
 - [myugan/awesome-docker-security](https://github.com/myugan/awesome-docker-security) - 📚 A curated list of awesome Docker security resources
@@ -6938,7 +6941,6 @@
 
 ## PowerShell 
 
-- [neobepmat/docker-script](https://github.com/neobepmat/docker-script) - Script for CLA docker containers
 - [SlothCroissant/caddy-cloudflaredns](https://github.com/SlothCroissant/caddy-cloudflaredns) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go. caddy-cloudflaredns adds Cloudflare LetsEncrypt support to the base image.
 - [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - Various scripts
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
@@ -7308,6 +7310,7 @@
 - [tethysplatform/tethys](https://github.com/tethysplatform/tethys) - The Tethys Platform main Django website project repository.
 - [space-physics/GOESplot](https://github.com/space-physics/GOESplot) - Download and plot GOES satellite PNGs and high-resolution NetCDF4 by date/time
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+- [blaylockbk/goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
 - [lucasdemassy/Viewshed-automation-workflow](https://github.com/lucasdemassy/Viewshed-automation-workflow) - Several scripts to automatize observation points from building in order to calculate their field of view
 - [JanCaha/Line-of-Sight-Analyst](https://github.com/JanCaha/Line-of-Sight-Analyst) - A python toolbox for ArcGIS designed for creation and analysis of Lines of Sight. The tool provides new functionality especially in analyzing of Line of Sight. The toolbox uses Python 2.7 as distributed with ArcGIS 10.3.
 - [dlcifuentesl/UrbanRadioCober](https://github.com/dlcifuentesl/UrbanRadioCober) - Urban radiocober simulator plugin for omnidirectional radio coverage in urban enviroment
@@ -7957,7 +7960,7 @@
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) - Smart DNS proxy to watch Netflix
 - [EvaSeidlmayer/orcid-for-wikidata](https://github.com/EvaSeidlmayer/orcid-for-wikidata) - import information (affiliation, education) from ORCID database to Wikidata regarding authors of scientific papers
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -8125,7 +8128,6 @@
 - [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
-- [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [google/upvote_py2](https://github.com/google/upvote_py2) - A multi-platform binary whitelisting solution
@@ -9718,6 +9720,7 @@
 - [sashimi3/web-socket-test](https://github.com/sashimi3/web-socket-test) - Dockerfile for WebSocket connectivity test.
 - [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) - Script for installing Guacamole on Ubuntu
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
+- [neobepmat/docker-script](https://github.com/neobepmat/docker-script) - Script for CLA docker containers
 - [emqx/emqx-docker](https://github.com/emqx/emqx-docker) - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
 - [tianon/docker-qemu](https://github.com/tianon/docker-qemu) - Dockerization of supported QEMU releases
 - [technorabilia/docker-bits](https://github.com/technorabilia/docker-bits) - Various Docker bits
@@ -9735,7 +9738,7 @@
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [arbal/docker-gphotos-sync](https://github.com/arbal/docker-gphotos-sync) - A Docker image for synchronizing your original-quality Google Photos
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
-- [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env syntax
+- [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env file syntax
 - [equalitie/mias](https://github.com/equalitie/mias) - A simple docker swarm stack for passive "push-based" monitoring/metrics
 - [jedisct1/dnscrypt-server-docker](https://github.com/jedisct1/dnscrypt-server-docker) - A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 - [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
@@ -10436,7 +10439,6 @@
 - [dfaust/mkv-bash-tools](https://github.com/dfaust/mkv-bash-tools) - A collection of BASH scripts for processing mkv files
 - [nik0chan/cluster-swarm](https://github.com/nik0chan/cluster-swarm) - 
 - [dale3h/hassctl](https://github.com/dale3h/hassctl) - Simple command line utility to help debug Home Assistant configuration
-- [home-assistant/addons-development](https://github.com/home-assistant/addons-development) - Add-on Repository for Development
 - [ScientaNL/k8s-proxysql-cluster](https://github.com/ScientaNL/k8s-proxysql-cluster) - Kubernetes ProxySQL Cluster
 - [ukwa/docker-brozzler](https://github.com/ukwa/docker-brozzler) - Brozzler in a Docker container
 - [tprelog/iocage-mosquitto](https://github.com/tprelog/iocage-mosquitto) - Mosquitto MQTT Broker - TrueNAS CORE Community Plugin
