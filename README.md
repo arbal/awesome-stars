@@ -3797,6 +3797,7 @@
 
 ## JavaScript 
 
+- [brbeaird/sense-energy-node](https://github.com/brbeaird/sense-energy-node) - Sense Energy Monitor API for NodeJS (unofficial)
 - [jsdom/whatwg-url](https://github.com/jsdom/whatwg-url) - An implementation of the WHATWG URL Standard in JavaScript
 - [derhuerst/query-string-cli](https://github.com/derhuerst/query-string-cli) - Decode & encode URL query strings in the command line.
 - [derhuerst/url-decode-encode-cli](https://github.com/derhuerst/url-decode-encode-cli) - Command line utility for URL decoding & encoding.
@@ -3976,7 +3977,7 @@
 - [arbal/btc-rpc-explorer](https://github.com/arbal/btc-rpc-explorer) - Database-free, self-hosted Bitcoin explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [SamVerschueren/alfred-config](https://github.com/SamVerschueren/alfred-config) - Allow easy user configurations for your Alfred workflows
 - [seanlaff/simple-streaming-datasource](https://github.com/seanlaff/simple-streaming-datasource) - End-to-end Grafana streaming datasource example
-- [oncework/codeexpander](https://github.com/oncework/codeexpander) - A cross-platform cloud synchronization development tool for developers that includes input enhancement, code snippet management, and Markdown. (专为开发者开发的一个集输入增强、代码片段管理(支持 Markdown)为一体跨平台云同步的开发工具。)
+- [oncework/codeexpander](https://github.com/oncework/codeexpander) - A cross-platform cloud synchronization (Github/Gitee) development efficiency tool that integrates input enhancement and code snippet management specifically for developers. 专为开发者开发的一个集输入增强、代码片段管理为一体跨平台云同步（Github/Gitee）的开发效率工具。
 - [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users
 - [makingglitches/GooglePhotoDownload](https://github.com/makingglitches/GooglePhotoDownload) - Connects to Google Photos and downloads all content, keeping track of original data on disk and moving files only on the computer and already on server to  respective directories, and tries to download the entire collection and store size info for quicker startup as well as original file sizes of those on disk, downloading the files still on disk first so they can be freed up.  Supports multiple user accounts.
 - [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
@@ -4858,7 +4859,7 @@
 - [ruyadorno/ntl](https://github.com/ruyadorno/ntl) - Node Task List: Interactive cli to list and run package.json scripts
 - [bichenkk/coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
@@ -5392,6 +5393,7 @@
 
 ## Jinja 
 
+- [kubesphere/ks-installer](https://github.com/kubesphere/ks-installer) - Install KubeSphere on existing Kubernetes cluster
 - [grofers/legend](https://github.com/grofers/legend) - Legend builds and publishes Grafana dashboards for your services with prefilled metrics and alerts for your services.
 - [arbal/ansible-role-zsh](https://github.com/arbal/ansible-role-zsh) - antigen with oh-my-zsh, powerlevel9k theme, fzf, autosuggestions, syntax-highlighting
 - [mdegat01/hassio-addons](https://github.com/mdegat01/hassio-addons) - Home Assistant addons
@@ -6974,6 +6976,7 @@
 
 ## Python 
 
+- [Svedrin/mqtt-pushgateway](https://github.com/Svedrin/mqtt-pushgateway) - Prometheus Exporter for metrics received via MQTT
 - [fgjeci/mqttbench_docker](https://github.com/fgjeci/mqttbench_docker) - 
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
@@ -9460,7 +9463,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [flock-lab/flock](https://github.com/flock-lab/flock) - Flock: A Practical Serverless Streaming Query Engine
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Automate and relate multiple processes.
@@ -11025,7 +11028,7 @@
 - [jdxcode/latlon](https://github.com/jdxcode/latlon) - CLI to get current latitude and longitude on macOS
 - [Mortennn/FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes
-- [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
+- [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
 - [vanshg/MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS!
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [netguru/ResponseDetective](https://github.com/netguru/ResponseDetective) - Sherlock Holmes of the networking layer. :male_detective:
