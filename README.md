@@ -612,7 +612,6 @@
 - [acidanthera/Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS
 - [haakonnessjoen/MAC-Telnet](https://github.com/haakonnessjoen/MAC-Telnet) - Open source MAC Telnet client and server for connecting to Microtik RouterOS routers and Posix machines via MAC address.
 - [octo/librouteros](https://github.com/octo/librouteros) - C library to communicate with network devices by MikroTik running their Linux-based operating system RouterOS.
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
 - [cminyard/gensio](https://github.com/cminyard/gensio) - A library to abstract stream I/O like serial port, TCP, telnet, UDP, SSL, IPMI SOL, etc.
 - [cminyard/ser2net](https://github.com/cminyard/ser2net) - Serial to network interface, allows TCP/UDP to serial port connections
@@ -1528,6 +1527,7 @@
 - [jgoerzen/docker-weewx](https://github.com/jgoerzen/docker-weewx) - [read-only mirror] WeeWX weather station in Docker
 - [femtopixel/docker-google-lighthouse-puppeteer](https://github.com/femtopixel/docker-google-lighthouse-puppeteer) - Google Lighthouse + Puppeteer / Docker Image
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
+- [sdr-enthusiasts/docker-adsbexchange](https://github.com/sdr-enthusiasts/docker-adsbexchange) - Feeds ADS-B data into adsbexchange.com. Designed to work with mikenye/readsb-protobuf.
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [gramaziokohler/ros_docker](https://github.com/gramaziokohler/ros_docker) - Docker images for ROS master, bridge and nodes
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command.
@@ -1563,7 +1563,7 @@
 - [edgurgel/verk](https://github.com/edgurgel/verk) - A job processing system that just verks! 🧛‍
 - [koudelka/honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈
 - [akira/exq](https://github.com/akira/exq) - Job processing library for Elixir  - compatible with Resque / Sidekiq
-- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard) - Realtime dashboard with metrics, request logging, plus storage, OS and VM insights
@@ -1639,6 +1639,7 @@
 
 ## Go 
 
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [qdm12/docker-proxy-acl-alpine](https://github.com/qdm12/docker-proxy-acl-alpine) - A lightweight docker Unix socket proxy which restricts endpoint usage to allowed sections
@@ -6979,6 +6980,8 @@
 
 ## Python 
 
+- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
+- [ngine-io/chaotic](https://github.com/ngine-io/chaotic) - Chaos for Clouds
 - [ngine-io/scalr](https://github.com/ngine-io/scalr) - Autoscaling for Clouds
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
@@ -7854,7 +7857,7 @@
 - [hpe-storage/truenas-csp](https://github.com/hpe-storage/truenas-csp) - TrueNAS CORE Container Storage Provider for HPE CSI Driver for Kubernetes
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [gregoryduckworth/GoogleGeocode-HASS](https://github.com/gregoryduckworth/GoogleGeocode-HASS) - Google Location for HASS using the Google Geocode API
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes XPATH and JSON API change detection and monitoring support!
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection
 - [perliedman/shadow-mapper](https://github.com/perliedman/shadow-mapper) - Generate maps of sun and shade from OpenStreetMap data
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) - Simple Python Script To Mirror Repository From Github To Gitea
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
@@ -8580,6 +8583,7 @@
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
 - [Ultimaker/Uranium](https://github.com/Ultimaker/Uranium) - A Python framework for building Desktop applications.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
@@ -9923,7 +9927,6 @@
 - [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
 - [vegardit/bash-funk](https://github.com/vegardit/bash-funk) - bash-funk is a collection of useful commands for Bash 3.2 or higher.
 - [zobo/docker-nfsen](https://github.com/zobo/docker-nfsen) - NFSEN in Docker
-- [untitledgoos/big-sur-automator](https://github.com/untitledgoos/big-sur-automator) - BSA is a simple shell script that completely automates the process of making a macOS Big Sur USB Installer thats patched to work on a unsupported Mac.
 - [essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav)
 - [synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons) - My Hass.IO add-ons
 - [pfranchini/weather-satellites](https://github.com/pfranchini/weather-satellites) - Weather satellites (NOAA, METEOR) scripts
@@ -10664,7 +10667,6 @@
 - [jpetazzo/dind](https://github.com/jpetazzo/dind) - Docker in Docker
 - [TheBiggerGuy/docker-ads-b](https://github.com/TheBiggerGuy/docker-ads-b) - Docker container for ADS-B
 - [adsbxchange/adsbexchange-stats](https://github.com/adsbxchange/adsbexchange-stats) - ADSBexchange.com Statistics Beta
-- [mikenye/docker-adsbexchange](https://github.com/mikenye/docker-adsbexchange) - Feeds ADS-B data into adsbexchange.com. Designed to work with mikenye/readsb-protobuf.
 - [chriswayg/packer-proxmox-templates](https://github.com/chriswayg/packer-proxmox-templates) - :package: Packer templates for building Proxmox KVM images from ISO
 - [phallstrom/AlfredDig](https://github.com/phallstrom/AlfredDig) - A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.
 - [gitpel/letsencrypt-routeros](https://github.com/gitpel/letsencrypt-routeros) - Let's Encrypt certificates for RouterOS / Mikrotik
