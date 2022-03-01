@@ -195,6 +195,7 @@
 
 ## C 
 
+- [iqiyi/dpvs](https://github.com/iqiyi/dpvs) - DPVS is a high performance Layer-4 load balancer based on DPDK.
 - [LeeBrotherston/tls-fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting) - TLS Fingerprinting
 - [jelmd/nvmex](https://github.com/jelmd/nvmex) - Metrics exporter for Nvidia GPUs (Prometheus exposition format)
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
@@ -956,7 +957,7 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [QDeltaSoft/qradiopredict](https://github.com/QDeltaSoft/qradiopredict) - Radio propagation prediction and simulation tool for VHF-UHF
 - [nu-radio/RadioPropa](https://github.com/nu-radio/RadioPropa) - Simulate radio propagation in inhomogeneous by media by ray-tracing
-- [omnisci/omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
+- [heavyai/heavydb](https://github.com/heavyai/heavydb) - OmniSciDB (formerly MapD Core)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [myriadrf/lime-tools](https://github.com/myriadrf/lime-tools) - A collection of useful tools for use with the LimeSDR family of boards
 - [Stream-AD/MIDAS](https://github.com/Stream-AD/MIDAS) - Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.
@@ -1467,7 +1468,6 @@
 - [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node) - Distroless Node.js Docker Images
 - [michaelmob/docker-funkwhale](https://github.com/michaelmob/docker-funkwhale) - All-in-one funkwhale docker image.
 - [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
-- [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
 - [flashspys/docker-nginx-static](https://github.com/flashspys/docker-nginx-static) - Super Lightweight Nginx Image
 - [mdouchement/standardnotes](https://github.com/mdouchement/standardnotes) - Dockerization of Standard File server. Used for running your own Standard Notes server
 - [AtomGraph/saxon-docker](https://github.com/AtomGraph/saxon-docker) - Dockerized Saxon-HE (XSLT 3.0 processor)
@@ -1639,6 +1639,8 @@
 
 ## Go 
 
+- [bramp/myip](https://github.com/bramp/myip) - (A better) What's My IP Address web application
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
@@ -3409,6 +3411,7 @@
 
 ## HTML 
 
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [snuids/trafficlights-panel](https://github.com/snuids/trafficlights-panel) - A Grafana version of the Kibana Traffic Lights Panel
@@ -3800,6 +3803,8 @@
 
 ## JavaScript 
 
+- [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
+- [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [mohamnag/nginx-file-browser](https://github.com/mohamnag/nginx-file-browser) - a simple file browser for nginx autoindex module
 - [brbeaird/sense-energy-node](https://github.com/brbeaird/sense-energy-node) - Sense Energy Monitor API for NodeJS (unofficial)
 - [jsdom/whatwg-url](https://github.com/jsdom/whatwg-url) - An implementation of the WHATWG URL Standard in JavaScript
@@ -4106,7 +4111,6 @@
 - [ktr0731/excl](https://github.com/ktr0731/excl) - A Chrome extension for closing all tabs of duplicate URLs
 - [emileaben/ixp-country-jedi](https://github.com/emileaben/ixp-country-jedi) - Set of scripts to measure and analyse countries and/or IXPs using RIPE Atlas
 - [bellingcat/cloud-free-subregion](https://github.com/bellingcat/cloud-free-subregion) - Google Earth Engine application that finds Sentinel-2 images that are cloud-free in a particular area of interest.
-- [zecojls/tagee](https://github.com/zecojls/tagee) - Terrain Analysis in Google Earth Engine
 - [geohackweek/GoogleEarthEngine](https://github.com/geohackweek/GoogleEarthEngine) - Google Earth Engine Tutorial
 - [gee-community/ee-runner](https://github.com/gee-community/ee-runner) - Command-line runner for Google Earth Engine Playground scripts
 - [rhodey/radiowitness](https://github.com/rhodey/radiowitness) - P25 public safety radio archive with Dat Protocol authenticated mirrors.
@@ -6131,7 +6135,6 @@
 - [dbohdan/embedded-scripting-languages](https://github.com/dbohdan/embedded-scripting-languages) - A list of embedded scripting languages
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [AnarchoTechNYC/ansible-role-dnscrypt-proxy](https://github.com/AnarchoTechNYC/ansible-role-dnscrypt-proxy) - :lock::postal_horn: Spin up a(n optionally Torified) DNS, DNSCrypt v2, DNS-over-TLS, and/or DNS-over-HTTPS proxy server.
-- [firefly-iii/csv-importer](https://github.com/firefly-iii/csv-importer) - Tool repository: A Firefly III tool to import CSV files into Firefly III.
 - [arbal/docker-swarm-keepalived](https://github.com/arbal/docker-swarm-keepalived) - Operator for keepalived on docker swarm
 - [rxy/OoklaServer-speedtest.net-daemon](https://github.com/rxy/OoklaServer-speedtest.net-daemon) - https://support.ookla.com/hc/en-us/articles/234578528-OoklaServer-Installation-Linux-Unix
 - [awesometic/hackintosh-gigabyte-x570-aorus-elite](https://github.com/awesometic/hackintosh-gigabyte-x570-aorus-elite) - My EFI folder for Ryzen Hackintosh, as known as Ryzentosh.
@@ -6980,6 +6983,8 @@
 
 ## Python 
 
+- [Bhai4You/Ip-Attack](https://github.com/Bhai4You/Ip-Attack) - Auto IP or Domain Attack Tool ( #1 )
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
 - [ngine-io/chaotic](https://github.com/ngine-io/chaotic) - Chaos for Clouds
 - [ngine-io/scalr](https://github.com/ngine-io/scalr) - Autoscaling for Clouds
@@ -7232,6 +7237,7 @@
 - [pytroll/satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [matthewwall/weewx-windy](https://github.com/matthewwall/weewx-windy) - uploader for windy.com
 - [5olitude/earthengine-image-downloader](https://github.com/5olitude/earthengine-image-downloader) - A fast way to download satellite images by defining the location from google-earth-engine
+- [zecojls/tagee](https://github.com/zecojls/tagee) - Terrain Analysis in Google Earth Engine
 - [samapriya/Planet-GEE-Pipeline-CLI](https://github.com/samapriya/Planet-GEE-Pipeline-CLI) - Planet and Google Earth Engine Pipeline Command Line Interface Tool
 - [samapriya/geeup](https://github.com/samapriya/geeup) - Simple CLI for Google Earth Engine Uploads
 - [aazuspan/wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing time series data
@@ -8924,7 +8930,7 @@
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 - [randaller/cnn-rtlsdr](https://github.com/randaller/cnn-rtlsdr) - Deep learning signal classification using rtl-sdr dongle
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [weewx/weewx](https://github.com/weewx/weewx) - WeeWX code repository
 - [dmlc/gluon-cv](https://github.com/dmlc/gluon-cv) - Gluon CV Toolkit
 - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
@@ -9133,6 +9139,7 @@
 
 ## R 
 
+- [easystats/correlation](https://github.com/easystats/correlation) - :link: Methods for Correlation Analysis
 - [bahanonu/geoSatView](https://github.com/bahanonu/geoSatView) - geoSatView: Downloads satellite data, crop images, and makes animation video.
 - [ropensci/webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web
 - [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
@@ -9402,6 +9409,7 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
 - [doyoubi/undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
@@ -10344,6 +10352,7 @@
 - [vitorgalvao/lowchime](https://github.com/vitorgalvao/lowchime) - Lower the volume of macOS’s startup chime
 - [vitorgalvao/tiny-alfred-scripts](https://github.com/vitorgalvao/tiny-alfred-scripts) - Collection of small scripts to manage my Alfred Workflows
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
+- [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
 - [zercurity/zercurity](https://github.com/zercurity/zercurity) - 
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
