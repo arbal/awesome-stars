@@ -957,7 +957,7 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [QDeltaSoft/qradiopredict](https://github.com/QDeltaSoft/qradiopredict) - Radio propagation prediction and simulation tool for VHF-UHF
 - [nu-radio/RadioPropa](https://github.com/nu-radio/RadioPropa) - Simulate radio propagation in inhomogeneous by media by ray-tracing
-- [heavyai/heavydb](https://github.com/heavyai/heavydb) - OmniSciDB (formerly MapD Core)
+- [heavyai/heavydb](https://github.com/heavyai/heavydb) - HeavyDB (formerly OmniSciDB)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [myriadrf/lime-tools](https://github.com/myriadrf/lime-tools) - A collection of useful tools for use with the LimeSDR family of boards
 - [Stream-AD/MIDAS](https://github.com/Stream-AD/MIDAS) - Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.
@@ -1639,6 +1639,8 @@
 
 ## Go 
 
+- [didi/nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
+- [appleboy/drone-scp](https://github.com/appleboy/drone-scp) - Copy files and artifacts via SSH using a binary, docker or Drone CI.
 - [bramp/myip](https://github.com/bramp/myip) - (A better) What's My IP Address web application
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -2216,7 +2218,7 @@
 - [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful.
 - [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers
-- [billziss-gh/cgofuse](https://github.com/billziss-gh/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
+- [winfsp/cgofuse](https://github.com/winfsp/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
@@ -3388,6 +3390,7 @@
 
 ## HCL 
 
+- [captn3m0/nebula](https://github.com/captn3m0/nebula) - Source Code for the Home Server setup.
 - [juanyque/proxmox-k0s](https://github.com/juanyque/proxmox-k0s) - 
 - [mojaloop/documentation](https://github.com/mojaloop/documentation) - Repo that contains documentation for the Mojaloop project.
 - [kingsoftgames/certbot-lambda](https://github.com/kingsoftgames/certbot-lambda) - Running Certbot on AWS Lambda.
@@ -3484,7 +3487,7 @@
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [nabla-c0d3/trust_stores_observatory](https://github.com/nabla-c0d3/trust_stores_observatory) - Continuously monitor and record the content of the major platforms' root certificate stores.
 - [ookangzheng/blahdns](https://github.com/ookangzheng/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
-- [ninoseki/mihari](https://github.com/ninoseki/mihari) - A framework for continuous OSINT based threat hunting
+- [ninoseki/mihari](https://github.com/ninoseki/mihari) - A tool for OSINT based threat hunting
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API)
 - [blakadder/zigbee](https://github.com/blakadder/zigbee) - Database of Zigbee devices compatible with third party gateways: ZHA, deCONZ, Zigbee2MQTT, Tasmota, ZiGate, ioBroker,
@@ -3581,7 +3584,7 @@
 - [coinmetrics/haskell-tools](https://github.com/coinmetrics/haskell-tools) - Tools for exporting blockchain data to analytical databases
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - it has no access to your connection graph! Join our iOS public beta 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - it has no access to your connection graph! Join our iOS and Android public beta 📱!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -5458,7 +5461,6 @@
 - [adamwg/grafana-dashboards](https://github.com/adamwg/grafana-dashboards) - Grafana dashboard management demo for PromCon 2019
 - [grafana/tns](https://github.com/grafana/tns) - Observability Demo App
 - [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
-- [ggear/asystem](https://github.com/ggear/asystem) - 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -7134,7 +7136,7 @@
 - [gistart/prometheus-push-client](https://github.com/gistart/prometheus-push-client) - Push Prometheus metrics to VictoriaMetrics or other exporters
 - [percona/pmm-server](https://github.com/percona/pmm-server) - PMM Server
 - [mza921/Plex-Auto-Collections](https://github.com/mza921/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
-- [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for movies, shows, and collections as well as automatically build collections.
+- [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [neurogeek/haproxyctl](https://github.com/neurogeek/haproxyctl) - HAProxy control tool
 - [mmagnus/pubmex](https://github.com/mmagnus/pubmex) - get full paper names for downloaded publications automatically
 - [tfawcett/rename_papers](https://github.com/tfawcett/rename_papers) - rename_papers is a simple program to extract the title from a PDF file, manipulate it, and rename the file.
@@ -7173,7 +7175,7 @@
 - [grawity/code](https://github.com/grawity/code) - ~/code – tools distributed across all of my systems
 - [SySS-Research/Seth](https://github.com/SySS-Research/Seth) - Perform a MitM attack and extract clear text credentials from RDP connections
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
-- [websploit/websploit](https://github.com/websploit/websploit) - Websploit is a high level MITM framework
+- [f4rih/websploit](https://github.com/f4rih/websploit) - Websploit is a high level MITM framework
 - [tooksoi/ScraXBRL](https://github.com/tooksoi/ScraXBRL) - SEC Edgar Scraper and XBRL Parser/Renderer
 - [mrichar1/exporter_proxy](https://github.com/mrichar1/exporter_proxy) - A small pure-python Reverse HTTP proxy for Prometheus exporters with TLS support.
 - [mdsecactivebreach/LinkedInt](https://github.com/mdsecactivebreach/LinkedInt) - LinkedInt: A LinkedIn scraper for reconnaissance during adversary simulation
@@ -7832,6 +7834,7 @@
 - [yassineaboukir/sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 - [x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher) - Phishing catcher using Certstream
 - [eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
+- [ggear/asystem](https://github.com/ggear/asystem) - 
 - [bellrichm/WeeWX-MQTTSubscribe](https://github.com/bellrichm/WeeWX-MQTTSubscribe) - A WeeWX service and driver that receives data from MQTT.
 - [poblabs/weewx-belchertown](https://github.com/poblabs/weewx-belchertown) - A clean and modern weewx skin with real time streaming updates, forecast data and interactive charts. View it in action at BelchertownWeather.com
 - [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
@@ -8234,7 +8237,7 @@
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
-- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google emails and documents.
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -9738,6 +9741,7 @@
 
 ## Shell 
 
+- [schickling/dockerfiles](https://github.com/schickling/dockerfiles) - Collection of lightweight and ready-to-use docker images
 - [eossf/infra-vultr](https://github.com/eossf/infra-vultr) - 
 - [TristanBrotherton/netcheck](https://github.com/TristanBrotherton/netcheck) - A shell script to check and log when your internet connection goes down.
 - [weaveworks/prom-aggregation-gateway](https://github.com/weaveworks/prom-aggregation-gateway) - An aggregating push gateway for Prometheus
@@ -11141,6 +11145,8 @@
 
 ## TypeScript 
 
+- [sqren/backport](https://github.com/sqren/backport) - A simple CLI tool that automates the process of backporting commits on a GitHub repo
+- [remorses/actions-cli](https://github.com/remorses/actions-cli) - Monitor your GitHub Actions in real time from the command line
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [balena-io/balena-mdns-publisher](https://github.com/balena-io/balena-mdns-publisher) - MDNS address publisher for balena services
 - [NatelEnergy/grafana-plotly-panel](https://github.com/NatelEnergy/grafana-plotly-panel) - Show plotly graph in grafana panel
@@ -11253,7 +11259,7 @@
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 - [samdenty/injectify](https://github.com/samdenty/injectify) - Perform advanced MiTM attacks on websites with ease 💉
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management on the desktop
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [areknawo/Rex](https://github.com/areknawo/Rex) - Your RegEx companion.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
@@ -11734,6 +11740,9 @@
 
 ## Vue 
 
+- [arbal/MQTT-Board](https://github.com/arbal/MQTT-Board) - Diagnostic-oriented MQTT client tool. Supports MQTT 5.0 and 3.1.X protocols, connections to multiple brokers, MQTT operations logs and multiple subscribe widgets with unique/history topic filtering mode. Saves configuration in browser's local cache.
+- [flespi-software/MQTT-Board](https://github.com/flespi-software/MQTT-Board) - Diagnostic-oriented MQTT client tool. Supports MQTT 5.0 and 3.1.X protocols, connections to multiple brokers, MQTT operations logs and multiple subscribe widgets with unique/history topic filtering mode. Saves configuration in browser's local cache.
+- [alerta/alerta-webui](https://github.com/alerta/alerta-webui) - Alerta Web UI 7.0
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [OpenDyslexic/opendyslexic-chrome](https://github.com/OpenDyslexic/opendyslexic-chrome) - Offical OpenDyslexic chrome extension
 - [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
