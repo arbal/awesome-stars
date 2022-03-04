@@ -955,7 +955,7 @@
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [nbdy/pwnpi](https://github.com/nbdy/pwnpi) - cpp rpi wardriving application
 - [jonnyhuck/Viewshed](https://github.com/jonnyhuck/Viewshed) - A GDAL-based Viewshed command line tool with python bindings
-- [xvitaly/zswap-cli](https://github.com/xvitaly/zswap-cli) - Command-line tool to control zswap options
+- [xvitaly/zswap-cli](https://github.com/xvitaly/zswap-cli) - Command-line tool to control zswap Linux kernel module options
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [QDeltaSoft/qradiopredict](https://github.com/QDeltaSoft/qradiopredict) - Radio propagation prediction and simulation tool for VHF-UHF
 - [nu-radio/RadioPropa](https://github.com/nu-radio/RadioPropa) - Simulate radio propagation in inhomogeneous by media by ray-tracing
@@ -1360,11 +1360,12 @@
 - [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) - Flutter App for PhotoPrism
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [CometTools/LunaSea](https://github.com/CometTools/LunaSea) - A self-hosted controller for mobile and macOS built using the Flutter framework.
+- [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - A self-hosted controller for mobile and macOS built using the Flutter framework.
 - [jogboms/flutter_offline](https://github.com/jogboms/flutter_offline) - ✈️ A tidy utility to handle offline/online connectivity like a Boss
 
 ## Dockerfile 
 
+- [brunoamaroalmeida/awesome-quickstart-containers](https://github.com/brunoamaroalmeida/awesome-quickstart-containers) - Awesome Docker Containers for QuickStart with some popular applications
 - [konstruktoid/AptCacherNG_Build](https://github.com/konstruktoid/AptCacherNG_Build) - Apt-Cacher NG
 - [brndnmtthws/nginx-echo-headers](https://github.com/brndnmtthws/nginx-echo-headers) - Have nginx return request headers to the client
 - [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux
@@ -1532,7 +1533,7 @@
 - [sdr-enthusiasts/docker-adsbexchange](https://github.com/sdr-enthusiasts/docker-adsbexchange) - Feeds ADS-B data into adsbexchange.com. Designed to work with mikenye/readsb-protobuf.
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [gramaziokohler/ros_docker](https://github.com/gramaziokohler/ros_docker) - Docker images for ROS master, bridge and nodes
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command.
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command. Now Supports v8.0!
 - [MojaX2/docker-ros-noetic](https://github.com/MojaX2/docker-ros-noetic) - 
 - [mglukhovsky/caddy2](https://github.com/mglukhovsky/caddy2) - Caddy 2 with Cloudflare modules
 - [nklmilojevic/caddy2-custom](https://github.com/nklmilojevic/caddy2-custom) - Caddy 2 with Cloudflare docker repo
@@ -1641,6 +1642,10 @@
 
 ## Go 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
+- [JustHumanz/Go-Simp](https://github.com/JustHumanz/Go-Simp) - A simple VTuber bot which pings you or your roles if any new Videos, Fanarts, or Livestreams and Upcoming streams of VTubers are posted!
+- [JustHumanz/Go-MultiTor](https://github.com/JustHumanz/Go-MultiTor) - Multiple tor circuit with golang
 - [kmikiy/go-icloud-private-relay](https://github.com/kmikiy/go-icloud-private-relay) - Detect iCloud Private Relay IP Addresses
 - [didi/nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
 - [appleboy/drone-scp](https://github.com/appleboy/drone-scp) - Copy files and artifacts via SSH using a binary, docker or Drone CI.
@@ -1673,7 +1678,6 @@
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [mike182uk/snpt](https://github.com/mike182uk/snpt) - A gist powered CLI snippet retriever
-- [mike182uk/snpt-alfred-workflow](https://github.com/mike182uk/snpt-alfred-workflow) - An Alfred workflow for Snpt
 - [dcb9/curl2httpie](https://github.com/dcb9/curl2httpie) - covert command arguments between cURL and HTTPie
 - [vultr/govultr](https://github.com/vultr/govultr) - Vultr Go API client
 - [trustwallet/blockatlas](https://github.com/trustwallet/blockatlas) - Clean and lightweight cross-chain transaction API
@@ -3809,6 +3813,8 @@
 
 ## JavaScript 
 
+- [petronny/gfwlist2pac](https://github.com/petronny/gfwlist2pac) - Automatically convert gfwlist to pac everyday
+- [adamvr/mqttfs](https://github.com/adamvr/mqttfs) - A node.js implementation of oojah's mqttfs.
 - [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
@@ -4708,7 +4714,7 @@
 - [transitive-bullshit/puppeteer-email](https://github.com/transitive-bullshit/puppeteer-email) - Email automation driven by headless chrome.
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-- [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [lucasbento/reminders-cli](https://github.com/lucasbento/reminders-cli) - Command-line interface to interact with the Reminders.app
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
@@ -4845,7 +4851,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5675,6 +5681,7 @@
 
 ## Makefile 
 
+- [mike182uk/alfred-snpt](https://github.com/mike182uk/alfred-snpt) - An Alfred workflow for snpt
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [arbal/docker-nicinfo](https://github.com/arbal/docker-nicinfo) - Query RDAP with nicinfo
 - [nicwaller/docker-nicinfo](https://github.com/nicwaller/docker-nicinfo) - Query RDAP with nicinfo
@@ -5875,6 +5882,8 @@
 
 ## Others 
 
+- [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of resources on automated load- and performance testing using k6 🗻
+- [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [MattXcz/Block-iCloud-Private-Relay](https://github.com/MattXcz/Block-iCloud-Private-Relay) - This is repository to block iCloud PrivateRelay on Adguard or Pihole networks
 - [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installled macOS shortcuts
 - [qiujie8092916/alfred_remote_IINA_Controller](https://github.com/qiujie8092916/alfred_remote_IINA_Controller) - ⌨️📲🕹alfred3 iina播放器远程控制器
@@ -6691,6 +6700,7 @@
 
 ## PHP 
 
+- [echothrust/echofish](https://github.com/echothrust/echofish) - Central syslog manager with whitelisting and ability to generate events from syslog entries
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 - [bisqwit/lvm2defrag](https://github.com/bisqwit/lvm2defrag) - 
@@ -6731,7 +6741,7 @@
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [nZEDb/nZEDb](https://github.com/nZEDb/nZEDb) - nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
-- [LibreTime/libretime](https://github.com/LibreTime/libretime) - LibreTime: Radio Broadcast & Automation Platform
+- [libretime/libretime](https://github.com/libretime/libretime) - LibreTime: Radio Broadcast & Automation Platform
 - [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) - A small, independent wrapper to get pretty versions strings
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -8129,7 +8139,7 @@
 - [andrewning/alfred-workflows-scientific](https://github.com/andrewning/alfred-workflows-scientific) - A collection of Alfred workflows targeting scientific applications
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.
 - [AndBobsYourUncle/hassio-addons](https://github.com/AndBobsYourUncle/hassio-addons) - 
-- [dmachard/dnstap-receiver](https://github.com/dmachard/dnstap-receiver) - Dnstap streams receiver in Python
+- [dmachard/python-dnstap-receiver](https://github.com/dmachard/python-dnstap-receiver) - Dnstap streams receiver in Python
 - [opensanctions/opensanctions](https://github.com/opensanctions/opensanctions) - An open database of international sanctions data, persons of interest and politically exposed persons
 - [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
 - [lspvic/jupyter_tensorboard](https://github.com/lspvic/jupyter_tensorboard) - Start Tensorboard in Jupyter Notebook
@@ -9571,7 +9581,7 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -11794,7 +11804,7 @@
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [kkeisuke/plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
-- [critter-yall/shortkeys](https://github.com/critter-yall/shortkeys) - A browser extension for custom keyboard shortcuts
+- [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
