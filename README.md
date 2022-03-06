@@ -1643,6 +1643,9 @@
 
 ## Go 
 
+- [AnchorFree/tsdb-remote-write](https://github.com/AnchorFree/tsdb-remote-write) - 
+- [ryotarai/prometheus-tsdb-dump](https://github.com/ryotarai/prometheus-tsdb-dump) - prometheus-tsdb-dump reads a Prometheus TSDB block and writes metrics
+- [aorfanos/vmalert-cli](https://github.com/aorfanos/vmalert-cli) - A simple CLI tool to interact with VictoriaMetrics vmalert
 - [linyows/go-retry](https://github.com/linyows/go-retry) - A retry command by golang on CLI.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -3819,6 +3822,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/fnv1a](https://github.com/sindresorhus/fnv1a) - FNV-1a non-cryptographic hash function
 - [feathersjs-ecosystem/feathers-hooks-common](https://github.com/feathersjs-ecosystem/feathers-hooks-common) - Useful hooks for use with FeathersJS services.
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [petronny/gfwlist2pac](https://github.com/petronny/gfwlist2pac) - Automatically convert gfwlist to pac everyday
@@ -5596,7 +5600,7 @@
 - [allisonmorgan/google_trends](https://github.com/allisonmorgan/google_trends) - Predicting Google Search Trends
 - [qztseng/google-trends-daily](https://github.com/qztseng/google-trends-daily) - Reconstruct daily trends data over extended period
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
-- [huseinzol05/Gather-Deployment](https://github.com/huseinzol05/Gather-Deployment) - Gathers scalable Tensorflow and Python infrastructure deployment, Husein Go-To for development, 100% Docker.
+- [huseinzol05/Gather-Deployment](https://github.com/huseinzol05/Gather-Deployment) - Gathers scalable Tensorflow, Python infrastructure deployment and practices, 100% Docker.
 - [ThatShelbs/Trend-Py-Sheets-Tab](https://github.com/ThatShelbs/Trend-Py-Sheets-Tab) - Google Trends + Python + Google Sheets API + Tableau Public = Full Automation
 - [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model. Accuracy 90%+
 - [guicalare/Hwmon-python](https://github.com/guicalare/Hwmon-python) - lm-sensor and psutil alternatives for python from scrach
@@ -7008,6 +7012,7 @@
 
 ## Python 
 
+- [eliminmax/ansi-hashcolor](https://github.com/eliminmax/ansi-hashcolor) - A (work-in-progress) implementation of the FLV-1a hash algorithm, used to pick a set of text colors for terminal output - the uses for this could be: setting the terminal prompt colors on a VM based on its hostname, color-code output of a command, and so on.
 - [bristot/rtsl](https://github.com/bristot/rtsl) - a theoretically sound real-time scheduling latency measurement tool
 - [JacobC1921w/PyChromeCastControl](https://github.com/JacobC1921w/PyChromeCastControl) - 
 - [meta/alfred-jq](https://github.com/meta/alfred-jq) - Convenient jq tool from alfred
