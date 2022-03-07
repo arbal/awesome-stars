@@ -886,6 +886,7 @@
 
 ## C++ 
 
+- [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
@@ -1643,6 +1644,9 @@
 
 ## Go 
 
+- [Catbuttes/grafana-alertctl](https://github.com/Catbuttes/grafana-alertctl) - Control your Grafana Alerts
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+- [penglongli/haproxy-keepalived](https://github.com/penglongli/haproxy-keepalived) - HAProxy & Keepalived for Docker and kubernetes
 - [AnchorFree/tsdb-remote-write](https://github.com/AnchorFree/tsdb-remote-write) - 
 - [ryotarai/prometheus-tsdb-dump](https://github.com/ryotarai/prometheus-tsdb-dump) - prometheus-tsdb-dump reads a Prometheus TSDB block and writes metrics
 - [aorfanos/vmalert-cli](https://github.com/aorfanos/vmalert-cli) - A simple CLI tool to interact with VictoriaMetrics vmalert
@@ -3822,6 +3826,7 @@
 
 ## JavaScript 
 
+- [digrich/bubblechart-panel](https://github.com/digrich/bubblechart-panel) - Bubble chart panel for grafana monitoring system.
 - [sindresorhus/fnv1a](https://github.com/sindresorhus/fnv1a) - FNV-1a non-cryptographic hash function
 - [feathersjs-ecosystem/feathers-hooks-common](https://github.com/feathersjs-ecosystem/feathers-hooks-common) - Useful hooks for use with FeathersJS services.
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
@@ -4862,7 +4867,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5893,6 +5898,7 @@
 
 ## Others 
 
+- [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of resources on automated load- and performance testing using k6 🗻
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [MattXcz/Block-iCloud-Private-Relay](https://github.com/MattXcz/Block-iCloud-Private-Relay) - This is repository to block iCloud PrivateRelay on Adguard or Pihole networks
@@ -7012,6 +7018,7 @@
 
 ## Python 
 
+- [limifly/ntpserver](https://github.com/limifly/ntpserver) - A Python based ntp server
 - [eliminmax/ansi-hashcolor](https://github.com/eliminmax/ansi-hashcolor) - A (work-in-progress) implementation of the FLV-1a hash algorithm, used to pick a set of text colors for terminal output - the uses for this could be: setting the terminal prompt colors on a VM based on its hostname, color-code output of a command, and so on.
 - [bristot/rtsl](https://github.com/bristot/rtsl) - a theoretically sound real-time scheduling latency measurement tool
 - [JacobC1921w/PyChromeCastControl](https://github.com/JacobC1921w/PyChromeCastControl) - 
@@ -9776,6 +9783,8 @@
 
 ## Shell 
 
+- [brutus/bash-slugify](https://github.com/brutus/bash-slugify) - Create slugs and rename files — in your shell.
+- [AlexxIT/hassio-addons](https://github.com/AlexxIT/hassio-addons) - Hass.io addons: RTSP2WebRTC and SSH Tunnel
 - [dborowiec10/monitoring_tools](https://github.com/dborowiec10/monitoring_tools) - 
 - [Jorman/Scripts](https://github.com/Jorman/Scripts) - Some script, forked and not to make me crazy!
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
