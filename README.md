@@ -1646,6 +1646,8 @@
 
 ## Go 
 
+- [grafana/mixin-metrics](https://github.com/grafana/mixin-metrics) - Extract prometheus metrics from dashboard JSON and rules YAML
+- [grafana/dashboard-spec](https://github.com/grafana/dashboard-spec) - 
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [jessfraz/s3server](https://github.com/jessfraz/s3server) - Server to index & view files in a s3 or Google Cloud Storage bucket.
@@ -3607,7 +3609,7 @@
 - [coinmetrics/haskell-tools](https://github.com/coinmetrics/haskell-tools) - Tools for exporting blockchain data to analytical databases
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - it has no access to your connection graph! Join our iOS and Android public beta 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -3833,6 +3835,7 @@
 
 ## JavaScript 
 
+- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
 - [hildjj/node-feedly](https://github.com/hildjj/node-feedly) - Node API for Feedly
 - [soufianesakhi/feedly-filtering-and-sorting](https://github.com/soufianesakhi/feedly-filtering-and-sorting) - Enhance the feedly website with advanced filtering and sorting capabilities
@@ -4211,7 +4214,6 @@
 - [sindresorhus/open-editor](https://github.com/sindresorhus/open-editor) - Open files in your editor at a specific line and column
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [HubSpot/humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane. #hubspot-open-source
 - [sindresorhus/pretty-ms-cli](https://github.com/sindresorhus/pretty-ms-cli) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
@@ -5493,6 +5495,7 @@
 
 ## Jsonnet 
 
+- [grafana/grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [jsonnet-libs/k8s](https://github.com/jsonnet-libs/k8s) - Code generator for Jsonnet Kubernetes libraries.
 - [adamwg/grafana-dashboards](https://github.com/adamwg/grafana-dashboards) - Grafana dashboard management demo for PromCon 2019
@@ -5782,7 +5785,6 @@
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
-- [whacked/setup](https://github.com/whacked/setup) - box building with ansible + nixops
 
 ## Nunjucks 
 
@@ -9003,7 +9005,7 @@
 - [weewx/weewx](https://github.com/weewx/weewx) - WeeWX code repository
 - [dmlc/gluon-cv](https://github.com/dmlc/gluon-cv) - Gluon CV Toolkit
 - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
-- [ccrisan/motioneye](https://github.com/ccrisan/motioneye) - A web frontend for the motion daemon.
+- [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) - A web frontend for the motion daemon.
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [ayeowch/traceroute](https://github.com/ayeowch/traceroute) - Multi-source traceroute with geolocation information.
 - [CollectiveIndustries/Zonvif-installer](https://github.com/CollectiveIndustries/Zonvif-installer) - Zoneminder Mysql database installer for deploying Onvif compatible devices from the same manufacture.
@@ -10921,6 +10923,7 @@
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
 - [BlameTheNetwork/NetPi](https://github.com/BlameTheNetwork/NetPi) - NetPi Network Analyzer based on Raspberry Pi b+/2 hardware
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
+- [whacked/setup](https://github.com/whacked/setup) - box building with ansible + nixops
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
 - [hiruna/wifi-txpower-unlocker](https://github.com/hiruna/wifi-txpower-unlocker) - 
@@ -11365,6 +11368,7 @@
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web browser that's built for scraping.
 - [iliazeus/vscode-ansi](https://github.com/iliazeus/vscode-ansi) - VS Code extension enabling ANSI color styling for text documents
 - [marvinhagemeister/kolorist](https://github.com/marvinhagemeister/kolorist) - A tiny utility to colorize stdin/stdout
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [vega/vega-render-service](https://github.com/vega/vega-render-service) - A service to render Vega visualizations
 - [eram/tensorflow-stack-ts](https://github.com/eram/tensorflow-stack-ts) - TensorFlow.js Full-Stack Starter Kit
 - [RandomFractals/vscode-vega-viewer](https://github.com/RandomFractals/vscode-vega-viewer) - VSCode extension for Interactive Preview of Vega & Vega-Lite maps 🗺️ & graphs  📈
@@ -11572,7 +11576,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source Airtable-like UI for your database and to build serverless cloud functions visually in the context of your data.⚡️✨
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
 - [AlexanderLevenskikh/network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
