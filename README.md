@@ -2115,7 +2115,7 @@
 - [elastic/apm-server](https://github.com/elastic/apm-server) - APM Server
 - [rapidloop/pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
-- [TalkingData/owl](https://github.com/TalkingData/owl) - distributed monitoring system
+- [TalkingData/owl](https://github.com/TalkingData/owl) - Distributed monitoring system
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [drgrib/alfred](https://github.com/drgrib/alfred) - A fast, simple way to make Alfred workflow script filters in Go
 - [yo000/rctl_exporter](https://github.com/yo000/rctl_exporter) - Prometheus metrics exporter for FreeBSD rctl/racct
@@ -2809,7 +2809,7 @@
 - [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [heistp/irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
@@ -4882,7 +4882,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5803,6 +5803,7 @@
 
 ## Objective-C 
 
+- [inverse-inc/sogo](https://github.com/inverse-inc/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission handling. It also makes use of documented standards (IMAP, CalDAV, CardDAV, etc.) and thereby provides native connectivity (without plugins) to many clients such as Microsoft Outlook, Apple iCal, the iPhone, Mozilla Lightning, and a plethora of mobile devices.
 - [nbonamy/EnergyBar](https://github.com/nbonamy/EnergyBar) - Supercharge your Mac's Touch Bar.
 - [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
 - [growl/growl](https://github.com/growl/growl) - 
@@ -6097,7 +6098,7 @@
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
 - [arbal/speed-cloudflare-cli](https://github.com/arbal/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [arbal/archive-imessages](https://github.com/arbal/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
-- [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - Info on working with Pacmax
+- [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - All things Pacmax
 - [eutialia/open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from Alfred or Raycast
 - [rclone/rclone-plugins-repo](https://github.com/rclone/rclone-plugins-repo) - This is a repository to list plugins available for rclone-webui-react
 - [arbal/hassio_config_fragments](https://github.com/arbal/hassio_config_fragments) - Useful bits of config for HomeAssistant
@@ -7006,6 +7007,7 @@
 ## PowerShell 
 
 - [SlothCroissant/caddy-cloudflaredns](https://github.com/SlothCroissant/caddy-cloudflaredns) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go. caddy-cloudflaredns adds Cloudflare LetsEncrypt support to the base image.
+- [DanielTorres1/lanscanner](https://github.com/DanielTorres1/lanscanner) - 
 - [ksurl/scripts-public](https://github.com/ksurl/scripts-public) - Various scripts
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
@@ -7199,7 +7201,6 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
 - [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System
-- [DanielTorres1/lanscanner](https://github.com/DanielTorres1/lanscanner) - 
 - [gistart/prometheus-push-client](https://github.com/gistart/prometheus-push-client) - Push Prometheus metrics to VictoriaMetrics or other exporters
 - [percona/pmm-server](https://github.com/percona/pmm-server) - PMM Server
 - [mza921/Plex-Auto-Collections](https://github.com/mza921/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
@@ -9410,7 +9411,7 @@
 - [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used in bash/fish as well.
 - [rhardih/pong](https://github.com/rhardih/pong) - Basic uptime monitoring system, with email alerts and/or push notifications
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
-- [blackducksoftware/ohloh-ui](https://github.com/blackducksoftware/ohloh-ui) - Web Application for the Ohloh Stack. Currently Rails 4.2.7 & Ruby 2.2.5
+- [blackducksoftware/ohloh-ui](https://github.com/blackducksoftware/ohloh-ui) - Web Application for the Ohloh Stack.
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [Sixeight/guard-notifier-blink1](https://github.com/Sixeight/guard-notifier-blink1) - blink(1) notifier for Guard.
 - [vincentchu/guard-flopbox](https://github.com/vincentchu/guard-flopbox) - A simple guard library for syncing local and remote directories via SFTP
@@ -9481,7 +9482,7 @@
 ## Rust 
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.
+- [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [doyoubi/undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -10328,7 +10329,7 @@
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [inthreedee/photoprism-transfer-album](https://github.com/inthreedee/photoprism-transfer-album) - Transfer a Google Photos album to a new Photoprism album
 - [eficode/wait-for](https://github.com/eficode/wait-for) - ./wait-for is a script to wait for another service to become available.
 - [cec/wait-for-endpoint](https://github.com/cec/wait-for-endpoint) - bash script waiting until a given endpoint returns 200 or until timeout threshold is reached
