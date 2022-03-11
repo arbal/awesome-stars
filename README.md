@@ -885,6 +885,7 @@
 
 ## C++ 
 
+- [iainchesworth/eagle-to-mqtt](https://github.com/iainchesworth/eagle-to-mqtt) - Listens for Rainforest Automation EAGLE-200 messages and forwards them to an MQTT broker.
 - [tensorflow/tflite-support](https://github.com/tensorflow/tflite-support) - TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -1646,6 +1647,12 @@
 
 ## Go 
 
+- [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
+- [tidwall/uhaha](https://github.com/tidwall/uhaha) - High Availability Raft Framework for Go
+- [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
+- [shyiko/dockry](https://github.com/shyiko/dockry) - Docker Registry V2 CLI (compatible with Docker Hub, GitLab Container Registry, etc; public or private)
+- [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
+- [arbal/sense-api](https://github.com/arbal/sense-api) - Sense Energy Monitor Go Api
 - [grafana/mixin-metrics](https://github.com/grafana/mixin-metrics) - Extract prometheus metrics from dashboard JSON and rules YAML
 - [grafana/dashboard-spec](https://github.com/grafana/dashboard-spec) - 
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
@@ -2165,7 +2172,7 @@
 - [kckecheng/grafana_cli](https://github.com/kckecheng/grafana_cli) - A CLI based utility to operate Grafana dashboards, folders, annotations, etc.
 - [pito-svk/grafana-simple-dashboard-generator](https://github.com/pito-svk/grafana-simple-dashboard-generator) - Simple opinionated dashboard generator cli for Grafana
 - [yakshaving-art/alertsnitch](https://github.com/yakshaving-art/alertsnitch) - Ingests Prometheus alerts and poops them into a MySQL database for offline analysis
-- [mr-karan/calert](https://github.com/mr-karan/calert) - Prometheus' Alertmanager - Google Chat Integration :bell:
+- [mr-karan/calert](https://github.com/mr-karan/calert) - Send alert notifications to Google Chat via Prometheus Alertmanager
 - [prymitive/kthxbye](https://github.com/prymitive/kthxbye) - Prometheus Alertmanager alert acknowledgement management daemon
 - [Spedoske/CloudflareScanner](https://github.com/Spedoske/CloudflareScanner) - 
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
@@ -3442,6 +3449,7 @@
 
 ## HTML 
 
+- [upriver/upriver.github.io](https://github.com/upriver/upriver.github.io) - Easily keep your GitHub forks synced with upstream.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
@@ -3835,6 +3843,10 @@
 
 ## JavaScript 
 
+- [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
+- [r3curs1v3-pr0xy/vajra](https://github.com/r3curs1v3-pr0xy/vajra) - Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
+- [timezoneio/timezoneio](https://github.com/timezoneio/timezoneio) - :clock8: :clock12: :clock2: Official repo of the app that helps you stay in sync with your globally distributed team
+- [bukinoshita/git-synced](https://github.com/bukinoshita/git-synced) - :wind_chime: Keep a fork up to date
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [olsh/Feedly-Notifier](https://github.com/olsh/Feedly-Notifier) - Google Chrome, Firefox, Opera and Microsoft Edge extension for reading news from RSS aggregator Feedly
 - [hildjj/node-feedly](https://github.com/hildjj/node-feedly) - Node API for Feedly
@@ -4621,7 +4633,7 @@
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [zhang-hz/zotero-autofetch](https://github.com/zhang-hz/zotero-autofetch) - Zotero plugin for automatic download of PDFs from Scihub and Google Scholar
 - [lintool/bigcows](https://github.com/lintool/bigcows) - Scrapes citation statistics from Google Scholar
-- [timwoelfle/Local-Citation-Network](https://github.com/timwoelfle/Local-Citation-Network) - This web app aims to help scientists with their literature review visualizing reference-metadata from Microsoft Academic, Crossref and OpenCitations in local citation networks.
+- [timwoelfle/Local-Citation-Network](https://github.com/timwoelfle/Local-Citation-Network) - This web app aims to help scientists with their literature review using metadata from OpenAlex (OA), Semantic Scholar (S2) and Crossref (CR) in local citation networks.
 - [yafp/ttth](https://github.com/yafp/ttth) - ttth (talk to the hand) is an electron based desktop app for online services like WhatsApp, Threema, Telegram, Twitter, Google and several others.
 - [roblabs/apple-maps-web-snapshot-cli](https://github.com/roblabs/apple-maps-web-snapshot-cli) - Create static maps 🗺 for Apple Maps using the Maps Web Snapshots announced at WWDC 2019.
 - [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Hue and/or deCONZ
@@ -5914,6 +5926,9 @@
 
 ## Others 
 
+- [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+- [repo-sync/repo-sync](https://github.com/repo-sync/repo-sync) - 🔄 Keep a pair of GitHub repos in sync
 - [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page
 - [hackerkid/bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - ✨ A curated list of awesome design principles
@@ -6248,7 +6263,7 @@
 - [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 - [bluszcz/awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.
 - [lensapp/lens-extensions](https://github.com/lensapp/lens-extensions) - List of Lens Extensions
-- [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - All of GitHub's finest.
+- [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - Top 12K of GitHub's finest.
 - [reiver/blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
 - [alphaSeclab/sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
 - [imbaniac/awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥
@@ -6738,6 +6753,8 @@
 
 ## PHP 
 
+- [rajkumardusad/IP-Tracer](https://github.com/rajkumardusad/IP-Tracer) - Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer.
+- [BadApple9/speedtest-x](https://github.com/BadApple9/speedtest-x) - Self-hosted speedtest, an  extended project of https://github.com/librespeed/speedtest
 - [VirtuBox/easyengine-dashboard](https://github.com/VirtuBox/easyengine-dashboard) - A clean bootstrap dashboard for EasyEngine backend
 - [echothrust/echofish](https://github.com/echothrust/echofish) - Central syslog manager with whitelisting and ability to generate events from syslog entries
 - [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
@@ -7040,6 +7057,22 @@
 
 ## Python 
 
+- [jaxBCD/Zeebsploit](https://github.com/jaxBCD/Zeebsploit) - web scanner - exploitation - information gathering
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
+- [MandConsultingGroup/Scylla](https://github.com/MandConsultingGroup/Scylla) - The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.
+- [Deadshot0x7/007-TheBond](https://github.com/Deadshot0x7/007-TheBond) - This Script will help you to gather information about your victim or friend.
+- [AzizKpln/Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - This tool gives information about the phone number that you entered.
+- [devanshbatham/FavFreak](https://github.com/devanshbatham/FavFreak) - Making Favicon.ico based Recon Great again !
+- [jaykali/hackerpro](https://github.com/jaykali/hackerpro) - All in One Hacking Tool for Linux & Android (Termux). Make your linux environment into a Hacking Machine. Hackers are welcome in our blog
+- [twelvesec/gasmask](https://github.com/twelvesec/gasmask) - Information gathering tool - OSINT
+- [jonluca/Anubis](https://github.com/jonluca/Anubis) - 🔓 Subdomain enumeration and information gathering tool
+- [s0md3v/ReconDog](https://github.com/s0md3v/ReconDog) - Reconnaissance Swiss Army Knife
+- [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
+- [orlyjamie/asnrecon](https://github.com/orlyjamie/asnrecon) - ASN reconnaissance script
+- [kennethreitz/ghsync](https://github.com/kennethreitz/ghsync) - Github Syncer. Clones or Pulls all GitHub repos (owned and watched).
+- [rainforestautomation/Eagle-Http-API](https://github.com/rainforestautomation/Eagle-Http-API) - Libraries for accessing Rainforest Automation's Eagle hardware
+- [harrykao/power-water-monitor](https://github.com/harrykao/power-water-monitor) - Post daily power and water use graphs to Slack.
+- [blaisejarrett/HA-MQTT-EaglePower](https://github.com/blaisejarrett/HA-MQTT-EaglePower) - Home Automation Docker MQTT Service for The Rainforest Automation Eagle200 smart power meter
 - [sandeshk06/Grafana_migrator](https://github.com/sandeshk06/Grafana_migrator) - Used for migrating Dashbaords and  Datasources form one Grafana Instance to another Grafana Instance
 - [tonywu7/feedly-link-aggregator](https://github.com/tonywu7/feedly-link-aggregator) - Scrapy project for collecting hyperlinks from RSS feeds using feedly's Streams API
 - [vrst37/mqtt_netdata_plugin](https://github.com/vrst37/mqtt_netdata_plugin) - MQTT netdata statsd based plugin
@@ -7230,7 +7263,6 @@
 - [RickyCook/ssh-forward-unix-socket](https://github.com/RickyCook/ssh-forward-unix-socket) - Forward a Unix socket over SSH
 - [mango-tree/zsh-recall](https://github.com/mango-tree/zsh-recall) - zsh plugin for history UI
 - [koying/mqtt_discoverystream_ha](https://github.com/koying/mqtt_discoverystream_ha) - Extension of HA mqtt_statestream integration with discovery config publishing
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ait-aecid/logdata-anomaly-miner](https://github.com/ait-aecid/logdata-anomaly-miner) - This tool parses log data and allows to define analysis pipelines for anomaly detection. It was designed to run the analysis with limited resources and lowest possible permissions to make it suitable for production server use.
 - [corpnewt/OCConfigCompare](https://github.com/corpnewt/OCConfigCompare) - Python script to compare two plists and list missing keys in either.
 - [MBRCTV/VultrFirewallDynamicDNS](https://github.com/MBRCTV/VultrFirewallDynamicDNS) - Dynamic IP Updater For Vultr Firewall API
@@ -9284,6 +9316,7 @@
 
 ## Ruby 
 
+- [intrigueio/intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover Your Attack Surface!
 - [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow) - Alfred Workflow for Google Drive
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 - [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
@@ -9631,7 +9664,7 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows to mirror external repositories to GitLab, GitHub and possible more.
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -9810,6 +9843,8 @@
 
 ## Shell 
 
+- [Cyber-Guy1/BlackDragon](https://github.com/Cyber-Guy1/BlackDragon) - An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
+- [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.
 - [klutchell/mediaserver](https://github.com/klutchell/mediaserver) - docker-based plex & usenet media server using custom subdomains with tls
 - [psharkey/docker](https://github.com/psharkey/docker) - Repository for automated https://hub.docker.com builds.
 - [lux4rd0/wifiscan](https://github.com/lux4rd0/wifiscan) - 
@@ -11331,6 +11366,7 @@
 - [idleberg/vscode-applescript](https://github.com/idleberg/vscode-applescript) - Language syntax and snippets for AppleScript
 - [ACE-IoT-Solutions/ace-svg-react](https://github.com/ACE-IoT-Solutions/ace-svg-react) - Grafana SVG Rendering Panel using the 7+ Plugin Framework
 - [standardnotes/syncing-server-js](https://github.com/standardnotes/syncing-server-js) - The Standard Notes server. For self-hosting, use https://github.com/standardnotes/standalone
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [supabase/storage-api](https://github.com/supabase/storage-api) - A S3 compatible object storage service that integrates with Postgres and Gotrue
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
