@@ -2513,7 +2513,7 @@
 - [RichardKnop/go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - A standalone, specification-compliant,  OAuth2 server written in Golang.
 - [convox/rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [remind101/empire](https://github.com/remind101/empire) - A PaaS built on top of Amazon EC2 Container Service (ECS)
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
@@ -3843,6 +3843,10 @@
 
 ## JavaScript 
 
+- [phuctm97/jxax](https://github.com/phuctm97/jxax) - 💻 JavaScript for Automation (JXA) Extensions Kit & CLI automate macOS setup, configuring preferences, personalization, etc.
+- [sindresorhus/is-jxa](https://github.com/sindresorhus/is-jxa) - Check if your code is running in a JXA environment
+- [RobTrew/prelude-jxa](https://github.com/RobTrew/prelude-jxa) - Generic functions for macOS and iOS scripting in Javascript – function names as in Hoogle
+- [15cm/Alfred-Workflow-JXA](https://github.com/15cm/Alfred-Workflow-JXA) - A library for Alfred Workflow written in JXA
 - [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
 - [r3curs1v3-pr0xy/vajra](https://github.com/r3curs1v3-pr0xy/vajra) - Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
 - [timezoneio/timezoneio](https://github.com/timezoneio/timezoneio) - :clock8: :clock12: :clock2: Official repo of the app that helps you stay in sync with your globally distributed team
@@ -4792,7 +4796,6 @@
 - [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
 - [fwextensions/QuicKey](https://github.com/fwextensions/QuicKey) - Jump between recent tabs in Chrome via keyboard shortcuts or a most recently used (MRU) menu.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
 - [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️
 - [arbal/brave-control](https://github.com/arbal/brave-control) - Control Brave Browser from the command line. List, close, deduplicate and bring focus to open tabs. Also includes Alfred workflow integration.
@@ -5646,6 +5649,7 @@
 
 ## Kotlin 
 
+- [Stvad/FuzzyDate](https://github.com/Stvad/FuzzyDate) - Alfred Workflow to parse a fuzzy date and print the formal date
 - [yoomoney/grafana-dashboard-dsl](https://github.com/yoomoney/grafana-dashboard-dsl) - DSL for generating Grafana dashboards
 - [pambrose/prometheus-proxy](https://github.com/pambrose/prometheus-proxy) - Prometheus Proxy
 - [jitsi/jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure
@@ -5912,6 +5916,7 @@
 
 ## Objective-C++ 
 
+- [codebytere/node-mac-permissions](https://github.com/codebytere/node-mac-permissions) - A native node module to manage system permissions on macOS.
 - [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.
 - [johnboiles/coremediaio-dal-minimal-example](https://github.com/johnboiles/coremediaio-dal-minimal-example) - Intended to be the most minimalistic example of a macOS CoreMediaIO DAL plugin.
 - [kmgrant/macterm](https://github.com/kmgrant/macterm) - Terminal emulator for macOS with 24-bit color, bitmap and vector graphics.
@@ -6853,6 +6858,7 @@
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities
 - [MarceauKa/shaark](https://github.com/MarceauKa/shaark) - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures.
 - [cdevroe/unmark](https://github.com/cdevroe/unmark) - An open source to do app for bookmarks.
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [spatie/geocoder](https://github.com/spatie/geocoder) - Geocode addresses to coordinates
 - [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
@@ -11381,7 +11387,7 @@
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 - [samdenty/injectify](https://github.com/samdenty/injectify) - Perform advanced MiTM attacks on websites with ease 💉
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management on the desktop
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [areknawo/Rex](https://github.com/areknawo/Rex) - Your RegEx companion.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
