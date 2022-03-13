@@ -885,6 +885,7 @@
 
 ## C++ 
 
+- [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [iainchesworth/eagle-to-mqtt](https://github.com/iainchesworth/eagle-to-mqtt) - Listens for Rainforest Automation EAGLE-200 messages and forwards them to an MQTT broker.
 - [tensorflow/tflite-support](https://github.com/tensorflow/tflite-support) - TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
@@ -3472,6 +3473,7 @@
 - [Porco-Rosso/Ubersicht-Netdata](https://github.com/Porco-Rosso/Ubersicht-Netdata) - Netdata widget for Übersicht.
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
 - [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) - Morpheus - Automating Ettercap TCP/IP (MITM-hijacking Tool)
+- [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
@@ -3843,6 +3845,7 @@
 
 ## JavaScript 
 
+- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [phuctm97/jxax](https://github.com/phuctm97/jxax) - 💻 JavaScript for Automation (JXA) Extensions Kit & CLI automate macOS setup, configuring preferences, personalization, etc.
 - [sindresorhus/is-jxa](https://github.com/sindresorhus/is-jxa) - Check if your code is running in a JXA environment
 - [RobTrew/prelude-jxa](https://github.com/RobTrew/prelude-jxa) - Generic functions for macOS and iOS scripting in Javascript – function names as in Hoogle
@@ -4667,6 +4670,7 @@
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
@@ -5658,7 +5662,7 @@
 - [dotStart/Beacon](https://github.com/dotStart/Beacon) - A simple UPnP Assistant that is capable of opening arbitrary ports.
 - [ingbyr/vdm](https://github.com/ingbyr/vdm) - GUI for command-line video downloader (youtube-dl annie)
 - [serebit/wraith-master](https://github.com/serebit/wraith-master) - A native Linux RGB control application for the AMD Wraith Prism
-- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source radio satellite tracker and pass predictor for Android, inspired by Gpredict
+- [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [ashutoshgngwr/noice](https://github.com/ashutoshgngwr/noice) - A native Android app to relax, improve focus and boost productivity with minimal background noise.
 - [afollestad/nock-nock](https://github.com/afollestad/nock-nock) - 🚪 Monitor and validate your websites to maintain maximum uptime.
@@ -6758,6 +6762,7 @@
 
 ## PHP 
 
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [rajkumardusad/IP-Tracer](https://github.com/rajkumardusad/IP-Tracer) - Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer.
 - [BadApple9/speedtest-x](https://github.com/BadApple9/speedtest-x) - Self-hosted speedtest, an  extended project of https://github.com/librespeed/speedtest
 - [VirtuBox/easyengine-dashboard](https://github.com/VirtuBox/easyengine-dashboard) - A clean bootstrap dashboard for EasyEngine backend
@@ -7063,6 +7068,10 @@
 
 ## Python 
 
+- [starsliao/Prometheus](https://github.com/starsliao/Prometheus) - Grafana Dashboards for Prometheus Exporter
+- [scrapinghub/spidermon](https://github.com/scrapinghub/spidermon) - Scrapy Extension for monitoring spiders execution.
+- [Jimut123/jimutmap](https://github.com/Jimut123/jimutmap) - API to get enormous amount of high resolution satellite images from apple / google maps quickly through multi-threading! create map your own map dataset. Bringing data to Humans.
+- [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape) - Home Assistant custom component for scraping (html, xml or json) multiple values (from a single HTTP request) with a separate sensor/attribute for each value. Support for (login) form-submit functionality.
 - [jaxBCD/Zeebsploit](https://github.com/jaxBCD/Zeebsploit) - web scanner - exploitation - information gathering
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
 - [MandConsultingGroup/Scylla](https://github.com/MandConsultingGroup/Scylla) - The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.
@@ -8009,7 +8018,7 @@
 - [facebookresearch/end-to-end-negotiator](https://github.com/facebookresearch/end-to-end-negotiator) - Deal or No Deal? End-to-End Learning for Negotiation Dialogues
 - [sackh/maps-cli](https://github.com/sackh/maps-cli) - A CLI for maps services from various providers.
 - [lqhl/wait-for-it](https://github.com/lqhl/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [Tishacy/SciDownl](https://github.com/Tishacy/SciDownl) - An unofficial api for downloading papers from SciHub.
+- [Tishacy/SciDownl](https://github.com/Tishacy/SciDownl) - An unofficial api for downloading papers from SciHub via DOI, PMID
 - [perrette/papers](https://github.com/perrette/papers) - Command-line tool to manage bibliography (pdfs + bibtex)
 - [sckott/habanero](https://github.com/sckott/habanero) - client for Crossref search API
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
@@ -9322,6 +9331,7 @@
 
 ## Ruby 
 
+- [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 - [intrigueio/intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover Your Attack Surface!
 - [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow) - Alfred Workflow for Google Drive
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
@@ -9680,7 +9690,6 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [openethereum/openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
@@ -10014,7 +10023,6 @@
 - [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) - Run a Tailscale agent/relay in a container
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home
-- [techno-tim/techno-tim.github.io](https://github.com/techno-tim/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos
 - [kvaps/kubefarm](https://github.com/kvaps/kubefarm) - Automated Kubernetes deployment and the PXE-bootable servers farm
 - [automorphism88/snapraid-btrfs](https://github.com/automorphism88/snapraid-btrfs) - Script for using snapraid with btrfs snapshots
 - [toboshii/home-cluster](https://github.com/toboshii/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform.
