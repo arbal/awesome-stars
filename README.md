@@ -196,6 +196,7 @@
 
 ## C 
 
+- [fxgst/writeable_root](https://github.com/fxgst/writeable_root) - Make the root directory writeable on macOS Big Sur.
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
 - [so61pi/examples](https://github.com/so61pi/examples) - 
 - [iqiyi/dpvs](https://github.com/iqiyi/dpvs) - DPVS is a high performance Layer-4 load balancer based on DPDK.
@@ -1651,6 +1652,10 @@
 
 ## Go 
 
+- [hakluke/hakcheckurl](https://github.com/hakluke/hakcheckurl) - Takes a list of URLs and returns their HTTP response codes
+- [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [hakluke/tldextract](https://github.com/hakluke/tldextract) - Extract root domain, subdomain name, and tld from a url, using the Public Suffix List.
+- [hakluke/hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
 - [lnquy/cron](https://github.com/lnquy/cron) - CLI tool (hcron) and Go library (cron) to convert CRON expression into human readable description.
 - [crispgm/alfred-cron](https://github.com/crispgm/alfred-cron) - Convert Cron expression to human readable text
 - [JesusTinoco/go-tccutil](https://github.com/JesusTinoco/go-tccutil) - Alternative tccutil tool for OS X
@@ -2833,6 +2838,7 @@
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [heistp/irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
+- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
 - [gnormal/gnorm](https://github.com/gnormal/gnorm) - A database-first code generator for any language
 - [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces
@@ -4967,7 +4973,7 @@
 - [amitkaps/visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
-- [h2non/rocky](https://github.com/h2non/rocky) - Full-featured, middleware-oriented, programmatic HTTP and WebSocket proxy for node.js
+- [h2non/rocky](https://github.com/h2non/rocky) - Full-featured, middleware-oriented, programmatic HTTP and WebSocket proxy for node.js (deprecated)
 - [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius) - Implement GraphQL servers and gateways with Fastify
 - [ReneTode/My-AppDaemon](https://github.com/ReneTode/My-AppDaemon) - My apps, my helpfiles, all about AppDaemon for Home Assistant
 - [tjntomas/HADashboard-widgets](https://github.com/tjntomas/HADashboard-widgets) - Widgets for HADashboard / Appdaemon
@@ -5799,7 +5805,7 @@
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [eworm-de/routeros-scripts](https://github.com/eworm-de/routeros-scripts) - a collection of scripts for MikroTik RouterOS
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [ccrisan/motioneyeos](https://github.com/ccrisan/motioneyeos) - A Video Surveillance OS For Single-board Computers
+- [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [CyanogenMod/android_build](https://github.com/CyanogenMod/android_build) - Android Build System (cyanogenmod)
 - [CyanogenMod/android_device_samsung_maguro](https://github.com/CyanogenMod/android_device_samsung_maguro) - 
 
@@ -5965,6 +5971,7 @@
 
 ## Others 
 
+- [arbal/alfred-pipe](https://github.com/arbal/alfred-pipe) - Alfred workflow to pass selected text or clipboard through arbitrary shell one-liners
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [nepaul/awesome-web-components](https://github.com/nepaul/awesome-web-components) - A curated list of awesome web components.
 - [uhub/awesome-lua](https://github.com/uhub/awesome-lua) - A curated list of awesome Lua frameworks, libraries and software.
@@ -7000,6 +7007,7 @@
 
 ## Perl 
 
+- [jbittel/httpry](https://github.com/jbittel/httpry) - HTTP logging and information retrieval tool
 - [vergoh/vnstat-docker](https://github.com/vergoh/vnstat-docker) - vnStat in a container with image output via http
 - [LINBIT/linstor-proxmox](https://github.com/LINBIT/linstor-proxmox) - Integration pluging bridging LINSTOR to Proxmox VE
 - [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
@@ -9923,6 +9931,7 @@
 
 ## Shell 
 
+- [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 - [Migz93/lidarr-download-automation](https://github.com/Migz93/lidarr-download-automation) - Bash script to download artists in Lidarr using smloadr or d-Fi
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
@@ -11705,7 +11714,7 @@
 - [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable application development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source Airtable-like UI for your database and to build serverless cloud functions visually in the context of your data.⚡️✨
 - [jshor/datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
@@ -11786,7 +11795,6 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [gnawhleinad/setup-cloudflared-ssh](https://github.com/gnawhleinad/setup-cloudflared-ssh) - setup ~/.ssh using cloudflared access service token
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
-- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
