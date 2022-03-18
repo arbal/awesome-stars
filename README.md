@@ -1375,6 +1375,8 @@
 
 ## Dockerfile 
 
+- [arbal/traefik-localplugins](https://github.com/arbal/traefik-localplugins) - A demo of local plugins in Traefik
+- [pcfens/traefik-localplugins](https://github.com/pcfens/traefik-localplugins) - A demo of local plugins in Traefik
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [brunoamaroalmeida/awesome-quickstart-containers](https://github.com/brunoamaroalmeida/awesome-quickstart-containers) - Awesome Docker Containers for QuickStart with some popular applications
 - [konstruktoid/AptCacherNG_Build](https://github.com/konstruktoid/AptCacherNG_Build) - Apt-Cacher NG
@@ -1652,6 +1654,8 @@
 
 ## Go 
 
+- [nstapelbroek/gatekeeper](https://github.com/nstapelbroek/gatekeeper) - A poor man's access control for cloud- security groups and firewalls. Enable deployments by temporary whitelisting addresses!
+- [eastlondoner/tailscale-ssl-proxy](https://github.com/eastlondoner/tailscale-ssl-proxy) - :lock: Simple zero-config SSL reverse proxy for Tailscale users (LetsEncrypt certs)
 - [hakluke/hakcheckurl](https://github.com/hakluke/hakcheckurl) - Takes a list of URLs and returns their HTTP response codes
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [hakluke/tldextract](https://github.com/hakluke/tldextract) - Extract root domain, subdomain name, and tld from a url, using the Public Suffix List.
@@ -2825,7 +2829,7 @@
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket[s]-FLV/TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify. 直播
+- [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming library/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket[S]-FLV/TS, H264/H265/AAC, relay, cluster, record, HTTP API/Notify. 直播
 - [jorgelbg/cloudflare-access-grafana](https://github.com/jorgelbg/cloudflare-access-grafana) - Small proxy for automatically log in users from Cloudflare Access into Grafana
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rancher/remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
@@ -3975,7 +3979,6 @@
 - [pouyakary/Orchestra](https://github.com/pouyakary/Orchestra) - One language to be RegExp's Successor. Visually readable and rich, technically safe and extended, naturally scalable, advanced, and optimized
 - [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
 - [reminiflux/reminiflux](https://github.com/reminiflux/reminiflux) - Alternative web frontend for miniflux. http://reminiflux.github.io
-- [youurayy/gfms](https://github.com/youurayy/gfms) - Github Flavored Markdown Server (GFMS)
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [smollweide/node-mock-server](https://github.com/smollweide/node-mock-server) - File based Node REST API mock server
 - [Dexus/pem](https://github.com/Dexus/pem) - Create private keys and certificates with node.js
@@ -4438,7 +4441,7 @@
 - [Alamantus/GooglePhotosExportOrganizer](https://github.com/Alamantus/GooglePhotosExportOrganizer) - A tool for merging and organizing exported Google Photos backups. Built with React and Electron!
 - [timescale/examples](https://github.com/timescale/examples) - Collection of example applications and tools to help you get familiar with TimescaleDB
 - [stevelacey/wifi-cli-macos](https://github.com/stevelacey/wifi-cli-macos) - 📡️ Wi-Fi CLI MacOS is a command line utility for managing network connections on MacOS
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pubkey/broadcast-channel](https://github.com/pubkey/broadcast-channel) - :satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels
 - [ljmerza/travel-time-card](https://github.com/ljmerza/travel-time-card) - show travel times for you travel time sensors
 - [nepeee/limeSNA](https://github.com/nepeee/limeSNA) - Scalar Network Analyser for the LimeSDR mini
@@ -4831,7 +4834,7 @@
 - [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
 - [fwextensions/QuicKey](https://github.com/fwextensions/QuicKey) - Jump between recent tabs in Chrome via keyboard shortcuts or a most recently used (MRU) menu.
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows) - Save time, Improve life.🚀  ☕️
 - [arbal/brave-control](https://github.com/arbal/brave-control) - Control Brave Browser from the command line. List, close, deduplicate and bring focus to open tabs. Also includes Alfred workflow integration.
 - [veniversum/git-visualizer](https://github.com/veniversum/git-visualizer) - 👁‍🗨:octocat:Visualizes directory structure of GitHub repos
@@ -5971,6 +5974,8 @@
 
 ## Others 
 
+- [robertgorbul/mydevserver](https://github.com/robertgorbul/mydevserver) - Docker Swarm
+- [arbal/gatekeeper](https://github.com/arbal/gatekeeper) - A poor man's access control for cloud- security groups and firewalls. Enable deployments by temporary whitelisting addresses!
 - [arbal/alfred-pipe](https://github.com/arbal/alfred-pipe) - Alfred workflow to pass selected text or clipboard through arbitrary shell one-liners
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [nepaul/awesome-web-components](https://github.com/nepaul/awesome-web-components) - A curated list of awesome web components.
@@ -6053,7 +6058,6 @@
 - [arbal/uri-handler](https://github.com/arbal/uri-handler) - A uri protocol router for macOS that allows protocols to be handled by simple scripts.
 - [arbal/haproxy-geoip-iprange](https://github.com/arbal/haproxy-geoip-iprange) - IP Ranges for Haproxy
 - [arbal/geoip2-haproxy-ranges](https://github.com/arbal/geoip2-haproxy-ranges) - 
-- [arbal/tailscale-cloudflare-dnssync](https://github.com/arbal/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [arbal/notes](https://github.com/arbal/notes) - Collection of random notes, mostly transcribed from paper and mostly old. I take no responsibility for content!
 - [CNG/notes](https://github.com/CNG/notes) - Collection of random notes, mostly transcribed from paper and mostly old. I take no responsibility for content!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -7288,6 +7292,7 @@
 - [jone/github-watchlist](https://github.com/jone/github-watchlist) - Manage your watched GitHub repositories per script
 - [ryanvolz/radioconda](https://github.com/ryanvolz/radioconda) - Software radio distribution and installer for conda
 - [fooqri/uri-handler](https://github.com/fooqri/uri-handler) - A uri protocol router for macOS that allows protocols to be handled by simple scripts.
+- [arbal/tailscale-cloudflare-dnssync](https://github.com/arbal/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [semi-technologies/semantic-search-through-wikipedia-with-weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate) - Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) - Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [davemlz/eemont](https://github.com/davemlz/eemont) - A python package that extends Google Earth Engine.
@@ -9597,6 +9602,7 @@
 
 ## Rust 
 
+- [glotcode/code-runner](https://github.com/glotcode/code-runner) - 
 - [darakian/ddh](https://github.com/darakian/ddh) - A fast duplicate file finder
 - [Alonely0/Voila](https://github.com/Alonely0/Voila) - Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way.
 - [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch) - Serverless full-text search with Cloudflare Workers, WebAssembly, and Roaring Bitmaps
@@ -9931,6 +9937,8 @@
 
 ## Shell 
 
+- [jjlin/vaultwarden-backup](https://github.com/jjlin/vaultwarden-backup) - A simple setup for backing up Vaultwarden (formerly bitwarden_rs) data/config to cloud storage
+- [jmqm/vaultwarden_backup](https://github.com/jmqm/vaultwarden_backup) - Backs up vaultwarden files and directories automatically.
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 - [Migz93/lidarr-download-automation](https://github.com/Migz93/lidarr-download-automation) - Bash script to download artists in Lidarr using smloadr or d-Fi
 - [RandomNinjaAtk/docker-amd](https://github.com/RandomNinjaAtk/docker-amd) - AMD is a Lidarr companion script to automatically download music for Lidarr
@@ -10640,7 +10648,7 @@
 - [ahuacate/pve-medialab](https://github.com/ahuacate/pve-medialab) - LXC Media Container Builds - Qotom & NAS Build
 - [ReSearchITEng/kubeadm-playbook](https://github.com/ReSearchITEng/kubeadm-playbook) - Fully fledged (HA) Kubernetes Cluster using official kubeadm, ansible and helm. Tested on RHEL/CentOS/Ubuntu with support of http_proxy, dashboard installed, ingress controller, heapster - using official helm charts
 - [bbugyi200/cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 700+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [jumanjihouse/docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan) - Qualys sslabs-scan utility in a tiny docker image
 - [bvis/docker-prometheus-swarm](https://github.com/bvis/docker-prometheus-swarm) - Sample prometheus that can be used as a sample to get Swarm cluster metrics
@@ -10922,7 +10930,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [silveiralexf/monitoring-stack](https://github.com/silveiralexf/monitoring-stack) - Monitoring stack containing ELK + Grafana + Prometheus (with multiple exporters) and authentication through a reverse proxy (Caddy) -- still in progress
 - [mrworf/pi-gen](https://github.com/mrworf/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
-- [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices
+- [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices at scale
 - [Grokzen/docker-redis-cluster](https://github.com/Grokzen/docker-redis-cluster) - Dockerfile for Redis Cluster (redis 3.0+)
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [jonashackt/gitlab-ci-stack](https://github.com/jonashackt/gitlab-ci-stack) - Full CI pipeline project based on Gitlab & Gitlab CI running Docker, completely automated setup by Vagrant & Ansible, providing Let´s Encrypt certificates for private Servers, multiple Gitlab-Runners and the Gitlab Container Registry, incl. GitLab Pages
@@ -11780,6 +11788,7 @@
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [onelang/OneLang](https://github.com/onelang/OneLang) - 
 - [keen/explorer](https://github.com/keen/explorer) - Data Explorer by Keen - point-and-click interface for analyzing and visualizing event data.
+- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [streamich/unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
@@ -12001,7 +12010,6 @@
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [kkeisuke/plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
