@@ -1092,6 +1092,7 @@
 - [xmrig/xmrig-cuda](https://github.com/xmrig/xmrig-cuda) - NVIDIA CUDA plugin for XMRig miner
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [cnr-isti-vclab/PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
@@ -1441,7 +1442,6 @@
 - [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
 - [mkorenkov/docker-perkeep](https://github.com/mkorenkov/docker-perkeep) - prebuilt docker image of perkeep (aka camlistore)
 - [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
-- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap)
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
@@ -1654,6 +1654,10 @@
 
 ## Go 
 
+- [dvincenz/postman-mockserver](https://github.com/dvincenz/postman-mockserver) - The aim of this piece of software is to be able to use the postman UI to configure mock endpoints and run your own Postman Mock Server (PMS) to be independent to the postman servers. E.g., for using the mocks in pipelines or for local (offline) development or simply to have a faster, stable and idempotent mock server.
+- [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
+- [phoenix-mstu/janus-mqtt-proxy](https://github.com/phoenix-mstu/janus-mqtt-proxy) - MITM proxy which can filter and modify MQTT packets
+- [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
 - [nstapelbroek/gatekeeper](https://github.com/nstapelbroek/gatekeeper) - A poor man's access control for cloud- security groups and firewalls. Enable deployments by temporary whitelisting addresses!
 - [eastlondoner/tailscale-ssl-proxy](https://github.com/eastlondoner/tailscale-ssl-proxy) - :lock: Simple zero-config SSL reverse proxy for Tailscale users (LetsEncrypt certs)
 - [hakluke/hakcheckurl](https://github.com/hakluke/hakcheckurl) - Takes a list of URLs and returns their HTTP response codes
@@ -3474,6 +3478,8 @@
 
 ## HTML 
 
+- [drone/drone-plugin-index](https://github.com/drone/drone-plugin-index) - Public index of Drone plugins
+- [louislam/uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki) - 
 - [upriver/upriver.github.io](https://github.com/upriver/upriver.github.io) - Easily keep your GitHub forks synced with upstream.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -3639,6 +3645,7 @@
 
 ## Haskell 
 
+- [yesodweb/yesod-cookbook](https://github.com/yesodweb/yesod-cookbook) - Cookbook documentation
 - [coinmetrics/haskell-tools](https://github.com/coinmetrics/haskell-tools) - Tools for exporting blockchain data to analytical databases
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
@@ -4178,7 +4185,7 @@
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others! Please follow micromatch's author: https://github.com/jonschlinkert
 - [micromatch/anymatch](https://github.com/micromatch/anymatch) - :bangbang: Matches strings against configurable strings, globs, regular expressions, and/or functions
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 - [remotestorage/armadietto](https://github.com/remotestorage/armadietto) - RS server based on node.js
 - [sockethub/sockethub](https://github.com/sockethub/sockethub) - A multi-protocol gateway for the Web using ActivityStream messages.
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
@@ -5559,6 +5566,7 @@
 - [adamwg/grafana-dashboards](https://github.com/adamwg/grafana-dashboards) - Grafana dashboard management demo for PromCon 2019
 - [grafana/tns](https://github.com/grafana/tns) - Observability Demo App
 - [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
+- [ggear/asystem](https://github.com/ggear/asystem) - 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -5974,6 +5982,7 @@
 
 ## Others 
 
+- [arbal/janus-mqtt-proxy](https://github.com/arbal/janus-mqtt-proxy) - MITM proxy which can filter and modify MQTT packets
 - [robertgorbul/mydevserver](https://github.com/robertgorbul/mydevserver) - Docker Swarm
 - [arbal/gatekeeper](https://github.com/arbal/gatekeeper) - A poor man's access control for cloud- security groups and firewalls. Enable deployments by temporary whitelisting addresses!
 - [arbal/alfred-pipe](https://github.com/arbal/alfred-pipe) - Alfred workflow to pass selected text or clipboard through arbitrary shell one-liners
@@ -6170,6 +6179,7 @@
 - [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
+- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [arbal/speed-cloudflare-cli](https://github.com/arbal/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [arbal/archive-imessages](https://github.com/arbal/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - All things Pacmax
@@ -7121,6 +7131,7 @@
 
 ## Python 
 
+- [meichthys/uptime_kuma](https://github.com/meichthys/uptime_kuma) - uptime_kuma HACS
 - [sagost/Video_UAV_Tracker-3D](https://github.com/sagost/Video_UAV_Tracker-3D) - Replay a video in sync with a gps track displayed on the map.
 - [nielstenboom/recurring-content-detector](https://github.com/nielstenboom/recurring-content-detector) - Unsupervised detection of opening / closing credits, recaps, and previews in video files 🎥🍿🎬
 - [desbma/r128gain](https://github.com/desbma/r128gain) - Fast audio loudness scanner & tagger (ReplayGain v2 / R128)
@@ -8017,7 +8028,6 @@
 - [yassineaboukir/sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 - [x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher) - Phishing catcher using Certstream
 - [eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
-- [ggear/asystem](https://github.com/ggear/asystem) - 
 - [bellrichm/WeeWX-MQTTSubscribe](https://github.com/bellrichm/WeeWX-MQTTSubscribe) - A WeeWX service and driver that receives data from MQTT.
 - [poblabs/weewx-belchertown](https://github.com/poblabs/weewx-belchertown) - A clean and modern weewx skin with real time streaming updates, forecast data and interactive charts. View it in action at BelchertownWeather.com
 - [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
@@ -8186,7 +8196,6 @@
 - [nzblnk/nzb-monkey](https://github.com/nzblnk/nzb-monkey) - Reference implementation of how to handle a NZBLNK-URI.
 - [harperreed/google-home-notifier-python](https://github.com/harperreed/google-home-notifier-python) - A google home notification webservice
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [POSTECH-CVLab/PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
 - [DocSystem/tccutil](https://github.com/DocSystem/tccutil) - A macOS Permissions manager
