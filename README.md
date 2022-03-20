@@ -1376,6 +1376,7 @@
 
 ## Dockerfile 
 
+- [soumyadp/docker-flow](https://github.com/soumyadp/docker-flow) - Complete stack to deploy Docker Flow Monitor and achieve auto-scaling on Docker
 - [arbal/traefik-localplugins](https://github.com/arbal/traefik-localplugins) - A demo of local plugins in Traefik
 - [pcfens/traefik-localplugins](https://github.com/pcfens/traefik-localplugins) - A demo of local plugins in Traefik
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
@@ -1654,6 +1655,9 @@
 
 ## Go 
 
+- [MontFerret/cli](https://github.com/MontFerret/cli) - Ferret CLI
+- [wspl/creeper](https://github.com/wspl/creeper) - :paw_prints: Creeper - The Next Generation Crawler Framework (Go)
+- [hu17889/go_spider](https://github.com/hu17889/go_spider) - [爬虫框架 (golang)] An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.
 - [dvincenz/postman-mockserver](https://github.com/dvincenz/postman-mockserver) - The aim of this piece of software is to be able to use the postman UI to configure mock endpoints and run your own Postman Mock Server (PMS) to be independent to the postman servers. E.g., for using the mocks in pipelines or for local (offline) development or simply to have a faster, stable and idempotent mock server.
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [phoenix-mstu/janus-mqtt-proxy](https://github.com/phoenix-mstu/janus-mqtt-proxy) - MITM proxy which can filter and modify MQTT packets
@@ -7131,6 +7135,7 @@
 
 ## Python 
 
+- [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [meichthys/uptime_kuma](https://github.com/meichthys/uptime_kuma) - uptime_kuma HACS
 - [sagost/Video_UAV_Tracker-3D](https://github.com/sagost/Video_UAV_Tracker-3D) - Replay a video in sync with a gps track displayed on the map.
 - [nielstenboom/recurring-content-detector](https://github.com/nielstenboom/recurring-content-detector) - Unsupervised detection of opening / closing credits, recaps, and previews in video files 🎥🍿🎬
@@ -11755,7 +11760,7 @@
 - [dhleong/babbling](https://github.com/dhleong/babbling) - Cast Streaming service videos to Chromecast
 - [CouchBuddy/couch-buddy](https://github.com/CouchBuddy/couch-buddy) - A Media Center with Cast support that belongs to this millennium
 - [pedromsilvapt/unicast](https://github.com/pedromsilvapt/unicast) - A node server that serves as a middleware for casting videos and other media to chromecast, and controlling the playthrough
-- [DevAndromeda/youtube-sr](https://github.com/DevAndromeda/youtube-sr) - Simple package for Node & Deno to make YouTube search easily
+- [DevAndromeda/youtube-sr](https://github.com/DevAndromeda/youtube-sr) - Simple library for Node & Deno to make YouTube search easily
 - [poulainv/tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [bespoken/bst](https://github.com/bespoken/bst) - :wrench: Bespoken Tools - Tools for making voice apps faster and better
