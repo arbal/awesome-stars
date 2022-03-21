@@ -196,6 +196,7 @@
 
 ## C 
 
+- [slact/nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
 - [fxgst/writeable_root](https://github.com/fxgst/writeable_root) - Make the root directory writeable on macOS Big Sur.
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
 - [so61pi/examples](https://github.com/so61pi/examples) - 
@@ -1392,15 +1393,15 @@
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
 - [evait-security/docker-multitor](https://github.com/evait-security/docker-multitor) - 
 - [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized nitefood/asn ASN Lookup Tool and Traceroute Server
-- [ricardbejarano/haproxy_exporter](https://github.com/ricardbejarano/haproxy_exporter) - 🧯 Built-from-source container image of Prometheus' HAProxy exporter
+- [ricardbejarano/haproxy_exporter](https://github.com/ricardbejarano/haproxy_exporter) - 🔥 Built-from-source container image of haproxy_exporter
 - [kurmanovd/tailscale-derper](https://github.com/kurmanovd/tailscale-derper) - DERP for Tailscale in Docker
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [jnsgruk/flypi](https://github.com/jnsgruk/flypi) - A collection of tools for tracking planes/helicopters/UFOs/whatever with ADS-B. Packaged in OCI-compliant containers and orchestrated with docker-compose.
 - [arbal/flent-docker](https://github.com/arbal/flent-docker) - Dockerized flent app for RRUL Network test
 - [cdeex/flent-docker](https://github.com/cdeex/flent-docker) - Dockerized flent app for RRUL Network test
 - [haproxytech/haproxy-docker-alpine](https://github.com/haproxytech/haproxy-docker-alpine) - HAProxy CE Docker Alpine image
-- [ricardbejarano/haproxy](https://github.com/ricardbejarano/haproxy) - 🏎  Built-from-source container image of the HAProxy load balancer
-- [ricardbejarano/snmp_exporter](https://github.com/ricardbejarano/snmp_exporter) - 🧯 Built-from-source container image of Prometheus' SNMP exporter
+- [ricardbejarano/haproxy](https://github.com/ricardbejarano/haproxy) - 🏎 Built-from-source container image of HAProxy
+- [ricardbejarano/snmp_exporter](https://github.com/ricardbejarano/snmp_exporter) - 🔥 Built-from-source container image of snmp_exporter
 - [kriation/docker-ethminer](https://github.com/kriation/docker-ethminer) - A docker container with a CUDA enabled build of ethminer
 - [netdisco/netdisco-docker](https://github.com/netdisco/netdisco-docker) - Docker images for App::Netdisco
 - [arbal/docker-multitor](https://github.com/arbal/docker-multitor) - 
@@ -1655,6 +1656,8 @@
 
 ## Go 
 
+- [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
+- [isobit/ws-tcp-relay](https://github.com/isobit/ws-tcp-relay) - A simple relay between WebSocket clients and TCP servers
 - [MontFerret/cli](https://github.com/MontFerret/cli) - Ferret CLI
 - [wspl/creeper](https://github.com/wspl/creeper) - :paw_prints: Creeper - The Next Generation Crawler Framework (Go)
 - [hu17889/go_spider](https://github.com/hu17889/go_spider) - [爬虫框架 (golang)] An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.
@@ -3881,6 +3884,7 @@
 
 ## JavaScript 
 
+- [breejs/bree](https://github.com/breejs/bree) - :traffic_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v12.11.0+, uses worker threads to spawn sandboxed processes, and supports async/await, retries, throttling, concurrency, and cancelable promises (graceful shutdown).  Simple, fast, and lightweight.  Made for @ForwardEmail and @ladjs.
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [larryv/applescripts](https://github.com/larryv/applescripts) - Little utilities written in AppleScript and JavaScript for Automation (JXA)
@@ -9699,7 +9703,7 @@
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
-- [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Automate and relate multiple processes.
+- [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Small-scale process orchestration
 - [kejadlen/pirate-weather.alfredworkflow](https://github.com/kejadlen/pirate-weather.alfredworkflow) - A Pirate Weather workflow for Alfred
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators
@@ -10650,7 +10654,7 @@
 - [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
 - [alex3305/home-assistant-addons](https://github.com/alex3305/home-assistant-addons) - Alex's Home Assistant Add-ons
 - [rpranshu/EternalView](https://github.com/rpranshu/EternalView) - EternalView is an all in one basic information gathering and vulnerability assessment tool
-- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation and geolocation lookup tool / Traceroute server
+- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Traceroute server
 - [dcmartin/hassio-addons](https://github.com/dcmartin/hassio-addons) - Home-Assistant add-ons
 - [danielewood/plexargod](https://github.com/danielewood/plexargod) - Plex Argo Daemon - A systemd script to update the Plex API to use the current cloudflared tunnel address for remote access
 - [importpw/path](https://github.com/importpw/path) - Path string manipulation functions for shell scripts
@@ -11384,6 +11388,7 @@
 
 ## TypeScript 
 
+- [shepherdjerred/servers](https://github.com/shepherdjerred/servers) - Configuration for my servers
 - [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion)
 - [xiaoyang-sde/reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -11404,7 +11409,7 @@
 - [httptoolkit/mockttp](https://github.com/httptoolkit/mockttp) - Powerful friendly HTTP mock server & proxy
 - [yesoreyeram/grafana-infinity-datasource](https://github.com/yesoreyeram/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [mtanda/grafana-google-calendar-datasource](https://github.com/mtanda/grafana-google-calendar-datasource) - 
-- [ospfranco/sol](https://github.com/ospfranco/sol) - A macOS global command palette. Raycast/Spotlight alternative
+- [ospfranco/sol](https://github.com/ospfranco/sol) - A macOS launcher/command palette
 - [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
 - [caroso1222/node-reminders](https://github.com/caroso1222/node-reminders) - 🐝A NodeJS and TypeScript wrapper for macOS Reminders
 - [zce/caz](https://github.com/zce/caz) - A simple yet powerful template-based Scaffolding tools.
