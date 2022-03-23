@@ -678,7 +678,7 @@
 - [gentutu/zenmon](https://github.com/gentutu/zenmon) - Ryzen CPU monitoring tool
 - [openvswitch/ovs](https://github.com/openvswitch/ovs) - Open vSwitch
 - [lnls-dig/openMMC](https://github.com/lnls-dig/openMMC) - Open source firmware for MMC controllers
-- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPG-HTTP streamer
+- [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
 - [troglobit/smcroute](https://github.com/troglobit/smcroute) - Static multicast routing for UNIX
 - [Ettercap/ettercap](https://github.com/Ettercap/ettercap) - Ettercap Project
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
@@ -890,6 +890,7 @@
 
 ## C++ 
 
+- [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [iainchesworth/eagle-to-mqtt](https://github.com/iainchesworth/eagle-to-mqtt) - Listens for Rainforest Automation EAGLE-200 messages and forwards them to an MQTT broker.
 - [tensorflow/tflite-support](https://github.com/tensorflow/tflite-support) - TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
@@ -1658,6 +1659,7 @@
 
 ## Go 
 
+- [thomasjpfan/docker-scaler](https://github.com/thomasjpfan/docker-scaler) - Microservice providing a REST API that scales services in Docker Swarm.
 - [pgaskin/easy-novnc](https://github.com/pgaskin/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
 - [tsuru/planb](https://github.com/tsuru/planb) - a distributed HTTP and websocket proxy inspired by Hipache
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
@@ -2109,7 +2111,7 @@
 - [paha/liquidctl-exporter](https://github.com/paha/liquidctl-exporter) - liquidctl Prometheus exporter
 - [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
 - [justinfx/olric-nats-plugin](https://github.com/justinfx/olric-nats-plugin) - A service discovery plugin for Olric distributed cache, using nats.io
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed cache and in-memory data structure store. It can be used both as an embedded Go library and as a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory data structure store. It can be used both as an embedded Go library and as a language-independent service.
 - [femiwiki/caddy-mwcache](https://github.com/femiwiki/caddy-mwcache) - :wrench: Caddy anonymous cache plugin for MediaWiki
 - [aablinov/caddy-geoip](https://github.com/aablinov/caddy-geoip) - Caddy plugin to resolve user GeoIP data
 - [greenpau/caddy-trace](https://github.com/greenpau/caddy-trace) - Request Debugging Middleware Plugin for Caddy v2
@@ -2630,7 +2632,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
-- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @labstack, @gin-gonic, @zalando, @nginx and @apache
+- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @labstack, @gin-gonic, @zalando, @nginx and @apache
 - [acouvreur/traefik-ondemand-service](https://github.com/acouvreur/traefik-ondemand-service) - Traefik ondemand service for the traefik ondemand plugin
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [gophertuts/reminders-cli](https://github.com/gophertuts/reminders-cli) - Reminders CLI app in Go
@@ -3135,6 +3137,7 @@
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [vrothberg/vgrep](https://github.com/vrothberg/vgrep) - vgrep - a user-friendly pager for grep
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
 - [syncfuture/keepa](https://github.com/syncfuture/keepa) - 
 - [JoshuaMart/PwnedPasswordsChecker](https://github.com/JoshuaMart/PwnedPasswordsChecker) - Search (offline) if your password (NTLM or SHA1 format) has been leaked (HIBP passwords list v8)
 - [dhogborg/rtl-gopow](https://github.com/dhogborg/rtl-gopow) - Render tables from rtl_power to a nice heat map
@@ -4506,7 +4509,6 @@
 - [ahvlima/rcloneMon](https://github.com/ahvlima/rcloneMon) - Web based remote monitor for rclone jobs
 - [blgm/jfq](https://github.com/blgm/jfq) - JSONata on the command line
 - [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
-- [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [TulvL/cloudflare-ip-tester](https://github.com/TulvL/cloudflare-ip-tester) - Cloudflare IP Batch Test Tool including HTTP respond time, region detection and download speed test
 - [feross/hostile](https://github.com/feross/hostile) - Simple, programmatic `/etc/hosts` manipulation (in node.js)
 - [txthinking/blackwhite](https://github.com/txthinking/blackwhite) - Domain, CIDR, IP black/white list, PAC generator
@@ -4722,7 +4724,6 @@
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [manuelbieh/geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
-- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -5791,6 +5792,7 @@
 
 ## Makefile 
 
+- [Clever/csvlint](https://github.com/Clever/csvlint) - library and command line tool that validates a CSV file
 - [xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
 - [mike182uk/alfred-snpt](https://github.com/mike182uk/alfred-snpt) - An Alfred workflow for snpt
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
@@ -5994,6 +5996,7 @@
 
 ## Others 
 
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [arbal/janus-mqtt-proxy](https://github.com/arbal/janus-mqtt-proxy) - MITM proxy which can filter and modify MQTT packets
 - [robertgorbul/mydevserver](https://github.com/robertgorbul/mydevserver) - Docker Swarm
 - [arbal/gatekeeper](https://github.com/arbal/gatekeeper) - A poor man's access control for cloud- security groups and firewalls. Enable deployments by temporary whitelisting addresses!
@@ -7225,7 +7228,7 @@
 - [ossobv/planb](https://github.com/ossobv/planb) - PlanB - automating remote backups and snapshots with zfs/rsync
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
-- [sodadata/soda-sql](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
+- [sodadata/soda-core](https://github.com/sodadata/soda-core) - Data profiling, testing, and monitoring for SQL accessible data.
 - [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2020, WikiTeam has preserved more than 250,000 wikis.
 - [emraher/workflow](https://github.com/emraher/workflow) - Scripts, codes, extensions, macros, etc. that I use on MacOS
 - [kevin-funderburg/alfred-search-keyboard-maestro-vars](https://github.com/kevin-funderburg/alfred-search-keyboard-maestro-vars) - Search all Keyboard Maestro variables and clipboards to view or edit their values.
@@ -7808,6 +7811,7 @@
 - [underley/annotate-influxdb](https://github.com/underley/annotate-influxdb) - Write annotations (ie for Grafana) into InfluxDB
 - [devopsmakers/python-grafannotate](https://github.com/devopsmakers/python-grafannotate) - A CLI tool to add annotations to Grafana
 - [TomMladenov/pisdr-cyberdeck](https://github.com/TomMladenov/pisdr-cyberdeck) - 
+- [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [catalyst/smokeping-mtr-alert](https://github.com/catalyst/smokeping-mtr-alert) - Run MTR automatically when SmokePing triggers an alert
 - [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
@@ -8968,7 +8972,6 @@
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
 - [jpmens/mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
@@ -9625,6 +9628,7 @@
 
 ## Rust 
 
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [glotcode/code-runner](https://github.com/glotcode/code-runner) - 
 - [darakian/ddh](https://github.com/darakian/ddh) - A fast duplicate file finder
 - [Alonely0/Voila](https://github.com/Alonely0/Voila) - Voila is a domain-specific language launched through CLI tool for operating with files and directories in massive amounts in a fast & reliable way.
@@ -9925,6 +9929,7 @@
 - [vapid/vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [edersonbrilhante/vilicus](https://github.com/edersonbrilhante/vilicus) - Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
 - [racerxdl/sat4noobs](https://github.com/racerxdl/sat4noobs) - Satellite 4 Noobs - Powered by He4rt Devs
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mbolam/DSWS_OpenRefine](https://github.com/mbolam/DSWS_OpenRefine) - Cleaning and Linking Data with OpenRefine
@@ -11437,7 +11442,7 @@
 - [meowtec/Imagine](https://github.com/meowtec/Imagine) - 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [arbal/remote-vscode](https://github.com/arbal/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
-- [redhat-developer/vscode-promql](https://github.com/redhat-developer/vscode-promql) - This is supposed to become a PromQL extension for vs code.
+- [prometheus-community/vscode-promql](https://github.com/prometheus-community/vscode-promql) - This is supposed to become a PromQL extension for vs code.
 - [sanity-io/groq-js](https://github.com/sanity-io/groq-js) - JavaScript implementation of GROQ, the query language for JSON
 - [memoryhole/jjo](https://github.com/memoryhole/jjo) - a small utility to create JSON objects, written for Node.js
 - [WengerK/vscode-highlight-bad-chars](https://github.com/WengerK/vscode-highlight-bad-chars) - Extension to highlight bad characters such as No-break space ( ) and the Greek question mark (;) in your source files.
@@ -11572,7 +11577,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [EricAndrechek/nest-cam-rtsp](https://github.com/EricAndrechek/nest-cam-rtsp) - 
 - [littledivy/voicecontroljs](https://github.com/littledivy/voicecontroljs) - Voice-driven desktop automation. :rocket:
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X: Elegant Cross-platform MQTT 5.0 Desktop Client
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [any-json/any-json](https://github.com/any-json/any-json) - Convert (almost) anything to JSON
 - [ruedap/alfred-bootstrap-icons-workflow](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - 🎩 Bootstrap Icons workflow for Alfred
