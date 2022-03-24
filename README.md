@@ -134,6 +134,7 @@
 
 ## AppleScript 
 
+- [mgax/applescript-json](https://github.com/mgax/applescript-json) - AppleScript JSON encoder
 - [essandess/etv-comskip](https://github.com/essandess/etv-comskip) - Commercial Marking and Skipping for EyeTV and iTunes Exports
 - [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts) - My collection of AppleScripts I've developed or acquired over the years.
 - [superawesome/Force-Paste](https://github.com/superawesome/Force-Paste) - Paste text even when not allowed (password dialogs etc) in macOS
@@ -196,6 +197,7 @@
 
 ## C 
 
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie - Open Source
 - [slact/nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
 - [fxgst/writeable_root](https://github.com/fxgst/writeable_root) - Make the root directory writeable on macOS Big Sur.
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
@@ -890,6 +892,7 @@
 
 ## C++ 
 
+- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [iainchesworth/eagle-to-mqtt](https://github.com/iainchesworth/eagle-to-mqtt) - Listens for Rainforest Automation EAGLE-200 messages and forwards them to an MQTT broker.
@@ -1659,6 +1662,7 @@
 
 ## Go 
 
+- [nats-io/nats-top](https://github.com/nats-io/nats-top) - A top-like tool for monitoring NATS servers.
 - [thomasjpfan/docker-scaler](https://github.com/thomasjpfan/docker-scaler) - Microservice providing a REST API that scales services in Docker Swarm.
 - [pgaskin/easy-novnc](https://github.com/pgaskin/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
 - [tsuru/planb](https://github.com/tsuru/planb) - a distributed HTTP and websocket proxy inspired by Hipache
@@ -1859,7 +1863,6 @@
 - [influxdata/inch](https://github.com/influxdata/inch) - An InfluxDB benchmarking tool.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp video archival manager for Niconico, Bilibili, and Youtube
 - [mgoltzsche/ctnr](https://github.com/mgoltzsche/ctnr) - rootless runc-based container engine - deprecated in favour of podman
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
@@ -2197,7 +2200,7 @@
 - [arso8/gphotos-cdp](https://github.com/arso8/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [HuwSy/gphotos-cdp](https://github.com/HuwSy/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [totoval/mindav](https://github.com/totoval/mindav) - A self-hosted file backup server which bridges WebDAV protocol with @Minio written in @Totoval. Webdav ❤️ Minio
-- [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [dennis-tra/pcp](https://github.com/dennis-tra/pcp) - 📦 Command line peer-to-peer data transfer tool based on libp2p.
 - [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
@@ -2341,7 +2344,7 @@
 - [adejoux/grafanaclient](https://github.com/adejoux/grafanaclient) - simple API to manage Grafana 2.0 DataSources and Dashboards in Go
 - [grafana/metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
-- [netsage-project/gdg](https://github.com/netsage-project/gdg) - Grafana Dashboard Manager
+- [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dashboard Manager
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [mrparkers/terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider for Keycloak
@@ -3137,7 +3140,7 @@
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [vrothberg/vgrep](https://github.com/vrothberg/vgrep) - vgrep - a user-friendly pager for grep
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, covering API testing, load testing and digital experience monitoring (DEM).
 - [syncfuture/keepa](https://github.com/syncfuture/keepa) - 
 - [JoshuaMart/PwnedPasswordsChecker](https://github.com/JoshuaMart/PwnedPasswordsChecker) - Search (offline) if your password (NTLM or SHA1 format) has been leaked (HIBP passwords list v8)
 - [dhogborg/rtl-gopow](https://github.com/dhogborg/rtl-gopow) - Render tables from rtl_power to a nice heat map
@@ -3511,6 +3514,7 @@
 - [acgeospatial/awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
 - [proabiral/inception](https://github.com/proabiral/inception) - A highly configurable Framework for easy automated web scanning
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [nevali/Baird](https://github.com/nevali/Baird) - Project Baird specifications
 - [snyk/actions](https://github.com/snyk/actions) - A set of GitHub actions for checking your projects for vulnerabilities
@@ -3891,6 +3895,9 @@
 
 ## JavaScript 
 
+- [balenalabs/balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
+- [LLK/scratch-www](https://github.com/LLK/scratch-www) - Standalone web client for Scratch
+- [LLK/scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [kartik468/grafana-generate-pdf-nodejs](https://github.com/kartik468/grafana-generate-pdf-nodejs) - Generate pdf for grafana dashboards using nodejs and puppeteer
 - [breejs/bree](https://github.com/breejs/bree) - :traffic_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v12.11.0+, uses worker threads to spawn sandboxed processes, and supports async/await, retries, throttling, concurrency, and cancelable promises (graceful shutdown).  Simple, fast, and lightweight.  Made for @ForwardEmail and @ladjs.
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
@@ -5996,6 +6003,7 @@
 
 ## Others 
 
+- [Drauku/docker-swarm-cookbook](https://github.com/Drauku/docker-swarm-cookbook) - A large collection of recipes for a complete, self-hosted Docker Swarm stack including Traefik v2 and SSO/Auth
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [arbal/janus-mqtt-proxy](https://github.com/arbal/janus-mqtt-proxy) - MITM proxy which can filter and modify MQTT packets
 - [robertgorbul/mydevserver](https://github.com/robertgorbul/mydevserver) - Docker Swarm
@@ -9628,6 +9636,8 @@
 
 ## Rust 
 
+- [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs) - A native implementation of ØMQ in Rust
+- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [glotcode/code-runner](https://github.com/glotcode/code-runner) - 
 - [darakian/ddh](https://github.com/darakian/ddh) - A fast duplicate file finder
@@ -9709,7 +9719,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [flock-lab/flock](https://github.com/flock-lab/flock) - Flock: A Practical Serverless Streaming Query Engine
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Small-scale process orchestration
@@ -9825,7 +9835,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - Heads up Display for every day life
-- [signalapp/libsignal-client](https://github.com/signalapp/libsignal-client) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [flxo/rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
 - [greymd/teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
@@ -9965,6 +9975,9 @@
 
 ## Shell 
 
+- [kozlovic/nats_mqtt_demo](https://github.com/kozlovic/nats_mqtt_demo) - NATS MQTT Demo
+- [jayatvars/balena-chromium-kiosk](https://github.com/jayatvars/balena-chromium-kiosk) - BalenaOS/BalenaCloud based Kiosk using Chromium on a RaspberryPi
+- [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 - [jjlin/vaultwarden-backup](https://github.com/jjlin/vaultwarden-backup) - A simple setup for backing up Vaultwarden (formerly bitwarden_rs) data/config to cloud storage
 - [jmqm/vaultwarden_backup](https://github.com/jmqm/vaultwarden_backup) - Backs up vaultwarden files and directories automatically.
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
@@ -12020,7 +12033,7 @@
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
