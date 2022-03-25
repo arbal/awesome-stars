@@ -197,6 +197,7 @@
 
 ## C 
 
+- [fcambus/telize](https://github.com/fcambus/telize) - High performance JSON IP and GeoIP REST API (IP Geolocation)
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie - Open Source
 - [slact/nchan](https://github.com/slact/nchan) - Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
 - [fxgst/writeable_root](https://github.com/fxgst/writeable_root) - Make the root directory writeable on macOS Big Sur.
@@ -779,7 +780,7 @@
 - [alexreich/RulesEngineEditor](https://github.com/alexreich/RulesEngineEditor) - Editor for Microsoft RulesEngine - Blazor UI library intended for integration in Web or Desktop
 - [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
-- [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
+- [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [cryptoprofitswitcher/CryptoProfitSwitcher](https://github.com/cryptoprofitswitcher/CryptoProfitSwitcher) - Extensible profit switcher for crypto coins and algorithms
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
@@ -1662,6 +1663,8 @@
 
 ## Go 
 
+- [kpfaulkner/gologmine](https://github.com/kpfaulkner/gologmine) - Go implementation of LogMine
+- [apilayer/freegeoip](https://github.com/apilayer/freegeoip) - IP geolocation web server
 - [nats-io/nats-top](https://github.com/nats-io/nats-top) - A top-like tool for monitoring NATS servers.
 - [thomasjpfan/docker-scaler](https://github.com/thomasjpfan/docker-scaler) - Microservice providing a REST API that scales services in Docker Swarm.
 - [pgaskin/easy-novnc](https://github.com/pgaskin/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
@@ -1940,7 +1943,7 @@
 - [nishanths/lyft](https://github.com/nishanths/lyft) - Create and manage Lyft rides from the command line
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
 - [mewil/tproxy](https://github.com/mewil/tproxy) - Container-based HTTPS proxy for Tailscale
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS is a cloud native distributed file system and object store.
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS(formerly ChubaoFS) is a cloud native distributed file system and object store.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [FilWisher/go-ansi-diff](https://github.com/FilWisher/go-ansi-diff) - a literal translation of https://github.com/mafintosh/ansi-diff-stream to go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -2935,7 +2938,7 @@
 - [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) - This tool shows the result of crt.sh
 - [crtsh/ct_monitor](https://github.com/crtsh/ct_monitor) - Certificate Transparency log monitor
-- [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
+- [vmware-archive/kubewatch](https://github.com/vmware-archive/kubewatch) - Watch k8s events and trigger Handlers
 - [vernemq/vmq-operator](https://github.com/vernemq/vmq-operator) - VerneMQ Operator creates/configures/manages VerneMQ clusters atop Kubernetes
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
@@ -3140,7 +3143,7 @@
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [vrothberg/vgrep](https://github.com/vrothberg/vgrep) - vgrep - a user-friendly pager for grep
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, covering API testing, load testing and digital experience monitoring (DEM).
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是简单易用、功能强大、数据精准的一站式 API 测试解决方案，覆盖接口测试、性能测试、数字体验监测等。
 - [syncfuture/keepa](https://github.com/syncfuture/keepa) - 
 - [JoshuaMart/PwnedPasswordsChecker](https://github.com/JoshuaMart/PwnedPasswordsChecker) - Search (offline) if your password (NTLM or SHA1 format) has been leaked (HIBP passwords list v8)
 - [dhogborg/rtl-gopow](https://github.com/dhogborg/rtl-gopow) - Render tables from rtl_power to a nice heat map
@@ -3189,7 +3192,6 @@
 - [TheNewNormal/corectl](https://github.com/TheNewNormal/corectl) - CoreOS over macOS made very simple
 - [m-lab/ndt-server](https://github.com/m-lab/ndt-server) - docker native ndt5 and ndt7 server with prometheus integration
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
-- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -3473,6 +3475,7 @@
 - [ffddorf/k3os-on-proxmox](https://github.com/ffddorf/k3os-on-proxmox) - Terraform provisioner for our Work Adventure server
 - [captn3m0/nebula](https://github.com/captn3m0/nebula) - Source Code for the Home Server setup.
 - [juanyque/proxmox-k0s](https://github.com/juanyque/proxmox-k0s) - 
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [mojaloop/documentation](https://github.com/mojaloop/documentation) - Repo that contains documentation for the Mojaloop project.
 - [kingsoftgames/certbot-lambda](https://github.com/kingsoftgames/certbot-lambda) - Running Certbot on AWS Lambda.
 - [vultr/terraform-vultr-condor](https://github.com/vultr/terraform-vultr-condor) - Kubernetes Deployment Tool for Vultr
@@ -3699,7 +3702,7 @@
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [apiman/apiman](https://github.com/apiman/apiman) - API Management
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-- [EXXETA/correomqtt](https://github.com/EXXETA/correomqtt) - A modern graphical MQTT client using the HiveMQ client library.
+- [EXXETA/correomqtt](https://github.com/EXXETA/correomqtt) - A modern graphical MQTT client using the HiveMQ client library. MQTT is a messaging protocol widely used in the IoT world. CorreoMQTT provides a UI to send and receive messages. It is able to handle multiple connections at the same time.
 - [EXXETA/correomqtt-plugins](https://github.com/EXXETA/correomqtt-plugins) - Plugins developed by Exxeta for CorreoMQTT.
 - [hivemq/hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) - HiveMQ MQTT Client is an MQTT 5.0 and MQTT 3.1.1 compatible and feature-rich high-performance Java client library with different API flavours and backpressure support
 - [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more
@@ -3895,6 +3898,7 @@
 
 ## JavaScript 
 
+- [stagas/maptail](https://github.com/stagas/maptail) - maptail is a realtime map view of GeoIP data
 - [balenalabs/balena-cam](https://github.com/balenalabs/balena-cam) - Network Camera with Raspberry Pi and WebRTC. Tutorial:
 - [LLK/scratch-www](https://github.com/LLK/scratch-www) - Standalone web client for Scratch
 - [LLK/scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
@@ -6003,6 +6007,7 @@
 
 ## Others 
 
+- [webhooksite/scripts](https://github.com/webhooksite/scripts) - Repository of example Webhook.site scripts
 - [Drauku/docker-swarm-cookbook](https://github.com/Drauku/docker-swarm-cookbook) - A large collection of recipes for a complete, self-hosted Docker Swarm stack including Traefik v2 and SSO/Auth
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [arbal/janus-mqtt-proxy](https://github.com/arbal/janus-mqtt-proxy) - MITM proxy which can filter and modify MQTT packets
@@ -7155,6 +7160,9 @@
 
 ## Python 
 
+- [DavideRossi/upback](https://github.com/DavideRossi/upback) - A two way synchronization utility
+- [arbal/logmine](https://github.com/arbal/logmine) - A log pattern analyzer CLI
+- [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [meichthys/uptime_kuma](https://github.com/meichthys/uptime_kuma) - uptime_kuma HACS
 - [sagost/Video_UAV_Tracker-3D](https://github.com/sagost/Video_UAV_Tracker-3D) - Replay a video in sync with a gps track displayed on the map.
@@ -7209,7 +7217,6 @@
 - [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
 - [ngine-io/chaotic](https://github.com/ngine-io/chaotic) - Chaos for Clouds
 - [ngine-io/scalr](https://github.com/ngine-io/scalr) - Autoscaling for Clouds
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform
@@ -9636,6 +9643,8 @@
 
 ## Rust 
 
+- [regexident/rust-seal](https://github.com/regexident/rust-seal) - Rust implementation of Needleman-Wunsch & Smith-Waterman sequence alignment
+- [lilymara-onesignal/logmine-rs](https://github.com/lilymara-onesignal/logmine-rs) - 
 - [zeromq/zmq.rs](https://github.com/zeromq/zmq.rs) - A native implementation of ØMQ in Rust
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -9812,7 +9821,7 @@
 - [femiagbabiaka/shodan-rust](https://github.com/femiagbabiaka/shodan-rust) - rusty shodan
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [aahancoc/tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [thecoshman/http](https://github.com/thecoshman/http) - Host These Things Please - a basic http server for hosting a folder fast and simply
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -9975,6 +9984,7 @@
 
 ## Shell 
 
+- [adnanh/webhook-contrib](https://github.com/adnanh/webhook-contrib) - Repository for community contributed tools, files and helpers for http://github.com/adnanh/webhook
 - [kozlovic/nats_mqtt_demo](https://github.com/kozlovic/nats_mqtt_demo) - NATS MQTT Demo
 - [jayatvars/balena-chromium-kiosk](https://github.com/jayatvars/balena-chromium-kiosk) - BalenaOS/BalenaCloud based Kiosk using Chromium on a RaspberryPi
 - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
@@ -11931,6 +11941,7 @@
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
+- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [evandcoleman/node-appletv](https://github.com/evandcoleman/node-appletv) - A node module for interacting with an Apple TV (4th-generation or later) over the Media Remote Protocol.
 - [openzim/mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem
