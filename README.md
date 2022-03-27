@@ -1378,7 +1378,7 @@
 - [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) - Flutter App for PhotoPrism
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - A self-hosted controller for mobile and macOS built using the Flutter framework.
+- [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
 - [jogboms/flutter_offline](https://github.com/jogboms/flutter_offline) - ✈️ A tidy utility to handle offline/online connectivity like a Boss
 
 ## Dockerfile 
@@ -1664,6 +1664,8 @@
 
 ## Go 
 
+- [jderusse/http-broadcast](https://github.com/jderusse/http-broadcast) - A scalable and fault resilient HTTP Broadcaster
+- [zellyn/kooky](https://github.com/zellyn/kooky) - Go code to read cookies from browser cookie stores.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [kpfaulkner/gologmine](https://github.com/kpfaulkner/gologmine) - Go implementation of LogMine
@@ -1863,13 +1865,13 @@
 - [danopstech/speedtest_exporter](https://github.com/danopstech/speedtest_exporter) - 🏎️   Prometheus exporter that runs speedtest and exposes results
 - [iansinnott/alfred-maestro](https://github.com/iansinnott/alfred-maestro) - An Alfred workflow to execute Keyboard Maestro macros.
 - [vwxyzjn/portwarden](https://github.com/vwxyzjn/portwarden) - Create Encrypted Backups of Your Bitwarden Vault with Attachments
-- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network.
 - [bzz/scholar-alert-digest](https://github.com/bzz/scholar-alert-digest) - Aggregate unread emails from Google Scholar alerts
 - [TekWizely/run](https://github.com/TekWizely/run) - Easily manage and invoke small scripts and wrappers
 - [influxdata/inch](https://github.com/influxdata/inch) - An InfluxDB benchmarking tool.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp video archival manager for Niconico, Bilibili, and Youtube
 - [mgoltzsche/ctnr](https://github.com/mgoltzsche/ctnr) - rootless runc-based container engine - deprecated in favour of podman
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
@@ -2075,7 +2077,7 @@
 - [utahta/go-cronowriter](https://github.com/utahta/go-cronowriter) - Time based rotating file writer
 - [rigado/ble](https://github.com/rigado/ble) - Bluetooth Low Energy for Linux / macOS
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
-- [ricardbejarano/dnsmasq_exporter](https://github.com/ricardbejarano/dnsmasq_exporter) - 🔬 Prometheus exporter for Dnsmasq
+- [ricardbejarano/dnsmasq_exporter](https://github.com/ricardbejarano/dnsmasq_exporter) - 🔥 Prometheus exporter for Dnsmasq
 - [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter) - dnsmasq exporter for Prometheus
 - [ncabatoff/sensor-exporter](https://github.com/ncabatoff/sensor-exporter) - Prometheus exporter for sensor data like temperature and fan speed
 - [andmarios/sensor_exporter](https://github.com/andmarios/sensor_exporter) - A simple sensor_exporter for prometheus. Currently supporting coretemp on linux, hddtemp daemon, NUT's upsd.
@@ -3608,7 +3610,7 @@
 - [cagov/covid19](https://github.com/cagov/covid19) - This is the official COVID19 response website for the state of California.
 - [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website) - The Best Motherfucking Website
 - [virtualmin/virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
-- [authentic-theme/authentic-theme](https://github.com/authentic-theme/authentic-theme) - Official theme for the best server management panel of the 21st Century
+- [webmin/authentic-theme](https://github.com/webmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
 - [leggett/simplify](https://github.com/leggett/simplify) - Issue tracker for Simplify Gmail, a browser extension to simplify Gmail's interface
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
@@ -3901,6 +3903,9 @@
 
 ## JavaScript 
 
+- [jmespath/jmespath.js](https://github.com/jmespath/jmespath.js) - Javascript implementation of JMESPath, a query language for JSON
+- [oliverlorenz/http2mqtt](https://github.com/oliverlorenz/http2mqtt) - Bridges http requests to mqtt
+- [vsimonaitis/http2mqtt](https://github.com/vsimonaitis/http2mqtt) - HTTP to MQTT bridge
 - [dekelev/feathers-kong](https://github.com/dekelev/feathers-kong) - A Feathers service for Kong API Gateway admin API
 - [Kikobeats/top-user-agents](https://github.com/Kikobeats/top-user-agents) - A list of most common User Agent used on Internet.
 - [stagas/maptail](https://github.com/stagas/maptail) - maptail is a realtime map view of GeoIP data
@@ -7169,6 +7174,9 @@
 
 ## Python 
 
+- [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
+- [jceloria/docker-http2mqtt](https://github.com/jceloria/docker-http2mqtt) - 
+- [thejeffreystone/usps2mqtt](https://github.com/thejeffreystone/usps2mqtt) - A simple way to integrate USPS Informed Delivery to Home Assistant
 - [ReconInfoSec/web-traffic-generator](https://github.com/ReconInfoSec/web-traffic-generator) - A quick and dirty HTTP/S "organic" traffic generator.
 - [Beam-Connectivity/grafana-dashboard-manager](https://github.com/Beam-Connectivity/grafana-dashboard-manager) - Import and export Grafana dashboards for backup and dynamic provisioning
 - [DavideRossi/upback](https://github.com/DavideRossi/upback) - A two way synchronization utility
@@ -9452,6 +9460,7 @@
 
 ## Ruby 
 
+- [njh/mqtt-http-bridge](https://github.com/njh/mqtt-http-bridge) - MQTT to HTTP bridge
 - [html2rss/html2rss-configs](https://github.com/html2rss/html2rss-configs) - 📇 A growing collection of html2rss feed configs. Generate configs with the handy generator.
 - [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates and delivers RSS feeds via HTTP. Create your own feeds or get started quickly with the included configs.
 - [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
@@ -9741,7 +9750,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [flock-lab/flock](https://github.com/flock-lab/flock) - Flock: A Practical Serverless Streaming Query Engine
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage,  an open-source alternative to Snowflake ❤️
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Small-scale process orchestration
@@ -9997,6 +10006,7 @@
 
 ## Shell 
 
+- [barnardb/homebrew-cookies](https://github.com/barnardb/homebrew-cookies) - Homebrew formula for barnardb/cookies
 - [adnanh/webhook-contrib](https://github.com/adnanh/webhook-contrib) - Repository for community contributed tools, files and helpers for http://github.com/adnanh/webhook
 - [kozlovic/nats_mqtt_demo](https://github.com/kozlovic/nats_mqtt_demo) - NATS MQTT Demo
 - [jayatvars/balena-chromium-kiosk](https://github.com/jayatvars/balena-chromium-kiosk) - BalenaOS/BalenaCloud based Kiosk using Chromium on a RaspberryPi
@@ -10699,7 +10709,7 @@
 - [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
 - [alex3305/home-assistant-addons](https://github.com/alex3305/home-assistant-addons) - Alex's Home Assistant Add-ons
 - [rpranshu/EternalView](https://github.com/rpranshu/EternalView) - EternalView is an all in one basic information gathering and vulnerability assessment tool
-- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Traceroute server
+- [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Traceroute server / Lookup API server
 - [dcmartin/hassio-addons](https://github.com/dcmartin/hassio-addons) - Home-Assistant add-ons
 - [danielewood/plexargod](https://github.com/danielewood/plexargod) - Plex Argo Daemon - A systemd script to update the Plex API to use the current cloudflared tunnel address for remote access
 - [importpw/path](https://github.com/importpw/path) - Path string manipulation functions for shell scripts
@@ -11433,6 +11443,7 @@
 
 ## TypeScript 
 
+- [swimmadude66/jsonnet-cli](https://github.com/swimmadude66/jsonnet-cli) - a cli wrapper to compile jsonnet files
 - [ethersphere/bee-dashboard](https://github.com/ethersphere/bee-dashboard) - An app which helps users to setup their Bee node and do actions like cash out cheques
 - [codewithkristian/lilredirector](https://github.com/codewithkristian/lilredirector) - 🔌⚡️  Redirector engine built for Cloudflare Workers
 - [AutohomeCorp/autohome-compareQueries-datasource](https://github.com/AutohomeCorp/autohome-compareQueries-datasource) - This plugin is built as a datasource plugin that comapre and contrasts different time shifts data
