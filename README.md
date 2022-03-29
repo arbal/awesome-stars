@@ -441,7 +441,7 @@
 - [joelakuhn/htq](https://github.com/joelakuhn/htq) - A grep-like tool for extracting elements from html using CSS Selectors
 - [linux-test-project/ltp](https://github.com/linux-test-project/ltp) - Linux Test Project http://linux-test-project.github.io/
 - [rtlsdrblog/rtl-sdr-kerberos](https://github.com/rtlsdrblog/rtl-sdr-kerberos) - Osmocom RTL-SDR modified branch for KerberosSDR
-- [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Let your shell commands look prettier
+- [jszczerbinsky/ptSh](https://github.com/jszczerbinsky/ptSh) - Visually customizable shell utils
 - [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
 - [delimitrou/DeathStarBench](https://github.com/delimitrou/DeathStarBench) - Open-source benchmark suite for cloud microservices
 - [mprovost/NFStash](https://github.com/mprovost/NFStash) - NFS client CLI toolkit
@@ -1384,6 +1384,7 @@
 
 ## Dockerfile 
 
+- [ivandeex/ivadocker](https://github.com/ivandeex/ivadocker) - my docker files
 - [jgeusebroek/docker-privatebin](https://github.com/jgeusebroek/docker-privatebin) - A tiny Docker image running Alpine Linux and Privatebin.
 - [PrivateBin/docker-nginx-fpm-alpine](https://github.com/PrivateBin/docker-nginx-fpm-alpine) - PrivateBin docker image based on Nginx, php-fpm & Alpine Linux stack
 - [soumyadp/docker-flow](https://github.com/soumyadp/docker-flow) - Complete stack to deploy Docker Flow Monitor and achieve auto-scaling on Docker
@@ -1556,7 +1557,7 @@
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [caddyserver/caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
 - [gramaziokohler/ros_docker](https://github.com/gramaziokohler/ros_docker) - Docker images for ROS master, bridge and nodes
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command. Now Supports v8.0!
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, preconfigured Out of the Box. Enables Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command. Now Supports v8.0!
 - [MojaX2/docker-ros-noetic](https://github.com/MojaX2/docker-ros-noetic) - 
 - [mglukhovsky/caddy2](https://github.com/mglukhovsky/caddy2) - Caddy 2 with Cloudflare modules
 - [nklmilojevic/caddy2-custom](https://github.com/nklmilojevic/caddy2-custom) - Caddy 2 with Cloudflare docker repo
@@ -1665,6 +1666,10 @@
 
 ## Go 
 
+- [Gandi/ganesha_exporter](https://github.com/Gandi/ganesha_exporter) - Prometheus exporter for NFS-Ganesha
+- [aixeshunter/nfs_exporter](https://github.com/aixeshunter/nfs_exporter) - prometheus nfs exporter
+- [relistan/rubberneck](https://github.com/relistan/rubberneck) - Configuration printer for Go applications 🖨️
+- [newrelic/sidecar](https://github.com/newrelic/sidecar) - Gossip-based service discovery. Docker native, but supports static discovery, too.
 - [bitrise-io/envman](https://github.com/bitrise-io/envman) - Environment variable manager
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3 or WebDAV compatible storage
 - [jderusse/http-broadcast](https://github.com/jderusse/http-broadcast) - A scalable and fault resilient HTTP Broadcaster
@@ -3301,6 +3306,7 @@
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [pnlng/alfred-url-actions](https://github.com/pnlng/alfred-url-actions) - An Alfred workflow that fetches the URL and title of your browser's current tab, and does things with them.
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
@@ -3507,6 +3513,7 @@
 
 ## HTML 
 
+- [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
 - [drone/drone-plugin-index](https://github.com/drone/drone-plugin-index) - Public index of Drone plugins
 - [louislam/uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki) - 
 - [upriver/upriver.github.io](https://github.com/upriver/upriver.github.io) - Easily keep your GitHub forks synced with upstream.
@@ -3580,6 +3587,7 @@
 - [cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) - Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [nabla-c0d3/trust_stores_observatory](https://github.com/nabla-c0d3/trust_stores_observatory) - Continuously monitor and record the content of the major platforms' root certificate stores.
+- [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [ookangzheng/blahdns](https://github.com/ookangzheng/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [ninoseki/mihari](https://github.com/ninoseki/mihari) - A tool for OSINT based threat hunting
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
@@ -3906,6 +3914,9 @@
 
 ## JavaScript 
 
+- [majidsajadi/paperboard](https://github.com/majidsajadi/paperboard) - Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
+- [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is basically an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
 - [jmespath/jmespath.js](https://github.com/jmespath/jmespath.js) - Javascript implementation of JMESPath, a query language for JSON
 - [oliverlorenz/http2mqtt](https://github.com/oliverlorenz/http2mqtt) - Bridges http requests to mqtt
@@ -6021,6 +6032,7 @@
 
 ## Others 
 
+- [coder/awesome-code-server](https://github.com/coder/awesome-code-server) - Projects, resources, and tutorials that take code-server to the next level
 - [PhilipSchmid/k8s-home-lab](https://github.com/PhilipSchmid/k8s-home-lab) - Setup for a K8s home lab running on a single host (e.g. Intel NUC)
 - [ThePopularizer/CloudFlareCNAMEmacros](https://github.com/ThePopularizer/CloudFlareCNAMEmacros) - Automate CNAME record creation with macros for Keyboard Maestro on the Mac.
 - [arbal/top-user-agents](https://github.com/arbal/top-user-agents) - A list of most common User Agent used on Internet.
@@ -7179,6 +7191,7 @@
 
 ## Python 
 
+- [deanishe/alfred-network-location](https://github.com/deanishe/alfred-network-location) - List, filter and activate network locations from within Alfred
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [jceloria/docker-http2mqtt](https://github.com/jceloria/docker-http2mqtt) - 
 - [thejeffreystone/usps2mqtt](https://github.com/thejeffreystone/usps2mqtt) - A simple way to integrate USPS Informed Delivery to Home Assistant
@@ -8840,7 +8853,7 @@
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
-- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg
+- [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
 - [Ultimaker/Uranium](https://github.com/Ultimaker/Uranium) - A Python framework for building Desktop applications.
@@ -9117,7 +9130,6 @@
 - [fractalcells/ansible-iocage](https://github.com/fractalcells/ansible-iocage) - 
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [pnlng/alfred-url-actions](https://github.com/pnlng/alfred-url-actions) - An Alfred workflow that fetches the URL and title of your browser's current tab, and does things with them.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
@@ -9668,6 +9680,7 @@
 
 ## Rust 
 
+- [Gandi/prometheus-linux-nfsdv4-exporter](https://github.com/Gandi/prometheus-linux-nfsdv4-exporter) - 
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [m-rots/a-train](https://github.com/m-rots/a-train) - 
 - [regexident/rust-seal](https://github.com/regexident/rust-seal) - Rust implementation of Needleman-Wunsch & Smith-Waterman sequence alignment
@@ -9735,7 +9748,7 @@
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A webhook server that schedules commands on request. Uses Pueue as executor backend.
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Like Elasticsearch, but highly reliable & cost-efficient for log search.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Like Elasticsearch, but highly reliable & cost-efficient for log management.
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
@@ -9755,7 +9768,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [flock-lab/flock](https://github.com/flock-lab/flock) - Flock: A Practical Serverless Streaming Query Engine
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your object storage for big data analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your Object Storage for sub-second analytics.
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Small-scale process orchestration
@@ -10011,6 +10024,7 @@
 
 ## Shell 
 
+- [AndreiUlmeyda/oil](https://github.com/AndreiUlmeyda/oil) - Search-as-you-type cli frontend for the buku bookmarks manager using peco.
 - [barnardb/homebrew-cookies](https://github.com/barnardb/homebrew-cookies) - Homebrew formula for barnardb/cookies
 - [adnanh/webhook-contrib](https://github.com/adnanh/webhook-contrib) - Repository for community contributed tools, files and helpers for http://github.com/adnanh/webhook
 - [kozlovic/nats_mqtt_demo](https://github.com/kozlovic/nats_mqtt_demo) - NATS MQTT Demo
@@ -11443,11 +11457,11 @@
 - [ChiefGokhlayeh/pluto-sdr-pr](https://github.com/ChiefGokhlayeh/pluto-sdr-pr) - Turning cheap(ish) Pluto-SDR receivers into passive radar sensors
 - [GerHobbelt/qiqqa-open-source](https://github.com/GerHobbelt/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows (a bleeding edge dev fork) ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・    ☞☞☞ File any issues you find in the main repo issue tracker at https://github.com/jimmejardine/qiqqa-open-source/issues
 - [jimmejardine/qiqqa-open-source](https://github.com/jimmejardine/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows
-- [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [rstudio/cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 
 ## TypeScript 
 
+- [jsonata-ui/jsonata-visual-editor](https://github.com/jsonata-ui/jsonata-visual-editor) - Visual editor for jsonata
 - [swimmadude66/jsonnet-cli](https://github.com/swimmadude66/jsonnet-cli) - a cli wrapper to compile jsonnet files
 - [ethersphere/bee-dashboard](https://github.com/ethersphere/bee-dashboard) - An app which helps users to setup their Bee node and do actions like cash out cheques
 - [codewithkristian/lilredirector](https://github.com/codewithkristian/lilredirector) - 🔌⚡️  Redirector engine built for Cloudflare Workers
@@ -12060,6 +12074,7 @@
 
 ## Vue 
 
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [Omniaevo/mqtt5-explorer](https://github.com/Omniaevo/mqtt5-explorer) - MQTT5 Explorer is a simple yet feature-rich client to visualize data of any MQTT broker.
 - [Davenchy/live-torrent](https://github.com/Davenchy/live-torrent) - Torrent Web Client
 - [arbal/MQTT-Board](https://github.com/arbal/MQTT-Board) - Diagnostic-oriented MQTT client tool. Supports MQTT 5.0 and 3.1.X protocols, connections to multiple brokers, MQTT operations logs and multiple subscribe widgets with unique/history topic filtering mode. Saves configuration in browser's local cache.
