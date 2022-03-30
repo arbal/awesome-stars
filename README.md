@@ -4991,7 +4991,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agenda/agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [mher/node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites (OSINT)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript API.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -5085,7 +5085,7 @@
 - [danyshaanan/osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - :package: A cli for managing wifi connections on OSX
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [microsoft/generator-docker](https://github.com/microsoft/generator-docker) - Yeoman generator for Docker
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from Curl commands
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [custom-cards/ext-weblink](https://github.com/custom-cards/ext-weblink) - Adds ext weblink with icon to picture-elements or entity cards
@@ -9768,7 +9768,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [flock-lab/flock](https://github.com/flock-lab/flock) - Flock: A Practical Serverless Streaming Query Engine
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance Cloud Data Warehouse, activate your Object Storage for sub-second analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for sub-second analytics.
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Small-scale process orchestration
@@ -10024,6 +10024,7 @@
 
 ## Shell 
 
+- [jumanjihouse/docker-duoauthproxy](https://github.com/jumanjihouse/docker-duoauthproxy) - Duo Authentication Proxy in a docker container
 - [AndreiUlmeyda/oil](https://github.com/AndreiUlmeyda/oil) - Search-as-you-type cli frontend for the buku bookmarks manager using peco.
 - [barnardb/homebrew-cookies](https://github.com/barnardb/homebrew-cookies) - Homebrew formula for barnardb/cookies
 - [adnanh/webhook-contrib](https://github.com/adnanh/webhook-contrib) - Repository for community contributed tools, files and helpers for http://github.com/adnanh/webhook
@@ -11122,7 +11123,7 @@
 - [ix-plugin-hub/iocage-plugin-index](https://github.com/ix-plugin-hub/iocage-plugin-index) - Community created JSON files for plugins.
 - [ouspg/cloudfuzzer](https://github.com/ouspg/cloudfuzzer) - 
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
-- [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
+- [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [bashup/gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs
 - [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [taku-y/jupyter-nvidia-docker-aws](https://github.com/taku-y/jupyter-nvidia-docker-aws) - The scripts in this repository are used to run Jupyter notebook with NVIDIA Docker on AWS.
@@ -11243,6 +11244,7 @@
 
 ## Swift 
 
+- [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [philipturner/swift-colab](https://github.com/philipturner/swift-colab) - Sideloading Swift on Google Colab, post-mortem Swift for TensorFlow
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [braineo/airport-bssid](https://github.com/braineo/airport-bssid) - command line tool to connect to specific bssid for macOS
