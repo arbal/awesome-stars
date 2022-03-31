@@ -308,7 +308,7 @@
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [darrenldl/sandboxing](https://github.com/darrenldl/sandboxing) - Scripts, files and tools related to sandboxing
 - [hacker1024/coretemp](https://github.com/hacker1024/coretemp) - Outputs current CPU core and package temperatures on macOS.
-- [osmocom/gr-fosphor](https://github.com/osmocom/gr-fosphor) - GNURadio block for spectrum visualization using GPU
+- [osmocom/gr-fosphor](https://github.com/osmocom/gr-fosphor) - GNURadio block for spectrum visualization using GPU; mirror of https://gitea.osmocom.org/sdr/gr-fosphor
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [ozzmaker/BerryIMU](https://github.com/ozzmaker/BerryIMU) - Code related to BerryIMU
 - [hessu/aprsc](https://github.com/hessu/aprsc) - aprsc, a core APRS-IS server
@@ -472,7 +472,7 @@
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [ARMmbed/mbedtls](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library
+- [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library
 - [Open-Smartwatch/open-smartwatch-os](https://github.com/Open-Smartwatch/open-smartwatch-os) - The Open-Smartwatch Operating System.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
@@ -626,7 +626,7 @@
 - [cminyard/gensio](https://github.com/cminyard/gensio) - A library to abstract stream I/O like serial port, TCP, telnet, UDP, SSL, IPMI SOL, etc.
 - [cminyard/ser2net](https://github.com/cminyard/ser2net) - Serial to network interface, allows TCP/UDP to serial port connections
 - [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
-- [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://git.osmocom.org/rtl-sdr/
+- [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
 - [ThomasHabets/arping](https://github.com/ThomasHabets/arping) - ARP Ping
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
@@ -2190,7 +2190,7 @@
 - [gavv/webrtc-cli](https://github.com/gavv/webrtc-cli) - WebRTC command-line peer.
 - [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
-- [zhenghaoz/gorse](https://github.com/zhenghaoz/gorse) - An open source recommender system service written in Go
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
 - [ExpressenAB/cloudmonitor_exporter](https://github.com/ExpressenAB/cloudmonitor_exporter) - 
 - [fffonion/tplink-plug-exporter](https://github.com/fffonion/tplink-plug-exporter) - TP-Link Smart Plug Prometheus Exporter
 - [anas-aso/ssllabs_exporter](https://github.com/anas-aso/ssllabs_exporter) - Getting deep analysis of the configuration of any SSL web server on the public Internet à la blackbox_exporter style.
@@ -2879,7 +2879,7 @@
 - [ozankasikci/dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [se7entyse7en/pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [heistp/irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
-- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [webrpc/webrpc](https://github.com/webrpc/webrpc) - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
 - [gnormal/gnorm](https://github.com/gnormal/gnorm) - A database-first code generator for any language
 - [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces
@@ -4645,7 +4645,7 @@
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [cbaoth/userscripts](https://github.com/cbaoth/userscripts) - User scripts and other website improvements
 - [angrykoala/wendigo](https://github.com/angrykoala/wendigo) - A proper monster for front-end automated testing
-- [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
+- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [alexcrist/scrape-google-photos](https://github.com/alexcrist/scrape-google-photos) - A command line tool that scrapes preview-quality images from Google Photos albums
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
@@ -5085,7 +5085,7 @@
 - [danyshaanan/osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - :package: A cli for managing wifi connections on OSX
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [microsoft/generator-docker](https://github.com/microsoft/generator-docker) - Yeoman generator for Docker
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from Curl commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Turn curl commands into code
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [custom-cards/ext-weblink](https://github.com/custom-cards/ext-weblink) - Adds ext weblink with icon to picture-elements or entity cards
@@ -7694,7 +7694,7 @@
 - [kootenpv/access_points](https://github.com/kootenpv/access_points) - Scan your WiFi and get access point information and signal quality
 - [CRED-CLUB/ARTIF](https://github.com/CRED-CLUB/ARTIF) - An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data.
 - [fallenangel3k/sdr-spectrum-monitor](https://github.com/fallenangel3k/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
-- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - BackgroundRemover lets you Remove Background from images and video with a simple command line interface
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - BackgroundRemover lets you Remove Background from images and video with a simple command line interface that is open source.
 - [inveniosoftware/invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
 - [zenodo/zenodo](https://github.com/zenodo/zenodo) - Research. Shared.
 - [sdx23/zotadd](https://github.com/sdx23/zotadd) - A simple script to add pdf-files to Zotero via CLI
@@ -8273,7 +8273,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [nateGeorge/slurm_gpu_ubuntu](https://github.com/nateGeorge/slurm_gpu_ubuntu) - Instructions for setting up a SLURM cluster using Ubuntu 18.04.3 with GPUs.
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis.
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results can be exported to Security Hub, JSON, CSV, Databases, and more for further aggregation and analysis.
 - [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 - [PyDann/TinyBridge](https://github.com/PyDann/TinyBridge) - Homebridge CLI Manager
 - [alechilczenko/Deep-Inside](https://github.com/alechilczenko/Deep-Inside) - Command line tool that allows you to explore IoT devices by using Shodan API.
@@ -9119,7 +9119,7 @@
 - [LordGaav/proxmox-deploy](https://github.com/LordGaav/proxmox-deploy) - A cli-based deployment tool for Proxmox
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [xezpeleta/Ansible-Proxmox-inventory](https://github.com/xezpeleta/Ansible-Proxmox-inventory) - Proxmox dynamic inventory for Ansible
-- [remofritzsche/proxmox-utils](https://github.com/remofritzsche/proxmox-utils) - Useful shell (python) scripts for managing proxmox virtual environment.
+- [mrblofeld/proxmox-utils](https://github.com/mrblofeld/proxmox-utils) - Useful shell (python) scripts for managing proxmox virtual environment.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [schollz/raspberry-pi-turnkey](https://github.com/schollz/raspberry-pi-turnkey) - How to make a Raspberry Pi image that can be deployed anywhere and assigned to a WiFi network without SSH :ok_hand:
 - [rtlsdrblog/pyRDFMapper-KSDR-Adapter](https://github.com/rtlsdrblog/pyRDFMapper-KSDR-Adapter) - Upload bearings from KerberosSDR Server to RDF Mapper
@@ -10665,7 +10665,7 @@
 - [wolveix/plexus](https://github.com/wolveix/plexus) - A suite of tools to help manage your media collection.
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [whiskerz007/proxmox_lxc_create](https://github.com/whiskerz007/proxmox_lxc_create) - 
-- [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami project provides enhanced privacy, anonymity for Debian and Arch based linux distributions
+- [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
 - [vitorgalvao/lowchime](https://github.com/vitorgalvao/lowchime) - Lower the volume of macOS’s startup chime
 - [vitorgalvao/tiny-alfred-scripts](https://github.com/vitorgalvao/tiny-alfred-scripts) - Collection of small scripts to manage my Alfred Workflows
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
@@ -11659,7 +11659,7 @@
 - [balena-io-examples/meta-exporter](https://github.com/balena-io-examples/meta-exporter) - The People's Exporter
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [functionland/photos](https://github.com/functionland/photos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfinity", "Filecoin" and "Crust".
+- [functionland/fotos](https://github.com/functionland/fotos) - This is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box", "Dfinity", "Filecoin" and "Crust".
 - [wiseindy/timer-for-google-assistant](https://github.com/wiseindy/timer-for-google-assistant) - Allows you to send commands to Google Assistant that will execute after a certain time interval. Built using NodeJS.
 - [casanet/casanet-server](https://github.com/casanet/casanet-server) - Open-source server and dashboard to control IoT devices in a local home network
 - [balena-io/open-balena-vpn](https://github.com/balena-io/open-balena-vpn) - openBalena VPN
