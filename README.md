@@ -8208,7 +8208,7 @@
 - [joukos/PaperTTY](https://github.com/joukos/PaperTTY) - PaperTTY - Python module to render a TTY or VNC on e-ink
 - [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
 - [OpenGeoscience/geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
-- [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
+- [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
@@ -8273,7 +8273,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [nateGeorge/slurm_gpu_ubuntu](https://github.com/nateGeorge/slurm_gpu_ubuntu) - Instructions for setting up a SLURM cluster using Ubuntu 18.04.3 with GPUs.
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results can be exported to Security Hub, JSON, CSV, Databases, and more for further aggregation and analysis.
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS attack surface and evaluate services for configurations that can lead to degradation of confidentiality, integrity or availability. All results can be exported to Security Hub, JSON, CSV, Databases, and more for further aggregation and analysis.
 - [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 - [PyDann/TinyBridge](https://github.com/PyDann/TinyBridge) - Homebridge CLI Manager
 - [alechilczenko/Deep-Inside](https://github.com/alechilczenko/Deep-Inside) - Command line tool that allows you to explore IoT devices by using Shodan API.
@@ -10241,7 +10241,7 @@
 - [natelandau/shell-scripting-templates](https://github.com/natelandau/shell-scripting-templates) - Shell scripting utility functions and a bash script boilerplate template
 - [paulgclark/grc-install](https://github.com/paulgclark/grc-install) - Helpful files for installing and testing gnuradio-companion and assorted SDR HW drivers
 - [hslatman/tailscale-balena-rpi](https://github.com/hslatman/tailscale-balena-rpi) - Raspberry Pi 3 powered by Balena serving Tailscale mesh VPN node
-- [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Install Tailscale on OpenWRT
+- [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
 - [balena-io-playground/psu-notify](https://github.com/balena-io-playground/psu-notify) - Easily test Raspberry Pi power supplies
 - [balena-io-playground/balena-bridge](https://github.com/balena-io-playground/balena-bridge) - Resin.io device to bridging the wifi network to ethernet
 - [joecupano/SIGpi](https://github.com/joecupano/SIGpi) - A SIGINT Go-kit of sorts
@@ -10485,7 +10485,7 @@
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [crowbar/crowbar](https://github.com/crowbar/crowbar) - Cloud Operations Platform
-- [LolHens/docker-swarm-keepalived](https://github.com/LolHens/docker-swarm-keepalived) - Operator for keepalived on docker swarm
+- [lhns/docker-swarm-keepalived](https://github.com/lhns/docker-swarm-keepalived) - Operator for keepalived on docker swarm
 - [DrSnowbird/openrefine](https://github.com/DrSnowbird/openrefine) - OpenRefine Docker for Data ETL/ELT
 - [dperson/torproxy](https://github.com/dperson/torproxy) - 
 - [kewlfft/opennic-up](https://github.com/kewlfft/opennic-up) - OpenNIC auto DNS updater
