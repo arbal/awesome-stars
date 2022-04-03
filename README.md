@@ -66,6 +66,7 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
+  - [Max](#max)
   - [Mustache](#mustache)
   - [Nim](#nim)
   - [Nix](#nix)
@@ -197,6 +198,9 @@
 
 ## C 
 
+- [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
+- [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
+- [systemd/systemd-bootchart](https://github.com/systemd/systemd-bootchart) - Boot performance graphing tool
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [fcambus/telize](https://github.com/fcambus/telize) - High performance JSON IP and GeoIP REST API (IP Geolocation)
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie - Open Source
@@ -1264,6 +1268,7 @@
 
 ## CSS 
 
+- [STaRDoGG/portainer-nord-dark-theme](https://github.com/STaRDoGG/portainer-nord-dark-theme) - Dark blue theme for Portainer, partly based on the Nord color palette.
 - [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) - Ultimate Internet of Things/Industrial Control Systems reconnaissance tool.
 - [WordOps/wordops-dashboard](https://github.com/WordOps/wordops-dashboard) - Dashboard for WordOps backend
 - [actions-on-google/local-home-sdk](https://github.com/actions-on-google/local-home-sdk) - Local Home SDK
@@ -1667,6 +1672,8 @@
 
 ## Go 
 
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [urjitbhatia/cozgo](https://github.com/urjitbhatia/cozgo) - Coz profiler Golang wrapper - Coz employs a novel technique we call causal profiling that measures optimization potential.
 - [Gandi/ganesha_exporter](https://github.com/Gandi/ganesha_exporter) - Prometheus exporter for NFS-Ganesha
 - [aixeshunter/nfs_exporter](https://github.com/aixeshunter/nfs_exporter) - prometheus nfs exporter
 - [relistan/rubberneck](https://github.com/relistan/rubberneck) - Configuration printer for Go applications 🖨️
@@ -2582,7 +2589,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -3533,6 +3540,7 @@
 - [kennytm/grafana-export](https://github.com/kennytm/grafana-export) - Export Grafana dashboard snapshots as local JSON files
 - [acgeospatial/awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [proabiral/inception](https://github.com/proabiral/inception) - A highly configurable Framework for easy automated web scanning
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [nevali/Baird](https://github.com/nevali/Baird) - Project Baird specifications
@@ -3914,6 +3922,8 @@
 
 ## JavaScript 
 
+- [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [majidsajadi/paperboard](https://github.com/majidsajadi/paperboard) - Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -4091,7 +4101,6 @@
 - [aui/art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats) - Prettify vmstats in your browser
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [arturolinares/sn-rme](https://github.com/arturolinares/sn-rme) - Rich Markdown Editor for Standard Notes
 - [urishiraval/obsidian-apple-reminders-plugin](https://github.com/urishiraval/obsidian-apple-reminders-plugin) - A plugin to attempt to bring Apple Reminders into Obsidian.
@@ -5879,6 +5888,10 @@
 - [myriadrf/LimeSDR_Workshop](https://github.com/myriadrf/LimeSDR_Workshop) - Intro to software-defined radio with LimeSDR workshop
 - [beckel/nilm-eval](https://github.com/beckel/nilm-eval) - NILM-EVAL: An evaluation framework for non-intrusive load monitoring algorithms
 
+## Max 
+
+- [trendmicro/tlsh](https://github.com/trendmicro/tlsh) - 
+
 ## Mustache 
 
 - [mvisonneau/helm-charts](https://github.com/mvisonneau/helm-charts) - Personal Helm charts repository
@@ -6560,7 +6573,7 @@
 - [rob-med/awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - List of tools & datasets for anomaly detection on time-series data.
 - [brasilikum/alfred-siri](https://github.com/brasilikum/alfred-siri) - Alfred Workflow to query Siri by keyword or as a fallback
 - [mmatuska/zfs-stats](https://github.com/mmatuska/zfs-stats) - ZFS statistics tool
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
 - [rfrail3/grafana-dashboards](https://github.com/rfrail3/grafana-dashboards) - Grafana dashboards
 - [draios/sysdig-container-ecosystem](https://github.com/draios/sysdig-container-ecosystem) - The Container Ecosystem Project
@@ -7190,6 +7203,11 @@
 
 ## Python 
 
+- [daq-tools/mqttwarn-contrib](https://github.com/daq-tools/mqttwarn-contrib) - Community contributions to mqttwarn
+- [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.
+- [xrmx/bootchart](https://github.com/xrmx/bootchart) - merge of bootchart-collector and pybootchartgui
+- [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
+- [s0md3v/Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [deanishe/alfred-network-location](https://github.com/deanishe/alfred-network-location) - List, filter and activate network locations from within Alfred
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [jceloria/docker-http2mqtt](https://github.com/jceloria/docker-http2mqtt) - 
@@ -9607,7 +9625,7 @@
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [pothosware/homebrew-pothos](https://github.com/pothosware/homebrew-pothos) - Homebrew formulas for Pothos and SoapySDR
 - [jeffkowalski/rainforest](https://github.com/jeffkowalski/rainforest) - read power usage data from rainforest eagle and record in influxdb
-- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used in bash/fish as well.
+- [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 - [rhardih/pong](https://github.com/rhardih/pong) - Basic uptime monitoring system, with email alerts and/or push notifications
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [blackducksoftware/ohloh-ui](https://github.com/blackducksoftware/ohloh-ui) - Web Application for the Ohloh Stack.
@@ -9680,6 +9698,7 @@
 
 ## Rust 
 
+- [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [Gandi/prometheus-linux-nfsdv4-exporter](https://github.com/Gandi/prometheus-linux-nfsdv4-exporter) - 
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [m-rots/a-train](https://github.com/m-rots/a-train) - 
@@ -10024,6 +10043,7 @@
 
 ## Shell 
 
+- [Greg-2600/dns_dumpster](https://github.com/Greg-2600/dns_dumpster) - Reverse engineering dnsdumpster.com
 - [jumanjihouse/docker-duoauthproxy](https://github.com/jumanjihouse/docker-duoauthproxy) - Duo Authentication Proxy in a docker container
 - [AndreiUlmeyda/oil](https://github.com/AndreiUlmeyda/oil) - Search-as-you-type cli frontend for the buku bookmarks manager using peco.
 - [barnardb/homebrew-cookies](https://github.com/barnardb/homebrew-cookies) - Homebrew formula for barnardb/cookies
@@ -11243,6 +11263,7 @@
 
 ## Swift 
 
+- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [philipturner/swift-colab](https://github.com/philipturner/swift-colab) - Sideloading Swift on Google Colab, post-mortem Swift for TensorFlow
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
@@ -12090,7 +12111,7 @@
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
@@ -12109,7 +12130,7 @@
 - [RasaHQ/rasa-voice-interface](https://github.com/RasaHQ/rasa-voice-interface) - :microphone: A simple web interface for building voice assistants with Rasa
 - [zwave-js/zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt) - Zwave to Mqtt gateway and Control Panel Web UI. Built using Nodejs, and Vue/Vuetify
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
-- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
