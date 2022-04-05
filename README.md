@@ -415,7 +415,7 @@
 - [relan/exfat](https://github.com/relan/exfat) - Free exFAT file system implementation
 - [moosefs/moosefs](https://github.com/moosefs/moosefs) - MooseFS – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System (Software-Defined Storage)
 - [cbassa/strf](https://github.com/cbassa/strf) - Radio Frequency Satellite Tracking
-- [lyusupov/SoftRF](https://github.com/lyusupov/SoftRF) - :airplane:  Multifunctional, compatible DIY general aviation proximity awareness system
+- [lyusupov/SoftRF](https://github.com/lyusupov/SoftRF) - :airplane:  Multi-functional, compatible DIY general aviation proximity awareness system
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 - [gl-inet/bletool](https://github.com/gl-inet/bletool) - 
@@ -900,6 +900,7 @@
 
 ## C++ 
 
+- [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
@@ -1106,6 +1107,7 @@
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [aososam/Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [cnr-isti-vclab/PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
@@ -2392,7 +2394,7 @@
 - [grafana/kubernetes-diff-logger](https://github.com/grafana/kubernetes-diff-logger) - Logs updates to Kubernetes Objects for storing and querying with Loki
 - [wish/eventmaster](https://github.com/wish/eventmaster) - Event storage API server
 - [ContentSquare/grafana-annotation](https://github.com/ContentSquare/grafana-annotation) - Tool to post graphite annotations to grafana
-- [grafana/agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
+- [grafana/agent](https://github.com/grafana/agent) - Telemetry agent for the LGTM stack.
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [doublemarket/grafana-rrd-server](https://github.com/doublemarket/grafana-rrd-server) - A HTTP server that helps Grafana read RRD files via Grafana Simple JSON Datasource plugin
 - [grafana/memo](https://github.com/grafana/memo) - easily save grafana annotations from slack mentions and the cli
@@ -2604,6 +2606,7 @@
 - [abiosoft/caddy-exec](https://github.com/abiosoft/caddy-exec) - Caddy v2 module for running one-off commands
 - [heroku/urinception](https://github.com/heroku/urinception) - Data URIs over HTTP
 - [vincent-petithory/dataurl](https://github.com/vincent-petithory/dataurl) - Data URL Schemes in Golang
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [raphaelreyna/oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [schweikert/fping-exporter](https://github.com/schweikert/fping-exporter) - prometheus exporter to measure network latency
@@ -2616,7 +2619,6 @@
 - [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [google/differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [mdbraber/acmeproxy](https://github.com/mdbraber/acmeproxy) - Proxy server for ACME DNS challenges written in Go
 - [ns3777k/go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
@@ -3524,6 +3526,7 @@
 
 ## HTML 
 
+- [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
 - [drone/drone-plugin-index](https://github.com/drone/drone-plugin-index) - Public index of Drone plugins
 - [louislam/uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki) - 
@@ -3727,6 +3730,7 @@
 
 ## Java 
 
+- [dbpedia/dbpedia-lookup](https://github.com/dbpedia/dbpedia-lookup) - A generic entity retrieval service for linked data. Contains presets to replicate the DBpedia Lookup service.
 - [Netflix/Turbine](https://github.com/Netflix/Turbine) - SSE Stream Aggregator
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
@@ -3928,6 +3932,10 @@
 
 ## JavaScript 
 
+- [meilisearch/mini-dashboard](https://github.com/meilisearch/mini-dashboard) - mini-dashboard for MeiliSearch
+- [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
+- [tideflow-io/tideflow](https://github.com/tideflow-io/tideflow) - Building extensible automation. Tideflow is a Realtime, open source workflows execution and monitorization web application.
+- [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [quasarframework/quasar-testing](https://github.com/quasarframework/quasar-testing) - Testing Harness App Extensions for the Quasar Framework 1.0+
@@ -4461,7 +4469,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [giangvo/alfred-workflow-nodejs](https://github.com/giangvo/alfred-workflow-nodejs) - A small library providing helpers to create Alfred Workflow
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [cloudflare/cloudflare-grafana-app](https://github.com/cloudflare/cloudflare-grafana-app) - Cloudflare Grafana App allows for the collection and graphing of Cloudflare analytics data over time.
 - [balena-io/balena-cli-advanced-masterclass](https://github.com/balena-io/balena-cli-advanced-masterclass) - A guide to the advanced features available in balena CLI
 - [balena-io/services-masterclass](https://github.com/balena-io/services-masterclass) - A guide to developing and deploying services on a balena device
@@ -4831,6 +4839,7 @@
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
+- [SeleniumHQ/selenium-ide](https://github.com/SeleniumHQ/selenium-ide) - Open Source record and playback test automation for the web.
 - [alibaba/uirecorder](https://github.com/alibaba/uirecorder) - UI Recorder is a  multi-platform UI test recorder.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -5508,7 +5517,7 @@
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [cgrossde/Pullover](https://github.com/cgrossde/Pullover) - The unofficial multi-platform Pushover desktop client
 - [willfarrell/alfred-workflows](https://github.com/willfarrell/alfred-workflows) - Alfred Workflows for Developers
-- [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.com
+- [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
 - [FormidableLabs/nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [afaqurk/linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
 - [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
@@ -5535,7 +5544,7 @@
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [vincelwt/RaspberryCast](https://github.com/vincelwt/RaspberryCast) - :tv: Transform your Raspberry Pi into a streaming device. Videos can be sent from mobile devices or computers (Chrome extension).
 - [sequelize/cli](https://github.com/sequelize/cli) - The Sequelize CLI
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [feathersjs-ecosystem/authentication](https://github.com/feathersjs-ecosystem/authentication) - [MOVED] Feathers local, token, and OAuth authentication over REST and Websockets using JSON Web Tokens (JWT) with PassportJS.
 - [feathersjs-ecosystem/feathers-permissions](https://github.com/feathersjs-ecosystem/feathers-permissions) - Simple role and service method permissions for Feathers
@@ -5654,6 +5663,7 @@
 
 ## Jupyter Notebook 
 
+- [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 - [adaptive/pops](https://github.com/adaptive/pops) - PoPs geolocation derived from IATA airport codes
 - [AICoE/log-anomaly-detector](https://github.com/AICoE/log-anomaly-detector) - Log Anomaly Detection - Machine learning to detect abnormal events logs
@@ -5851,6 +5861,7 @@
 
 ## Makefile 
 
+- [mozilla-services/docs](https://github.com/mozilla-services/docs) - Documentation for Mozilla Services Services
 - [Clever/csvlint](https://github.com/Clever/csvlint) - library and command line tool that validates a CSV file
 - [xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
 - [mike182uk/alfred-snpt](https://github.com/mike182uk/alfred-snpt) - An Alfred workflow for snpt
@@ -6909,6 +6920,7 @@
 
 ## PHP 
 
+- [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [cloudharmony/network](https://github.com/cloudharmony/network) - Tests network performance characteristics including latency, throughput and DNS
 - [VerifiedJoseph/rss-bridge-collection](https://github.com/VerifiedJoseph/rss-bridge-collection) - Collection of custom RSS Bridges
@@ -7220,6 +7232,11 @@
 
 ## Python 
 
+- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ncolony/ncolony](https://github.com/ncolony/ncolony) - A colony of interacting processes
+- [typemytype/drawbot](https://github.com/typemytype/drawbot) - 
+- [metamorphose/metamorphose2](https://github.com/metamorphose/metamorphose2) - Métamorphose Renamer v2
+- [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [trygveaa/kitty-kitten-search](https://github.com/trygveaa/kitty-kitten-search) - Kitten for searching in kitty
 - [daq-tools/mqttwarn-contrib](https://github.com/daq-tools/mqttwarn-contrib) - Community contributions to mqttwarn
 - [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.
@@ -7423,7 +7440,7 @@
 - [recite/autosum](https://github.com/recite/autosum) - Summarize Publications Automatically
 - [tobiasmcnulty/amzscraper](https://github.com/tobiasmcnulty/amzscraper) - Simple Python-based scraper for Amazon order receipts
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
-- [N-Multifibra/netbox-proxbox](https://github.com/N-Multifibra/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
+- [netdevopsbr/netbox-proxbox](https://github.com/netdevopsbr/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox
 - [proycon/clam](https://github.com/proycon/clam) - Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
 - [un-def/dl-plus](https://github.com/un-def/dl-plus) - An youtube-dl extension with pluggable extractors
@@ -8296,7 +8313,6 @@
 - [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
 - [hardillb/nginx-proxy-avahi-helper](https://github.com/hardillb/nginx-proxy-avahi-helper) - A container to generate matching mDNS CNAMEs for the virtual hosts used by jwilder/nginx-proxy
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [goberoi/faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
 - [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [nzblnk/nzb-monkey](https://github.com/nzblnk/nzb-monkey) - Reference implementation of how to handle a NZBLNK-URI.
@@ -9155,7 +9171,7 @@
 - [LordGaav/proxmox-deploy](https://github.com/LordGaav/proxmox-deploy) - A cli-based deployment tool for Proxmox
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [xezpeleta/Ansible-Proxmox-inventory](https://github.com/xezpeleta/Ansible-Proxmox-inventory) - Proxmox dynamic inventory for Ansible
-- [mrblofeld/proxmox-utils](https://github.com/mrblofeld/proxmox-utils) - Useful shell (python) scripts for managing proxmox virtual environment.
+- [sudoremo/proxmox-utils](https://github.com/sudoremo/proxmox-utils) - Useful shell (python) scripts for managing proxmox virtual environment.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [schollz/raspberry-pi-turnkey](https://github.com/schollz/raspberry-pi-turnkey) - How to make a Raspberry Pi image that can be deployed anywhere and assigned to a WiFi network without SSH :ok_hand:
 - [rtlsdrblog/pyRDFMapper-KSDR-Adapter](https://github.com/rtlsdrblog/pyRDFMapper-KSDR-Adapter) - Upload bearings from KerberosSDR Server to RDF Mapper
@@ -9513,6 +9529,7 @@
 
 ## Ruby 
 
+- [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [njh/mqtt-http-bridge](https://github.com/njh/mqtt-http-bridge) - MQTT to HTTP bridge
 - [html2rss/html2rss-configs](https://github.com/html2rss/html2rss-configs) - 📇 A growing collection of html2rss feed configs. Generate configs with the handy generator.
 - [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Generates and delivers RSS feeds via HTTP. Create your own feeds or get started quickly with the included configs.
@@ -9785,7 +9802,7 @@
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A webhook server that schedules commands on request. Uses Pueue as executor backend.
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Like Elasticsearch, but highly reliable & cost-efficient for log management.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud native and highly cost-efficient search engine for log management
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
@@ -10037,6 +10054,7 @@
 
 ## Scala 
 
+- [dbpedia/lookup](https://github.com/dbpedia/lookup) - Outputs a list of ranked DBpedia resources for a search string.
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [cjww-development/gatekeeper](https://github.com/cjww-development/gatekeeper) - Implementation of OIDC and OAuth2
@@ -10061,6 +10079,7 @@
 
 ## Shell 
 
+- [deconz-community/deconz-docker](https://github.com/deconz-community/deconz-docker) - 
 - [mycargus/nightwatch-docker-grid](https://github.com/mycargus/nightwatch-docker-grid) - A dockerized Selenium Grid with Nightwatch
 - [Greg-2600/dns_dumpster](https://github.com/Greg-2600/dns_dumpster) - Reverse engineering dnsdumpster.com
 - [jumanjihouse/docker-duoauthproxy](https://github.com/jumanjihouse/docker-duoauthproxy) - Duo Authentication Proxy in a docker container
@@ -11503,6 +11522,7 @@
 
 ## TypeScript 
 
+- [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [jsonata-ui/jsonata-visual-editor](https://github.com/jsonata-ui/jsonata-visual-editor) - Visual editor for jsonata
 - [swimmadude66/jsonnet-cli](https://github.com/swimmadude66/jsonnet-cli) - a cli wrapper to compile jsonnet files
 - [ethersphere/bee-dashboard](https://github.com/ethersphere/bee-dashboard) - An app which helps users to setup their Bee node and do actions like cash out cheques
@@ -11860,7 +11880,6 @@
 - [Brandawg93/homebridge-nest-cam](https://github.com/Brandawg93/homebridge-nest-cam) - View your Nest cams in HomeKit using Homebridge.
 - [homebridge/verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
-- [SeleniumHQ/selenium-ide](https://github.com/SeleniumHQ/selenium-ide) - Open Source record and playback test automation for the web.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
