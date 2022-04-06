@@ -633,7 +633,7 @@
 - [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
 - [osmocom/rtl-sdr](https://github.com/osmocom/rtl-sdr) - library for turning a RTL2832 based DVB dongle into a Software DefinedReceiver; mirror from https://gitea.osmocom.org/sdr/rtl-sdr
 - [ThomasHabets/arping](https://github.com/ThomasHabets/arping) - ARP Ping
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 - [ntpsec/ntpsec](https://github.com/ntpsec/ntpsec) - The Network Time Protocol suite, refactored   GitHub is a mirror of https://gitlab.com/NTPsec/ntpsec
 - [collectd/collectd](https://github.com/collectd/collectd) - The system statistics collection daemon. Please send Pull Requests here!
@@ -775,6 +775,7 @@
 
 ## C# # 
 
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
@@ -1063,7 +1064,7 @@
 - [DNS-OARC/dnsmeter](https://github.com/DNS-OARC/dnsmeter) - Tool for testing performance of nameservers
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [AngeloD2022/OnHubDesktop](https://github.com/AngeloD2022/OnHubDesktop) - A desktop client for Google OnHub routers. Written in C++ with the Qt framework
+- [AngeloD2022/OnHubDesktop](https://github.com/AngeloD2022/OnHubDesktop) - A desktop client for Google OnHub routers.
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [divyekapoor/grepurls](https://github.com/divyekapoor/grepurls) - Command line utility to extract URLs from text or HTML using an RFC 3986 compliant parser.
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -1392,6 +1393,7 @@
 
 ## Dockerfile 
 
+- [doitandbedone/ispyagentdvr-docker](https://github.com/doitandbedone/ispyagentdvr-docker) - 
 - [ansible/awx-ee](https://github.com/ansible/awx-ee) - An Ansible execution environment for AWX project
 - [ivandeex/ivadocker](https://github.com/ivandeex/ivadocker) - my docker files
 - [jgeusebroek/docker-privatebin](https://github.com/jgeusebroek/docker-privatebin) - A tiny Docker image running Alpine Linux and Privatebin.
@@ -1505,7 +1507,6 @@
 - [sqawasmi/trafficserver-docker](https://github.com/sqawasmi/trafficserver-docker) - Docker build for Apache TrafficServer
 - [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node) - Distroless Node.js Docker Images
 - [michaelmob/docker-funkwhale](https://github.com/michaelmob/docker-funkwhale) - All-in-one funkwhale docker image.
-- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [flashspys/docker-nginx-static](https://github.com/flashspys/docker-nginx-static) - Super Lightweight Nginx Image
 - [mdouchement/standardnotes](https://github.com/mdouchement/standardnotes) - Dockerization of Standard File server. Used for running your own Standard Notes server
 - [AtomGraph/saxon-docker](https://github.com/AtomGraph/saxon-docker) - Dockerized Saxon-HE (XSLT 3.0 processor)
@@ -1676,6 +1677,10 @@
 
 ## Go 
 
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+- [gencebay/httplive](https://github.com/gencebay/httplive) - HTTP Request & Response Service, Mock HTTP
+- [ori-edge/k8s_gateway](https://github.com/ori-edge/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources
+- [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [urjitbhatia/cozgo](https://github.com/urjitbhatia/cozgo) - Coz profiler Golang wrapper - Coz employs a novel technique we call causal profiling that measures optimization potential.
@@ -3526,6 +3531,7 @@
 
 ## HTML 
 
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you get the server started, will create a mesh (a group of computers) and then download and install a mesh agent on each computer you want to manage. A minute later, the new computer will show up on the web site and you can take control of it, etc. MeshCentral includes full web-based remote desktop, terminal and file management capability.
 - [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
 - [drone/drone-plugin-index](https://github.com/drone/drone-plugin-index) - Public index of Drone plugins
@@ -3730,6 +3736,7 @@
 
 ## Java 
 
+- [wiremock/wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
 - [dbpedia/dbpedia-lookup](https://github.com/dbpedia/dbpedia-lookup) - A generic entity retrieval service for linked data. Contains presets to replicate the DBpedia Lookup service.
 - [Netflix/Turbine](https://github.com/Netflix/Turbine) - SSE Stream Aggregator
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
@@ -3932,6 +3939,10 @@
 
 ## JavaScript 
 
+- [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
+- [damar-nur-ichwan/grafana-http-api](https://github.com/damar-nur-ichwan/grafana-http-api) - 
+- [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 - [meilisearch/mini-dashboard](https://github.com/meilisearch/mini-dashboard) - mini-dashboard for MeiliSearch
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [tideflow-io/tideflow](https://github.com/tideflow-io/tideflow) - Building extensible automation. Tideflow is a Realtime, open source workflows execution and monitorization web application.
@@ -5419,7 +5430,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [sindresorhus/term-size-cli](https://github.com/sindresorhus/term-size-cli) - Reliably get the terminal window size - cross-platform
 - [enesser/vCards-js](https://github.com/enesser/vCards-js) - Create vCards to import contacts into Outlook, iOS, Mac OS, and Android devices from your website or application.
-- [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Golang + EmberJS
+- [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [pomber/covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
@@ -7232,6 +7243,8 @@
 
 ## Python 
 
+- [tgorgdotcom/locast2plex](https://github.com/tgorgdotcom/locast2plex) - A very simple script to connect locast to Plex's live tv/dvr feature.
+- [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [ncolony/ncolony](https://github.com/ncolony/ncolony) - A colony of interacting processes
 - [typemytype/drawbot](https://github.com/typemytype/drawbot) - 
@@ -7270,7 +7283,7 @@
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [starsliao/Prometheus](https://github.com/starsliao/Prometheus) - Grafana Dashboards for Prometheus Exporter
 - [scrapinghub/spidermon](https://github.com/scrapinghub/spidermon) - Scrapy Extension for monitoring spiders execution.
-- [Jimut123/jimutmap](https://github.com/Jimut123/jimutmap) - API to get enormous amount of high resolution satellite images from apple / google maps quickly through multi-threading! create map your own map dataset. Bringing data to Humans.
+- [Jimut123/jimutmap](https://github.com/Jimut123/jimutmap) - API to get enormous amount of high resolution satellite images from satellites.pro quickly through multi-threading! create map your own map dataset. Bringing data to Humans.
 - [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape) - Home Assistant custom component for scraping (html, xml or json) multiple values (from a single HTTP request) with a separate sensor/attribute for each value. Support for (login) form-submit functionality.
 - [jaxBCD/Zeebsploit](https://github.com/jaxBCD/Zeebsploit) - web scanner - exploitation - information gathering
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
@@ -9830,7 +9843,7 @@
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
-- [CanalTP/mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data)
+- [hove-io/mimirsbrunn](https://github.com/hove-io/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data)
 - [waltzofpearls/belt](https://github.com/waltzofpearls/belt) - A CLI app to show your time from a list of selected time zones, and a rust lib to parse dates in string formats that are commonly used.
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [woubuc/sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds
@@ -10079,6 +10092,8 @@
 
 ## Shell 
 
+- [ConorBeh/iocage-plugin-gitea](https://github.com/ConorBeh/iocage-plugin-gitea) - 
+- [narethim/tools](https://github.com/narethim/tools) - Frequently used tools
 - [deconz-community/deconz-docker](https://github.com/deconz-community/deconz-docker) - 
 - [mycargus/nightwatch-docker-grid](https://github.com/mycargus/nightwatch-docker-grid) - A dockerized Selenium Grid with Nightwatch
 - [Greg-2600/dns_dumpster](https://github.com/Greg-2600/dns_dumpster) - Reverse engineering dnsdumpster.com
@@ -10711,6 +10726,7 @@
 - [alexei-led/nsenter](https://github.com/alexei-led/nsenter) - Slim nsenter Docker image - enter into Docker container/host namespaces
 - [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
 - [gregoriomomm/docker-multsocks](https://github.com/gregoriomomm/docker-multsocks) - docker-microtsocks
+- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [alexherbo2/webextension-shell](https://github.com/alexherbo2/webextension-shell) - WebExtension API to execute external commands through native messaging
 - [jaykepeters/Scripts](https://github.com/jaykepeters/Scripts) - A collection of useful scripts
 - [alpeware/chrome-headless-stable](https://github.com/alpeware/chrome-headless-stable) - Always up-to-date Headless Chrome Stable from the official Google Chrome PPA in a Docker image
@@ -11522,6 +11538,8 @@
 
 ## TypeScript 
 
+- [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [jsonata-ui/jsonata-visual-editor](https://github.com/jsonata-ui/jsonata-visual-editor) - Visual editor for jsonata
 - [swimmadude66/jsonnet-cli](https://github.com/swimmadude66/jsonnet-cli) - a cli wrapper to compile jsonnet files
