@@ -1395,6 +1395,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-kdenlive](https://github.com/linuxserver/docker-kdenlive) - Responsive web accessible Kdenlive Docker container with hardware accelerated transcoding and audio.
 - [doitandbedone/ispyagentdvr-docker](https://github.com/doitandbedone/ispyagentdvr-docker) - 
 - [ansible/awx-ee](https://github.com/ansible/awx-ee) - An Ansible execution environment for AWX project
 - [ivandeex/ivadocker](https://github.com/ivandeex/ivadocker) - my docker files
@@ -1678,6 +1679,7 @@
 
 ## Go 
 
+- [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go
 - [nrocco/bookmarks](https://github.com/nrocco/bookmarks) - Personal zero-touch bookmarking app in the cloud, with full text search support.
 - [NovatecConsulting/grafana-dashboard-synchronizer](https://github.com/NovatecConsulting/grafana-dashboard-synchronizer) - A Grafana backend plugin for automatic synchronization of dashboard between multiple Grafana instances.
 - [mpostument/grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync
@@ -3770,7 +3772,6 @@
 - [dCache/dcache](https://github.com/dCache/dcache) - dCache - a system for storing and retrieving huge amounts of data, distributed among a large number of heterogenous server nodes, under a single virtual filesystem tree with a variety of standard access methods
 - [arineng/rdap_bootstrap_server](https://github.com/arineng/rdap_bootstrap_server) - A bootstrap server to aid RDAP clients in the bootstrap process.
 - [Hakky54/certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
-- [rokstrnisa/unattach](https://github.com/rokstrnisa/unattach) - Unattach allows you to free your Google storage by easily downloading and/or removing Gmail attachments from many emails at once.
 - [gh0stkey/HaE](https://github.com/gh0stkey/HaE) - HaE - BurpSuite Highlighter and Extractor
 - [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hint about how the target regex should look like
 - [google/gps-measurement-tools](https://github.com/google/gps-measurement-tools) - 
@@ -3950,6 +3951,8 @@
 
 ## JavaScript 
 
+- [mariusandra/insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform
+- [bevacqua/fuzzysearch](https://github.com/bevacqua/fuzzysearch) - :crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
@@ -4478,7 +4481,7 @@
 - [apnex/bind-cli](https://github.com/apnex/bind-cli) - CLI interface to BIND / NAMED DNS system
 - [bazwilliams/node-ssdp](https://github.com/bazwilliams/node-ssdp) - Simple Service Discovery for Node.js, handling Upnp NOTIFY and M-SEARCH requests.
 - [alxhotel/nat-api](https://github.com/alxhotel/nat-api) - :left_right_arrow: Fast port mapping with UPnP and NAT-PMP
-- [rern/rAudio-1](https://github.com/rern/rAudio-1) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, Multi-room, Spotify Connect, UPnP
+- [rern/rAudio-1](https://github.com/rern/rAudio-1) - Raspberry Pi audio player: AirPlay, Audio CD, Bluetooth, Multi-room, Spotify Connect, UPnP, DSP
 - [diversario/node-ssdp](https://github.com/diversario/node-ssdp) - node.js SSDP client/server.
 - [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - A Node.js wrapper for Spotify's Web API.
 - [npulidom/node-ocr](https://github.com/npulidom/node-ocr) - NodeJs + OcrMyPdf + pdftotext Docker Image. Developed for custom OCR node APIs or workers.
@@ -5695,6 +5698,7 @@
 
 ## Jupyter Notebook 
 
+- [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [facebookresearch/DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 - [adaptive/pops](https://github.com/adaptive/pops) - PoPs geolocation derived from IATA airport codes
@@ -6102,6 +6106,7 @@
 
 ## Others 
 
+- [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [jimilinuxguy/Tesla-Charging-Port-Opener](https://github.com/jimilinuxguy/Tesla-Charging-Port-Opener) - Files for HackRF + Portapack MAYHEM firmware to open any and all Tesla vehicle charging ports in range!
 - [purescript/documentation](https://github.com/purescript/documentation) - Documentation for the PureScript language, compiler, and tools.
@@ -11572,6 +11577,8 @@
 
 ## TypeScript 
 
+- [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI
+- [grafana/synthetic-monitoring-app](https://github.com/grafana/synthetic-monitoring-app) - Synthetic Monitoring frontend application
 - [kamiazya/rediagram](https://github.com/kamiazya/rediagram) - Markup and draw your system diagrams with React.
 - [micmro/PerfCascade](https://github.com/micmro/PerfCascade) - Responsive, SVG based HAR waterfall viewer
 - [antvis/X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
@@ -11962,7 +11969,7 @@
 - [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [dhleong/babbling](https://github.com/dhleong/babbling) - Cast Streaming service videos to Chromecast
 - [CouchBuddy/couch-buddy](https://github.com/CouchBuddy/couch-buddy) - A Media Center with Cast support that belongs to this millennium
