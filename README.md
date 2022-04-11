@@ -3176,7 +3176,6 @@
 - [jesseduffield/lazynpm](https://github.com/jesseduffield/lazynpm) - terminal UI for npm
 - [kelda/blimp](https://github.com/kelda/blimp) - Blimp: Develop with Docker Compose in the cloud
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [UserBenchmark-Mobile/UserBenchmark-Scraper](https://github.com/UserBenchmark-Mobile/UserBenchmark-Scraper) - Just a "simple" scraper for userbenchmark.com using the Chrome Developer Protocol with Chrome Headless for my Android App. Very WIP
 - [janeczku/powerdns_exporter](https://github.com/janeczku/powerdns_exporter) - :chart_with_upwards_trend: Prometheus metrics exporter for PowerDNS
 - [groovili/gogtrends](https://github.com/groovili/gogtrends) - Unofficial Google Trends API for Go
@@ -3959,7 +3958,7 @@
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [dedalusj/cloudgram](https://github.com/dedalusj/cloudgram) - Generate diagrams for your cloud architecture using code
-- [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - DgrmJS is a JavaScript library for creating SVG diagrams. The main goal of the library is to set up workflows in BPM (Business Process Management) systems.  Works on desktop and mobile, has no dependency, small size.
+- [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - DgrmJS is a JavaScript library for creating SVG flow diagrams. The main goal of the library is to set up workflows in BPM (Business Process Management) systems.  Works on desktop and mobile, has no dependency, small size.
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
@@ -5335,6 +5334,7 @@
 - [chrisrzhou/google-globe-trends](https://github.com/chrisrzhou/google-globe-trends) - Create beautiful and interactive Google Trends globe visualizations with ease
 - [gabenunez/StockvsTrend](https://github.com/gabenunez/StockvsTrend) - React and Nodejs app that compares US Stocks and Google Trends data side-by-side.
 - [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [rstudio/shiny-examples](https://github.com/rstudio/shiny-examples) - 
 - [transitive-bullshit/captcha-solver](https://github.com/transitive-bullshit/captcha-solver) - Library and CLI for automating captcha verification across multiple providers.
@@ -9779,6 +9779,7 @@
 
 ## Rust 
 
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [abutnaru/untanglr](https://github.com/abutnaru/untanglr) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
 - [chengyuhui/wordninja-rs](https://github.com/chengyuhui/wordninja-rs) - A Rust port of wordninja.
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -9872,7 +9873,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [flock-lab/flock](https://github.com/flock-lab/flock) - Flock: A Low-Cost Streaming Query Engine on FaaS Platforms
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for sub-second analytics.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time insights.
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Small-scale process orchestration
