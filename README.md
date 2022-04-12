@@ -198,6 +198,7 @@
 
 ## C 
 
+- [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) - terminal-based remote package update manager
 - [wolfSSL/wolfMQTT](https://github.com/wolfSSL/wolfMQTT) - wolfMQTT is a small, fast, portable MQTT client implementation, including support for TLS 1.3.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
@@ -1413,7 +1414,7 @@
 - [arbal/fio-docker](https://github.com/arbal/fio-docker) - fio docker image
 - [Rajpratik71/fio-docker](https://github.com/Rajpratik71/fio-docker) - fio docker image
 - [dhutchison/container-images](https://github.com/dhutchison/container-images) - 
-- [bitnami/bitnami-docker-redis-exporter](https://github.com/bitnami/bitnami-docker-redis-exporter) - 
+- [bitnami/bitnami-docker-redis-exporter](https://github.com/bitnami/bitnami-docker-redis-exporter) - Bitnami Docker Image for Redis Exporter
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
 - [evait-security/docker-multitor](https://github.com/evait-security/docker-multitor) - 
 - [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized nitefood/asn ASN Lookup Tool and Traceroute Server
@@ -1559,7 +1560,7 @@
 - [portworx/px-dev](https://github.com/portworx/px-dev) - PX-Developer is scale-out storage for containers. Run Cassandra, Jenkins, or any application in Docker, with enterprise storage functionality on commodity servers
 - [bashaway/cacti](https://github.com/bashaway/cacti) - 
 - [robcowart/influx_snmp](https://github.com/robcowart/influx_snmp) - SNMP Data Collection and Analytics with the TICK Stack (Telegraf, InfluxDB, Chronograf and Kapacitor)
-- [bitnami/bitnami-docker-influxdb-relay](https://github.com/bitnami/bitnami-docker-influxdb-relay) - Bitnami InfluxDB Relay Docker Image
+- [bitnami/bitnami-docker-influxdb-relay](https://github.com/bitnami/bitnami-docker-influxdb-relay) - Bitnami Docker Image for InfluxDB Relay
 - [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [luisfarzati/localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [asmirnou/watsor-hassio-addons](https://github.com/asmirnou/watsor-hassio-addons) - Watsor add-ons for Home Assistant
@@ -1679,6 +1680,7 @@
 
 ## Go 
 
+- [msfjarvis/gphotos-cdp](https://github.com/msfjarvis/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go
 - [nrocco/bookmarks](https://github.com/nrocco/bookmarks) - Personal zero-touch bookmarking app in the cloud, with full text search support.
 - [NovatecConsulting/grafana-dashboard-synchronizer](https://github.com/NovatecConsulting/grafana-dashboard-synchronizer) - A Grafana backend plugin for automatic synchronization of dashboard between multiple Grafana instances.
@@ -3210,7 +3212,7 @@
 - [rancher/rke-tools](https://github.com/rancher/rke-tools) - Tools container for supporting functions in RKE
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [short-d/short](https://github.com/short-d/short) - URL shortening service written in Go and React
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
@@ -3359,7 +3361,7 @@
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [smartrecruiters/docker-bakery](https://github.com/smartrecruiters/docker-bakery) - Dockerfile hierarchy management tool with automatic rebuilding of dependent images when parent changes
-- [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
+- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes. It covers the entire life cycle of CI/CD and related artifacts, gluing commonly used tools (such as Git, Docker, Helm, K8s) and facilitating best practices.
 - [lucapette/fakedata](https://github.com/lucapette/fakedata) - CLI utility for fake data generation
 - [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler) - Program to reverse Docker images into Dockerfiles
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
@@ -3714,11 +3716,12 @@
 
 ## Haskell 
 
+- [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [yesodweb/yesod-cookbook](https://github.com/yesodweb/yesod-cookbook) - Cookbook documentation
 - [coinmetrics/haskell-tools](https://github.com/coinmetrics/haskell-tools) - Tools for exporting blockchain data to analytical databases
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [Gabriel439/bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [glotcode/glot-www](https://github.com/glotcode/glot-www) - glot.io website
 - [da-x/fancydiff](https://github.com/da-x/fancydiff) - Colorful Git diffs for terminal and web, including source syntax highlighting
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -3958,7 +3961,7 @@
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [dedalusj/cloudgram](https://github.com/dedalusj/cloudgram) - Generate diagrams for your cloud architecture using code
-- [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - DgrmJS is a JavaScript library for creating SVG flow diagrams. The main goal of the library is to set up workflows in BPM (Business Process Management) systems.  Works on desktop and mobile, has no dependency, small size.
+- [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - DgrmJS is a JavaScript library for creating SVG flow diagrams. The main goal of the library is to set up workflows in BPM (Business Process Management) systems.  Works on desktop and mobile, has no dependency, 10.7 kB without compression..
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
@@ -7159,6 +7162,7 @@
 
 ## Perl 
 
+- [DE-IBH/apt-dater-host](https://github.com/DE-IBH/apt-dater-host) - host helper application for apt-dater
 - [royharoush/DistributedScanning](https://github.com/royharoush/DistributedScanning) - introduction to distributed scanning using vultr
 - [jbittel/httpry](https://github.com/jbittel/httpry) - HTTP logging and information retrieval tool
 - [vergoh/vnstat-docker](https://github.com/vergoh/vnstat-docker) - vnStat in a container with image output via http
@@ -9779,6 +9783,7 @@
 
 ## Rust 
 
+- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [abutnaru/untanglr](https://github.com/abutnaru/untanglr) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
 - [chengyuhui/wordninja-rs](https://github.com/chengyuhui/wordninja-rs) - A Rust port of wordninja.
@@ -9853,7 +9858,7 @@
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A webhook server that schedules commands on request. Uses Pueue as executor backend.
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud native and cost-efficient search engine for log management
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native and cost-efficient search engine for log management
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
@@ -11159,7 +11164,7 @@
 - [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
 - [RPi-Distro/raspberrypi-sys-mods](https://github.com/RPi-Distro/raspberrypi-sys-mods) - A collection of Raspberry Pi-sourced system configuration files and associated scripts
-- [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, UPnP and Spotify Connect
+- [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, and Spotify Connect
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [neo954/raspbian-toolbox](https://github.com/neo954/raspbian-toolbox) - Raspbian Toolbox is a collection of tools for Raspbian image customization.
 - [adampie/pi-gen](https://github.com/adampie/pi-gen) - Automating the generation of Raspbian images for the Raspberry Pi using Ansible
@@ -11578,6 +11583,8 @@
 
 ## TypeScript 
 
+- [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
+- [liximomo/vscode-remote-fs](https://github.com/liximomo/vscode-remote-fs) - Working with any file in everywhere with vscode.
 - [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI
 - [grafana/synthetic-monitoring-app](https://github.com/grafana/synthetic-monitoring-app) - Synthetic Monitoring frontend application
 - [kamiazya/rediagram](https://github.com/kamiazya/rediagram) - Markup and draw your system diagrams with React.
