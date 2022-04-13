@@ -135,6 +135,8 @@
 
 ## AppleScript 
 
+- [jgallen23/layouts](https://github.com/jgallen23/layouts) - an applescript and alfred extension to manage window layouts
+- [fractaledmind/applescript_helpers](https://github.com/fractaledmind/applescript_helpers) - Handlers for AS user-interaction function
 - [mgax/applescript-json](https://github.com/mgax/applescript-json) - AppleScript JSON encoder
 - [essandess/etv-comskip](https://github.com/essandess/etv-comskip) - Commercial Marking and Skipping for EyeTV and iTunes Exports
 - [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts) - My collection of AppleScripts I've developed or acquired over the years.
@@ -3361,7 +3363,7 @@
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [smartrecruiters/docker-bakery](https://github.com/smartrecruiters/docker-bakery) - Dockerfile hierarchy management tool with automatic rebuilding of dependent images when parent changes
-- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes. It covers the entire life cycle of CI/CD and related artifacts, gluing commonly used tools (such as Git, Docker, Helm, K8s) and facilitating best practices.
+- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [lucapette/fakedata](https://github.com/lucapette/fakedata) - CLI utility for fake data generation
 - [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler) - Program to reverse Docker images into Dockerfiles
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
@@ -3521,7 +3523,6 @@
 - [captn3m0/nebula](https://github.com/captn3m0/nebula) - Source Code for the Home Server setup.
 - [juanyque/proxmox-k0s](https://github.com/juanyque/proxmox-k0s) - 
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
-- [mojaloop/documentation](https://github.com/mojaloop/documentation) - Repo that contains documentation for the Mojaloop project.
 - [kingsoftgames/certbot-lambda](https://github.com/kingsoftgames/certbot-lambda) - Running Certbot on AWS Lambda.
 - [vultr/terraform-vultr-condor](https://github.com/vultr/terraform-vultr-condor) - Kubernetes Deployment Tool for Vultr
 - [vivami/proxmox-automation](https://github.com/vivami/proxmox-automation) - Terraform and Ansible for VM and CT deployment and provisioning on Proxmox
@@ -3961,7 +3962,7 @@
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [dedalusj/cloudgram](https://github.com/dedalusj/cloudgram) - Generate diagrams for your cloud architecture using code
-- [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - DgrmJS is a JavaScript library for creating SVG flow diagrams. The main goal of the library is to set up workflows in BPM (Business Process Management) systems.  Works on desktop and mobile, has no dependency, 10.7 kB without compression..
+- [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - DgrmJS is a JavaScript library for creating SVG flow diagrams. The main goal of the library is to set up workflows in BPM (Business Process Management) systems.  Works on desktop and mobile, has no dependency, 3.5 KB gzipped.
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
@@ -4183,6 +4184,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
+- [mojaloop/documentation](https://github.com/mojaloop/documentation) - Repo that contains documentation for the Mojaloop project.
 - [mojaloop/central-event-processor](https://github.com/mojaloop/central-event-processor) - Standalone service that process events based on set of rules. Currently used to monitor the notification topic and create various notifications (e.g. email, etc).
 - [vinzdeveloper/json-rule-editor](https://github.com/vinzdeveloper/json-rule-editor) - Json rule editor
 - [CacheControl/json-rules-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON
@@ -5997,6 +5999,7 @@
 
 ## Objective-C 
 
+- [qlassiqa/qWorkflow](https://github.com/qlassiqa/qWorkflow) - AppleScript implementation of the Workflow object class for Alfred 2
 - [inverse-inc/sogo](https://github.com/inverse-inc/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission handling. It also makes use of documented standards (IMAP, CalDAV, CardDAV, etc.) and thereby provides native connectivity (without plugins) to many clients such as Microsoft Outlook, Apple iCal, the iPhone, Mozilla Lightning, and a plethora of mobile devices.
 - [nbonamy/EnergyBar](https://github.com/nbonamy/EnergyBar) - Supercharge your Mac's Touch Bar.
 - [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
@@ -7275,6 +7278,9 @@
 
 ## Python 
 
+- [nerdrew/kittens](https://github.com/nerdrew/kittens) - 
+- [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
+- [jmarhee/tailscale-dns-monitor](https://github.com/jmarhee/tailscale-dns-monitor) - 
 - [keredson/wordninja](https://github.com/keredson/wordninja) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
 - [NeuroForLunch/cnn-rtlsdr2](https://github.com/NeuroForLunch/cnn-rtlsdr2) - Deep learning signal classification using rtl-sdr dongle
 - [cocrawler/cdx_toolkit](https://github.com/cocrawler/cdx_toolkit) - A toolkit for CDX indices such as Common Crawl and the Internet Archive's Wayback Machine
@@ -9383,7 +9389,7 @@
 - [xmikos/qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer) - Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, hackrf_sweep, rtl_power, rx_power and other backends)
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
-- [knorth55/coral_usb_ros](https://github.com/knorth55/coral_usb_ros) - ROS package for Coral Edge TPU USB Accelerator
+- [jsk-ros-pkg/coral_usb_ros](https://github.com/jsk-ros-pkg/coral_usb_ros) - ROS package for Coral Edge TPU USB Accelerator
 - [leswright1977/RPi4-Google-Coral](https://github.com/leswright1977/RPi4-Google-Coral) - Google Coral on the Raspberry Pi 4
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
@@ -9539,7 +9545,7 @@
 
 ## RAML 
 
-- [spotify/ramlfications](https://github.com/spotify/ramlfications) - Python parser for RAML
+- [jdiegodcp/ramlfications](https://github.com/jdiegodcp/ramlfications) - Python parser for RAML
 
 ## Rascal 
 
@@ -9972,7 +9978,7 @@
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [aahancoc/tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast static web server with routing, templating, and security in a single binary you can set up with zero code.
 - [thecoshman/http](https://github.com/thecoshman/http) - Host These Things Please - a basic http server for hosting a folder fast and simply
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
@@ -10135,6 +10141,8 @@
 
 ## Shell 
 
+- [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
+- [ViRb3/tailscale-bolt](https://github.com/ViRb3/tailscale-bolt) - Create self-contained, 1-click scripts, which connect any computer to your TailScale network
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
 - [janprzy/zfs-snapsize](https://github.com/janprzy/zfs-snapsize) - Recursively get the combined size of a ZFS snapshot across descendant datasets
 - [ConorBeh/iocage-plugin-gitea](https://github.com/ConorBeh/iocage-plugin-gitea) - 
@@ -10336,7 +10344,7 @@
 - [learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) - Example based guide to mastering GNU grep and ripgrep
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [mdegat01/addon-promtail](https://github.com/mdegat01/addon-promtail) - Promtail for Home Assistant
-- [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances.
+- [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus](https://github.com/micha37-martins/S.M.A.R.T-disk-monitoring-for-Prometheus) - Prometheus node_exporter text_collector for S.M.A.R.T disk values
 - [epilande/alfred-wifi-password](https://github.com/epilande/alfred-wifi-password) - 🔐 Get Wi-Fi password from Keychain
 - [doekman/osagitfilter](https://github.com/doekman/osagitfilter) - Filter to put OSA languages (AppleScript, JavaScript) into git, as if they where plain text-files
@@ -11583,6 +11591,7 @@
 
 ## TypeScript 
 
+- [samlinville/raycast-tailscale](https://github.com/samlinville/raycast-tailscale) - A Tailscale extension for Raycast that lets you quickly access the addresses of your Tailnet devices and copy them to the clipboard.
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [liximomo/vscode-remote-fs](https://github.com/liximomo/vscode-remote-fs) - Working with any file in everywhere with vscode.
 - [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI
