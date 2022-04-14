@@ -200,6 +200,9 @@
 
 ## C 
 
+- [wulf7/linux-libbsd](https://github.com/wulf7/linux-libbsd) - Shim library that allows some BSD-specific software to be compiled and run under Linuxolator
+- [libinotify-kqueue/libinotify-kqueue](https://github.com/libinotify-kqueue/libinotify-kqueue) - inotify shim for BSD
+- [NLnetLabs/ldns](https://github.com/NLnetLabs/ldns) - LDNS is a DNS library that facilitates DNS tool programming
 - [DE-IBH/apt-dater](https://github.com/DE-IBH/apt-dater) - terminal-based remote package update manager
 - [wolfSSL/wolfMQTT](https://github.com/wolfSSL/wolfMQTT) - wolfMQTT is a small, fast, portable MQTT client implementation, including support for TLS 1.3.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
@@ -941,6 +944,7 @@
 - [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
+- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS(formerly ChubaoFS) is a cloud native distributed file system and object store.
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
 - [facebook/mariana-trench](https://github.com/facebook/mariana-trench) - Our security focused static analysis tool for Android and Java applications.
 - [khrykin/StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - No-Fuss Time Management App
@@ -1398,6 +1402,8 @@
 
 ## Dockerfile 
 
+- [madnuttah/unbound-docker](https://github.com/madnuttah/unbound-docker) - 🛡️ This multiarch Unbound Docker image is based on Alpine Linux with focus on security, privacy, performance and a small image size. And with Pi-hole in mind.
+- [veritas501/ip_derper](https://github.com/veritas501/ip_derper) - build tailscale derper serfver without domain
 - [linuxserver/docker-kdenlive](https://github.com/linuxserver/docker-kdenlive) - Responsive web accessible Kdenlive Docker container with hardware accelerated transcoding and audio.
 - [doitandbedone/ispyagentdvr-docker](https://github.com/doitandbedone/ispyagentdvr-docker) - 
 - [ansible/awx-ee](https://github.com/ansible/awx-ee) - An Ansible execution environment for AWX project
@@ -1471,6 +1477,7 @@
 - [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
 - [mkorenkov/docker-perkeep](https://github.com/mkorenkov/docker-perkeep) - prebuilt docker image of perkeep (aka camlistore)
 - [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
+- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap)
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
@@ -1682,6 +1689,9 @@
 
 ## Go 
 
+- [hekmon/rcgdip](https://github.com/hekmon/rcgdip) - RClone GDrive Inotify for Plex
+- [damomurf/ts-dns](https://github.com/damomurf/ts-dns) - A simple DNS server that resolves Tailscale hosts in your Tailnet
+- [SeanHood/tailscale-netcat](https://github.com/SeanHood/tailscale-netcat) - A tool designed to immitate netcat for the purposes of SSH's ProxyCommand
 - [msfjarvis/gphotos-cdp](https://github.com/msfjarvis/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go
 - [nrocco/bookmarks](https://github.com/nrocco/bookmarks) - Personal zero-touch bookmarking app in the cloud, with full text search support.
@@ -1881,7 +1891,7 @@
 - [barnardb/cookies](https://github.com/barnardb/cookies) - Command-line tool for extracting cookies from the user's web browser
 - [crowdsecurity/cs-custom-bouncer](https://github.com/crowdsecurity/cs-custom-bouncer) - CrowdSec bouncer to use custom scripts
 - [caarlos0/watchub](https://github.com/caarlos0/watchub) - Be notified of people who followed/unfollowed you and starred/unstarred your repositories
-- [astrophena/tsid](https://github.com/astrophena/tsid) - Tailscale integration for Caddy
+- [astrophena/tsid](https://github.com/astrophena/tsid) - Authenticate Tailscale users with Caddy
 - [hasnat/docker-events-notifier](https://github.com/hasnat/docker-events-notifier) - Docker events notifier
 - [zyylhn/zscan](https://github.com/zyylhn/zscan) - Zscan a scan blasting tool set
 - [andyjack/geoip2-haproxy-ranges](https://github.com/andyjack/geoip2-haproxy-ranges) - 
@@ -1991,7 +2001,6 @@
 - [nishanths/lyft](https://github.com/nishanths/lyft) - Create and manage Lyft rides from the command line
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
 - [mewil/tproxy](https://github.com/mewil/tproxy) - Container-based HTTPS proxy for Tailscale
-- [cubeFS/cubefs](https://github.com/cubeFS/cubefs) - CubeFS(formerly ChubaoFS) is a cloud native distributed file system and object store.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [FilWisher/go-ansi-diff](https://github.com/FilWisher/go-ansi-diff) - a literal translation of https://github.com/mafintosh/ansi-diff-stream to go
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -3518,6 +3527,7 @@
 
 ## HCL 
 
+- [brutesque/docker-swarm-over-vpn-mesh](https://github.com/brutesque/docker-swarm-over-vpn-mesh) - This terraform/ansible project creates a Docker Swarm that uses a Tinc vpn-mesh for private communication between nodes. The goal is to have a working swarm that has nodes across geo-locations using multiple providers.
 - [Tranceh2/k3os-terraform-proxmox](https://github.com/Tranceh2/k3os-terraform-proxmox) - 
 - [ffddorf/k3os-on-proxmox](https://github.com/ffddorf/k3os-on-proxmox) - Terraform provisioner for our Work Adventure server
 - [captn3m0/nebula](https://github.com/captn3m0/nebula) - Source Code for the Home Server setup.
@@ -3751,6 +3761,8 @@
 
 ## Java 
 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
+- [Netflix/metacat](https://github.com/Netflix/metacat) - 
 - [epam/Wilma](https://github.com/epam/Wilma) - Service Virtualization Solution – a combined Service Stub and Transparent Proxy
 - [wiremock/wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
 - [dbpedia/dbpedia-lookup](https://github.com/dbpedia/dbpedia-lookup) - A generic entity retrieval service for linked data. Contains presets to replicate the DBpedia Lookup service.
@@ -5270,7 +5282,6 @@
 - [NorthernMan54/homebridge-rtl](https://github.com/NorthernMan54/homebridge-rtl) - Homebridge Plugin for rtl_433 devices
 - [bluetel/chatops-webhook-proxy](https://github.com/bluetel/chatops-webhook-proxy) - A proxy for common webhook formats to post into Slack
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
-- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [SamVerschueren/alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) - Alfred 3 workflow to fabulously search and kill processes
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
@@ -6112,6 +6123,7 @@
 
 ## Others 
 
+- [Hayzox/NextDNS-Guide](https://github.com/Hayzox/NextDNS-Guide) - NextDNS recommended settings.
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [jimilinuxguy/Tesla-Charging-Port-Opener](https://github.com/jimilinuxguy/Tesla-Charging-Port-Opener) - Files for HackRF + Portapack MAYHEM firmware to open any and all Tesla vehicle charging ports in range!
@@ -6321,7 +6333,6 @@
 - [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
-- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [arbal/speed-cloudflare-cli](https://github.com/arbal/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [arbal/archive-imessages](https://github.com/arbal/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - All things Pacmax
@@ -6964,6 +6975,7 @@
 
 ## PHP 
 
+- [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [cloudharmony/network](https://github.com/cloudharmony/network) - Tests network performance characteristics including latency, throughput and DNS
@@ -7278,6 +7290,10 @@
 
 ## Python 
 
+- [vrachieru/tplink-smartplug-api](https://github.com/vrachieru/tplink-smartplug-api) - TP-Link HS1xx smart plug API wrapper.
+- [pageauc/pi-timolo](https://github.com/pageauc/pi-timolo) - Raspberry PI-TIMOLO ( PI-TImelapse, MOtion, LOwLight ) uses RPI picamera and OpenCV for Remote Headless Security Monitoring using Motion Tracking, Rclone Auto Sync files with remote storage services. Auto Twilight Transitions and Low Light Camera Settings.  Panoramic images using PanTiltHat and More. This project is featured on GitHub Awesome software.
+- [byt3bl33d3r/tailscalesd](https://github.com/byt3bl33d3r/tailscalesd) - Prometheus Service Discovery for Tailscale (Python Edition)
+- [samapriya/ghome](https://github.com/samapriya/ghome) - Simple CLI for Google Home & Mini
 - [nerdrew/kittens](https://github.com/nerdrew/kittens) - 
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
 - [jmarhee/tailscale-dns-monitor](https://github.com/jmarhee/tailscale-dns-monitor) - 
@@ -8104,7 +8120,6 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [chrippa/livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
-- [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
 - [neuml/paperai](https://github.com/neuml/paperai) - 📄 🤖 AI-powered literature discovery and review engine for medical/scientific papers
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
@@ -9884,7 +9899,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [flock-lab/flock](https://github.com/flock-lab/flock) - Flock: A Low-Cost Streaming Query Engine on FaaS Platforms
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time insights.
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
 - [leshow/nailgun](https://github.com/leshow/nailgun) - a dns performance testing client written in Rust
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [jaredgorski/arpx](https://github.com/jaredgorski/arpx) - Small-scale process orchestration
@@ -10141,6 +10156,10 @@
 
 ## Shell 
 
+- [rakheshster/docker-stubby-dnsmasq](https://github.com/rakheshster/docker-stubby-dnsmasq) - Stubby+Dnsmasq Docker image for DNS-over-TLS and optionally DHCP
+- [rakheshster/docker-stubby-unbound](https://github.com/rakheshster/docker-stubby-unbound) - Stubby+Unbound Docker image for DNS-over-TLS.
+- [lux4rd0/kasa-collector](https://github.com/lux4rd0/kasa-collector) - Kasa Collector provides a way of collecting real-time energy data from Kasa Smart Plugs. These Grafana dashboards offer visualizations for their Current, Voltage, Power, and Total Watt Hours.
+- [baandab/checkTailscale.sh](https://github.com/baandab/checkTailscale.sh) - Used to check if Tailscale is working; testing on macOS
 - [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker
 - [ViRb3/tailscale-bolt](https://github.com/ViRb3/tailscale-bolt) - Create self-contained, 1-click scripts, which connect any computer to your TailScale network
 - [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
@@ -11591,6 +11610,8 @@
 
 ## TypeScript 
 
+- [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
+- [tailscale/docker-extension](https://github.com/tailscale/docker-extension) - Docker Desktop extension adding Tailscale networking.
 - [samlinville/raycast-tailscale](https://github.com/samlinville/raycast-tailscale) - A Tailscale extension for Raycast that lets you quickly access the addresses of your Tailnet devices and copy them to the clipboard.
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [liximomo/vscode-remote-fs](https://github.com/liximomo/vscode-remote-fs) - Working with any file in everywhere with vscode.
@@ -12236,7 +12257,7 @@
 - [luke-feng/MAP](https://github.com/luke-feng/MAP) - This is a master project takes place in CSG at UZH.
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
-- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
+- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and new version of massCode is available in beta! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
