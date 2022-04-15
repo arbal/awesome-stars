@@ -1316,6 +1316,7 @@
 - [taroved/pol](https://github.com/taroved/pol) - RSS generator website
 - [amiechen/pretzel](https://github.com/amiechen/pretzel) - Pretzel is Mac desktop app that shows and find keyboard shortcuts based on your current app.
 - [romulomourao/tracemap](https://github.com/romulomourao/tracemap) - :pushpin: Tracemap is an app to visualize output of traceroute on the map. For educational purpose only.
+- [jantman/home-automation-configs](https://github.com/jantman/home-automation-configs) - home automation/security config/scripts/tooling - HomeAssistant, AppDaemon, ZoneMinder, etc.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [rhicks/bgp-dashboard](https://github.com/rhicks/bgp-dashboard) - BGP Dashboard and Monitoring Web Application
 - [domainzero/bookstack-dark-theme](https://github.com/domainzero/bookstack-dark-theme) - A dark theme for Bookstack using the dracula color scheme
@@ -1402,6 +1403,7 @@
 
 ## Dockerfile 
 
+- [klutchell/unbound-docker](https://github.com/klutchell/unbound-docker) - unofficial unbound multiarch docker image
 - [madnuttah/unbound-docker](https://github.com/madnuttah/unbound-docker) - 🛡️ This multiarch Unbound Docker image is based on Alpine Linux with focus on security, privacy, performance and a small image size. And with Pi-hole in mind.
 - [veritas501/ip_derper](https://github.com/veritas501/ip_derper) - build tailscale derper serfver without domain
 - [linuxserver/docker-kdenlive](https://github.com/linuxserver/docker-kdenlive) - Responsive web accessible Kdenlive Docker container with hardware accelerated transcoding and audio.
@@ -1689,6 +1691,7 @@
 
 ## Go 
 
+- [mhausenblas/cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding
 - [hekmon/rcgdip](https://github.com/hekmon/rcgdip) - RClone GDrive Inotify for Plex
 - [damomurf/ts-dns](https://github.com/damomurf/ts-dns) - A simple DNS server that resolves Tailscale hosts in your Tailnet
 - [SeanHood/tailscale-netcat](https://github.com/SeanHood/tailscale-netcat) - A tool designed to immitate netcat for the purposes of SSH's ProxyCommand
@@ -1877,7 +1880,7 @@
 - [minio/mint](https://github.com/minio/mint) - Collection of tests to detect overall correctness of MinIO server.
 - [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [grafana/cortex-tools](https://github.com/grafana/cortex-tools) - A set of powerful command line tools for interacting with cortex and friends.
+- [grafana/cortex-tools](https://github.com/grafana/cortex-tools) - This tool is deprecated. Please use "mimirtool" instead: https://github.com/grafana/mimir
 - [deref/exo](https://github.com/deref/exo) - A process manager & log viewer for dev
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [ledongthuc/gohowmuch](https://github.com/ledongthuc/gohowmuch) - Cryptocurrencies prices and graph on the terminal
@@ -2695,7 +2698,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
-- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @labstack, @gin-gonic, @zalando, @nginx and @apache
+- [darkweak/souin](https://github.com/darkweak/souin) - A cache system built on top of different reverse-proxy to cache data easily and save precious ms compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @labstack, @gofiber, @go-goyave, @gin-gonic, @zalando, @nginx and @apache
 - [acouvreur/traefik-ondemand-service](https://github.com/acouvreur/traefik-ondemand-service) - Traefik ondemand service for the traefik ondemand plugin
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [gophertuts/reminders-cli](https://github.com/gophertuts/reminders-cli) - Reminders CLI app in Go
@@ -2806,7 +2809,7 @@
 - [lfaoro/flares](https://github.com/lfaoro/flares) - Flares 🔥 is a CloudFlare DNS backup tool
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [asciimoo/filtron](https://github.com/asciimoo/filtron) - Filtering reverse HTTP proxy
-- [docker/swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
+- [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [caffix/amass](https://github.com/caffix/amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -3770,7 +3773,7 @@
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
-- [apiman/apiman](https://github.com/apiman/apiman) - API Management
+- [apiman/apiman](https://github.com/apiman/apiman) - Extensible and flexible API Management
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [EXXETA/correomqtt](https://github.com/EXXETA/correomqtt) - A modern graphical MQTT client using the HiveMQ client library. MQTT is a messaging protocol widely used in the IoT world. CorreoMQTT provides a UI to send and receive messages. It is able to handle multiple connections at the same time.
 - [EXXETA/correomqtt-plugins](https://github.com/EXXETA/correomqtt-plugins) - Plugins developed by Exxeta for CorreoMQTT.
@@ -7290,6 +7293,7 @@
 
 ## Python 
 
+- [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦
 - [vrachieru/tplink-smartplug-api](https://github.com/vrachieru/tplink-smartplug-api) - TP-Link HS1xx smart plug API wrapper.
 - [pageauc/pi-timolo](https://github.com/pageauc/pi-timolo) - Raspberry PI-TIMOLO ( PI-TImelapse, MOtion, LOwLight ) uses RPI picamera and OpenCV for Remote Headless Security Monitoring using Motion Tracking, Rclone Auto Sync files with remote storage services. Auto Twilight Transitions and Low Light Camera Settings.  Panoramic images using PanTiltHat and More. This project is featured on GitHub Awesome software.
 - [byt3bl33d3r/tailscalesd](https://github.com/byt3bl33d3r/tailscalesd) - Prometheus Service Discovery for Tailscale (Python Edition)
@@ -8317,7 +8321,7 @@
 - [DataPrajna/deep-nilmtk](https://github.com/DataPrajna/deep-nilmtk) - a deep learning base load disaggregation
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [jonathanrjpereira/Smart-Energy-Monitor](https://github.com/jonathanrjpereira/Smart-Energy-Monitor) - 🔌 Load Monitoring and Energy Disaggregation on a RasPi
-- [smakonin/RAEdataset](https://github.com/smakonin/RAEdataset) - Scripts of the the Rainforest Automation Energy Dataset (RAE dataset)
+- [smakonin/RAE.dataset](https://github.com/smakonin/RAE.dataset) - Scripts of the the Rainforest Automation Energy Dataset (RAE dataset)
 - [SrdjanLL/SensibleNILM](https://github.com/SrdjanLL/SensibleNILM) - Energy disaggregation - Deep learning approach.
 - [UCA-Datalab/nilm-thresholding](https://github.com/UCA-Datalab/nilm-thresholding) - Non-Intrusive Load Monitoring (NILM) aims to predict the status or consumption of domestic appliances in a household only by knowing the aggregated power load. NILM can be formulated as regression problem or most often as a classification problem. Most datasets gathered by smart meters allow to define naturally a regression problem, but the corresponding classification problem is a derived one, since it requires a conversion from the power signal to the status of each device by a thresholding method. We treat three different thresholding methods to perform this task, discussing their differences on various devices from the UK-DALE dataset. We analyze the performance of deep learning state-of-the-art architectures on both the regression and classification problems, introducing criteria to select the most convenient thresholding method.
 - [ChristoferNal/multi-nilm](https://github.com/ChristoferNal/multi-nilm) - Multi-NILM: Multi Label Non Intrusive Load Monitoring
@@ -8738,7 +8742,6 @@
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [simonw/db-to-sqlite](https://github.com/simonw/db-to-sqlite) - CLI tool for exporting tables or queries from any SQL database to a SQLite file
 - [bmf7777/Home-Assistant-Configuration](https://github.com/bmf7777/Home-Assistant-Configuration) - 
-- [jantman/home-automation-configs](https://github.com/jantman/home-automation-configs) - home automation/security config/scripts/tooling - HomeAssistant, AppDaemon, ZoneMinder, etc.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [frappe/bench](https://github.com/frappe/bench) - CLI to manage Multi-tenant deployments for Frappe apps
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -10156,6 +10159,7 @@
 
 ## Shell 
 
+- [m0zgen/dns-tester](https://github.com/m0zgen/dns-tester) - 🛠 Test DNS speed reply with overage, min, max statistics
 - [rakheshster/docker-stubby-dnsmasq](https://github.com/rakheshster/docker-stubby-dnsmasq) - Stubby+Dnsmasq Docker image for DNS-over-TLS and optionally DHCP
 - [rakheshster/docker-stubby-unbound](https://github.com/rakheshster/docker-stubby-unbound) - Stubby+Unbound Docker image for DNS-over-TLS.
 - [lux4rd0/kasa-collector](https://github.com/lux4rd0/kasa-collector) - Kasa Collector provides a way of collecting real-time energy data from Kasa Smart Plugs. These Grafana dashboards offer visualizations for their Current, Voltage, Power, and Total Watt Hours.
@@ -11610,6 +11614,7 @@
 
 ## TypeScript 
 
+- [flaminggoat/map-track-3-d](https://github.com/flaminggoat/map-track-3-d) - A plugin for Grafana that visualizes GPS points on a 3D globe
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
 - [tailscale/docker-extension](https://github.com/tailscale/docker-extension) - Docker Desktop extension adding Tailscale networking.
 - [samlinville/raycast-tailscale](https://github.com/samlinville/raycast-tailscale) - A Tailscale extension for Raycast that lets you quickly access the addresses of your Tailnet devices and copy them to the clipboard.
