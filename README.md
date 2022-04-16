@@ -1405,7 +1405,7 @@
 
 - [klutchell/unbound-docker](https://github.com/klutchell/unbound-docker) - unofficial unbound multiarch docker image
 - [madnuttah/unbound-docker](https://github.com/madnuttah/unbound-docker) - 🛡️ This multiarch Unbound Docker image is based on Alpine Linux with focus on security, privacy, performance and a small image size. And with Pi-hole in mind.
-- [veritas501/ip_derper](https://github.com/veritas501/ip_derper) - build tailscale derper serfver without domain
+- [veritas501/ip_derper](https://github.com/veritas501/ip_derper) - build tailscale derper server without domain
 - [linuxserver/docker-kdenlive](https://github.com/linuxserver/docker-kdenlive) - Responsive web accessible Kdenlive Docker container with hardware accelerated transcoding and audio.
 - [doitandbedone/ispyagentdvr-docker](https://github.com/doitandbedone/ispyagentdvr-docker) - 
 - [ansible/awx-ee](https://github.com/ansible/awx-ee) - An Ansible execution environment for AWX project
@@ -1691,6 +1691,10 @@
 
 ## Go 
 
+- [mautrix/imessage](https://github.com/mautrix/imessage) - A Matrix-iMessage puppeting bridge
+- [mautrix/wsproxy](https://github.com/mautrix/wsproxy) - A simple HTTP push -&gt; websocket proxy for Matrix appservices
+- [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
+- [ttys3/grafana-alert-template-validator](https://github.com/ttys3/grafana-alert-template-validator) - grafana-alert-template-validator
 - [mhausenblas/cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding
 - [hekmon/rcgdip](https://github.com/hekmon/rcgdip) - RClone GDrive Inotify for Plex
 - [damomurf/ts-dns](https://github.com/damomurf/ts-dns) - A simple DNS server that resolves Tailscale hosts in your Tailnet
@@ -3557,6 +3561,7 @@
 
 ## HTML 
 
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you get the server started, will create a mesh (a group of computers) and then download and install a mesh agent on each computer you want to manage. A minute later, the new computer will show up on the web site and you can take control of it, etc. MeshCentral includes full web-based remote desktop, terminal and file management capability.
 - [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
@@ -5044,6 +5049,7 @@
 - [recall-photos/recall-app](https://github.com/recall-photos/recall-app) - 🖼️ An open-source and decentralized alternative to Google Photos built on top of Blockstack
 - [googlesamples/google-photos](https://github.com/googlesamples/google-photos) - Samples for the Google Photos Library API 📸
 - [mayank/gphotos-uploader-cli](https://github.com/mayank/gphotos-uploader-cli) - Command Line Google Photos Uploader
+- [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 - [introlab/odas_web](https://github.com/introlab/odas_web) - A desktop visualization GUI for the ODAS library
 - [fbi-cde/crime-data-frontend](https://github.com/fbi-cde/crime-data-frontend) - Visualization and download tools for exploring the FBI’s Uniform Crime Reporting (UCR) data
 - [ehmicky/unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
@@ -6126,6 +6132,7 @@
 
 ## Others 
 
+- [rodolpheh/awesome-matrix](https://github.com/rodolpheh/awesome-matrix) - A curated list of awesome stuff around Matrix
 - [Hayzox/NextDNS-Guide](https://github.com/Hayzox/NextDNS-Guide) - NextDNS recommended settings.
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
@@ -7293,6 +7300,8 @@
 
 ## Python 
 
+- [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
+- [mautrix/facebook](https://github.com/mautrix/facebook) - A Matrix-Facebook Messenger puppeting bridge
 - [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦
 - [vrachieru/tplink-smartplug-api](https://github.com/vrachieru/tplink-smartplug-api) - TP-Link HS1xx smart plug API wrapper.
 - [pageauc/pi-timolo](https://github.com/pageauc/pi-timolo) - Raspberry PI-TIMOLO ( PI-TImelapse, MOtion, LOwLight ) uses RPI picamera and OpenCV for Remote Headless Security Monitoring using Motion Tracking, Rclone Auto Sync files with remote storage services. Auto Twilight Transitions and Low Light Camera Settings.  Panoramic images using PanTiltHat and More. This project is featured on GitHub Awesome software.
@@ -7449,7 +7458,7 @@
 - [AgriVision/rpi_rtlsdr_weather_station](https://github.com/AgriVision/rpi_rtlsdr_weather_station) - python code to show weather data from a wireless weather station to a web page
 - [healthchecks/hchk](https://github.com/healthchecks/hchk) - A CLI interface to healthchecks.io
 - [deanishe/alfred-fuzzyfolders](https://github.com/deanishe/alfred-fuzzyfolders) - Fuzzy search across folder subdirectories
-- [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require a headless browser, like other selenium based solutions do!
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -8568,7 +8577,6 @@
 - [devrandom/gitian-builder](https://github.com/devrandom/gitian-builder) - Build packages in a secure deterministic fashion inside a VM
 - [mozilla/DeepSpeech-examples](https://github.com/mozilla/DeepSpeech-examples) - Examples of how to use or integrate DeepSpeech
 - [pannous/tensorflow-speech-recognition](https://github.com/pannous/tensorflow-speech-recognition) - 🎙Speech recognition using the tensorflow deep learning framework, sequence-to-sequence neural networks
-- [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 - [apop880/config-check](https://github.com/apop880/config-check) - Check your Home Assistant configuration from the frontend, or automatically when the configuration is updated, and optionally restart HASS automatically!
 - [crowbarz/ha-sql_json](https://github.com/crowbarz/ha-sql_json) - Updated SQL integration for Home Assistant that supports JSON attributes
 - [lebedov/scikit-cuda](https://github.com/lebedov/scikit-cuda) - Python interface to GPU-powered libraries
@@ -8664,7 +8672,7 @@
 - [anuragbanerjee/literature-organizer](https://github.com/anuragbanerjee/literature-organizer) - Automatically rename research papers, ebooks, and PDFs.
 - [quobyte/network-tester](https://github.com/quobyte/network-tester) - 
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection & remediation service.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secrets in source code, scan your repositories for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection & remediation service.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [adferrand/dnsrobocert](https://github.com/adferrand/dnsrobocert) - Orchestrate Certbot and Lexicon together to provide Let's Encrypt TLS certificates validated by DNS challenges
@@ -10159,6 +10167,7 @@
 
 ## Shell 
 
+- [thebitguru/alfred-imessage-2fa-copy](https://github.com/thebitguru/alfred-imessage-2fa-copy) - iMessage 2FA Workflow for Alfred
 - [m0zgen/dns-tester](https://github.com/m0zgen/dns-tester) - 🛠 Test DNS speed reply with overage, min, max statistics
 - [rakheshster/docker-stubby-dnsmasq](https://github.com/rakheshster/docker-stubby-dnsmasq) - Stubby+Dnsmasq Docker image for DNS-over-TLS and optionally DHCP
 - [rakheshster/docker-stubby-unbound](https://github.com/rakheshster/docker-stubby-unbound) - Stubby+Unbound Docker image for DNS-over-TLS.
@@ -11394,6 +11403,7 @@
 
 ## Swift 
 
+- [open-imcore/barcelona](https://github.com/open-imcore/barcelona) - Swift framework for interacting with iMessage
 - [jesse-c/AppearanceNotifier](https://github.com/jesse-c/AppearanceNotifier) - This application listens for when the macOS interface theme changes and then does some thing(s). For now, it's hardcoded to switching my kitty and Neovim themes to match the new theme.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
@@ -12262,7 +12272,7 @@
 - [luke-feng/MAP](https://github.com/luke-feng/MAP) - This is a master project takes place in CSG at UZH.
 - [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
-- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and new version of massCode is available in beta! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
+- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [nwtgck/piping-screen-share-web](https://github.com/nwtgck/piping-screen-share-web) - 🖥️ Screen Share via Piping Server with End-to-End Encryption
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
