@@ -200,6 +200,8 @@
 
 ## C 
 
+- [mkirchner/tcping](https://github.com/mkirchner/tcping) - Check if a desired port is reachable via TCP
+- [ioi/isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
 - [wulf7/linux-libbsd](https://github.com/wulf7/linux-libbsd) - Shim library that allows some BSD-specific software to be compiled and run under Linuxolator
 - [libinotify-kqueue/libinotify-kqueue](https://github.com/libinotify-kqueue/libinotify-kqueue) - inotify shim for BSD
 - [NLnetLabs/ldns](https://github.com/NLnetLabs/ldns) - LDNS is a DNS library that facilitates DNS tool programming
@@ -1691,6 +1693,8 @@
 
 ## Go 
 
+- [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
+- [coroot/coroot-node-agent](https://github.com/coroot/coroot-node-agent) - A Prometheus exporter based on eBPF that gathers comprehensive container metrics
 - [mautrix/imessage](https://github.com/mautrix/imessage) - A Matrix-iMessage puppeting bridge
 - [mautrix/wsproxy](https://github.com/mautrix/wsproxy) - A simple HTTP push -&gt; websocket proxy for Matrix appservices
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
@@ -2791,6 +2795,7 @@
 - [groob/moroz](https://github.com/groob/moroz) - Moroz is a Santa server
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
@@ -3230,7 +3235,7 @@
 - [rancher/rke-tools](https://github.com/rancher/rke-tools) - Tools container for supporting functions in RKE
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
 - [short-d/short](https://github.com/short-d/short) - URL shortening service written in Go and React
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
@@ -3561,6 +3566,7 @@
 
 ## HTML 
 
+- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you get the server started, will create a mesh (a group of computers) and then download and install a mesh agent on each computer you want to manage. A minute later, the new computer will show up on the web site and you can take control of it, etc. MeshCentral includes full web-based remote desktop, terminal and file management capability.
@@ -3974,6 +3980,9 @@
 
 ## JavaScript 
 
+- [bvaughn/progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
+- [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
+- [lavvy/cloudinovasi-ui](https://github.com/lavvy/cloudinovasi-ui) - Cloudinovasi UI for Docker/Swarm
 - [mariusandra/insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform
 - [bevacqua/fuzzysearch](https://github.com/bevacqua/fuzzysearch) - :crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
@@ -5030,7 +5039,6 @@
 - [jacobwgillespie/plex-sync](https://github.com/jacobwgillespie/plex-sync) - :clapper: Command line utility for synchronizing Plex Media Server watched / seen status between multiple servers
 - [Mr-Linus/DCMP](https://github.com/Mr-Linus/DCMP) - Docker Container Management Platform（Dashboard UI）
 - [parabuzzle/craneoperator](https://github.com/parabuzzle/craneoperator) - Gives you a simple web interface for browsing around a Docker Registry
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [0x01h/sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
@@ -5922,6 +5930,7 @@
 
 ## Makefile 
 
+- [lukaszlach/kali-desktop](https://github.com/lukaszlach/kali-desktop) - :whale: Kali Linux desktop running in Docker on any operating system, in your web browser or a VNC client, with Kali top10 tools pre-installed.
 - [mozilla-services/docs](https://github.com/mozilla-services/docs) - Documentation for Mozilla Services Services
 - [Clever/csvlint](https://github.com/Clever/csvlint) - library and command line tool that validates a CSV file
 - [xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
@@ -6132,6 +6141,7 @@
 
 ## Others 
 
+- [sw-yx/cli-cheatsheet](https://github.com/sw-yx/cli-cheatsheet) - helpful libraries for *building* CLIs. Not a list of CLIs.
 - [rodolpheh/awesome-matrix](https://github.com/rodolpheh/awesome-matrix) - A curated list of awesome stuff around Matrix
 - [Hayzox/NextDNS-Guide](https://github.com/Hayzox/NextDNS-Guide) - NextDNS recommended settings.
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
@@ -7300,6 +7310,11 @@
 
 ## Python 
 
+- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+- [madron/iptables-exporter](https://github.com/madron/iptables-exporter) - 
+- [u1234x1234/torpool](https://github.com/u1234x1234/torpool) - Containerized pool of multiple Tor instances with load balancing and HTTP proxy.
+- [cms-dev/cms](https://github.com/cms-dev/cms) - Contest Management System
+- [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas) - TrueNAS integration for Home Assistant
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [mautrix/facebook](https://github.com/mautrix/facebook) - A Matrix-Facebook Messenger puppeting bridge
 - [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦
@@ -10167,6 +10182,8 @@
 
 ## Shell 
 
+- [Link-/gh-token](https://github.com/Link-/gh-token) - Create an installation access token for a GitHub app from your terminal 💻
+- [nejohnson2/sdr-research](https://github.com/nejohnson2/sdr-research) - Notes on installing and operating various SDR software on various devices such as an RPi, BBB etc...
 - [thebitguru/alfred-imessage-2fa-copy](https://github.com/thebitguru/alfred-imessage-2fa-copy) - iMessage 2FA Workflow for Alfred
 - [m0zgen/dns-tester](https://github.com/m0zgen/dns-tester) - 🛠 Test DNS speed reply with overage, min, max statistics
 - [rakheshster/docker-stubby-dnsmasq](https://github.com/rakheshster/docker-stubby-dnsmasq) - Stubby+Dnsmasq Docker image for DNS-over-TLS and optionally DHCP
@@ -10829,7 +10846,7 @@
 - [vitorgalvao/tiny-alfred-scripts](https://github.com/vitorgalvao/tiny-alfred-scripts) - Collection of small scripts to manage my Alfred Workflows
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document processing, OCR for images & PDF, named entity recognition for persons, organizations & locations, metadata management by thesaurus & ontologies, search user interface & search apps for fulltext search, faceted search & knowledge graph)
-- [zercurity/zercurity](https://github.com/zercurity/zercurity) - 
+- [zercurity/zercurity](https://github.com/zercurity/zercurity) - Manage, monitor and improve your cyber security posture.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [varunsridharan/pi-hole-android-private-dns](https://github.com/varunsridharan/pi-hole-android-private-dns) - Script to auto-install & configure Android Private DNS For Pi-Hole
