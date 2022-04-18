@@ -284,7 +284,7 @@
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [openebs/libcstor](https://github.com/openebs/libcstor) - CAS Data Engine - Library to serve IOs on uZFS with synchronous replication, snapshots and clones
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
-- [joyent/pivy](https://github.com/joyent/pivy) - Tools for using PIV tokens (like Yubikeys) as an SSH agent, for encrypting data at rest, and more
+- [TritonDataCenter/pivy](https://github.com/TritonDataCenter/pivy) - Tools for using PIV tokens (like Yubikeys) as an SSH agent, for encrypting data at rest, and more
 - [akhilguliani/turbostat_ryzen](https://github.com/akhilguliani/turbostat_ryzen) - A modified version of the linux turbostat utility to do power measurements on Ryzen CPU's
 - [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
 - [gdnsd/gdnsd](https://github.com/gdnsd/gdnsd) - Authoritative DNS Server --
@@ -780,7 +780,7 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [quick2wire/quick2wire-gpio-admin](https://github.com/quick2wire/quick2wire-gpio-admin) - Use the GPIO pins on the Raspberry Pi without running as root
+- [romilly/quick2wire-gpio-admin](https://github.com/romilly/quick2wire-gpio-admin) - Use the GPIO pins on the Raspberry Pi without running as root
 
 ## C# # 
 
@@ -1693,6 +1693,7 @@
 
 ## Go 
 
+- [aerokube/ggr-ui](https://github.com/aerokube/ggr-ui) - The missing /status API for Ggr
 - [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
 - [coroot/coroot-node-agent](https://github.com/coroot/coroot-node-agent) - A Prometheus exporter based on eBPF that gathers comprehensive container metrics
 - [mautrix/imessage](https://github.com/mautrix/imessage) - A Matrix-iMessage puppeting bridge
@@ -1976,7 +1977,7 @@
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
 - [irevenko/tsukae](https://github.com/irevenko/tsukae) - 🐚📊 Show off your most used shell commands
 - [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager) - Start docker containers on requests and stop them after a timeout
-- [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, DoT, DoH, DoQ and ODoH.
+- [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [WingLim/caddy-webhook](https://github.com/WingLim/caddy-webhook) - Caddy v2 module for serving a webhook.
 - [pd/srvaddr](https://github.com/pd/srvaddr) - Simple SRV record querying from the CLI
 - [ahmetb/wagl](https://github.com/ahmetb/wagl) - :bee: DNS Service Discovery for Docker Swarm. Works out of the box. (NOW OBSOLETE, USE SWARM MODE)
@@ -3980,6 +3981,7 @@
 
 ## JavaScript 
 
+- [riemann/riemann-dash](https://github.com/riemann/riemann-dash) - An HTTP dashboard for Riemann.
 - [bvaughn/progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
 - [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
 - [lavvy/cloudinovasi-ui](https://github.com/lavvy/cloudinovasi-ui) - Cloudinovasi UI for Docker/Swarm
@@ -7310,6 +7312,8 @@
 
 ## Python 
 
+- [RhetTbull/sqlgrep](https://github.com/RhetTbull/sqlgrep) - grep for sqlite databases
+- [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [madron/iptables-exporter](https://github.com/madron/iptables-exporter) - 
 - [u1234x1234/torpool](https://github.com/u1234x1234/torpool) - Containerized pool of multiple Tor instances with load balancing and HTTP proxy.
@@ -7516,7 +7520,7 @@
 - [GurpreetKang/BitwardenDecrypt](https://github.com/GurpreetKang/BitwardenDecrypt) - Decrypts an encrypted Bitwarden data.json file.
 - [yeti-platform/yeti](https://github.com/yeti-platform/yeti) - Your Everyday Threat Intelligence
 - [9b/netinfo](https://github.com/9b/netinfo) - Simple IP enrichment service and API wrapping PyASN and MaxMind GeoIP.
-- [apprell/proxmox-autosnap](https://github.com/apprell/proxmox-autosnap) - ZFS automatic snapshot script for Proxmox VE 5
+- [apprell/proxmox-autosnap](https://github.com/apprell/proxmox-autosnap) - ZFS automatic snapshot script for Proxmox VE 5,6,7
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
 - [cmehay/docker-tor-hidden-service](https://github.com/cmehay/docker-tor-hidden-service) - 
 - [attardi/wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
@@ -9545,7 +9549,7 @@
 - [Xuth/tp4000_dmm](https://github.com/Xuth/tp4000_dmm) - Python module to read and parse data from the TekPower tp4000zc digital multimeters (and probably several others)
 - [amperka/ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 - [phelixbtc/ncsc](https://github.com/phelixbtc/ncsc) - Namecoin Stock Control
-- [quick2wire/quick2wire-python-api](https://github.com/quick2wire/quick2wire-python-api) - Python API for controlling GPIO and I2C devices connected to the Raspberry Pi
+- [romilly/quick2wire-python-api](https://github.com/romilly/quick2wire-python-api) - Python API for controlling GPIO and I2C devices connected to the Raspberry Pi
 
 ## QML 
 
@@ -9888,6 +9892,7 @@
 - [breard-r/acmed](https://github.com/breard-r/acmed) - ACME (RFC 8555) client daemon
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
+- [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [icewind1991/prometheus-mdns-rs](https://github.com/icewind1991/prometheus-mdns-rs) - mDNS service discovery for prometherus
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
@@ -10301,7 +10306,6 @@
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [Shopify/hookbook](https://github.com/Shopify/hookbook) - Hookbook provides a way to register multiple "DEBUG" hooks in bash, and their equivalents in zsh.
-- [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [xTITUSMAXIMUSX/iocage-plugin-zabbix5-server](https://github.com/xTITUSMAXIMUSX/iocage-plugin-zabbix5-server) - 
 - [kristopolous/TickTick](https://github.com/kristopolous/TickTick) - JSON in your Bash scripts
 - [n27051538/grafana-import-export](https://github.com/n27051538/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
