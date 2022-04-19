@@ -1405,6 +1405,7 @@
 
 ## Dockerfile 
 
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx
 - [klutchell/unbound-docker](https://github.com/klutchell/unbound-docker) - unofficial unbound multiarch docker image
 - [madnuttah/unbound-docker](https://github.com/madnuttah/unbound-docker) - 🛡️ This multiarch Unbound Docker image is based on Alpine Linux with focus on security, privacy, performance and a small image size. And with Pi-hole in mind.
 - [veritas501/ip_derper](https://github.com/veritas501/ip_derper) - build tailscale derper server without domain
@@ -3981,6 +3982,8 @@
 
 ## JavaScript 
 
+- [marcelklehr/recognize](https://github.com/marcelklehr/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [riemann/riemann-dash](https://github.com/riemann/riemann-dash) - An HTTP dashboard for Riemann.
 - [bvaughn/progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
 - [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
@@ -5486,7 +5489,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [AMoo-Miki/homebridge-tuya-lan](https://github.com/AMoo-Miki/homebridge-tuya-lan) - Homebridge plugin for IoT devices that use Tuya Smart's platform
 - [seydx/homebridge-sonybravia-platform](https://github.com/seydx/homebridge-sonybravia-platform) - Sony Android TV Platform for Homebridge
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 🖭  Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [sindresorhus/term-size-cli](https://github.com/sindresorhus/term-size-cli) - Reliably get the terminal window size - cross-platform
 - [enesser/vCards-js](https://github.com/enesser/vCards-js) - Create vCards to import contacts into Outlook, iOS, Mac OS, and Android devices from your website or application.
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
@@ -6997,6 +7000,7 @@
 
 ## PHP 
 
+- [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator) - Nextcloud app to do preview generation
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -7312,6 +7316,7 @@
 
 ## Python 
 
+- [nextcloud/news-updater](https://github.com/nextcloud/news-updater) - :newspaper: Fast, parallel feed updater for the News app; written in Python
 - [RhetTbull/sqlgrep](https://github.com/RhetTbull/sqlgrep) - grep for sqlite databases
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
@@ -8944,7 +8949,7 @@
 - [mit-acl/cadrl_ros](https://github.com/mit-acl/cadrl_ros) - ROS package for dynamic obstacle avoidance for ground robots trained with deep RL
 - [lbeaucourt/Object-detection](https://github.com/lbeaucourt/Object-detection) - Object detection project for real-time (webcam) and offline (video processing) application.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - AI Face Recognition/Person Detection NVR. Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano and telegram to protect your privacy.
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - DeepCamera is not only an AI Face Recognition/Person Detection NVR. Machine Learning on the Edge, turn your Camera into AI-powered with Jetson Nano and telegram to protect your privacy.
 - [BMW-InnovationLab/BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
 - [idealo/image-quality-assessment](https://github.com/idealo/image-quality-assessment) - Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 - [Delta-ML/delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
@@ -9630,6 +9635,9 @@
 
 ## Ruby 
 
+- [mdub/clamp](https://github.com/mdub/clamp) - a Ruby command-line application framework
+- [theforeman/hammer-cli](https://github.com/theforeman/hammer-cli) - Next-gen CLI tool for foreman
+- [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) - Next-gen CLI tool for foreman (Foreman-specific commands)
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - Remote multi-server automation tool
 - [njh/mqtt-http-bridge](https://github.com/njh/mqtt-http-bridge) - MQTT to HTTP bridge
 - [html2rss/html2rss-configs](https://github.com/html2rss/html2rss-configs) - 📇 A growing collection of html2rss feed configs. Generate configs with the handy generator.
@@ -9910,7 +9918,7 @@
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A webhook server that schedules commands on request. Uses Pueue as executor backend.
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native and cost-efficient search engine for log management
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native and cost-efficient search engine for log management & analytics
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
@@ -10187,6 +10195,8 @@
 
 ## Shell 
 
+- [edemko/will](https://github.com/edemko/will) - 
+- [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
 - [Link-/gh-token](https://github.com/Link-/gh-token) - Create an installation access token for a GitHub app from your terminal 💻
 - [nejohnson2/sdr-research](https://github.com/nejohnson2/sdr-research) - Notes on installing and operating various SDR software on various devices such as an RPi, BBB etc...
 - [thebitguru/alfred-imessage-2fa-copy](https://github.com/thebitguru/alfred-imessage-2fa-copy) - iMessage 2FA Workflow for Alfred
