@@ -733,7 +733,7 @@
 - [jgeraerts/mdns-repeater](https://github.com/jgeraerts/mdns-repeater) - Multicast DNS (mdns) repeater. Now running on OpenBSD
 - [haesbaert/mdnsd](https://github.com/haesbaert/mdnsd) - Mdns daemon for OpenBSD.
 - [troglobit/pimd](https://github.com/troglobit/pimd) - PIM-SM/SSM multicast routing for UNIX
-- [troglobit/mtools](https://github.com/troglobit/mtools) - Tools for multicast testing (msend and mreceive)
+- [troglobit/mtools](https://github.com/troglobit/mtools) - Tools for multicast testing (msend and mreceive).  I do however recommend you try out mcjoin(!) or mping instead.
 - [timkuijsten/zatch](https://github.com/timkuijsten/zatch) - Efficiently watch directory changes on macOS
 - [rofl0r/jobflow](https://github.com/rofl0r/jobflow) - runs stuff in parallel (like GNU parallel, but much faster and memory-efficient)
 - [cocoahuke/coBlue](https://github.com/cocoahuke/coBlue) - Use Bluetooth Low Energy for remote commands, file transfer, Based on bluez Bluetooth protocol stack (BLE Terminal)
@@ -1694,6 +1694,11 @@
 
 ## Go 
 
+- [gocrane/crane](https://github.com/gocrane/crane) - Crane (FinOps Crane) is an opensource project which manages cloud resource on Kubernetes stack, it is inspired by FinOps concepts.
+- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+- [darklynx/request-baskets](https://github.com/darklynx/request-baskets) - HTTP requests collector to test webhooks, notifications, REST clients and more ...
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [kalgurn/github-rate-limits-prometheus-exporter](https://github.com/kalgurn/github-rate-limits-prometheus-exporter) - GitHub Rate Limits Prometheus exporter. Works with both App and PAT credentials
 - [aerokube/ggr-ui](https://github.com/aerokube/ggr-ui) - The missing /status API for Ggr
 - [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
 - [coroot/coroot-node-agent](https://github.com/coroot/coroot-node-agent) - A Prometheus exporter based on eBPF that gathers comprehensive container metrics
@@ -2690,7 +2695,7 @@
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [golang/perf](https://github.com/golang/perf) - [mirror] Performance measurement, storage, and analysis.
 - [rsc/benchstat](https://github.com/rsc/benchstat) - Benchstat computes and compares statistics about benchmarks.
-- [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using Accelerate SHA256 computations in pure Go using AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performance boost of close to 4x over native.
+- [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performance boost of close to 4x over native.
 - [google/skicka](https://github.com/google/skicka) - Command-line utility for working with Google Drive. Join the mailing list at https://groups.google.com/forum/#!forum/skicka-users.
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [johanmeiring/mikrocount](https://github.com/johanmeiring/mikrocount) - Mikrotik accounting data aggregation and visualisation
@@ -2764,7 +2769,7 @@
 - [WeBankPartners/open-monitor](https://github.com/WeBankPartners/open-monitor) - Distributed monitoring system based on Prometheus
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [squzy/squzy](https://github.com/squzy/squzy) - Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love. Welcome to free SRE
-- [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
+- [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - [deprecated] Bot for Prometheus' Alertmanager
 - [710leo/urlooker](https://github.com/710leo/urlooker) - enterprise-level websites monitoring system
 - [yolossn/Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -3777,6 +3782,7 @@
 
 ## Java 
 
+- [arbal/webnettools](https://github.com/arbal/webnettools) - Web Net Tools is a web frontend for some useful command line tooling including testssl.sh and nmap.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [Netflix/metacat](https://github.com/Netflix/metacat) - 
 - [epam/Wilma](https://github.com/epam/Wilma) - Service Virtualization Solution – a combined Service Stub and Transparent Proxy
@@ -5432,6 +5438,7 @@
 - [kbshl/alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
 - [auth0/repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [Thomas101/wmail](https://github.com/Thomas101/wmail) - The missing desktop client for Gmail & Google Inbox
 - [francescou/docker-compose-ui](https://github.com/francescou/docker-compose-ui) - web interface for Docker Compose
@@ -5571,7 +5578,7 @@
 - [fitomad/browsers-applescript](https://github.com/fitomad/browsers-applescript) - Obtain URL and Title from the frontmost browser
 - [darkguy2008/parallelshell](https://github.com/darkguy2008/parallelshell) - Run multiple shell commands in parallel
 - [ha7ilm/openwebrx](https://github.com/ha7ilm/openwebrx) - Open source, multi-user SDR receiver software with a web interface
-- [stripe/stripe-payments-demo](https://github.com/stripe/stripe-payments-demo) - Sample store accepting universal payments on the web with Stripe Elements, Payment Request, Apple Pay, Google Pay, Microsoft Pay, and the PaymentIntents API. 💳🌍✨
+- [stripe-archive/stripe-payments-demo](https://github.com/stripe-archive/stripe-payments-demo) - Sample store accepting universal payments on the web with Stripe Elements, Payment Request, Apple Pay, Google Pay, Microsoft Pay, and the PaymentIntents API. 💳🌍✨
 - [patrickschur/pappet](https://github.com/patrickschur/pappet) - A command-line tool to crawl websites using puppeteer.
 - [apify/apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
@@ -5884,6 +5891,8 @@
 
 ## Lua 
 
+- [swsbmm/server-docker-swarm](https://github.com/swsbmm/server-docker-swarm) - Traefik, Portainer, Wordpress, Jisti.
+- [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
@@ -5907,7 +5916,6 @@
 - [NicolaiSoeborg/filemanager-plugin](https://github.com/NicolaiSoeborg/filemanager-plugin) - A file manager plugin for the editor "Micro"
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [mix1009/HammerspoonConfiguration](https://github.com/mix1009/HammerspoonConfiguration) - Hammerspoon configuration with hyper key using Karabiner-Elements.
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 - [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
 - [cldrn/nmap-nse-scripts](https://github.com/cldrn/nmap-nse-scripts) - My collection of nmap NSE scripts
@@ -5938,6 +5946,7 @@
 - [lukaszlach/kali-desktop](https://github.com/lukaszlach/kali-desktop) - :whale: Kali Linux desktop running in Docker on any operating system, in your web browser or a VNC client, with Kali top10 tools pre-installed.
 - [mozilla-services/docs](https://github.com/mozilla-services/docs) - Documentation for Mozilla Services Services
 - [Clever/csvlint](https://github.com/Clever/csvlint) - library and command line tool that validates a CSV file
+- [klutchell/mediaserver](https://github.com/klutchell/mediaserver) - docker-based plex & usenet media server using custom subdomains with tls
 - [xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace) - A curated list of awesome DTrace books, articles, videos, tools and resources.
 - [mike182uk/alfred-snpt](https://github.com/mike182uk/alfred-snpt) - An Alfred workflow for snpt
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
@@ -6146,6 +6155,8 @@
 
 ## Others 
 
+- [arbal/github-rate-limits-prometheus-exporter](https://github.com/arbal/github-rate-limits-prometheus-exporter) - GitHub Rate Limits Prometheus exporter. Works with both App and PAT credentials
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [sw-yx/cli-cheatsheet](https://github.com/sw-yx/cli-cheatsheet) - helpful libraries for *building* CLIs. Not a list of CLIs.
 - [rodolpheh/awesome-matrix](https://github.com/rodolpheh/awesome-matrix) - A curated list of awesome stuff around Matrix
 - [Hayzox/NextDNS-Guide](https://github.com/Hayzox/NextDNS-Guide) - NextDNS recommended settings.
@@ -7316,6 +7327,8 @@
 
 ## Python 
 
+- [eserdk/self-hosted-standard-notes](https://github.com/eserdk/self-hosted-standard-notes) - Almost production-ready docker-compose configuration for self-hosted standard notes server with periodic encrypted backups to S3 and traefik as a reverse proxy.
+- [amalfra/docker-hub](https://github.com/amalfra/docker-hub) - Docker Hub in your terminal
 - [nextcloud/news-updater](https://github.com/nextcloud/news-updater) - :newspaper: Fast, parallel feed updater for the News app; written in Python
 - [RhetTbull/sqlgrep](https://github.com/RhetTbull/sqlgrep) - grep for sqlite databases
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
@@ -9842,6 +9855,7 @@
 
 ## Rust 
 
+- [adamchalmers/dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [abutnaru/untanglr](https://github.com/abutnaru/untanglr) - Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.
@@ -9918,7 +9932,7 @@
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A webhook server that schedules commands on request. Uses Pueue as executor backend.
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native and cost-efficient search engine for log management & analytics
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-Native Log Management & Analytics. Troubleshoot, investigate, and analyze logs at scale.
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
@@ -10234,7 +10248,6 @@
 - [novakin/dns-failover-cloudflare-monit](https://github.com/novakin/dns-failover-cloudflare-monit) - Setup DNS Failover for Cloudflare with monit - https://www.noobunbox.net
 - [Cyber-Guy1/BlackDragon](https://github.com/Cyber-Guy1/BlackDragon) - An Adavnced Automation Tool For Web-Recon Developed For Linux Systems
 - [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.
-- [klutchell/mediaserver](https://github.com/klutchell/mediaserver) - docker-based plex & usenet media server using custom subdomains with tls
 - [psharkey/docker](https://github.com/psharkey/docker) - Repository for automated https://hub.docker.com builds.
 - [lux4rd0/wifiscan](https://github.com/lux4rd0/wifiscan) - 
 - [designbyajay/vscode-bash-cli-snippets](https://github.com/designbyajay/vscode-bash-cli-snippets) - VScode Snippets for making command line interfaces using only bash and gnu coreutils.
@@ -11434,6 +11447,7 @@
 
 ## Swift 
 
+- [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [open-imcore/barcelona](https://github.com/open-imcore/barcelona) - Swift framework for interacting with iMessage
 - [jesse-c/AppearanceNotifier](https://github.com/jesse-c/AppearanceNotifier) - This application listens for when the macOS interface theme changes and then does some thing(s). For now, it's hardcoded to switching my kitty and Neovim themes to match the new theme.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
@@ -11655,6 +11669,7 @@
 
 ## TypeScript 
 
+- [HaaLeo/vscode-timing](https://github.com/HaaLeo/vscode-timing) - 🕓  VS Code extension to convert timestamps from/to various formats and preview/insert them on demand.
 - [flaminggoat/map-track-3-d](https://github.com/flaminggoat/map-track-3-d) - A plugin for Grafana that visualizes GPS points on a 3D globe
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
 - [tailscale/docker-extension](https://github.com/tailscale/docker-extension) - Docker Desktop extension adding Tailscale networking.
@@ -11774,7 +11789,7 @@
 - [hieunmce/express-typescript-boilerplate](https://github.com/hieunmce/express-typescript-boilerplate) - 
 - [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
 - [SanderRonde/CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - A browser extension to add links and run scripts/stylesheets all from your right-click menu
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products
 - [shqld/tish](https://github.com/shqld/tish) - A replacement of shell script with TypeScript, for those who love TypeScript and tired of writing shell script, aiming to emulate shell script in TypeScript.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -11867,7 +11882,7 @@
 - [yashha/percollate-api](https://github.com/yashha/percollate-api) - A basic api to serve percollate as an web api
 - [evnbr/bindery](https://github.com/evnbr/bindery) - Book layout in the browser
 - [jhackshaw/iplocate](https://github.com/jhackshaw/iplocate) - Geolocate and plot ipv4 and ipv6 addresses
-- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
+- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
 - [zenozeng/color-hash](https://github.com/zenozeng/color-hash) - Generate color based on the given string (using HSL color space and SHA256).
 - [balena-io-examples/meta-exporter](https://github.com/balena-io-examples/meta-exporter) - The People's Exporter
 - [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
