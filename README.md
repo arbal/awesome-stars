@@ -200,6 +200,7 @@
 
 ## C 
 
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [mkirchner/tcping](https://github.com/mkirchner/tcping) - Check if a desired port is reachable via TCP
 - [ioi/isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
 - [wulf7/linux-libbsd](https://github.com/wulf7/linux-libbsd) - Shim library that allows some BSD-specific software to be compiled and run under Linuxolator
@@ -1694,6 +1695,7 @@
 
 ## Go 
 
+- [harshavardhana/s3www](https://github.com/harshavardhana/s3www) - Serve static files from any S3 compatible object storage services (Let's Encrypt ready)
 - [gocrane/crane](https://github.com/gocrane/crane) - Crane (FinOps Crane) is an opensource project which manages cloud resource on Kubernetes stack, it is inspired by FinOps concepts.
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [darklynx/request-baskets](https://github.com/darklynx/request-baskets) - HTTP requests collector to test webhooks, notifications, REST clients and more ...
@@ -2586,7 +2588,7 @@
 - [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
 - [ohsu-comp-bio/funnel](https://github.com/ohsu-comp-bio/funnel) - Funnel is a toolkit for distributed task execution via a simple, standard API.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
+- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure Active Directory for Developers built with GDPR compliance
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies
@@ -3573,6 +3575,7 @@
 
 ## HTML 
 
+- [BeardedTek-com/fEVR](https://github.com/BeardedTek-com/fEVR) - fEVR -frigate Event Video Recorder. Pronounced [fee-ver]
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
@@ -3988,6 +3991,8 @@
 
 ## JavaScript 
 
+- [adieuadieu/serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
+- [aerokube/selenoid-ui](https://github.com/aerokube/selenoid-ui) - Graphical user interface for Selenoid project
 - [marcelklehr/recognize](https://github.com/marcelklehr/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [riemann/riemann-dash](https://github.com/riemann/riemann-dash) - An HTTP dashboard for Riemann.
@@ -4357,7 +4362,7 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [andreasonny83/lighthouse-ci](https://github.com/andreasonny83/lighthouse-ci) - A useful wrapper around Google Lighthouse CLI
 - [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - Alfred workflows I use. Script to automatically export.
-- [jopemachine/alfred-chrome-workflow](https://github.com/jopemachine/alfred-chrome-workflow) - Chrome workflow for Alfred 4
+- [jopemachine/alfred-chrome-workflow](https://github.com/jopemachine/alfred-chrome-workflow) - Chromium based browser workflow for Alfred 4
 - [ccs-amsterdam/DigitalFootprintsLab](https://github.com/ccs-amsterdam/DigitalFootprintsLab) - React app for client side gathering, visualizing and exporting digital trace data
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
@@ -4939,7 +4944,6 @@
 - [humanmade/trafficator](https://github.com/humanmade/trafficator) - Traffic generator for local analytics testing
 - [Algram/ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 - [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
-- [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [patagonaa/prometheus-mndp-autodiscovery](https://github.com/patagonaa/prometheus-mndp-autodiscovery) - Prometheus autodiscovery for Mikrotik devices
 - [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -5846,6 +5850,7 @@
 - [nityansuman/tensorhub](https://github.com/nityansuman/tensorhub) - TensorHub is a library built on top of TensorFlow 2.0 to provide simple, modular and repeatable abstractions to accelerate deep learning research.
 - [nathanrooy/rpi-urban-mobility-tracker](https://github.com/nathanrooy/rpi-urban-mobility-tracker) - The easiest way to count pedestrians, cyclists, and vehicles on edge computing devices or live video feeds.
 - [dcmartin/motion-ai](https://github.com/dcmartin/motion-ai) - AI assisted motion detection for Home Assistant
+- [duffjay/camera-api](https://github.com/duffjay/camera-api) - RESTful API for Amcrest cameras
 - [allisonmorgan/google_trends](https://github.com/allisonmorgan/google_trends) - Predicting Google Search Trends
 - [qztseng/google-trends-daily](https://github.com/qztseng/google-trends-daily) - Reconstruct daily trends data over extended period
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
@@ -7327,6 +7332,7 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [eserdk/self-hosted-standard-notes](https://github.com/eserdk/self-hosted-standard-notes) - Almost production-ready docker-compose configuration for self-hosted standard notes server with periodic encrypted backups to S3 and traefik as a reverse proxy.
 - [amalfra/docker-hub](https://github.com/amalfra/docker-hub) - Docker Hub in your terminal
 - [nextcloud/news-updater](https://github.com/nextcloud/news-updater) - :newspaper: Fast, parallel feed updater for the News app; written in Python
@@ -9157,7 +9163,6 @@
 - [neuralet/smart-social-distancing](https://github.com/neuralet/smart-social-distancing) - Social Distancing Detector using deep learning and capable to run on edge AI devices such as NVIDIA Jetson, Google Coral, and more.
 - [ZoneMinder/mlapi](https://github.com/ZoneMinder/mlapi) - An easy to use/extend object recognition API you can locally install. Python+Flask. Also works with ZMES!
 - [google/caliban](https://github.com/google/caliban) - Research workflows made easy, locally and in the Cloud.
-- [duffjay/camera-api](https://github.com/duffjay/camera-api) - RESTful API for Amcrest cameras
 - [dgomes/cusca](https://github.com/dgomes/cusca) - off-device object detection for low-cost RTSP cameras
 - [AdaptiveCity/deepdish](https://github.com/AdaptiveCity/deepdish) - Video object recognition, tracking and counting
 - [Tqualizer/Directional-object-tracking-with-TFLite-and-Edge-TPU](https://github.com/Tqualizer/Directional-object-tracking-with-TFLite-and-Edge-TPU) - Track how multiple objects of type(s) you specify are moving through the field of vision.
@@ -9648,6 +9653,7 @@
 
 ## Ruby 
 
+- [Shopify/bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster
 - [mdub/clamp](https://github.com/mdub/clamp) - a Ruby command-line application framework
 - [theforeman/hammer-cli](https://github.com/theforeman/hammer-cli) - Next-gen CLI tool for foreman
 - [theforeman/hammer-cli-foreman](https://github.com/theforeman/hammer-cli-foreman) - Next-gen CLI tool for foreman (Foreman-specific commands)
@@ -10810,7 +10816,7 @@
 - [n-st/nench](https://github.com/n-st/nench) - VPS benchmark script — based on the popular bench.sh, plus CPU and ioping tests, and dual-stack IPv4 and v6 speedtests by default
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. Enterprise version:
 - [Kicksecure/Whonix](https://github.com/Kicksecure/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP. https://www.whonix.org
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [zaherg/letsencrypt-for-local-development](https://github.com/zaherg/letsencrypt-for-local-development) - Docker Compose + Traefik TLS Proxy + Let's encrypt Wildcard Cert
@@ -12056,6 +12062,7 @@
 - [AlexanderLevenskikh/network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
 - [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
+- [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
