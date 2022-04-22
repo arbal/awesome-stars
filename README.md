@@ -892,6 +892,7 @@
 - [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 - [nlkl/Optional](https://github.com/nlkl/Optional) - A robust option type for C#
 - [zzzprojects/GraphDiff](https://github.com/zzzprojects/GraphDiff) - GraphDiff is a library that allows the automatic update of a detached graph using Entity Framework code first.
+- [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [jbakic/Shielded](https://github.com/jbakic/Shielded) - A strict and mostly lock-free Software Transactional Memory (STM) for .NET
 - [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
 - [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
@@ -1126,7 +1127,7 @@
 - [cnr-isti-vclab/PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
 - [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [alicevision/AliceVision](https://github.com/alicevision/AliceVision) - Photogrammetric Computer Vision Framework
@@ -1483,7 +1484,6 @@
 - [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
 - [mkorenkov/docker-perkeep](https://github.com/mkorenkov/docker-perkeep) - prebuilt docker image of perkeep (aka camlistore)
 - [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
-- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap)
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
@@ -2588,7 +2588,7 @@
 - [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
 - [ohsu-comp-bio/funnel](https://github.com/ohsu-comp-bio/funnel) - Funnel is a toolkit for distributed task execution via a simple, standard API.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure Active Directory for Developers built with GDPR compliance
+- [securitybunker/databunker](https://github.com/securitybunker/databunker) - A secure user directory built for developers to comply with the GDPR
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies
@@ -3991,6 +3991,9 @@
 
 ## JavaScript 
 
+- [bertrandom/chrome-cookies-secure](https://github.com/bertrandom/chrome-cookies-secure) - Extract encrypted Google Chrome cookies for a url on a Mac or Linux
+- [commonshost/dohnut](https://github.com/commonshost/dohnut) - 🍩 DNS to DNS-over-HTTPS (DoH) proxy server
+- [elstats/percentile](https://github.com/elstats/percentile) - Calculate n-th percentile of an observation variable
 - [adieuadieu/serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
 - [aerokube/selenoid-ui](https://github.com/aerokube/selenoid-ui) - Graphical user interface for Selenoid project
 - [marcelklehr/recognize](https://github.com/marcelklehr/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
@@ -5637,7 +5640,6 @@
 - [vincentlaucsb/US-Map](https://github.com/vincentlaucsb/US-Map) - A visualization of commute times around the US
 - [anryko/grafana-influx-dashboard](https://github.com/anryko/grafana-influx-dashboard) - Grafana InfluxDB scripted dashboard
 - [GoshPosh/grafana-meta-queries](https://github.com/GoshPosh/grafana-meta-queries) - Grafana plugin for calculating time period metrics like week over week, month over month and year over year etc.
-- [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [sibartlett/homebridge-wink3](https://github.com/sibartlett/homebridge-wink3) - Homebridge plugin for wink.com
 - [brockallen/IdentityServerAndApi](https://github.com/brockallen/IdentityServerAndApi) - 
 - [colinbate/api-mocking-proxy](https://github.com/colinbate/api-mocking-proxy) - An (HTTP) API proxy server that stores and replays captured responses.
@@ -6160,6 +6162,7 @@
 
 ## Others 
 
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [arbal/github-rate-limits-prometheus-exporter](https://github.com/arbal/github-rate-limits-prometheus-exporter) - GitHub Rate Limits Prometheus exporter. Works with both App and PAT credentials
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [sw-yx/cli-cheatsheet](https://github.com/sw-yx/cli-cheatsheet) - helpful libraries for *building* CLIs. Not a list of CLIs.
@@ -6283,6 +6286,7 @@
 - [zmiguel/docker-compose](https://github.com/zmiguel/docker-compose) - My collection of docker-compose files
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [jwilder/docker-register](https://github.com/jwilder/docker-register) - Service registration for docker containers
+- [core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow) - Alfred Workflow to update apps via MacUpdater
 - [nickytonline/alfred-workflows](https://github.com/nickytonline/alfred-workflows) - Hopefully useful workflows for Alfred
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
 - [gofrp/plugin](https://github.com/gofrp/plugin) - Plugins for frp.
@@ -6374,6 +6378,7 @@
 - [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
+- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - 
 - [arbal/speed-cloudflare-cli](https://github.com/arbal/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [arbal/archive-imessages](https://github.com/arbal/archive-imessages) - iMessage keeps an archive of all images, I will want to delete them, but I also want an archive of them all too.
 - [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - All things Pacmax
@@ -7606,6 +7611,7 @@
 - [RickyCook/ssh-forward-unix-socket](https://github.com/RickyCook/ssh-forward-unix-socket) - Forward a Unix socket over SSH
 - [mango-tree/zsh-recall](https://github.com/mango-tree/zsh-recall) - zsh plugin for history UI
 - [koying/mqtt_discoverystream_ha](https://github.com/koying/mqtt_discoverystream_ha) - Extension of HA mqtt_statestream integration with discovery config publishing
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ait-aecid/logdata-anomaly-miner](https://github.com/ait-aecid/logdata-anomaly-miner) - This tool parses log data and allows to define analysis pipelines for anomaly detection. It was designed to run the analysis with limited resources and lowest possible permissions to make it suitable for production server use.
 - [corpnewt/OCConfigCompare](https://github.com/corpnewt/OCConfigCompare) - Python script to compare two plists and list missing keys in either.
 - [MBRCTV/VultrFirewallDynamicDNS](https://github.com/MBRCTV/VultrFirewallDynamicDNS) - Dynamic IP Updater For Vultr Firewall API
@@ -9686,7 +9692,6 @@
 - [jcsalterego/jqq](https://github.com/jcsalterego/jqq) - jq Querier: an interactive wrapper around jq
 - [filipebarros/alfredfm](https://github.com/filipebarros/alfredfm) - Last.fm Alfred Workflow
 - [sandro/specjour](https://github.com/sandro/specjour) - distributed rspec & cucumber via bonjour
-- [core-code/MacUpdater-Alfred-Workflow](https://github.com/core-code/MacUpdater-Alfred-Workflow) - Alfred Workflow to update apps via MacUpdater
 - [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit's FUSE tap
 - [jeremywrnr/booker](https://github.com/jeremywrnr/booker) - :bookmark: tab-complete chrome bookmarks
 - [compumike/hairpin-proxy](https://github.com/compumike/hairpin-proxy) - PROXY protocol support for internal-to-LoadBalancer traffic for Kubernetes Ingress users. If you've had problems with ingress-nginx, cert-manager, LetsEncrypt ACME HTTP01 self-check failures, and the PROXY protocol, read on.
@@ -11675,6 +11680,7 @@
 
 ## TypeScript 
 
+- [briangann/grafana-dotdiagram-panel](https://github.com/briangann/grafana-dotdiagram-panel) - 
 - [HaaLeo/vscode-timing](https://github.com/HaaLeo/vscode-timing) - 🕓  VS Code extension to convert timestamps from/to various formats and preview/insert them on demand.
 - [flaminggoat/map-track-3-d](https://github.com/flaminggoat/map-track-3-d) - A plugin for Grafana that visualizes GPS points on a 3D globe
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
@@ -11809,7 +11815,6 @@
 - [idleberg/vscode-applescript](https://github.com/idleberg/vscode-applescript) - Language syntax and snippets for AppleScript
 - [ACE-IoT-Solutions/ace-svg-react](https://github.com/ACE-IoT-Solutions/ace-svg-react) - Grafana SVG Rendering Panel using the 7+ Plugin Framework
 - [standardnotes/syncing-server-js](https://github.com/standardnotes/syncing-server-js) - The Standard Notes server. For self-hosting, use https://github.com/standardnotes/standalone
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [supabase/storage-api](https://github.com/supabase/storage-api) - A S3 compatible object storage service that integrates with Postgres and Gotrue
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
