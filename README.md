@@ -200,6 +200,7 @@
 
 ## C 
 
+- [hilbix/json2sh](https://github.com/hilbix/json2sh) - Convert arbitrary JSON streams to bash readable format
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [mkirchner/tcping](https://github.com/mkirchner/tcping) - Check if a desired port is reachable via TCP
 - [ioi/isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
@@ -1695,6 +1696,7 @@
 
 ## Go 
 
+- [stgarf/paperless-cli](https://github.com/stgarf/paperless-cli) - A golang command line binary to interact with a Paperless instance
 - [harshavardhana/s3www](https://github.com/harshavardhana/s3www) - Serve static files from any S3 compatible object storage services (Let's Encrypt ready)
 - [gocrane/crane](https://github.com/gocrane/crane) - Crane (FinOps Crane) is an opensource project which manages cloud resource on Kubernetes stack, it is inspired by FinOps concepts.
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
@@ -2733,7 +2735,7 @@
 - [magma/magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [arbal/alfred-brave-history](https://github.com/arbal/alfred-brave-history) - Alfred workflow for viewing and searching Brave Browser history
-- [mro/ShaarliGo](https://github.com/mro/ShaarliGo) - ♊️ Mirror of http://purl.mro.name/ShaarliGo | 🌺 self-hosted static microblogging inspired by http://sebsauvage.net/wiki/doku.php?id=php:shaarli. Destilled down to the bare minimum, with easy hosting and security in mind. No PHP, no DB, no server-side templating, JS optional.
+- [mro/ShaarliGo](https://github.com/mro/ShaarliGo) - ♊️ Mirror of http://purl.mro.name/ShaarliGo | 🌺 self-reliantly posting on the #Fediverse with painless hosting and security in mind.
 - [arbal/chrome-bookmarks-alfred-workflow](https://github.com/arbal/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [luismayta/dotfiles](https://github.com/luismayta/dotfiles) - Dotfiles
 - [augmentable-dev/gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
@@ -3182,7 +3184,7 @@
 - [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 - [traefik/mesh](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [dalf/filtron](https://github.com/dalf/filtron) - Filtering reverse HTTP proxy
+- [dalf/filtron](https://github.com/dalf/filtron) - Mirror of searxng/filtron
 - [wynandbooysen/whaling](https://github.com/wynandbooysen/whaling) - Whaling - A Simple Read-Only REST API for Docker Swarm (for custom URL label retrieval for external loadbalancer usage)
 - [sidusIO/discriminator](https://github.com/sidusIO/discriminator) - Automatically add labels to docker containers
 - [ssllabs/ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
@@ -3991,6 +3993,8 @@
 
 ## JavaScript 
 
+- [maccyber/micro-dockerhub-hook](https://github.com/maccyber/micro-dockerhub-hook) - Automatic docker deployment with webhooks
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [bertrandom/chrome-cookies-secure](https://github.com/bertrandom/chrome-cookies-secure) - Extract encrypted Google Chrome cookies for a url on a Mac or Linux
 - [commonshost/dohnut](https://github.com/commonshost/dohnut) - 🍩 DNS to DNS-over-HTTPS (DoH) proxy server
 - [elstats/percentile](https://github.com/elstats/percentile) - Calculate n-th percentile of an observation variable
@@ -6093,7 +6097,7 @@
 - [jslegendre/tccplus](https://github.com/jslegendre/tccplus) - tccutil with extended capabilities.  Grant/remove accessibility permissions to any app.
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads an .ichat binary plist file and writes newline-separated JSON to STDOUT
-- [yangshun1029/aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
+- [NickYang29/aria2gui](https://github.com/NickYang29/aria2gui) - Aria2GUI for macOS
 - [linkedin/cassette](https://github.com/linkedin/cassette) - An efficient, file-based FIFO Queue for iOS and macOS.
 - [macgpg/libmacgpg-free](https://github.com/macgpg/libmacgpg-free) - A drop-in replacement for GPGTools libmacgpg that disables the paywall (free MacGPG)
 - [mr-pennyworth/alfred-extra-pane](https://github.com/mr-pennyworth/alfred-extra-pane) - Rich previews for Alfred script filters
@@ -8478,7 +8482,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web UI testing framework that lets you move fast and know when things break. Made for Python & Pytest developers. 🎖️
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -10220,6 +10224,7 @@
 
 ## Shell 
 
+- [fkalis/bash-json-parser](https://github.com/fkalis/bash-json-parser) - A little bash script that converts a JSON string into key value pairs
 - [edemko/will](https://github.com/edemko/will) - 
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
 - [Link-/gh-token](https://github.com/Link-/gh-token) - Create an installation access token for a GitHub app from your terminal 💻
@@ -11680,6 +11685,7 @@
 
 ## TypeScript 
 
+- [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
 - [briangann/grafana-dotdiagram-panel](https://github.com/briangann/grafana-dotdiagram-panel) - 
 - [HaaLeo/vscode-timing](https://github.com/HaaLeo/vscode-timing) - 🕓  VS Code extension to convert timestamps from/to various formats and preview/insert them on demand.
 - [flaminggoat/map-track-3-d](https://github.com/flaminggoat/map-track-3-d) - A plugin for Grafana that visualizes GPS points on a 3D globe
