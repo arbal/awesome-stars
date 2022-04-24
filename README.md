@@ -1144,7 +1144,7 @@
 - [RedisLabs/memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool.
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [google/certificate-transparency](https://github.com/google/certificate-transparency) - Auditing for TLS certificates.
@@ -1696,6 +1696,9 @@
 
 ## Go 
 
+- [moira-alert/moira](https://github.com/moira-alert/moira) - Realtime Alerting for Graphite
+- [tmsmr/xmpp-webhook](https://github.com/tmsmr/xmpp-webhook) - Multipurpose XMPP-Webhook (Built for DevOps Alerts)
+- [trivago/hamara](https://github.com/trivago/hamara) - Export datasource from the existing Grafana DB into a YAML provisioning file
 - [stgarf/paperless-cli](https://github.com/stgarf/paperless-cli) - A golang command line binary to interact with a Paperless instance
 - [harshavardhana/s3www](https://github.com/harshavardhana/s3www) - Serve static files from any S3 compatible object storage services (Let's Encrypt ready)
 - [gocrane/crane](https://github.com/gocrane/crane) - Crane (FinOps Crane) is an opensource project which manages cloud resource on Kubernetes stack, it is inspired by FinOps concepts.
@@ -3704,6 +3707,7 @@
 - [Corsinvest/cv4pve-metrics](https://github.com/Corsinvest/cv4pve-metrics) - Metrics for Proxmox VE, Grafana with dasboard, InfluxDb
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [FrancesCoronel/automator-workflows](https://github.com/FrancesCoronel/automator-workflows) - Workflows I've created for the Automator app on macOS 👾
+- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [zimmertr/Bootstrap-Kubernetes-with-QEMU](https://github.com/zimmertr/Bootstrap-Kubernetes-with-QEMU) - Bootstrap Kubernetes on Proxmox using QEMU, Ansible, and Debian
 - [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
@@ -5717,6 +5721,7 @@
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [homielabs/ansible](https://github.com/homielabs/ansible) - Speedy config time
 - [Akipe/ansible_system_recipes](https://github.com/Akipe/ansible_system_recipes) - Personal Ansible recipes for manage my computers & servers.
+- [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox) - Ansible role to provision containers in Proxmox VE virtualization
 - [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [M0NsTeRRR/Homelab-infra](https://github.com/M0NsTeRRR/Homelab-infra) - Homelab management infrastructure (Packer / Terraform / Ansible)
 - [Oefenweb/ansible-locales](https://github.com/Oefenweb/ansible-locales) - Ansible role to set up locales in Debian-like systems
@@ -7341,6 +7346,7 @@
 
 ## Python 
 
+- [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [eserdk/self-hosted-standard-notes](https://github.com/eserdk/self-hosted-standard-notes) - Almost production-ready docker-compose configuration for self-hosted standard notes server with periodic encrypted backups to S3 and traefik as a reverse proxy.
 - [amalfra/docker-hub](https://github.com/amalfra/docker-hub) - Docker Hub in your terminal
@@ -8482,7 +8488,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web UI testing framework that lets you move fast and know when things break. Made for Python & Pytest developers. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast and detect broken things. Made for Python/pytest developers. 🎖️
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -9105,7 +9111,6 @@
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Netbox agent to run on your infrastructure's servers
 - [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [ceph/ceph-iscsi](https://github.com/ceph/ceph-iscsi) - Ceph iSCSI tools
 - [JRBANCEL/Chromagnon](https://github.com/JRBANCEL/Chromagnon) - Chrome/Chromium Forensic Tool : Parses History, Visited Links, Downloaded Files and Cache
 - [quadportnick/docker-cups-airprint](https://github.com/quadportnick/docker-cups-airprint) - Docker image for CUPS intended as an AirPrint relay on Synology DSM
@@ -9197,7 +9202,6 @@
 - [Kao1126/EdgeTPU-FaceNet](https://github.com/Kao1126/EdgeTPU-FaceNet) - Implement SSD and FaceNet on Edge TPU Accelerator
 - [larsbijl/trending_archive](https://github.com/larsbijl/trending_archive) - a Archive of the github daily trending information
 - [morpheus65535/oscarr](https://github.com/morpheus65535/oscarr) - Oscarr is a dashboard application for users of Plex, Emby, Sonarr, Radarr and Bazarr. It gives you and overview of your media management software.
-- [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox) - Ansible role to provision containers in Proxmox VE virtualization
 - [JonathanVusich/pcpartpicker](https://github.com/JonathanVusich/pcpartpicker) - This is an unofficial API for the website pcpartpicker.com.
 - [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin) - A PowerDNS web interface with advanced features
 - [west-wind/LAR](https://github.com/west-wind/LAR) - Light Armoured Recon is a python script designed to automate passive recon. It automates execution of TheHarvester, whois, Robtex.com, Builtwith.com, DNSrecon, metagoofil, & knockpy.
@@ -9947,7 +9951,7 @@
 - [FutureSDR/FutureSDR](https://github.com/FutureSDR/FutureSDR) - An Async SDR Runtime for Heterogeneous Architectures
 - [Nukesor/pueue-webhook-server](https://github.com/Nukesor/pueue-webhook-server) - A webhook server that schedules commands on request. Uses Pueue as executor backend.
 - [samuelcolvin/cloudflare-worker-speed-test](https://github.com/samuelcolvin/cloudflare-worker-speed-test) - 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-Native Log Management & Analytics. Troubleshoot, investigate, and analyze logs at scale.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Open-source & cloud-native log management & analytics
 - [nwtgck/tiny-http-piping-server-rust](https://github.com/nwtgck/tiny-http-piping-server-rust) - Piping Server written in Rust with tiny-http
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
@@ -10085,7 +10089,7 @@
 - [davidhampgonsalves/life-dashboard](https://github.com/davidhampgonsalves/life-dashboard) - Heads up Display for every day life
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [flxo/rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
-- [greymd/teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
+- [greymd/teip](https://github.com/greymd/teip) - Highly efficient "Masking tape" for Shell
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Save space by cleaning non-essential files from software projects.
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
