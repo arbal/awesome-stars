@@ -446,7 +446,6 @@
 - [soxrok2212/PSKracker](https://github.com/soxrok2212/PSKracker) - An all-in-one WPA/WPS toolkit
 - [sbyx/ohybridproxy](https://github.com/sbyx/ohybridproxy) - mDNS DNS-SD hybrid-proxy
 - [clibs/entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
-- [trailofbits/polytracker](https://github.com/trailofbits/polytracker) - An LLVM-based instrumentation tool for universal taint tracking, dataflow analysis, and tracing.
 - [rofl0r/MacGeiger](https://github.com/rofl0r/MacGeiger) - MacGeiger - a tool to track down the location of WIFI APs with sound (Geigercounter-like)
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [rt-net/RaspberryPiMouse](https://github.com/rt-net/RaspberryPiMouse) - Raspberry Pi Mouse Device Driver
@@ -1079,6 +1078,7 @@
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [AngeloD2022/GoogleWiFiDesktop](https://github.com/AngeloD2022/GoogleWiFiDesktop) - A desktop client for Google WiFi routers.
+- [trailofbits/polytracker](https://github.com/trailofbits/polytracker) - An LLVM-based instrumentation tool for universal taint tracking, dataflow analysis, and tracing.
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [divyekapoor/grepurls](https://github.com/divyekapoor/grepurls) - Command line utility to extract URLs from text or HTML using an RFC 3986 compliant parser.
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -1431,7 +1431,7 @@
 - [Rajpratik71/fio-docker](https://github.com/Rajpratik71/fio-docker) - fio docker image
 - [dhutchison/container-images](https://github.com/dhutchison/container-images) - 
 - [bitnami/bitnami-docker-redis-exporter](https://github.com/bitnami/bitnami-docker-redis-exporter) - Bitnami Docker Image for Redis Exporter
-- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
+- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup mutltiple databases types on a scheduled basis with many customizable options
 - [evait-security/docker-multitor](https://github.com/evait-security/docker-multitor) - 
 - [arbal/asn-docker](https://github.com/arbal/asn-docker) - Dockerized nitefood/asn ASN Lookup Tool and Traceroute Server
 - [ricardbejarano/haproxy_exporter](https://github.com/ricardbejarano/haproxy_exporter) - 🔥 Built-from-source container image of haproxy_exporter
@@ -1696,6 +1696,7 @@
 
 ## Go 
 
+- [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
 - [moira-alert/moira](https://github.com/moira-alert/moira) - Realtime Alerting for Graphite
 - [tmsmr/xmpp-webhook](https://github.com/tmsmr/xmpp-webhook) - Multipurpose XMPP-Webhook (Built for DevOps Alerts)
 - [trivago/hamara](https://github.com/trivago/hamara) - Export datasource from the existing Grafana DB into a YAML provisioning file
@@ -3707,7 +3708,6 @@
 - [Corsinvest/cv4pve-metrics](https://github.com/Corsinvest/cv4pve-metrics) - Metrics for Proxmox VE, Grafana with dasboard, InfluxDb
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [FrancesCoronel/automator-workflows](https://github.com/FrancesCoronel/automator-workflows) - Workflows I've created for the Automator app on macOS 👾
-- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [zimmertr/Bootstrap-Kubernetes-with-QEMU](https://github.com/zimmertr/Bootstrap-Kubernetes-with-QEMU) - Bootstrap Kubernetes on Proxmox using QEMU, Ansible, and Debian
 - [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
@@ -3997,6 +3997,9 @@
 
 ## JavaScript 
 
+- [majman/adobe-scripts-panel](https://github.com/majman/adobe-scripts-panel) - Scripting Panel for After Effects, Illustrator, and Photoshop
+- [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
+- [bjango/Bjango-Actions](https://github.com/bjango/Bjango-Actions) - A collection of Photoshop actions, Photoshop scripts, Hazel rules, macOS workflows and other random things for screen designers and developers.
 - [maccyber/micro-dockerhub-hook](https://github.com/maccyber/micro-dockerhub-hook) - Automatic docker deployment with webhooks
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [bertrandom/chrome-cookies-secure](https://github.com/bertrandom/chrome-cookies-secure) - Extract encrypted Google Chrome cookies for a url on a Mac or Linux
@@ -5193,7 +5196,6 @@
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
-- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown
 - [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex
@@ -6171,6 +6173,7 @@
 
 ## Others 
 
+- [bjango/Color-Creator](https://github.com/bjango/Color-Creator) - Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [arbal/github-rate-limits-prometheus-exporter](https://github.com/arbal/github-rate-limits-prometheus-exporter) - GitHub Rate Limits Prometheus exporter. Works with both App and PAT credentials
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -7890,7 +7893,7 @@
 - [kootenpv/access_points](https://github.com/kootenpv/access_points) - Scan your WiFi and get access point information and signal quality
 - [CRED-CLUB/ARTIF](https://github.com/CRED-CLUB/ARTIF) - An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data.
 - [fallenangel3k/sdr-spectrum-monitor](https://github.com/fallenangel3k/sdr-spectrum-monitor) - Running OpenWebRX on balena to monitor radio spectrum and stream audio.
-- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - BackgroundRemover lets you Remove Background from images and video with a simple command line interface that is open source.
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video with a simple command line interface that is open source.
 - [inveniosoftware/invenio](https://github.com/inveniosoftware/invenio) - Invenio digital library framework
 - [zenodo/zenodo](https://github.com/zenodo/zenodo) - Research. Shared.
 - [sdx23/zotadd](https://github.com/sdx23/zotadd) - A simple script to add pdf-files to Zotero via CLI
@@ -8813,6 +8816,7 @@
 - [frappe/bench](https://github.com/frappe/bench) - CLI to manage Multi-tenant deployments for Frappe apps
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting) - Circadian Lighting custom component for Home Assistant
+- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [thebino/rki_covid](https://github.com/thebino/rki_covid) - 🦠 Custom integration for Home Assistant to monitor covid numbers provided by Robert-Koch Institut
 - [dwighthubbard/python-dlipower](https://github.com/dwighthubbard/python-dlipower) - Python modules to manage Digital Loggers Web Power Switch
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
@@ -9111,6 +9115,7 @@
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Netbox agent to run on your infrastructure's servers
 - [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+- [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [ceph/ceph-iscsi](https://github.com/ceph/ceph-iscsi) - Ceph iSCSI tools
 - [JRBANCEL/Chromagnon](https://github.com/JRBANCEL/Chromagnon) - Chrome/Chromium Forensic Tool : Parses History, Visited Links, Downloaded Files and Cache
 - [quadportnick/docker-cups-airprint](https://github.com/quadportnick/docker-cups-airprint) - Docker image for CUPS intended as an AirPrint relay on Synology DSM
