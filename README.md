@@ -912,6 +912,7 @@
 
 ## C++ 
 
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -1377,6 +1378,7 @@
 
 ## Common Lisp 
 
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Crystal 
@@ -1495,7 +1497,6 @@
 - [solarkennedy/wine-x11-novnc-docker](https://github.com/solarkennedy/wine-x11-novnc-docker) - Base Docker image to run wine programs in a web browser via noVNC (html5 vnc viewer) + Xvfb + x11vnc
 - [arch-anes/self-hosted-services](https://github.com/arch-anes/self-hosted-services) - 
 - [jeffersonjhunt/shinysdr-docker](https://github.com/jeffersonjhunt/shinysdr-docker) - Docker build of debian, gnuradio and shinysdr with all plugins
-- [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
 - [balenalabs-incubator/balena-homeassistant](https://github.com/balenalabs-incubator/balena-homeassistant) - Raspberry Pi + Home Assistant + balenaSense
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [xeniter/limesdr_docker](https://github.com/xeniter/limesdr_docker) - A docker recipe for a full working limesdr suite
@@ -1696,6 +1697,8 @@
 
 ## Go 
 
+- [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo manager --  markdown note page per task. Single binary!
+- [wbh1/grafana-sqlite-to-postgres](https://github.com/wbh1/grafana-sqlite-to-postgres) - Grafana SQLite to Postgres Database Migrator
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
 - [moira-alert/moira](https://github.com/moira-alert/moira) - Realtime Alerting for Graphite
 - [tmsmr/xmpp-webhook](https://github.com/tmsmr/xmpp-webhook) - Multipurpose XMPP-Webhook (Built for DevOps Alerts)
@@ -3997,6 +4000,11 @@
 
 ## JavaScript 
 
+- [gajus/puppeteer-proxy](https://github.com/gajus/puppeteer-proxy) - Proxies Puppeteer Page requests.
+- [apify/proxy-chain](https://github.com/apify/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.
+- [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [llopisdon/skies-adsb](https://github.com/llopisdon/skies-adsb) - skies-adsb is a real-time 3D browser based web app for tracking aircraft using ADS-B data obtained from a RTL-SDR receiver.
+- [eCommWar/eCommWar](https://github.com/eCommWar/eCommWar) - A leaderboard of the top open-source e-commerce platforms. Promoting the bests for building reliable stores.
 - [majman/adobe-scripts-panel](https://github.com/majman/adobe-scripts-panel) - Scripting Panel for After Effects, Illustrator, and Photoshop
 - [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 - [bjango/Bjango-Actions](https://github.com/bjango/Bjango-Actions) - A collection of Photoshop actions, Photoshop scripts, Hazel rules, macOS workflows and other random things for screen designers and developers.
@@ -5995,7 +6003,7 @@
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [davidnewhall/secspy](https://github.com/davidnewhall/secspy) - SecuritySpy Command Line Interface
 - [Jack12816/docker-mdns](https://github.com/Jack12816/docker-mdns) - Simple mDNS/ZeroConf demonstration of a nginx container, acessible at http://nginx.local
-- [hectorm/docker-caddy2](https://github.com/hectorm/docker-caddy2) - A Docker image for Caddy 2.
+- [hectorm/docker-caddy](https://github.com/hectorm/docker-caddy) - A Docker image for Caddy.
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 - [edmBernard/DockerFiles](https://github.com/edmBernard/DockerFiles) - Some useful dockerfiles for DeepLearning and Computer Vision
@@ -6173,6 +6181,7 @@
 
 ## Others 
 
+- [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [bjango/Color-Creator](https://github.com/bjango/Color-Creator) - Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [arbal/github-rate-limits-prometheus-exporter](https://github.com/arbal/github-rate-limits-prometheus-exporter) - GitHub Rate Limits Prometheus exporter. Works with both App and PAT credentials
@@ -7349,6 +7358,13 @@
 
 ## Python 
 
+- [chuckcharlie/cups-avahi-airprint](https://github.com/chuckcharlie/cups-avahi-airprint) - Docker image for CUPS intended as an AirPrint relay
+- [RagingTiger/cups-airprint](https://github.com/RagingTiger/cups-airprint) - Dockerized CUPS/AirPrint
+- [maxandersen/aircups](https://github.com/maxandersen/aircups) - Cups print server with airprint enabled, works well with Synology
+- [tlecomte/friture](https://github.com/tlecomte/friture) - Real-time audio visualizations (spectrum, spectrogram, etc.)
+- [oxfs/oxfs](https://github.com/oxfs/oxfs) - ✨A dead simple, fast SFTP file system ✨
+- [williamjohnstone/AutoRclone-Rewrite](https://github.com/williamjohnstone/AutoRclone-Rewrite) - Rewrite of https://github.com/xyou365/AutoRclone
+- [vonshednob/pter](https://github.com/vonshednob/pter) - Manage your todo.txt in a commandline user interface (TUI)
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [eserdk/self-hosted-standard-notes](https://github.com/eserdk/self-hosted-standard-notes) - Almost production-ready docker-compose configuration for self-hosted standard notes server with periodic encrypted backups to S3 and traefik as a reverse proxy.
@@ -7985,6 +8001,7 @@
 - [gnuradio/pybombs](https://github.com/gnuradio/pybombs) - PyBOMBS (Python Build Overlay Managed Bundle System) is the GNU Radio install management system for resolving dependencies and pulling in out-of-tree projects.
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 - [spotify/klio](https://github.com/spotify/klio) - Smarter data pipelines for audio.
+- [abhishek-ch/around-dataengineering](https://github.com/abhishek-ch/around-dataengineering) - A Data Engineering & Machine Learning Knowledge Hub
 - [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
 - [partofthething/ha_skyfield](https://github.com/partofthething/ha_skyfield) - See the apparent positions of the Sun, Moon, and planets in this home assistant custom component
@@ -9009,7 +9026,7 @@
 - [Fogh/Sickbeard-Alfred](https://github.com/Fogh/Sickbeard-Alfred) - Control Sick Beard from Alfred app
 - [CouchPotato/CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [skullydazed/docker2mqtt](https://github.com/skullydazed/docker2mqtt) - Send status information about docker containers to mqtt.
-- [johndelong/home-assistant-config](https://github.com/johndelong/home-assistant-config) - 
+- [johndelong/home-automation-setup](https://github.com/johndelong/home-automation-setup) - 
 - [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
 - [sadovnychyi/alfred-chrome-passwords](https://github.com/sadovnychyi/alfred-chrome-passwords) - Browse your passwords saved in Google Chrome using Alfred
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
@@ -10233,6 +10250,10 @@
 
 ## Shell 
 
+- [aadl/docker-cups-alpine](https://github.com/aadl/docker-cups-alpine) - Alpine docker image with cups and cups-pdf
+- [haron/grafana-migrator](https://github.com/haron/grafana-migrator) - How to migrate Grafana from SQLite to PostgreSQL
+- [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done..
+- [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [fkalis/bash-json-parser](https://github.com/fkalis/bash-json-parser) - A little bash script that converts a JSON string into key value pairs
 - [edemko/will](https://github.com/edemko/will) - 
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
@@ -11694,6 +11715,8 @@
 
 ## TypeScript 
 
+- [robarnolddev/todo-txt](https://github.com/robarnolddev/todo-txt) - Todo.txt syntax highlighter and helper extension for visual studio code.
+- [usernamehw/vscode-todo-md](https://github.com/usernamehw/vscode-todo-md) - Visual Studio Code extension for Todo tracking based on "todo.txt" format.
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
 - [briangann/grafana-dotdiagram-panel](https://github.com/briangann/grafana-dotdiagram-panel) - 
 - [HaaLeo/vscode-timing](https://github.com/HaaLeo/vscode-timing) - 🕓  VS Code extension to convert timestamps from/to various formats and preview/insert them on demand.
@@ -12145,7 +12168,7 @@
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [streamich/unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
