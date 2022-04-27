@@ -200,6 +200,7 @@
 
 ## C 
 
+- [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) - union filesystem using fuse
 - [hilbix/json2sh](https://github.com/hilbix/json2sh) - Convert arbitrary JSON streams to bash readable format
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [mkirchner/tcping](https://github.com/mkirchner/tcping) - Check if a desired port is reachable via TCP
@@ -785,6 +786,7 @@
 
 ## C# # 
 
+- [0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
@@ -1697,6 +1699,7 @@
 
 ## Go 
 
+- [zerowidth/gh-shorthand](https://github.com/zerowidth/gh-shorthand) - go program to generate alfred autocomplete items from shorthand input
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo manager --  markdown note page per task. Single binary!
 - [wbh1/grafana-sqlite-to-postgres](https://github.com/wbh1/grafana-sqlite-to-postgres) - Grafana SQLite to Postgres Database Migrator
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
@@ -2064,7 +2067,7 @@
 - [hashicorp/terraform-provider-googleworkspace](https://github.com/hashicorp/terraform-provider-googleworkspace) - Terraform Provider for Google Workspace
 - [hanneshayashi/gsm](https://github.com/hanneshayashi/gsm) - GSM - Manage Google Workspace resources using a developer-friendly CLI written in Go.
 - [googleworkspace/go-samples](https://github.com/googleworkspace/go-samples) - Go samples for Google Workspace APIs
-- [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
+- [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [emicklei/gws](https://github.com/emicklei/gws) - command line tool for using the Google Workspace Admin (formerly GSuite)
 - [rendora/rendora](https://github.com/rendora/rendora) - dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [HuntSweet/cloudflarePing](https://github.com/HuntSweet/cloudflarePing) - Find the best cloudflare ip to your location.
@@ -2742,7 +2745,7 @@
 - [magma/magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [arbal/alfred-brave-history](https://github.com/arbal/alfred-brave-history) - Alfred workflow for viewing and searching Brave Browser history
-- [mro/ShaarliGo](https://github.com/mro/ShaarliGo) - ♊️ Mirror of http://purl.mro.name/ShaarliGo | 🌺 self-reliantly posting on the #Fediverse with painless hosting and security in mind.
+- [mro/ShaarliGo](https://github.com/mro/ShaarliGo) - ♊️ Mirror of http://mro.name/ShaarliGo | 🌺 self-reliantly posting on the #Fediverse with painless hosting and security in mind.
 - [arbal/chrome-bookmarks-alfred-workflow](https://github.com/arbal/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [luismayta/dotfiles](https://github.com/luismayta/dotfiles) - Dotfiles
 - [augmentable-dev/gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
@@ -4000,6 +4003,7 @@
 
 ## JavaScript 
 
+- [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 - [gajus/puppeteer-proxy](https://github.com/gajus/puppeteer-proxy) - Proxies Puppeteer Page requests.
 - [apify/proxy-chain](https://github.com/apify/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
@@ -4247,6 +4251,7 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [remix-run/history](https://github.com/remix-run/history) - Manage session history with JavaScript
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -4369,8 +4374,8 @@
 - [thierryc/Sketch-Find-And-Replace](https://github.com/thierryc/Sketch-Find-And-Replace) - Sketch plugin to do a find and replace on text within layers
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
-- [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, imba, ava, docusaurus, fast-glob, globby, chokidar, anymatch, cloudflare/miniflare, pts, and more than 5 million projects! Please follow picomatch's author: https://github.com/jonschlinkert
-- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others! Please follow micromatch's author: https://github.com/jonschlinkert
+- [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, imba, ava, docusaurus, fast-glob, globby, chokidar, anymatch, cloudflare/miniflare, pts, and more than 5 million projects! Please follow picomatch's author: https://github.com/jonschlinkert
+- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.js, stylelint, nyc, ava, and many others! Please follow micromatch's author: https://github.com/jonschlinkert
 - [micromatch/anymatch](https://github.com/micromatch/anymatch) - :bangbang: Matches strings against configurable strings, globs, regular expressions, and/or functions
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -7358,6 +7363,10 @@
 
 ## Python 
 
+- [JNoDuq/videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer
+- [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
+- [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
+- [Koed00/django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue for Django
 - [chuckcharlie/cups-avahi-airprint](https://github.com/chuckcharlie/cups-avahi-airprint) - Docker image for CUPS intended as an AirPrint relay
 - [RagingTiger/cups-airprint](https://github.com/RagingTiger/cups-airprint) - Dockerized CUPS/AirPrint
 - [maxandersen/aircups](https://github.com/maxandersen/aircups) - Cups print server with airprint enabled, works well with Synology
@@ -7479,7 +7488,7 @@
 - [pywemo/pywemo](https://github.com/pywemo/pywemo) - Python module to discover and control WeMo devices.
 - [vadimkantorov/wemosetup](https://github.com/vadimkantorov/wemosetup) - A simple Python script to set up WeMo devices
 - [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
-- [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - Dashboard Icons for your selfhosted services.
+- [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 📂 Dashboard Icons for your selfhosted services.
 - [custom-components/sensor.trakt](https://github.com/custom-components/sensor.trakt) - 📺 Trakt Integration for Upcoming Media Card
 - [custom-components/sensor.radarr_upcoming_media](https://github.com/custom-components/sensor.radarr_upcoming_media) - 🎬 Radarr component to feed Upcoming Media Card.
 - [mandarons/icloudpy](https://github.com/mandarons/icloudpy) - iCloud web service interface library in Python
@@ -9689,6 +9698,8 @@
 
 ## Ruby 
 
+- [zerowidth/launched](https://github.com/zerowidth/launched) - A launchd.plist generator app. Because making them by hand is so very difficult.
+- [bkeepers/dotenv](https://github.com/bkeepers/dotenv) - A Ruby gem to load environment variables from `.env`.
 - [Shopify/bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster
 - [mdub/clamp](https://github.com/mdub/clamp) - a Ruby command-line application framework
 - [theforeman/hammer-cli](https://github.com/theforeman/hammer-cli) - Next-gen CLI tool for foreman
@@ -10250,6 +10261,7 @@
 
 ## Shell 
 
+- [tofran/restic-rclone-docker](https://github.com/tofran/restic-rclone-docker) - 🐳 Always up-to-date minimal Alpine images with Restic and Rclone tagged for each version combination.
 - [aadl/docker-cups-alpine](https://github.com/aadl/docker-cups-alpine) - Alpine docker image with cups and cups-pdf
 - [haron/grafana-migrator](https://github.com/haron/grafana-migrator) - How to migrate Grafana from SQLite to PostgreSQL
 - [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done..
@@ -10443,7 +10455,7 @@
 - [xav-b/zsh-extend-history](https://github.com/xav-b/zsh-extend-history) - Zsh plugin to record command history with more context
 - [standardnotes/standalone](https://github.com/standardnotes/standalone) - Standard Notes standalone infrastructure for self-hosting your own encrypted note-taking server
 - [atweiden/fzf-extras](https://github.com/atweiden/fzf-extras) - Key bindings from fzf wiki
-- [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
+- [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://bit.ly/n-install | bash
 - [hslatman/tailscale-balena-block](https://github.com/hslatman/tailscale-balena-block) - 
 - [Hubbitus/shell.scripts](https://github.com/Hubbitus/shell.scripts) - Useful shell scripts, examples and snippets
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - Reliably run any Linux distribution on any hardware with an in-RAM host OS for containerized environments.
@@ -12292,7 +12304,7 @@
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
+- [standardnotes/desktop](https://github.com/standardnotes/desktop) - A free, open-source, and end-to-end encrypted notes app. macOS, Windows, & Linux app repository https://standardnotes.com
 - [ethanresnick/json-api](https://github.com/ethanresnick/json-api) - Turn your node app into a JSON API server (http://jsonapi.org/)
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [ChechaValerii/node-typescript-mongodb](https://github.com/ChechaValerii/node-typescript-mongodb) - node js typescript mongodb express generator yo
