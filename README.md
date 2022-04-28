@@ -1699,6 +1699,9 @@
 
 ## Go 
 
+- [lawrencegripper/signald-smtp-bridge](https://github.com/lawrencegripper/signald-smtp-bridge) - Send emails to signal via signald
+- [grokify/commonchat](https://github.com/grokify/commonchat) - CommonChat is an idealized message format with conversion to chat systems such as Glip and Slack.
+- [mrusme/planor](https://github.com/mrusme/planor) - The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, ...)
 - [zerowidth/gh-shorthand](https://github.com/zerowidth/gh-shorthand) - go program to generate alfred autocomplete items from shorthand input
 - [naggie/dstask](https://github.com/naggie/dstask) - Git powered terminal-based todo manager --  markdown note page per task. Single binary!
 - [wbh1/grafana-sqlite-to-postgres](https://github.com/wbh1/grafana-sqlite-to-postgres) - Grafana SQLite to Postgres Database Migrator
@@ -3427,7 +3430,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [relastle/pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
-- [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL
+- [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [vishen/go-chromecast](https://github.com/vishen/go-chromecast) - cli for Google Chromecast, Home devices and Cast Groups
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [uber/arachne](https://github.com/uber/arachne) - An always-on framework that performs end-to-end functional network testing for reachability, latency, and packet loss
@@ -3797,6 +3800,7 @@
 
 ## Java 
 
+- [thefinn93/signald](https://github.com/thefinn93/signald) - An API for Signal. This repo is a mirror, please send issues and contributions to GitLab
 - [arbal/webnettools](https://github.com/arbal/webnettools) - Web Net Tools is a web frontend for some useful command line tooling including testssl.sh and nmap.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [Netflix/metacat](https://github.com/Netflix/metacat) - 
@@ -4003,6 +4007,8 @@
 
 ## JavaScript 
 
+- [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
+- [backstrokeapp/legacy](https://github.com/backstrokeapp/legacy) - Old version of backstroke to work with Backstroke classic hooks. Also happens to be helpful if you want to deploy a small, self hosted version of backstroke on your own.
 - [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 - [gajus/puppeteer-proxy](https://github.com/gajus/puppeteer-proxy) - Proxies Puppeteer Page requests.
 - [apify/proxy-chain](https://github.com/apify/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.
@@ -4052,6 +4058,7 @@
 - [vvscode/js--nightwatch-recorder](https://github.com/vvscode/js--nightwatch-recorder) - :crescent_moon: :watch: NightwatchJs recorder for Chrome
 - [mucsi96/nightwatch-cucumber](https://github.com/mucsi96/nightwatch-cucumber) - [DEPRECATED] Cucumber.js plugin for Nightwatch.js.
 - [brandonrobertz/autoscrape-www](https://github.com/brandonrobertz/autoscrape-www) - A frontend for driving AutoScrape via a web browser
+- [Netflix/metaflow-docs](https://github.com/Netflix/metaflow-docs) - 
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [majidsajadi/paperboard](https://github.com/majidsajadi/paperboard) - Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
@@ -4173,7 +4180,7 @@
 - [user234683/youtube-local](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance
 - [bitbull-team/docker-exec-web-console](https://github.com/bitbull-team/docker-exec-web-console) - A web UI to docker exec from the browser
 - [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
-- [NightMachinary/readability-cli](https://github.com/NightMachinary/readability-cli) - A CLI for Mozilla Readability. Get clean, uncluttered, ready-to-read HTML from any webpage!
+- [NightMachinery/readability-cli](https://github.com/NightMachinery/readability-cli) - A CLI for Mozilla Readability. Get clean, uncluttered, ready-to-read HTML from any webpage!
 - [syntax-tree/hast-util-reading-time](https://github.com/syntax-tree/hast-util-reading-time) - utility to estimate the reading time
 - [pouyakary/Orchestra](https://github.com/pouyakary/Orchestra) - One language to be RegExp's Successor. Visually readable and rich, technically safe and extended, naturally scalable, advanced, and optimized
 - [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
@@ -4596,7 +4603,7 @@
 - [DIYgod/download-webhook](https://github.com/DIYgod/download-webhook) - 🍰 Download files through webhook
 - [negative0/rclone-terminal](https://github.com/negative0/rclone-terminal) - Terminal extension for rclone webui react.
 - [negative0/rclone-file-viewer](https://github.com/negative0/rclone-file-viewer) - An official rclone plugin for viewing files like csv etc
-- [delirius325/axios-curlirize](https://github.com/delirius325/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
+- [anthonygauthier/axios-curlirize](https://github.com/anthonygauthier/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
 - [negative0/rclone-vscode](https://github.com/negative0/rclone-vscode) - 
 - [rclone/rclone-plugin-template](https://github.com/rclone/rclone-plugin-template) - 
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
@@ -6186,6 +6193,7 @@
 
 ## Others 
 
+- [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [bjango/Color-Creator](https://github.com/bjango/Color-Creator) - Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
@@ -6198,7 +6206,6 @@
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [jimilinuxguy/Tesla-Charging-Port-Opener](https://github.com/jimilinuxguy/Tesla-Charging-Port-Opener) - Files for HackRF + Portapack MAYHEM firmware to open any and all Tesla vehicle charging ports in range!
 - [purescript/documentation](https://github.com/purescript/documentation) - Documentation for the PureScript language, compiler, and tools.
-- [Netflix/metaflow-docs](https://github.com/Netflix/metaflow-docs) - 
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
 - [coder/awesome-code-server](https://github.com/coder/awesome-code-server) - Projects, resources, and tutorials that take code-server to the next level
 - [PhilipSchmid/k8s-home-lab](https://github.com/PhilipSchmid/k8s-home-lab) - Setup for a K8s home lab running on a single host (e.g. Intel NUC)
@@ -7363,6 +7370,8 @@
 
 ## Python 
 
+- [SimFin/pdf-crawler](https://github.com/SimFin/pdf-crawler) - SimFin's open source PDF crawler
+- [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.
 - [JNoDuq/videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 - [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
@@ -10261,6 +10270,7 @@
 
 ## Shell 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [tofran/restic-rclone-docker](https://github.com/tofran/restic-rclone-docker) - 🐳 Always up-to-date minimal Alpine images with Restic and Rclone tagged for each version combination.
 - [aadl/docker-cups-alpine](https://github.com/aadl/docker-cups-alpine) - Alpine docker image with cups and cups-pdf
 - [haron/grafana-migrator](https://github.com/haron/grafana-migrator) - How to migrate Grafana from SQLite to PostgreSQL
