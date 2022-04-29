@@ -200,6 +200,7 @@
 
 ## C 
 
+- [clarkwang/sexpect](https://github.com/clarkwang/sexpect) - Expect for Shells
 - [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) - union filesystem using fuse
 - [hilbix/json2sh](https://github.com/hilbix/json2sh) - Convert arbitrary JSON streams to bash readable format
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
@@ -2661,7 +2662,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [submariner-io/lighthouse](https://github.com/submariner-io/lighthouse) - Controller to facilitate DNS discovery between clusters
 - [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
@@ -3590,7 +3591,6 @@
 
 ## HTML 
 
-- [BeardedTek-com/fEVR](https://github.com/BeardedTek-com/fEVR) - fEVR -frigate Event Video Recorder. Pronounced [fee-ver]
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
@@ -4007,6 +4007,8 @@
 
 ## JavaScript 
 
+- [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
+- [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
 - [backstrokeapp/legacy](https://github.com/backstrokeapp/legacy) - Old version of backstroke to work with Backstroke classic hooks. Also happens to be helpful if you want to deploy a small, self hosted version of backstroke on your own.
 - [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
@@ -5409,7 +5411,7 @@
 - [dsheiko/puppetry](https://github.com/dsheiko/puppetry) - Web testing solution for non-developers on top of Puppeteer and Jest
 - [samrobbins85/dns-comparison](https://github.com/samrobbins85/dns-comparison) - A tool to compare DNS services
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
-- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx and Keepalived servers
+- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 - [huchenme/github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
 - [e-gautier/githunt](https://github.com/e-gautier/githunt) - Replace your new tab with trending Github repositories - Chrome: https://chrome.google.com/webstore/detail/githunt/fkdnnmnoacofoklehaokcabccnbahfhm - Firefox: https://addons.mozilla.org/en-US/firefox/addon/githunt/ - Pages: https://e-gautier.github.io/githunt/
 - [chrisrzhou/google-globe-trends](https://github.com/chrisrzhou/google-globe-trends) - Create beautiful and interactive Google Trends globe visualizations with ease
@@ -6642,7 +6644,7 @@
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT) - MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
 - [z11h/awesome-touchbar](https://github.com/z11h/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
-- [rystsov/awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions) - Awesome list of distributed transactions
+- [redpanda-data/awesome-distributed-transactions](https://github.com/redpanda-data/awesome-distributed-transactions) - Awesome list of distributed transactions
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
 - [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
@@ -7370,6 +7372,7 @@
 
 ## Python 
 
+- [audreyfeldroy/binaryornot](https://github.com/audreyfeldroy/binaryornot) - Ultra-lightweight pure Python package to check if a file is binary or text.
 - [SimFin/pdf-crawler](https://github.com/SimFin/pdf-crawler) - SimFin's open source PDF crawler
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.
 - [JNoDuq/videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer
@@ -7384,6 +7387,7 @@
 - [williamjohnstone/AutoRclone-Rewrite](https://github.com/williamjohnstone/AutoRclone-Rewrite) - Rewrite of https://github.com/xyou365/AutoRclone
 - [vonshednob/pter](https://github.com/vonshednob/pter) - Manage your todo.txt in a commandline user interface (TUI)
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
+- [BeardedTek-com/fEVR](https://github.com/BeardedTek-com/fEVR) - fEVR -frigate Event Video Recorder. Pronounced [fee-ver]
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [eserdk/self-hosted-standard-notes](https://github.com/eserdk/self-hosted-standard-notes) - Almost production-ready docker-compose configuration for self-hosted standard notes server with periodic encrypted backups to S3 and traefik as a reverse proxy.
 - [amalfra/docker-hub](https://github.com/amalfra/docker-hub) - Docker Hub in your terminal
@@ -9916,6 +9920,7 @@
 
 ## Rust 
 
+- [bojand/infer](https://github.com/bojand/infer) - Small crate to infer file and MIME type by checking the magic number signature
 - [adamchalmers/dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
@@ -10270,6 +10275,7 @@
 
 ## Shell 
 
+- [m1ch/iocage-plugin-mariadb](https://github.com/m1ch/iocage-plugin-mariadb) - mariadb SQL-server plus PHPmyadmin management
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [tofran/restic-rclone-docker](https://github.com/tofran/restic-rclone-docker) - 🐳 Always up-to-date minimal Alpine images with Restic and Rclone tagged for each version combination.
 - [aadl/docker-cups-alpine](https://github.com/aadl/docker-cups-alpine) - Alpine docker image with cups and cups-pdf
@@ -11737,6 +11743,7 @@
 
 ## TypeScript 
 
+- [claabs/puppeteer-extra-plugin-portal](https://github.com/claabs/puppeteer-extra-plugin-portal) - A puppeteer-extra plugin to remotely view and interact with puppeteer sessions. Essentially opening a "portal" to the page.
 - [robarnolddev/todo-txt](https://github.com/robarnolddev/todo-txt) - Todo.txt syntax highlighter and helper extension for visual studio code.
 - [usernamehw/vscode-todo-md](https://github.com/usernamehw/vscode-todo-md) - Visual Studio Code extension for Todo tracking based on "todo.txt" format.
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
@@ -12140,7 +12147,7 @@
 - [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [dhleong/babbling](https://github.com/dhleong/babbling) - Cast Streaming service videos to Chromecast
 - [CouchBuddy/couch-buddy](https://github.com/CouchBuddy/couch-buddy) - A Media Center with Cast support that belongs to this millennium
