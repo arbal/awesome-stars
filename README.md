@@ -915,6 +915,7 @@
 
 ## C++ 
 
+- [rigaya/NVEnc](https://github.com/rigaya/NVEnc) - NVENCによる高速エンコードの性能実験
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -1290,6 +1291,7 @@
 
 ## CSS 
 
+- [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 - [STaRDoGG/portainer-nord-dark-theme](https://github.com/STaRDoGG/portainer-nord-dark-theme) - Dark blue theme for Portainer, partly based on the Nord color palette.
 - [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) - Ultimate Internet of Things/Industrial Control Systems reconnaissance tool.
 - [WordOps/wordops-dashboard](https://github.com/WordOps/wordops-dashboard) - Dashboard for WordOps backend
@@ -1715,7 +1717,7 @@
 - [gocrane/crane](https://github.com/gocrane/crane) - Crane (FinOps Crane) is an opensource project which manages cloud resource on Kubernetes stack, it is inspired by FinOps concepts.
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [darklynx/request-baskets](https://github.com/darklynx/request-baskets) - HTTP requests collector to test webhooks, notifications, REST clients and more ...
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [kalgurn/github-rate-limits-prometheus-exporter](https://github.com/kalgurn/github-rate-limits-prometheus-exporter) - GitHub Rate Limits Prometheus exporter. Works with both App and PAT credentials
 - [aerokube/ggr-ui](https://github.com/aerokube/ggr-ui) - The missing /status API for Ggr
 - [martinbaillie/vault-plugin-secrets-github](https://github.com/martinbaillie/vault-plugin-secrets-github) - Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.
@@ -1901,7 +1903,7 @@
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
-- [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
+- [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS 1.2 Connection: Every byte explained
 - [pete911/certinfo](https://github.com/pete911/certinfo) - print x509 certificate info
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
@@ -3519,7 +3521,7 @@
 - [square/certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [ccremer/clustercode](https://github.com/ccremer/clustercode) - Distribute your video encoding tasks across a cluster of nodes!
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [caltechlibrary/datatools](https://github.com/caltechlibrary/datatools) - A set of tools for working with JSON, CSV and Excel workbooks
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -3649,6 +3651,7 @@
 - [qJake/HADotNet.CommandCenter](https://github.com/qJake/HADotNet.CommandCenter) - 📱 A web-based, wall-mountable command center for Home Assistant.
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [apisyouwonthate/openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
+- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [ssg/yubitell](https://github.com/ssg/yubitell) - Silently extract a YubiKey serial number
 - [Chia-Network/chiapos](https://github.com/Chia-Network/chiapos) - Chia Proof of Space library
 - [NikolaiT/GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
@@ -4007,6 +4010,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/pretty-bytes-cli](https://github.com/sindresorhus/pretty-bytes-cli) - Convert bytes to a human readable string: 1337 → 1.34 kB
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
@@ -4519,7 +4523,7 @@
 - [DBa2016/power-usage-card-regex](https://github.com/DBa2016/power-usage-card-regex) - Lovelace pie chart card that displays current energy usage
 - [gurbyz/power-wheel-card](https://github.com/gurbyz/power-wheel-card) - An intuitive way to represent the power and energy that your home is consuming or producing. (A custom card for the Lovelace UI of Home Assistant.)
 - [nyoungstudios/Adobe-Acrobat-PDF-Tools](https://github.com/nyoungstudios/Adobe-Acrobat-PDF-Tools) - 📄 Scripts to automate time consuming tasks in Adobe Acrobat using JavaScript.
-- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots
+- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Open source cloud replacement for vacuum robots enabling local-only operation
 - [fraserxu/electron-pdf](https://github.com/fraserxu/electron-pdf) - 📄 A command line tool to generate PDF from URL, HTML or Markdown files.
 - [pillarjs/encodeurl](https://github.com/pillarjs/encodeurl) - Encode a URL to a percent-encoded form, excluding already-encoded sequences
 - [klauserber/homr-react](https://github.com/klauserber/homr-react) - HOMR-REACT is a small html5 app that provides simple status displays and switches for smart home applications.
@@ -8131,7 +8135,7 @@
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
 - [custom-components/authenticated](https://github.com/custom-components/authenticated) - A platform which allows you to get information about sucessfull logins to Home Assistant.
 - [custom-components/breaking_changes](https://github.com/custom-components/breaking_changes) - Component to show potential breaking_changes in the current published version based on your loaded components
-- [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Hass.io that can Automatically Remove Backups and Supports Generational Backup Schemes.
+- [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
 - [custom-components/integration_blueprint](https://github.com/custom-components/integration_blueprint) - Blueprint for custom_component developers.
 - [jseidl/hass-magic_areas](https://github.com/jseidl/hass-magic_areas) - Magic Areas custom_component for Home Assistant
 - [nielsfaber/scheduler-component](https://github.com/nielsfaber/scheduler-component) - Custom component for HA that enables the creation of scheduler entities
@@ -8207,7 +8211,6 @@
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
 - [jcontini/gphotos-export](https://github.com/jcontini/gphotos-export) - Export Google Photos from Takeout
 - [sec-edgar/sec-edgar](https://github.com/sec-edgar/sec-edgar) - Download all companies  periodic reports, filings and forms from EDGAR database.
-- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [SharpBit/zillow-deal-finder](https://github.com/SharpBit/zillow-deal-finder) - A program used to find low-priced homes relative to the Zestimate
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [elmotec/uniquepath](https://github.com/elmotec/uniquepath) - Simple tool to clean up the PATH (or other) environment variables.
@@ -11256,7 +11259,7 @@
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [Giancky79/proxmox](https://github.com/Giancky79/proxmox) - Proxmox and lxc
 - [StoreHost/Mocis.SH](https://github.com/StoreHost/Mocis.SH) - Installer for common Linux Distributions
-- [aerialls/madalynn-packer](https://github.com/aerialls/madalynn-packer) - Packer configuration for Ubuntu Server 18.04 & 20.04 for Proxmox
+- [aerialls/madalynn-packer](https://github.com/aerialls/madalynn-packer) - Packer configuration for Ubuntu Server 18.0, 20.04 and 22.04 for Proxmox
 - [DeadlockState/Proxmox-prepare](https://github.com/DeadlockState/Proxmox-prepare) - Preparing Proxmox VE after installation
 - [azlux/lxc-proxmox-upgrade](https://github.com/azlux/lxc-proxmox-upgrade) - LXC Proxmox upgrade script
 - [kwilczynski/packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images, Proxmox templates and Vagrant boxes
@@ -12211,7 +12214,7 @@
 - [gnawhleinad/setup-cloudflared-ssh](https://github.com/gnawhleinad/setup-cloudflared-ssh) - setup ~/.ssh using cloudflared access service token
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
