@@ -1362,6 +1362,7 @@
 
 ## CoffeeScript 
 
+- [alexkirsz/dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) - Combine internet connections, increase your download speed
 - [joelvh/json2json](https://github.com/joelvh/json2json) - Transform (reformat) JSON structures from one to another using JavaScript
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [louixs/tsushin](https://github.com/louixs/tsushin) - Übersicht widget : Dynamically updating line chart that shows total uploaded and downloaded data being transferred to your Mac in kB. Heavily inspired by the work of Dion Munk -  network-throughput
@@ -1702,6 +1703,7 @@
 
 ## Go 
 
+- [extremecoders-re/go-dispatch-proxy](https://github.com/extremecoders-re/go-dispatch-proxy) - SOCKS5/Transparent load balancing proxy developed in Go, combines multiple internet connections
 - [lawrencegripper/signald-smtp-bridge](https://github.com/lawrencegripper/signald-smtp-bridge) - Send emails to signal via signald
 - [grokify/commonchat](https://github.com/grokify/commonchat) - CommonChat is an idealized message format with conversion to chat systems such as Glip and Slack.
 - [mrusme/planor](https://github.com/mrusme/planor) - The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, ...)
@@ -8937,7 +8939,7 @@
 - [djtimca/googlewifi-api](https://github.com/djtimca/googlewifi-api) - PyPi wrapper for Google WiFi Services
 - [djtimca/hagooglewifi](https://github.com/djtimca/hagooglewifi) - Home Assistant integration for Google Wifi systems.
 - [ckoval7/kerberossdr](https://github.com/ckoval7/kerberossdr) - KerberosSDR Demo software for direction finding and passive radar
-- [lsgrep/mldocs](https://github.com/lsgrep/mldocs) - Alfred Workflow for TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, Statsmodels API Docs
+- [lsgrep/mldocs](https://github.com/lsgrep/mldocs) - Alfred Workflow for TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib, Statsmodels, Jax, RLLib API Docs
 - [ManishSahu53/Vector-Map-Generation-from-Aerial-Imagery-using-Deep-Learning-GeoSpatial-UNET](https://github.com/ManishSahu53/Vector-Map-Generation-from-Aerial-Imagery-using-Deep-Learning-GeoSpatial-UNET) - We propose a simple yet efficient technique to leverage semantic segmentation model to extract and separate individual buildings in densely compacted areas using medium resolution satellite/UAV orthoimages. We adopted standard UNET architecture, additionally added batch normalization layer after every convolution, to label every pixel in the image.
 - [truenas/middleware](https://github.com/truenas/middleware) - TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
 - [danb35/deploy-freenas](https://github.com/danb35/deploy-freenas) - Python script to automate deploying TLS certificates to FreeNAS servers
