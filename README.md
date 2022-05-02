@@ -9047,7 +9047,7 @@
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) - An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.
 - [alicevision/meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
-- [nodiscc/netdata-logcount](https://github.com/nodiscc/netdata-logcount) - [mirror] Count log level over time, by level - netdata plugin
+- [nodiscc/netdata-logcount](https://github.com/nodiscc/netdata-logcount) - [mirror] Count log messages by level over time - netdata plugin
 - [Fogh/SABnzbd-Alfred](https://github.com/Fogh/SABnzbd-Alfred) - Control SABnzbd from Alfred app
 - [Fogh/CouchPotato-Alfred](https://github.com/Fogh/CouchPotato-Alfred) - Control CouchPotato from Alfred app
 - [Fogh/Sickbeard-Alfred](https://github.com/Fogh/Sickbeard-Alfred) - Control Sick Beard from Alfred app
@@ -10730,7 +10730,7 @@
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
 - [mrako/wait-for](https://github.com/mrako/wait-for) - 
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 17+ git scenarios.
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
@@ -11261,7 +11261,7 @@
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [Giancky79/proxmox](https://github.com/Giancky79/proxmox) - Proxmox and lxc
 - [StoreHost/Mocis.SH](https://github.com/StoreHost/Mocis.SH) - Installer for common Linux Distributions
-- [aerialls/madalynn-packer](https://github.com/aerialls/madalynn-packer) - Packer configuration for Ubuntu Server 18.0, 20.04 and 22.04 for Proxmox
+- [aerialls/madalynn-packer](https://github.com/aerialls/madalynn-packer) - Packer configuration for Ubuntu Server 18.04, 20.04 and 22.04 for Proxmox
 - [DeadlockState/Proxmox-prepare](https://github.com/DeadlockState/Proxmox-prepare) - Preparing Proxmox VE after installation
 - [azlux/lxc-proxmox-upgrade](https://github.com/azlux/lxc-proxmox-upgrade) - LXC Proxmox upgrade script
 - [kwilczynski/packer-templates](https://github.com/kwilczynski/packer-templates) - Packer templates for creating Amazon EC2 images, Proxmox templates and Vagrant boxes
@@ -12081,7 +12081,7 @@
 - [ExperienceLovelace/ha-floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Bring new life to Home Assistant. By mapping entities to a SVG-object, you're able to control devices, show states, calling services - and much more. Add custom styling on top, to visualize whatever you can think of. Your imagination just become the new limit.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [denosaurs/wait](https://github.com/denosaurs/wait) - 🌀 Minimal terminal spinner
-- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
