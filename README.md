@@ -28,6 +28,7 @@
   - [Cython](#cython)
   - [D](#d)
   - [DIGITAL Command Language](#digital-command-language)
+  - [DTrace](#dtrace)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
@@ -200,6 +201,7 @@
 
 ## C 
 
+- [ireader/media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 - [clarkwang/sexpect](https://github.com/clarkwang/sexpect) - Expect for Shells
 - [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) - union filesystem using fuse
 - [hilbix/json2sh](https://github.com/hilbix/json2sh) - Convert arbitrary JSON streams to bash readable format
@@ -915,6 +917,7 @@
 
 ## C++ 
 
+- [acaudwell/Logstalgia](https://github.com/acaudwell/Logstalgia) - replay or stream website access logs as a retro arcade game
 - [rigaya/NVEnc](https://github.com/rigaya/NVEnc) - NVENCによる高速エンコードの性能実験
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
@@ -1405,6 +1408,10 @@
 
 - [azrikahar/docker-reverse-proxies](https://github.com/azrikahar/docker-reverse-proxies) - Sample usage for various reverse proxies in Docker setups
 
+## DTrace 
+
+- [opendtrace/toolkit](https://github.com/opendtrace/toolkit) - The DTrace Toolkit: A set of scripts for use with DTrace on various systems.
+
 ## Dart 
 
 - [aguilaair/filesize](https://github.com/aguilaair/filesize) - Humanize file sizes
@@ -1703,6 +1710,15 @@
 
 ## Go 
 
+- [rssnyder/minio-lifecycle](https://github.com/rssnyder/minio-lifecycle) - minio-lifecycle
+- [cbsinteractive/transcode-orchestrator](https://github.com/cbsinteractive/transcode-orchestrator) - Agnostic API orchestrating the transcoding of media assets across various cloud providers, previously https://github.com/cbsinteractive/video-transcoding-api
+- [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
+- [grafana/synthetic-monitoring-agent](https://github.com/grafana/synthetic-monitoring-agent) - Synthetic Monitoring Agent
+- [derekparker/delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: development workflow made easy.
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
+- [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [extremecoders-re/go-dispatch-proxy](https://github.com/extremecoders-re/go-dispatch-proxy) - SOCKS5/Transparent load balancing proxy developed in Go, combines multiple internet connections
 - [lawrencegripper/signald-smtp-bridge](https://github.com/lawrencegripper/signald-smtp-bridge) - Send emails to signal via signald
 - [grokify/commonchat](https://github.com/grokify/commonchat) - CommonChat is an idealized message format with conversion to chat systems such as Glip and Slack.
@@ -1917,7 +1933,7 @@
 - [minio/mint](https://github.com/minio/mint) - Collection of tests to detect overall correctness of MinIO server.
 - [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [grafana/cortex-tools](https://github.com/grafana/cortex-tools) - This tool is deprecated. Please use "mimirtool" instead: https://github.com/grafana/mimir
+- [grafana/cortex-tools](https://github.com/grafana/cortex-tools) - If you're using this tool with Grafana Mimir, please switch to "mimirtool" instead: https://github.com/grafana/mimir
 - [deref/exo](https://github.com/deref/exo) - A process manager & log viewer for dev
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [ledongthuc/gohowmuch](https://github.com/ledongthuc/gohowmuch) - Cryptocurrencies prices and graph on the terminal
@@ -4916,7 +4932,7 @@
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [manuelbieh/geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
@@ -6201,6 +6217,7 @@
 
 ## Others 
 
+- [leandromoreira/video-containers-debugging-tools](https://github.com/leandromoreira/video-containers-debugging-tools) - A set of command lines to debug video streaming files like mp4 (MPEG-4 Part 14), ts (MPEG-2 Part 1), fmp4 in Dash, HLS, or MSS, with or without DRM.
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [bjango/Color-Creator](https://github.com/bjango/Color-Creator) - Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.
@@ -6560,6 +6577,7 @@
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - Collection of resources about Virtualization
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+- [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [openmessaging/specification](https://github.com/openmessaging/specification) - OpenMessaging Specification
 - [klemenjak/SynD](https://github.com/klemenjak/SynD) - A Synthetic Energy Consumption Dataset for Non-Intrusive Load Monitoring
 - [ch-shin/awesome-nilm](https://github.com/ch-shin/awesome-nilm) - A curated resources of awesome NILM resources
@@ -7378,6 +7396,7 @@
 
 ## Python 
 
+- [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
 - [audreyfeldroy/binaryornot](https://github.com/audreyfeldroy/binaryornot) - Ultra-lightweight pure Python package to check if a file is binary or text.
 - [SimFin/pdf-crawler](https://github.com/SimFin/pdf-crawler) - SimFin's open source PDF crawler
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.
@@ -10100,7 +10119,6 @@
 - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
-- [signalapp/zkgroup](https://github.com/signalapp/zkgroup) - 
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
 - [AstroHQ/astro-dnssd](https://github.com/AstroHQ/astro-dnssd) - Simple Rust wrapper around DNS-SD
@@ -12448,7 +12466,6 @@
 ## YAML 
 
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
-- [pascaliske/infrastructure](https://github.com/pascaliske/infrastructure) - Configurations for all of my services.
 
 ## sed 
 
