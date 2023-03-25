@@ -656,6 +656,7 @@
 - [darkk/redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [shakibamoshiri/rinp](https://github.com/shakibamoshiri/rinp) - Simple, Beautiful, Modern; "Run in Parallel" CLI
+- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [oliverw/miningcore](https://github.com/oliverw/miningcore) - Miningcore is a high-performance Mining Pool Software for Linux and Windows.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
@@ -1614,7 +1615,7 @@
 ## Dockerfile 
 
 - [tijjjy/Tailscale-DERP-Docker](https://github.com/tijjjy/Tailscale-DERP-Docker) - Docker container to self host Tailscale DERP server
-- [balena-io-experimental/balena-kube](https://github.com/balena-io-experimental/balena-kube) - Run a Kubernetes cluster on balenaCloud via k3s!
+- [balena-io-experimental/balena-k3s](https://github.com/balena-io-experimental/balena-k3s) - Run a Kubernetes cluster on balenaCloud via k3s!
 - [fuslwusl/homeassistant-addon-victoriametrics](https://github.com/fuslwusl/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana.
 - [selkies-project/docker-nvidia-egl-desktop](https://github.com/selkies-project/docker-nvidia-egl-desktop) - KDE Plasma Desktop container designed for Kubernetes with direct access to the GPU with EGL using VirtualGL and Vulkan for GPUs with WebRTC and HTML5, providing an open source remote cloud graphics or
 - [bertmelis/immich-machine-learning-no-avx](https://github.com/bertmelis/immich-machine-learning-no-avx) - 
@@ -3115,7 +3116,7 @@
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [sapk/docker-volume-rclone](https://github.com/sapk/docker-volume-rclone) - Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).
 - [mumble-voip/grumble](https://github.com/mumble-voip/grumble) - Alternative Mumble server
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
@@ -6268,7 +6269,6 @@
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [bendem/cf-dyndns-worker](https://github.com/bendem/cf-dyndns-worker) - A CloudFlare worker that updates dns records
 - [silverwind/tcpie](https://github.com/silverwind/tcpie) - CLI tool to ping any TCP port
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [exoframejs/exoframe-server](https://github.com/exoframejs/exoframe-server) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
@@ -8284,6 +8284,7 @@
 
 ## Python 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [ludbek/webpreview](https://github.com/ludbek/webpreview) - Extracts OpenGraph, TwitterCard and Schema properties from a webpage.
 - [akornor/playlistor](https://github.com/akornor/playlistor) - 🎶Apple Music  ↔️ Spotify playlist convertor.
 - [platers/unitunes](https://github.com/platers/unitunes) - A GUI and library to transfer, sync, and backup playlists on music streaming services
@@ -8536,7 +8537,7 @@
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [mdhiggins/sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized format with metadata tagging to create a beautiful and uniform media library
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to chec
-- [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff data in or across relational databases
+- [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [shovon668/cfst_nextdns](https://github.com/shovon668/cfst_nextdns) - CloudflareSpeedTest + NextDNS rewrite rules
@@ -9909,7 +9910,6 @@
 - [textpipe/textpipe](https://github.com/textpipe/textpipe) - Textpipe: clean and extract metadata from text
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-- [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware) - :lock: Trezor Firmware Monorepo
 - [google/upvote_py2](https://github.com/google/upvote_py2) - A multi-platform binary whitelisting solution
 - [djmaze/apprise-microservice](https://github.com/djmaze/apprise-microservice) - A small JSON API server for delivering notifications using Apprise
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -11330,7 +11330,7 @@
 - [glotcode/docker-run](https://github.com/glotcode/docker-run) - Api for running untrusted code in containers
 - [prasmussen/glot-run2](https://github.com/prasmussen/glot-run2) - 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
+- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [doyoubi/undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation.
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -11743,7 +11743,6 @@
 - [chernjie/fbmessage](https://github.com/chernjie/fbmessage) - Facebook messenger CLI
 - [Darkhand81/ProxmoxMaintenanceMode](https://github.com/Darkhand81/ProxmoxMaintenanceMode) - Enable/Disable all Proxmox VMs that are set to boot on node startup, to allow for node maintenance.
 - [cfurrow/fzf-rdfind](https://github.com/cfurrow/fzf-rdfind) - Use rdfind + fzf to find and remove duplicate files
-- [karek314/macOS-home-call-drop](https://github.com/karek314/macOS-home-call-drop) - Simple shell script to fix macOS privacy issues and remove mostly useless macOS calls to cupertino
 - [seamusdemora/seamusdemora.github.io](https://github.com/seamusdemora/seamusdemora.github.io) - World famous all over the world.
 - [nathanhaigh/parallel-rsync](https://github.com/nathanhaigh/parallel-rsync) - Parallelised rsync - using GNU parallel
 - [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) - A centralized place for the awesome work started by @mathiasbynens on .macos
@@ -11785,7 +11784,7 @@
 - [lux4rd0/weatherflow-collector](https://github.com/lux4rd0/weatherflow-collector) - A WeatherFlow data collector for local-UDP, remote-socket, and remote-rest APIs. Feeds InfluxDB and Grafana Loki back-ends. Includes current conditions, forecasts, and historical details. Includes a c
 - [Visual-Regression-Tracker/Visual-Regression-Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Backend and Frontend application for tracking differences via image comparison
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative!
-- [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:10.1-jdk11-corretto image.
+- [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [ehough/docker-nfs-server](https://github.com/ehough/docker-nfs-server) - A lightweight, robust, flexible, and containerized NFS server.
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
@@ -13361,7 +13360,7 @@
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
 - [VictoriaMetrics/grafana-datasource](https://github.com/VictoriaMetrics/grafana-datasource) - 
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [FacilMap/facilmap](https://github.com/FacilMap/facilmap) - A fully-featured OpenStreetMap-based map where markers and lines can be added with live collaboration.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
@@ -14039,6 +14038,7 @@
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 - [Worie/btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [evandcoleman/node-appletv](https://github.com/evandcoleman/node-appletv) - A node module for interacting with an Apple TV (4th-generation or later) over the Media Remote Protocol.
 - [openzim/mwoffliner](https://github.com/openzim/mwoffliner) - Mediawiki scraper: all your wiki articles in one highly compressed ZIM file
