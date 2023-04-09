@@ -980,7 +980,7 @@
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [RehanSaeed/Serilog.Exceptions](https://github.com/RehanSaeed/Serilog.Exceptions) - Log exception details and custom properties that are not output in Exception.ToString().
 - [pieceofsummer/Hangfire.Console](https://github.com/pieceofsummer/Hangfire.Console) - Job console extension for Hangfire
-- [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs
+- [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless application
 - [Sina-Soltani/Parbad](https://github.com/Sina-Soltani/Parbad) - A free, open-source, integrated and extensible library which connects your web applications to online payment gateways. Gateways can be added or developed by you.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
@@ -1047,7 +1047,7 @@
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [AviSynth/AviSynthPlus](https://github.com/AviSynth/AviSynthPlus) - AviSynth with improvements
 - [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This wor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy! :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy. :rocket:
 - [flomesh-io/pipy](https://github.com/flomesh-io/pipy) - Pipy is a programmable proxy for the cloud, edge and IoT.
 - [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) - 
 - [ajor/bpftrace](https://github.com/ajor/bpftrace) - High-level tracing language for Linux eBPF - development moved to https://github.com/iovisor/bpftrace
@@ -1579,7 +1579,7 @@
 ## Common Lisp 
 
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## Crystal 
 
@@ -1611,7 +1611,6 @@
 - [faithoflifedev/easy_onvif](https://github.com/faithoflifedev/easy_onvif) - 
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [aguilaair/filesize](https://github.com/aguilaair/filesize) - Humanize file sizes
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [Yubico/yubioath-flutter](https://github.com/Yubico/yubioath-flutter) - Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
 - [thielepaul/photoprism-mobile](https://github.com/thielepaul/photoprism-mobile) - Flutter App for PhotoPrism
@@ -1623,8 +1622,9 @@
 
 ## Dockerfile 
 
+- [arbal/tor-privoxy](https://github.com/arbal/tor-privoxy) - Small docker image with Tor and Privoxy on Alpine Linux
+- [6cUbi57z/tor-privoxy](https://github.com/6cUbi57z/tor-privoxy) - Small docker image with Tor and Privoxy on Alpine Linux
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) - 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
-- [tijjjy/Tailscale-DERP-Docker](https://github.com/tijjjy/Tailscale-DERP-Docker) - Docker container to self host Tailscale DERP server
 - [balena-io-experimental/balena-k3s](https://github.com/balena-io-experimental/balena-k3s) - Run a Kubernetes cluster on balenaCloud via k3s!
 - [fuslwusl/homeassistant-addon-victoriametrics](https://github.com/fuslwusl/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana.
 - [selkies-project/docker-nvidia-egl-desktop](https://github.com/selkies-project/docker-nvidia-egl-desktop) - KDE Plasma Desktop container designed for Kubernetes with direct access to the GPU with EGL using VirtualGL and Vulkan for GPUs with WebRTC and HTML5, providing an open source remote cloud graphics or
@@ -1654,7 +1654,7 @@
 - [datamachines/cuda_tensorflow_opencv](https://github.com/datamachines/cuda_tensorflow_opencv) - DockerFile with GPU support for TensorFlow and OpenCV
 - [ottx96/ungit-docker](https://github.com/ottx96/ungit-docker) - Credits: https://github.com/FredrikNoren/ungit
 - [wbitt/Network-MultiTool](https://github.com/wbitt/Network-MultiTool) - Multi-arch multitool for container network troubleshooting. (Formerly Praqma/Network-Multitool)
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including ChatGPT, WireGuard, Automation, 
 - [JulianAssmann/opencv-cuda-docker](https://github.com/JulianAssmann/opencv-cuda-docker) - Dockerfiles for OpenCV compiled with CUDA, opencv_contrib modules and Python 3 bindings
 - [developeranaz/RCLONE-SERVE-INDEX](https://github.com/developeranaz/RCLONE-SERVE-INDEX) - Heroku Rclone Index Any Remote cloud drives to Index page
 - [tenzin-io/tailscale-dns](https://github.com/tenzin-io/tailscale-dns) - A DNS updater service for Tailscale hosts.
@@ -1955,6 +1955,7 @@
 
 ## Go 
 
+- [thegeeklab/drone-admin](https://github.com/thegeeklab/drone-admin) - Drone Admin Tools
 - [kazhuravlev/just](https://github.com/kazhuravlev/just) - Collection of useful functions. Complete simple tasks faster!
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [hako/durafmt](https://github.com/hako/durafmt) - :clock8:  Better time duration formatting in Go!
@@ -6048,7 +6049,7 @@
 - [seflless/diagrams](https://github.com/seflless/diagrams) - Generate Flowcharts, Network Sequence Diagrams, GraphViz Dot Diagrams, and Railroad Diagrams
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
-- [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
+- [viz-js/viz.js](https://github.com/viz-js/viz.js) - A hack to put Graphviz on the web.
 - [varchashva/LetsMapYourNetwork](https://github.com/varchashva/LetsMapYourNetwork) - Lets Map Your Network enables you to visualise your physical network in form of graph with zero manual error
 - [Fusl/intrace](https://github.com/Fusl/intrace) - Multi-probe looking glass with simple but powerful configuration for probes and lookup types (BIRD, MTR, Ping & Traceroute pre-configured)
 - [pierky/ripeatlastracepath](https://github.com/pierky/ripeatlastracepath) - A JavaScript/Python web-app which reads results from RIPE Atlas traceroute measurements (both IPv4 and IPv6) and shows the Autonomous Systems and Internet Exchange Points that probes traverse to reach
@@ -6300,7 +6301,7 @@
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento) - Zotero extension that combats link rot by archiving webpages and journal articles.
 - [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
-- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [sindresorhus/wait-for-localhost-cli](https://github.com/sindresorhus/wait-for-localhost-cli) - Wait for localhost to be ready from the command-line
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 - [tle211212/swarm-jitsi-meet](https://github.com/tle211212/swarm-jitsi-meet) - Jitsi meet on Docker swarm
@@ -8327,6 +8328,7 @@
 
 ## Python 
 
+- [s0md3v/Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner
 - [MikeDev101/cloudlink](https://github.com/MikeDev101/cloudlink) - A powerful WebSocket extension for Scratch 3 and an easy to use WebSocket framework.
 - [dl3jop/PARST](https://github.com/dl3jop/PARST) - Portable AmateurRadio Satellite Tracker
 - [NTIA/scos-sensor](https://github.com/NTIA/scos-sensor) - NTIA/ITS Spectrum Monitoring SCOS sensor reference implementation
@@ -11256,6 +11258,7 @@
 
 ## Rust 
 
+- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [cmrincon/rust-limesdr](https://github.com/cmrincon/rust-limesdr) - Rust wrapper for Limesuite
 - [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
 - [yaahc/recaphub](https://github.com/yaahc/recaphub) - CLI tool for generating a summary of recent github activity for people who are incredibly forgetful but still need to give weekly status updates to their boss without getting depressed and convincing 
@@ -11444,6 +11447,7 @@
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [icewind1991/prometheus-mdns-rs](https://github.com/icewind1991/prometheus-mdns-rs) - mDNS service discovery for prometherus
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [rabite0/hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [benwebber/tunnelblickctl](https://github.com/benwebber/tunnelblickctl) - :lock: Command-line interface for Tunnelblick
@@ -11675,7 +11679,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [coord-e/magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
-- [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose
+- [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [nagisa/msi-rgb](https://github.com/nagisa/msi-rgb) - Linux utility for controlling RGB header on select MSI motherboards
@@ -11753,6 +11757,7 @@
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [shyamalschandra/pdftotextmovie](https://github.com/shyamalschandra/pdftotextmovie) - A bash script that converts pdf papers into text movies.
 - [zbentley/bash-tricks](https://github.com/zbentley/bash-tricks) - Utilities, links, and information on writing performant, safe code in the Bash shell language
+- [tijjjy/Tailscale-DERP-Docker](https://github.com/tijjjy/Tailscale-DERP-Docker) - Docker container to self host Tailscale DERP server
 - [binarybucks/restic-tools](https://github.com/binarybucks/restic-tools) - 
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [agkozak/zhooks](https://github.com/agkozak/zhooks) - Display Zsh hook functions and arrays
@@ -13438,6 +13443,7 @@
 
 ## TypeScript 
 
+- [michaelahern/homebridge-airthings](https://github.com/michaelahern/homebridge-airthings) - A Homebridge plugin for Airthings air quality monitors via the Airthings Consumer API.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
