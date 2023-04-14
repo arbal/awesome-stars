@@ -959,7 +959,7 @@
 - [nullpainter/sanchez](https://github.com/nullpainter/sanchez) - False-colour geostationary satellite image compositor
 - [MultiPoolMiner/MultiPoolMiner](https://github.com/MultiPoolMiner/MultiPoolMiner) - Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line.
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha
-- [Sicos1977/ChromiumHtmlToPdf](https://github.com/Sicos1977/ChromiumHtmlToPdf) - Convert HTML to PDF with Chrome
+- [Sicos1977/ChromiumHtmlToPdf](https://github.com/Sicos1977/ChromiumHtmlToPdf) - Convert HTML to PDF with a Chromium based browser
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
@@ -6656,7 +6656,7 @@
 - [daniestevez/gr-satellites](https://github.com/daniestevez/gr-satellites) - GNU Radio decoder for Amateur satellites
 - [Hack4Eugene/SpeedUpAmerica](https://github.com/Hack4Eugene/SpeedUpAmerica) - Crowd-sourced internet speed tests using M-Lab data and user tests on a website, with charts, maps, and raw data downloads.
 - [wlmeng11/rtl-ultrasound](https://github.com/wlmeng11/rtl-ultrasound) - 🔊 Ultrasound imaging with RTL-SDR
-- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - MiXLab is a mix of multiple amazing Colab Notebooks found on the internet such as rcloneLab, RLabClone, Torrent to Google Drive Downloader and some more.
+- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Just another multi-purpose Colab Notebook
 - [eswar3/Zillow-prediction-models](https://github.com/eswar3/Zillow-prediction-models) - Machine Learning Project using Kaggle dataset
 - [adeshpande3/Kaggle-Zillow](https://github.com/adeshpande3/Kaggle-Zillow) - Repo for the $1.2 million Kaggle competition
 - [Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic) - 1st place solution
@@ -8340,7 +8340,7 @@
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+- [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 - [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool
 - [itead/Sonoff_Devices_DIY_Tools](https://github.com/itead/Sonoff_Devices_DIY_Tools) - 
@@ -8688,7 +8688,7 @@
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [Nukesor/encarne](https://github.com/Nukesor/encarne) - :tv: Reencode all your movies to h.265
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
-- [audreyfeldroy/binaryornot](https://github.com/audreyfeldroy/binaryornot) - Ultra-lightweight pure Python package to check if a file is binary or text.
+- [binaryornot/binaryornot](https://github.com/binaryornot/binaryornot) - Ultra-lightweight pure Python package to check if a file is binary or text.
 - [SimFin/pdf-crawler](https://github.com/SimFin/pdf-crawler) - SimFin's open source PDF crawler
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
 - [JNoDuq/videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer
@@ -8828,7 +8828,7 @@
 - [l3uddz/plex_dupefinder](https://github.com/l3uddz/plex_dupefinder) - Find and delete duplicate files in Plex
 - [ossobv/planb-pvesync](https://github.com/ossobv/planb-pvesync) - ZFS ZVOL backup helper for Proxmox VE VMs (standalone and PlanB plugin)
 - [ossobv/planb](https://github.com/ossobv/planb) - PlanB - automating remote backups and snapshots with zfs/rsync
-- [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
+- [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings by using the Grafana API
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [sodadata/soda-core](https://github.com/sodadata/soda-core) - :zap: Data quality management for SQL, Spark, and Pandas-accessible data
 - [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2023, WikiTeam has preserved more than 350,000 wikis.
@@ -11910,7 +11910,7 @@
 - [luispabon/borg-s3-home-backup](https://github.com/luispabon/borg-s3-home-backup) - Simple script to back up your home folder into s3 using borg backup
 - [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
 - [conda-forge/gdb-feedstock](https://github.com/conda-forge/gdb-feedstock) - A conda-smithy repository for gdb.
-- [testcomputer/Nmap-Guide](https://github.com/testcomputer/Nmap-Guide) - More in-depth guide to the utility of Nmap
+- [testcomputer/Nmap-Guide](https://github.com/testcomputer/Nmap-Guide) - This is my GitHub repository containing my Nmap guide. As a cybersecurity enthusiast, I have been interested in learning about different network scanning techniques, and Nmap has been a valuable tool 
 - [cannadayr/git-sqlite](https://github.com/cannadayr/git-sqlite) - A custom diff and merge driver for sqlite
 - [BinsonBuzz/unraid_rclone_mount](https://github.com/BinsonBuzz/unraid_rclone_mount) - scripts to create rclone mounts on gdrive
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
@@ -12037,7 +12037,7 @@
 - [lux4rd0/sense-collector](https://github.com/lux4rd0/sense-collector) - Sense Collector provides a way of collecting real-time data from the Sense Energy Monitor. Includes Grafana dashboards for visualizations of detected devices and smart plugs and their wattage, voltage
 - [plattrap/healthchecks-wrapper](https://github.com/plattrap/healthchecks-wrapper) - crontab wrapper for healthchecks.io reporting
 - [pedroamador/pvebackup](https://github.com/pedroamador/pvebackup) - Proxmox backup script
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 - [orojina/grafana-cli](https://github.com/orojina/grafana-cli) - 
 - [oleduc/searx-docker-portainer](https://github.com/oleduc/searx-docker-portainer) - Create a searx instance using Docker
 - [twang817/zsh-gnubin](https://github.com/twang817/zsh-gnubin) - 
@@ -12519,7 +12519,7 @@
 - [MonsterMuffin/rclone-gmedia](https://github.com/MonsterMuffin/rclone-gmedia) - Configuration files for
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
 - [drduh/Purse](https://github.com/drduh/Purse) - GPG asymmetric (YubiKey) password manager
-- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.16.1 container for the iCloud Photos Downloader command line utility
+- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.17.3 container for the iCloud Photos Downloader command line utility
 - [xxh/xxh-plugin-zsh-ohmyzsh](https://github.com/xxh/xxh-plugin-zsh-ohmyzsh) - Oh my zsh plugin for xxh zsh
 - [georchestra/docker](https://github.com/georchestra/docker) - Quick start geOrchestra with docker
 - [kernelkaribou/synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
@@ -13487,7 +13487,6 @@
 - [balena-io/deploy-to-balena-action](https://github.com/balena-io/deploy-to-balena-action) - Official Github action to deploy releases to balenaCloud environments
 - [obartra/ssim](https://github.com/obartra/ssim) - 🖼🔬 JavaScript Image Comparison
 - [radarlabs/api-diff](https://github.com/radarlabs/api-diff) - A command line tool for diffing json rest APIs
-- [mrseanryan/image-checker](https://github.com/mrseanryan/image-checker) - :heavy_check_mark: Check the quality of an image for defects including blur, under-exposure, over-exposure and low contrast.
 - [thenewwazoo/homebridge-lutron-caseta-leap](https://github.com/thenewwazoo/homebridge-lutron-caseta-leap) - Homebridge support for Lutron Caseta Smart Bridge 2
 - [vectronic/homebridge-nut](https://github.com/vectronic/homebridge-nut) - Homebridge plugin for NUT (Network UPS Tools) Client
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
