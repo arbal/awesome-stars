@@ -1756,6 +1756,7 @@
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [watchmeexplode5/crop-lclone-docker](https://github.com/watchmeexplode5/crop-lclone-docker) - 
 - [optoisolated/MXWeather](https://github.com/optoisolated/MXWeather) - Docker Container for CumulusMX Weather Station software
+- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - Balena base images
 - [peterblazejewicz/balena-sense-hat](https://github.com/peterblazejewicz/balena-sense-hat) - Template project for application image running RaspberryPi 4 64Bit with Sense Hat, Python 3.7.* on the Balena 64 bit OS
 - [qeeqbox/chameleon](https://github.com/qeeqbox/chameleon) - 19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, 
 - [linuxserver/docker-plex](https://github.com/linuxserver/docker-plex) - 
@@ -1866,7 +1867,7 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [manuasir/rtl-sdr-server](https://github.com/manuasir/rtl-sdr-server) - Run a RTL-SDR TCP server in your Raspberry Pi using Docker
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image
 - [tiangolo/python-machine-learning-docker](https://github.com/tiangolo/python-machine-learning-docker) - Docker image with Python 3.6 and 3.7 using Conda, with CUDA variants. To serve as base image for Machine Learning projects.
 - [atyenoria/janus-webrtc-gateway-docker](https://github.com/atyenoria/janus-webrtc-gateway-docker) - Perfect Docker Image for Media Streaming Expert User ( https://github.com/meetecho/janus-gateway )
@@ -1970,6 +1971,9 @@
 
 ## Go 
 
+- [ViBiOh/vith](https://github.com/ViBiOh/vith) - Video Thumbnailer
+- [OSNVR/OS-NVR](https://github.com/OSNVR/OS-NVR) - OS-NVR is a lightweight extensible CCTV system. Mirror of Codeberg.
+- [suntong/ffcvt](https://github.com/suntong/ffcvt) - ffmpeg convert wrapper tool
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes
 - [backplane/avg](https://github.com/backplane/avg) - writes a summary of numeric data
@@ -2243,6 +2247,7 @@
 - [nojima/httpie-go](https://github.com/nojima/httpie-go) - httpie-like HTTP client written in Go
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
 - [innobead/kubefire](https://github.com/innobead/kubefire) - KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs
+- [szkiba/xk6-dashboard](https://github.com/szkiba/xk6-dashboard) - A k6 extension that enables creating web based metrics dashboard for k6
 - [pmalhaire/xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) - k6 mqtt extension
 - [grafana/xk6-loki](https://github.com/grafana/xk6-loki) - k6 extension for Loki
 - [google/inverting-proxy](https://github.com/google/inverting-proxy) - Reverse proxy that inverts the direction of traffic
@@ -4690,6 +4695,8 @@
 
 ## JavaScript 
 
+- [denk0403/VideoCrop](https://github.com/denk0403/VideoCrop) - Offline, browser-based video cropping tool
+- [catdad/video-tools](https://github.com/catdad/video-tools) - 🎬 cli tool for video processing
 - [sindresorhus/valid-filename](https://github.com/sindresorhus/valid-filename) - Check if a string is a valid filename
 - [sindresorhus/filenamify-url](https://github.com/sindresorhus/filenamify-url) - Convert a URL to a valid filename
 - [sindresorhus/unused-filename](https://github.com/sindresorhus/unused-filename) - Get an unused filename by appending a number if it exists: `file.txt` → `file (1).txt`
@@ -4887,7 +4894,6 @@
 - [mattt/Chroma-Hash](https://github.com/mattt/Chroma-Hash) - A colorful visualization of password field input
 - [phpdocker-io/readability-js-server](https://github.com/phpdocker-io/readability-js-server) - Mozilla's Readability.js as a service
 - [drkno/transcoderr](https://github.com/drkno/transcoderr) - tdarr if it behaved more like a GPU pipeline
-- [szkiba/xk6-dashboard](https://github.com/szkiba/xk6-dashboard) - A k6 extension that enables creating web based metrics dashboard for k6
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [shakiba/svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -5384,7 +5390,7 @@
 - [bengarrett/RetroTxt](https://github.com/bengarrett/RetroTxt) - RetroTxt is the WebExtension that turns ANSI, ASCII, NFO text into web documents
 - [xpl/ololog](https://github.com/xpl/ololog) - A better console.log for the log-driven debugging junkies
 - [doowb/ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal. ansi-colors is the official ansi styling library for gulp, and is used by hundreds of other projects, including mocha, enquirer, redwoo
-- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
@@ -7454,7 +7460,6 @@
 - [pyrho/alfred-kitty-tab-switch](https://github.com/pyrho/alfred-kitty-tab-switch) - 
 - [Eun/DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac.
 - [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - ⚡Metrics to help understand page speed and user experience
-- [balena-io-library/base-images](https://github.com/balena-io-library/base-images) - Balena base images
 - [gitatmax/pacmax](https://github.com/gitatmax/pacmax) - All things Pacmax
 - [eutialia/open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from Alfred or Raycast
 - [rclone/rclone-plugins-repo](https://github.com/rclone/rclone-plugins-repo) - This is a repository to list plugins available for rclone-webui-react
@@ -8070,6 +8075,7 @@
 
 ## PHP 
 
+- [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 - [cviebrock/goalfeed](https://github.com/cviebrock/goalfeed) - 
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized PHP application to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
@@ -8420,6 +8426,9 @@
 
 ## Python 
 
+- [archusXIV/mpv-playlists-manager](https://github.com/archusXIV/mpv-playlists-manager) - manage playlists for mpv
+- [lifeiteng/vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html
+- [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [RhetTbull/exif2findertags](https://github.com/RhetTbull/exif2findertags) - Read EXIF metadata from image and video files and convert it to macOS Finder tags and/or Finder comments.
 - [yagil/tokmon](https://github.com/yagil/tokmon) - CLI to monitor your program's OpenAI API token usage.
@@ -9972,7 +9981,7 @@
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [nateGeorge/slurm_gpu_ubuntu](https://github.com/nateGeorge/slurm_gpu_ubuntu) - Instructions for setting up a SLURM cluster using Ubuntu 18.04.3 with GPUs.
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a Cloud Security Configuration CLI for AWS, GCP, Azure, and SaaS Security Posture Management with support for 100s of services and evaluations to harden your entire cloud footprint.
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Cloud Asset Management (CAM), Cloud Security Posture Management (CSPM), SaaS Security Posture Management (SSPM), and External Attack Surfac
 - [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
 - [PyDann/TinyBridge](https://github.com/PyDann/TinyBridge) - Homebridge CLI Manager
 - [alechilczenko/Deep-Inside](https://github.com/alechilczenko/Deep-Inside) - Command line tool that allows you to explore IoT devices by using Shodan API.
@@ -11408,6 +11417,7 @@
 
 ## Rust 
 
+- [ALLATRA-IT/ephyr](https://github.com/ALLATRA-IT/ephyr) - Self-hosted server solution for video streaming powered by Rust, SRS ad FFmpeg
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - A lightening fast, privacy respecting, secure meta search engine.
 - [dragonflyoss/image-service](https://github.com/dragonflyoss/image-service) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
@@ -11918,6 +11928,7 @@
 
 ## Shell 
 
+- [bensuperpc/scripts](https://github.com/bensuperpc/scripts) - Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
 - [xwmx/notes-app-cli](https://github.com/xwmx/notes-app-cli) - A command line interface for Notes.app on macOS.
 - [backplane/conex](https://github.com/backplane/conex) - Utility Container Images
 - [alturismo/xteve_guide2go](https://github.com/alturismo/xteve_guide2go) - xteve_guide2go
@@ -13358,6 +13369,7 @@
 
 ## Svelte 
 
+- [Specy/Scapix](https://github.com/Specy/Scapix) - An image upscaling and denoiser app
 - [knrdl/caasa](https://github.com/knrdl/caasa) - Container as a Service admin
 - [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -14226,7 +14238,7 @@
 - [streamich/unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [sorenbs/chromeless](https://github.com/sorenbs/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [TimoStaudinger/sprite](https://github.com/TimoStaudinger/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
@@ -14423,6 +14435,7 @@
 
 ## Vue 
 
+- [MatijaNovosel/montage](https://github.com/MatijaNovosel/montage) - 🎬 A clip editor made with Tauri.
 - [jsbroks/coco-annotator](https://github.com/jsbroks/coco-annotator) - :pencil2: Web-based image segmentation tool for object detection, localization, and keypoints
 - [seydx/camera.ui](https://github.com/seydx/camera.ui) - NVR like user Interface for RTSP capable cameras
 - [Kholid060/snapcode](https://github.com/Kholid060/snapcode) - Snippet code manager
