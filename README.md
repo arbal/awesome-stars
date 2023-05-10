@@ -148,6 +148,7 @@
 
 ## AppleScript 
 
+- [tedmiston/tab-transporter](https://github.com/tedmiston/tab-transporter) - Move tabs in bulk across browsers on macOS
 - [Jmuccigr/AppleScripts](https://github.com/Jmuccigr/AppleScripts) - Handy AppleScripts I use
 - [leolabs/alfred-icloud-passwords](https://github.com/leolabs/alfred-icloud-passwords) - Quickly find and copy iCloud passwords and OTPs to your clipboard
 - [kabiroberai/airdrop-cli](https://github.com/kabiroberai/airdrop-cli) - A command line interface for AirDrop
@@ -1073,7 +1074,7 @@
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [AviSynth/AviSynthPlus](https://github.com/AviSynth/AviSynthPlus) - AviSynth with improvements
 - [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This wor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart second brain :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎  𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart second brain :rocket:
 - [flomesh-io/pipy](https://github.com/flomesh-io/pipy) - Pipy is a programmable proxy for the cloud, edge and IoT.
 - [shajen/rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) - 
 - [ajor/bpftrace](https://github.com/ajor/bpftrace) - High-level tracing language for Linux eBPF - development moved to https://github.com/iovisor/bpftrace
@@ -1459,7 +1460,7 @@
 - [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools) - Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency, and realtime video server, supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
 - [pothosware/SoapyRemote](https://github.com/pothosware/SoapyRemote) - Use any Soapy SDR remotely
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
 - [pietern/goestools](https://github.com/pietern/goestools) - Tools to work with signals and files from GOES satellites
@@ -1582,6 +1583,7 @@
 
 ## CoffeeScript 
 
+- [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
 - [balena-os/balena-intel](https://github.com/balena-os/balena-intel) - Balena support for Intel boards
 - [balena-os/balena-generic](https://github.com/balena-os/balena-generic) - Balena support for generic devices
 - [alexkirsz/dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) - Combine internet connections, increase your download speed
@@ -1979,6 +1981,8 @@
 
 ## Go 
 
+- [David-Lor/socks-proxy-balancer](https://github.com/David-Lor/socks-proxy-balancer) - SOCKS5/Transparent load balancing proxy developed in Go, combines multiple internet connections
+- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [wader/ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service
 - [ipld/go-car](https://github.com/ipld/go-car) - A content addressible archive utility
 - [ViBiOh/vith](https://github.com/ViBiOh/vith) - Video Thumbnailer
@@ -3934,7 +3938,6 @@
 - [m-lab/ndt-server](https://github.com/m-lab/ndt-server) - docker native ndt5 and ndt7 server with prometheus integration
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
-- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [qdm12/dns](https://github.com/qdm12/dns) - Docker DNS server on steroids to access DNS-over-TLS from Cloudflare, Google, Quad9, Quadrant or CleanBrowsing
@@ -4401,6 +4404,7 @@
 - [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [KuroLabs/Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
+- [rstudio/cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [darrow/balena-piaware](https://github.com/darrow/balena-piaware) - 
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
@@ -4411,6 +4415,7 @@
 - [chanduusc/cloud-init-scripts](https://github.com/chanduusc/cloud-init-scripts) - Cloud-init scripts to install stress testing tools
 - [blaineventurine/home-automation-docker](https://github.com/blaineventurine/home-automation-docker) - Assorted Docker containers, using Traefik as a reverse proxy, and HomeAssistant to automate my house
 - [guillaumebriday/traefik-docker-ansible](https://github.com/guillaumebriday/traefik-docker-ansible) - 🐳 🐹  This is an Ansible playbook to install multiple Web applications on a single Ubuntu server with Docker and Traefik.
+- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
@@ -4705,6 +4710,8 @@
 
 ## JavaScript 
 
+- [IQEngine/IQEngine](https://github.com/IQEngine/IQEngine) - www.iqengine.org
+- [Socks5Balancer/Socks5BalancerAsio](https://github.com/Socks5Balancer/Socks5BalancerAsio) - A Simple TCP Socket Balancer for balance Multi Socks5 Proxy Backend Powered by Boost.Asio
 - [ipfs-shipyard/dnslink-cloudflare](https://github.com/ipfs-shipyard/dnslink-cloudflare) - Update dnslink TXT records in Cloudflare
 - [githubocto/flat-demo-bitcoin-price](https://github.com/githubocto/flat-demo-bitcoin-price) - A Flat Data GitHub Action demo repo
 - [denk0403/VideoCrop](https://github.com/denk0403/VideoCrop) - Offline, browser-based video cropping tool
@@ -8443,6 +8450,8 @@
 
 ## Python 
 
+- [unixsurfer/haproxystats](https://github.com/unixsurfer/haproxystats) - A HAProxy statistics collection program
+- [irrdnet/irrd](https://github.com/irrdnet/irrd) - IRRd version 4
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [jgonggrijp/pip-review](https://github.com/jgonggrijp/pip-review) - A tool to keep track of your Python package updates.
@@ -10028,7 +10037,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python browser automation framework for creating reliable end-to-end tests.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python browser automation framework for creating reliable end-to-end tests.
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone 
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Go
@@ -10883,6 +10892,7 @@
 - [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 - [natlas/natlas](https://github.com/natlas/natlas) - Scaling Network Scanning. Changes prior to 1.0 may cause difficult to avoid backwards incompatibilities. You've been warned.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Drive Storage by splitting binary files into base64
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU) - This is a repository for an object detection inference API using the Tensorflow framework.
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [ofek/userpath](https://github.com/ofek/userpath) - Cross-platform tool for adding locations to the user PATH, no elevated privileges required!
@@ -11444,6 +11454,7 @@
 
 ## Rust 
 
+- [Kixunil/btc-rpc-proxy](https://github.com/Kixunil/btc-rpc-proxy) - Finer-grained permission management for bitcoind.
 - [cea-sec/sanzu](https://github.com/cea-sec/sanzu) - Graphical remote desktop solution
 - [ALLATRA-IT/ephyr](https://github.com/ALLATRA-IT/ephyr) - Self-hosted server solution for video streaming powered by Rust, SRS ad FFmpeg
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
@@ -11956,6 +11967,7 @@
 
 ## Shell 
 
+- [mklement0/ttab](https://github.com/mklement0/ttab) - macOS and Linux CLI for opening a new terminal tab/window, optionally with a command to execute and/or display settings
 - [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [bensuperpc/scripts](https://github.com/bensuperpc/scripts) - Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
@@ -12887,7 +12899,7 @@
 - [ahuacate/pve-medialab](https://github.com/ahuacate/pve-medialab) - LXC Media Container Builds - Qotom & NAS Build
 - [ReSearchITEng/kubeadm-playbook](https://github.com/ReSearchITEng/kubeadm-playbook) - Fully fledged (HA) Kubernetes Cluster using official kubeadm, ansible and helm. Tested on RHEL/CentOS/Ubuntu with support of http_proxy, dashboard installed, ingress controller, heapster - using offic
 - [bbugyi200/cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [jumanjihouse/docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan) - Qualys sslabs-scan utility in a tiny docker image
 - [bvis/docker-prometheus-swarm](https://github.com/bvis/docker-prometheus-swarm) - Sample prometheus that can be used as a sample to get Swarm cluster metrics
@@ -13215,7 +13227,6 @@
 - [johnnyxmas/ScanCannon](https://github.com/johnnyxmas/ScanCannon) - Combines the speed of masscan with the reliability and detailed enumeration of nmap
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [open-wa/wa-avd-docker](https://github.com/open-wa/wa-avd-docker) - A Docker image based on Ubuntu Desktop with VNC and noVNC access, that runs a lightweight Android Virtual Device with WhatsApp pre-installed.
 - [oracle/docker-images](https://github.com/oracle/docker-images) - Official source of container configurations, images, and examples for Oracle products and projects
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -13657,7 +13668,6 @@
 - [GerHobbelt/qiqqa-open-source](https://github.com/GerHobbelt/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows (a bleeding edge dev fork) ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ ・ 
 - [jimmejardine/qiqqa-open-source](https://github.com/jimmejardine/qiqqa-open-source) - The open-sourced version of the award-winning Qiqqa research management tool for Windows
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
-- [rstudio/cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 
 ## TypeScript 
 
