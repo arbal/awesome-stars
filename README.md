@@ -879,7 +879,7 @@
 - [andreiw/RaspberryPiPkg](https://github.com/andreiw/RaspberryPiPkg) - DEPRECATED - DO NOT USE |  Go here instead -&gt;
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [lathiat/nss-mdns](https://github.com/lathiat/nss-mdns) - 
@@ -4719,6 +4719,9 @@
 
 ## JavaScript 
 
+- [FGRibreau/jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 1.45M modules 😱)
+- [tuya/tuya-homebridge](https://github.com/tuya/tuya-homebridge) - Homebridge custom plugin for controlling Powered by Tuya (PBT) devices in HomeKit. This plugin is officially maintained by the Tuya Developer Team.
+- [ebaauw/homebridge-rpi](https://github.com/ebaauw/homebridge-rpi) - Homebridge plugin for Raspberry Pi.
 - [ben8p/lovelace-tab-redirect-card](https://github.com/ben8p/lovelace-tab-redirect-card) - Custom lovelace card to use in Home assistant allowing you to redirect a user to certain view based on entity states.
 - [ben8p/lovelace-auto-reload-card](https://github.com/ben8p/lovelace-auto-reload-card) - Custom home assitant lovelace for UI auto reload
 - [LayeredStudio/whoiser](https://github.com/LayeredStudio/whoiser) - 🌍 Easy to use WHOIS info for domains, TLDs and IPs
@@ -4972,7 +4975,7 @@
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 - [simonw/datasette-app](https://github.com/simonw/datasette-app) - The Datasette macOS application
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [joshuatvernon/cbf](https://github.com/joshuatvernon/cbf) - CBF  🦥is a simple CLI tool for developers who can't be f#@!'d learning or remembering all the commands they have to run day to day or just in a specific repo
 - [N0taN3rd/chrome-remote-interface-extra](https://github.com/N0taN3rd/chrome-remote-interface-extra) - Like fs-extra but for the chrome-remote-interface-extra by cyrus-and
 - [webdriverio/query-selector-shadow-dom](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots without knowing the path through nested shadow roots. Useful for automated testing of Web Components. Production use is not advised, this is for test env
@@ -6633,6 +6636,7 @@
 
 ## Jinja 
 
+- [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard
 - [abeldekat/hek](https://github.com/abeldekat/hek) - configure a vps using ansible containing a wireguard vpn and the searxng meta search engine
 - [wikicensorship/tracevis](https://github.com/wikicensorship/tracevis) - Traceroute with any packet. Visualize the routes. Discover Middleboxes and Firewalls
 - [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate and more!
@@ -7186,7 +7190,7 @@
 ## Others 
 
 - [gokulkrishh/awesome-meta-and-manifest](https://github.com/gokulkrishh/awesome-meta-and-manifest) - ⚡ Awesome collection of meta tags & manifest properties.
-- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - 
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
 - [lencx/awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 Awesome AI
@@ -8468,6 +8472,7 @@
 
 ## Python 
 
+- [karrioapi/karrio](https://github.com/karrioapi/karrio) - The universal shipping API (self-hosted)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [hannob/fcrdns](https://github.com/hannob/fcrdns) - Command line Forward-confirmed reverse DNS (FCrDNS) check written in Python
 - [medpaf/hawk](https://github.com/medpaf/hawk) - Network, recon and offensive-security tool for Linux.
@@ -8495,7 +8500,6 @@
 - [ITCoders/Human-detection-and-Tracking](https://github.com/ITCoders/Human-detection-and-Tracking) - Human-detection-and-Tracking
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [hardfemmegarage/dump1090-fa-tools](https://github.com/hardfemmegarage/dump1090-fa-tools) - Scripts and stuff for manipulating the json files generated by FlightAware's version of dump1090. Mostly command line and ncurses
-- [archusXIV/mpv-playlists-manager](https://github.com/archusXIV/mpv-playlists-manager) - manage playlists for mpv
 - [lifeiteng/vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html
 - [enhuiz/vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
@@ -11573,7 +11577,7 @@
 - [greatscottgadgets/plotsweep](https://github.com/greatscottgadgets/plotsweep) - A tool to plot spectrogram images using hackrf_sweep, soapy_power, or rtl_power output.
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) - Delicately-TUICed 0-RTT proxy protocol
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [reckenrode/mkalias](https://github.com/reckenrode/mkalias) - A simple command-line tool to create Finder aliases
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -12024,12 +12028,14 @@
 
 ## Shell 
 
+- [NorthboundTrain/jqg](https://github.com/NorthboundTrain/jqg) - search JSON using JQ, printing full path/flattened results
 - [nirajsanghvi/docker-gphotos-sync](https://github.com/nirajsanghvi/docker-gphotos-sync) - A Docker image for synchronizing your original-quality Google Photos
 - [whalehub/ginstall.sh](https://github.com/whalehub/ginstall.sh) - A shell script that can install the compiled binaries of CLI tools straight from their GitHub release page.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [mklement0/ttab](https://github.com/mklement0/ttab) - macOS and Linux CLI for opening a new terminal tab/window, optionally with a command to execute and/or display settings
 - [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
+- [archusXIV/mpv-playlists-manager](https://github.com/archusXIV/mpv-playlists-manager) - manage playlists for mpv
 - [bensuperpc/scripts](https://github.com/bensuperpc/scripts) - Collection of useful scripts for Linux (git, docker, LUKS, Archlinux...)
 - [xwmx/notes-app-cli](https://github.com/xwmx/notes-app-cli) - A command line interface for Notes.app on macOS.
 - [backplane/conex](https://github.com/backplane/conex) - Utility Container Images
@@ -13482,7 +13488,7 @@
 - [nbolar/PlayStatus](https://github.com/nbolar/PlayStatus) - macOS app that allows the control of Spotify and AppleMusic/iTunes music playback from the menu bar.
 - [xjbeta/Aria2D](https://github.com/xjbeta/Aria2D) - Aria2 GUI for macOS
 - [jdek/openwith](https://github.com/jdek/openwith) - A small utility to specify which application bundle should open specific file extensions on macOS.
-- [ignacio-chiazzo/ARKit](https://github.com/ignacio-chiazzo/ARKit) - ARKit Base Project. Place virtual objects using ARKit.
+- [ignacio-chiazzo/ARKit](https://github.com/ignacio-chiazzo/ARKit) - ARKit  - Place virtual objects using ARKit.
 - [alfredapp/window-switcher-workflow](https://github.com/alfredapp/window-switcher-workflow) - Switch to a specific window of an app in the current Desktop Space
 - [mr-pennyworth/AlfredSwift](https://github.com/mr-pennyworth/AlfredSwift) - A swift package to access and manipulate metadata and preferences for Alfred and workflows
 - [mike-neck/imgcopy](https://github.com/mike-neck/imgcopy) - Copies image file into clipboard from mac os terminal
@@ -13731,6 +13737,9 @@
 
 ## TypeScript 
 
+- [NutPowerGrid/Collector](https://github.com/NutPowerGrid/Collector) - Collect metric from your UPS and export it.
+- [vectronic/homebridge-shinobi](https://github.com/vectronic/homebridge-shinobi) - A Homebridge plugin integrating Shinobi for motion detector cameras
+- [uamanager/homebridge-cron-scheduler](https://github.com/uamanager/homebridge-cron-scheduler) - ⏰ Cron Scheduler plugin for Homebridge, which allows scheduling of triggers using cron expressions.
 - [icann/rdap-lookup-client](https://github.com/icann/rdap-lookup-client) - An example of Domain Name Registration Data Lookup using RDAP protocol.
 - [scambier/obsidian-text-extractor](https://github.com/scambier/obsidian-text-extractor) - A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
@@ -13835,7 +13844,7 @@
 - [webrecorder/browsertrix-behaviors](https://github.com/webrecorder/browsertrix-behaviors) - Automated behaviors that run in browser to interact with complex sites automatically. Used by ArchiveWeb.page and Browsertrix Crawler.
 - [webrecorder/browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud) - Fully Integrated high-fidelity archiving system with user-interface and API
 - [thomasloven/lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
-- [VolkovLabs/volkovlabs-calendar-panel](https://github.com/VolkovLabs/volkovlabs-calendar-panel) - A Calendar Panel for @grafana.
+- [VolkovLabs/volkovlabs-calendar-panel](https://github.com/VolkovLabs/volkovlabs-calendar-panel) - Calendar Panel for @grafana.
 - [boazreicher/sierra-plot](https://github.com/boazreicher/sierra-plot) - Sierra Plot Grafana Panel Plugin
 - [nicfv/Psychart](https://github.com/nicfv/Psychart) - Grafana plugin to display air conditions on a psychrometric chart.
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
