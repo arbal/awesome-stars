@@ -1422,7 +1422,7 @@
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [nikolaseu/neuvision](https://github.com/nikolaseu/neuvision) - Structured Light based 3D scanner
@@ -4816,7 +4816,6 @@
 - [alexarch21/history-explorer-card](https://github.com/alexarch21/history-explorer-card) - A card for Home Assistant Lovelace for exploring the history of your entities interactively and in real time.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
@@ -5756,6 +5755,7 @@
 - [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [unep-grid/mapx](https://github.com/unep-grid/mapx) - MapX
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [Shmakov/Honeypot](https://github.com/Shmakov/Honeypot) - Low interaction honeypot that displays real time attacks
 - [f9mac/puppeteer-extra-plugin-proxy](https://github.com/f9mac/puppeteer-extra-plugin-proxy) - A plugin for puppeteer-extra to add proxy support
@@ -10748,7 +10748,6 @@
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
-- [nityansuman/tensorhub](https://github.com/nityansuman/tensorhub) - TensorHub is a library built on top of TensorFlow 2.0 to provide simple, modular and repeatable abstractions to accelerate deep learning research.
 - [Ultimaker/Uranium](https://github.com/Ultimaker/Uranium) - A Python framework for building Desktop applications.
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [DavidWAbrahams/wenestmo](https://github.com/DavidWAbrahams/wenestmo) - Lightweight Python module to discover and control WeMo devices.
@@ -12817,7 +12816,6 @@
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [danisztls/fzfx](https://github.com/danisztls/fzfx) - fzfX delivers the power of finding, previewing, editing and managing any file in few key strokes.
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy) - Automated WPA/WPA2 PSK attack tool.
 - [marlonrichert/zsh-edit](https://github.com/marlonrichert/zsh-edit) - 🛠 Better command line editing tools for Zsh
@@ -13928,6 +13926,7 @@
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
 - [VictoriaMetrics/grafana-datasource](https://github.com/VictoriaMetrics/grafana-datasource) - 
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [FacilMap/facilmap](https://github.com/FacilMap/facilmap) - A fully-featured OpenStreetMap-based map where markers and lines can be added with live collaboration.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
