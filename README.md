@@ -119,6 +119,7 @@
 - [Shell](#shell)
 - [Slash](#slash)
 - [Smarty](#smarty)
+- [Solidity](#solidity)
 - [SourcePawn](#sourcepawn)
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
@@ -1228,6 +1229,7 @@
 
 ## C++ 
 
+- [ianks/mini_phone](https://github.com/ianks/mini_phone) - A fast phone number parser, validator and formatter for Ruby. This gem binds to Google's C++ libphonenumber for spec-compliance and performance.
 - [BabitMF/bmf](https://github.com/BabitMF/bmf) - Cross-platform, customizable multimedia/video processing framework.  With strong GPU acceleration, heterogeneous design, multi-language support, easy to use, multi-framework compatible and high perfor
 - [nu774/mp4fpsmod](https://github.com/nu774/mp4fpsmod) - mp4 time code editor
 - [prouast/heartbeat](https://github.com/prouast/heartbeat) - Desktop implementation of Remote Photoplethysmography – Measuring heart rate using facial video.
@@ -2331,6 +2333,7 @@
 
 ## Go 
 
+- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [tsuyukimakoto/mp4concat](https://github.com/tsuyukimakoto/mp4concat) - output command and file for concat using ffmpeg
 - [jdrews/logstation](https://github.com/jdrews/logstation) - Tail log files in web browser
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
@@ -5245,7 +5248,6 @@
 - [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
 - [stephenh/mirror](https://github.com/stephenh/mirror) - A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [machanic/CronHub](https://github.com/machanic/CronHub) - CronHub is a better crontab, it is a web application which can schedule, monitor and control the crontabs of multiple machines from the web page.
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [oschina/kooder](https://github.com/oschina/kooder) - 🔍An open source GitLab/Gitee/Gitea code search tool. Kooder 是一个为 Gitee/GitLab 开发的开源代码搜索工具，这是一个镜像仓库，主仓库在 Gitee。
@@ -5429,6 +5431,7 @@
 
 ## JavaScript 
 
+- [xuelink/sayserver](https://github.com/xuelink/sayserver) - Turn your MacOS to TTS server with say command.
 - [jankozik/ffmpeg-concat](https://github.com/jankozik/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 - [Aetherinox/searxico-worker](https://github.com/Aetherinox/searxico-worker) - A self-hosted favicon resolver / grabber (works with SearXNG search engine) which can be hosted via a Cloudflare worker.
 - [noobaa/noobaa-core](https://github.com/noobaa/noobaa-core) - High-performance S3 application gateway to any backend - file / s3-compatible / multi-clouds / caching / replication ...
@@ -5614,7 +5617,7 @@
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [openai-rs/gptpal](https://github.com/openai-rs/gptpal) - ChatGPT Desktop Application with prompts hint and voice control
 - [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [orefalo/ChatGPT_Superset.popclipext](https://github.com/orefalo/ChatGPT_Superset.popclipext) - 
 - [suin/popclip-chatgpt-emoji-extension](https://github.com/suin/popclip-chatgpt-emoji-extension) - Welcome to the Autocomplete Emoji PopClip Extension - an ideal tool for anyone looking to enhance their messages with relevant emojis! Powered by ChatGPT
 - [canburaks/obsidian-popclip](https://github.com/canburaks/obsidian-popclip) - An extension and a plugin for Popclip and Obsidian respectively.
@@ -5654,7 +5657,6 @@
 - [DataTables/VisualEvent](https://github.com/DataTables/VisualEvent) - Visually show Javascript events on a page
 - [nxtrace/nexttracewebapi](https://github.com/nxtrace/nexttracewebapi) - MTR风格的NextTrace网页WRAPPER
 - [nxtrace/traceMap](https://github.com/nxtrace/traceMap) - NextTrace Enhanced traceMap Plugin
-- [QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright) - You know who I am
 - [chrisgrieser/hyper-seek](https://github.com/chrisgrieser/hyper-seek) - Alfred workflow that shows inline search results, without a keyword.
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
 - [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
@@ -6846,7 +6848,6 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [dvlden/vidage](https://github.com/dvlden/vidage) - Your solution to full-screen background video & image combined.
@@ -7930,6 +7931,7 @@
 - [Stvad/FuzzyDate](https://github.com/Stvad/FuzzyDate) - Alfred Workflow to parse a fuzzy date and print the formal date
 - [yoomoney/grafana-dashboard-dsl](https://github.com/yoomoney/grafana-dashboard-dsl) - DSL for generating Grafana dashboards
 - [pambrose/prometheus-proxy](https://github.com/pambrose/prometheus-proxy) - Prometheus Proxy
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [jitsi/jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure
 - [noxone/regex-generator](https://github.com/noxone/regex-generator) - Generate regular expressions from sample texts.
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) - Cross-platform GUI gRPC debugging proxy
@@ -8320,6 +8322,7 @@
 
 ## Others 
 
+- [omkarcloud/google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 - [aokocax/useful-FFmpeg-commands](https://github.com/aokocax/useful-FFmpeg-commands) - A document describing how to easily find answers to video solutions/problems that you will need in daily life with FFmpeg
 - [dechamps/HDRCompare](https://github.com/dechamps/HDRCompare) - A suite of ffmpeg filters for comparing SDR and HDR video material
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
@@ -9893,6 +9896,12 @@
 
 ## Python 
 
+- [notAI-tech/NudeNet](https://github.com/notAI-tech/NudeNet) - Lightweight nudity detection
+- [bhky/opennsfw2](https://github.com/bhky/opennsfw2) - Keras implementation of the Yahoo Open-NSFW model
+- [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
+- [e-m3din4/deep-hlr](https://github.com/e-m3din4/deep-hlr) - Obtain a Phone Number full profile including HLR, Reputation, Carrier, Social Media Accounts, Geolocation, Validation, Availabilty, Portability and more.
+- [spider863644/PhoneNumber-OSINT](https://github.com/spider863644/PhoneNumber-OSINT) - An OSINT tool for gathering information about phone numbers
+- [shadawck/seqparser](https://github.com/shadawck/seqparser) - Cli tool to find specific regular expression like email, ip adress, phone number, bitcoin adress ... in a file
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [evliang/avel](https://github.com/evliang/avel) - Python ffmpeg wrapper for audio and video editing (trim, subtitles/overlay, concat, merge, & more!)
 - [Nyanraltotlapun/FFmpeg-HDR-Metadata-Extractor](https://github.com/Nyanraltotlapun/FFmpeg-HDR-Metadata-Extractor) - HDR metadata extractor that uses ffprobe in order to retrieve HDR metadata from media file.
@@ -11059,7 +11068,7 @@
 - [MrStark-XD/Edu-Mail-Generator](https://github.com/MrStark-XD/Edu-Mail-Generator) - This bot can make 20 different USA college edu mail automatically within 5min.
 - [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
 - [no13bus/baymax](https://github.com/no13bus/baymax) - "Hello, I am your personal health companion"
 - [titungpemba/Baymax-AI](https://github.com/titungpemba/Baymax-AI) - Baymax AI is a simple virtual assistance, which helps you in your daily life
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
@@ -13903,6 +13912,7 @@
 
 ## Ruby 
 
+- [mobi/telephone_number](https://github.com/mobi/telephone_number) - Phone number validation for Ruby
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [chrislee35/passivedns-client](https://github.com/chrislee35/passivedns-client) - passivedns-client provides a library and a query tool for querying several passive DNS providers
 - [piotrmurach/tty-box](https://github.com/piotrmurach/tty-box) - Draw various frames and boxes in your terminal window
@@ -14986,6 +14996,7 @@
 
 ## Shell 
 
+- [BlackwinMin/automator-gallery](https://github.com/BlackwinMin/automator-gallery) - Original macOS Automator actions by Minja.
 - [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts) - Shell scripts to create video slideshows using images and videos
 - [ai-joe-git/Belullama](https://github.com/ai-joe-git/Belullama) - Belullama is a comprehensive AI application that bundles Ollama, Open WebUI, and Automatic1111 (Stable Diffusion WebUI) into a single, easy-to-use package.
 - [dotennin/video-upscaler](https://github.com/dotennin/video-upscaler) - For upscaling video resolution
@@ -16623,6 +16634,10 @@
 - [pagong/jitsi-meet-on-k3os](https://github.com/pagong/jitsi-meet-on-k3os) - Run Jitsi Meet as K8s pods on K3os.
 - [billimek/billimek-charts](https://github.com/billimek/billimek-charts) - DEPRECATED - new home is https://github.com/k8s-at-home/charts
 
+## Solidity 
+
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+
 ## SourcePawn 
 
 - [rvdhoek/Raspberry-MRTG](https://github.com/rvdhoek/Raspberry-MRTG) - Raspberry PI with MRTG with complete graphs.
@@ -16666,6 +16681,9 @@
 
 ## Swift 
 
+- [temochka/macos-automation](https://github.com/temochka/macos-automation) - A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
+- [othyn/macos-auto-clicker](https://github.com/othyn/macos-auto-clicker) - A simple auto clicker for macOS Big Sur, Monterey, Ventura, Sonoma and Sequoia.
+- [Nosrac/Dictater](https://github.com/Nosrac/Dictater) - Replacement for built-in Speech services.  Supports playing, skipping, progress, and more
 - [themittenmac/TrueTree](https://github.com/themittenmac/TrueTree) - A command line tool for pstree-like output on macOS with additional pid capturing capabilities
 - [SuperMarcus/waifu2x-video-mac](https://github.com/SuperMarcus/waifu2x-video-mac) - Super-resolution videos in macOS with Waifu2x.
 - [git-shawn/Rerouter](https://github.com/git-shawn/Rerouter) - Rerouter automatically opens Google Maps directions in Apple Maps.
@@ -16743,7 +16761,7 @@
 - [network-quality/server](https://github.com/network-quality/server) - A place to share code and server configurations in support of the networkQuality tool
 - [StyleShare/HLSCachingReverseProxyServer](https://github.com/StyleShare/HLSCachingReverseProxyServer) - A simple local reverse proxy server for HLS segment cache
 - [chbrown/macos-tags](https://github.com/chbrown/macos-tags) - Command line tool for manipulating OS X filesystem tags
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks) - Official Alfred Automation Tasks
 - [Aayush9029/NativeYoutube](https://github.com/Aayush9029/NativeYoutube) - Personal App that turned into "alpha released app" v2
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
@@ -17205,7 +17223,7 @@
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [dgreif/ring](https://github.com/dgreif/ring) - Unofficial packages for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
 - [MetabobProject/metabob-vscode](https://github.com/MetabobProject/metabob-vscode) - 
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
