@@ -3036,7 +3036,7 @@
 - [dmachard/go-dnscollector](https://github.com/dmachard/go-dnscollector) - Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
 - [TritonDataCenter/containerpilot](https://github.com/TritonDataCenter/containerpilot) - A service for autodiscovery and configuration of applications running in containers
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
-- [grafana/synthetic-monitoring-api-go-client](https://github.com/grafana/synthetic-monitoring-api-go-client) - Go client for Synthetic Monitoring API
+- [grafana/synthetic-monitoring-api-go-client](https://github.com/grafana/synthetic-monitoring-api-go-client) - Go client for Synthetic Monitoring
 - [ksync/ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
 - [kamilsk/grafaman](https://github.com/kamilsk/grafaman) - 📈 Metrics coverage reporter for Graphite and Grafana.
 - [MacroPower/grafana-image-renderer-sdk-go](https://github.com/MacroPower/grafana-image-renderer-sdk-go) - Go bindings & CLI for Grafana Image Renderer
@@ -3045,7 +3045,7 @@
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [rssnyder/minio-lifecycle](https://github.com/rssnyder/minio-lifecycle) - minio-lifecycle
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
-- [grafana/synthetic-monitoring-agent](https://github.com/grafana/synthetic-monitoring-agent) - Synthetic Monitoring Agent
+- [grafana/synthetic-monitoring-agent](https://github.com/grafana/synthetic-monitoring-agent) - Synthetic Monitoring agent
 - [derekparker/delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
@@ -3208,7 +3208,7 @@
 - [trustwallet/blockatlas](https://github.com/trustwallet/blockatlas) - Clean and lightweight cross-chain transaction API
 - [antonmedv/gofx](https://github.com/antonmedv/gofx) - 🐾 fx-like command-line JSON processing tool
 - [shaj13/go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication.
-- [absmach/mgate](https://github.com/absmach/mgate) - mProxy is an MQTT proxy
+- [absmach/mgate](https://github.com/absmach/mgate) - mGate is a policy-enforcement multi-protocol proxy
 - [marianogappa/sql](https://github.com/marianogappa/sql) - MySQL & PostgreSQL pipe
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [TrilliumIT/docker-zfs-plugin](https://github.com/TrilliumIT/docker-zfs-plugin) - Docker volume plugin for creating persistent volumes as a dedicated zfs dataset.
@@ -4707,7 +4707,7 @@
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The database for modern applications. Common use cases: knowledge graphs for AI, fraud detection, personalization, and search. Built and maintained by @HypermodeInc.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [likexian/stathub-go](https://github.com/likexian/stathub-go) - A smart Hub for holding server stat
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
@@ -5308,7 +5308,7 @@
 - [intel-cloud/cosbench](https://github.com/intel-cloud/cosbench) - a benchmark tool for cloud object storage service
 - [vinayalodha/greenbot](https://github.com/vinayalodha/greenbot) - AWS cost optimization tool
 - [Teevity/ice](https://github.com/Teevity/ice) - AWS Usage Tool
-- [xipki/xipki](https://github.com/xipki/xipki) - XiPKI: Compact open source PKI (CA, OCSP responder, certificate protocols ACME, CMP, EST).
+- [xipki/xipki](https://github.com/xipki/xipki) - XiPKI: Compact open source PKI (CA, OCSP responder, certificate protocols ACME, CMP, EST, SCEP).
 - [apache/gobblin](https://github.com/apache/gobblin) - A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch 
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [airmessage/airmessage-server-legacy](https://github.com/airmessage/airmessage-server-legacy) - AirMessage's message relay server for Mac
@@ -7786,6 +7786,7 @@
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [aquietlife/whisp](https://github.com/aquietlife/whisp) - Whisp - Environmental Sound Classifier
 - [HHTseng/video-classification](https://github.com/HHTseng/video-classification) - Tutorial for video classification/ action recognition using 3D CNN/ CNN+RNN on UCF101
 - [ausboss/Local-LLM-Langchain](https://github.com/ausboss/Local-LLM-Langchain) - Load local LLMs effortlessly in a Jupyter notebook for testing purposes alongside Langchain or other agents. Contains Oobagooga and KoboldAI versions of the langchain notebooks  with examples.
@@ -8385,7 +8386,7 @@
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
 - [sydverma123/awesome-ai-repositories](https://github.com/sydverma123/awesome-ai-repositories) - A curated list of open source repositories for AI Engineers
 - [ftisiot/postgresql-ai-projects](https://github.com/ftisiot/postgresql-ai-projects) - List of PostgreSQL® AI projects and resources
-- [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - 📖A curated list of Awesome LLM Inference Papers with codes. 🎉🎉
+- [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - 📖A curated list of Awesome LLM Inference Papers with codes, such as FlashAttention, PagedAttention, Parallelism etc. 🎉🎉
 - [claudiom4sir/VideoRestoration](https://github.com/claudiom4sir/VideoRestoration) - [AIR 2023] Video restoration based on deep learning: a comprehensive survey
 - [YounggjuuChoi/Deep-Video-Super-Resolution](https://github.com/YounggjuuChoi/Deep-Video-Super-Resolution) - The state-of-the-art VSR
 - [WangRongsheng/awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
@@ -10013,7 +10014,7 @@
 - [Nyanraltotlapun/FFmpeg-HDR-Metadata-Extractor](https://github.com/Nyanraltotlapun/FFmpeg-HDR-Metadata-Extractor) - HDR metadata extractor that uses ffprobe in order to retrieve HDR metadata from media file.
 - [asweigart/pyaudacity](https://github.com/asweigart/pyaudacity) - A Python module to control a running instance of Audacity through its macro system.
 - [xhluca/dl-translate](https://github.com/xhluca/dl-translate) - Library for translating between 200 languages. Built on 🤗 transformers.
-- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for whisper, faster-whisper, whisper-timestamped. Supports YouTube Downloader, Vocal Remover, Transcription, Text-to-Speech (Edge-TTS, F5-TTS), and Translation.
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning, YouTube downloading, vocal 
 - [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Bladebit, Gigahorse, MadMax, Chiadog and Plotman in a Docker container.  Supports Chia, MMX, Chives, Flax, and HDDCoin among others.
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
@@ -10239,7 +10240,7 @@
 - [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precis
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [ServiceNow/WorkArena](https://github.com/ServiceNow/WorkArena) - WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?
-- [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) - BrowserGym, a gym environment for web task automation in the Chromium browser.
+- [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) - BrowserGym, a gym environment for web task automation
 - [akiani/aidialer](https://github.com/akiani/aidialer) - A full stack app for interruptible, low-latency and near-human quality AI phone calls built from stitching LLMs, speech understanding tools, text-to-speech models, and Twilio’s phone API.
 - [viewfinderco/viewfinder](https://github.com/viewfinderco/viewfinder) - Viewfinder client and server code
 - [siddhxrth/imessage-analyze-and-export](https://github.com/siddhxrth/imessage-analyze-and-export) - command line interface (CLI) to analyze and export imessage conversations into .csv files containing messages, timestamps, and IDs 📲
@@ -10655,7 +10656,6 @@
 - [ThereforeGames/unprompted](https://github.com/ThereforeGames/unprompted) - Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [yinan-c/RSS-GPT](https://github.com/yinan-c/RSS-GPT) - Using ChatGPT to summarize your personalized RSS feeds
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [parvez/network_scanner](https://github.com/parvez/network_scanner) - This Home Assistant integration provides a network scanner that identifies all devices on your local network. Utilizing the provided IP range and MAC address mappings, it gives each identified device 
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
