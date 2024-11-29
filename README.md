@@ -2345,6 +2345,8 @@
 
 ## Go 
 
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+- [cookielab/traefik-middleware-request-logger](https://github.com/cookielab/traefik-middleware-request-logger) - Traefik request/response logger middleware
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [bestrand/oictl](https://github.com/bestrand/oictl) - Primitive CLI for Open WebUI
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -4132,7 +4134,7 @@
 - [JoshuaMart/HIBP_PasswordList_Slimmer](https://github.com/JoshuaMart/HIBP_PasswordList_Slimmer) - Converted the text list to binary to save space
 - [sfproductlabs/roo](https://github.com/sfproductlabs/roo) - Setup and run your own clusters on your own infrastructure in minutes (Eg. ECS or EKS). Roo is a zero config distributed ingress, edge-router & reverse-proxy (supporting multiple letsencrypt/https hos
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) - High-Performance MQTT Server
-- [absmach/magistrala](https://github.com/absmach/magistrala) - Industrial IoT Messaging and Device Management Platform
+- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
 - [Shimmur/shipspotter](https://github.com/Shimmur/shipspotter) - Tool for tunneling a port forward into remote Docker containers over SSH 🚢
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
@@ -4912,7 +4914,6 @@
 
 - [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail ("dockerswarm_sd_configs" scrape_configs)
 - [andrewzn69/templates](https://github.com/andrewzn69/templates) - Personal template collection with shell script using fzf.
-- [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [briandipalma/proxmox-services](https://github.com/briandipalma/proxmox-services) - 
@@ -4952,7 +4953,7 @@
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [jupyterlab/jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) - Renderers and renderer extensions for JupyterLab
 - [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool) - Source code/webpage/demos for the What-If Tool
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [mshibanami/redirect-web](https://github.com/mshibanami/redirect-web) - Repository of the support website for Redirect Web for Safari
 - [simonw/url-map](https://github.com/simonw/url-map) - Use URL parameters to generate a map with markers, using Leaflet and OpenStreetMap
@@ -4987,6 +4988,7 @@
 - [rickstaa/awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
 - [google/git-appraise-web](https://github.com/google/git-appraise-web) - Web UI for git-appraise
 - [retest/recheck-web](https://github.com/retest/recheck-web) - recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and "Unbreakable Selenium" tests.
+- [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
 - [dekuNukem/RGBeeb](https://github.com/dekuNukem/RGBeeb) - BBC Micro in an ATX PC case!
 - [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers) - A Collection Of All Free Student Offers & Discount while you are a student.
 - [aerokube/moon](https://github.com/aerokube/moon) - Browser automation solution for Kubernetes and Openshift supporting Selenium, Playwright, Puppeteer and Cypress
@@ -7032,7 +7034,6 @@
 - [epilande/alfred-be-quiet](https://github.com/epilande/alfred-be-quiet) - 🤫 Workflow to automatically pause audio/video playing
 - [phoqe/havelock](https://github.com/phoqe/havelock) - Extract accounts, cookies, and history from Chromium-based web browsers.
 - [epilande/alfred-browser-tabs](https://github.com/epilande/alfred-browser-tabs) - 🔍 Search browser tabs from Chrome, Arc, Brave, Safari, etc..
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [jc21/docker-registry-ui](https://github.com/jc21/docker-registry-ui) - 😎 A nice web interface for managing your Docker Registry images
 - [alexlafroscia/tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) - Alfred workflow for TLDR
@@ -7741,6 +7742,7 @@
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [williamyang1991/Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
 - [BaranziniLab/KG_RAG](https://github.com/BaranziniLab/KG_RAG) - Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks
+- [AaronWard/generative-ai-workbook](https://github.com/AaronWard/generative-ai-workbook) - Central repository for all LLM development
 - [EPFL-VILAB/omnidata](https://github.com/EPFL-VILAB/omnidata) - A Scalable Pipeline for Making Steerable Multi-Task Mid-Level Vision Datasets from 3D Scans [ICCV 2021]
 - [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
@@ -7786,7 +7788,6 @@
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scrapi
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [aquietlife/whisp](https://github.com/aquietlife/whisp) - Whisp - Environmental Sound Classifier
 - [HHTseng/video-classification](https://github.com/HHTseng/video-classification) - Tutorial for video classification/ action recognition using 3D CNN/ CNN+RNN on UCF101
 - [ausboss/Local-LLM-Langchain](https://github.com/ausboss/Local-LLM-Langchain) - Load local LLMs effortlessly in a Jupyter notebook for testing purposes alongside Langchain or other agents. Contains Oobagooga and KoboldAI versions of the langchain notebooks  with examples.
@@ -8042,6 +8043,7 @@
 - [samdmarshall/micro-fzf-plugin](https://github.com/samdmarshall/micro-fzf-plugin) - micro plugin to open files via fzf
 - [adamnpeace/micro-wc-plugin](https://github.com/adamnpeace/micro-wc-plugin) - Word and Char count for micro editor
 - [NicolaiSoeborg/filemanager-plugin](https://github.com/NicolaiSoeborg/filemanager-plugin) - A file manager plugin for the editor "Micro"
+- [stesix/dotfiles](https://github.com/stesix/dotfiles) - dotfiles for my current setup
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [mix1009/HammerspoonConfiguration](https://github.com/mix1009/HammerspoonConfiguration) - Hammerspoon configuration with hyper key using Karabiner-Elements.
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -8078,7 +8080,7 @@
 
 ## MDX 
 
-- [singulatron/superplatform](https://github.com/singulatron/superplatform) - On-premise AI platform and microservices ecosystem. Also works as a desktop app.
+- [singulatron/superplatform](https://github.com/singulatron/superplatform) - On-Premise AI Platform, Microservices Ecosystem, and ChatGPT-inspired UI
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -8386,7 +8388,7 @@
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
 - [sydverma123/awesome-ai-repositories](https://github.com/sydverma123/awesome-ai-repositories) - A curated list of open source repositories for AI Engineers
 - [ftisiot/postgresql-ai-projects](https://github.com/ftisiot/postgresql-ai-projects) - List of PostgreSQL® AI projects and resources
-- [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - 📖A curated list of Awesome LLM Inference Papers with codes, such as FlashAttention, PagedAttention, Parallelism etc. 🎉🎉
+- [DefTruth/Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - 📖A curated list of Awesome LLM/VLM Inference Papers with codes, such as FlashAttention, PagedAttention, Parallelism, etc. 🎉🎉
 - [claudiom4sir/VideoRestoration](https://github.com/claudiom4sir/VideoRestoration) - [AIR 2023] Video restoration based on deep learning: a comprehensive survey
 - [YounggjuuChoi/Deep-Video-Super-Resolution](https://github.com/YounggjuuChoi/Deep-Video-Super-Resolution) - The state-of-the-art VSR
 - [WangRongsheng/awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
@@ -8561,7 +8563,6 @@
 - [icoxfog417/awesome-text-summarization](https://github.com/icoxfog417/awesome-text-summarization) - The guide to tackle with the Text Summarization
 - [soham97/awesome-sound_event_detection](https://github.com/soham97/awesome-sound_event_detection) - Reading list for research topics in Sound AI
 - [sorrycc/awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used.
-- [rwxrob/boost](https://github.com/rwxrob/boost) - Get started right. Become a shell native. This is the way.
 - [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) - List of awesome hosting sorted by minimal plan price
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [vegasbrianc/github-monitoring](https://github.com/vegasbrianc/github-monitoring) - Monitor your GitHub Repos with Docker & Prometheus
@@ -9309,7 +9310,6 @@
 - [faritvidal/Config-Traefik-2.2.X](https://github.com/faritvidal/Config-Traefik-2.2.X) - This is a repository that you create in order to have some scenarios in which you can use Traefik efficiently, it has a link to the official sites of each of the mentioned software.
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
@@ -9949,6 +9949,18 @@
 
 ## Python 
 
+- [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
+- [matebenyovszky/healing-agent](https://github.com/matebenyovszky/healing-agent) - AI powered automatic software healing agent
+- [emcf/thepipe](https://github.com/emcf/thepipe) - Extract clean data from anywhere, powered by vision-language models ⚡
+- [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
+- [metauto-ai/agent-as-a-judge](https://github.com/metauto-ai/agent-as-a-judge) - 🤠 Agent-as-a-Judge and DevAI dataset
+- [yoheinakajima/ditto](https://github.com/yoheinakajima/ditto) - the simplest self-building coding agent
+- [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+- [EmergenceAI/Agent-E](https://github.com/EmergenceAI/Agent-E) - Agent driven automation starting with the web. Try it: https://www.emergence.ai/web-automation-api
+- [yoheinakajima/babyagi-2o](https://github.com/yoheinakajima/babyagi-2o) - the simplest self-building general autonomous agent
+- [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
+- [andrewyng/aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
+- [feurix/hatop](https://github.com/feurix/hatop) - Interactive ncurses client for the HAProxy TCP/HTTP load balancer
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [EmbeddedLLM/JamAIBase](https://github.com/EmbeddedLLM/JamAIBase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on
 - [Shreyjain203/Wikipedia-Continual-Learning-RAG](https://github.com/Shreyjain203/Wikipedia-Continual-Learning-RAG) - This repository implements a self-updating RAG (Retrograde Autoregressive Generation) model. It leverages Wikipedia for factual grounding and can fine-tune itself when information is unavailable. This
@@ -10014,7 +10026,7 @@
 - [Nyanraltotlapun/FFmpeg-HDR-Metadata-Extractor](https://github.com/Nyanraltotlapun/FFmpeg-HDR-Metadata-Extractor) - HDR metadata extractor that uses ffprobe in order to retrieve HDR metadata from media file.
 - [asweigart/pyaudacity](https://github.com/asweigart/pyaudacity) - A Python module to control a running instance of Audacity through its macro system.
 - [xhluca/dl-translate](https://github.com/xhluca/dl-translate) - Library for translating between 200 languages. Built on 🤗 transformers.
-- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning, YouTube downloading, vocal 
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downlo
 - [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Bladebit, Gigahorse, MadMax, Chiadog and Plotman in a Docker container.  Supports Chia, MMX, Chives, Flax, and HDDCoin among others.
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
@@ -10067,7 +10079,6 @@
 - [steviepinero/AutogenMemgpt](https://github.com/steviepinero/AutogenMemgpt) - My implementation of autogen and memgpt agents that work together to create simple scripts and help plan out larger projects.
 - [Josephrp/LablabAutogen](https://github.com/Josephrp/LablabAutogen) - A generalist agent that can go online and accomplish complex tasks using semantic-kernel and autogen.
 - [aj47/autogen-studio-skills](https://github.com/aj47/autogen-studio-skills) - skills for autogen studio agents. python code skills. copy and paste into autogen studio
-- [AaronWard/generative-ai-workbook](https://github.com/AaronWard/generative-ai-workbook) - Central repository for all LLM development
 - [antoineross/Autogen-UI](https://github.com/antoineross/Autogen-UI) - This is a User Interface built for Autogen using ChainLit.
 - [Upsonic/Tiger](https://github.com/Upsonic/Tiger) - Neuralink for your AI Agents - LangChain - Autogen - CrewAI
 - [SageMindAI/autogen-agi](https://github.com/SageMindAI/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
@@ -10240,7 +10251,7 @@
 - [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precis
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [ServiceNow/WorkArena](https://github.com/ServiceNow/WorkArena) - WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?
-- [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) - BrowserGym, a gym environment for web task automation
+- [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) - 🌎💪 BrowserGym, a Gym environment for web task automation
 - [akiani/aidialer](https://github.com/akiani/aidialer) - A full stack app for interruptible, low-latency and near-human quality AI phone calls built from stitching LLMs, speech understanding tools, text-to-speech models, and Twilio’s phone API.
 - [viewfinderco/viewfinder](https://github.com/viewfinderco/viewfinder) - Viewfinder client and server code
 - [siddhxrth/imessage-analyze-and-export](https://github.com/siddhxrth/imessage-analyze-and-export) - command line interface (CLI) to analyze and export imessage conversations into .csv files containing messages, timestamps, and IDs 📲
@@ -10656,6 +10667,7 @@
 - [ThereforeGames/unprompted](https://github.com/ThereforeGames/unprompted) - Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [yinan-c/RSS-GPT](https://github.com/yinan-c/RSS-GPT) - Using ChatGPT to summarize your personalized RSS feeds
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [parvez/network_scanner](https://github.com/parvez/network_scanner) - This Home Assistant integration provides a network scanner that identifies all devices on your local network. Utilizing the provided IP range and MAC address mappings, it gives each identified device 
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
@@ -11147,7 +11159,6 @@
 - [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py) - Ultralight Time Machine-style backups using rsync
 - [jbd/msrsync](https://github.com/jbd/msrsync) - Multi-stream rsync wrapper
 - [mendhak/waveshare-epaper-display](https://github.com/mendhak/waveshare-epaper-display) - At-a-glance dashboard for Raspberry Pi with a Waveshare ePaper 7.5 Inch HAT. Date/Time, Weather, Alerts, Google/Outlook Calendar
-- [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane) - 🔥 Blazing fast bulk data transfers between any cloud 🔥
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [ivanmihov/homeassistant-ntfy.sh](https://github.com/ivanmihov/homeassistant-ntfy.sh) - Home Assistant integration for ntfy.sh
@@ -13503,6 +13514,7 @@
 - [TonyWu20/alfred-download-url-from-scihub-workflow](https://github.com/TonyWu20/alfred-download-url-from-scihub-workflow) - Directly return pdf download url from sci-hub results
 - [polynimbus/polynimbus](https://github.com/polynimbus/polynimbus) - Multi-cloud infrastructure inventory and management tool, supporting AWS, Google Cloud, Azure, Oracle Cloud, Rackspace Cloud, Hetzner Cloud, Alibaba Cloud, e24cloud.com, Linode, Cloudflare, GoDaddy an
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
@@ -14275,6 +14287,8 @@
 
 ## Rust 
 
+- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori) - A reactive runtime for building durable AI agents
+- [richinfante/ibackuptool2](https://github.com/richinfante/ibackuptool2) - iOS backup utilities, written in rust
 - [junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy) - A simple and ultrafast http reverse proxy serving multiple domain names and terminating TLS for http/1.1, 2 and 3, written in Rust
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
 - [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally
@@ -14304,7 +14318,7 @@
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep) - Search through all your files
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - nextjs for desktop agents. agents powered by 24/7 screen, voice, keyboard, mouse, camera recording. sandboxed. keyboard and mouse control in js
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads.
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -15118,6 +15132,7 @@
 
 ## Shell 
 
+- [Musixal/HAProxy](https://github.com/Musixal/HAProxy) - A simple script for port-forwarding via HAProxy and load-balancing support
 - [mixman68/pbs-docker](https://github.com/mixman68/pbs-docker) - Proxmox Backup Server in Docker
 - [basilhendroff/truenas-smr-check](https://github.com/basilhendroff/truenas-smr-check) - A bash script to check for SMR drives on a TrueNAS server
 - [dsanson/termpdf](https://github.com/dsanson/termpdf) - barebones graphical pdf/djvu/cbr/image viewer that works inside iTerm2 2.9+ and Kitty
@@ -15426,6 +15441,7 @@
 - [rdchin/bash-automatic-menu-creator](https://github.com/rdchin/bash-automatic-menu-creator) - Automatically create a BASH CLI menu from a few comment lines, to generate on-the-fly a CLI menu with text CLI, or Dialog or Whiptail UI.
 - [zfsonlinux/zfs-auto-snapshot](https://github.com/zfsonlinux/zfs-auto-snapshot) - ZFS Automatic Snapshot Service for Linux
 - [bashclub/proxmox-zfs-postinstall](https://github.com/bashclub/proxmox-zfs-postinstall) - This script is designed to run on a fresh installed Proxmox server, configures `pve-no-subscription` repository, adjusts `zfs_arc_cache` and installs basic tools like `zfs-auto-snapshot` or `ifupdown2
+- [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [rare-magma/pbs-exporter](https://github.com/rare-magma/pbs-exporter) - Bash script that uploads proxmox backup server API info to prometheus' pushgateway.
 - [centminmod/optimise-images](https://github.com/centminmod/optimise-images) - Batch image resizer, optimiser and profiler using ImageMagick convert, OptiPNG, JpegOptim and optional ZopfliPNG, Guetzli and MozJPEG.
@@ -16342,7 +16358,6 @@
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [BenziAhamed/alfred-battery](https://github.com/BenziAhamed/alfred-battery) - An Alfred app workflow to display battery levels of your Apple devices
 - [raisedadead/alfred-tor](https://github.com/raisedadead/alfred-tor) - Alfred 3 workflow - Toggle Tor and Internet proxy on/off
-- [stesix/dotfiles](https://github.com/stesix/dotfiles) - dotfiles for my current setup
 - [mklement0/speak.awf](https://github.com/mklement0/speak.awf) - An Alfred 3 workflow that uses macOS's TTS (text-to-speech) feature to speak text aloud.
 - [mislav/hub-api-utils](https://github.com/mislav/hub-api-utils) - A collection of `hub api` examples
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
@@ -18091,7 +18106,7 @@
 - [artifact-project/perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
 - [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 - [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
-- [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
+- [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 🔠Foreign language reading and translation assistant based on copy and translate.
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
@@ -18119,6 +18134,7 @@
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [kesne/HostyHosting](https://github.com/kesne/HostyHosting) - A platform to easily manage and deploy your applications.
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [macadev/Gibbon-Tabs](https://github.com/macadev/Gibbon-Tabs) - The Chrome tab manager you always wanted.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -18433,7 +18449,7 @@
 - [wobsoriano/v-dashboard](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 - [sjoerdvanderhoorn/Uier](https://github.com/sjoerdvanderhoorn/Uier) - Codeless or low-code User Experience test editing and management.
 - [hello-efficiency-inc/ridereceipts](https://github.com/hello-efficiency-inc/ridereceipts) - 🚕 Simple automation desktop app to download and organize your receipts from Uber/Lyft. Try out our new Ride Receipts PRO !
-- [rackslab/Slurm-web](https://github.com/rackslab/Slurm-web) - Open source web dashboard for Slurm HPC clusters
+- [rackslab/Slurm-web](https://github.com/rackslab/Slurm-web) - Open source web interface for Slurm HPC clusters
 - [Mokkapps/github-traffic-viewer-website](https://github.com/Mokkapps/github-traffic-viewer-website) - A website that shows a list of traffic graphs of your own GitHub repositories.
 - [Zibbp/Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
 - [RasaHQ/rasa-voice-interface](https://github.com/RasaHQ/rasa-voice-interface) - :microphone: A simple web interface for building voice assistants with Rasa
