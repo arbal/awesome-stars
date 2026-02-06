@@ -10,15 +10,15 @@ jobs:
   check_links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: check links with lychee-action
-        uses: lycheeverse/lychee-action@v1.0.8
+        uses: lycheeverse/lychee-action@v1
         with:
           args: --verbose --no-progress **/*.md **/*.html
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: upload lychee-action output artifact
-        uses: actions/upload-artifact@v2.2.4
+        uses: actions/upload-artifact@v4
         with:
           name: lychee-action-output
           path: ./lychee/out.md
