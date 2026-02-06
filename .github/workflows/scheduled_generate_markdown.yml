@@ -5,6 +5,8 @@ on:
   - cron: 30 0 * * *
 jobs:
   generate_README_dot_md:
+    permissions:
+      contents: write
     name: generate README.md with starred
     runs-on: ubuntu-latest
     steps:
