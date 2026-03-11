@@ -252,7 +252,6 @@
 
 ## Batchfile 
 
-- [rsocko/hass-bambulab-config](https://github.com/rsocko/hass-bambulab-config) - This repo is a collection of the configuration and automation that I use within Home Assistant for integrating with my Bambu Lab 3D printer and related services (like Spoolman).
 - [GreatScottyMac/roo-code-memory-bank](https://github.com/GreatScottyMac/roo-code-memory-bank) - 🧠 Roo Code Memory Bank: Seamless project context in Roo Code.  No more repetition, just continuous development!
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
@@ -733,7 +732,7 @@
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [seemoo-lab/nexmon_csi](https://github.com/seemoo-lab/nexmon_csi) - Channel State Information Extraction on Various Broadcom Wi-Fi Chips
 - [seemoo-lab/wisec2017_nexmon_jammer](https://github.com/seemoo-lab/wisec2017_nexmon_jammer) - This project contains the nexmon-based source code required to repeat the experiments of our WiSec 2017 paper.
-- [ip2location/ip2location-traceroute](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database.
+- [ip2location-com/ip2location-traceroute](https://github.com/ip2location-com/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database.
 - [cloudflare/mmproxy](https://github.com/cloudflare/mmproxy) - mmproxy, the magical PROXY protocol gateway
 - [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - The first open-source DDoS protection system
 - [DasSidG/limesdr_rfid](https://github.com/DasSidG/limesdr_rfid) - A repo containing LimeSuite drivers and GNU Radio code to use the LimeSDR as an RFID reader
@@ -785,7 +784,7 @@
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [libarchive/libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
-- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
@@ -1199,7 +1198,7 @@
 - [Creator13/mapsnap](https://github.com/Creator13/mapsnap) - A small command line tool to grab images from OpenStreetMap, with the purpose of creating snapshots and mapping timelapses.
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [wiremock/WireMock.Net](https://github.com/wiremock/WireMock.Net) - WireMock.Net is a flexible product for stubbing and mocking web HTTP responses using advanced request matching and response templating. Based on WireMock Java, but extended with more functionality.Ful
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [m3zercat/ChromeBookmarkDedupeAndMerge](https://github.com/m3zercat/ChromeBookmarkDedupeAndMerge) - Tool to dedupe, and merge bookmarks from chrome
 - [AddictedCS/soundfingerprinting](https://github.com/AddictedCS/soundfingerprinting) - Open source audio fingerprinting in .NET. An efficient algorithm for acoustic fingerprinting written purely in C#.
 - [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux.
@@ -1331,7 +1330,7 @@
 - [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [jbakic/Shielded](https://github.com/jbakic/Shielded) - A strict and mostly lock-free Software Transactional Memory (STM) for .NET
 - [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
-- [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. Check out the next-generation of this software built on ASP.NET Core: https://github.com/
+- [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. Check out the next generation of this software built on ASP.NET Core: https://github.com/
 - [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
 - [destructurama/json-net](https://github.com/destructurama/json-net) - Adds support for logging JSON.NET dynamic types as structured data with Serilog
 - [timabell/ef-enum-to-lookup](https://github.com/timabell/ef-enum-to-lookup) - Generates lookup tables from enum references in Microsoft Entity Framework 6.1
@@ -1347,6 +1346,7 @@
 
 ## C++ 
 
+- [boatbod/op25](https://github.com/boatbod/op25) - Fork of osmocom OP25 by boatbod
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [polaco1782/OpenCrank](https://github.com/polaco1782/OpenCrank) - OpenCrank - a C++ bot with Skills
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
@@ -1365,7 +1365,7 @@
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
-- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
+- [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [nickgillian/grt](https://github.com/nickgillian/grt) - gesture recognition toolkit
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
@@ -1467,7 +1467,7 @@
 - [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 - [peterljq/OpenMMD](https://github.com/peterljq/OpenMMD) - OpenMMD is an OpenPose-based application that can convert real-person videos to the motion files (.vmd) which directly implement the 3D model (e.g. Miku, Anmicius) animated movies.
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
-- [karimnaaji/vectiler](https://github.com/karimnaaji/vectiler) - A vector tile, terrain and city 3d model builder and CLI exporter. Consider using its fully integrated user interface at https://halfmaps.io
+- [karimnaaji/vectiler](https://github.com/karimnaaji/vectiler) - A vector tile, terrain and city 3d model builder and CLI exporter. Consider using its fully integrated user interface at https://www.halfmaps.io
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [rinigus/osmscout-server](https://github.com/rinigus/osmscout-server) - Maps server providing tiles, geocoder, and router
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
@@ -2643,7 +2643,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
 - [KePatrick/chromedp-mcp](https://github.com/KePatrick/chromedp-mcp) - MCP server for browser automation using chromedp
-- [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - The AI agent that grows your YouTube channel on autopilot.
+- [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) - The AI-powered toolkit that grows your YouTube channel on autopilot.
 - [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic 
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
@@ -2731,7 +2731,7 @@
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [Graffioh/vvvdeo](https://github.com/Graffioh/vvvdeo) - Simple video editor wrapping ffmpeg and SAM2
 - [jyggen/intro-detection-info](https://github.com/jyggen/intro-detection-info) - CLI tool to show information related to Plex's intro detection feature.
-- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
 - [dwisiswant0/noizy](https://github.com/dwisiswant0/noizy) - A drop-in replacement to Apple Hearing - Background Sounds with over 30+ available sounds.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 - [centralmind/gateway](https://github.com/centralmind/gateway) - Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.
@@ -2806,7 +2806,6 @@
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [trzsz/tsshd](https://github.com/trzsz/tsshd) - tsshd: the trzsz-ssh(tssh) udp server that supports connection migration for roaming, keeping ssh sesseion alive even if the network is disconnected for a long time.
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering ad
-- [betapictoris/wiki](https://github.com/betapictoris/wiki) - 📗 Read Wikipedia articles through the CLI
 - [mutschler/mt](https://github.com/mutschler/mt) - yet another media thumber. Generate Video Contat Sheets easily. http://mutschler.github.io/mt
 - [malashin/fflite](https://github.com/malashin/fflite) - fflite is FFmpeg wrapper for minimalistic progress visualization while keeping the flexability of CLI.
 - [woodpecker-ci/autoscaler](https://github.com/woodpecker-ci/autoscaler) - Scale your woodpecker agents automatically to the moon and back based on the current load.
@@ -3042,7 +3041,6 @@
 - [dav-m85/xbellum](https://github.com/dav-m85/xbellum) - Floccus custom WebDAV server, lists all changes to bookmarks as seen from the server. Useful for debugging Floccus.
 - [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [codecentric/certspotter-sd](https://github.com/codecentric/certspotter-sd) - certspotter api based prometheus service discovery
-- [moderato-app/talk](https://github.com/moderato-app/talk) - Talk with ChatGPT using your VOICE
 - [Seagate/cloudfuse](https://github.com/Seagate/cloudfuse) - Cloudfuse is a FUSE filesystem for S3 and Azure storage
 - [banzaicloud/satellite](https://github.com/banzaicloud/satellite) - Determine your cloud provider with a simple HTTP call
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) - [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet
@@ -3834,7 +3832,7 @@
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [rusq/chromedl](https://github.com/rusq/chromedl) - Go library for scraping or downloading files bypassing Cloudflare protection and browser checks
 - [haroflow/chromedp-requests-logger](https://github.com/haroflow/chromedp-requests-logger) - Logs the requests from a webpage, printing accessed domains and URLs.
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [BBVA/kapow](https://github.com/BBVA/kapow) - Kapow! If you can script it, you can HTTP it.
 - [johanbrandhorst/certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
@@ -3944,7 +3942,7 @@
 - [chuot/rdio-scanner](https://github.com/chuot/rdio-scanner) - Rdio Scanner is an open source software that ingest and distribute audio files generated by various software-defined radio recorders. Its interface tries to reproduce the user experience of a real pol
 - [docker-flow/docker-flow-swarm-listener](https://github.com/docker-flow/docker-flow-swarm-listener) - Docker Flow Swarm Listener
 - [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
-- [ip2location/ip2location-go](https://github.com/ip2location/ip2location-go) - Use IP2Location geolocation database to lookup the geolocation information with IP2Location Go Package. It can be used to determine country, region, city, coordinates, zip code, time zone, ISP, domain
+- [ip2location-com/ip2location-go](https://github.com/ip2location-com/ip2location-go) - Use IP2Location geolocation database to lookup the geolocation information with IP2Location Go Package. It can be used to determine country, region, city, coordinates, zip code, time zone, ISP, domain
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) - Official command line tool for Vultr services
 - [grafana/grafana-image-renderer](https://github.com/grafana/grafana-image-renderer) - A Grafana backend service that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)
 - [paihu/netflow_exporter](https://github.com/paihu/netflow_exporter) - 
@@ -4389,7 +4387,7 @@
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
-- [casbin/casbin](https://github.com/casbin/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+- [apache/casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Software sandbox for storage of sensitive information in memory.
 - [hashicorp/envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [fortio/dnsping](https://github.com/fortio/dnsping) - DNS Ping: to check packet loss and latency issues with DNS servers
@@ -4437,7 +4435,7 @@
 - [ohsu-comp-bio/funnel](https://github.com/ohsu-comp-bio/funnel) - Funnel is a toolkit for distributed task execution via a simple, standard API.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure Vault for Customer PII/PHI/PCI/KYC Records
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pla
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go. #golang #jwt #jws #jwk #jwe
 - [team-carepay/traefik-opa-plugin](https://github.com/team-carepay/traefik-opa-plugin) - (Deprecated, see https://github.com/team-carepay/traefik-jwt-plugin)
@@ -5097,7 +5095,6 @@
 - [sgreben/tj](https://github.com/sgreben/tj) - stdin line timestamps. single binary, no dependencies. osx & linux & windows. plays well with jq.
 - [google/namebench](https://github.com/google/namebench) - namebench
 - [wernerfred/docker-dyndns](https://github.com/wernerfred/docker-dyndns) - Host your own dyndns server with docker!
-- [agorf/dyndns53](https://github.com/agorf/dyndns53) - Run your own dynamic DNS service with Amazon Route 53
 - [skibish/ddns](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
 - [pboehm/ddns](https://github.com/pboehm/ddns) - A self-hosted Dynamic DNS solution similar to DynDNS or NO-IP
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
@@ -5212,7 +5209,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [pnlng/alfred-url-actions](https://github.com/pnlng/alfred-url-actions) - An Alfred workflow that fetches the URL and title of your browser's current tab, and does things with them.
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [GoogleCloudPlatform/cloud-build-local](https://github.com/GoogleCloudPlatform/cloud-build-local) - Local Builder runs Google Cloud Build builds locally, allowing faster debugging, less vendor lock-in, and integration into local build and test workflows.
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
@@ -5335,6 +5332,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [davidnewhall/motifini](https://github.com/davidnewhall/motifini) - Events-driven, notification subscription system, with SecuritySpy and iMessage integration.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [schollz/find3-cli-scanner](https://github.com/schollz/find3-cli-scanner) - The command-line scanner that supports Bluetooth and WiFi
@@ -5383,6 +5381,7 @@
 - [balena-io/open-balena-registry](https://github.com/balena-io/open-balena-registry) - Docker image storage backend for openBalena
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [natelandau/dotfiles](https://github.com/natelandau/dotfiles) - Home for my bootstrap script, dotfiles, and configuration files
@@ -6011,6 +6010,7 @@
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [apresmoi/unpack](https://github.com/apresmoi/unpack) - Turn AI research conversations into structured, buildable projects. Works with Claude Code and Codex.
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Browser script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
+- [rsocko/hass-bambulab-config](https://github.com/rsocko/hass-bambulab-config) - This repo is a collection of the configuration and automation that I use within Home Assistant for integrating with my Bambu Lab 3D printer and related services (like Spoolman).
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [ToryPan/ask-open-webui-everywhere](https://github.com/ToryPan/ask-open-webui-everywhere) - A browser extension that integrates Open WebUI into the side panel, enabling seamless AI interaction and Q&A with webpage content through automatic file attachments.
 - [technomancer702/nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large li
@@ -6159,7 +6159,7 @@
 - [wheattoast11/openrouter-deep-research-mcp](https://github.com/wheattoast11/openrouter-deep-research-mcp) - A multi-agent research MCP server + mini client adapter - orchestrates a net of async agents or streaming swarm to conduct ensemble consensus-backed research. Each task builds its own indexed pglite d
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [iina/plugin-userscript](https://github.com/iina/plugin-userscript) - 
-- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + IM bot + browser control + smart home control + computer control + virtual reality, and everything else you can imagine!⭐全能型AI伴侣！桌面女友
+- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 - [yincongcyincong/VictoriaMetrics-mcp-server](https://github.com/yincongcyincong/VictoriaMetrics-mcp-server) - MCP Server for the VictoriaMetrics.
 - [makafeli/n8n-workflow-builder](https://github.com/makafeli/n8n-workflow-builder) - AI assistant integration for n8n workflow automation through Model Context Protocol (MCP). Connect Claude Desktop, ChatGPT, and other AI assistants to n8n for natural language workflow management.
 - [supercorp-ai/superargs](https://github.com/supercorp-ai/superargs) - Provide AI MCP server args during runtime.
@@ -6203,6 +6203,7 @@
 - [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 - [povdocs/video-smart-crop](https://github.com/povdocs/video-smart-crop) - A concept tool for displaying video at any aspect ratio. The video frame adapts to the size and orientation of the device, filling the screen while keeping the subject of the video in-frame.
 - [andrewpucci/shotplot](https://github.com/andrewpucci/shotplot) - A tool used to obtain spacial coordinates based on an ice hockey rink
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [xchwarze/frieren-modules](https://github.com/xchwarze/frieren-modules) - Collection of modules for the Frieren micro-framework, enhancing functionality for routers and Single Board Computers (SBCs). Explore a range of modules aimed at boosting security, performance, and us
 - [xchwarze/frieren](https://github.com/xchwarze/frieren) - Frieren is a micro-framework designed for use in routers and Single Board Computers (SBCs). This framework is built to be lightweight, efficient, and easy to integrate into various hardware projects.
 - [ottomatica/slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
@@ -6289,7 +6290,6 @@
 - [zuchka/remove-markdown](https://github.com/zuchka/remove-markdown) - Strip Markdown stuff from text
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [lxe/llm-companion](https://github.com/lxe/llm-companion) - Mobile web app for audio "push-to-talk" + TTS chat interface with OpenAI-like APIs
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
@@ -8273,7 +8273,6 @@
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [catamphetamine/libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [Kong/insomnia-mockbin](https://github.com/Kong/insomnia-mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
@@ -8800,7 +8799,7 @@
 - [occivink/mpv-scripts](https://github.com/occivink/mpv-scripts) - Various scripts for mpv
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
-- [ip2location/ip2proxy-nmap](https://github.com/ip2location/ip2proxy-nmap) - This IP2Proxy Nmap script allows users to query an IP address to determine if it was being used as open proxy, web proxy, VPN anonymizer and TOR exits by using the IP2Proxy Lua Package.
+- [ip2location-com/ip2proxy-nmap](https://github.com/ip2location-com/ip2proxy-nmap) - This IP2Proxy Nmap script allows users to query an IP address to determine if it was being used as open proxy, web proxy, VPN anonymizer and TOR exits by using the IP2Proxy Lua Package.
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) - A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
@@ -9164,6 +9163,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [alexknowshtml/api2cli](https://github.com/alexknowshtml/api2cli) - Audience-aware CLI patterns for Node.js + Commander.js. Build CLIs for humans, AI agents, or both.
 - [Akajiaku11/Water-Quality-Prediction](https://github.com/Akajiaku11/Water-Quality-Prediction) - This project predicts the quality of water based on various water parameters and pollutants using machine learning and deep learning techniques.
 - [oasis-tcs/legalruleml](https://github.com/oasis-tcs/legalruleml) - OASIS LegalRuleML TC: GitHub repository for developing and distributing good examples in order to share knowledge about the correct application of LegalRuleML standard
@@ -10911,6 +10911,8 @@
 
 ## Python 
 
+- [openclaw/skills](https://github.com/openclaw/skills) - All versions of all skills that are on clawhub.com archived
+- [huggingface/skills](https://github.com/huggingface/skills) - 
 - [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat
 - [Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents (Claude Desktop, OpenClaw, etc.). Suppo
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -11032,7 +11034,7 @@
 - [rawveg/skillsforge-marketplace](https://github.com/rawveg/skillsforge-marketplace) - A Claude Code Marketplace
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a
 - [s0md3v/wappalyzer-next](https://github.com/s0md3v/wappalyzer-next) - wappalyzer alternative based on wappalyzer browser extension
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 - [dnanhkhoa/kitty-password-manager](https://github.com/dnanhkhoa/kitty-password-manager) - A simple password manager for the Kitty terminal
 - [valdezm/claude-code-mcp](https://github.com/valdezm/claude-code-mcp) - Coding assistant MCP for Claude Desktop
 - [teremterem/claude-code-gpt-5-codex](https://github.com/teremterem/claude-code-gpt-5-codex) - Run Anthropic's Claude Code CLI with OpenAI models such as GPT-5-Codex, GPT-5.1, and others via a local LiteLLM proxy.
@@ -11062,7 +11064,7 @@
 - [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) - Creates standalone executables from Python scripts with the same performance as the original script. It is cross-platform and should work on any platform that Python runs on.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0
+- [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 340 plugins + 1367 agent skills for Claude Code. Open-source marketplace with CCPI package manager, interactive tutorials, and production orchestration patterns.
 - [chajus1/proxmox-mcp-enhanced](https://github.com/chajus1/proxmox-mcp-enhanced) - Enhanced Proxmox MCP server with 70+ tools for comprehensive infrastructure management, security automation, and lab orchestration
 - [punkpeye/scraperis-mcp](https://github.com/punkpeye/scraperis-mcp) - Scraping any website on Claude
 - [svnstfns/truenas-mcp-server](https://github.com/svnstfns/truenas-mcp-server) - Model Context Protocol server for TrueNAS Scale Custom Apps management
@@ -11131,6 +11133,7 @@
 - [superagent-ai/reag](https://github.com/superagent-ai/reag) - Reasoning Augmented Generation
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on mcp clients
 - [deedy/mac_computer_use](https://github.com/deedy/mac_computer_use) - A fork of Anthropic Computer Use that you can run on Mac computers to give Claude and other AI models autonomous access to your computer.
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [itinance/cc-settings-fixer](https://github.com/itinance/cc-settings-fixer) - 
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.
 - [shirhatti/mcp-server-imessage](https://github.com/shirhatti/mcp-server-imessage) - MCP server for interacting with iMessage on macOS
@@ -11143,7 +11146,7 @@
 - [mo-silent/loki-mcp-server](https://github.com/mo-silent/loki-mcp-server) - A Model Context Protocol (MCP) server that provides AI assistants with the ability to query and analyze logs from Grafana Loki. This server enables seamless integration between AI assistants and Loki,
 - [wegitor/logic-analyzer-ai-mcp](https://github.com/wegitor/logic-analyzer-ai-mcp) - This project provides an AI MCP server logic analyzers. It enables remote control, automation, and integration of Saleae Logic devices and captures, making it easy to script, manage, and analyze logic
 - [louis-thevenet/searxng-karakeep-engine](https://github.com/louis-thevenet/searxng-karakeep-engine) - SearXNG engine implementation for Karakeep
-- [CCWorkforce/CCProxy](https://github.com/CCWorkforce/CCProxy) - 🌾 🥳 🌋 🏰 🌅 🌕 Claude Code Proxy 🌖 🌔 🌈 🏆 👑
+- [OCWorkforce/CCProxy](https://github.com/OCWorkforce/CCProxy) - 🌾 🥳 🌋 🏰 🌅 🌕 Claude Code Proxy 🌖 🌔 🌈 🏆 👑
 - [CaddyGlow/ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) - is a local reverse proxy providing unified access to multiple AI providers (Claude, Codex) through a single interface, using your existing subscriptions without API key billing.
 - [logpai/Drain3](https://github.com/logpai/Drain3) - A robust streaming log template miner based on the Drain algorithm
 - [MSAdministrator/security-cli](https://github.com/MSAdministrator/security-cli) - A CLI and Python package to perform common actions performed by security analysts.
@@ -11198,6 +11201,7 @@
 - [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
 - [GridfireAI/reddit-mcp](https://github.com/GridfireAI/reddit-mcp) - 
 - [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp) - 
+- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - Claude Code settings, commands and agents for vibe coding
 - [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
 - [codelion/dynamic-shell-server](https://github.com/codelion/dynamic-shell-server) - Dynamic Shell Command MCP Server
 - [webdevtodayjason/claude-hooks](https://github.com/webdevtodayjason/claude-hooks) - Claude Code Hooks Manager for managing Hooks in Claude Code via CLI.
@@ -11463,7 +11467,6 @@
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [Benniu/emqx-mcp-server](https://github.com/Benniu/emqx-mcp-server) - A Model Context Protocol (MCP) server implementation that provides EMQX MQTT broker interaction.
 - [paperscissors/Rename-PDFs-With-Ollama](https://github.com/paperscissors/Rename-PDFs-With-Ollama) - Automatically renames PDF files based on their content
-- [HuangZeLinCute/github-mcp-server](https://github.com/HuangZeLinCute/github-mcp-server) - This is github search MCP Server
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [jbeno/cursor-notebook-mcp](https://github.com/jbeno/cursor-notebook-mcp) - Model Context Protocol (MCP) server designed to allow AI agents within Cursor to interact with Jupyter Notebook (.ipynb) files
 - [sunriseapps/imagesorcery-mcp](https://github.com/sunriseapps/imagesorcery-mcp) - An MCP server providing tools for image processing operations
@@ -13727,7 +13730,7 @@
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [Nukesor/encarne](https://github.com/Nukesor/encarne) - :tv: Reencode all your movies to h.265
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
-- [binaryornot/binaryornot](https://github.com/binaryornot/binaryornot) - Python library and CLI tool to check if a file is binary or text. Zero dependencies, uses a trained classifier instead of chardet
+- [binaryornot/binaryornot](https://github.com/binaryornot/binaryornot) - Binary file detection that actually works. 131 extensions, 55 magic-byte signatures, a trained decision tree, and zero dependencies.
 - [SimFin/pdf-crawler](https://github.com/SimFin/pdf-crawler) - SimFin's open source PDF crawler
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
 - [JNoDuq/videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer
@@ -14598,7 +14601,6 @@
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [deanishe/alfred-appscripts](https://github.com/deanishe/alfred-appscripts) - Alfred workflow to search and run/open AppleScripts for the active application
-- [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [DanielleHuisman/traefik-certificate-extractor](https://github.com/DanielleHuisman/traefik-certificate-extractor) - Tool to extract Let's Encrypt certificates from Traefik's ACME storage file. Traefik v1 only.
 - [sdwilsh/aiotruenas-client](https://github.com/sdwilsh/aiotruenas-client) - An asyncio-friendly API for TrueNAS
 - [nickryand/truenas_config_backup](https://github.com/nickryand/truenas_config_backup) - Backup script which can be used to drive the API to pull a configuration backup
@@ -14888,7 +14890,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, and testing. Supports pytest. CDP Mode provides stealth. Over 150 runnable examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase simplifies browser automation, scraping, and testing. CDP Mode adds stealth (and works with Playwright). Lots of examples and YouTube tutorials.
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone 
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Go
@@ -15310,7 +15312,7 @@
 - [sbrudenell/eagle_exporter](https://github.com/sbrudenell/eagle_exporter) - A prometheus exporter for Rainforest Automation EAGLE-200.
 - [joegross/prometheus-eagle](https://github.com/joegross/prometheus-eagle) - rainforest eagle 200 prometheus exporter
 - [alysivji/mute-microphone-mac-streamdeck-plugin](https://github.com/alysivji/mute-microphone-mac-streamdeck-plugin) - Stream Deck plugin to allow users to mute their microphone on MacOS. Written in Python.
-- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI agents, LLM applications, and ML models while controlling cos
 - [alankbi/detecto](https://github.com/alankbi/detecto) - Build fully-functioning computer vision models with PyTorch
 - [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml) - [UNMAINTAINED] Automated machine learning for analytics & production
 - [chickenbestlover/RNN-Time-series-Anomaly-Detection](https://github.com/chickenbestlover/RNN-Time-series-Anomaly-Detection) - RNN based Time-series Anomaly detector model implemented in Pytorch.
@@ -16329,9 +16331,10 @@
 
 ## Rust 
 
+- [dalance/termbg](https://github.com/dalance/termbg) - A Rust library for terminal background color detection
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev Coding Agent Terminal Session manager via tmux and git Worktrees
 - [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capabilities and gRPC streaming
 - [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations
 - [Th0rgal/sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) - Self-hosted orchestrator for AI autonomous agents. Run Claude Code & Open Code in isolated linux workspaces. Manage your skills, configs and encrypted secrets with a git repo.
@@ -16350,6 +16353,7 @@
 - [ajmwagar/merino](https://github.com/ajmwagar/merino) - :sheep: A SOCKS5 Proxy server written in Rust
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [zmh-program/bytes-radar](https://github.com/zmh-program/bytes-radar) - Hyper-fast code cloc tool for remote repositories. Serverless optimized.
 - [entrepeneur4lyf/tsg_indexer](https://github.com/entrepeneur4lyf/tsg_indexer) - A library for indexing code repositories using Tree-sitter Stack Graphs, designed to be used in MCP servers and other tools.
 - [Jakedismo/codegraph-rust](https://github.com/Jakedismo/codegraph-rust) - 100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through MCP for efficient code agent context management
@@ -16396,7 +16400,7 @@
 - [TeamPiped/piped-proxy](https://github.com/TeamPiped/piped-proxy) - 
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
@@ -16418,6 +16422,7 @@
 - [ivan-mezentsev/mcp-getweb](https://github.com/ivan-mezentsev/mcp-getweb) - Searching: Google (API keys), Felo AI, DuckDuckGo, Linkup, Exa AI; convert fetched pages to Markdown (LLM‑ready) and fetch ready docs from Jina API.
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 - [sirmews/claude-hook-advisor](https://github.com/sirmews/claude-hook-advisor) - Suggest alternatives based on matching keywords so Claude stops doing dumb things.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
 - [TexasFortress-AI/rs_filesystem](https://github.com/TexasFortress-AI/rs_filesystem) - MCP Filesystem tools written in Rust
 - [PaloAltoNetworks/panw-api-ollama](https://github.com/PaloAltoNetworks/panw-api-ollama) - panw-api-ollama is a security proxy that sits between your OpenWebUI interface and Ollama instance. It works by intercepting all prompts and responses, analyzing them with Palo Alto Networks' AI RUNTI
 - [tensorchord/VectorChord-bm25](https://github.com/tensorchord/VectorChord-bm25) - Native BM25 Ranking Index in PostgreSQL
@@ -16559,7 +16564,7 @@
 - [Gui-Yom/turbo-metrics](https://github.com/Gui-Yom/turbo-metrics) - Hardware acceleration for your daily video tasks
 - [FaisalBinAhmed/MeiliFinder](https://github.com/FaisalBinAhmed/MeiliFinder) - The ultimate Meilisearch client for your terminal
 - [meilisearch/milli](https://github.com/meilisearch/milli) - Search engine library for Meilisearch ⚡️
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are a serverless primitive for stateful workloads. Each actor has built-in state, storage, workflows, scheduling, and WebSockets — everything needed to build the next generation of softwa
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [zed-extensions/postgres-context-server](https://github.com/zed-extensions/postgres-context-server) - An extension providing a Model Context Server extension for PostgreSQL
 - [jandrus/rtwo](https://github.com/jandrus/rtwo) - Ollama CLI tool in Rust. Used to query and manage ollama server
 - [NLnetLabs/dnst](https://github.com/NLnetLabs/dnst) - A DNS administration toolbox including re-implementations of important ldns programs
@@ -17196,6 +17201,7 @@
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of ti
 - [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
 - [Shmakov/Honeypot](https://github.com/Shmakov/Honeypot) - Real-time attack monitoring in a lightweight, Rust-powered package.
+- [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS updater for Cloudflare
 - [mre/fcat](https://github.com/mre/fcat) - A 3x faster implementation of cat, using splice
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [LibreQoE/LibreQoS](https://github.com/LibreQoE/LibreQoS) - A Quality of Experience and Smart Queue Management system for ISPs. Leverage CAKE to improve network responsiveness, enforce bandwidth plans, and reduce bufferbloat.
@@ -17423,6 +17429,7 @@
 
 ## Shell 
 
+- [wa91h/local-ai-toolkit](https://github.com/wa91h/local-ai-toolkit) - A self-hosted AI toolkit running locally via Docker Compose, bundling an LLM gateway, workflow automation, and a chat UI — all backed by a shared PostgreSQL database.
 - [juhovh/tailguard](https://github.com/juhovh/tailguard) - Easy Tailscale to WireGuard bridge in a container
 - [admonstrator/glinet-tailscale-updater](https://github.com/admonstrator/glinet-tailscale-updater) - Automated Tailscale updater for GL.iNet routers: periodically checks for new releases, downloads the correct build, and installs/updates Tailscale reliably via script (for OpenWrt/GL.iNet firmware)
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
@@ -17458,7 +17465,6 @@
 - [nezhar/claude-container](https://github.com/nezhar/claude-container) - Container workflow for Claude Code. Complete isolation from host system while maintaining persistent credentials and workspace access.
 - [cyzhao/claude-code-tools](https://github.com/cyzhao/claude-code-tools) - Tools for asynchronous management of Claude Code via SMS, and auto resumption of Claude session after rate limits reset.
 - [qdhenry/Claude-Code-MCP-Manager](https://github.com/qdhenry/Claude-Code-MCP-Manager) - A comprehensive tool to manage Model Context Protocol (MCP) configurations for Claude code
-- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - Claude Code settings, commands and agents for vibe coding
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook) - A collection of settings to make Claude Code more useful.
 - [Carpe-Wang/claude-subagents](https://github.com/Carpe-Wang/claude-subagents) - shell script to automation make sub agents of claude.
@@ -17606,6 +17612,7 @@
 - [dnmfarrell/ch](https://github.com/dnmfarrell/ch) - Program chat completions from a POSIX shell
 - [binwiederhier/zfsu](https://github.com/binwiederhier/zfsu) - Collection of ZFS utilities.
 - [apache/tika-docker](https://github.com/apache/tika-docker) - Convenience Docker images for Apache Tika Server
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
 - [rustybird/corridor](https://github.com/rustybird/corridor) - Tor traffic whitelisting gateway
 - [luckman212/login-items-dump](https://github.com/luckman212/login-items-dump) - Parse the output of `sfltool dumpbtm`
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
@@ -18843,7 +18850,7 @@
 - [deed-app/docker-stack-portainer-traefik](https://github.com/deed-app/docker-stack-portainer-traefik) - Docker Cloud Stack template for running Portainer behind Traefik in a Swarm cluster
 - [danshick/cloudflare-ddns](https://github.com/danshick/cloudflare-ddns) - A dynamic DNS updater script for CloudFlare API v4 using bearer tokens, with OpenWRT ddns-scripts in mind. Requires curl and jq.
 - [sepich/ceph-swarm](https://github.com/sepich/ceph-swarm) - CephFS as Swarm stack
-- [osixia/docker-keepalived](https://github.com/osixia/docker-keepalived) - Keepalived container image 🐳🌴
+- [osixia/container-keepalived](https://github.com/osixia/container-keepalived) - Keepalived container image 🐳🌴
 - [rawkode/zsh-docker-run](https://github.com/rawkode/zsh-docker-run) - Run your favourite commands naturally, with Docker
 - [ryandaniels/ansible-role-iptables-docker](https://github.com/ryandaniels/ansible-role-iptables-docker) - Manage iptables configuration to secure Docker (and Docker Swarm) using Ansible
 - [billimek/homelab-infrastructure](https://github.com/billimek/homelab-infrastructure) - Infrastructure info and setup for homelab
@@ -19174,7 +19181,6 @@
 - [CatEngineer/searxng-helm-chart](https://github.com/CatEngineer/searxng-helm-chart) - The helm chart for setting up SearXNG with kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 - [aenix-io/kubernetes-in-kubernetes](https://github.com/aenix-io/kubernetes-in-kubernetes) - Deploy Kubernetes in Kubernetes using Helm
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [clayshek/ans-pve-win-templ](https://github.com/clayshek/ans-pve-win-templ) - Ansible playbook to create Proxmox Windows VM templates
 - [pagong/jitsi-meet-on-k3os](https://github.com/pagong/jitsi-meet-on-k3os) - Run Jitsi Meet as K8s pods on K3os.
 - [billimek/billimek-charts](https://github.com/billimek/billimek-charts) - DEPRECATED - new home is https://github.com/k8s-at-home/charts
@@ -19231,6 +19237,8 @@
 
 ## Swift 
 
+- [steipete/imsg](https://github.com/steipete/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
+- [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
 - [ZimengXiong/watt](https://github.com/ZimengXiong/watt) - Monitor Mac power consumption, core usage, and energy costs
 - [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
 - [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
@@ -19408,7 +19416,7 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [dingwilson/MultiPeer](https://github.com/dingwilson/MultiPeer) - 📱📲 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
 - [CafeAuLait-CC/WiFi-Info-Recorder](https://github.com/CafeAuLait-CC/WiFi-Info-Recorder) - A WiFi information recorder for macOS.
-- [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+- [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [Mortennn/Notarize](https://github.com/Mortennn/Notarize) - CLI to easily notarize a Mac app
 - [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo) - MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu.
 - [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities) - Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
@@ -19574,6 +19582,8 @@
 
 ## TypeScript 
 
+- [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [Superkikim/nexus-ai-chat-importer](https://github.com/Superkikim/nexus-ai-chat-importer) - 
 - [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
@@ -19632,7 +19642,6 @@
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [arbal/searxng-mul-mcp](https://github.com/arbal/searxng-mul-mcp) - A Model Context Protocol (MCP) server for SearXNG search engine with multi-query parallel search support
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [just-every/code-bridge](https://github.com/just-every/code-bridge) - Live bridge for debugging apps for AI CLIs
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
@@ -19731,10 +19740,8 @@
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [andredezzy/deep-directory-tree-mcp](https://github.com/andredezzy/deep-directory-tree-mcp) - Powerful Model Context Protocol (MCP) implementation for visualizing directory structures with real-time updates, configurable depth, and smart exclusions for efficient project navigation
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
-- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [urbanogardun/things3-mcp](https://github.com/urbanogardun/things3-mcp) - MCP server for Things3 integration on macOS
@@ -20041,7 +20048,7 @@
 - [jupyter-server/jupyter_ydoc](https://github.com/jupyter-server/jupyter_ydoc) - Jupyter document structures for collaborative editing using Yjs/pycrdt
 - [last9/awesome-prometheus-toolkit](https://github.com/last9/awesome-prometheus-toolkit) - Alert rules toolkit for Prometheus. Connect Prometheus, discover alert rules, apply!
 - [Heratiki/locallama-mcp](https://github.com/Heratiki/locallama-mcp) - An MCP Server that works with Roo Code/Cline.Bot/Claude Desktop to optimize costs by intelligently routing coding tasks between local LLMs free APIs and paid APIs.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source agent engineering platform
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
@@ -20075,7 +20082,7 @@
 - [oslabs-beta/port-navigator](https://github.com/oslabs-beta/port-navigator) - A Docker networking management and visualization tool to configure and maintain Docker container network settings.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [fry69/orw](https://github.com/fry69/orw) - Watch for changes in OpenRouter models API and store changes in a SQLite database. Includes a simple web interface.
 - [OpenRouterTeam/tool-calling](https://github.com/OpenRouterTeam/tool-calling) - Tool calling demo for OpenRouter
 - [heltonteixeira/openrouterai](https://github.com/heltonteixeira/openrouterai) - MCP server for OpenRouter.ai integration
@@ -20084,7 +20091,6 @@
 - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [t0bst4r/home-assistant-matter-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [oslabs-beta/Docker-Storm](https://github.com/oslabs-beta/Docker-Storm) - Docker Storm provides a easy to use interface in order to view important metrics regarding your current Docker Swarm cluster and the containers which are being run on them.
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
@@ -20338,7 +20344,7 @@
 - [nexus-stc/stc](https://github.com/nexus-stc/stc) - Distributed free search engine and AI tools that grant access to knowledge
 - [langchain-ai/weblangchain](https://github.com/langchain-ai/weblangchain) - LangChain-powered web researcher chatbot. Searches for sources on the web and cites them in generated answers.
 - [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - AI Video Search Engine (RAG)
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [linka-app/linka](https://github.com/linka-app/linka) - Cross-platform, Self-hosted & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -20673,7 +20679,7 @@
 - [alimansoori/pop](https://github.com/alimansoori/pop) - 
 - [kubecost/kubecost-lens-extension](https://github.com/kubecost/kubecost-lens-extension) - A Kubecost extension for the Lens K8s IDE that adds namespace cost data.
 - [tstack/lnav-vscode](https://github.com/tstack/lnav-vscode) - Visual Studio Code extension for lnav
-- [metrico/qryn-view](https://github.com/metrico/qryn-view) - qryn polyglot user interface to explore logs, metrics, traces and profiles :eye: Grafana Explore alternative compatible with Loki, Prometheus, Tempo and Pyroscope
+- [metrico/qryn-view](https://github.com/metrico/qryn-view) - Gigapipe polyglot user interface to explore logs, metrics, traces and profiles :eye: Grafana Explore alternative compatible with Loki, Prometheus, Tempo and Pyroscope
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
 - [akshayp7/playwright-typescript-playwright-test](https://github.com/akshayp7/playwright-typescript-playwright-test) - This is a boilerplate/template for a Playwright-Typescript framework for web UI, API, mobile emulation, DB, and visual testing. Docker image, SonarQube, Lighthouse, GitHub Actions setup with Slack not
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
