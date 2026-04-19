@@ -1193,7 +1193,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [jelledruyts/azure-ai-search-lab](https://github.com/jelledruyts/azure-ai-search-lab) - A web app that lets you play around with various AI-related search approaches
 - [stohrendorf/csv-prometheus-exporter](https://github.com/stohrendorf/csv-prometheus-exporter) - Prometheus Exporter for CSV-based files over SSH
-- [ErsatzTV/ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
+- [ErsatzTV/legacy](https://github.com/ErsatzTV/legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
 - [Creator13/mapsnap](https://github.com/Creator13/mapsnap) - A small command line tool to grab images from OpenStreetMap, with the purpose of creating snapshots and mapping timelapses.
@@ -4241,7 +4241,6 @@
 - [kamilsk/retry](https://github.com/kamilsk/retry) - ♻️ The most advanced interruptible mechanism to perform actions repetitively until successful.
 - [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful.
 - [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
-- [minio/minfs](https://github.com/minio/minfs) - A network filesystem client to connect to MinIO and Amazon S3 compatible cloud storage servers
 - [winfsp/cgofuse](https://github.com/winfsp/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
@@ -5484,7 +5483,6 @@
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [macsplit/urltomarkdown](https://github.com/macsplit/urltomarkdown) - Web service for web page to Markdown conversion
 - [NoahNxT/Domain-Availability-Monitor](https://github.com/NoahNxT/Domain-Availability-Monitor) - Domain Availability Monitor (DAM) that notifies you when a specific watched domain get available on the market.
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [EvanHahn/ffmpeg-buddy](https://github.com/EvanHahn/ffmpeg-buddy) - a lil webpage that helps you write ffmpeg commands
 - [metauto-ai/agent-as-a-judge](https://github.com/metauto-ai/agent-as-a-judge) - 👩‍⚖️ Agent-as-a-Judge: The Magic for Open-Endedness
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
@@ -8607,7 +8605,7 @@
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [github-bowen/ChatGPT-Prompt-Engineering-for-Developers](https://github.com/github-bowen/ChatGPT-Prompt-Engineering-for-Developers) - This is a course note that converts the Jupyter Notebook from the DLAI ChatGPT Prompt course to MHTML format after execution. 这是将 DLAI 上的 ChatGPT Prompt 课程 Jupyter Notebook 执行后转换成 MHTML 格式的课程笔记。
-- [Rishit-dagli/MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS) - TensorFlow JS models for MIRNet for low-light💡 image enhancement
+- [Rishit-dagli/MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS) - low-light💡 image enhancement
 - [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) - List of papers, code and experiments using deep learning for time series forecasting
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoenco
@@ -11205,7 +11203,7 @@
 - [dannyob/llm-tools-todo](https://github.com/dannyob/llm-tools-todo) - LLM plugin providing session-based todo management tools, a la Claude Code.
 - [tonybaloney/llm-profile](https://github.com/tonybaloney/llm-profile) - 
 - [gelbphoenix/autocaliweb](https://github.com/gelbphoenix/autocaliweb) - (MOVED TO CODEBERG) :books: Web managing platform for eBooks, eComics and PDFs
-- [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Enhanced Proxmox MCP server with advanced virtualization management and full OpenAPI integration.
+- [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 - [eLyiN/codex-bridge](https://github.com/eLyiN/codex-bridge) - A lightweight MCP server bridging AI agents to OpenAI models via official CLI
 - [atrawog/mcp-oauth-gateway](https://github.com/atrawog/mcp-oauth-gateway) - An OAuth 2.1 Authorization Server that adds authentication to any MCP (Model Context Protocol) server without code modification.
 - [tcpiplab/Instability](https://github.com/tcpiplab/Instability) - A network diagnostic chatbot that also works offline. It has over 50 built-in tools to provide troubleshooting and analysis of local and remote networks. Chat interactively from the command line or in
@@ -19325,6 +19323,7 @@
 - [runebookai/tome](https://github.com/runebookai/tome) - a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP
 - [antiboredom/ffmpeg-explorer](https://github.com/antiboredom/ffmpeg-explorer) - Create and render complex ffmpeg filtergraphs in the browser.
 - [bmd1905/ChatOpsLLM](https://github.com/bmd1905/ChatOpsLLM) - To simplify and streamline LLM operations, empowering developers and organizations to harness the full potential of large language models with ease.
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [waifu-lab/anyknowledge](https://github.com/waifu-lab/anyknowledge) - Your personal  AI 「KEEP」, support docx, pdf, audio, video...
 - [Makosai/VISP](https://github.com/Makosai/VISP) - Video. Image. Sound. Post. VISP is an open source multimedia editor built entirely using Rust. It works on all Desktop and Mobile platforms. And you can integrate it with your favorite social media si
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
@@ -21651,6 +21650,7 @@
 
 ## Vue 
 
+- [qktechies/iina-plugin-file-viewer](https://github.com/qktechies/iina-plugin-file-viewer) - A powerful IINA plugin that lets you bookmark folders, browse directory structures, and quickly play video files within them.
 - [catcat-blog/NetMirror](https://github.com/catcat-blog/NetMirror) - Another Looking-glass Server
 - [Ripwords/starnetGUI](https://github.com/Ripwords/starnetGUI) - A GUI for Starnet++
 - [senthilmask80/Proxmox-DE](https://github.com/senthilmask80/Proxmox-DE) - Proxmox-DE (Desktop Environment) (Debian 12 with openbox, lightdm, webkit-lightdm themes, lightdm-webkit2-greeter
