@@ -2863,7 +2863,6 @@
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [alfg/ffmpegd](https://github.com/alfg/ffmpegd) - FFmpeg websocket server for ffmpeg-commander.
 - [amirrezaDev1378/ollama-model-direct-download](https://github.com/amirrezaDev1378/ollama-model-direct-download) - Ollama model direct link generator and installer.
-- [chuccp/http2smtp](https://github.com/chuccp/http2smtp) - Supports Web UI management and scheduled tasks.Send emails to smtp server over http
 - [wollomatic/socket-proxy](https://github.com/wollomatic/socket-proxy) - Secure-by-design and flexible Unix socket proxy. Built in memory-safe Go with zero dependencies, no shell or interpreter required in containers. A modern alternative to tecnativa/docker-socket-proxy a
 - [openshift/source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -6955,7 +6954,7 @@
 - [caseyWebb/vultr-pingtest](https://github.com/caseyWebb/vultr-pingtest) - :watch: Test Latency from all Vultr VPS Locations
 - [optimans/cockpit-zfs-manager](https://github.com/optimans/cockpit-zfs-manager) - Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 - [pippinlee/filesize-cli](https://github.com/pippinlee/filesize-cli) - A tiny module to that returns the size of your files, to be used with npm scripts
-- [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
+- [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - A lightweight, high-performance file size utility that converts bytes to human-readable strings. Zero dependencies. 100% test coverage.
 - [sindresorhus/prepend-http](https://github.com/sindresorhus/prepend-http) - Prepend `https://` to humanized URLs like `sindresorhus.com` and `localhost`
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
 - [peez80/http-proxy-to-socks](https://github.com/peez80/http-proxy-to-socks) - hpts(http-proxy-to-socks) is a nodejs client to convert socks proxy into http proxy
@@ -9020,7 +9019,6 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [jnsgruk/flypi](https://github.com/jnsgruk/flypi) - A collection of tools for tracking planes/helicopters/UFOs/whatever with ADS-B. Packaged for NixOS with packages and modules
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
-- [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [whacked/setup](https://github.com/whacked/setup) - reproducible local/remote/virtual machine setup tooling (nix / ansible)
 
@@ -10231,6 +10229,7 @@
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [borgbackup/community](https://github.com/borgbackup/community) - Resources from the Borg Community
 - [Zer0CoolX/proxmox-windows-slipstream-virtio-drivers](https://github.com/Zer0CoolX/proxmox-windows-slipstream-virtio-drivers) - Step-by-step guide to slipstream VirtIO drivers into Windows ISO's for use in Proxmox VE
+- [ad-si/awesome-lego](https://github.com/ad-si/awesome-lego) - Curated list of awesome LEGO resources
 - [digitalhackerspace/awesome-maker](https://github.com/digitalhackerspace/awesome-maker) - A curated list of awesome Maker Resources.
 - [miles969/systemd-automount-template](https://github.com/miles969/systemd-automount-template) - These 2 templates can be used to automount network filesystems without editing fstab. It uses systemd's automount function to monitor access requests to local mountpoints and mount the corrosponding n
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
@@ -11354,7 +11353,7 @@
 - [kukapay/funding-rates-mcp](https://github.com/kukapay/funding-rates-mcp) - An MCP server that provides real-time funding rate data across major crypto exchanges.
 - [johnhuang316/code-index-mcp](https://github.com/johnhuang316/code-index-mcp) - A Model Context Protocol (MCP) server that helps large language models index, search, and analyze code repositories with minimal setup
 - [rawr-ai/mcp-graphiti](https://github.com/rawr-ai/mcp-graphiti) - Graphiti Model Context Protocol (MCP) Server - An MCP server for knowledge graph management via Graphiti
-- [waifuai/sim-mcp-token](https://github.com/waifuai/sim-mcp-token) - Agent-based economic simulation exploring resource allocation, pricing, and wealth distribution. 💰 Features autonomous agents, resource dynamics, and economic policies like taxes. 💸 Includes parameter
+- [waifuai/sim-mcp-token](https://github.com/waifuai/sim-mcp-token) - Agent-based economic simulation with 50 autonomous agents, limited resources, income/expense dynamics, and configurable policies (taxes, elasticity, regeneration rates). Outputs Gini coefficient and b
 - [IBM/chuk-llm](https://github.com/IBM/chuk-llm) - 
 - [najidsalman97/crypto-cli-tracker](https://github.com/najidsalman97/crypto-cli-tracker) - A simple CLI tool to fetch real-time crypto prices from CoinGecko.
 - [hmldns/nautex](https://github.com/hmldns/nautex) - MCP server for guiding Coding Agents via end-to-end requirements to implementation plan pipeline
@@ -13342,6 +13341,7 @@
 - [facebookresearch/hashtag-generation](https://github.com/facebookresearch/hashtag-generation) - This repo is the official implementation of the paper titled "Generating Hashtags for Short-form Videos with Guided Signals" (ACL 2023).
 - [harvitronix/five-video-classification-methods](https://github.com/harvitronix/five-video-classification-methods) - Code that accompanies my blog post outlining five video classification methods in Keras and TensorFlow
 - [MoyGcc/vid2avatar](https://github.com/MoyGcc/vid2avatar) - Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition (CVPR2023)
+- [mainsail-crew/crowsnest](https://github.com/mainsail-crew/crowsnest) - Webcam Service for multiple Cams
 - [doersino/google-maps-at-88-mph](https://github.com/doersino/google-maps-at-88-mph) - Google Maps keeps old satellite imagery around for a while – this tool collects what's available for a user-specified region in the form of a GIF.
 - [banesullivan/localtileserver](https://github.com/banesullivan/localtileserver) - dynamic tile server for visualizing rasters in Jupyter with ipyleaflet or folium
 - [awesome-spectral-indices/awesome-spectral-indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices) - A ready-to-use curated list of Spectral Indices for Remote Sensing applications.
@@ -16913,7 +16913,7 @@
 - [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [tatref/linux-mem](https://github.com/tatref/linux-mem) - Linux memory tools
-- [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
+- [marhkb/pods](https://github.com/marhkb/pods) - Manage your containers
 - [brayniac/tic](https://github.com/brayniac/tic) - Time Interval Counting for Rust - stats based on start/stop times for events
 - [alesgenova/pitch-detection](https://github.com/alesgenova/pitch-detection) - A collection of algorithms to determine the pitch of a sound sample.
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
@@ -17891,7 +17891,6 @@
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [tom472/mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
-- [mainsail-crew/crowsnest](https://github.com/mainsail-crew/crowsnest) - Webcam Service for multiple Cams
 - [gregtwallace/certificate-scripts](https://github.com/gregtwallace/certificate-scripts) - 
 - [jheretic/onionboat](https://github.com/jheretic/onionboat) - A docker wrapper for Tor hidden services.
 - [toralf/torutils](https://github.com/toralf/torutils) - Few tools for a Tor relay.
@@ -19367,7 +19366,6 @@
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [vitorgalvao/mdscriptfilter](https://github.com/vitorgalvao/mdscriptfilter) - Search Spotlight database and output result as Script Filter (or Grid View) JSON for Alfred
 - [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) - Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed
-- [mediar-ai/mcp-server-macos-use](https://github.com/mediar-ai/mcp-server-macos-use) - AI agent that controls computer with OS-level tools, MCP compatible, works with any model
 - [okooo5km/memory-mcp-server](https://github.com/okooo5km/memory-mcp-server) - A Model Context Protocol server that provides knowledge graph management capabilities.
 - [huhu415/macPilotCli](https://github.com/huhu415/macPilotCli) - MacPilot CLI is a mcp server, It provides a collection of system tools that allow AI assistants to perform various operations on macOS systems.
 - [mobile-next/PriceyApp](https://github.com/mobile-next/PriceyApp) - MacOS Status bar app that tracks, monitors your Claude Code AI usage costs in real-time and compares them to human developer costs
@@ -19855,6 +19853,7 @@
 - [integromat/make-mcp-server](https://github.com/integromat/make-mcp-server) - Make MCP Server
 - [clharman/circuit-mcp](https://github.com/clharman/circuit-mcp) - Computer use-like MCP for webapps and electron apps, to enable AI agents to test their changes
 - [domdomegg/computer-use-mcp](https://github.com/domdomegg/computer-use-mcp) - 💻 Give AI models complete control of your computer (probably a bad idea)
+- [mediar-ai/mcp-server-macos-use](https://github.com/mediar-ai/mcp-server-macos-use) - AI agent that controls computer with OS-level tools, MCP compatible, works with any model
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [nanoseil/mcp-bgtask](https://github.com/nanoseil/mcp-bgtask) - MCP server for running and managing background tasks
 - [waylaidwanderer/background-process-mcp](https://github.com/waylaidwanderer/background-process-mcp) - 
@@ -21240,7 +21239,7 @@
 - [mempool/mempool](https://github.com/mempool/mempool) - Explore the full Bitcoin ecosystem with mempool.space, or be your own explorer and self-host your own instance with one-click installation on popular Raspberry Pi fullnode distros including Umbrel, Ra
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
-- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Ambitious 2D Graphics Editor for the Web
+- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Free and Open 2D Graphics Editor
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -21662,6 +21661,7 @@
 - [zmzhang8/Photon-WebUI](https://github.com/zmzhang8/Photon-WebUI) - A modern WebUI for aria2.
 - [yassernasc/wikipedia-lists](https://github.com/yassernasc/wikipedia-lists) - browser extension to use wikipedia reading lists, just like in the apps
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
+- [chuccp/http2smtp](https://github.com/chuccp/http2smtp) - HTTP-to-SMTP Service — Send emails via HTTP/JSON requests with token-based auth, SMTP management, templates, and scheduled tasks. Built with Go + Vue 3.
 - [shaunabanana/intrigue](https://github.com/shaunabanana/intrigue) - Organize literature into ideas, fast.
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) - URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
 - [arbal/alerta-webui](https://github.com/arbal/alerta-webui) - Alerta Web UI 7.0
