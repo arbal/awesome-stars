@@ -2684,7 +2684,7 @@
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards
 - [wunderkind2k1/ai-pdf-renamer](https://github.com/wunderkind2k1/ai-pdf-renamer) - AI-powered batch PDF renamer that works fully offline. Extracts text from each PDF, uses a local LLM to generate descriptive filenames, handles errors and invalid characters, and logs actions—no inter
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
-- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage all your MCP servers
+- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage & connect to all your MCP servers
 - [VictoriaMetrics/mcp-victoriametrics](https://github.com/VictoriaMetrics/mcp-victoriametrics) - The implementation of Model Context Protocol (MCP) server for VictoriaMetrics
 - [FairwindsOps/nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -4590,7 +4590,6 @@
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [arbal/alfred-brave-history](https://github.com/arbal/alfred-brave-history) - Alfred workflow for viewing and searching Brave Browser history
 - [arbal/chrome-bookmarks-alfred-workflow](https://github.com/arbal/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
-- [luismayta/dotfiles](https://github.com/luismayta/dotfiles) - Dotfiles
 - [augmentable-dev/gitpert](https://github.com/augmentable-dev/gitpert) - identify the most relevant git contributors based on commit recency, frequency and impact
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A coredns plugin to get dns records from Netbox
@@ -4856,7 +4855,7 @@
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [shuza/mqtt-cli](https://github.com/shuza/mqtt-cli) - A cli application written in Go to provide terminal interaction with EMQ
 - [golift/securityspy](https://github.com/golift/securityspy) - Full Featured Go Library for SecuritySpy
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 - [home-assistant/cli](https://github.com/home-assistant/cli) - :white_square_button: Home Assistant command line interface
 - [zrepl/zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution
 - [go-zeromq/zmq4](https://github.com/go-zeromq/zmq4) - [WIP] Pure-Go implementation of ZeroMQ-4
@@ -5436,7 +5435,6 @@
 - [vivami/proxmox-automation](https://github.com/vivami/proxmox-automation) - Terraform and Ansible for VM and CT deployment and provisioning on Proxmox
 - [BarisGece/mHC](https://github.com/BarisGece/mHC) - The easy-way to create and manage a Mini Home Cloud. mHC is built using Shell, Proxmox-VE, Packer, Terraform, Ansible and is not completely reliable for Production environments.
 - [kojiromike/inception](https://github.com/kojiromike/inception) - Wrap dind to run a container at arbitrary depth
-- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.7% less leaked credentials
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [dopry/cloud-netbench](https://github.com/dopry/cloud-netbench) - 
 - [GoogleCloudPlatform/cloud-ops-sandbox](https://github.com/GoogleCloudPlatform/cloud-ops-sandbox) - Cloud Operations Sandbox is an open source collection of tools that helps practitioners to learn O11y and R9y practices from Google and apply them using Cloud Operations suite of tools.
@@ -6492,7 +6490,7 @@
 - [homebridge-plugins/homebridge-govee](https://github.com/homebridge-plugins/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
 - [petersem/monocker](https://github.com/petersem/monocker) - 
 - [svrooij/ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) - :video_camera: IPCamera alarm to MQTT bridge inspired to the mqtt-smarthome project.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-host
 - [NiceNode/bench-buddy](https://github.com/NiceNode/bench-buddy) - a simple benchmark tool for container systems
 - [DataTables/VisualEvent](https://github.com/DataTables/VisualEvent) - Visually show Javascript events on a page
 - [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
@@ -11099,7 +11097,7 @@
 - [harvard-lil/warc-gpt](https://github.com/harvard-lil/warc-gpt) - WARC + AI - Experimental Retrieval Augmented Generation Pipeline for Web Archive Collections.
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
-- [bfly123/claude_codex_bridge](https://github.com/bfly123/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
+- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
 - [GuDaStudio/codexmcp](https://github.com/GuDaStudio/codexmcp) - Enable seamless collaboration between Claude Code and Codex, transforming from a single agent to multiple agents for significantly enhanced productivity!
 - [yghlc/BigImageMapper](https://github.com/yghlc/BigImageMapper) - Land use classification or Landform Mapping on big remote sensing imagery. Specifically, this repo is to delineate landforms due to the thawing of ice-rich permafrost using Deep Learning.
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show h
@@ -12169,7 +12167,7 @@
 - [manparvesh/yoda](https://github.com/manparvesh/yoda) - Wise and powerful personal assistant, available in your nearest terminal
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
-- [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D visualization and mesh analysis for science and engineering
 - [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly add AI-generated transcription subtitles to your videos
@@ -14947,7 +14945,6 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [hardillb/nginx-proxy-avahi-helper](https://github.com/hardillb/nginx-proxy-avahi-helper) - A container to generate matching mDNS CNAMEs for the virtual hosts used by jwilder/nginx-proxy
 - [goberoi/faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
-- [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [nzblnk/nzb-monkey](https://github.com/nzblnk/nzb-monkey) - Reference implementation of how to handle a NZBLNK-URI.
 - [harperreed/google-home-notifier-python](https://github.com/harperreed/google-home-notifier-python) - A google home notification webservice
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
@@ -15068,6 +15065,7 @@
 - [deepcoder/ha-zha-query-tools](https://github.com/deepcoder/ha-zha-query-tools) - Python tools to get zigbee device info from Home Assistant ZHA
 - [zha-ng/zha-map](https://github.com/zha-ng/zha-map) - Build ZHA network topology map.
 - [deanishe/alfred-fuzzy](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper for Alfred 3+ workflows
+- [luismayta/dotfiles](https://github.com/luismayta/dotfiles) - Dotfiles
 - [andrewning/alfred-workflows-scientific](https://github.com/andrewning/alfred-workflows-scientific) - A collection of Alfred workflows targeting scientific applications
 - [AndBobsYourUncle/hassio-addons](https://github.com/AndBobsYourUncle/hassio-addons) - 
 - [dmachard/python-dnstap-receiver](https://github.com/dmachard/python-dnstap-receiver) - Dnstap streams receiver in Python
@@ -18586,6 +18584,7 @@
 - [gilbertchen/benchmarking](https://github.com/gilbertchen/benchmarking) - A performance comparison of Duplicacy, restic, Attic, and duplicity
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server
 - [juju4/ansible-dnscrypt-proxy](https://github.com/juju4/ansible-dnscrypt-proxy) - Allow to encrypt dns traffic to a central dns server in order to provide better privacy.
+- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.7% less leaked credentials
 - [AlexanderWillner/things.sh](https://github.com/AlexanderWillner/things.sh) - Simple read-only comand-line interface to your Things 3 database
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -19706,6 +19705,8 @@
 
 ## TypeScript 
 
+- [CoWork-OS/CoWork-OS](https://github.com/CoWork-OS/CoWork-OS) - Local-first personal agentic OS and everything app for coding, knowledge work, web design, automations, and artifacts.
+- [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [bidewio/better-openclaw](https://github.com/bidewio/better-openclaw) - 
 - [GoogleChromeLabs/ps-analysis-tool](https://github.com/GoogleChromeLabs/ps-analysis-tool) - Privacy Sandbox Analysis Chrome Extension and CLI for analysis and understanding of cookie usage on web pages, and new privacy-preserving Chrome APIs
@@ -19768,7 +19769,7 @@
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [dotneet/agent-session-view](https://github.com/dotneet/agent-session-view) - A coding agent session viewer for browsing, viewing, and exporting conversation history from Claude Code and Codex CLI. Available as both a web interface and a terminal UI.
 - [lulu-sk/CodexFlow](https://github.com/lulu-sk/CodexFlow) - CodexFlow is a unified desktop workbench for AI coding agents (Codex/Claude/Gemini) across Windows and WSL. Organize chats by project, run parallel tasks via Git worktrees, build rich prompts with fil
@@ -19874,7 +19875,7 @@
 - [waylaidwanderer/background-process-mcp](https://github.com/waylaidwanderer/background-process-mcp) - 
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [brian-ln/clipboard-mcp](https://github.com/brian-ln/clipboard-mcp) - MacOS Clipboard access via Model Context Protocol
-- [cyanheads/ntfy-mcp-server](https://github.com/cyanheads/ntfy-mcp-server) - MCP server for ntfy — send push notifications to devices via the ntfy.sh service.
+- [cyanheads/ntfy-mcp-server](https://github.com/cyanheads/ntfy-mcp-server) - Send, manage, and replay ntfy push notifications via MCP. STDIO or Streamable HTTP.
 - [cyanheads/pubchem-mcp-server](https://github.com/cyanheads/pubchem-mcp-server) - MCP server for the PubChem chemical database. Search compounds, fetch properties, safety data, bioactivity, cross-references, and entity summaries. STDIO & Streamable HTTP
 - [cyanheads/pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server) - MCP server for the NCBI E-utilities API. Search PubMed, fetch article metadata and full text, generate citations, explore MeSH terms, and discover related research. STDIO or Streamable HTTP.
 - [pickstar-2002/video-convert-mcp](https://github.com/pickstar-2002/video-convert-mcp) - video-convert-mcp
@@ -19959,7 +19960,7 @@
 - [nezort11/curl-impersonate-server](https://github.com/nezort11/curl-impersonate-server) - Impersonated proxy server based on https://github.com/lwthiker/curl-impersonate. bypass TLS fingerprinting anti-bot protection! Docker and serverless configurations are available
 - [light-merlin-dark/claude-code-helper](https://github.com/light-merlin-dark/claude-code-helper) - Security and cleanup toolkit for Claude Code. Auto secret detection, 99.4% config reduction. CLI & MCP Server.
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) - MCP server paired with a browser extension that enables AI agents to control the user's browser.
-- [Mearman/mcp-wayback-machine](https://github.com/Mearman/mcp-wayback-machine) - 
+- [Mearman/mcp-wayback-machine](https://github.com/Mearman/mcp-wayback-machine) - MCP server and CLI tool for interacting with the Internet Archive's Wayback Machine
 - [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
@@ -20206,7 +20207,7 @@
 - [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp) - Memento MCP: A Knowledge Graph Memory System for LLMs
 - [amirilovic/mcp-server-proxy](https://github.com/amirilovic/mcp-server-proxy) - 
 - [devstefancho/mermaid-mcp](https://github.com/devstefancho/mermaid-mcp) - 
-- [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies
+- [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies.
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser.
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
