@@ -3404,7 +3404,7 @@
 - [comsave/docker-swarm-watcher](https://github.com/comsave/docker-swarm-watcher) - Listens docker service create & remove events and executes custom command
 - [cablespaghetti/missing-container-metrics](https://github.com/cablespaghetti/missing-container-metrics) - Prometheus exporter for container metrics cAdvisor won't give you
 - [draganm/missing-container-metrics](https://github.com/draganm/missing-container-metrics) - Prometheus exporter for container metrics cAdvisor won't give you
-- [gogatekeeper/gatekeeper](https://github.com/gogatekeeper/gatekeeper) - An OpenID / Proxy service
+- [gogatekeeper/gatekeeper](https://github.com/gogatekeeper/gatekeeper) - Zero Trust OpenID / Proxy service
 - [jsanant/vmtctl](https://github.com/jsanant/vmtctl) - A CLI tool to generate multi-tenant URLs for victoria-metrics and develop locally
 - [bitcubix/haversine-cli](https://github.com/bitcubix/haversine-cli) - CLI for harversine
 - [x-way/mt-set-time](https://github.com/x-way/mt-set-time) - Set time on MikroTik routers
@@ -8906,7 +8906,6 @@
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [Thefrank/jellyfin-server-freebsd](https://github.com/Thefrank/jellyfin-server-freebsd) - jellyfin-server component for freebsd
 - [arbal/docker-nicinfo](https://github.com/arbal/docker-nicinfo) - Query RDAP with nicinfo
-- [nicwaller/docker-nicinfo](https://github.com/nicwaller/docker-nicinfo) - Query RDAP with nicinfo
 - [instrumentisto/coturn-docker-image](https://github.com/instrumentisto/coturn-docker-image) - [Closed] Coturn TURN server Docker image
 - [fniephaus/alfred-network](https://github.com/fniephaus/alfred-network) - Collection of some useful network commands
 - [WICG/floc](https://github.com/WICG/floc) - This proposal has been replaced by the Topics API.
@@ -10918,7 +10917,6 @@
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [unforget-ai/unforget](https://github.com/unforget-ai/unforget) - Zero-LLM memory for AI agents. 4-channel retrieval, ~7ms writes, PostgreSQL-native.
 - [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows
-- [PRDicta/Solitaire-for-Agents](https://github.com/PRDicta/Solitaire-for-Agents) - Identity infrastructure for AI agents. Local-first, model-agnostic. Not just another memory tool.
 - [NPC-Worldwide/npcsh](https://github.com/NPC-Worldwide/npcsh) - the composable multi-agent shell
 - [thewebAI/yolo-mlx](https://github.com/thewebAI/yolo-mlx) - 
 - [facebookresearch/MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton wi
@@ -12955,7 +12953,7 @@
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [Athozs/hass-additional-ca](https://github.com/Athozs/hass-additional-ca) - Add private Certificate Authority or self-signed certificate into Home Assistant to access 3rd-party services with TLS/SSL.
 - [dalinicus/homeassistant-acinfinity](https://github.com/dalinicus/homeassistant-acinfinity) - AC Infinity integration for Home Assistant for UIS based controllers
-- [laggykiller/sticker-convert](https://github.com/laggykiller/sticker-convert) - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, OGQ, Viber, Discord, iMessage. Written in Python.
+- [laggykiller/sticker-convert](https://github.com/laggykiller/sticker-convert) - Convert (animated) stickers to/from WhatsApp, Telegram, Signal, Line, Kakao, Naver Band, OGQ, Viber, Discord, iMessage, Mastodon, Misskey. Written in Python.
 - [TheLime1/aichat-cli](https://github.com/TheLime1/aichat-cli) - a command-line interface chatbot. It allows you to have interactive conversations with different bots, including GPT4 FOR FREE
 - [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
@@ -13411,7 +13409,7 @@
 - [baicunko/scanyourpdf](https://github.com/baicunko/scanyourpdf) - Repository for the Scan Your Pdf community
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
-- [rfmoz/tuptime](https://github.com/rfmoz/tuptime) - Report historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.
+- [rfmoz/tuptime](https://github.com/rfmoz/tuptime) - Tuptime reports historical and statistical system uptime, preserved across reboots. Like uptime, but with extended information.
 - [unixsurfer/haproxystats](https://github.com/unixsurfer/haproxystats) - A HAProxy statistics collection program
 - [irrdnet/irrd](https://github.com/irrdnet/irrd) - IRRd version 4
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
@@ -16493,7 +16491,7 @@
 - [hako/bbcli](https://github.com/hako/bbcli) - :newspaper: Browse BBC News like a hacker.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [JustPretender/discovery-rs](https://github.com/JustPretender/discovery-rs) - 
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - Open-source coding agent with code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - Open-source coding agent with code understanding and robust shell safety. A self-research and learn by doing built by engineers, and for everyone..
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [acheronfail/repgrep](https://github.com/acheronfail/repgrep) - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
@@ -16712,7 +16710,7 @@
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep) - Search through all your files
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
@@ -16761,7 +16759,7 @@
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [jansc/ncgopher](https://github.com/jansc/ncgopher) - A gopher and gemini client for the modern internet
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [madeofpendletonwool/pinepods-firewood](https://github.com/madeofpendletonwool/pinepods-firewood) - A light client for Pinepods that can be used to beam podcasts to
@@ -20218,7 +20216,7 @@
 - [YuChenSSR/multi-ai-advisor-mcp](https://github.com/YuChenSSR/multi-ai-advisor-mcp) - council of models for decision
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) - Vibe coding should have human in the loop! interactive-mcp: Local, cross-platform MCP server for interact with your AI Agent
 - [recallnet/sequential-thinking-recall](https://github.com/recallnet/sequential-thinking-recall) - An MCP server that enables dynamic, reflective problem-solving by structuring thought processes and automatically logging each session to Recall.
-- [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 600+ integrations; powered by MCP 📡 🚀
+- [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 1200+ integrations (MCP, CLI, API)
 - [jupyter-server/jupyter_ydoc](https://github.com/jupyter-server/jupyter_ydoc) - Jupyter document structures for collaborative editing using Yjs/pycrdt
 - [last9/awesome-prometheus-toolkit](https://github.com/last9/awesome-prometheus-toolkit) - Alert rules toolkit for Prometheus. Connect Prometheus, discover alert rules, apply!
 - [Heratiki/locallama-mcp](https://github.com/Heratiki/locallama-mcp) - An MCP Server that works with Roo Code/Cline.Bot/Claude Desktop to optimize costs by intelligently routing coding tasks between local LLMs free APIs and paid APIs.
@@ -20531,7 +20529,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat
 - [abrenneke/rivet-plugin-ollama](https://github.com/abrenneke/rivet-plugin-ollama) - Rivet plugin for integration with Ollama, the tool for running LLMs locally easily
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [lufixSch/LocalCompletion](https://github.com/lufixSch/LocalCompletion) - Local LLM based code completion like Copilot with any OpenAI compatible API
 - [ayoisaiah/stellar-photos](https://github.com/ayoisaiah/stellar-photos) - Beautiful hi-res photos in your browser tabs - Available for the desktop versions of Chrome, Firefox, Microsoft Edge, Opera, Vivaldi, Brave, and other Chromium browsers.
 - [devidw/gearchy](https://github.com/devidw/gearchy) - Internet's first Goggles manager.
