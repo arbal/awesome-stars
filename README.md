@@ -287,7 +287,7 @@
 - [libyal/libfsapfs](https://github.com/libyal/libfsapfs) - Library and tools to access the Apple File System (APFS)
 - [jivanpal/drat](https://github.com/jivanpal/drat) - Utility for performing data recovery and analysis of APFS partitions/containers.
 - [datasentinel/pg_datasentinel](https://github.com/datasentinel/pg_datasentinel) - Observability and activity monitoring extension
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 159 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [jnorthrup/dedup](https://github.com/jnorthrup/dedup) - dedup finds and clones duplicate files
 - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
 - [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) - A lightweight DNS-over-HTTPS proxy.
@@ -1728,6 +1728,7 @@
 - [jacobagilbert/inspectrum](https://github.com/jacobagilbert/inspectrum) - Offline radio signal analyser
 - [mkiol/Jupii](https://github.com/mkiol/Jupii) - Play audio, video and images on UPnP/DLNA devices
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [pothosware/PothosFlow](https://github.com/pothosware/PothosFlow) - GUI frontend and designer tool for the Pothos framework
 - [qradiolink/qradiolink](https://github.com/qradiolink/qradiolink) - SDR transceiver using GNU Radio
 - [pothosware/PothosCore](https://github.com/pothosware/PothosCore) - The Pothos data-flow framework
@@ -3240,7 +3241,7 @@
 - [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator
 - [medik8s/machine-deletion-remediation](https://github.com/medik8s/machine-deletion-remediation) - 
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-- [grafana/grok](https://github.com/grafana/grok) - Grafana Object Development Kit
+- [grafana-cold-storage/grok](https://github.com/grafana-cold-storage/grok) - Grafana Object Development Kit
 - [knrdl/docker-socket-protector](https://github.com/knrdl/docker-socket-protector) - Protect the Docker Daemon from forbidden requests
 - [gbbirkisson/rpi](https://github.com/gbbirkisson/rpi) - A gRPC server for remote IO operations on the RaspberryPi + cli tool to call it
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -3285,7 +3286,7 @@
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
-- [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
+- [grafana-cold-storage/phlare](https://github.com/grafana-cold-storage/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 - [ucphhpc/docker-volume-sshfs](https://github.com/ucphhpc/docker-volume-sshfs) - sshfs docker volume plugin
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 - [goodhosts/cli](https://github.com/goodhosts/cli) - Simple hosts file management in a Go cli
@@ -3368,7 +3369,7 @@
 - [prometheus/prom2json](https://github.com/prometheus/prom2json) - A tool to scrape a Prometheus client and dump the result as JSON.
 - [uphy/drone-image-copy-plugin](https://github.com/uphy/drone-image-copy-plugin) - Drone plugin to copy Docker images from a registry to the another one.
 - [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create & restore complete, self-contained backups of Docker containers
-- [grafana/alertmanager-webhook-proxy](https://github.com/grafana/alertmanager-webhook-proxy) - A reverse proxy for the Prometheus AlertManager webhook notifier.
+- [grafana-cold-storage/alertmanager-webhook-proxy](https://github.com/grafana-cold-storage/alertmanager-webhook-proxy) - A reverse proxy for the Prometheus AlertManager webhook notifier.
 - [woodpecker-ci/plugin-docker](https://github.com/woodpecker-ci/plugin-docker) - Drone plugin for publishing Docker images using Docker-in-Docker
 - [woodpecker-ci/plugin-docker-buildx](https://github.com/woodpecker-ci/plugin-docker-buildx) - mirror of https://codeberg.org/woodpecker-plugins/plugin-docker-buildx
 - [coreos/airlock](https://github.com/coreos/airlock) - Minimal update/reboot orchestrator for Fedora CoreOS clusters
@@ -3454,7 +3455,7 @@
 - [google/schedviz](https://github.com/google/schedviz) - A tool for gathering and visualizing kernel scheduling traces on Linux machines
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
-- [grafana/scribe](https://github.com/grafana/scribe) - A tool for building elaborate CI pipelines using a familiar programming language
+- [grafana-cold-storage/scribe](https://github.com/grafana-cold-storage/scribe) - A tool for building elaborate CI pipelines using a familiar programming language
 - [grafana/docker-slack-message](https://github.com/grafana/docker-slack-message) - Very simple tool to send Slack messages. Built into a docker image
 - [lemnos/chrome-session-dump](https://github.com/lemnos/chrome-session-dump) - A program for extracting information from chrome session files.
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
@@ -3656,7 +3657,7 @@
 - [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
 - [arbal/sense-api](https://github.com/arbal/sense-api) - Sense Energy Monitor Go Api
 - [grafana/mixin-metrics](https://github.com/grafana/mixin-metrics) - Extract prometheus metrics from dashboard JSON and rules YAML
-- [grafana/dashboard-spec](https://github.com/grafana/dashboard-spec) - 
+- [grafana-cold-storage/dashboard-spec](https://github.com/grafana-cold-storage/dashboard-spec) - 
 - [tidwall/sjson](https://github.com/tidwall/sjson) - Set JSON values very quickly in Go
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [jessfraz/s3server](https://github.com/jessfraz/s3server) - Server to index & view files in a s3 or Google Cloud Storage bucket.
@@ -3776,7 +3777,7 @@
 - [minio/mint](https://github.com/minio/mint) - Collection of tests to detect overall correctness of MinIO server.
 - [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [grafana/cortex-tools](https://github.com/grafana/cortex-tools) - If you're using this tool with Grafana Mimir, please switch to "mimirtool" instead: https://github.com/grafana/mimir
+- [grafana-cold-storage/cortex-tools](https://github.com/grafana-cold-storage/cortex-tools) - If you're using this tool with Grafana Mimir, please switch to "mimirtool" instead: https://github.com/grafana/mimir
 - [deref/exo](https://github.com/deref/exo) - A process manager & log viewer for dev
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [ledongthuc/gohowmuch](https://github.com/ledongthuc/gohowmuch) - Cryptocurrencies prices and graph on the terminal
@@ -4239,7 +4240,7 @@
 - [gouthamve/deadman](https://github.com/gouthamve/deadman) - A simple deadman's switch for the Prometheus AlertManager
 - [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar) - Implements support for double star (**) matches in golang's path.Match and filepath.Glob.
 - [joe-pll/minio-exporter](https://github.com/joe-pll/minio-exporter) - A Prometheus exporter for Minio cloud storage server
-- [grafana/grafana-starter-datasource-backend](https://github.com/grafana/grafana-starter-datasource-backend) - A starter for Grafana data source plugins with a backend
+- [grafana-cold-storage/grafana-starter-datasource-backend](https://github.com/grafana-cold-storage/grafana-starter-datasource-backend) - A starter for Grafana data source plugins with a backend
 - [ga0/netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
 - [j-keck/lsleases](https://github.com/j-keck/lsleases) - list assigned ip from any device in your network
 - [likexian/whois](https://github.com/likexian/whois) - Whois client for domain and ip whois information query in Go(Golang).
@@ -4294,9 +4295,9 @@
 - [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
 - [monitoring-mixins/mixtool](https://github.com/monitoring-mixins/mixtool) - mixtool is a helper for easily working with jsonnet mixins.
 - [bwplotka/mimic](https://github.com/bwplotka/mimic) - mimic: Define your Deployments, Infrastructure and Configuration as a Go Code 🚀
-- [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
+- [grafana-cold-storage/grizzly](https://github.com/grafana-cold-storage/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [adejoux/grafanaclient](https://github.com/adejoux/grafanaclient) - simple API to manage Grafana 2.0 DataSources and Dashboards in Go
-- [grafana/metrictank](https://github.com/grafana/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
+- [grafana-cold-storage/metrictank](https://github.com/grafana-cold-storage/metrictank) - metrics2.0 based, multi-tenant timeseries store for Graphite and friends.
 - [minio/highwayhash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash
 - [esnet/gdg](https://github.com/esnet/gdg) - Grafana Dash-n-Grab
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
@@ -5563,7 +5564,7 @@
 - [aldoborrero/k8s-usenet](https://github.com/aldoborrero/k8s-usenet) - k8s-usenet is a collection of Helm charts related to Usenet services.
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
-- [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
+- [grafana-cold-storage/xk6-dashboard](https://github.com/grafana-cold-storage/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
 - [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
@@ -5937,7 +5938,7 @@
 - [OpenSextant/Xponents](https://github.com/OpenSextant/Xponents) - Geographic Place, Date/time, and Pattern entity extraction toolkit along with text extraction from unstructured data and GIS outputters.
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 - [yuzawa-san/googolplex-theater](https://github.com/yuzawa-san/googolplex-theater) - Persistently maintain multiple Chromecasts as digital signage without a browser.
-- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
+- [williamfiset/algorithms](https://github.com/williamfiset/algorithms) - A collection of algorithms and data structures
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [cash2one/VideoTranscoding-Backend](https://github.com/cash2one/VideoTranscoding-Backend) - This application transcode a video that you send on all formats what you want and diferent resolutions.
 - [Saurabh702/ffmpeg-scale-benchmark](https://github.com/Saurabh702/ffmpeg-scale-benchmark) - 
@@ -6537,7 +6538,7 @@
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [apify/actor-page-analyzer](https://github.com/apify/actor-page-analyzer) - Apify actor that opens a web page in headless Chrome and analyzes the HTML and JavaScript objects, looks for schema.org microdata and JSON-LD metadata, analyzes AJAX requests, etc.
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [chromecast-sponsorblock/chromecast-sponsorblock](https://github.com/chromecast-sponsorblock/chromecast-sponsorblock) - 
 - [zmqcherish/proxy-script](https://github.com/zmqcherish/proxy-script) - Quantumult X / Surge 微博和其他一些脚本
 - [nodemailer/smtp-server](https://github.com/nodemailer/smtp-server) - Create custom SMTP servers on the fly
@@ -7466,7 +7467,7 @@
 - [KorySchneider/wikit](https://github.com/KorySchneider/wikit) - Wikipedia summaries from the command line
 - [ahvlima/rcloneMon](https://github.com/ahvlima/rcloneMon) - Web based remote monitor for rclone jobs
 - [blgm/jfq](https://github.com/blgm/jfq) - JSONata on the command line
-- [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
+- [grafana-cold-storage/simple-json-datasource](https://github.com/grafana-cold-storage/simple-json-datasource) - Datasource that sends generic http requests to give url
 - [TulvL/cloudflare-ip-tester](https://github.com/TulvL/cloudflare-ip-tester) - Cloudflare IP Batch Test Tool including HTTP respond time, region detection and download speed test
 - [feross/hostile](https://github.com/feross/hostile) - Simple, programmatic `/etc/hosts` manipulation (in node.js)
 - [txthinking/blackwhite](https://github.com/txthinking/blackwhite) - https://github.com/txthinking/brook/tree/master/programmable
@@ -8019,7 +8020,7 @@
 - [netdata/dashboard](https://github.com/netdata/dashboard) - Netdata Agent v1 Dashboard (deprecated)
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [mrcgrtz/alfred-http](https://github.com/mrcgrtz/alfred-http) - 💡 An Alfred workflow to quickly lookup HTTP status codes.
-- [grafana/worldmap-panel](https://github.com/grafana/worldmap-panel) - Worldmap panel plugin for Grafana 3.0 that can be overlaid with circles for data points.
+- [grafana-cold-storage/worldmap-panel](https://github.com/grafana-cold-storage/worldmap-panel) - Worldmap panel plugin for Grafana 3.0 that can be overlaid with circles for data points.
 - [todbot/Blink1Control2](https://github.com/todbot/Blink1Control2) - Blink1Control GUI to control blink(1) USB RGB LED devices.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [abdul/alfred-network-location-switch](https://github.com/abdul/alfred-network-location-switch) - Alfred 3 workflow to switch macOS network location
@@ -8455,7 +8456,7 @@
 - [grafana/grafonnet](https://github.com/grafana/grafonnet) - Jsonnet library for generating Grafana dashboards.
 - [metalmatze/slo-libsonnet](https://github.com/metalmatze/slo-libsonnet) - Generate Prometheus alerting & recording rules and Grafana dashboards for your SLOs.
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins
-- [grafana/grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
+- [grafana-cold-storage/grafonnet-lib](https://github.com/grafana-cold-storage/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files.
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [jsonnet-libs/k8s](https://github.com/jsonnet-libs/k8s) - Code generator for Jsonnet Kubernetes libraries.
 - [adamwg/grafana-dashboards](https://github.com/adamwg/grafana-dashboards) - Grafana dashboard management demo for PromCon 2019
@@ -9202,7 +9203,7 @@
 - [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
-- [OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) - 100 Production-Ready Claude Code Skills - The most comprehensive collection of AI skills for sales, business automation, content creation, and development
+- [OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) - 172 production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and maintained by OneWave AI.
 - [balloob/llm-skills](https://github.com/balloob/llm-skills) - A couple of skills for playing around
 - [grafana/grafana-git-sync-demo](https://github.com/grafana/grafana-git-sync-demo) - Grafana Git Sync and grafanactl demo
 - [metaskills/skill-builder](https://github.com/metaskills/skill-builder) - Claude Code Agent Skills Builder
@@ -10922,6 +10923,7 @@
 
 ## Python 
 
+- [vladmandic/sdnext](https://github.com/vladmandic/sdnext) - SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing
 - [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) - A Python package for determining platform-specific directories (e.g. user data, config, cache, logs). Handles the differences between macOS, Windows, Linux/Unix, and Android so you don't have to.
 - [lpalbou/mlx-gen](https://github.com/lpalbou/mlx-gen) - Generative image model runtimes for MLX.
 - [dgrauet/ltx-2-mlx](https://github.com/dgrauet/ltx-2-mlx) - Pure MLX port of LTX-2 (Lightricks LTX-2.3) for Apple Silicon — video + audio generation
@@ -11951,7 +11953,6 @@
 - [PAST2212/certthreat](https://github.com/PAST2212/certthreat) - CERT Transparency Log Monitoring for brand names and mailing domain names to detect phishing and brand impersonations
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
 - [jonlabelle/docker-network-tools](https://github.com/jonlabelle/docker-network-tools) - A Docker image with various network tools pre-installed.
-- [giuliocomi/csplogger](https://github.com/giuliocomi/csplogger) - A CSP endpoint to aggregate, correlate and analyze report-uri violations across your infrastructure
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [hypergrok/chunkit](https://github.com/hypergrok/chunkit) - Convert URLs into LLM-friendly markdown chunks
@@ -12030,6 +12031,7 @@
 - [Nukesor/hetznerbot](https://github.com/Nukesor/hetznerbot) - :calling: Get the newest hetzner server offers right to your telegram chat.
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [ZacharyHampton/HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) - Python package for scraping real estate property data
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [60MilesPerHour/MQTT-Signal-Messenger-Assistant](https://github.com/60MilesPerHour/MQTT-Signal-Messenger-Assistant) - MQTT Signal Messenger Assistant
 - [yashsinghcodes/wik](https://github.com/yashsinghcodes/wik) - wik is use to get information about anything on the shell using Wikipedia.
 - [v-iashin/video_features](https://github.com/v-iashin/video_features) - Extract video features from raw videos using multiple GPUs. We support RAFT flow frames as well as S3D, I3D, R(2+1)D, VGGish, CLIP, and TIMM models.
@@ -12288,7 +12290,7 @@
 - [ThereforeGames/txt2mask](https://github.com/ThereforeGames/txt2mask) - Automatically create masks for Stable Diffusion inpainting using natural language.
 - [Filarius/video2video](https://github.com/Filarius/video2video) - Automatic1111 Stable Diffusion WebUI Video Extension
 - [memes-forever/Stable-diffusion-webui-video](https://github.com/memes-forever/Stable-diffusion-webui-video) - 
-- [grafana/vectorapi](https://github.com/grafana/vectorapi) - pgvector + embeddings API
+- [grafana-cold-storage/vectorapi](https://github.com/grafana-cold-storage/vectorapi) - pgvector + embeddings API
 - [superagent-ai/super-rag](https://github.com/superagent-ai/super-rag) - Super performant RAG pipelines for AI apps. Summarization, Retrieve/Rerank and Code Interpreters in one simple API.
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
 - [tabsl/KI-PDF-Organizer](https://github.com/tabsl/KI-PDF-Organizer) - Ein Python-Script zum automatischen Organisieren von PDF-Dateien. Das Tool nutzt KI (OpenAI, Anthropic oder Ollama lokal) zum Umbenennen, Sortieren und Aufsplitten von PDF-Stapeln in Einzeldokumente. 
@@ -13095,7 +13097,7 @@
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions) - Make your PopClip more powerful.
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [Bklieger/ProxyGPT](https://github.com/Bklieger/ProxyGPT) - Lightweight OpenAI wrapper using FastAPI. Add rate limits to OpenAI usage, optionally log and store all API calls, and share regulated OpenAI API access without providing your secret key. Comes with a
@@ -13774,7 +13776,7 @@
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [mdhiggins/sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized format with metadata tagging to create a beautiful and uniform media library
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
+- [grafana-cold-storage/oncall](https://github.com/grafana-cold-storage/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [ajshovon/cfst_nextdns](https://github.com/ajshovon/cfst_nextdns) - CloudflareSpeedTest + NextDNS rewrite rules
 - [viktory36/NextDNS-rewrite-tool](https://github.com/viktory36/NextDNS-rewrite-tool) - A tool that automatically updates the DNS Rewrite settings for your NextDNS account.
@@ -16456,6 +16458,7 @@
 
 ## Rust 
 
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [fajarhide/omni](https://github.com/fajarhide/omni) - A high-performance Semantic Signal Engine with Context OS for Agentic AI. Run your AI with zero noise, pure context, and 90% lower token costs.
@@ -17324,7 +17327,6 @@
 - [yuvadm/slingr](https://github.com/yuvadm/slingr) - A simple CLI for UPnP media file streaming
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [smudge/nightlight](https://github.com/smudge/nightlight) - A CLI for configuring "Night Shift" on macOS 🌕🌖🌗🌘🌑
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [aserowy/docker2mqtt](https://github.com/aserowy/docker2mqtt) - Monitor your docker environment over mqtt the easy way.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [frewsxcv/alert-after](https://github.com/frewsxcv/alert-after) - Get a desktop notification after a command finishes executing.
@@ -20195,7 +20197,7 @@
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [ssut/Remote-MCP](https://github.com/ssut/Remote-MCP) - A type-safe solution to remote MCP communication, enabling effortless integration for centralized management of Model Context.
 - [jsdelivr/globalping-mcp-server](https://github.com/jsdelivr/globalping-mcp-server) - Remote MCP server that gives LLMs access to run network commands
-- [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) - A free MCP server to analyze and extract insights from public filings, earnings transcripts, financial metrics, stock market data, private market transactions, and deep web-based research within Claud
+- [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) - An MCP server for public & prediction markets research. Ask natural-language questions and get structured, source-backed answers across SEC filings, earnings transcripts, company financials, stock & c
 - [botswin/BotBrowser](https://github.com/botswin/BotBrowser) - Advanced Privacy Browser Core with Unified Fingerprint Defense: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore
 - [jina-ai/node-serp](https://github.com/jina-ai/node-serp) - LLM-as-SERP
 - [metorial/metorial-index](https://github.com/metorial/metorial-index) - Metorial MCP Index - An ever growing list of open source MCP servers 📁 🎉
