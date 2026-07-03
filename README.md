@@ -284,6 +284,7 @@
 
 ## C 
 
+- [fribidi/fribidi](https://github.com/fribidi/fribidi) - GNU FriBidi
 - [HdrHistogram/HdrHistogram_c](https://github.com/HdrHistogram/HdrHistogram_c) - C port of the HdrHistogram
 - [sam-itt/sofis](https://github.com/sam-itt/sofis) - Open Source EFIS
 - [markfasheh/duperemove](https://github.com/markfasheh/duperemove) - Tools for deduping file systems
@@ -2769,7 +2770,7 @@
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
 - [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code whil
 - [tbxark/mcp-proxy](https://github.com/tbxark/mcp-proxy) - An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [opencontainers/umoci](https://github.com/opencontainers/umoci) - umoci modifies Open Container images
 - [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [litui/rss-rag-ingest](https://github.com/litui/rss-rag-ingest) - RSS RAG Ingest Tool for Open-WebUI
@@ -6060,6 +6061,7 @@
 
 ## JavaScript 
 
+- [RyensX/OpenCodex](https://github.com/RyensX/OpenCodex) - OpenCodex is a middleware layer for Codex Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable for contin
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [looptech-ai/understand-quickly](https://github.com/looptech-ai/understand-quickly) - Public registry of code-knowledge graphs for AI agents. Awesome-list 2.0: pointers to schema-validated content, not just links.
 - [jianshuo/ccglass](https://github.com/jianshuo/ccglass) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard
@@ -6112,7 +6114,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) - MCP SSH Server: 37 tools for remote SSH management | Claude Code & OpenAI Codex | DevOps automation, backups, database operations, health monitoring
 - [SteepAtticStairs/AtticRadar](https://github.com/SteepAtticStairs/AtticRadar) - A clean, simple, but powerful weather toolkit for the web browser. Includes NEXRAD parsing and plotting, doppler velocity dealiasing, weather alerts, real time lightning data, METAR station data, and 
-- [hakkisagdic/context-manager](https://github.com/hakkisagdic/context-manager) - Context manager with file/method-level token counting and smart filtering - optimize LLM context, eliminate hallucinations
+- [hakkisagdic/ctxman](https://github.com/hakkisagdic/ctxman) - Context manager with file/method-level token counting and smart filtering - optimize LLM context, eliminate hallucinations
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [genetrader/pushbullet-fix](https://github.com/genetrader/pushbullet-fix) - This repo is a fix to allow you to load the Pushbullet Chrome Extension unpacked and have it work again.
 - [just-every/mcp-deep-search](https://github.com/just-every/mcp-deep-search) - Runs a search across all major providers simultaneously
@@ -7936,7 +7938,7 @@
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 - [w3reality/three-geo](https://github.com/w3reality/three-geo) - 3D geographic visualization library
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
@@ -10964,6 +10966,10 @@
 
 ## Python 
 
+- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
+- [open-webui/computer](https://github.com/open-webui/computer) - Get more done. Away.
+- [Chetan-Suresh/content-extraction-pipeline-video-stt-llm](https://github.com/Chetan-Suresh/content-extraction-pipeline-video-stt-llm) - An automated pipeline for extracting structured information from videos by combining speech-to-text transcription with large language models.
+- [Peter-obi/Video_summarization_mlx](https://github.com/Peter-obi/Video_summarization_mlx) - Transcribe and summarize videos using whisper and llms on apple mlx framework
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports close to 3,000 conversions!
 - [redhuntlabs/Octopii](https://github.com/redhuntlabs/Octopii) - An AI-powered Personal Identifiable Information (PII) scanner.
 - [DeadByDawn101/turboquant-mlx](https://github.com/DeadByDawn101/turboquant-mlx) - First MLX implementation of TurboQuant KV cache compression for Apple Silicon
@@ -11129,7 +11135,7 @@
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [scouzi1966/MLXLMProbe](https://github.com/scouzi1966/MLXLMProbe) - Universal probing and interpretability tool for MLX language models on Apple Silicon
 - [scouzi1966/afm7-mlx-toolkit](https://github.com/scouzi1966/afm7-mlx-toolkit) - Convert and run Apple Foundation Model (AFM7) on Apple Silicon using MLX with extended context length
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [scouzi1966/AFMTrainer](https://github.com/scouzi1966/AFMTrainer) - A comprehensive GUI wrapper application for Apple's Foundation Models Adapter Training Toolkit, providing an intuitive interface for training LoRA adapters for Apple's on-device foundation models.
@@ -11189,7 +11195,7 @@
 - [SpatialVision/Orient-Anything](https://github.com/SpatialVision/Orient-Anything) - Orient Anything, ICML 2025
 - [yyfz/Pi3](https://github.com/yyfz/Pi3) - [ICLR 2026] π^3: Permutation-Equivariant Visual Geometry Learning
 - [ergut/mcp-logseq](https://github.com/ergut/mcp-logseq) - MCP server to interact with LogSeq via its Local HTTP API - enabling AI assistants like Claude to seamlessly read, write, and manage your LogSeq graph.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,800+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
 - [TristanBilot/mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark) - Benchmark of Apple MLX operations on all Apple Silicon chips (GPU, CPU) + MPS and CUDA.
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - MLX native implementations of state-of-the-art generative image models
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
@@ -11724,7 +11730,7 @@
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support, handling, and auto-stitching
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [kvj/hass_openwrt](https://github.com/kvj/hass_openwrt) - Home Assistant integration with OpenWrt devices
 - [saksham-jain177/AI-Agent-based-Deep-Research](https://github.com/saksham-jain177/AI-Agent-based-Deep-Research) - Deep Research AI Agent is a dual-agent system that conducts web-based research and generates structured summaries. It uses Tavily for data collection and OpenRouter for drafting, offering a user-frien
 - [RHEXorg/promptpilot](https://github.com/RHEXorg/promptpilot) - This repository offers an autonomous prompt debugger and optimizer for AI prompt engineers. It utilizes the OpenRouter API to analyze and enhance prompts through chain-of-thought reasoning. Features i
@@ -12225,7 +12231,7 @@
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [instructlab/instructlab](https://github.com/instructlab/instructlab) - InstructLab Core package.  Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Conversion of PDF documents to structured Markdown, optimized for Retrieval Augmented Generation (RAG) and other NLP tasks. Extract text, tables, and images with preserved formatting for enhanced info
+- [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Turn PDFs into clean, structured Markdown
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [NVIDIA/NeMo-Retriever](https://github.com/NVIDIA/NeMo-Retriever) - NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever Library uses specialized NVIDIA NIM microservices to find, contextualiz
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
@@ -13145,7 +13151,7 @@
 - [Jiayi-Pan/GPT-V-on-Web](https://github.com/Jiayi-Pan/GPT-V-on-Web) - 👀🧠 GPT-4 Vision x 💪⌨️ Vimium = Autonomous Web Agent
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
-- [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities
+- [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
@@ -15090,7 +15096,7 @@
 - [golemhq/golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone 
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Go
@@ -19502,6 +19508,7 @@
 
 ## Swift 
 
+- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
 - [niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh) - Unlock the full brightness of the XDR display of your MacBook Pro
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [iliyami/MacSai](https://github.com/iliyami/MacSai) - Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
@@ -19874,6 +19881,8 @@
 
 ## TypeScript 
 
+- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
+- [jakemor/kanna](https://github.com/jakemor/kanna) - A beautiful web-based UI for Claude Code & Codex
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [atoolz/kitty-vscode-toolkit](https://github.com/atoolz/kitty-vscode-toolkit) - Complete Kitty terminal toolkit for VS Code: syntax highlighting, IntelliSense, validation, and documentation for kitty.conf configuration
@@ -19955,7 +19964,7 @@
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [Th0rgal/open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum) - Type `ralph "prompt"` to start open code in a ralph loop. Also supports a prompt file & status check. Open Code, Claude Code, Codex, Copilot
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
-- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
+- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
