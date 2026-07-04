@@ -1392,7 +1392,7 @@
 - [ilya-zlobintsev/ryzen-smu-exporter](https://github.com/ilya-zlobintsev/ryzen-smu-exporter) - Prometheus exporter for https://gitlab.com/leogx9r/ryzen_smu metrics
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
-- [tschnz/Live-Video-Magnification](https://github.com/tschnz/Live-Video-Magnification) - An OpenCV/Qt based realtime application for Eulerian Video Magnification / Motion Magnification. Works with multiple videos and cameras at the same time and let's you export the magnified videos.
+- [tschnz/Live-Video-Magnification](https://github.com/tschnz/Live-Video-Magnification) - Real‑time Eulerian video magnification: amplify subtle motion & color from webcam or video. GPU‑accelerated (WebGPU), Qt 6, Linux/Windows/macOS
 - [ROCm/amdsmi](https://github.com/ROCm/amdsmi) - AMD SMI
 - [alibaba/PhotonLibOS](https://github.com/alibaba/PhotonLibOS) - Probably the fastest coroutine lib in the world!
 - [containerd/overlaybd](https://github.com/containerd/overlaybd) - Overlaybd: a block based remote image format. The storage backend of containerd/accelerated-container-image.
@@ -1414,7 +1414,7 @@
 - [MediaArea/RAWcooked](https://github.com/MediaArea/RAWcooked) - Encodes RAW audio-visual data into the Matroska container (MKV), using the video codec FFV1 for the image and audio codec FLAC for the sound.
 - [BGI-Qingdao/ProcessGroupMonitor](https://github.com/BGI-Qingdao/ProcessGroupMonitor) - A simple tool to monitor a process group and record its CPU, MEM and time cost.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
-- [avaneev/lzav](https://github.com/avaneev/lzav) - Fast In-Memory Data Compression Algorithm (header-only C/C++) 480+MB/s compress, 2800+MB/s decompress, ratio% better than LZ4, Snappy, and Zstd@-1
+- [avaneev/lzav](https://github.com/avaneev/lzav) - Fast In-Memory Data Compression Algorithm (header-only C/C++) 500+MB/s compress, 3000+MB/s decompress, ratio% better than LZ4, Snappy, and Zstd@-1
 - [ZJULearning/nsg](https://github.com/ZJULearning/nsg) - Navigating Spreading-out Graph For Approximate Nearest Neighbor Search
 - [kioxia-jp/aisaq-diskann](https://github.com/kioxia-jp/aisaq-diskann) - All-in-Storage Solution based on DiskANN for DRAM-free Approximate Nearest Neighbor Search
 - [estraier/tkrzw](https://github.com/estraier/tkrzw) - a set of implementations of DBM
@@ -8552,7 +8552,7 @@
 - [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [mushaid01/SAM2-image-video-segmentation](https://github.com/mushaid01/SAM2-image-video-segmentation) - Segment Anything 2 (SAM 2) is a real-time image and video segmentation model. It supports automatic mask generation to segment all objects and a point prompt feature for targeted segmentation. SAM 2 c
-- [SatoruMuro/SAM2GUIfor3Drecon](https://github.com/SatoruMuro/SAM2GUIfor3Drecon) - SegRef3D: AI-Powered Segmentation and Interactive Refinement for Labor-Saving 3D Reconstruction
+- [SatoruMuro/SegRef3D](https://github.com/SatoruMuro/SegRef3D) - SegRef3D: AI-Powered Segmentation and Interactive Refinement for Labor-Saving 3D Reconstruction
 - [patrick-tssn/Streaming-Grounded-SAM-2](https://github.com/patrick-tssn/Streaming-Grounded-SAM-2) - Grounded Tracking for Streaming Videos
 - [nnanhuang/SegAnyMo](https://github.com/nnanhuang/SegAnyMo) - [CVPR 2025] Code for Segment Any Motion in Videos
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores
@@ -10966,6 +10966,7 @@
 
 ## Python 
 
+- [jina-ai/mlx-retrieval](https://github.com/jina-ai/mlx-retrieval) - Train embedding and reranker models for retrieval tasks on Apple Silicon with MLX
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [open-webui/computer](https://github.com/open-webui/computer) - Get more done. Away.
 - [Chetan-Suresh/content-extraction-pipeline-video-stt-llm](https://github.com/Chetan-Suresh/content-extraction-pipeline-video-stt-llm) - An automated pipeline for extracting structured information from videos by combining speech-to-text transcription with large language models.
@@ -11016,7 +11017,7 @@
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Semantica 🧠 • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.
 - [GMaN1911/claude-cognitive](https://github.com/GMaN1911/claude-cognitive) - Working memory for Claude Code - persistent context and multi-instance coordination
 - [lucasrosati/claude-code-memory-setup](https://github.com/lucasrosati/claude-code-memory-setup) - Up to 71.5x fewer tokens per session on Claude Code with Obsidian + Graphify. Persistent memory, codebase knowledge graphs, and chat import pipeline. 🇧🇷 PT-BR included.
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [m5kro/RPG-Maker-MacOS-Launcher](https://github.com/m5kro/RPG-Maker-MacOS-Launcher) - A launcher to natively play RPG maker MV, MZ, XP, VX, VX Ace, 2000, and 2003 games on MacOS
@@ -11290,7 +11291,7 @@
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [facun20/claude-ai-file-generator-renamer](https://github.com/facun20/claude-ai-file-generator-renamer) - rename many files with a naming convention using Claude.
-- [machjesusmoto/claude-lazy-loading](https://github.com/machjesusmoto/claude-lazy-loading) - Proof-of-concept for lazy loading MCP servers in Claude Code - 95% context reduction
+- [Motoyuki-Solutions/claude-lazy-loading](https://github.com/Motoyuki-Solutions/claude-lazy-loading) - Proof-of-concept for lazy loading MCP servers in Claude Code - 95% context reduction
 - [GongRzhe/terminal-controller-mcp](https://github.com/GongRzhe/terminal-controller-mcp) - A Model Context Protocol (MCP) server that enables secure terminal command execution, directory navigation, and file system operations through a standardized interface.
 - [GongRzhe/YOLO-MCP-Server](https://github.com/GongRzhe/YOLO-MCP-Server) - 
 - [philippb/claude-homeassistant](https://github.com/philippb/claude-homeassistant) - Allows to program your home automations in plain english via Claude Code on your computer.
@@ -11759,7 +11760,7 @@
 - [redstone99/hass-alert2](https://github.com/redstone99/hass-alert2) - HomeAssistant alerting with native support for events and expressive conditions
 - [mahdin75/geoserver-mcp](https://github.com/mahdin75/geoserver-mcp) - A Model Context Protocol (MCP) server implementation that connects LLMs to the GeoServer REST API
 - [ViffyGwaanl/perplexica-pipe](https://github.com/ViffyGwaanl/perplexica-pipe) - Using the Perplexica search API's "pipe" feature, taking inspiration from atgehrhardt's Live Search project.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [l3p-cv/lost](https://github.com/l3p-cv/lost) - Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.
 - [tristan-mcinnis/Ollama-Image-Processing-CLI-Tool](https://github.com/tristan-mcinnis/Ollama-Image-Processing-CLI-Tool) - This tool processes images from a specified directory or file using a local API for image analysis.  It allows users to provide custom prompts and select vision-capable models for generating image des
 - [wkentaro/osam](https://github.com/wkentaro/osam) - Get up and running with SAM1,2,3, EfficientSAM, YOLO-World, and other promptable vision models locally.
@@ -14427,7 +14428,7 @@
 - [abriginets/wreckuests](https://github.com/abriginets/wreckuests) - Yet another one hard-hitting tool to run HTTP stress tests 🌌
 - [Leeon123/CC-attack](https://github.com/Leeon123/CC-attack) - Using Socks4/5 or http proxies to make a multithreading Http-flood/Https-flood (cc) attack.
 - [uetchy/mac-battery-inspector](https://github.com/uetchy/mac-battery-inspector) - Check your Mac's battery health.
-- [AresValley/Artemis](https://github.com/AresValley/Artemis) - Radio Signals Recognition Manual
+- [AresValley/Artemis](https://github.com/AresValley/Artemis) - The reference for radio signal identification
 - [hongquan/CurliPie](https://github.com/hongquan/CurliPie) - Convert cURL command to HTTPie
 - [Pirate-Weather/pirate-weather-ha](https://github.com/Pirate-Weather/pirate-weather-ha) - Replacement for the default Dark Sky Home Assistant integration using Pirate Weather
 - [damianolombardo/noisy](https://github.com/damianolombardo/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
@@ -17516,7 +17517,7 @@
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [crisidev/lnx](https://github.com/crisidev/lnx) - Utility to map lines in stdin unto command arguments to be executed
-- [lightningdevkit/rust-lightning](https://github.com/lightningdevkit/rust-lightning) - A highly modular Bitcoin Lightning library written in Rust. It's rust-lightning, not Rusty's Lightning!
+- [lightningdevkit/rust-lightning](https://github.com/lightningdevkit/rust-lightning) - This repo is a mirror of https://git.rust-bitcoin.org/lightningdevkit/rust-lightning
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [ZenGo-X/multi-party-eddsa](https://github.com/ZenGo-X/multi-party-eddsa) - Rust implementation of multi party Ed25519 signature scheme.
 - [jedisct1/rsign2](https://github.com/jedisct1/rsign2) - A command-line tool to sign files and verify signatures in pure Rust.
@@ -17693,6 +17694,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [simonyiszk/openwrt-rrm-nr-distributor](https://github.com/simonyiszk/openwrt-rrm-nr-distributor) - The 802.11k standard specifies how the neighboring BSS' could report each other to a STA. OpenWRT's hostapd supports this feature, but the syncronization has to be done in a separate daemon such as th
 - [Fail-Safe/nrsyncd](https://github.com/Fail-Safe/nrsyncd) - 802.11k Neighbor Report (NR) Sync Service
 - [boostvolt/claude-code-lsps](https://github.com/boostvolt/claude-code-lsps) - LSP plugins for Claude Code — Bash/Shell, C/C++/Objective-C, C#, Clojure, Dart/Flutter, Elixir, Gleam, Go, Java, Kotlin, Lua, Nix, OCaml, PHP, Python, Ruby, Rust, Swift, Terraform, TypeScript/JavaScri
@@ -17885,7 +17887,7 @@
 - [coder/deploy-code-server](https://github.com/coder/deploy-code-server) - Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻
 - [dnmfarrell/ch](https://github.com/dnmfarrell/ch) - Program chat completions from a POSIX shell
 - [binwiederhier/zfsu](https://github.com/binwiederhier/zfsu) - Collection of ZFS utilities.
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere, any way you like it.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
 - [rustybird/corridor](https://github.com/rustybird/corridor) - Tor traffic whitelisting gateway
 - [luckman212/login-items-dump](https://github.com/luckman212/login-items-dump) - Parse the output of `sfltool dumpbtm`
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
