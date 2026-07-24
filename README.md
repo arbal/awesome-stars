@@ -2929,7 +2929,7 @@
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [adrianliechti/wingman](https://github.com/adrianliechti/wingman) - Inference Hub for AI at Scale
 - [FortnoxAB/prometheus-net-discovery](https://github.com/FortnoxAB/prometheus-net-discovery) - network based prometheus target discovery
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares is an open-source personal cloud OS you operate in plain language, built to run AI agents and LLMs on hardware you own.
+- [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [AlexxIT/pnproxy](https://github.com/AlexxIT/pnproxy) - Plug and Proxy is a simple home proxy for managing Internet traffic
 - [kodehat/portkey](https://github.com/kodehat/portkey) - A simple web portal that can act as startup page and shows a collection of links/urls. Also supports adding custom pages. Everything with one config file.
@@ -3059,7 +3059,7 @@
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [jamesread/prometheus-gmail-exporter](https://github.com/jamesread/prometheus-gmail-exporter) - Checks gmail labels for unread messages and exposes the counts via prometheus.
-- [mrusme/cloudcash](https://github.com/mrusme/cloudcash) - Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar! (https://codeberg.org/mrus/cloudcash)
+- [mrusme/cloudcash](https://github.com/mrusme/cloudcash) - Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar! (https://tty.fail/mrus/cloudcash)
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [momaek/authy](https://github.com/momaek/authy) - TOTP Alfred Workflow, Authy Aflred Workflow, Authy command line tool
 - [bluewolfali/awesome-chatgpt-prompts-alfred](https://github.com/bluewolfali/awesome-chatgpt-prompts-alfred) - This is a plugin for the Alfred app that provides a search feature using the array of prompts from the awesome-chatgpt-prompts project.
@@ -3402,7 +3402,7 @@
 - [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
 - [syntaqx/serve](https://github.com/syntaqx/serve) - 🍽️ a static http server anywhere you need one.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages (and EML files!) on the CLI. (https://codeberg.org/mrus/
+- [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages (and EML files!) on the CLI. (https://tty.fail/mrus/read
 - [davidhiendl/drone-gitea-extensions](https://github.com/davidhiendl/drone-gitea-extensions) - 
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -5619,7 +5619,6 @@
 - [grafana-cold-storage/xk6-dashboard](https://github.com/grafana-cold-storage/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
 - [surikov/webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and m
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [deanishe/alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -6928,6 +6927,7 @@
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [dedalusj/cloudgram](https://github.com/dedalusj/cloudgram) - Generate diagrams for your cloud architecture using code
 - [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - Dgrm.net - flowchart editor. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript.
@@ -9662,7 +9662,7 @@
 - [gokulkrishh/awesome-meta-and-manifest](https://github.com/gokulkrishh/awesome-meta-and-manifest) - ⚡ Awesome collection of meta tags & manifest properties.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
-- [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
+- [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - Awesome tools to tinker with containers.
 - [lencx/awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 Awesome AI
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
@@ -10993,6 +10993,8 @@
 
 ## Python 
 
+- [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
+- [wehnsdaefflae/terminal-control-mcp](https://github.com/wehnsdaefflae/terminal-control-mcp) - 
 - [fabriziosalmi/proxmox-vm-autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) - Automatically scale virtual machines resources on Proxmox hosts
 - [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing
 - [yugandhar-maram/agrasandhany](https://github.com/yugandhar-maram/agrasandhany) - turn local notes into long-term memory for AI agents
@@ -11080,7 +11082,7 @@
 - [qtzx06/yolodex](https://github.com/qtzx06/yolodex) - agent skills for autonomous data labeling, winner at openai codex hackathon 2026
 - [jina-ai/cli](https://github.com/jina-ai/cli) - All Jina AI APIs as Unix CLI commands. Search, read, embed, rerank - with pipes.
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - 3x decode TPS increase On Qwen 3.6 27B @ temp 0.6 | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
-- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Apple MLX + Python, no cloud, no patient data leaving your network.
+- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network.
 - [openyak/openyak](https://github.com/openyak/openyak) - Open-source local-first AI agent for desktop work. No account, no telemetry: use local models with Ollama/Rapid-MLX or bring your own provider key.
 - [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replace
 - [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 tok/s Qwen 3.5 122B, Llama 3.3 70B, Gemma 4 31B. Private, offline, airgap-ready. Built for NDA / lega
@@ -11925,7 +11927,7 @@
 - [Aculeasis/openrouter-proxy](https://github.com/Aculeasis/openrouter-proxy) - 
 - [danilofalcao/jarvis](https://github.com/danilofalcao/jarvis) - J.A.R.V.I.S. is an intelligent coding assistant that leverages multiple state-of-the-art language models to help you with code generation, modifications, and technical discussions.
 - [rasmurtech/DeepSeekDeepResearch](https://github.com/rasmurtech/DeepSeekDeepResearch) - DeepSeekDeepResearch is a Python-based AI assistant that leverages a local LLM (DeepSeek-R1:7b via Ollama), the Google Custom Search API, and asynchronous web scraping to automatically gather and refi
-- [Cam10001110101/mcp-server-ollama-deep-researcher](https://github.com/Cam10001110101/mcp-server-ollama-deep-researcher) - 
+- [Cam10001110101/mcp-server-ollama-deep-researcher](https://github.com/Cam10001110101/mcp-server-ollama-deep-researcher) - ⛔ ARCHIVED — migrated to mcpcentral-io/mcpcentral apps/deep-researcher (ADR-043, 2026-07-23)
 - [Mara-Li/OWUI-Archivist](https://github.com/Mara-Li/OWUI-Archivist) - 
 - [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher) - II-Researcher: a new open-source framework designed to aid building search / research agents
 - [plastic-plant/florence-2](https://github.com/plastic-plant/florence-2) - Let's play with Florence-2 vision model.
@@ -13199,7 +13201,7 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
-- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable python and c++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
+- [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: Pluggable Python and C++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes
 - [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
 - [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -16638,7 +16640,7 @@
 - [peters/horizon](https://github.com/peters/horizon) - GPU-accelerated terminal board that puts all your sessions on an infinite canvas
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-session tool for claude code, cursor, codex, gemini
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [angristan/fast-resume](https://github.com/angristan/fast-resume) - Find that one coding agent session you want to get back to!
 - [x-hannibal/webshift](https://github.com/x-hannibal/webshift) - Shift noisy web pages into clean, context-ready text for LLMs — Rust library & MCP server
@@ -19576,6 +19578,7 @@
 
 ## Swift 
 
+- [dcolinmorgan/herdr-remote](https://github.com/dcolinmorgan/herdr-remote) - Monitor and drive your herdr agents from menu bar, phone, or Telegram. Zero config locally. Free tunnel for remote. No Tailscale needed.
 - [zdx52/HindsightManager](https://github.com/zdx52/HindsightManager) - Native macOS app for installing, upgrading, and monitoring the Hindsight memory service
 - [scriptingosx/utiluti](https://github.com/scriptingosx/utiluti) - A macOS command-line tool to work with default apps
 - [aduermael/wb](https://github.com/aduermael/wb) - macOS 26+ browser CLI for agents: persistent sessions, compact JSON, screenshots, clicks/forms, JS eval, and live preview in under 2 MB.
@@ -19955,6 +19958,8 @@
 
 ## TypeScript 
 
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [madarco/agentbox](https://github.com/madarco/agentbox) - Run multiple agents in parallel sandboxed VMs, with a single command, on your PC or in the cloud
 - [AltanS/collie](https://github.com/AltanS/collie) - PWA to manage 🐑 herdr on the go. Tailnet accessible, push notifications, quick actions and more.
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
@@ -19967,7 +19972,7 @@
 - [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
 - [jakemor/kanna](https://github.com/jakemor/kanna) - A beautiful web-based UI for Claude Code & Codex
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
-- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
 - [atoolz/kitty-vscode-toolkit](https://github.com/atoolz/kitty-vscode-toolkit) - Complete Kitty terminal toolkit for VS Code: syntax highlighting, IntelliSense, validation, and documentation for kitty.conf configuration
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [plastic-labs/opencode-honcho](https://github.com/plastic-labs/opencode-honcho) - 
@@ -20199,7 +20204,7 @@
 - [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) - MCP server wrapper for OpenAI Codex CLI that enables Claude Code to leverage Codex's AI capabilities directly.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [saharmor/sidekick-dev-web](https://github.com/saharmor/sidekick-dev-web) - Automatically generate high-quality markdown context files for AI coding agents like Claude, Cursor, and Gemini, Powered By DeepWiki
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - AI coding with static context
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding with static context
 - [to-na/claude-code-crew](https://github.com/to-na/claude-code-crew) - A browser-based interface for managing multiple Claude Code sessions across Git worktrees.
 - [mcpauth/mcpauth](https://github.com/mcpauth/mcpauth) - Authentication for MCP Servers
 - [kaijutale/maestro](https://github.com/kaijutale/maestro) - A CLI tool that conducts Git worktrees like an orchestra and accelerates parallel development with Claude Code.
