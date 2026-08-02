@@ -2184,7 +2184,7 @@
 ## Dart 
 
 - [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
-- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no tele
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents.
 - [AOSSIE-Org/Resonate](https://github.com/AOSSIE-Org/Resonate) - Clubhouse, but Open Source. A social voice platform.
 - [canopas/cloud-gallery](https://github.com/canopas/cloud-gallery) - Cloud Gallery — An open-source Flutter project to easily manage, organize, and back up your photos and videos across local storage, Google Drive, and Dropbox, all in one place.
 - [aswinmurali-io/osumffmpeg](https://github.com/aswinmurali-io/osumffmpeg) - 𝗢𝘀𝘂𝗺 𝗙𝗙𝗠𝗣𝗘𝗚 is a 📹 media utility tool 🛠️ that gives the normal users the power of FFMPEG 💪 to convert formats⚙️ • loop video 🔁 • mute audio 🔇 and much more in a beautiful UI
@@ -3047,7 +3047,7 @@
 - [juicedata/docker-volume-juicefs](https://github.com/juicedata/docker-volume-juicefs) - Docker volume plugin for juicefs
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [icholy/semgrepx](https://github.com/icholy/semgrepx) - xargs for semgrep
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lanrat/certgraph](https://github.com/lanrat/certgraph) - An open source intelligence tool to crawl the graph of certificate Alternate Names
 - [TimeSurgeLabs/promptproxy](https://github.com/TimeSurgeLabs/promptproxy) - Call many AIs from a single API.
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
@@ -9879,7 +9879,6 @@
 - [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 - [haproxy/wiki](https://github.com/haproxy/wiki) - HAProxy's Wiki
 - [SDR4space/FreeVersion](https://github.com/SDR4space/FreeVersion) - A featured-limited version the SDR4.space embedded software, originally designed for embedded GPU systems.
-- [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
 - [The-Wineskin-Project/WineskinServer](https://github.com/The-Wineskin-Project/WineskinServer) - Wineskin
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) - :satellite: A curated list of awesome Real Time Communications resources
@@ -11123,7 +11122,7 @@
 - [Classic298/prune-open-webui](https://github.com/Classic298/prune-open-webui) - 🧹 An automizable or interactive pruning tool for Open WebUI: clean up orphaned files, old chats, inactive users, stale vector data and more!
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 - [yetanotherchris/openwebui-importer](https://github.com/yetanotherchris/openwebui-importer) - Import Grok, Claude, ChatGPT chats into Open-WebUI
-- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to a 40-printer farm.
+- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire printe farm.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [GrocerCheck/GrocerCheck](https://github.com/GrocerCheck/GrocerCheck) - a website to help people reduce contact at grocery stores and essential services
 - [UoA-eResearch/populartimes](https://github.com/UoA-eResearch/populartimes) - Python + selenium scraper to extract google maps places and popular times. Leaflet/plotly JS to display it. For I-Ting Chuang
@@ -11590,7 +11589,7 @@
 - [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for Claude Code agents through simple hook event tracking.
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [heyajohnny/cryptoinfo](https://github.com/heyajohnny/cryptoinfo) - Provides Home Assistant sensors for all cryptocurrencies supported by CoinGecko
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [Team-Neptune/DeepSea](https://github.com/Team-Neptune/DeepSea) - The new All-in-One CFW package for the Nintendo Switch.
@@ -13480,7 +13479,7 @@
 - [ematvey/hierarchical-attention-networks](https://github.com/ematvey/hierarchical-attention-networks) - Document classification with Hierarchical Attention Networks in TensorFlow. WARNING: project is currently unmaintained, issues will probably not be addressed.
 - [castorini/hedwig](https://github.com/castorini/hedwig) - PyTorch deep learning models for document classification
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful LLM and SLM library with awesome model zoo.
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [antiboredom/scrapism-spring-2022](https://github.com/antiboredom/scrapism-spring-2022) - 
 - [genlayerlabs/yeagerai-agent](https://github.com/genlayerlabs/yeagerai-agent) - 
@@ -16438,6 +16437,7 @@
 - [gromgit/homebrew-fuse](https://github.com/gromgit/homebrew-fuse) - gromgit's FUSE tap
 - [jeremywrnr/booker](https://github.com/jeremywrnr/booker) - :bookmark: tab-complete web bookmarks
 - [compumike/hairpin-proxy](https://github.com/compumike/hairpin-proxy) - PROXY protocol support for internal-to-LoadBalancer traffic for Kubernetes Ingress users. If you've had problems with ingress-nginx, cert-manager, LetsEncrypt ACME HTTP01 self-check failures, and the 
+- [yohasebe/fzf-alfred-workflow](https://github.com/yohasebe/fzf-alfred-workflow) - An Alfred workflow fo fuzzy find files/directories using fzf and fd.
 - [Gcenx/homebrew-wine](https://github.com/Gcenx/homebrew-wine) - 
 - [jmopr/job-hunter](https://github.com/jmopr/job-hunter) - Job scraper and applier for indeed.com
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
@@ -20422,7 +20422,7 @@
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - NativeMind: Your fully private, open-source, on-device AI assistant
-- [libre-webui/libre-webui](https://github.com/libre-webui/libre-webui) - Privacy-first web interface for local AI models. Clean, minimal UI for Ollama with extensible plugin system. No data leaves your device.
+- [libre-webui/libre-webui](https://github.com/libre-webui/libre-webui) - A local-first workspace for chat, private knowledge, artifacts, and isolated model-driven work. Self-hosted. Provider-flexible. Apache 2.0.
 - [metatool-ai/mcp-server-metamcp](https://github.com/metatool-ai/mcp-server-metamcp) - MCP Server MetaMCP manages all your other MCPs in one MCP.
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 - [steipete/mcp-agentify](https://github.com/steipete/mcp-agentify) - MCP orchestrator that converts MPC servers to agents.
@@ -20898,7 +20898,7 @@
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Build custom AI workflows with an easy drag-and-drop interface. Connect models like GPT-4o,  Stable Diffusion, FLUX, and more— with your own API keys.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - AI tutor powered by Theory-of-Mind reasoning
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) - The open-source workspace for building AI agents and automations for teams.
 - [Dolu89/nostr-proxy](https://github.com/Dolu89/nostr-proxy) - Nostr proxy: save you WS connections
 - [daredoes/linked-lovelace-ui](https://github.com/daredoes/linked-lovelace-ui) - Create cards that can be re-used, updated, and handle templated data.
 - [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar, task manager and daily planner plugin for logseq
